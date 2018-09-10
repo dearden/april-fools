@@ -1,0 +1,968 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     MRSA                     L2 
+0000002 020  NN2     bacteria                 L2c 
+0000002 030  RT      before                   N4 
+0000002 031  ,       ,                        
+0000002 040  VVD     left                     M1 M2 A1.1.1 A1.9 A9- T2- 
+0000002 041  ,       ,                        
+0000002 050  CC      and                      Z5 
+0000002 060  CS      after                    Z5 
+0000002 061  ,       ,                        
+0000002 070  RR      right                    Z4 A5.3+ A4.2+ M6 A13.3 A13.2 
+0000002 071  ,       ,                        
+0000002 080  NN1     incubation               O4.6+ 
+0000002 090  IW      with                     Z5 
+0000002 100  AT1     a                        Z5 
+0000002 110  JJ      new                      T3- 
+0000002 120  JJ      biodegradable            O4.1 
+0000002 130  NN1     polymer                  O1 
+0000002 140  NN1     nanoparticle             Z99 
+0000002 141  .       .                        
+0000002 142  -----   -----                    
+0000002 150  NN1     Cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000002 160  NN1     destruction              A1.1.2 
+0000002 170  VBZ     is                       A3+ Z5 
+0000002 180  RR      clearly                  A7+ A11.2+ A12+ 
+0000002 190  JJ      visible                  X3.4 A11.2+ 
+0000002 191  .       .                        
+0000002 192  -----   -----                    
+0000002 200  AT      The                      Z5 
+0000002 210  NN1     bottom                   N4 M6 B1 A5.1--- 
+0000002 220  MC      two                      N1 T3 T1.2 
+0000002 230  NN2     images                   O4.1 A8 X2.1 C1 
+0000002 240  VBR     are                      Z5 A3+ 
+0000002 250  VVN@    magnied                  Z99 
+0000002 260  II31    with                     A2.2[i1.3.1 
+0000002 270  II32    respect                  A2.2[i1.3.2 
+0000002 280  II33    to                       A2.2[i1.3.3 Z5 
+0000002 290  AT      the                      Z5 
+0000002 300  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
+0000002 310  NN2     images                   O4.1 A8 X2.1 C1 
+0000002 311  .       .                        
+0000003 001  -----   -----                    
+0000004 010  NN1     Transmission             Q4.3 Q1.3 A2.1+ 
+0000004 020  NN1     electron                 Y1 
+0000004 030  NN2     micrographs              Z99 
+0000004 040  VV0     show                     A10+ S1.1.1 
+0000004 050  PPH1    it                       Z8 
+0000004 060  VVZ     works                    I3.1 A1.1.1 X9.2+ A2.2 
+0000004 061  :       :                        
+0000004 070  II      As                       Z5 
+0000004 080  AT      the                      Z5 
+0000004 090  NN2     images                   O4.1 A8 X2.1 C1 
+0000004 100  VV0     show                     A10+ S1.1.1 
+0000004 101  ,       ,                        
+0000004 110  AT      the                      Z5 
+0000004 120  NN1     cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000004 130  NN2     walls                    H2 O2 N5+ S8- 
+0000004 140  VH0     have                     Z5 A9+ A2.2 S4 
+0000004 150  VBN     been                     Z5 A3+ 
+0000004 160  VVN@    ruptured                 A1.1.2 S1.1.2- 
+0000004 170  CC      and                      Z4[i2.2.1 Z5 
+0000004 180  PN1     everything               Z4[i2.2.2 Z8/N5.1+ 
+0000004 190  RL      inside                   M6 G2.1@ 
+0000004 200  VBZ     is                       Z5 A3+ 
+0000004 210  VVN     gone                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000004 211  .       .                        
+0000004 212  -----   -----                    
+0000004 220  AT      The                      Z5 
+0000004 230  JJT     best                     A5.1+++ G2.2+++ O4.2+++ 
+0000004 240  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000004 250  VBZ     is                       A3+ Z5 
+0000004 260  CST     that                     Z5 Z8 
+0000004 270  NN2     bacteria                 L2c 
+0000004 280  VM      can                      A7+ 
+0000004 281  XX      not                      Z6 
+0000004 290  VVI     evolve                   A2.1+ 
+0000004 300  NN1     resistance               S8- S1.2.5+ 
+0000004 310  CS      because                  Z5/A2.2 
+0000004 320  PPH1    it                       Z8 
+0000004 321  VBZ     's                       A3+ Z5 
+0000004 330  AT1     a                        Z5 
+0000004 340  JJ      physical                 B1 A1.6 E3- Y1 
+0000004 350  NN1     attack                   E3- G3 B2- A1.1.2 Q2.2 
+0000004 351  ,       ,                        
+0000004 360  XX      not                      Z6 
+0000004 370  AT1     a                        Z5 
+0000004 380  JJ      chemical                 O1 
+0000004 390  PN1     one                      Z8 
+0000004 391  .       .                        
+0000006 001  NULL    <quote>                  
+0000006 002  -----   -----                    
+0000006 003  "       "                        
+0000006 010  DD2     These                    Z8 Z5 
+0000006 020  VBR     are                      Z5 A3+ 
+0000006 030  VVN     designed                 C1 X7+ 
+0000006 040  TO      to                       Z5 
+0000006 050  VVI     slice                    A1.1.1 
+0000006 060  AT      the                      Z5 
+0000006 070  NN1     cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000006 080  NN1     membrane                 B1 O2 
+0000006 081  ,       ,                        
+0000006 090  TO      to                       Z5 
+0000006 100  VVI     rip                      A1.1.2 M2 E3- G2.2- 
+0000006 110  AT      the                      Z5 
+0000006 120  NN1     membrane                 B1 O2 
+0000006 130  RP      up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
+0000006 140  CC      and                      Z5 
+0000006 150  VVI     eliminate                A9- E3/L1- 
+0000006 160  AT      the                      Z5 
+0000006 170  NN2     contents                 A1.8+ Q2.1 
+0000006 171  ,       ,                        
+0000006 172  "       "                        
+0000006 173  NULL    </quote>                 
+0000006 174  -----   -----                    
+0000006 180  NP1@    Hedrick                  Z99 
+0000006 190  VVD     said                     Q2.1 
+0000006 191  .       .                        
+0000006 192  NULL    <quote>                  
+0000006 193  -----   -----                    
+0000006 194  "       "                        
+0000006 200  PPH1    It                       Z8 
+0000006 201  VBZ     's                       A3+ Z5 
+0000006 210  RR21%   kind                     Z4[i3.2.1 A13.4[i3.2.1 
+0000006 220  RR22    of                       Z4[i3.2.2 A13.4[i3.2.2 
+0000006 230  II      like                     Z5 
+0000006 240  AT      the                      Z5 
+0000006 250  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000006 260  AT1     a                        Z5 
+0000006 270  NN1     virus                    L2 Y2 
+0000006 280  VM      would                    A7+ 
+0000006 290  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000006 300  AT1     a                        Z5 
+0000006 310  NN1     virus                    L2 Y2 
+0000006 320  NN2     drills                   O2 G3 A1.1.1 B5 
+0000006 330  AT1     a                        Z5 
+0000006 340  NN1     pore                     B1 O2 
+0000006 341  ,       ,                        
+0000006 350  VVZ     empties                  N5--- M1/M4 
+0000006 360  AT      the                      Z5 
+0000006 370  NN2     contents                 A1.8+ Q2.1 
+0000006 380  CC      and                      Z5 
+0000006 390  NN2     hijacks                  G2.1- A9+/G2.2- 
+0000006 400  PPH1    it                       Z8 
+0000006 401  .       .                        
+0000006 402  -----   -----                    
+0000006 410  DD1     This                     Z8 M6 Z5 
+0000006 420  VBZ     is                       Z5 A3+ 
+0000006 430  VVG     drilling                 A1.1.1 G3 
+0000006 440  II      in                       Z5 
+0000006 450  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000006 460  NN2     holes                    O2 H4/L2 M7/O4.2- X2.1/A5.1- N5- K5.2 
+0000006 461  ,       ,                        
+0000006 470  CC      and                      Z5 
+0000006 480  DB      all                      N5.1+ 
+0000006 490  AT      the                      Z5 
+0000006 500  NN2     contents                 A1.8+ Q2.1 
+0000006 510  VV0     leak                     M1[i4.2.1 A10+[i4.2.1 A1.7- A1.1.2 A10+/Q2.2 
+0000006 520  RP      out                      M1[i4.2.2 A10+[i4.2.2 M6 
+0000006 521  .       .                        
+0000006 522  "       "                        
+0000006 523  NULL    </quote>                 
+0000006 524  -----   -----                    
+0000008 010  NN2     Antibiotics              B3 
+0000008 020  VV0     kill                     L1- A12- A1.5.1 E4.1-/A2.2 
+0000008 030  NN2     microorganisms           Z99 
+0000008 040  II      in                       Z5 
+0000008 050  JJ      various                  A6.3+ 
+0000008 060  NN2     ways                     X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000008 061  ,       ,                        
+0000008 070  II      including                A1.8+ 
+0000008 080  VVG     interfering              S1.1.3+++ 
+0000008 090  IW      with                     Z5 
+0000008 100  APPGE   their                    Z8 
+0000008 110  NN1     DNA                      B1 
+0000008 120  CC      or                       Z5 
+0000008 130  VVG     interacting              S1.1.2+ A1.1.1 
+0000008 140  IW      with                     Z5 
+0000008 150  APPGE   their                    Z8 
+0000008 160  NN1     ability                  X9.1+ 
+0000008 170  TO      to                       Z5 
+0000008 180  VVI     rebuild                  H1/N6+ A1.1.1/N6+ 
+0000008 190  APPGE   their                    Z8 
+0000008 200  NN1     cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000008 210  NN2     walls                    H2 O2 N5+ S8- 
+0000008 211  ,       ,                        
+0000008 220  VVZ     explains                 Q2.2/A7+ A2.2 
+0000008 230  NP1     James                    Z1mf[i5.2.1 Z3c[i5.2.1 Z1m 
+0000008 240  NP1     Hedrick                  Z1mf[i5.2.2 Z3c[i5.2.2 
+0000008 241  ,       ,                        
+0000008 250  VVD     advanced                 M1 A5.1+/A2.1+ I1.1 T4+ S8+ X2.1 
+0000008 260  JJ      organic                  L1 W5 
+0000008 270  NN2     materials                O1 B5 O2 
+0000008 280  NN1     scientist                Y1/S2mf 
+0000008 290  CC      and                      Z5 
+0000008 300  NN1     master                   S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m 
+0000008 310  NN1     inventor                 Y1/S2mf 
+0000008 320  II      at                       Z5 
+0000008 330  NP1     IBM                      Z1mf[i6.2.1 Z3c[i6.2.1 Z3c 
+0000008 340  NP1     Almaden                  Z1mf[i6.2.2 Z3c[i6.2.2 
+0000008 350  NN1     Research                 X2.4 
+0000008 360  NN1     Center                   M6 H1c M7c G1.2c K5.1mfn 
+0000008 370  II      in                       Z5 
+0000008 380  NP1     San                      Z2[i9.2.1 Z3c[i9.2.1 Z2[i8.2.1 Z2/S2mf Z1mf[i7.2.1 Z3c[i7.2.1 
+0000008 390  NP1     Jose                     Z2[i9.2.2 Z3c[i9.2.2 Z2[i8.2.2 Z1mf[i7.2.2 Z3c[i7.2.2 
+0000008 391  ,       ,                        
+0000008 400  NP1     Calif                    Z2 
+0000008 401  .       .                        
+0000008 402  -----   -----                    
+0000008 410  CCB     But                      Z5 
+0000008 420  DD      some                     N5 Z5 
+0000008 430  IO      of                       Z5 
+0000008 440  AT      the                      Z5 
+0000008 450  NN2     bugs                     B2- L2mfn X2.4/A10- Y2 E2- X5.2+ 
+0000008 460  VV0     survive                  A3+/T2++ L1+ 
+0000008 470  AT      the                      Z5 
+0000008 480  NN1     onslaught                N5+ E3- 
+0000008 481  ,       ,                        
+0000008 490  VVG     leading                  A2.2[i10.2.1 M6[i10.2.1 S7.1+ A2.2 M2 A1.1.1 
+0000008 500  II      to                       A2.2[i10.2.2 M6[i10.2.2 Z5 
+0000008 510  JJ      new                      T3- 
+0000008 520  NN2     generations              T1.3 S5+c 
+0000008 530  IO      of                       Z5 
+0000008 540  NN2     bacteria                 L2c 
+0000008 550  CST     that                     Z8 Z5 
+0000008 560  VM      wo                       T1.1.3 
+0000008 561  XX      n't                      Z6 
+0000008 570  VVI     succumb                  S1.2.5- 
+0000008 580  II      to                       Z5 
+0000008 590  AT      the                      Z5 
+0000008 600  NN2     drugs                    B3 F3 
+0000008 601  .       .                        
+0000009 001  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  NN2     nanoparticles            Z99 
+0000010 021  ,       ,                        
+0000010 030  DDQ     which                    Z8 Z5 
+0000010 040  NP1     IBM                      Z3c 
+0000010 050  VVZ     says                     Q2.1 
+0000010 060  VBR     are                      A3+ Z5 
+0000010 070  RR      relatively               A13/A6 
+0000010 080  JJ      inexpensive              I1.3- 
+0000010 081  ,       ,                        
+0000010 090  VBDR    were                     A3+ Z5 
+0000010 100  JJ      effective                X9.2+ 
+0000010 110  II      against                  Z5 
+0000010 120  NN2     bugs                     B2- L2mfn X2.4/A10- Y2 E2- X5.2+ 
+0000010 130  CST     that                     Z8 Z5 
+0000010 140  VH0     have                     Z5 A9+ A2.2 S4 
+0000010 150  VBN     been                     Z5 A3+ 
+0000010 160  VVG     evolving                 A2.1+ 
+0000010 170  TO      to                       Z5 
+0000010 180  VVI     resist                   S8- 
+0000010 190  NN2     antibiotics              B3 
+0000010 191  ,       ,                        
+0000010 200  II      including                A1.8+ 
+0000010 210  JJ      methicillin-resistant    Z99 
+0000010 220  NN1     Staphylococcus           Z99 
+0000010 230  NN      aureus                   Z99 
+0000010 231  (       (                        
+0000010 240  NP1     MRSA                     L2 
+0000010 241  )       )                        
+0000010 242  .       .                        
+0000010 243  -----   -----                    
+0000010 250  JJ      Preliminary              N4 
+0000010 260  NN2     results                  A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
+0000010 270  VV0     suggest                  Q2.2 Q1.1 
+0000010 280  AT      the                      Z5 
+0000010 290  NN2     particles                O2 O1 
+0000010 300  VM      could                    A7+ 
+0000010 310  RR      also                     N5++ 
+0000010 320  VBI     be                       A3+ Z5 
+0000010 330  JJ      effective                X9.2+ 
+0000010 340  II      against                  Z5 
+0000010 350  NN1     yeast                    L3 F1 
+0000010 351  ,       ,                        
+0000010 360  NN1     fungus                   L3 
+0000010 370  CC      and                      Z5 
+0000010 380  JJ      small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
+0000010 390  NN2     bacteria                 L2c 
+0000010 400  II      like                     Z5 
+0000010 410  NP1     E.                       Z5 F3 
+0000010 420  NN2     coli                     Z99 
+0000010 421  ,       ,                        
+0000010 430  NP1     IBM                      Z3c 
+0000010 440  VVZ     says                     Q2.1 
+0000010 441  .       .                        
+0000010 442  -----   -----                    
+0000010 450  NN1     Research                 X2.4 
+0000010 460  II      on                       Z5 
+0000010 470  AT      the                      Z5 
+0000010 480  JJ      new                      T3- 
+0000010 490  NN2     particles                O2 O1 
+0000010 500  VBZ     is                       Z5 A3+ 
+0000010 510  VVN     reported                 Q2.2 S7.1- 
+0000010 520  II      in                       Z5 
+0000010 530  DD1     this                     M6 Z5 Z8 
+0000010 540  NNT1    week                     T1.3 
+0000010 541  GE      's                       Z5 
+0000010 550  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000010 560  IO      of                       Z5 
+0000010 570  AT      the                      Z5 
+0000010 580  NN1     journal                  Q4.2 Q1.2 
+0000010 590  NN1     Nature                   W5 A4.1 S1.2 A6.2+ 
+0000010 600  NN1     Chemistry                Y1 S3.1 
+0000010 601  .       .                        
+0000011 001  -----   -----                    
+0000012 010  AT1     A                        Z5 
+0000012 020  JJ      new                      T3- 
+0000012 030  NN1     breed                    A4.1/L2 
+0000012 040  IO      of                       Z5 
+0000012 050  JJ      biodegradable            O4.1 
+0000012 060  NN2     nanoparticles            Z99 
+0000012 070  VM      can                      A7+ 
+0000012 080  VVI     glom                     Z99 
+0000012 090  RP      on                       M6 A1.1.1 
+0000012 100  II      to                       Z5 
+0000012 110  JJ      drug-resistant           Z99 
+0000012 120  NN2     bacteria                 L2c 
+0000012 121  ,       ,                        
+0000012 130  VVG     breaching                A1.9 A1.1.1 
+0000012 140  APPGE   their                    Z8 
+0000012 150  NN1     cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000012 160  NN2     walls                    H2 O2 N5+ S8- 
+0000012 170  CC      and                      Z5 
+0000012 180  VVG     leaking                  M1[i11.2.1 A10+[i11.2.1 A1.7- A1.1.2 A10+/Q2.2 
+0000012 190  RP      out                      M1[i11.2.2 A10+[i11.2.2 M6 
+0000012 200  APPGE   their                    Z8 
+0000012 210  NN2     contents                 A1.8+ Q2.1 
+0000012 211  ,       ,                        
+0000012 220  RR      selectively              X7+ 
+0000012 230  VVG     killing                  L1- A12- A1.5.1 E4.1-/A2.2 
+0000012 240  PPHO2   them                     Z8mfn 
+0000012 241  .       .                        
+0000012 242  -----   -----                    
+0000012 250  AT      The                      Z5 
+0000012 260  NN1     polymer                  O1 
+0000012 270  NN2     particles                O2 O1 
+0000012 280  VM      could                    A7+ 
+0000012 290  RT      someday                  T1.1.3 
+0000012 300  VBI     be                       Z5 A3+ 
+0000012 310  VVN     used                     A1.5.1 S7.1+ 
+0000012 320  II      in                       Z5 
+0000012 330  PN1     anything                 Z8 
+0000012 340  II      from                     Z5 
+0000012 350  JJ      injectable               B3 A9- Y1 
+0000012 360  NN2     treatments               B3 S1.1.1 A1.1.1 X4.2 
+0000012 370  IF      for                      Z5 
+0000012 380  JJ      drug-resistant           Z99 
+0000012 390  NN2     bacteria                 L2c 
+0000012 391  ,       ,                        
+0000012 400  II      to                       Z5 
+0000012 410  JJ      new                      T3- 
+0000012 420  JJ      antibacterial            L2-/B3 B4 
+0000012 430  NN2     soaps                    B4 Q4.3 
+0000012 440  CC      and                      Z5 
+0000012 450  NN2     deodorants               B4 
+0000012 451  ,       ,                        
+0000012 460  II21    according                Z5[i12.2.1 Z5 
+0000012 470  II22    to                       Z5[i12.2.2 Z5 
+0000012 480  NN2     inventors                Y1/S2mf 
+0000012 490  II      at                       Z5 
+0000012 500  NP1     IBM                      Z3c 
+0000012 501  .       .                        
+0000012 502  -----   -----                    
+0000012 510  CS      After                    Z5 
+0000012 520  APPGE   their                    Z8 
+0000012 530  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
+0000012 540  VBZ     is                       Z5 A3+ 
+0000012 550  VDN     done                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000012 551  ,       ,                        
+0000012 560  AT      the                      Z5 
+0000012 570  NN2     particles                O2 O1 
+0000012 580  VV0     break                    A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000012 590  RL      apart                    N3.3+ A1.8- S1.1.3- 
+0000012 591  ,       ,                        
+0000012 600  VVG     flushing                 E1/B1 A1.1.1 
+0000012 610  RL      away                     M6 A1.1.1% 
+0000012 620  IW      with                     Z5 
+0000012 630  AT      the                      Z5 
+0000012 640  NN2     invaders                 G3/S2mf 
+0000012 650  PPHS2   they                     Z8mfn 
+0000012 660  VVD     destroyed                A1.1.2 
+0000012 661  .       .                        
+0000013 001  -----   -----                    
+0000014 010  II      On                       Z5 
+0000014 020  AT      the                      Z5 
+0000014 030  JJ      left                     M6 G1.2 N5.2+ 
+0000014 031  ,       ,                        
+0000014 040  AT1     a                        Z5 
+0000014 050  JJ      healthy                  B2+ X9.2+ A5.1+ 
+0000014 060  NP1     Enterococcus             Z99 
+0000014 070  NN1     faecalis                 Z99 
+0000014 080  NN2     bacteria                 L2c 
+0000014 090  NN1     cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000014 091  ;       ;                        
+0000014 100  II      on                       Z5 
+0000014 110  AT      the                      Z5 
+0000014 120  NN1     right                    S7.4+ G2.2+ M6 G1.2 
+0000014 121  ,       ,                        
+0000014 130  AT1     a                        Z5 
+0000014 140  JJ@     destroyed                A1.1.2 
+0000014 150  NN1     cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000014 151  ,       ,                        
+0000014 160  IW      with                     Z5 
+0000014 170  AT1     a                        Z5 
+0000014 180  JJ@     ruptured                 A1.1.2 S1.1.2- 
+0000014 190  NN1     wall                     H2 O2 N5+ S8- 
+0000014 200  CC      and                      Z5 
+0000014 210  JJ      leaky                    Z1mf 
+0000014 220  NN2     contents                 A1.8+ Q2.1 
+0000014 230  RR      clearly                  A7+ A11.2+ A12+ 
+0000014 240  JJ      visible                  X3.4 A11.2+ 
+0000014 241  .       .                        
+0000014 242  -----   -----                    
+0000014 250  NN1     Enterobacteria           Z99 
+0000014 260  II      like                     Z5 
+0000014 270  DD1     this                     Z8 M6 Z5 
+0000014 280  PN1     one                      Z8 
+0000014 290  CC      and                      Z5 
+0000014 300  JJ@     like                     Z5 A6.1+ Z4 E2+ 
+0000014 310  NN1     salmonella               B2 
+0000014 320  CC      and                      Z5 
+0000014 330  ZZ1     e.                       Z5 F3 
+0000014 340  NN2     coli                     Z99 
+0000014 350  VBR     are                      Z5 A3+ 
+0000014 360  VVN     found                    A10+ X2.1 X6+.1 
+0000014 370  II      in                       Z5 
+0000014 380  AT      the                      Z5 
+0000014 390  JJ      intestinal               B1 
+0000014 400  NN1     tract                    Q1.2 N3.6 B1 
+0000014 401  .       .                        
+0000015 001  -----   -----                    
+0000016 010  DD2     These                    Z5 Z8 
+0000016 020  NN2     particles                O2 O1 
+0000016 030  VBR     are                      A3+ Z5 
+0000016 040  JJ      special                  A4.2+ A6.2- 
+0000016 050  CS      because                  Z5/A2.2 
+0000016 060  PPHS2   they                     Z8mfn 
+0000016 070  VV0     self-assemble            Z99 
+0000016 080  II      in                       Z5 
+0000016 090  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000016 100  CC      and                      Z5 
+0000016 110  VBR     are                      A3+ Z5 
+0000016 120  JJ      biodegradable            O4.1 
+0000016 121  ,       ,                        
+0000016 130  JJ      unlike                   A6.1- 
+0000016 140  JJ      other                    A6.1- 
+0000016 150  NN1     nanoparticle             Z99 
+0000016 160  NN2     treatments               B3 S1.1.1 A1.1.1 X4.2 
+0000016 161  .       .                        
+0000016 162  -----   -----                    
+0000016 170  PPHS2   They                     Z8mfn 
+0000016 171  VBR     're                      Z5 A3+ 
+0000016 180  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000016 190  IO      of                       Z5 
+0000016 200  JJ      amphiphilic              Z99 
+0000016 210  JJ      polycarbonate            Z99 
+0000016 220  NN1     material                 O1 B5 O2 X2.2 S1.2 
+0000016 221  ,       ,                        
+0000016 230  VVG     meaning                  Q1.1 X7+ 
+0000016 240  DD      some                     N5 Z5 
+0000016 250  IO      of                       Z5 
+0000016 260  AT      the                      Z5 
+0000016 270  NN2     particles                O2 O1 
+0000016 280  VBR     are                      A3+ Z5 
+0000016 290  JJ      water-loving             Z99 
+0000016 300  CC      and                      Z5 
+0000016 310  DD      some                     N5 Z5 
+0000016 320  VBR     are                      A3+ Z5 
+0000016 330  JJ      water-phobic             Z99 
+0000016 331  .       .                        
+0000016 332  -----   -----                    
+0000016 340  CS      When                     Z5 
+0000016 350  VVN     exposed                  A10+ A15- G2.2-/S3.2 
+0000016 360  II      to                       Z5 
+0000016 370  NN2     fluids                   O1.2 
+0000016 380  II      like                     Z5 
+0000016 390  NN1     serum                    B1 B3 
+0000016 400  CC      or                       Z5 
+0000016 410  NN1     blood                    B1 
+0000016 420  AT      the                      Z5 
+0000016 430  NN1     polycarbonate            Z99 
+0000016 440  VVZ     self-assembles           Z99 
+0000016 450  II      into                     Z5 
+0000016 460  NN2     clumps                   N5+ 
+0000016 470  RG      about                    A13.4 
+0000016 480  MC      200                      N1 T1.2 T3 T1.3 N3.2 
+0000016 490  NN2     nanometers               Z99 
+0000016 500  II      in                       Z5 
+0000016 510  NN1     size                     N3.2 N5 N3.1 O4.1 
+0000016 511  .       .                        
+0000016 512  -----   -----                    
+0000016 520  DD1     Another                  A6.1- N5++ 
+0000016 530  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000016 540  IO      of                       Z5 
+0000016 550  AT      the                      Z5 
+0000016 560  NN1     clump                    N5+ 
+0000016 570  VBZ     is                       Z5 A3+ 
+0000016 580  RR      positively               A7+ A13.3 S1.2.5+ S8+ O3 
+0000016 590  VVN     charged                  I1.3 O3 G2.1 M1 G3% 
+0000016 591  ,       ,                        
+0000016 600  VVN     designed                 C1 X7+ 
+0000016 610  TO      to                       Z5 
+0000016 620  VVI     match                    A6.1+ 
+0000016 630  AT      the                      Z5 
+0000016 640  RR      negatively               Z6 S8- A5.1- 
+0000016 650  VVN     charged                  I1.3 O3 G2.1 M1 G3% 
+0000016 660  NN1     surface                  M6 O2 A10+ 
+0000016 670  IO      of                       Z5 
+0000016 680  NN2     microbes                 Y1 L2 
+0000016 681  ,       ,                        
+0000016 690  NP1     Hedrick                  Z99 
+0000016 700  VVD     said                     Q2.1 
+0000016 701  .       .                        
+0000017 001  -----   -----                    
+0000018 010  NN1     Cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000018 020  NN2     walls                    H2 O2 N5+ S8- 
+0000018 030  VBR     are                      A3+ Z5 
+0000018 040  JJ      dynamic                  X5.2+ A2.1+ 
+0000018 050  NN2     barriers                 S8- A10- O2 S1.2.1- 
+0000018 051  ,       ,                        
+0000018 060  RR      constantly               T2++ 
+0000018 070  VVG     morphing                 Z99 
+0000018 080  CC      and                      Z5 
+0000018 090  JJ      changing                 A2.1+ 
+0000018 100  CSA     as                       Z5 
+0000018 110  PPHS2   they                     Z8mfn 
+0000018 120  VV0     divide                   A6.1- A9-/N5.1 N2 
+0000018 121  .       .                        
+0000018 122  -----   -----                    
+0000018 130  CS      When                     Z5 
+0000018 140  PN1     something                Z8 
+0000018 150  VVZ     binds                    S6+ A1.7+ A2.2 A1.1.1 
+0000018 160  II      to                       Z5 
+0000018 170  APPGE   their                    Z8 
+0000018 180  NN1     surface                  M6 O2 A10+ 
+0000018 181  ,       ,                        
+0000018 190  AT      the                      Z5 
+0000018 200  NN2     walls                    H2 O2 N5+ S8- 
+0000018 201  GE      '                        Z5 
+0000018 210  NN1     synthesis                A1.8+ Y1/O1 
+0000018 220  VBZ     is                       Z5 A3+ 
+0000018 230  VVN     interrupted              Q2.2 X7- T2- 
+0000018 231  .       .                        
+0000018 232  -----   -----                    
+0000018 240  NN1     Penicillin               B3 
+0000018 241  ,       ,                        
+0000018 250  REX21   for                      Z5[i13.2.1 
+0000018 260  REX22   instance                 Z5[i13.2.2 
+0000018 261  ,       ,                        
+0000018 270  VVZ     binds                    S6+ A1.7+ A2.2 A1.1.1 
+0000018 280  II      to                       Z5 
+0000018 290  AT1     an                       Z5 
+0000018 300  NN1     enzyme                   O1 
+0000018 310  CST     that                     Z5 Z8 
+0000018 320  NN2@    helps                    S8+ 
+0000018 330  VVI     build                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000018 340  AT      the                      Z5 
+0000018 350  NN2     walls                    H2 O2 N5+ S8- 
+0000018 351  .       .                        
+0000018 352  -----   -----                    
+0000018 360  VV0     Hedrick                  Z99 
+0000018 370  CC      and                      Z5 
+0000018 380  NN2     collaborators            S1.1.3+/S2mf G3/S2mf 
+0000018 390  II      at                       Z5 
+0000018 400  AT      the                      Z5 
+0000018 410  NN1     Institute                P1/S5+c X2.4/S5+c 
+0000018 420  IO      of                       Z5 
+0000018 430  NP1     Bioengineering           Y1/B1 
+0000018 440  CC      and                      Z5 
+0000018 450  NN1     Nanotechnology           Z99 
+0000018 460  II      in                       Z5 
+0000018 470  NP1     Singapore                Z2 
+0000018 480  VV0     say                      Q2.1 Z4% 
+0000018 490  AT      the                      Z5 
+0000018 500  JJ@     charged                  I1.3 
+0000018 510  NN2     particles                O2 O1 
+0000018 520  VV0     interact                 S1.1.2+ A1.1.1 
+0000018 530  IW      with                     Z5 
+0000018 540  AT      the                      Z5 
+0000018 550  NN1     cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000018 560  NN2     walls                    H2 O2 N5+ S8- 
+0000018 570  TO      to                       Z5 
+0000018 580  VVI     destabilize              A2.1+ A1.1.2 
+0000018 590  PPHO2   them                     Z8mfn 
+0000018 591  .       .                        
+0000020 001  NULL    <quote>                  
+0000020 002  -----   -----                    
+0000020 003  "       "                        
+0000020 010  DD2     These                    Z5 Z8 
+0000020 020  NN2     particles                O2 O1 
+0000020 030  VBR     are                      A3+ Z5 
+0000020 040  JJ      cationic                 Z99 
+0000020 041  (       (                        
+0000020 050  RR      positively               A7+ A13.3 S1.2.5+ S8+ O3 
+0000020 060  VVN     charged                  I1.3 O3 G2.1 M1 G3% 
+0000020 061  )       )                        
+0000020 062  ,       ,                        
+0000020 070  CS@     so                       Z5 
+0000020 080  PPHS2   they                     Z8mfn 
+0000020 090  VBR     are                      Z5 A3+ 
+0000020 100  VVN     attracted                O4.2+ S3.2 O3 
+0000020 110  II      to                       Z5 
+0000020 120  AT      the                      Z5 
+0000020 130  JJ      microbial                L2 
+0000020 140  NN1     membrane                 B1 O2 
+0000020 150  NN1     surface                  M6 O2 A10+ 
+0000020 151  ,       ,                        
+0000020 160  CC      and                      Z5 
+0000020 170  PPH1    it                       Z8 
+0000020 180  VVZ     begins                   T2+ 
+0000020 190  TO      to                       Z5 
+0000020 200  VVI     disrupt                  S8- 
+0000020 210  DD1     that                     Z5 Z8 
+0000020 220  JJ      dynamic                  X5.2+ A2.1+ 
+0000020 230  NN1     assembly                 S5+c A9+ A1.1.1 
+0000020 240  NN1     process                  A1.1.1 X4.2 
+0000020 250  IO      of                       Z5 
+0000020 260  AT      the                      Z5 
+0000020 270  NN1     membrane                 B1 O2 
+0000020 271  ,       ,                        
+0000020 272  "       "                        
+0000020 273  NULL    </quote>                 
+0000020 274  -----   -----                    
+0000020 280  NP1@    Hedrick                  Z99 
+0000020 290  VVD     said                     Q2.1 
+0000020 291  .       .                        
+0000021 001  -----   -----                    
+0000022 010  AT      The                      Z5 
+0000022 020  NN2     authors                  Q4.1/S2mf 
+0000022 030  RR      also                     N5++ 
+0000022 040  VV0@    report                   Q2.2 S7.1- 
+0000022 050  CST     that                     Z5 Z8 
+0000022 060  AT      the                      Z5 
+0000022 070  NN2     particles                O2 O1 
+0000022 080  VM      can                      A7+ 
+0000022 090  VBI     be                       Z5 A3+ 
+0000022 100  VVN     used                     A1.5.1 S7.1+ 
+0000022 110  II      at                       Z5 
+0000022 120  RR      relatively               A13/A6 
+0000022 130  JJ      low                      N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1- 
+0000022 140  NN2     concentrations           X5.1+ N5+ I2.2% O1.2 
+0000022 141  .       .                        
+0000022 142  -----   -----                    
+0000022 150  NP1@    Hedrick                  Z99 
+0000022 160  VVD     said                     Q2.1 
+0000022 170  PPHS2   they                     Z8mfn 
+0000022 171  VBR     're                      A3+ Z5 
+0000022 180  XX      not                      Z6 
+0000022 190  JJ      sure                     A7+ Z4 
+0000022 200  DDQ     what                     Z8 Z5 
+0000022 210  VVZ     makes                    A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000022 220  AT      the                      Z5 
+0000022 230  NN2     particles                O2 O1 
+0000022 240  RG      so                       A13.3 
+0000022 250  JJ      effective                X9.2+ 
+0000022 251  ,       ,                        
+0000022 260  CCB     but                      Z5 
+0000022 270  PPH1    it                       Z8 
+0000022 271  VBZ     's                       A3+ Z5 
+0000022 280  RR      probably                 A7+ 
+0000022 290  CS      because                  Z5/A2.2 
+0000022 300  PPHS2   they                     Z8mfn 
+0000022 310  VM      can                      A7+ 
+0000022 320  DD1     each                     N5.1+ 
+0000022 330  VVI     kill                     L1- A12- A1.5.1 E4.1-/A2.2 
+0000022 340  JJ      multiple                 N5+ 
+0000022 350  NN2     cells                    B1 G2.1/H2 S9/H2 S5+c O3 
+0000022 351  ,       ,                        
+0000022 360  VVG     moving                   M1[i14.2.1 M2[i14.2.1 A2.1+[i14.2.1 M2 M1 A2.1+ E1 H4/A2.1 
+0000022 370  RP      on                       M1[i14.2.2 M2[i14.2.2 A2.1+[i14.2.2 M6 A1.1.1 
+0000022 380  II      to                       Z5 
+0000022 390  JJ      new                      T3- 
+0000022 400  NN2     targets                  X7+ G3 K5.1 
+0000022 410  II      after                    Z5 
+0000022 420  AT      the                      Z5 
+0000022 430  NN2     membranes                B1 O2 
+0000022 440  VBR     are                      Z5 A3+ 
+0000022 450  RR      so                       Z5 A13.3 
+0000022 460  VVN     disfigured               A1.1.2 
+0000022 470  CST     that                     Z5 Z8 
+0000022 480  JJ      static                   M8 A2.1 
+0000022 490  RR21    no                       T2-[i15.2.1 Z6 
+0000022 500  RR22    longer                   T2-[i15.2.2 T1.3++ 
+0000022 510  VVZ     binds                    S6+ A1.7+ A2.2 A1.1.1 
+0000022 520  AT      the                      Z5 
+0000022 530  NN2     cells                    B1 G2.1/H2 S9/H2 S5+c O3 
+0000022 540  CC      and                      Z5 
+0000022 550  NN2     nanoparticles            Z99 
+0000022 560  RL      together                 S5+ T1.1.2 M6 
+0000022 561  .       .                        
+0000024 001  NULL    <quote>                  
+0000024 002  -----   -----                    
+0000024 003  "       "                        
+0000024 010  RR21    A                        A13.6[i16.2.1 N6-[i16.2.1 
+0000024 020  RR22    little                   A13.6[i16.2.2 N6-[i16.2.2 A13.7 
+0000024 030  IO      of                       Z5 
+0000024 040  AT      the                      Z5 
+0000024 050  NN1     polymer                  O1 
+0000024 060  VVZ     goes                     S8+[i17.4.1 T1.3+[i17.4.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000024 070  AT1     a                        S8+[i17.4.2 T1.3+[i17.4.2 Z5 
+0000024 080  JJ      long                     S8+[i17.4.3 T1.3+[i17.4.3 N3.7+ T1.3+ N3.3+ N3.2+ A13.3[i18.2.1 N3.3+[i18.2.1 
+0000024 090  NN1     way                      S8+[i17.4.4 T1.3+[i17.4.4 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 A13.3[i18.2.2 N3.3+[i18.2.2 
+0000024 091  ,       ,                        
+0000024 092  "       "                        
+0000024 093  NULL    </quote>                 
+0000024 094  -----   -----                    
+0000024 100  NP1@    Hedrick                  Z99 
+0000024 110  VVD     said                     Q2.1 
+0000024 111  .       .                        
+0000025 001  -----   -----                    
+0000026 010  CS      After                    Z5 
+0000026 020  AT1     a                        Z5 
+0000026 030  DA2     few                      N5- 
+0000026 040  NNT2    days                     T1.3 
+0000026 050  IO      of                       Z5 
+0000026 060  DD1     this                     Z8 M6 Z5 
+0000026 061  ,       ,                        
+0000026 070  NN2     enzymes                  O1 
+0000026 080  VV0     start                    T2+ E5- E3- 
+0000026 090  VVG     breaking                 A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000026 100  RL      apart                    N3.3+ A1.8- S1.1.3- 
+0000026 110  AT      the                      Z5 
+0000026 120  NN2     chains                   S5+/I2.1c O2 N4 B5 S7.1 
+0000026 130  CST     that                     Z8 Z5 
+0000026 140  VV0     hold                     M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+ 
+0000026 150  AT      the                      Z5 
+0000026 160  NN2     particles                O2 O1 
+0000026 170  RL      together                 S5+ T1.1.2 M6 
+0000026 171  ,       ,                        
+0000026 180  VVD     said                     Q2.1 
+0000026 190  NP1     Bob                      Z1mf[i19.2.1 Z3c[i19.2.1 Z1 
+0000026 200  NP1     Allen                    Z1mf[i19.2.2 Z3c[i19.2.2 Z1mf 
+0000026 201  ,       ,                        
+0000026 210  JJ      senior                   S7.1++ T3++ 
+0000026 220  NN1     manager                  S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf 
+0000026 230  II      at                       Z5 
+0000026 240  NP1     IBM-Almaden              Z99 
+0000026 241  GE      's                       Z5 
+0000026 250  JJ      Advanced                 T3- A5.1+ Y1 A12- T4- T3+ 
+0000026 260  NN2     Materials                O1 B5 O2 
+0000026 270  NN1     Chemistry                Y1/S5+c[i20.2.1 Y1 S3.1 
+0000026 280  NN1     department               Y1/S5+c[i20.2.2 H2/S5+c X2.2 
+0000026 281  .       .                        
+0000028 001  NULL    <quote>                  
+0000028 002  -----   -----                    
+0000028 003  "       "                        
+0000028 010  VV0     Think                    X2.1 
+0000028 020  IO      of                       Z5 
+0000028 030  AT      the                      Z5 
+0000028 040  NN1     enzyme                   O1 
+0000028 050  II      as                       Z5 
+0000028 060  AT1     a                        Z5 
+0000028 070  NN      pair                     N5c 
+0000028 080  IO      of                       Z5 
+0000028 090  NN2     scissors                 O2 
+0000028 100  PPH1    it                       Z8 
+0000028 110  VM      will                     T1.1.3 
+0000028 120  VVI     go                       M1[i21.2.1 X9.2+[i21.2.1 X2.4[i21.2.1 A1.1.1[i21.2.1 Q2.2[i21.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000028 130  RP@     through                  M1[i21.2.2 X9.2+[i21.2.2 X2.4[i21.2.2 A1.1.1[i21.2.2 Q2.2[i21.2.2 M6 
+0000028 140  CC      and                      Z5 
+0000028 150  VVI     snip                     A1.1.1 
+0000028 160  PPH1    it                       Z8 
+0000028 161  .       .                        
+0000028 162  -----   -----                    
+0000028 170  PPH1    It                       Z8 
+0000028 171  VBZ     's                       A3+ Z5 
+0000028 180  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000028 190  AT1     a                        Z5 
+0000028 200  JJ      weak                     S1.2.5- O4.1 S7.1- A5.1- 
+0000028 210  NN1     link                     A2.2 S5+ M3 Q1.3 F1 K5.1/M7% 
+0000028 220  CST     that                     Z8 Z5 
+0000028 230  VVZ     allows                   S7.4+ S8+ X2.1 
+0000028 240  PPY     you                      Z8mf 
+0000028 250  TO      to                       Z5 
+0000028 260  VHI     have                     A9+ Z5 A2.2 S4 
+0000028 270  AT1     a                        Z5 
+0000028 280  JJ      degradable               Z99 
+0000028 290  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000028 291  ,       ,                        
+0000028 292  "       "                        
+0000028 293  NULL    </quote>                 
+0000028 294  -----   -----                    
+0000028 300  PPHS1   he                       Z8m 
+0000028 310  VVD     said                     Q2.1 
+0000028 311  .       .                        
+0000029 001  -----   -----                    
+0000030 010  AT      The                      Z5 
+0000030 020  NN2     particles                O2 O1 
+0000030 030  VV0     degrade                  S7.2- A5.1-/A2.1 A1.1.2 
+0000030 040  II      to                       Z5 
+0000030 050  NN2     molecules                O1 
+0000030 060  IO      of                       Z5 
+0000030 070  NN1     alcohol                  F2 O1.2 
+0000030 080  CC      and                      Z5 
+0000030 090  NN1     carbon                   O1.3[i22.2.1 O1.1 Q1.2@ 
+0000030 100  NN1     dioxide                  O1.3[i22.2.2 O1 
+0000030 101  ,       ,                        
+0000030 110  DDQ     which                    Z8 Z5 
+0000030 120  VBR     are                      Z5 A3+ 
+0000030 130  VVN     removed                  M2 
+0000030 140  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000030 150  II      like                     Z5 
+0000030 160  PN1     anything                 Z8 
+0000030 170  RR      else                     A6.1- Z4 
+0000030 180  II      in                       Z5 
+0000030 190  AT      the                      Z5 
+0000030 200  NN1     bloodstream              B1 
+0000030 201  .       .                        
+0000031 001  -----   -----                    
+0000032 010  NP1     IBM                      Z3c 
+0000032 020  VVZ     believes                 X2.1 S9% 
+0000032 030  AT      the                      Z5 
+0000032 040  NN2     particles                O2 O1 
+0000032 050  VM      could                    A7+ 
+0000032 060  VBI     be                       A3+ Z5 
+0000032 070  AT1     a                        Z5 
+0000032 080  JJ      new                      T3- 
+0000032 090  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000032 100  TO      to                       Z5 
+0000032 110  VVI     treat                    S1.1.1 A9- X4.2 X2.1 B3 A1.1.1 
+0000032 120  JJ      drug-resistant           Z99 
+0000032 130  NN2     bacteria                 L2c 
+0000032 131  ,       ,                        
+0000032 140  RR      especially               A14 
+0000032 150  NP1     MRSA                     L2 
+0000032 151  ,       ,                        
+0000032 160  DDQ     which                    Z8 Z5 
+0000032 170  VBZ     is                       Z5 A3+ 
+0000032 180  RR      frequently               N6+ 
+0000032 190  VVN     associated               A6.1+/X2.1 S3.1 
+0000032 200  IW      with                     Z5 
+0000032 210  NN1     hospital                 B2-[i23.2.1 B3/H1c 
+0000032 220  NN2     infections               B2-[i23.2.2 B2- 
+0000032 221  .       .                        
+0000032 222  -----   -----                    
+0000032 230  AT      The                      Z5 
+0000032 240  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000032 250  VVZ     says                     Q2.1 
+0000032 260  JJ      antibiotic-resistant     Z99 
+0000032 270  NN2     bacteria                 L2c 
+0000032 280  VBZ     is                       A3+ Z5 
+0000032 290  AT1     a                        Z5 
+0000032 300  JJ      fertile                  O4.1 B1 X9.2+ 
+0000032 310  NN1     field                    F4 W3 M7 K5.1/M7 G3@ A4.1 
+0000032 320  IF      for                      Z5 
+0000032 330  APPGE   its                      Z8 
+0000032 340  NN1     polymer                  O1 
+0000032 350  NN1     research                 X2.4 
+0000032 360  NN2     labs                     Y1/H1 
+0000032 370  NN2     chemists                 B3/S2mf Y1/S2mf 
+0000032 380  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000032 390  VVI     focus                    X5.1+ X3.4 A4.2+ 
+0000032 400  RR      primarily                A13.2 
+0000032 410  II      on                       Z5 
+0000032 420  NN1     electronics              O3 
+0000032 421  ,       ,                        
+0000032 430  CCB     but                      Z5 
+0000032 440  JJ      chip-scale               Z99 
+0000032 450  NN1     research                 X2.4 
+0000032 460  VVZ     translates               Q3 A2.1+ 
+0000032 470  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000032 480  TO      to                       Z5 
+0000032 490  VVI     research                 X2.4 
+0000032 500  II      in                       Z5 
+0000032 510  NN1     health                   B3[i24.2.1 B2 X9.2 
+0000032 520  NN1     care                     B3[i24.2.2 S8+ G1.1/S8+ B3 A1.3 E6- 
+0000032 521  ,       ,                        
+0000032 530  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000032 540  NN1     purification             B4 A1.1.1 G2.2+/A2.1 
+0000032 541  ,       ,                        
+0000032 550  CC      and                      Z5 
+0000032 560  NN1     energy                   X5.2+ Y1 
+0000032 561  ,       ,                        
+0000032 570  NP1     Allen                    Z1mf 
+0000032 580  VVD     said                     Q2.1 
+0000032 581  .       .                        
+0000033 001  -----   -----                    
+0000034 010  VV0     Hedrick                  Z99 
+0000034 020  CC      and                      Z5 
+0000034 030  NP1     Allen                    Z1mf 
+0000034 040  VVD     cautioned                Q2.2 
+0000034 050  CST     that                     Z8 Z5 
+0000034 060  PPHS2   they                     Z8mfn 
+0000034 061  VBR     're                      A3+ Z5 
+0000034 070  XX      not                      Z6 
+0000034 080  NN2     clinicians               B3/S2mf 
+0000034 090  CC      and                      Z5 
+0000034 100  PPHS2   they                     Z8mfn 
+0000034 110  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000034 111  XX      n't                      Z6 
+0000034 120  VVI     know                     X2.2+ S3.2/B1% 
+0000034 130  RRQ     how                      Z5 A13.3 
+0000034 140  AT      the                      Z5 
+0000034 150  NN2     particles                O2 O1 
+0000034 160  VM      would                    A7+ 
+0000034 170  VBI     be                       Z5 A3+ 
+0000034 180  VVN     used                     A1.5.1 S7.1+ 
+0000034 181  .       .                        
+0000034 182  -----   -----                    
+0000034 190  CCB     But                      Z5 
+0000034 200  PPHS2   they                     Z8mfn 
+0000034 210  VBDR    were                     A3+ Z5 
+0000034 220  JJ      optimistic               X2.6/A5.1+/S1.2 
+0000034 230  II      about                    Z5 
+0000034 240  AT      the                      Z5 
+0000034 250  NN2     possibilities            A7+ 
+0000034 251  .       .                        
+0000036 001  NULL    <quote>                  
+0000036 002  -----   -----                    
+0000036 003  "       "                        
+0000036 010  AT      The                      Z5 
+0000036 020  NN2     applications             Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000036 030  VBR     are                      Z5 A3+ 
+0000036 040  VVGK    going                    T1.1.3[i25.2.1 
+0000036 050  TO      to                       T1.1.3[i25.2.2 Z5 
+0000036 060  VBI     be                       A3+ Z5 
+0000036 070  RG      very                     A13.3 
+0000036 080  JJ      diverse                  A6.3+ 
+0000036 081  ,       ,                        
+0000036 090  CSW     whether                  Z5 
+0000036 100  PPIS2   we                       Z8 
+0000036 101  VBR     're                      Z5 A3+ 
+0000036 110  VVG     talking                  Q2.1 
+0000036 120  II      about                    Z5 
+0000036 130  NN1     wound                    B2- E4.1- 
+0000036 140  NN1     healing                  B3 B2+/A2.1 A5.1+/A2.1 
+0000036 150  CC      or                       Z5 
+0000036 160  VVG     dressing                 B5 F1 B3 O4.1 
+0000036 161  ,       ,                        
+0000036 170  NN1     skin                     B2-[i26.2.1 B1 O2 
+0000036 180  NN1     infection                B2-[i26.2.2 B2- 
+0000036 181  ,       ,                        
+0000036 190  CC      and                      Z5 
+0000036 200  RG      quite                    A13.5 A13.6 A13.2 
+0000036 210  RR      possibly                 A7+ 
+0000036 220  NN2     injections               B3 A9- Y1 
+0000036 230  II      into                     Z5 
+0000036 240  AT      the                      Z5 
+0000036 250  NN1     bloodstream              B1 
+0000036 251  ,       ,                        
+0000036 252  "       "                        
+0000036 253  NULL    </quote>                 
+0000036 254  -----   -----                    
+0000036 260  NP1@    Hedrick                  Z99 
+0000036 270  VVD     said                     Q2.1 
+0000036 271  .       .                        
+0000036 272  NULL    <quote>                  
+0000036 273  -----   -----                    
+0000036 274  "       "                        
+0000036 280  CCB     But                      Z5 
+0000036 290  DD1     this                     Z8 M6 Z5 
+0000036 300  VBZ     is                       A3+ Z5 
+0000036 310  RR%     way                      A13.3 
+0000036 320  RR      early                    T4+ 
+0000036 330  II      in                       Z5 
+0000036 340  AT      the                      Z5 
+0000036 350  NN1     discovery                A10+ 
+0000036 360  NN1     process                  A1.1.1 X4.2 
+0000036 370  TO      to                       Z5 
+0000036 380  VBI     be                       Z5 A3+ 
+0000036 390  VVG     going                    M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000036 400  RL      there                    M6 T1.2 
+0000036 401  .       .                        
+0000036 402  "       "                        
+0000036 403  NULL    </quote>                 
+0000038 001  NULL    **8;7;text               

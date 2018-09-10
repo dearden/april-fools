@@ -1,0 +1,378 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     SAN                      Z2[i4.2.1 Z3c[i4.2.1 Z2[i2.2.1 Z2/S2mf Z2[i3.2.1 Z3c[i3.2.1 Z1mf[i1.2.1 Z3c[i1.2.1 
+0000002 020  NP1     DIEGO                    Z2[i4.2.2 Z3c[i4.2.2 Z2[i2.2.2 Z1m Z2[i3.2.2 Z3c[i3.2.2 Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 030  JJ      d--                      Z99 
+0000002 040  NN1     Ajinomoto                Z99 
+0000002 050  NN1     Co.                      I2.1/S5c 
+0000002 051  ,       ,                        
+0000002 060  JJ      Inc                      I2.1 
+0000002 061  .       .                        
+0000002 062  (       (                        
+0000002 063  NULL    <quote>                  
+0000002 064  -----   -----                    
+0000002 065  "       "                        
+0000002 070  NP1     Ajinomoto                Z1mf[i5.2.1 Z3c[i5.2.1 
+0000002 080  NP1     Co                       Z1mf[i5.2.2 Z3c[i5.2.2 
+0000002 081  .       .                        
+0000002 082  "       "                        
+0000002 083  NULL    </quote>                 
+0000002 084  -----   -----                    
+0000002 085  ;       ;                        
+0000002 090  NP1     TYO                      Z99 
+0000002 091  :       :                        
+0000002 100  MC      2802                     N1 T1.2 T3 T1.3 N3.2 
+0000002 101  )       )                        
+0000002 110  CC      and                      Z5 
+0000002 120  NP1     Althea                   Z99 
+0000002 130  NN2     Technologies             Y1 
+0000002 131  ,       ,                        
+0000002 140  JJ      Inc                      I2.1 
+0000002 141  .       .                        
+0000002 142  (       (                        
+0000002 143  NULL    <quote>                  
+0000002 144  -----   -----                    
+0000002 145  "       "                        
+0000002 150  NP1     Althea                   Z99 
+0000002 160  NN2     Technologies             Y1 
+0000002 161  "       "                        
+0000002 162  NULL    </quote>                 
+0000002 163  -----   -----                    
+0000002 164  )       )                        
+0000002 165  ,       ,                        
+0000002 170  VH0     have                     Z5 A9+ A2.2 S4 
+0000002 180  VVN     completed                T2- Q1.2 
+0000002 190  AT      the                      Z5 
+0000002 200  RR      previously               N4 
+0000002 210  VVN     announced                Q2.2 
+0000002 220  NN1     acquisition              A9+ 
+0000002 230  IO      of                       Z5 
+0000002 240  NP1     Althea                   Z99 
+0000002 250  NN2     Technologies             Y1 
+0000002 251  ,       ,                        
+0000002 260  AT1     a                        Z5 
+0000002 270  JJ      leading                  S7.1+ A11.1+ A2.2 M2 A1.1.1 
+0000002 280  NN1     provider                 A9-/S2mf 
+0000002 290  IO      of                       Z5 
+0000002 300  JJ      biopharmaceutical        Z99 
+0000002 310  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000002 320  CC      and                      Z5 
+0000002 330  NN1     manufacturing            A1.1.1 
+0000002 340  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000002 341  .       .                        
+0000003 001  -----   -----                    
+0000004 001  (       (                        
+0000004 010  NN1     Logo                     C1/Q1.1 Q1.2 
+0000004 011  :       :                        
+0000004 020  NNU     http                     I1 
+0000004 021  :       :                        
+0000004 030  NN1     **49;7;TOOLONG           Z99 
+0000004 031  )       )                        
+0000006 010  NP1     Ajinomoto                Z99 
+0000006 020  VVD     acquired                 A9+ 
+0000006 030  DB      all                      N5.1+ 
+0000006 040  AT      the                      Z5 
+0000006 050  NN1     capital                  I1.1 M7/G1.1 Q1.2 
+0000006 060  NN1     stock                    A9+ F1 S4 O2 I1.1 
+0000006 070  IO      of                       Z5 
+0000006 080  NP1     Althea                   Z99 
+0000006 090  II      at                       Z5 
+0000006 100  VVG     closing                  A1.1.1 A10- T2- 
+0000006 110  IF      for                      Z5 
+0000006 120  AT1     a                        Z5 
+0000006 130  NN1     purchase                 I2.2 
+0000006 140  NN1     price                    I1.3 
+0000006 150  IO      of                       Z5 
+0000006 160  RR      approximately            A13.4 
+0000006 170  NNU     $175                     Z99/H1c[i6.2.1 
+0000006 180  NNO     million                  Z99/H1c[i6.2.2 N1 I1 
+0000006 190  NNU2    dollars                  I1 
+0000006 191  (       (                        
+0000006 200  NP1     USD                      Z99 
+0000006 201  )       )                        
+0000006 202  .       .                        
+0000006 203  -----   -----                    
+0000006 210  NN1     Althea                   Z99 
+0000006 220  VM      will                     T1.1.3 
+0000006 230  VVI     become                   A2.1+ O4.2+ 
+0000006 240  AT1     a                        Z5 
+0000006 250  RR      fully                    A13.2 N5.1+ 
+0000006 260  JJ      consolidated             A7+/A2.1 S5+ 
+0000006 270  NN1     subsidiary               A11.1- S5+ 
+0000006 280  IO      of                       Z5 
+0000006 290  NP1     Ajinomoto                Z1mf[i7.2.1 Z3c[i7.2.1 
+0000006 300  NP1     Co.                      Z1mf[i7.2.2 Z3c[i7.2.2 
+0000006 301  ,       ,                        
+0000006 310  JJ      Inc.                     I2.1 
+0000006 320  NN1     operating                A1.1.1 B3 
+0000006 330  II      under                    Z5 
+0000006 340  AT      the                      Z5 
+0000006 350  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000006 360  NN1     name                     Q2.2 
+0000006 370  NP1     Ajinomoto                Z1mf[i8.2.1 Z3c[i8.2.1 
+0000006 380  NP1     Althea                   Z1mf[i8.2.2 Z3c[i8.2.2 
+0000006 381  ,       ,                        
+0000006 390  JJ      Inc                      I2.1 
+0000006 391  .       .                        
+0000007 001  -----   -----                    
+0000008 010  II      About                    Z5 
+0000008 020  NP1     Ajinomoto                Z1mf[i9.2.1 Z3c[i9.2.1 
+0000008 030  NP1     Co                       Z1mf[i9.2.2 Z3c[i9.2.2 
+0000008 031  .       .                        
+0000009 001  -----   -----                    
+0000010 010  NP1@    Ajinomoto                Z1mf[i10.2.1 Z3c[i10.2.1 
+0000010 020  NP1     Co.                      Z1mf[i10.2.2 Z3c[i10.2.2 
+0000010 030  VBZ     is                       A3+ Z5 
+0000010 040  AT1     a                        Z5 
+0000010 050  JJ      global                   W3 M7 A1.8+ O4.4 
+0000010 060  NN1     manufacturer             A1.1.1/S2mfc 
+0000010 070  IO      of                       Z5 
+0000010 080  JJ      high-quality             A5.1+ 
+0000010 090  NN2     seasonings               F1 
+0000010 091  ,       ,                        
+0000010 100  JJ      processed                O4.1 
+0000010 110  NN2     foods                    F1 
+0000010 111  ,       ,                        
+0000010 120  NN2     beverages                F2 
+0000010 121  ,       ,                        
+0000010 130  NN1     amino                    O1[i11.2.1 B1 
+0000010 140  NN2     acids                    O1[i11.2.2 O1 K2 F3% 
+0000010 141  ,       ,                        
+0000010 150  NN2     pharmaceuticals          B3 
+0000010 160  CC      and                      Z5 
+0000010 170  NN1     specialty                A4.2+ 
+0000010 180  NN2     chemicals                O1 
+0000010 181  .       .                        
+0000010 182  -----   -----                    
+0000010 190  IF      For                      T1.3+[i12.3.1 Z5 
+0000010 200  DA2     many                     T1.3+[i12.3.2 N5+ 
+0000010 210  NNT2    decades                  T1.3+[i12.3.3 T1.3 
+0000010 220  NP1     Ajinomoto                Z1mf[i13.2.1 Z3c[i13.2.1 
+0000010 230  NP1     Co.                      Z1mf[i13.2.2 Z3c[i13.2.2 
+0000010 240  VHZ     has                      Z5 A9+ A2.2 S4 
+0000010 250  VVN     contributed              A9- A2.2 S1.1.3+ 
+0000010 260  II      to                       Z5 
+0000010 270  NN1     food                     F1 
+0000010 280  NN1     culture                  C1 S1.1.1 S5+ L1 
+0000010 290  CC      and                      Z5 
+0000010 300  JJ      human                    S2 S1.2.1+ 
+0000010 310  NN1     health                   B2 X9.2 
+0000010 320  II      through                  Z5 
+0000010 330  JJ      wide-ranging             A6.3+/A2.2 
+0000010 340  NN1     application              Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000010 350  IO      of                       Z5 
+0000010 360  NN1     amino                    O1[i14.2.1 B1 
+0000010 370  NN1     acid                     O1[i14.2.2 O1 K2 F3% 
+0000010 380  NN2     technologies             Y1 
+0000010 381  .       .                        
+0000010 382  -----   -----                    
+0000010 390  RT      Today                    T1.1.2 
+0000010 391  ,       ,                        
+0000010 400  AT      the                      Z5 
+0000010 410  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000010 420  VBZ     is                       Z5 A3+ 
+0000010 430  VVG     becoming                 A2.1+ O4.2+ 
+0000010 440  RR      increasingly             A13.3 
+0000010 450  JJ      involved                 A1.8+ A12- X5.2+ 
+0000010 460  IW      with                     Z5 
+0000010 470  NN2     solutions                X4.2 O1.2 
+0000010 480  IF      for                      Z5 
+0000010 490  JJ      improved                 A5.1+/A2.1 
+0000010 500  NN1     food                     F1 
+0000010 510  NN2     resources                A9+ W3 
+0000010 511  ,       ,                        
+0000010 520  JJ      human                    S2 S1.2.1+ 
+0000010 530  NN1     health                   B2 X9.2 
+0000010 540  CC      and                      Z5 
+0000010 550  JJ      global                   W3 M7 A1.8+ O4.4 
+0000010 560  NN1     sustainability           T2++ 
+0000010 561  .       .                        
+0000010 562  -----   -----                    
+0000010 570  VVN     Founded                  T2+ A2.2 A1.1.1 
+0000010 580  II      in                       Z5 
+0000010 590  MC      1909                     N1 T1.2 T3 T1.3 N3.2 
+0000010 600  CC      and                      Z5 
+0000010 610  RT      now                      T1.1.2 Z4 
+0000010 620  VVG     operating                A1.1.1 B3 
+0000010 630  II      in                       Z5 
+0000010 640  MC      26                       N1 T1.2 T3 T1.3 N3.2 
+0000010 650  NN2     countries                M7 
+0000010 651  ,       ,                        
+0000010 660  NP1     Ajinomoto                Z1mf[i15.2.1 Z3c[i15.2.1 
+0000010 670  NP1     Co.                      Z1mf[i15.2.2 Z3c[i15.2.2 
+0000010 680  VHD     had                      A9+ Z5 A2.2 S4 
+0000010 690  JJ      net                      N5 
+0000010 700  NN      sales                    I2.2 I2.2/I1.3- 
+0000010 710  IO      of                       Z5 
+0000010 720  NP1     JYP                      Z2[i16.2.1 Z1mf[i16.2.1 
+0000010 730  MC      1,197.3                  Z2[i16.2.2 Z1mf[i16.2.2 N1 T1.2 T3 T1.3 N3.2 N1[i17.2.1 T1.3[i17.2.1 I1[i17.2.1 
+0000010 740  NNO     billion                  N1 I1 N1[i17.2.2 T1.3[i17.2.2 I1[i17.2.2 
+0000010 741  (       (                        
+0000010 750  NP1     USD                      Z2[i18.2.1 Z1mf[i18.2.1 
+0000010 760  MC      15.1                     Z2[i18.2.2 Z1mf[i18.2.2 N1 T1.2 T3 T1.3 N3.2 N1[i19.2.1 T1.3[i19.2.1 I1[i19.2.1 
+0000010 770  NNO     billion                  N1 I1 N1[i19.2.2 T1.3[i19.2.2 I1[i19.2.2 
+0000010 771  )       )                        
+0000010 780  II      in                       Z5 
+0000010 790  JJ      fiscal                   I1/G1.1 I1 
+0000010 800  MC      2011                     N1 T1.2 T3 T1.3 N3.2 
+0000010 801  .       .                        
+0000010 802  -----   -----                    
+0000010 810  IF      For                      Z5 
+0000010 820  DAR     more                     N5++ 
+0000010 830  II      about                    Z5 
+0000010 840  NP1     Ajinomoto                Z1mf[i20.2.1 Z3c[i20.2.1 
+0000010 850  NP1     Co                       Z1mf[i20.2.2 Z3c[i20.2.2 
+0000010 851  .       .                        
+0000010 852  -----   -----                    
+0000010 853  (       (                        
+0000010 860  NP1     TYO                      Z99 
+0000010 861  :       :                        
+0000010 870  MC      2802                     N1 T1.2 T3 T1.3 N3.2 
+0000010 871  )       )                        
+0000010 872  ,       ,                        
+0000010 880  VV0     visit                    S1.1.1 M1 
+0000010 890  NNU     www.ajinomoto.com        N3.3 N3.7 
+0000010 891  .       .                        
+0000011 001  -----   -----                    
+0000012 010  II      About                    Z5 
+0000012 020  NP1     Althea                   Z99 
+0000012 030  NN2     Technologies             Y1 
+0000014 010  NP1     Althea                   Z99 
+0000014 020  NN2     Technologies             Y1 
+0000014 030  VBZ     is                       A3+ Z5 
+0000014 040  AT1     a                        Z5 
+0000014 050  RR      fully                    A13.2 N5.1+ 
+0000014 060  VVN     integrated               A1.8+ S5+ A2.2 N2% 
+0000014 061  ,       ,                        
+0000014 070  NN1     contract                 I2.1 G2.1 
+0000014 080  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000014 090  CC      and                      Z5 
+0000014 100  NN1     manufacturing            A1.1.1 
+0000014 110  NN1     organization             S5+c S7.1+ 
+0000014 120  VVN     located                  M6 A10+ 
+0000014 130  II      in                       Z5 
+0000014 140  NP1     San                      Z2[i24.2.1 Z3c[i24.2.1 Z2[i22.2.1 Z2/S2mf Z2[i23.2.1 Z3c[i23.2.1 Z1mf[i21.2.1 Z3c[i21.2.1 
+0000014 150  NP1     Diego                    Z2[i24.2.2 Z3c[i24.2.2 Z2[i22.2.2 Z1m Z2[i23.2.2 Z3c[i23.2.2 Z1mf[i21.2.2 Z3c[i21.2.2 
+0000014 151  ,       ,                        
+0000014 160  NP1@    CA                       A7+ 
+0000014 170  VVG     providing                A9- 
+0000014 180  JJ      clinical                 B3 S1.2.1- 
+0000014 190  CC      and                      Z5 
+0000014 200  JJ      commercial               I2.1 
+0000014 210  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000014 220  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000014 230  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000014 231  .       .                        
+0000014 232  -----   -----                    
+0000014 240  NN1     Althea                   Z99 
+0000014 250  NN2     Technologies             Y1 
+0000014 260  VVZ@    offers                   A9- Q2.2 
+0000014 270  NNU     cGMP                     I1 
+0000014 280  NN1     drug                     B3 F3 
+0000014 290  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000014 300  VVG     filling                  Q1.2[i25.2.1 S1.1.1[i25.2.1 A1.1.1[i25.2.1 A1.5.1+[i25.2.1 N5.1+ I3.1 Q1.2@ 
+0000014 310  RP@     in                       Q1.2[i25.2.2 S1.1.1[i25.2.2 A1.1.1[i25.2.2 A1.5.1+[i25.2.2 M6 
+0000014 320  RR      both                     Z5 
+0000014 330  NN2     vials                    Z99 
+0000014 340  CC      and                      Z5 
+0000014 350  NN2     syringes                 O2 
+0000014 351  ,       ,                        
+0000014 360  CC      and                      Z5 
+0000014 370  NN1     production               A1.1.1 A10+ K4 K3 Q4.3 
+0000014 380  IO      of                       Z5 
+0000014 390  JJ      microbial-derived        Z99 
+0000014 400  JJ      recombinant              Z99 
+0000014 410  NN2     proteins                 O1 
+0000014 420  CC      and                      Z5 
+0000014 430  NN1     plasmid                  Z99 
+0000014 440  NN1     DNA                      B1 
+0000014 441  .       .                        
+0000014 442  -----   -----                    
+0000014 450  II31    In                       S5+[i26.3.1 A2.2[i26.3.1 Z5 
+0000014 460  II32    conjunction              S5+[i26.3.2 A2.2[i26.3.2 
+0000014 470  II33    with                     S5+[i26.3.3 A2.2[i26.3.3 
+0000014 480  DD2     these                    Z8 Z5 
+0000014 490  VVG@    manufacturing            A1.1.1 
+0000014 500  NN2     operations               A1.1.1 B3 G3 
+0000014 501  ,       ,                        
+0000014 510  NP1     Althea                   Z99 
+0000014 520  NN2     Technologies             Y1 
+0000014 530  VVZ@    offers                   A9- Q2.2 
+0000014 540  JJ      comprehensive            A1.8+ P1 
+0000014 550  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000014 560  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000014 570  II      including                A1.8+ 
+0000014 571  :       :                        
+0000014 580  RL      upstream                 M6 
+0000014 590  CC      and                      Z5 
+0000014 600  JJ      downstream               N3.3++ 
+0000014 610  NN1     process                  A1.1.1 X4.2 
+0000014 620  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000014 621  ,       ,                        
+0000014 630  JJ      analytical               X2.4 
+0000014 640  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000014 641  ,       ,                        
+0000014 650  NN1     lyophilization           Z99 
+0000014 660  NN1     cycle                    M3fn N6 B1 
+0000014 661  ,       ,                        
+0000014 670  JJ      complex                  A12- 
+0000014 680  NN1     formulation              G1.1/X7 Y1 N2 
+0000014 681  ,       ,                        
+0000014 690  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000014 700  NN1     release                  A1.7- A9- I2.2 K3 Q4 E6+ 
+0000014 710  CC      and                      Z5 
+0000014 720  JJ      ICH-compliant            Z99 
+0000014 730  NN1     stability                A2.1- 
+0000014 740  NN1     testing                  P1 B3 X2.4 A12- 
+0000014 741  .       .                        
+0000014 742  -----   -----                    
+0000014 750  NN1     Althea                   Z99 
+0000014 760  NN2     Technologies             Y1 
+0000014 761  GE      '                        Z5 
+0000014 770  NN1     formulation              G1.1/X7 Y1 N2 
+0000014 780  NN1     technology               Y1 
+0000014 790  NN1     platform                 M3/M7 M4/H1 H5 X7+ Y2 
+0000014 800  VVZ     includes                 A1.8+ 
+0000014 810  NP1     Crystalomics             Z99 
+0000014 811  ,       ,                        
+0000014 820  AT1     a                        Z5 
+0000014 830  JJ      proprietary              A9+ 
+0000014 840  NN1     technology               Y1 
+0000014 850  CST     that                     Z8 Z5 
+0000014 860  VVZ@    offers                   A9- Q2.2 
+0000014 870  AT1     a                        Z5 
+0000014 880  NN1     formulation              G1.1/X7 Y1 N2 
+0000014 890  NN1     solution                 X4.2 O1.2 
+0000014 900  IF      for                      Z5 
+0000014 910  JJ      large                    N3.2+ N5+ A11.1+ 
+0000014 920  NN1     molecule                 O1 
+0000014 930  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000014 940  CST     that                     Z8 Z5 
+0000014 950  VM      must                     S6+ A7+ 
+0000014 960  VBI     be                       Z5 A3+ 
+0000014 970  VVN     delivered                M2 Q2.1 X9.2+ B3 S9% 
+0000014 980  II      at                       Z5 
+0000014 990  JJ      high                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000014 000  NN2     concentrations           X5.1+ N5+ I2.2% O1.2 
+0000014 010  CC      or                       Z5 
+0000014 020  RG@     as                       A13 
+0000014 030  JJ      sustained                T2++ A2.2 S8+ A9+ A1.1.1 B1 
+0000014 040  NN1     release                  A1.7- A9- I2.2 K3 Q4 E6+ 
+0000014 050  NN2     formulations             G1.1/X7 Y1 N2 
+0000014 051  .       .                        
+0000014 052  -----   -----                    
+0000014 060  IF      For                      Z5 
+0000014 070  DAR     more                     N5++ 
+0000014 080  NN1     information              X2.2+ 
+0000014 081  ,       ,                        
+0000014 090  VV0     visit                    S1.1.1 M1 
+0000014 100  NNU     www.altheatech.com       N3.3 N3.7 
+0000014 101  .       .                        
+0000015 001  -----   -----                    
+0000016 010  NN1     SOURCE                   T2+ Q1.1 X2.2 W3/M4 
+0000016 020  NP1     Ajinomoto                Z1mf[i27.2.1 Z3c[i27.2.1 
+0000016 030  NP1     Althea                   Z1mf[i27.2.2 Z3c[i27.2.2 
+0000016 031  ,       ,                        
+0000016 040  JJ      Inc                      I2.1 
+0000016 041  .       .                        
+0000019 001  NULL    **8;57;text              

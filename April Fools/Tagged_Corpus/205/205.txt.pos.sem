@@ -1,0 +1,305 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  DB      All                      N5.1+ 
+0000002 020  FO      G20                      Z99 
+0000002 030  NN2     Meetings                 S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+ 
+0000002 040  VVN     Scheduled                X7+/T1 
+0000002 050  II      Via                      Z5 
+0000002 060  NP1     Doodle                   Z99 
+0000002 061  ,       ,                        
+0000002 070  VVZ     Says                     Q2.1 
+0000002 080  NP1     Doodle                   Z99 
+0000004 010  JJ      --World                  Z99 
+0000004 020  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000004 030  RR      highly                   A13.3 
+0000004 040  VV0     recommend                Q2.2 
+0000004 050  JJ      online                   Y2 
+0000004 060  NN1     scheduling               X7+/T1 
+0000004 070  NN1     tool                     O2 X4.2 
+0000004 071  ,       ,                        
+0000004 080  VVG     discussing               Q2.1 Q2.2 
+0000004 090  PPH1    it                       Z8 
+0000004 100  II      over                     Z5 
+0000004 110  NNT1    morning                  T1.3 
+0000004 120  NN1     coffee--                 Z99 
+0000006 010  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000006 020  NPM1    April                    T1.3 
+0000006 021  ,       ,                        
+0000006 030  MC      2009                     N1 T1.2 T3 T1.3 N3.2 
+0000006 040  NP1     London                   Z2 
+0000006 050  CC      and                      Z5 
+0000006 060  NP1     Zurich                   Z1mf[i1.2.1 Z3c[i1.2.1 Z2 
+0000006 070  NP1     Doodle                   Z1mf[i1.2.2 Z3c[i1.2.2 
+0000006 071  ,       ,                        
+0000006 080  AT      the                      Z5 
+0000006 090  JJ      popular                  E2+ S5+ 
+0000006 100  NN1     Web                      Y2 L2 O2 
+0000006 110  MC      2.0                      N1 T1.2 T3 T1.3 N3.2 
+0000006 120  NN1     scheduling               X7+/T1 
+0000006 130  NN1     tool                     O2 X4.2 
+0000006 131  ,       ,                        
+0000006 140  VBZ     is                       A3+ Z5 
+0000006 150  JJ      proud                    E4.2+/S1.2 S1.2.3+ 
+0000006 160  TO      to                       Z5 
+0000006 170  VVI     announce                 Q2.2 
+0000006 180  DB      all                      N5.1+ 
+0000006 190  FO      G20                      Z99 
+0000006 200  NN2     meetings                 S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+ 
+0000006 210  II      amongst                  Z5 
+0000006 220  AT      the                      Z5 
+0000006 230  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000006 240  IO      of                       Z5 
+0000006 250  AT      the                      Z5 
+0000006 260  JJT     largest                  N3.2+++ N5+++ A11.1+++ 
+0000006 270  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000006 280  NN2     economies                I2.1 I1.3- 
+0000006 290  II      on                       Z5 
+0000006 300  AT      the                      Z5 
+0000006 310  NN1     planet                   W1 
+0000006 320  VH0     have                     Z5 A9+ A2.2 S4 
+0000006 330  VBN     been                     Z5 A3+ 
+0000006 340  VVN     scheduled                X7+/T1 
+0000006 350  II      via                      Z5 
+0000006 360  NP1     Doodle                   Z99 
+0000006 361  .       .                        
+0000006 362  -----   -----                    
+0000006 370  II      During                   Z5 
+0000006 380  RT      today                    T1.1.2 
+0000006 381  GE      's                       Z5 
+0000006 390  NNT1    morning                  T1.3 
+0000006 400  NN1     coffee                   F2 
+0000006 410  II      at                       Z5 
+0000006 420  NP1     Downing                  Z2[i2.2.1 Z1mf[i3.2.1 Z3c[i3.2.1 
+0000006 430  NNL1    Street                   Z2[i2.2.2 Z2 Z1mf[i3.2.2 Z3c[i3.2.2 
+0000006 431  ,       ,                        
+0000006 440  NN1     world                    W1 S5+c A4.1 N5+ 
+0000006 450  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000006 460  VVD     chatted                  Q2.1 
+0000006 470  RP@     about                    Z5 M6 
+0000006 480  RGQ@    how                      Z5 A13.3 
+0000006 490  DA1     much                     N5+ I1.3+ 
+0000006 500  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000006 510  PPHS2   they                     Z8mfn 
+0000006 520  VVD     saved                    I1.1 B3 A9+ S8+ A1.9 K5.1 S9 
+0000006 530  II      by                       Z5 
+0000006 540  VVG     scheduling               X7+/T1 
+0000006 550  APPGE   their                    Z8 
+0000006 560  NN2     meetings                 S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+ 
+0000006 570  II      via                      Z5 
+0000006 580  NP1     Doodle                   Z99 
+0000006 581  .       .                        
+0000007 001  -----   -----                    
+0000008 010  NNB     President                G1.1/S7.1+/S2mf 
+0000008 020  NP1     Barack                   Z1mf[i4.2.1 Z3c[i4.2.1 
+0000008 030  NP1     Obama                    Z1mf[i4.2.2 Z3c[i4.2.2 
+0000008 031  ,       ,                        
+0000008 040  VVN     known                    X2.2+ S3.2/B1% 
+0000008 050  IF      for                      Z5 
+0000008 060  VVG     taking                   A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000008 070  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000008 080  II      into                     Z5 
+0000008 090  APPGE   his                      Z8[i5.2.1 Z8m 
+0000008 100  DA      own                      Z8[i5.2.2 A9+ S5- 
+0000008 110  NN2     hands                    B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000008 111  ,       ,                        
+0000008 120  VBZ     is                       Z5 A3+ 
+0000008 130  VVN     reputed                  A5.4- I3.2+ 
+0000008 140  TO      to                       Z5 
+0000008 150  VHI     have                     Z5 A9+ A2.2 S4 
+0000008 160  VVN@    started                  T2+ E5- E3- 
+0000008 170  AT      the                      Z5 
+0000008 180  MD      first                    N4 
+0000008 190  NN1     Doodle                   Z99 
+0000008 200  NN1     meeting                  S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+ 
+0000008 210  NN1     request                  Q2.1 Q2.2 
+0000008 211  .       .                        
+0000008 212  -----   -----                    
+0000008 220  MD      First                    N4 
+0000008 221  ,       ,                        
+0000008 230  PPHS1   he                       Z8m 
+0000008 240  VVD     needed                   S6+ 
+0000008 250  TO      to                       Z5 
+0000008 260  VVI     select                   X7+ 
+0000008 270  AT1     a                        Z5 
+0000008 280  NN1     date                     T1.2 S3.2 S3.2/S2mf 
+0000008 290  IF      for                      Z5 
+0000008 300  AT      the                      Z5 
+0000008 310  NN1     conference               S1.1.3+ 
+0000008 320  PPX1    itself                   Z8 
+0000008 321  .       .                        
+0000008 322  -----   -----                    
+0000008 330  PPHS1   He                       Z8m 
+0000008 340  VVD     offered                  A9- Q2.2 
+0000008 350  DA2     several                  N5 
+0000008 360  NN2     dates                    T1.2 S3.2 S3.2/S2mf 
+0000008 361  ,       ,                        
+0000008 370  II      including                A1.8+ 
+0000008 380  RT      today                    T1.1.2 
+0000008 390  MD      1st                      T1.3[i6.2.1 N4 T1.3 
+0000008 400  NPM1    April                    T1.3[i6.2.2 T1.3 
+0000008 410  CC      and                      Z5 
+0000008 420  MD      8th                      T1.3[i7.2.1 N4 T1.3 
+0000008 430  NPM1    April                    T1.3[i7.2.2 T1.3 
+0000008 431  ,       ,                        
+0000008 440  VVG     creating                 A1.1.1 A2.2 E1 
+0000008 450  AT      the                      Z5 
+0000008 460  NN1     Doodle                   Z99 
+0000008 470  NN1     meeting                  S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+ 
+0000008 480  NN1     request                  Q2.1 Q2.2 
+0000008 490  CC      and                      Z5 
+0000008 500  VVG     emailing                 Q1.3/Y2 
+0000008 510  PPH1    it                       Z8 
+0000008 520  II      to                       Z5 
+0000008 530  JJ      other                    A6.1- 
+0000008 540  NN1     world                    W1 S5+c A4.1 N5+ 
+0000008 550  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000008 560  II21    such                     Z5[i8.2.1 
+0000008 570  II22    as                       Z5[i8.2.2 Z5 
+0000008 580  NP1     Nicolas                  Z1mf[i9.2.1 Z3c[i9.2.1 Z1f 
+0000008 590  NP1     Sarkozy                  Z1mf[i9.2.2 Z3c[i9.2.2 
+0000008 591  ,       ,                        
+0000008 600  NP1     Gordon                   Z1mf[i10.2.1 Z3c[i10.2.1 Z1mf Z3c 
+0000008 610  NP1     Brown                    Z1mf[i10.2.2 Z3c[i10.2.2 Z1mf 
+0000008 620  CC      and                      Z5 
+0000008 630  NP1     Angela                   Z1mf[i11.2.1 Z3c[i11.2.1 Z1f 
+0000008 640  NP1     Merkel                   Z1mf[i11.2.2 Z3c[i11.2.2 
+0000008 641  .       .                        
+0000008 642  -----   -----                    
+0000008 650  AT      The                      Z5 
+0000008 660  NN1@    covering                 A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1 
+0000008 670  NN1     email                    Q1.3/Y2 
+0000008 680  II      to                       Z5 
+0000008 690  AT      the                      Z5 
+0000008 700  NP1     UK                       Z2 
+0000008 710  JJ      Prime                    G1.1/S2mf[i12.2.1 A11.1+++ A5.1+++ A4.2+ 
+0000008 720  NN1     Minister                 G1.1/S2mf[i12.2.2 G1.1/S2mf S9/S2mf 
+0000008 730  VBZ     is                       Z5 A3+ 
+0000008 740  VVN     reported                 Q2.2 S7.1- 
+0000008 750  TO      to                       Z5 
+0000008 760  VHI     have                     Z5 A9+ A2.2 S4 
+0000008 770  VVN     read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000008 780  NN1     'Hey                     Z99 
+0000008 781  ,       ,                        
+0000008 790  NP1     Gordy                    Z1m 
+0000008 791  ,       ,                        
+0000008 800  VM      can                      A7+ 
+0000008 810  PPY     you                      Z8mf 
+0000008 820  VVI     check                    X2.4/A5.3 A15 Q1.2 T2- M5 
+0000008 830  AT      the                      Z5 
+0000008 840  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000008 850  PPY     you                      Z8mf 
+0000008 851  VBR     're                      A3+ Z5 
+0000008 860  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000008 870  CC      and                      Z5 
+0000008 880  VV0@    fire                     I3.1- G3 M2 A2.2 Q2.2 
+0000008 890  DD1     this                     M6 Z5 Z8 
+0000008 900  NN1     back                     B1 M6 
+0000008 910  II      to                       Z5 
+0000008 920  PPIO1   me                       Z8mf 
+0000008 921  ?       ?                        
+0000008 922  -----   -----                    
+0000008 930  NN2     Thanks                   S1.2.4+ 
+0000008 931  ,       ,                        
+0000008 940  NP1     Barack                   Z99 
+0000008 941  .       .                        
+0000008 942  "@      '                        
+0000009 001  -----   -----                    
+0000010 010  NN2     Aides                    S8+/S2mf 
+0000010 020  RR      close                    A13.4[i13.2.1 
+0000010 030  II      to                       A13.4[i13.2.2 Z5 
+0000010 040  NNB     President                G1.1/S7.1+/S2mf 
+0000010 050  NP1     Obama                    Z99 
+0000010 060  RR      also                     N5++ 
+0000010 070  VVD     indicated                A10+ M6 Q1.1/M3 
+0000010 080  APPGE   his                      Z8m 
+0000010 090  NN1@    covering                 A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1 
+0000010 100  NN1     email                    Q1.3/Y2 
+0000010 110  VVN     ended                    T2- 
+0000010 120  IW      with                     Z5 
+0000010 130  AT1     a                        Z5 
+0000010 140  NN1     post                     Q1.2 O2 I3.1 M6 
+0000010 150  NN1     script                   K4 Q3 Q1.2 Y2@ 
+0000010 160  VVG     saying                   Q2.1 Z4% 
+0000010 161  ,       ,                        
+0000010 162  NULL    <quote>                  
+0000010 163  -----   -----                    
+0000010 164  "       "                        
+0000010 170  NN1     PS                       Z99 
+0000010 171  :       :                        
+0000010 180  CS      If                       Z7 
+0000010 190  AT      the                      Z5 
+0000010 200  NN1     conference               S1.1.3+ 
+0000010 210  VBZ     is                       Z5 A3+ 
+0000010 220  VVN     held                     M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+ 
+0000010 230  II      on                       Z5 
+0000010 240  NPM1    April                    T1.3[i14.2.1 T1.3 
+0000010 250  MD      1st                      T1.3[i14.2.2 N4 T1.3 
+0000010 251  ,       ,                        
+0000010 260  NP1     Michelle                 Z1f 
+0000010 270  CC      and                      Z5 
+0000010 280  PPIS1   I                        Z8mf 
+0000010 290  VBR     are                      Z5 A3+ 
+0000010 291  XX      n't                      Z6 
+0000010 300  RR      really                   A5.4+ 
+0000010 310  VVGK    going                    T1.1.3[i15.2.1 
+0000010 320  TO      to                       T1.1.3[i15.2.2 Z5 
+0000010 330  VVI     attend                   S1.1.3+ 
+0000010 331  ,       ,                        
+0000010 340  PPIS2   we                       Z8 
+0000010 341  VM      'll                      T1.1.3 
+0000010 350  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000010 360  VVI     send                     M2 A2.2 
+0000010 370  NNU     3D                       O4.4 
+0000010 380  JJ      virtual                  A13.4 
+0000010 390  NN2     avatars                  Z99 
+0000010 400  IO      of                       Z5 
+0000010 410  PPX2    ourselves                Z8 
+0000010 411  .       .                        
+0000010 412  -----   -----                    
+0000010 420  UH      Ha                       Z4 
+0000010 421  !       !                        
+0000010 422  -----   -----                    
+0000010 430  FU      Gotcha                   Z99 
+0000010 431  !       !                        
+0000010 432  "       "                        
+0000010 433  NULL    </quote>                 
+0000010 434  -----   -----                    
+0000012 010  NP1     Michael                  Z1mf[i16.2.1 Z3c[i16.2.1 Z1m 
+0000012 020  NP1     Nf                       Z1mf[i16.2.2 Z3c[i16.2.2 
+0000012 021  ,       ,                        
+0000012 030  NN1     founder                  T2+/S2mf 
+0000012 040  CC      and                      Z5 
+0000012 050  NN1     CEO                      S7.1+/S2mf 
+0000012 060  IO      of                       Z5 
+0000012 070  NP1     Doodle                   Z99 
+0000012 071  ,       ,                        
+0000012 080  VVD     said                     Q2.1 
+0000012 081  ,       ,                        
+0000012 082  NULL    <quote>                  
+0000012 083  -----   -----                    
+0000012 084  "       "                        
+0000012 090  CS      If                       Z7 
+0000012 100  NP1     Doodle                   Z99 
+0000012 110  VBZ     is                       A3+ Z5 
+0000012 120  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000012 130  RR      enough                   N5+ N6+ 
+0000012 140  IF      for                      Z5 
+0000012 150  AT      the                      Z5 
+0000012 160  NN1     world                    W1 S5+c A4.1 N5+ 
+0000012 161  GE      's                       Z5 
+0000012 170  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000012 171  ,       ,                        
+0000012 180  PPH1    it                       Z8 
+0000012 181  VBZ     's                       A3+ Z5 
+0000012 190  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000012 200  RR      enough                   N5+ N6+ 
+0000012 210  IF      for                      Z5 
+0000012 220  PPY     you                      Z8mf 
+0000012 221  !       !                        
+0000012 222  -----   -----                    
+0000012 230  VV0     Get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000012 240  NP1     Doodling                 Z99 
+0000012 241  .       .                        
+0000012 242  "       "                        
+0000012 243  NULL    </quote>                 
+0000015 001  NULL    **8;7;text               

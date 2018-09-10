@@ -1,0 +1,263 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN1     Security                 G2.1 A15+ E6+ I1.1 
+0000002 020  NN1     bod                      S2.2m 
+0000002 030  NP1     Kamil                    Z1mf[i1.2.1 Z3c[i1.2.1 
+0000002 040  NP1     Hismatullin              Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 050  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 060  VVN     disclosed                Q2.2 A10+ 
+0000002 070  AT1     a                        Z5 
+0000002 080  JJ      simple                   A12+ A6.2+ O4.1 X9.1- 
+0000002 090  NN1     method                   X4.2 
+0000002 100  TO      to                       Z5 
+0000002 110  VVI     delete                   Q1.2 A1.1.2 
+0000002 120  DD      any                      N5.1+ N5 
+0000002 130  NN1     video                    Q4.3 
+0000002 140  II      from                     Z5 
+0000002 150  NP1     YouTube                  Z3c/Q4.3 
+0000002 151  .       .                        
+0000003 001  -----   -----                    
+0000004 010  AT      The                      Z5 
+0000004 020  JJ      Russian                  Z2 
+0000004 030  NN1     software                 Y2 
+0000004 040  NN1     developer                H1/S2mf C1/O1.2@@ 
+0000004 050  CC      and                      Z5 
+0000004 060  NN1     hacker                   Y2/S2mf 
+0000004 070  VVD     found                    A10+ X2.1 X6+ 
+0000004 080  NN2     videos                   Q4.3 
+0000004 090  VM      can                      A7+ 
+0000004 100  VBI     be                       Z5 A3+ 
+0000004 110  RR      instantly                N3.8+++ 
+0000004 120  VVN     nuked                    Z99 
+0000004 130  II      by                       Z5 
+0000004 140  VVG     sending                  M2 A2.2 
+0000004 150  AT      the                      Z5 
+0000004 160  NN1     identity                 S2 A6.1+ Q1.2 
+0000004 170  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000004 180  IO      of                       Z5 
+0000004 190  AT1     a                        Z5 
+0000004 200  NN1     video                    Q4.3 
+0000004 210  II      in                       Z5 
+0000004 220  AT1     a                        Z5 
+0000004 230  NN1     post                     Q1.2 O2 I3.1 M6 
+0000004 240  NN1     request                  Q2.1 Q2.2 
+0000004 250  II21    along                    Z5[i2.2.1 Z5 
+0000004 260  II22    with                     Z5[i2.2.2 
+0000004 270  DD      any                      N5.1+ N5 
+0000004 280  NN1     token                    Q1.1 I1 Q3 
+0000004 281  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NP1@    Google                   Z3c/Y2 
+0000006 020  VVD     paid                     I1.2 A9- I1.1/I3.1 
+0000006 030  AT      the                      Z5 
+0000006 040  NN1     bug                      B2- L2mfn X2.4/A10- Y2 E2- X5.2+ 
+0000006 050  NN1     hunter                   K5.1/S2mf L2mfn O2 
+0000006 060  FO      US$5000                  Z99 
+0000006 070  IF      for                      Z5 
+0000006 080  AT      the                      Z5 
+0000006 090  NN1%    find                     A10+ 
+0000006 100  II21    along                    Z5[i3.2.1 Z5 
+0000006 110  II22    with                     Z5[i3.2.2 
+0000006 120  NNU     $1337                    Z99 
+0000006 130  II      under                    Z5 
+0000006 140  APPGE   its                      Z8 
+0000006 150  JJ      pre-emptive              N4 
+0000006 160  NN1     vulnerability            S1.2.5- 
+0000006 170  NN1     payment                  I1.1 
+0000006 180  NN1     scheme                   X7+ X4.2 
+0000006 190  II      in                       Z5 
+0000006 200  DDQ     which                    Z8 Z5 
+0000006 210  PPH1    it                       Z8 
+0000006 220  VVZ     slings                   M2 
+0000006 230  NN1     cash                     I1 
+0000006 240  TO      to                       Z5 
+0000006 250  VVI     help                     S8+ 
+0000006 260  JJ      recognised               X2.2+ X2.5+ S7.4+ G2.1+ S1.1.1 
+0000006 270  NN2     researchers              X2.4/S2mf 
+0000006 280  VV0     find                     A10+ X2.1 X6+ 
+0000006 290  DAR     more                     N5++ 
+0000006 300  NN2     bugs                     B2- L2mfn X2.4/A10- Y2 E2- X5.2+ 
+0000006 301  .       .                        
+0000008 001  NULL    <quote>                  
+0000008 002  -----   -----                    
+0000008 003  "       "                        
+0000008 010  PPIS1   I                        Z8mf 
+0000008 020  VVD     wanted                   X7+ S6+ A7+ S3.2 A9- 
+0000008 030  TO      to                       Z5 
+0000008 040  VVI     find                     A10+ X2.1 X6+ 
+0000008 050  RL      there                    M6 T1.2 
+0000008 060  DD      some                     N5 Z5 
+0000008 070  NP1     CSRF                     Z99 
+0000008 080  CC      or                       Z5 
+0000008 090  NP1     XSS                      Z99 
+0000008 100  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000008 101  ,       ,                        
+0000008 110  CCB     but                      Z5 
+0000008 120  RR      unexpectedly             X2.6- 
+0000008 130  VVD     discovered               A10+ 
+0000008 140  AT1     a                        Z5 
+0000008 150  JJ      logical                  X2.1 S1.2.6+ A1.6 
+0000008 160  NN1     bug                      B2- L2mfn X2.4/A10- Y2 E2- X5.2+ 
+0000008 170  CST     that                     Z8 Z5 
+0000008 180  VV0     let                      S7.4+ I2.2/H1 T2- 
+0000008 190  PPIO1   me                       Z8mf 
+0000008 200  TO      to                       Z5 
+0000008 210  VVI     delete                   Q1.2 A1.1.2 
+0000008 220  DD      any                      N5.1+ N5 
+0000008 230  NN1     video                    Q4.3 
+0000008 240  II      on                       Z5 
+0000008 250  NP1     YouTube                  Z3c/Q4.3 
+0000008 260  IW      with                     Z5 
+0000008 270  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000008 280  MC1     one                      N1 T3 T1.2 
+0000008 290  NN1     request                  Q2.1 Q2.2 
+0000008 291  ,       ,                        
+0000008 292  "       "                        
+0000008 293  NULL    </quote>                 
+0000008 294  -----   -----                    
+0000008 300  NN1     Hismatullin              Z99 
+0000008 310  VVZ     says                     Q2.1 
+0000008 311  .       .                        
+0000010 001  NULL    <quote>                  
+0000010 002  -----   -----                    
+0000010 003  "       "                        
+0000010 004  ...     ...                      
+0000010 010  DD1     this                     M6 Z5 Z8 
+0000010 020  NN1     vulnerability            S1.2.5- 
+0000010 030  VM      could                    A7+ 
+0000010 040  VVI     create                   A1.1.1 A2.2 E1 
+0000010 050  JJ      utter                    N5.1+ 
+0000010 060  NN1     havoc                    A1.7- G2.1- 
+0000010 070  II      in                       Z5 
+0000010 080  AT1     a                        Z5 
+0000010 090  NN1     matter                   X4.1 O1 
+0000010 100  IO      of                       Z5 
+0000010 110  NNT2    minutes                  T1.3 Q1.2 
+0000010 120  II      in                       Z5 
+0000010 121  (       &lsqb;                   
+0000010 130  NN2     hackers                  Y2/S2mf 
+0000010 131  GE      '                        Z5 
+0000010 132  )       &rsqb;                   
+0000010 140  NN2     hands                    B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000010 150  PNQS    who                      Z8 
+0000010 160  VM      could                    A7+ 
+0000010 170  VVI     extort                   A9+/G2.2- 
+0000010 180  NN      people                   S2mfc 
+0000010 190  CC      or                       Z5 
+0000010 200  RR      simply                   A13.6 A14 A12+ 
+0000010 210  VVI     disrupt                  S8- 
+0000010 220  NP1     YouTube                  Z3c/Q4.3 
+0000010 230  II      by                       Z5 
+0000010 240  VVG     deleting                 Q1.2 A1.1.2 
+0000010 250  JJ      massive                  N3.2+ 
+0000010 260  NN2     amounts                  N5 
+0000010 270  IO      of                       Z5 
+0000010 280  NN2     videos                   Q4.3 
+0000010 290  II      in                       Z5 
+0000010 300  AT1     a                        Z5 
+0000010 310  RG      very                     A13.3 
+0000010 320  JJ      short                    T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
+0000010 330  NN1     period                   T1.3[i4.3.1 T1.3 B1 Q3 P1/T1.3 
+0000010 340  IO      of                       T1.3[i4.3.2 Z5 
+0000010 350  NNT1    time                     T1.3[i4.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000010 351  .       .                        
+0000010 352  "       "                        
+0000010 353  NULL    </quote>                 
+0000010 354  -----   -----                    
+0000012 010  NN1     Hismatullin              Z99 
+0000012 020  VVZ     says                     Q2.1 
+0000012 030  NP1     Google                   Z3c/Y2 
+0000012 040  VVD     responded                S1.1.2+ Q2.2 
+0000012 050  RR      quickly                  N3.8+ 
+0000012 060  CS      when                     Z5 
+0000012 070  PPHS1   he                       Z8m 
+0000012 080  VVD     reported                 Q2.2 S7.1- 
+0000012 090  AT      the                      Z5 
+0000012 100  NN1     bug                      B2- L2mfn X2.4/A10- Y2 E2- X5.2+ 
+0000012 110  NPD1    Saturday                 T1.3 
+0000012 111  .       .                        
+0000013 001  -----   -----                    
+0000014 010  PPHS1   He                       Z8m 
+0000014 020  VVZ     says                     Q2.1 
+0000014 030  PPHS1   he                       Z8m 
+0000014 040  VVD     spent                    I1.2 A1.5.1 T1.3 
+0000014 050  MC      seven                    N1 T3 T1.2 
+0000014 060  NNT2    hours                    T1.3 
+0000014 070  VVG     finding                  A10+ X2.1 X6+ 
+0000014 080  AT      the                      Z5 
+0000014 090  NN2     bugs                     B2- L2mfn X2.4/A10- Y2 E2- X5.2+ 
+0000014 100  CC      and                      Z5 
+0000014 110  VVD     resisted                 S8- 
+0000014 120  AT      the                      Z5 
+0000014 130  JJ@     near                     N3.3- S3.1 A6.1+ A13.4 T1.3- 
+0000014 140  JJ      overwhelming             X9.2+/S7.3 X9.2+/G3 E1 N5+++ 
+0000014 150  NN1     urge                     X7+ 
+0000014 160  II      to                       Z5 
+0000014 161  NULL    <quote>                  
+0000014 162  -----   -----                    
+0000014 163  "       "                        
+0000014 170  VV0@    clean                    B4[i5.2.1 I1.1[i5.2.1 G2.2+/A2.1[i5.2.1 B4 
+0000014 180  RP      up                       B4[i5.2.2 I1.1[i5.2.2 G2.2+/A2.1[i5.2.2 
+0000014 190  NP1     Bieber                   Z99 
+0000014 191  GE      's                       Z5 
+0000014 200  NN1     channel                  W3/M4 X4.2 Q4.3 Q1.3 O2 
+0000014 201  "       "                        
+0000014 202  NULL    </quote>                 
+0000014 203  -----   -----                    
+0000014 204  .       .                        
+0000015 001  -----   -----                    
+0000016 010  NP1@    Google                   Z3c/Y2 
+0000016 011  GE      's                       Z5 
+0000016 020  NN1     Vulnerability            S1.2.5- 
+0000016 030  NN1     Research                 X2.4 
+0000016 040  NN2     Grants                   I1.1 A9+ 
+0000016 050  VBZ     is                       Z5 A3+ 
+0000016 060  VVN     described                Q2.2 
+0000016 070  II      as                       Z5 
+0000016 080  NN1     cash                     I1 
+0000016 090  IW      with                     Z5 
+0000016 091  NULL    <quote>                  
+0000016 092  -----   -----                    
+0000016 093  "       "                        
+0000016 100  AT      no                       S6-[i6.3.1 Z7-[i6.3.1 Z6 
+0000016 110  NN2     strings                  S6-[i6.3.2 Z7-[i6.3.2 O1.1 N5 N4 S6+ K2 
+0000016 120  VVN     attached                 S6-[i6.3.3 Z7-[i6.3.3 A1.7+ A2.2 
+0000016 121  "       "                        
+0000016 122  NULL    </quote>                 
+0000016 123  -----   -----                    
+0000016 130  DD1     that                     Z8 Z5 
+0000016 140  VVZ     allows                   S7.4+ S8+ X2.1 
+0000016 150  JJ@     known                    X2.2+ 
+0000016 160  NN1     security                 G2.1 A15+ E6+ I1.1 
+0000016 170  VVZ     bods                     S2.2m 
+0000016 180  TO      to                       Z5 
+0000016 190  VVI     apply                    Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+ 
+0000016 200  IF      for                      Z5 
+0000016 210  FO      US$3133.70               Z99 
+0000016 220  TO      to                       Z5 
+0000016 230  VVI     begin                    T2+ 
+0000016 240  NN1     bug                      B2- L2mfn X2.4/A10- Y2 E2- X5.2+ 
+0000016 250  NN1     hunting                  X2.4 K5.1 L2 
+0000016 260  NN2     expeditions              M1 
+0000016 261  .       .                        
+0000017 001  -----   -----                    
+0000018 010  AT      The                      Z5 
+0000018 020  NN1     search                   X2.4 
+0000018 030  CC      and                      Z5 
+0000018 040  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000018 050  NN1     giant                    S2/N3.2+mf N3.2+/S5 
+0000018 060  VVD     handed                   A9-[i7.2.1 Q1.2[i7.2.1 A9- 
+0000018 070  RP      out                      A9-[i7.2.2 Q1.2[i7.2.2 M6 
+0000018 080  DD      some                     N5 Z5 
+0000018 090  NNU     $1.5                     Z99/H1c[i8.2.1 
+0000018 100  NNO     million                  Z99/H1c[i8.2.2 N1 I1 
+0000018 110  MD      last                     T1.1.1[i10.2.1 N4 T1.3[i9.2.1 P1/S2mf[i9.2.1 
+0000018 120  NNT1    year                     T1.1.1[i10.2.2 T1.3 P1c T1.3[i9.2.2 P1/S2mf[i9.2.2 
+0000018 130  TO      to                       Z5 
+0000018 140  VVI     bug                      E3- X2.4/A10- 
+0000018 150  NN2     hunters                  K5.1/S2mf L2mfn B5 O2 
+0000018 160  IF      for                      Z5 
+0000018 170  VVG     reporting                Q2.2 S7.1- 
+0000018 180  NN2     vulnerabilities          S1.2.5- 
+0000018 181  .       .                        
+0000021 001  NULL    **8;7;text               

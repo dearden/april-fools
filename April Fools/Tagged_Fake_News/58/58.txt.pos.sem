@@ -1,0 +1,618 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NNB     President                G1.1/S7.1+/S2mf 
+0000002 020  NP1     Barack                   Z99 
+0000002 030  NP2     Obamas                   Z99 
+0000002 040  NN1     legacy                   A9+/I1.1 A9+/S1.1.1 
+0000002 050  VM      might                    A7+ 
+0000002 060  RR      soon                     T1.1.3/N3.8+ 
+0000002 070  VBI     be                       Z5 A3+ 
+0000002 080  VVN     tarnished                O4.2- G2.2- 
+0000002 090  II      beyond                   Z5 
+0000002 100  NN1     repair                   A5.1+/A2.1 S8+/A1.1.2- 
+0000002 101  .       .                        
+0000002 102  -----   -----                    
+0000002 110  AT      The                      Z5 
+0000002 120  JJ      long-awaited             X2.6/T1.3+ 
+0000002 130  NN2     results                  A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
+0000002 140  II      from                     Z5 
+0000002 150  AT1     an                       Z5 
+0000002 160  JJ      in-depth                 A4.2+ 
+0000002 170  NN1     investigation            X2.4 B3 
+0000002 180  II      into                     Z5 
+0000002 190  NP2     Obamas                   Z99 
+0000002 200  RL      past                     M6 
+0000002 210  VH0     have                     Z5 A9+ A2.2 S4 
+0000002 220  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000002 230  VBN     been                     Z5 A3+ 
+0000002 240  VVN     revealed                 A10+ 
+0000002 241  .       .                        
+0000003 001  -----   -----                    
+0000004 010  NP1@    Barack                   Z99 
+0000004 020  NP2     Obamas                   Z99 
+0000004 030  NN1     birth                    Q1.2/S4[i1.2.1 B1 T2+ 
+0000004 040  NN1     certificate              Q1.2/S4[i1.2.2 Q1.2 
+0000004 050  VBZ     is                       A3+ Z5 
+0000004 060  AT1     a                        Z5 
+0000004 070  JJ      fake                     A5.4- 
+0000004 080  AT1     a                        Z5 
+0000004 090  JJ      complete                 N5.1+ T2- N3.2+ 
+0000004 100  NN1     forgery                  A5.4- 
+0000004 101  ,       ,                        
+0000004 110  CC      and                      Z5 
+0000004 120  RT      now                      T1.1.2 Z4 
+0000004 130  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000004 140  TO      to                       Z5 
+0000004 150  VVI     prove                    A5.2+ X2.4 
+0000004 160  PPH1    it                       Z8 
+0000004 170  VBZ     is                       Z5 A3+ 
+0000004 180  VVN     headed                   S7.1+ K5.1 M1 N5 A2.1+ A11.1+ Q1.2 T1.1.3 
+0000004 190  II      to                       Z5 
+0000004 200  NN1     Congress                 Z3c 
+0000004 201  .       .                        
+0000004 202  -----   -----                    
+0000004 210  NP1     Arizona                  Z2 Z3c 
+0000004 220  NN1     Sheriff                  G2.1/S2mf G1.1/S2mf 
+0000004 230  NP1     Joe                      Z1m 
+0000004 240  NP2     Apraios                  Z99 
+0000004 250  NN1     investigation            X2.4 B3 
+0000004 260  II      into                     Z5 
+0000004 270  NP2     Obamas                   Z99 
+0000004 280  NN1     birth                    Q1.2/S4[i2.2.1 B1 T2+ 
+0000004 290  NN1     certificate              Q1.2/S4[i2.2.2 Q1.2 
+0000004 300  VVD     found                    A10+ X2.1 X6+ 
+0000004 310  JJ      multiple                 N5+ 
+0000004 320  NN2     inconsistencies          A6.1- 
+0000004 321  ,       ,                        
+0000004 330  DDQ     which                    Z8 Z5 
+0000004 340  VM      could                    A7+ 
+0000004 350  VVI     allow                    S7.4+ S8+ X2.1 
+0000004 360  NN1     Congress                 Z3c 
+0000004 370  TO      to                       Z5 
+0000004 380  VVI     impeach                  G2.1 
+0000004 390  AT      the                      Z5 
+0000004 400  MD      44th                     N4 T1.3 
+0000004 410  NN1     president                G1.1/S7.1+/S2mf 
+0000004 420  IO      of                       Z5 
+0000004 430  AT      the                      Z5 
+0000004 440  NP1     United                   Z2c[i5.2.1 Z2c[i4.2.1 Z3c Z1mf[i3.2.1 Z3c[i3.2.1 
+0000004 450  NP1     States                   Z2c[i5.2.2 Z2c[i4.2.2 Z2 Z1mf[i3.2.2 Z3c[i3.2.2 
+0000004 460  RR      even                     A13.1 
+0000004 470  CS      after                    Z5 
+0000004 480  PPHS1   he                       Z8m 
+0000004 490  VVZ     leaves                   M1 M2 A1.1.1 A1.9 A9- T2- 
+0000004 500  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000004 501  ,       ,                        
+0000004 510  NP1     WND                      Z99 
+0000004 520  VVZ     reports                  Q2.2 S7.1- 
+0000004 521  .       .                        
+0000005 001  -----   -----                    
+0000006 010  AT      The                      Z5 
+0000006 020  JJ      forensic                 G2.1 
+0000006 030  NN1     investigation            X2.4 B3 
+0000006 040  II      into                     Z5 
+0000006 050  NP2     Obamas                   Z99 
+0000006 060  NN1     birth                    Q1.2/S4[i6.2.1 B1 T2+ 
+0000006 070  NN1     certificate              Q1.2/S4[i6.2.2 Q1.2 
+0000006 080  RR      reportedly               A8 
+0000006 090  VVZ     proves                   A5.2+ X2.4 
+0000006 100  AT      the                      Z5 
+0000006 110  NN2     birthers                 Z99 
+0000006 120  VBDR    were                     A3+ Z5 
+0000006 130  RR      right                    Z4 A5.3+ A4.2+ M6 A13.3 A13.2 
+0000006 140  DB      all                      N5.1+ 
+0000006 150  RP      along                    M6 
+0000006 151  !       !                        
+0000006 152  -----   -----                    
+0000006 160  NP1     Jerome                   Z1mf[i7.2.1 Z3c[i7.2.1 
+0000006 170  NP1     Corsi                    Z1mf[i7.2.2 Z3c[i7.2.2 
+0000006 171  ,       ,                        
+0000006 180  NNA     Ph.D.                    P1 
+0000006 181  ,       ,                        
+0000006 190  AT1     a                        Z5 
+0000006 200  NP1     WND                      Z99 
+0000006 210  JJ      senior                   S7.1++ T3++ 
+0000006 220  NN      staff                    I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 
+0000006 230  NN1     writer                   Q4.1/S2mf Q1.2/S2mf 
+0000006 231  ,       ,                        
+0000006 240  VBZ     is                       Z5 A3+ 
+0000006 250  VVN     credited                 I1.1 X2.1 
+0000006 260  IW      with                     Z5 
+0000006 270  VVG     forcing                  S7.1+ A1.1.1 E3- 
+0000006 280  AT      the                      Z5 
+0000006 290  NP1     Obama                    Z99 
+0000006 300  NN1     administration           S7.1+c A9- 
+0000006 310  TO      to                       Z5 
+0000006 320  VVI     release                  A1.7- A9- 
+0000006 330  AT      the                      Z5 
+0000006 340  NN1     document                 Q1.2 X2.2+ Y2 
+0000006 350  II      in                       Z4[i8.4.1 N4[i8.4.1 Z5 
+0000006 360  AT      the                      Z4[i8.4.2 N4[i8.4.2 Z5 
+0000006 370  MD      first                    Z4[i8.4.3 N4[i8.4.3 N4 
+0000006 380  NN1     place                    Z4[i8.4.4 N4[i8.4.4 M7 H1 A1.2 P1 
+0000006 381  .       .                        
+0000007 001  -----   -----                    
+0000008 010  NN1     Corsis                   Q4.1/Z99[i9.2.1 Q1.2/Z99[i9.2.1 
+0000008 020  NN1     book                     Q4.1/Z99[i9.2.2 Q1.2/Z99[i9.2.2 Q4.1 Q1.2 K5.1/I1 
+0000008 021  ,       ,                        
+0000008 030  NP1     Wheres                   M6 
+0000008 040  AT      The                      Z5 
+0000008 050  NN1     Birth                    Q1.2/S4[i10.2.1 B1 T2+ 
+0000008 060  NN1     Certificate              Q1.2/S4[i10.2.2 Q1.2 
+0000008 061  ?       ?                        
+0000008 062  ,       ,                        
+0000008 070  MD      first                    N4 
+0000008 080  VVD     brought                  M2 A2.2 
+0000008 090  AT      the                      Z5 
+0000008 100  NP1     Obama                    Z99 
+0000008 110  NN1     birth                    Q1.2/S4[i11.2.1 B1 T2+ 
+0000008 120  NN1     certificate              Q1.2/S4[i11.2.2 Q1.2 
+0000008 130  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000008 140  II      to                       Z5 
+0000008 150  AT      the                      Z5 
+0000008 160  NN2     publics                  S5+ 
+0000008 170  NN1     attention                X5.1+ S8+ 
+0000008 171  .       .                        
+0000008 172  -----   -----                    
+0000008 180  AT      The                      Z5 
+0000008 190  NN1     Constitution             G1.1 B2 O1/A1.8+ 
+0000008 200  VVZ     requires                 X7+ S6+ 
+0000008 210  AT1     a                        Z5 
+0000008 220  JJ      presidential             G1.1/S7.1+ 
+0000008 230  NN1     candidate                G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
+0000008 240  TO      to                       Z5 
+0000008 250  VBI     be                       A3+ Z5 
+0000008 260  AT1     a                        Z5 
+0000008 270  JJ      natural-born             B1 
+0000008 280  NN1     citizen                  G1.1/S2mf S5+/S2mf 
+0000008 290  CCB     but                      Z5 
+0000008 300  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000008 310  XX      not                      Z6 
+0000008 320  RR      really                   A5.4+ 
+0000008 330  VVI     define                   Q2.2 A2.2 
+0000008 340  RR      exactly                  A4.2+ A5.3+ 
+0000008 350  DDQ     what                     Z8 Z5 
+0000008 360  AT      the                      Z5 
+0000008 370  VVZ     entails                  A2.2 A1.8+ 
+0000008 380  NN1     meaning                  X2.1 A11.1+ Q3 X7+ 
+0000008 390  CS21    even                     Z5[i12.2.1 
+0000008 400  CS22    though                   Z5[i12.2.2 Z5 
+0000008 410  NP1     Obama                    Z99 
+0000008 420  VBDZ    was                      Z5 A3+ 
+0000008 430  VVN     born                     B1 
+0000008 440  II      to                       Z5 
+0000008 450  AT1     an                       Z5 
+0000008 460  JJ      American                 Z2 
+0000008 470  NN1     woman                    S2.1f 
+0000008 471  ,       ,                        
+0000008 480  PPHS1   he                       Z8m 
+0000008 490  RR      still                    T2++ Z4 E3+ 
+0000008 500  VM      might                    A7+ 
+0000008 510  XX      not                      Z6 
+0000008 520  VHI     have                     Z5 A9+ A2.2 S4 
+0000008 530  VVN     qualified                A1.2+ I3.2+/P1 X9.2+/K5 A1.7+ S1.2.5-/A2.1 Q2.2 Q3 
+0000008 540  TO      to                       Z5 
+0000008 550  VVI     run                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000008 560  IF      for                      Z5 
+0000008 570  AT      the                      Z5 
+0000008 580  JJT     highest                  N3.7+++ N5+++ A11.1+++ S7.1+++ A5.1+++ T3--- X3.2 G2.2+++ E4.1+++ I1.3+++ O4.2--- O4.6+++ S9 
+0000008 590  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000008 600  II      in                       Z5 
+0000008 610  AT      the                      Z5 
+0000008 620  NN1     land                     W3 M7 
+0000008 621  .       .                        
+0000009 001  -----   -----                    
+0000010 010  PPIS1   I                        Z8mf 
+0000010 020  VBDZ    was                      Z5 A3+ 
+0000010 030  VVN     raised                   M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000010 040  II      as                       Z5 
+0000010 050  AT1     an                       Z5 
+0000010 060  JJ      Indonesian               Z2 
+0000010 070  NN1     child                    S2mf/T3- S4mf 
+0000010 080  CC      and                      Z5 
+0000010 090  AT1     a                        Z5 
+0000010 100  JJ      Hawaiian                 Z2 
+0000010 110  NN1     child                    S2mf/T3- S4mf 
+0000010 120  CC      and                      Z5 
+0000010 130  II      as                       Z5 
+0000010 140  AT1     a                        Z5 
+0000010 150  JJ      black                    O4.3 G2.2- A5.1- E4.1- S5+ 
+0000010 160  NN1     child                    S2mf/T3- S4mf 
+0000010 170  CC      and                      Z5 
+0000010 180  II      as                       Z5 
+0000010 190  AT1     a                        Z5 
+0000010 200  JJ      white                    O4.3 G2.2+ 
+0000010 210  NN1     child                    S2mf/T3- S4mf 
+0000010 211  ,       ,                        
+0000010 220  NP1     Obama                    Z99 
+0000010 230  RR      once                     N6- T1.1.1 
+0000010 240  VVD     said                     Q2.1 
+0000010 241  ,       ,                        
+0000010 250  II21    according                Z5[i13.2.1 Z5 
+0000010 260  II22    to                       Z5[i13.2.2 Z5 
+0000010 270  AT1     a                        Z5 
+0000010 280  NN1     report                   Q2.2 X3.2 
+0000010 290  II      by                       Z5 
+0000010 300  AT      the                      Z5 
+0000010 310  NP1     Miller                   Z1mf 
+0000010 320  NN1     Center                   M6 H1c M7c G1.2c K5.1mfn 
+0000010 321  .       .                        
+0000010 322  -----   -----                    
+0000010 330  NP1@    Obama                    Z99 
+0000010 340  VVD     spent                    I1.2 A1.5.1 T1.3 
+0000010 350  MC      four                     N1 T3 T1.2 
+0000010 360  NNT2    years                    T1.3 
+0000010 370  IO      of                       Z5 
+0000010 380  APPGE   his                      Z8m 
+0000010 390  NN1     childhood                T1.3/T3- 
+0000010 400  VVG     living                   H4 L1+ 
+0000010 410  II      in                       Z5 
+0000010 420  NP1     Indonesia                Z2 Z3c 
+0000010 430  IW      with                     Z5 
+0000010 440  APPGE   his                      Z8m 
+0000010 450  NN1     mother                   S4f A11.1+++ 
+0000010 460  CC      and                      Z5 
+0000010 470  NN1     stepfather               S4m 
+0000010 471  .       .                        
+0000011 001  -----   -----                    
+0000012 010  NN1     Sheriff                  G2.1/S2mf G1.1/S2mf 
+0000012 020  NP1     Joe                      Z1m 
+0000012 030  NP2     Apraios                  Z99 
+0000012 040  JJ      forensic                 G2.1 
+0000012 050  NN1     investigation            X2.4 B3 
+0000012 060  II      into                     Z5 
+0000012 070  NP2     Obamas                   Z99 
+0000012 080  NN1     birth                    Q1.2/S4[i14.2.1 B1 T2+ 
+0000012 090  NN1     certificate              Q1.2/S4[i14.2.2 Q1.2 
+0000012 100  VVD     revealed                 A10+ 
+0000012 110  AT      the                      Z5 
+0000012 120  NN1     document                 Q1.2 X2.2+ Y2 
+0000012 130  VVN     presented                A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4 
+0000012 140  II      to                       Z5 
+0000012 150  AT      the                      Z5 
+0000012 160  NN1     public                   S5+ A10+ S5+c 
+0000012 170  VVZ     appears                  A8 A10+ A3+ G2.1 K4 Q4 
+0000012 180  TO      to                       Z5 
+0000012 190  VBI     be                       A3+ Z5 
+0000012 200  JJ      identical                A6.1+++ 
+0000012 210  II      to                       Z5 
+0000012 220  CC      and                      Z5 
+0000012 230  VVN     copied                   A6.1+ N5+ 
+0000012 240  II      from                     Z5 
+0000012 250  DD1     another                  A6.1- N5++ 
+0000012 260  NN1     birth                    Q1.2/S4[i15.2.1 B1 T2+ 
+0000012 270  NN1     certificate              Q1.2/S4[i15.2.2 Q1.2 
+0000012 280  VVN     issued                   A9- 
+0000012 290  II      in                       Z5 
+0000012 300  NP1     Hawaii                   Z2 
+0000012 310  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000012 320  DA2     several                  N5 
+0000012 330  NNT2    days                     T1.3 
+0000012 340  CS      after                    Z5 
+0000012 350  PPHS1   he                       Z8m 
+0000012 360  VBDZ    was                      Z5 A3+ 
+0000012 370  VVN     born                     B1 
+0000012 371  .       .                        
+0000012 372  -----   -----                    
+0000012 380  AT      The                      Z5 
+0000012 390  RR      exceedingly              A13.3 
+0000012 400  JJ      similar                  A6.1+ 
+0000012 410  NN1     birth                    Q1.2/S4[i16.2.1 B1 T2+ 
+0000012 420  NN1     certificate              Q1.2/S4[i16.2.2 Q1.2 
+0000012 430  RR      reportedly               A8 
+0000012 440  VVZ     belongs                  A9+ A1.2+ S5+ 
+0000012 450  II      to                       Z5 
+0000012 460  NP1     Johanna                  Z1mf[i17.2.1 Z3c[i17.2.1 
+0000012 470  NP1     Ahnee                    Z1mf[i17.2.2 Z3c[i17.2.2 
+0000012 471  .       .                        
+0000013 001  -----   -----                    
+0000014 010  AT      The                      Z5 
+0000014 020  NN2     items                    O2 Q4 X4.1 
+0000014 030  II      on                       Z5 
+0000014 040  AT      the                      Z5 
+0000014 050  JJ@     supposed                 S6+ X7+ 
+0000014 060  NN1@    Obama                    Z99 
+0000014 070  NN1     birth                    Q1.2/S4[i18.2.1 B1 T2+ 
+0000014 080  NN1     certificate              Q1.2/S4[i18.2.2 Q1.2 
+0000014 081  ,       ,                        
+0000014 090  DDQ     which                    Z8 Z5 
+0000014 100  VV0     appear                   A8 A10+ A3+ G2.1 K4 Q4 
+0000014 110  TO      to                       Z5 
+0000014 120  VHI     have                     Z5 A9+ A2.2 S4 
+0000014 130  VBN     been                     Z5 A3+ 
+0000014 140  VVN     copied                   A6.1+ N5+ 
+0000014 150  II      from                     Z5 
+0000014 160  AT      the                      Z5 
+0000014 170  NP1     Johanna                  Z1mf[i19.2.1 Z3c[i19.2.1 
+0000014 180  NP1     Ahnee                    Z1mf[i19.2.2 Z3c[i19.2.2 
+0000014 190  NN1     birth                    Q1.2/S4[i20.2.1 B1 T2+ 
+0000014 200  NN1     certificate              Q1.2/S4[i20.2.2 Q1.2 
+0000014 201  ,       ,                        
+0000014 210  VV0     include                  A1.8+ 
+0000014 220  AT      the                      Z5 
+0000014 230  NN1     word                     Q3 Q2.1 S9@ 
+0000014 240  NP1     Honolulu                 Z99 
+0000014 241  ,       ,                        
+0000014 250  AT      the                      Z5 
+0000014 260  NN1     word                     Q3 Q2.1 S9@ 
+0000014 270  NN1     Oahu                     Z99 
+0000014 280  RR      twice                    N6 
+0000014 281  ,       ,                        
+0000014 290  MC      two                      N1 T3 T1.2 
+0000014 300  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000014 310  NN2     stamps                   Q1.2 O2 A1.1.1 I1.2/G1.1 A4.2+ 
+0000014 311  ,       ,                        
+0000014 320  CC      and                      Z5 
+0000014 330  MC      three                    N1 T1.2 T3 
+0000014 340  JJ      different                A6.1- 
+0000014 350  MC2     Xs                       Z5 
+0000014 351  .       .                        
+0000014 352  -----   -----                    
+0000014 360  AT      The                      Z5 
+0000014 370  JJ      identical                A6.1+++ 
+0000014 380  NN1     appearance               A10+ O4.1 A3+ G2.1 K5 Q4 
+0000014 390  IO      of                       Z5 
+0000014 400  AT      the                      Z5 
+0000014 410  MC2     Xs                       Z5 
+0000014 420  VBDZ    was                      A3+ Z5 
+0000014 430  RR      reportedly               A8 
+0000014 440  IO      of                       Z5 
+0000014 450  JJ      particular               A4.2+ X7+ 
+0000014 460  NN1     interest                 X5.2+ I1.1 S8+ S1.1.3+ 
+0000014 470  II      to                       Z5 
+0000014 480  JJ      forensic                 G2.1 
+0000014 490  NN2     investigators            X2.4/S2mf 
+0000014 491  .       .                        
+0000015 001  -----   -----                    
+0000016 010  AT      The                      Z5 
+0000016 020  MC2     Xs                       Z5 
+0000016 030  VM      would                    A7+ 
+0000016 040  VHI     have                     Z5 A9+ A2.2 S4 
+0000016 050  VBN     been                     Z5 A3+ 
+0000016 060  VVN     placed                   M2 X2.2+ I3.1 Q2.2 
+0000016 070  II      on                       Z5 
+0000016 080  AT      the                      Z5 
+0000016 090  JJ      original                 T3- A5.4+ A6.2- 
+0000016 100  NN1     birth                    Q1.2/S4[i21.2.1 B1 T2+ 
+0000016 110  NN1     certificate              Q1.2/S4[i21.2.2 Q1.2 
+0000016 120  NN2     documents                Q1.2 X2.2+ Y2 
+0000016 130  II      by                       Z5 
+0000016 140  VVG     moving                   M2 M1 A2.1+ E1 H4/A2.1 
+0000016 150  AT1     a                        Z5 
+0000016 160  NN1     typewriter               Q1.2/O2 
+0000016 170  NN1     carriage                 M2 M3fn 
+0000016 180  CC      and                      Z5 
+0000016 190  VVG     rolling                  M1 M2 A1.1.1 
+0000016 200  II      over                     Z5 
+0000016 210  AT      the                      Z5 
+0000016 220  NN1     certificate              Q1.2 
+0000016 230  II      at                       T1.1.2[i22.4.1 Z5 
+0000016 240  AT      the                      T1.1.2[i22.4.2 Z5 
+0000016 250  DA      same                     T1.1.2[i22.4.3 A6.1+++ 
+0000016 260  NNT1    time                     T1.1.2[i22.4.4 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000016 261  .       .                        
+0000016 262  -----   -----                    
+0000016 270  NN2     Investigators            X2.4/S2mf 
+0000016 280  RR      reportedly               A8 
+0000016 290  VVD     found                    X2.1 A10+ X6+ 
+0000016 300  PPH1    it                       Z8 
+0000016 310  JJ      interesting              X5.2+ 
+0000016 320  CST     that                     Z5 Z8 
+0000016 330  AT      the                      Z5 
+0000016 340  NN1     stamp                    Q1.2 O2 A1.1.1 I1.2/G1.1 A4.2+ 
+0000016 350  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000016 360  II      by                       Z5 
+0000016 370  NP1     Alvin                    Z1mf[i23.2.1 Z3c[i23.2.1 
+0000016 380  NP1     Onaka                    Z1mf[i23.2.2 Z3c[i23.2.2 
+0000016 390  CC      and                      Z5 
+0000016 400  AT      the                      Z5 
+0000016 410  NPM1    April                    T1.3[i24.2.1 T1.3 
+0000016 420  MD      25th                     T1.3[i24.2.2 N4 T1.3 
+0000016 430  NN1     stamp                    Q1.2 O2 A1.1.1 I1.2/G1.1 A4.2+ 
+0000016 440  VM      might                    A7+ 
+0000016 450  VHI     have                     Z5 A9+ A2.2 S4 
+0000016 460  VBN     been                     Z5 A3+ 
+0000016 470  VVN     lifted                   M2 A5.1+/A2.1 E4.1+/A2.1 G2.1 
+0000016 480  II      from                     Z5 
+0000016 490  DD1     another                  A6.1- N5++ 
+0000016 500  NN1     document                 Q1.2 X2.2+ Y2 
+0000016 501  .       .                        
+0000017 001  -----   -----                    
+0000018 010  MC1     One                      N1 T3 T1.2 
+0000018 020  IO      of                       Z5 
+0000018 030  AT      the                      Z5 
+0000018 040  NN1     expert                   X2.2+/S2mf X9.1+/S2mf 
+0000018 050  JJ      forensic                 G2.1 
+0000018 060  NN2     investigators            X2.4/S2mf 
+0000018 070  PNQS    who                      Z8 
+0000018 080  VVD     participated             S1.1.3+ 
+0000018 090  II      in                       Z5 
+0000018 100  AT      the                      Z5 
+0000018 110  NN1     review                   X2.4 Q4 
+0000018 120  IO      of                       Z5 
+0000018 130  AT      the                      Z5 
+0000018 140  NP1     Obama                    Z99 
+0000018 150  NN1     birth                    Q1.2/S4[i25.2.1 B1 T2+ 
+0000018 160  NN1     certificate              Q1.2/S4[i25.2.2 Q1.2 
+0000018 170  VBDZ    was                      A3+ Z5 
+0000018 180  NP1     Reed                     Z1mf[i26.2.1 Z3c[i26.2.1 Z1mf 
+0000018 190  NP1     Hayes                    Z1mf[i26.2.2 Z3c[i26.2.2 Z2 Z1mf 
+0000018 191  .       .                        
+0000018 192  -----   -----                    
+0000018 200  PPHS1   He                       Z8m 
+0000018 210  VBZ     is                       A3+ Z5 
+0000018 220  AT1     a                        Z5 
+0000018 230  JJ      court-qualified          Z99 
+0000018 240  NN1     document                 P1/Q1.2[i27.2.1 Q1.2 X2.2+ Y2 
+0000018 250  NN1     examiner                 P1/Q1.2[i27.2.2 P1/S2mf X2.4/S2mf 
+0000018 260  CC      and                      Z5 
+0000018 270  NN1     handwriting              P1/Q1.2[i28.2.1 Q1.2 
+0000018 280  NN1     examiner                 P1/Q1.2[i28.2.2 P1/S2mf X2.4/S2mf 
+0000018 281  .       .                        
+0000019 001  -----   -----                    
+0000020 010  NP1     Reed                     Z1mf[i29.2.1 Z3c[i29.2.1 Z1mf 
+0000020 020  NP1     Hayes                    Z1mf[i29.2.2 Z3c[i29.2.2 Z2 Z1mf 
+0000020 030  RR      also                     N5++ 
+0000020 040  VVZ     operates                 A1.1.1 B3 
+0000020 050  AT1     a                        Z5 
+0000020 060  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000020 070  II      in                       Z5 
+0000020 080  NP1     Hawaii                   Z2 
+0000020 081  .       .                        
+0000020 082  -----   -----                    
+0000020 090  PPHS1   He                       Z8m 
+0000020 100  VHZ     has                      Z5 A9+ A2.2 S4 
+0000020 110  VBN     been                     A3+ Z5 
+0000020 120  II      on                       Z5 
+0000020 130  AT      the                      Z5 
+0000020 140  NN1     board                    S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
+0000020 150  IO      of                       Z5 
+0000020 160  JJ      Scientific               Y1 
+0000020 170  NN1     Association              S5+c A6.1+/X2.1 
+0000020 180  IO      of                       Z5 
+0000020 190  JJ      Forensic                 G2.1 
+0000020 200  NN2     Examiners                P1/S2mf X2.4/S2mf 
+0000020 210  IF      for                      Z5 
+0000020 220  RR      almost                   A13.4 
+0000020 230  MC      four                     N1 T3 T1.2 
+0000020 240  NNT2    decades                  T1.3 
+0000020 241  .       .                        
+0000020 242  -----   -----                    
+0000020 250  NN2     Forlabs                  Z99 
+0000020 251  ,       ,                        
+0000020 260  AT1     an                       Z5 
+0000020 270  JJ      Italian                  Z2 Z2/Q3 
+0000020 280  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000020 290  DDQ     which                    Z8 Z5 
+0000020 300  VVZ     specializes              A4.2+ 
+0000020 310  II      in                       Z5 
+0000020 320  VVG     extracting               M2 A9+ 
+0000020 330  NN2     details                  A4.2+ S5+c B5 
+0000020 340  CC      and                      Z5 
+0000020 350  NN1     information              X2.2+ 
+0000020 360  II      from                     Z5 
+0000020 370  NN      multimedia               Y2 
+0000020 380  NN2     files                    O2/Q1.2 O2 Y2 S5+/N4 
+0000020 381  ,       ,                        
+0000020 390  VVD     produced                 A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000020 400  AT      the                      Z5 
+0000020 410  NN2     results                  A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
+0000020 420  IO      of                       Z5 
+0000020 430  AT      the                      Z5 
+0000020 440  NP1     Obama                    Z99 
+0000020 450  NN1     birth                    Q1.2/S4[i30.2.1 B1 T2+ 
+0000020 460  NN1     certificate              Q1.2/S4[i30.2.2 Q1.2 
+0000020 470  JJ      forensic                 G2.1 
+0000020 480  NN1     investigation            X2.4 B3 
+0000020 481  .       .                        
+0000021 001  -----   -----                    
+0000022 010  PPIS2   We                       Z8 
+0000022 020  VHD     had                      A9+ Z5 A2.2 S4 
+0000022 030  MC      two                      N1 T3 T1.2 
+0000022 040  NN2     experts                  X2.2+/S2mf X9.1+/S2mf 
+0000022 050  II      from                     Z5 
+0000022 060  MC      two                      N1 T3 T1.2 
+0000022 070  NN2     countries                M7 
+0000022 080  II      in                       Z5 
+0000022 090  JJ      separate                 A6.1- 
+0000022 100  NN2     disciplines              G2.1 A1.7+ P1 
+0000022 110  IO      of                       Z5 
+0000022 120  NN2     forensics                G2.1 
+0000022 130  CST     that                     Z8 Z5 
+0000022 140  VVD     came                     A4.1[i31.2.1 M1[i31.2.1 B1[i31.2.1 N5[i31.2.1 X6+[i31.2.1 X2.1[i31.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000022 150  II      to                       A4.1[i31.2.2 M1[i31.2.2 B1[i31.2.2 N5[i31.2.2 X6+[i31.2.2 X2.1[i31.2.2 Z5 
+0000022 160  MC1     one                      N1 T3 T1.2 
+0000022 170  NN1     conclusion               X6+ T2- 
+0000022 171  :       :                        
+0000022 180  NP1     Barack                   Z99 
+0000022 190  NP2     Obamas                   Z99 
+0000022 200  RR      long                     T1.3+ 
+0000022 210  VV0     form                     T2+ A2.1+ A1.8+ A3+ A1.1.1 
+0000022 220  NN1     birth                    Q1.2/S4[i32.2.1 B1 T2+ 
+0000022 230  NN1     certificate              Q1.2/S4[i32.2.2 Q1.2 
+0000022 240  PPH1    it                       Z8 
+0000022 250  XX      not                      Z6 
+0000022 260  JJ      authentic                A5.4+ 
+0000022 261  ,       ,                        
+0000022 270  AT      the                      Z5 
+0000022 280  NN1     report                   Q2.2 X3.2 
+0000022 290  VVD     said                     Q2.1 
+0000022 291  .       .                        
+0000023 001  -----   -----                    
+0000024 010  NP1     Mike                     Z1mf[i33.2.1 Z3c[i33.2.1 Z1m 
+0000024 020  NP1     Zullo                    Z1mf[i33.2.2 Z3c[i33.2.2 
+0000024 021  ,       ,                        
+0000024 030  AT      the                      Z5 
+0000024 040  NN1     lead                     S7.1+ O2/L2 O3 S8+ O1.1 K4/S2mf 
+0000024 050  JJ      forensic                 G2.1 
+0000024 060  NN1     investigator             X2.4/S2mf 
+0000024 070  JJ      involved                 A1.8+ A12- X5.2+ 
+0000024 080  IW      with                     Z5 
+0000024 090  AT      the                      Z5 
+0000024 100  NN1     report                   Q2.2 X3.2 
+0000024 101  ,       ,                        
+0000024 110  VVD     quoted                   Q2.2 I1.3 
+0000024 120  NN2     details                  A4.2+ S5+c B5 
+0000024 130  II      from                     Z5 
+0000024 140  AT      the                      Z5 
+0000024 150  NN1     investigation            X2.4 B3 
+0000024 160  II      by                       Z5 
+0000024 170  NP1     Hayes                    Z2 Z1mf 
+0000024 171  :       :                        
+0000024 180  AT      The                      Z5 
+0000024 181  (       (                        
+0000024 190  NN1     nail                     O2 B1 
+0000024 200  II      in                       Z5 
+0000024 210  AT      the                      Z5 
+0000024 220  NN1     coffin                   O2/L1- 
+0000024 221  )       )                        
+0000024 230  CST     that                     Z8 Z5 
+0000024 240  VVZ     proves                   A5.2+ X2.4 
+0000024 250  DD1     that                     Z5 Z8 
+0000024 260  NN1     Certificate              Q1.2 
+0000024 270  IO      of                       Z5 
+0000024 280  JJ      Live                     L1+ A3+ Q4.3 K2/K3 K1 O3 G3 
+0000024 290  NN1     Birth                    B1 T2+ 
+0000024 300  VBZ     is                       A3+ Z5 
+0000024 310  JJ      inauthentic              Z99 
+0000024 320  VBZ     is                       A3+ Z5 
+0000024 330  AT      the                      Z5 
+0000024 340  JJ      exact                    A5.3+ 
+0000024 350  NN1     lineup                   Z99 
+0000024 360  IO      of                       Z5 
+0000024 370  JJ      numerous                 N5+ 
+0000024 380  NN2     entries                  M7 Q1.2 S7.3 M1 T2+ 
+0000024 390  II      on                       Z5 
+0000024 400  RR      both                     Z5 
+0000024 401  (       &lsqb;                   
+0000024 410  NN2     certificates             Q1.2 
+0000024 411  )       &rsqb;                   
+0000024 412  .       .                        
+0000024 413  -----   -----                    
+0000024 420  NP1@    Zullo                    Z99 
+0000024 430  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000024 440  AT      the                      Z5 
+0000024 450  NN2     experts                  X2.2+/S2mf X9.1+/S2mf 
+0000024 460  VVD     likened                  A6.1+ 
+0000024 470  AT      the                      Z5 
+0000024 480  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000024 490  PPHS2   they                     Z8mfn 
+0000024 500  VVD     found                    A10+ X2.1 X6+ 
+0000024 510  TO      to                       Z5 
+0000024 520  VVI     prove                    A5.2+ X2.4 
+0000024 530  AT      the                      Z5 
+0000024 540  NP1     Obama                    Z99 
+0000024 550  NN1     birth                    Q1.2/S4[i34.2.1 B1 T2+ 
+0000024 560  NN1     certificate              Q1.2/S4[i34.2.2 Q1.2 
+0000024 570  VBZ     is                       A3+ Z5 
+0000024 580  AT1     a                        Z5 
+0000024 590  NN1     forgery                  A5.4- 
+0000024 600  II      to                       Z5 
+0000024 610  VBG     being                    A3+ Z5 
+0000024 620  RG      as                       A13 
+0000024 630  JJ      reliable                 A5.1+ A5.3+ 
+0000024 640  CSA     as                       Z5 
+0000024 650  AT1     a                        Z5 
+0000024 660  NN1     fingerprint              Q1.1/B1 
+0000024 661  .       .                        
+0000026 001  NULL    **8;7;text               

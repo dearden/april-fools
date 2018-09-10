@@ -1,0 +1,9 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VV0     Click                    X3.2 Y2 X2.5+ S1.2.1+ 
+0000002 020  RL      here                     M6 T1.1.2 T1.2 
+0000002 030  IF      for                      Z5 
+0000002 040  APPGE   your                     Z8 
+0000002 050  JJ      custom-built             A1.1.1/A6.2- 
+0000002 060  NP1     Reg                      Z1m 
+0000004 001  NULL    **8;7;text               

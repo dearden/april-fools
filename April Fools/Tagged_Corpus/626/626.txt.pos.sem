@@ -1,0 +1,1462 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  CS      When                     Z5 
+0000002 020  AT      the                      Z5 
+0000002 030  NP1     U.S.                     Z8 
+0000002 040  VVZ     Gives                    T2-[i1.2.1 S7.1-[i1.2.1 A9-[i1.2.1 A1.1.2[i1.2.1 
+0000002 050  RP      Up                       T2-[i1.2.2 S7.1-[i1.2.2 A9-[i1.2.2 A1.1.2[i1.2.2 
+0000002 060  II      on                       Z5 
+0000002 070  JJ      Human                    S2 S1.2.1+ 
+0000002 080  NN2     Rights                   A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 S7.4+ G1.2 Z4 A5.3+/A2.1 
+0000002 081  ,       ,                        
+0000002 090  PN1     Everyone                 Z8/N5.1+c 
+0000002 100  VVZ     Suffers                  E4.1- B2- X3 A5.1-/A2.1 S7.4+ 
+0000004 010  MD      Last                     T1.1.1[i2.2.1 N4 
+0000004 020  NNT1    month                    T1.1.1[i2.2.2 T1.3 
+0000004 021  ,       ,                        
+0000004 030  AT      the                      Z5 
+0000004 040  NP1     White                    Z3c[i3.2.1 Z2[i3.2.1 Z1mf 
+0000004 050  NN1     House                    Z3c[i3.2.2 Z2[i3.2.2 H1 P1/S5+c G1.1c 
+0000004 060  VVD     unveiled                 A10+ 
+0000004 070  APPGE   its                      Z8 
+0000004 071  NULL    <quote>                  
+0000004 072  -----   -----                    
+0000004 080  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
+0000004 090  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000004 091  NULL    </quote>                 
+0000004 092  -----   -----                    
+0000004 100  NN1     budget                   I1 G1.1/I1 I1.3- 
+0000004 110  NN1     blueprint                C1 X7+ 
+0000004 111  ,       ,                        
+0000004 120  DDQ     which                    Z8 Z5 
+0000004 130  VVD     proposed                 Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
+0000004 140  AT1     a                        Z5 
+0000004 150  NNU     $54-billion              Z99 
+0000004 160  NN1     increase                 N5+/A2.1 
+0000004 170  II      in                       Z5 
+0000004 180  NN1     defense                  S8+ G3 G2.1c Q2.2 K5.1 S7.3+ P1 
+0000004 190  CC      and                      Z5 
+0000004 200  JJ      national                 M7/N5.1+ 
+0000004 210  NN1     security                 G2.1 A15+ E6+ I1.1 
+0000004 220  NN1     spending                 I1.2 A1.5.1 T1.3 
+0000004 221  ,       ,                        
+0000004 230  II21    along                    Z5[i4.2.1 Z5 
+0000004 240  II22    with                     Z5[i4.2.2 
+0000004 250  JJ      massive                  N3.2+ 
+0000004 260  NN2     cuts                     A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
+0000004 270  II      to                       Z5 
+0000004 280  JJ      foreign                  M7 
+0000004 290  NN1     assistance               S8+ 
+0000004 300  CC      and                      Z5 
+0000004 310  JJ      multilateral             N5+/M7 
+0000004 320  NN1     funding                  I1.1 
+0000004 321  .       .                        
+0000004 322  -----   -----                    
+0000004 330  NNB     President                G1.1/S7.1+/S2mf 
+0000004 340  NP1     Donald                   Z1mf[i5.2.1 Z3c[i5.2.1 Z1mf 
+0000004 350  NN1     Trump                    Z1mf[i5.2.2 Z3c[i5.2.2 Z1mf 
+0000004 360  VVD     intended                 X7+ 
+0000004 370  AT      the                      Z5 
+0000004 380  NN1     budget                   I1 G1.1/I1 I1.3- 
+0000004 390  TO      to                       Z5 
+0000004 400  VVI     send                     M2 A2.2 
+0000004 410  AT1     a                        Z5 
+0000004 420  NN1     message                  Q1.1 Q1.3/Y2 
+0000004 430  II      to                       Z5 
+0000004 440  NN2     allies                   S5+ 
+0000004 450  CC      and                      Z5 
+0000004 460  NN2     adversaries              S7.3+/S2mf S1.2.1-/S2mf 
+0000004 470  RR      alike                    A6.1+ 
+0000004 480  CST     that                     Z5 Z8 
+0000004 490  AT      the                      Z5 
+0000004 500  NP1     United                   Z2c[i8.2.1 Z2c[i7.2.1 Z3c Z1mf[i6.2.1 Z3c[i6.2.1 
+0000004 510  NP1     States                   Z2c[i8.2.2 Z2c[i7.2.2 Z2 Z1mf[i6.2.2 Z3c[i6.2.2 
+0000004 520  VM      will                     T1.1.3 
+0000004 530  VVI     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000004 540  JJ      American                 Z2 
+0000004 550  NN1     security                 G2.1 A15+ E6+ I1.1 
+0000004 560  CC      and                      Z5 
+0000004 570  NN2     interests                X5.2+ I1.1 S8+ S1.1.3+ 
+0000004 580  MD      first                    N4 
+0000004 581  .       .                        
+0000004 582  -----   -----                    
+0000004 590  VV0@    Absent                   S1.1.3- A3- 
+0000004 600  II      from                     Z5 
+0000004 610  DD1     this                     M6 Z5 Z8 
+0000004 620  NN1     document                 Q1.2 X2.2+ Y2 
+0000004 630  VBDZ    was                      A3+ Z5 
+0000004 640  DD      any                      N5.1+ N5 
+0000004 650  NN1     mention                  Q2.1 
+0000004 660  IO      of                       Z5 
+0000004 670  AT      the                      Z5 
+0000004 680  NN2     values                   A11.1+ I1.3 G2.2 A4.1 N1 
+0000004 690  CC      and                      Z5 
+0000004 700  NN2     freedoms                 A1.7- 
+0000004 710  CST     that                     Z8 Z5 
+0000004 720  VH0     have                     Z5 A9+ A2.2 S4 
+0000004 730  RR      long                     T1.3+ 
+0000004 740  VBN     been                     A3+ Z5 
+0000004 750  AT      the                      Z5 
+0000004 760  NN1     foundation               T2+ H2 S5+c A5.2+ B4 
+0000004 770  IO      of                       Z5 
+0000004 780  NP1     U.S.                     Z8 
+0000004 790  JJ      foreign                  M7 
+0000004 800  NN1     policy                   X7+ Q1.2 
+0000004 801  .       .                        
+0000004 802  -----   -----                    
+0000004 810  DD1     This                     Z8 M6 Z5 
+0000004 820  VBZ     is                       A3+ Z5 
+0000004 830  AT1     a                        Z5 
+0000004 840  NN1     mistake                  A5.3- 
+0000004 841  .       .                        
+0000004 842  -----   -----                    
+0000004 850  JJ      Despotic                 Z99 
+0000004 860  CC      and                      Z5 
+0000004 870  JJ      kleptocratic             Z99 
+0000004 880  NN2     governments              G1.1c 
+0000004 890  RR      all                      M7/N5.1+[i10.4.1 A13.2 N5.1+[i9.2.1 
+0000004 900  II      over                     M7/N5.1+[i10.4.2 Z5 N5.1+[i9.2.2 
+0000004 910  AT      the                      M7/N5.1+[i10.4.3 Z5 
+0000004 920  NN1     world                    M7/N5.1+[i10.4.4 W1 S5+c A4.1 N5+ 
+0000004 930  VM      will                     T1.1.3 
+0000004 940  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000004 950  DD1     this                     Z8 M6 Z5 
+0000004 960  II      as                       Z5 
+0000004 970  NN1     proof                    A5.2+ Q4.1 F2 
+0000004 980  CST     that                     Z8 Z5 
+0000004 990  PPHS2   they                     Z8mfn 
+0000004 000  VH0     have                     A9+ Z5 A2.2 S4 
+0000004 010  NN121   carte                    A1.7-[i11.2.1 F1 
+0000004 020  NN122   blanche                  A1.7-[i11.2.2 
+0000004 030  TO      to                       Z5 
+0000004 040  VVI     crack                    A1.7+[i12.2.1 A1.1.2 X3.2 X9.2+ B2-/X1 Q2.2/E4.1+ 
+0000004 050  RP      down                     A1.7+[i12.2.2 
+0000004 060  II      on                       Z5 
+0000004 070  APPGE   their                    Z8 
+0000004 080  NN2     citizens                 G1.1/S2mf S5+/S2mf 
+0000004 081  ,       ,                        
+0000004 090  CS      while                    Z5 
+0000004 100  JJ      human                    G1.2[i13.2.1 G2.1[i13.2.1 S2 S1.2.1+ 
+0000004 110  NN2     rights                   G1.2[i13.2.2 G2.1[i13.2.2 S7.4+ G2.2+ M6 G1.2 
+0000004 120  NN2     defenders                S8+/S2mf G2.1/S2mf G3/S2mf O2 
+0000004 130  VM      will                     T1.1.3 
+0000004 140  VVI     conclude                 X6+ T2- 
+0000004 150  CST     that                     Z8 Z5 
+0000004 160  PPHS2   they                     Z8mfn 
+0000004 170  VH0     have                     Z5 A9+ A2.2 S4 
+0000004 180  VBN     been                     Z5 A3+ 
+0000004 190  VVN     abandoned                M1 T2- A9- E1% 
+0000004 200  II      by                       Z5 
+0000004 210  AT      the                      Z5 
+0000004 220  NP1     United                   Z2c[i16.2.1 Z2c[i15.2.1 Z3c Z1mf[i14.2.1 Z3c[i14.2.1 
+0000004 230  NP1     States                   Z2c[i16.2.2 Z2c[i15.2.2 Z2 Z1mf[i14.2.2 Z3c[i14.2.2 
+0000004 231  .       .                        
+0000004 232  -----   -----                    
+0000004 240  RGR     More                     A13.3 
+0000004 250  RR      importantly              A11.1+ 
+0000004 251  ,       ,                        
+0000004 260  DA      such                     Z5 Z8 
+0000004 270  NN2     sentiments               E1 X4.1 
+0000004 280  VV0     threaten                 E3-/Q2.2 A15- X2.6+/O4.2- A7+ 
+0000004 290  AT      the                      Z5 
+0000004 300  JJ      global                   W3 M7 A1.8+ O4.4 
+0000004 310  NN2     norms                    A6.2+ 
+0000004 320  CC      and                      Z5 
+0000004 330  NN2     alliances                S5+c 
+0000004 340  CST     that                     Z8 Z5 
+0000004 350  VH0     have                     Z5 A9+ A2.2 S4 
+0000004 360  VVN     propelled                M2 A2.2 
+0000004 370  JJ      American                 Z2 
+0000004 380  NN1     prosperity               I1.1+ 
+0000004 390  CC      and                      Z5 
+0000004 400  NN1     security                 G2.1 A15+ E6+ I1.1 
+0000004 410  CS      since                    Z5 
+0000004 420  AT      the                      Z5 
+0000004 430  NN1     end                      M6 T2- O2 X7+ N4 
+0000004 440  IO      of                       Z5 
+0000004 450  NN1     World                    Z3[i18.3.1 W1 S5+c A4.1 N5+ G3[i17.2.1 
+0000004 460  NN1     War                      Z3[i18.3.2 G3 S7.3 G3[i17.2.2 
+0000004 470  MC      II                       Z3[i18.3.3 N1 
+0000004 471  .       .                        
+0000005 001  -----   -----                    
+0000006 010  PPH1    It                       Z8 
+0000006 020  VBZ     is                       A3+ Z5 
+0000006 030  RG      too                      N5.2+ A13.3 
+0000006 040  JJ      early                    T4+ T1.1.1 
+0000006 050  TO      to                       Z5 
+0000006 060  VVI     tell                     Q2.2 Q2.1 X3 A10+ 
+0000006 070  RRQ     how                      Z5 A13.3 
+0000006 080  AT      the                      Z5 
+0000006 090  NN1     promotion                S7.1+/A2.1 I2.2/Q2.2 S8+ 
+0000006 100  IO      of                       Z5 
+0000006 110  JJ      human                    G1.2[i19.2.1 G2.1[i19.2.1 S2 S1.2.1+ 
+0000006 120  NN2     rights                   G1.2[i19.2.2 G2.1[i19.2.2 S7.4+ G2.2+ M6 G1.2 
+0000006 130  VM      will                     T1.1.3 
+0000006 140  VVI     feature                  A10+ 
+0000006 150  II      in                       Z5 
+0000006 160  DD1     this                     Z8 M6 Z5 
+0000006 170  VVZ     administrations          S7.1+c A9- 
+0000006 180  JJ      foreign                  M7 
+0000006 190  NN1     policy                   X7+ Q1.2 
+0000006 191  .       .                        
+0000006 192  -----   -----                    
+0000006 200  II      On                       Z5 
+0000006 210  NPD1    Monday                   T1.3 
+0000006 211  ,       ,                        
+0000006 220  AT      the                      Z5 
+0000006 230  NP1     White                    Z3c[i20.2.1 Z2[i20.2.1 Z1mf 
+0000006 240  NN1     House                    Z3c[i20.2.2 Z2[i20.2.2 H1 P1/S5+c G1.1c 
+0000006 250  RR      notably                  A14 A13.3 
+0000006 260  VVN     called                   S1.1.1[i21.2.1 Q2.2[i21.2.1 Q2.2 S1.1.1 Q1.3 S9% 
+0000006 270  II      on                       S1.1.1[i21.2.2 Q2.2[i21.2.2 Z5 
+0000006 280  NP1     Russia                   Z2 
+0000006 290  TO      to                       Z5 
+0000006 300  VVI     release                  A1.7- A9- 
+0000006 310  DB      all                      N5.1+ 
+0000006 320  IO      of                       Z5 
+0000006 330  AT      the                      Z5 
+0000006 340  JJ      peaceful                 E3+ 
+0000006 350  NN2     protestors               Z99 
+0000006 360  VVN     detained                 A1.7+ G2.1 
+0000006 370  II      during                   Z5 
+0000006 380  JJ      large                    N3.2+ N5+ A11.1+ 
+0000006 390  JJ      anti-corruption          G2.1 
+0000006 400  NN2     protests                 Q2.2 A10+ G1.2 
+0000006 410  II      over                     Z5 
+0000006 420  AT      the                      Z5 
+0000006 430  NNT1    weekend                  T1.3 
+0000006 431  .       .                        
+0000006 432  -----   -----                    
+0000006 440  VV0     Press                    A1.1.1 X8+ S7.1+ E6- 
+0000006 450  NP1@    Secretary                Z1mf[i23.3.1 Z3c[i23.3.1 Z1mf[i22.2.1 Z3c[i22.2.1 
+0000006 460  NP1     Sean                     Z1mf[i23.3.2 Z3c[i23.3.2 Z1mf Z1mf[i22.2.2 Z3c[i22.2.2 Z1mf[i24.2.1 Z3c[i24.2.1 
+0000006 470  NP1     Spicer                   Z3c[i23.3.3 Z1mf[i23.3.3 Z1mf[i24.2.2 Z3c[i24.2.2 
+0000006 480  VVD     went                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000006 490  RRR     further                  N5++ N3.3++ T2++ 
+0000006 491  ,       ,                        
+0000006 500  VVG     underscoring             Z99 
+0000006 510  AT      the                      Z5 
+0000006 520  NN1     right                    S7.4+ G2.2+ M6 G1.2 
+0000006 530  IO      of                       Z5 
+0000006 540  NN      people                   S2mfc 
+0000006 550  RL      everywhere               M6/N5.1+ 
+0000006 560  II      to                       Z5 
+0000006 570  JJ      accountable              S7.1+ A7+ 
+0000006 580  NN1     government               G1.1c 
+0000006 590  CC      and                      Z5 
+0000006 600  II      to                       Z5 
+0000006 601  NULL    <quote>                  
+0000006 602  -----   -----                    
+0000006 610  VV0     exercise                 K5.1 A1.5.1 
+0000006 620  APPGE   their                    Z8 
+0000006 630  NN2     rights                   S7.4+ G2.2+ M6 G1.2 
+0000006 640  IW      without                  Z5 
+0000006 650  NN1     fear                     E5- 
+0000006 660  IO      of                       Z5 
+0000006 670  NN1     retribution              E3- 
+0000006 671  .       .                        
+0000006 672  NULL    </quote>                 
+0000006 673  -----   -----                    
+0000006 680  DD1     This                     Z8 M6 Z5 
+0000006 690  VBDZ    was                      A3+ Z5 
+0000006 700  AT      the                      Z5 
+0000006 710  MD      first                    N4 
+0000006 720  NN1     mention                  Q2.1 
+0000006 730  II      by                       Z5 
+0000006 740  AT      the                      Z5 
+0000006 750  NN1     Trump                    Z1mf 
+0000006 760  NN1     administration           S7.1+c A9- 
+0000006 770  IO      of                       Z5 
+0000006 780  JJ      human                    G1.2[i25.2.1 G2.1[i25.2.1 S2 S1.2.1+ 
+0000006 790  NN2     rights                   G1.2[i25.2.2 G2.1[i25.2.2 S7.4+ G2.2+ M6 G1.2 
+0000006 800  VVZ     abuses                   E3- Q2.2 G2.2- A1.5.1/A5.1- 
+0000006 810  II      in                       Z5 
+0000006 820  NP1     Russia                   Z2 
+0000006 830  CC      or                       Z5 
+0000006 840  RL      elsewhere                M6/A6.1- 
+0000006 841  ,       ,                        
+0000006 850  CC      and                      Z5 
+0000006 860  VBDZ    was                      A3+ Z5 
+0000006 870  AT1     a                        Z5 
+0000006 880  JJ      positive                 A5.1+ A7+ N2 
+0000006 890  MD      first                    N4 
+0000006 900  NN1     step                     M1 T1.2 H5 O2 A2.1+ A1.1.1 K1@ K5.1@ 
+0000006 901  .       .                        
+0000006 902  -----   -----                    
+0000006 910  RR      However                  Z4 
+0000006 911  ,       ,                        
+0000006 920  PPH1    it                       Z8 
+0000006 930  VVD     came                     T2+[i26.2.1 M1[i26.2.1 S3.2[i26.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000006 940  II      on                       T2+[i26.2.2 M1[i26.2.2 S3.2[i26.2.2 Z5 
+0000006 950  AT      the                      Z5 
+0000006 960  NN2     heels                    B5 B1 
+0000006 970  IO      of                       Z5 
+0000006 980  DA2     many                     N5+ 
+0000006 990  NN2     statements               Q2.1 I1/Q1.2 
+0000006 000  CC      and                      Z5 
+0000006 010  NN2     indications              A10+ Q1.1 
+0000006 020  CST     that                     Z5 Z8 
+0000006 030  AT      the                      Z5 
+0000006 040  NN1     administration           S7.1+c A9- 
+0000006 050  VM      will                     T1.1.3 
+0000006 060  VVI     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000006 070  JJ      human                    G1.2[i27.2.1 G2.1[i27.2.1 S2 S1.2.1+ 
+0000006 080  NN2     rights                   G1.2[i27.2.2 G2.1[i27.2.2 S7.4+ G2.2+ M6 G1.2 
+0000006 090  II      on                       T1.1.3[i28.4.1 Z5 
+0000006 100  AT      the                      T1.1.3[i28.4.2 Z5 
+0000006 110  NN1     back                     T1.1.3[i28.4.3 B1 M6 
+0000006 120  NN1     burner                   T1.1.3[i28.4.4 O2/O4.6+ 
+0000006 121  .       .                        
+0000007 001  -----   -----                    
+0000008 010  REX21   For                      Z5[i29.2.1 
+0000008 020  REX22   example                  Z5[i29.2.2 
+0000008 021  ,       ,                        
+0000008 030  AT      the                      Z5 
+0000008 040  NN1     president                G1.1/S7.1+/S2mf 
+0000008 050  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000008 060  NP1     Abdel                    Z1mf[i30.2.1 Z3c[i30.2.1 
+0000008 070  NP1     Fattah                   Z1mf[i30.2.2 Z3c[i30.2.2 
+0000008 080  NN1     al-Sisi                  Z99 
+0000008 090  AT1     a                        Z5 
+0000008 091  NULL    <quote>                  
+0000008 092  -----   -----                    
+0000008 100  JJ      fantastic                A5.1+ N5++ A6.2- A5.2- 
+0000008 110  NN1     guy                      S2.2m O2 
+0000008 111  ,       ,                        
+0000008 112  NULL    </quote>                 
+0000008 113  -----   -----                    
+0000008 120  II31    in                       S8-[i31.3.1 Z5 
+0000008 130  II32    spite                    S8-[i31.3.2 
+0000008 140  II33    of                       S8-[i31.3.3 
+0000008 150  AT      the                      Z5 
+0000008 160  JJ      Egyptian                 Z2 
+0000008 170  NN2     strongmans               S7.1+ 
+0000008 180  VVZ@    attempts                 X8+ 
+0000008 190  TO      to                       Z5 
+0000008 200  VVI     muzzle                   A10- S7.4- 
+0000008 210  AT      the                      Z5 
+0000008 220  NN      media                    Q4c 
+0000008 221  ,       ,                        
+0000008 230  JJ      independent              S5- 
+0000008 240  JJ      civil                    G1.1 S1.2.4+ G2.1 H1% 
+0000008 250  NN1     society                  S5+c 
+0000008 260  NN2     organizations            S5+c S7.1+ 
+0000008 261  ,       ,                        
+0000008 270  CC      and                      Z5 
+0000008 280  NN2     others                   A6.1-/Z8 
+0000008 290  PNQS    who                      Z8 
+0000008 300  VV0     dare                     E5+ 
+0000008 310  TO      to                       Z5 
+0000008 320  VVI     speak                    Q2.1[i32.2.1 Q2.1 
+0000008 330  RP      out                      Q2.1[i32.2.2 M6 
+0000008 340  II      against                  Z5 
+0000008 350  APPGE   his                      Z8m 
+0000008 360  NN1     rule                     G2.1 X4.2 A6.2+ S7.1+ Q3 
+0000008 361  .       .                        
+0000008 362  -----   -----                    
+0000008 370  VV0     Trump                    K5.2 
+0000008 380  RR      apparently               A8 
+0000008 390  VVN     endorsed                 S8+/Q2.2 Q1.2 
+0000008 400  JJ      Philippine               Z2 
+0000008 410  NNB     President                G1.1/S7.1+/S2mf 
+0000008 420  NP1     Rodrigo                  Z1mf[i33.2.1 Z3c[i33.2.1 
+0000008 430  NP1     Dutertes                 Z1mf[i33.2.2 Z3c[i33.2.2 
+0000008 440  NN1     war                      G3 S7.3 
+0000008 450  II      on                       Z5 
+0000008 460  NN2     drugs                    B3 F3 
+0000008 470  CST     that                     Z8 Z5 
+0000008 480  VHZ     has                      Z5 A9+ A2.2 S4 
+0000008 490  VBN     been                     A3+ Z5 
+0000008 500  JJ      responsible              A2.2 S6+ S7.1 S1.2.6+ X6+ 
+0000008 510  IF      for                      Z5 
+0000008 520  AT      the                      Z5 
+0000008 530  JJ      unlawful                 G2.1- 
+0000008 540  NN1     killing                  L1- A12- A1.5.1 E4.1-/A2.2 
+0000008 550  IO      of                       Z5 
+0000008 560  RG      over                     T3[i34.2.1 N5[i34.2.1 N5.2+ A13.2 
+0000008 570  MC      7,000                    T3[i34.2.2 N5[i34.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000008 580  JJ      suspected                X2.1/A5.1- A7 
+0000008 590  NN1     drug                     F3/S2mf[i35.2.1 B3 F3 
+0000008 600  NN2     dealers                  F3/S2mf[i35.2.2 I2.1/S2mf K5.2/S2mf F3/S2mf 
+0000008 610  CC      and                      Z5 
+0000008 620  NN2     users                    A1.5.1/S2mf 
+0000008 621  .       .                        
+0000008 622  -----   -----                    
+0000008 630  NN2     Rumors                   Q2.2 
+0000008 640  VV0     abound                   N5.2+ 
+0000008 650  CST     that                     Z5 Z8 
+0000008 660  AT      the                      Z5 
+0000008 670  NN1     administration           S7.1+c A9- 
+0000008 680  VBZ     is                       A3+ Z5 
+0000008 690  II      considering              Z5 
+0000008 700  VVG     pulling                  M2 A9+ M1 
+0000008 710  II21    out                      Z5[i36.2.1 Z5 Z5[i37.2.1 A9-[i37.2.1 
+0000008 720  II22    of                       Z5[i36.2.2 Z5[i37.2.2 A9-[i37.2.2 
+0000008 730  AT      the                      Z5 
+0000008 740  NP1     U.N                      Z3c 
+0000008 741  .       .                        
+0000008 742  -----   -----                    
+0000008 750  JJ      Human                    S2 S1.2.1+ 
+0000008 760  NN2     Rights                   A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 S7.4+ G1.2 Z4 A5.3+/A2.1 
+0000008 770  NN1     Council                  G1.1c S7.1+/S5+c 
+0000008 771  ,       ,                        
+0000008 780  AT1     an                       Z5 
+0000008 790  JJ      international            M7 
+0000008 800  NN1     body                     B1 O2 S5+c O4.1 S2mf 
+0000008 810  CST     that                     Z8 Z5 
+0000008 820  VHZ     has                      Z5 A9+ A2.2 S4 
+0000008 830  VBN     been                     Z5 A3+ 
+0000008 840  RR      greatly                  A13.3 A5.1+ 
+0000008 850  VVN     strengthened             S1.2.5+/A2.1 O4.1/A2.1 
+0000008 860  II      by                       Z5 
+0000008 870  NP2     Americas                 Z2 
+0000008 880  NN1     engagement               S1.1.1 S4 G3@ 
+0000008 881  .       .                        
+0000008 882  -----   -----                    
+0000008 890  CC      And                      Z5 
+0000008 900  AT      the                      Z5 
+0000008 910  NP1     White                    Z3c[i38.2.1 Z2[i38.2.1 Z1mf 
+0000008 920  NN1     House                    Z3c[i38.2.2 Z2[i38.2.2 H1 P1/S5+c G1.1c 
+0000008 930  VVZ     seems                    A8 
+0000008 940  TO      to                       Z5 
+0000008 950  VBI     be                       A3+ Z5 
+0000008 960  II31    in                       S8+[i39.3.1 Z5 
+0000008 970  II32    favor                    S8+[i39.3.2 
+0000008 980  II33    of                       S8+[i39.3.3 
+0000008 990  VVG     moving                   M2 M1 A2.1+ E1 H4/A2.1 
+0000008 000  RL      forward                  M6 T1.1.3 
+0000008 010  IW      with                     Z5 
+0000008 020  AT      the                      Z5 
+0000008 030  NN1     sale                     I2.2 I2.2/I1.3- 
+0000008 040  IO      of                       Z5 
+0000008 050  NN1     F-16                     Z99 
+0000008 060  NN1     fighter                  M5/G3fn X8+/S2mf K5.1/S2mf 
+0000008 070  NN2     jets                     M5fn O2 N5 O1.1 
+0000008 080  II      to                       Z5 
+0000008 090  NP1     Bahrain                  Z2 
+0000008 091  ,       ,                        
+0000008 100  II      despite                  Z5 
+0000008 110  AT      the                      Z5 
+0000008 120  NN2     governments              G1.1c 
+0000008 130  JJ      intensified              N5+/A2.1 
+0000008 140  NN1     clampdown                A1.7+ G2.1 
+0000008 150  II      on                       Z5 
+0000008 160  AT      the                      Z5 
+0000008 170  JJ      political                G1.2 
+0000008 180  NN1     opposition               S8-/E2- S7.3+ A6.1- 
+0000008 190  CC      and                      Z5 
+0000008 200  VV0     plan                     X7+ 
+0000008 210  TO      to                       Z5 
+0000008 220  VVI     try                      X8+ X2.4 Q2.2 G2.1 A12- 
+0000008 230  NN2     civilians                G3-/S2mf G2.1-/S2mf 
+0000008 240  II      in                       Z5 
+0000008 250  JJ      military                 G3 
+0000008 260  NN2     courts                   G2.1 H3 M7/K5.2 
+0000008 261  .       .                        
+0000009 001  -----   -----                    
+0000010 010  RR21    Of                       Z4[i40.2.1 
+0000010 020  RR22    course                   Z4[i40.2.2 Z4 
+0000010 021  ,       ,                        
+0000010 030  NP1     U.S.                     Z8 
+0000010 040  JJ      global                   W3 M7 A1.8+ O4.4 
+0000010 050  NN1     leadership               S7.1+ 
+0000010 060  II      on                       Z5 
+0000010 070  NN1     democracy                G1.2 
+0000010 080  CC      and                      Z5 
+0000010 090  JJ      human                    G1.2[i41.2.1 G2.1[i41.2.1 S2 S1.2.1+ 
+0000010 100  NN2     rights                   G1.2[i41.2.2 G2.1[i41.2.2 S7.4+ G2.2+ M6 G1.2 
+0000010 110  VBZ     is                       Z5 A3+ 
+0000010 120  XX      not                      Z6 
+0000010 130  RR      merely                   A13.6 A14 
+0000010 140  VVN     based                    A2.2[i42.2.1 T2+ M6 A2.2 
+0000010 150  II      on                       A2.2[i42.2.2 Z5 
+0000010 160  DDQ     what                     Z8 Z5 
+0000010 170  PPH1    it                       Z8 
+0000010 180  VVZ     says                     Q2.1 
+0000010 190  CC      or                       Z5 
+0000010 200  VDZ     does                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000010 210  JJ      overseas                 M6 
+0000010 211  .       .                        
+0000010 212  -----   -----                    
+0000010 220  DDQ     What                     Z8 Z5 
+0000010 230  VVZ@    matters                  A11.1+ 
+0000010 240  DAR     more                     N5++ 
+0000010 250  VBZ     is                       A3+ Z5 
+0000010 260  AT      the                      Z5 
+0000010 270  NN1     example                  A4.1 
+0000010 280  CST     that                     Z5 Z8 
+0000010 290  NP1     America                  Z2 
+0000010 300  VVZ     sets                     M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000010 301  .       .                        
+0000010 302  -----   -----                    
+0000010 310  II      By                       Z5 
+0000010 320  DD1     that                     Z5 Z8 
+0000010 330  NN1     measure                  N3.1 F2 K2 
+0000010 331  ,       ,                        
+0000010 340  AT      the                      Z5 
+0000010 350  NN1     Trump                    Z1mf 
+0000010 360  NN1     administration           S7.1+c A9- 
+0000010 370  VHZ     has                      Z5 A9+ A2.2 S4 
+0000010 380  RR      already                  T1.1.1 
+0000010 390  RR      significantly            A11.1+ 
+0000010 400  VVN     eroded                   A1.1.2 W3 
+0000010 410  NP1     U.S.                     Z8 
+0000010 420  NN1     credibility              A5.2+/A8 
+0000010 421  .       .                        
+0000010 422  -----   -----                    
+0000010 430  RRQ     Why                      A2.2 
+0000010 440  VM      would                    A7+ 
+0000010 450  DD1     another                  A6.1- N5++ 
+0000010 460  NN1     country                  G1.1c W3 F4/M7 K2 
+0000010 470  VVI     listen                   X3.2 
+0000010 480  II      to                       Z5 
+0000010 490  AT      the                      Z5 
+0000010 500  NP1     United                   Z2c[i45.2.1 Z2c[i44.2.1 Z3c Z1mf[i43.2.1 Z3c[i43.2.1 
+0000010 510  NP1     States                   Z2c[i45.2.2 Z2c[i44.2.2 Z2 Z1mf[i43.2.2 Z3c[i43.2.2 
+0000010 520  II      about                    Z5 
+0000010 530  VVG     protecting               S8+/A15+ A10- 
+0000010 540  JJ      vulnerable               S1.2.5- 
+0000010 550  NN2     populations              S2/N5c 
+0000010 551  ,       ,                        
+0000010 560  JJ@     given                    A4.2+ A9- 
+0000010 570  NN2     perceptions              X4.1 X3.4 X2.5+ 
+0000010 580  CST     that                     Z5 Z8 
+0000010 590  AT      the                      Z5 
+0000010 600  NN1     immigration              M1/M7 
+0000010 610  CC      and                      Z5 
+0000010 620  NN1     refugee                  M1/S2mf 
+0000010 630  NN1     executive                S7.1+ I2.1/S2mf G1.1c S7.1+/S5+c 
+0000010 640  NN1     order                    S7.1+/Q2.2 I2.2/Q2.2 A4.1 N4 G2.1+ G2.1 Q1.2/I1.1 O4.2+ 
+0000010 650  VBDZ    was                      Z5 A3+ 
+0000010 660  RR      religiously              S9 X5.1+ 
+0000010 670  VVN     motivated                A2.2 X5.2+ 
+0000010 671  ?       ?                        
+0000010 672  -----   -----                    
+0000010 680  DDQ     What                     Z5 Z8 
+0000010 690  NN1     authority                G1.1c S7.1+ S7.4+ X2.2+ 
+0000010 700  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000010 710  NP1     America                  Z2 
+0000010 720  VHI     have                     A9+ Z5 A2.2 S4 
+0000010 730  NN1     standing                 M1[i46.2.1 M2[i46.2.1 S3.2-[i46.2.1 S1.2.5+[i46.2.1 A5.2+[i46.2.1 S7.1 Q3[i47.2.1 
+0000010 740  RP      up                       M1[i46.2.2 M2[i46.2.2 S3.2-[i46.2.2 S1.2.5+[i46.2.2 A5.2+[i46.2.2 
+0000010 750  IF      for                      Z5 Q3[i47.2.2 
+0000010 760  JJ@     besieged                 G3 
+0000010 770  NN2     journalists              Q4.2/I3.2/S2mf 
+0000010 780  RRQ     when                     Z5 
+0000010 790  AT      the                      Z5 
+0000010 800  NN1     president                G1.1/S7.1+/S2mf 
+0000010 810  IO      of                       Z5 
+0000010 820  AT      the                      Z5 
+0000010 830  NP1     United                   Z2c[i50.2.1 Z2c[i49.2.1 Z3c Z1mf[i48.2.1 Z3c[i48.2.1 
+0000010 840  NP1     States                   Z2c[i50.2.2 Z2c[i49.2.2 Z2 Z1mf[i48.2.2 Z3c[i48.2.2 
+0000010 850  VHZ     has                      Z5 A9+ A2.2 S4 
+0000010 860  VVN     tweeted                  Z99 
+0000010 870  CST     that                     Z5 Z8 
+0000010 880  AT      the                      Z5 
+0000010 890  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000010 900  NN      media                    Q4c 
+0000010 910  VBZ     is                       A3+ Z5 
+0000010 920  AT      the                      Z5 
+0000010 921  NULL    <quote>                  
+0000010 922  -----   -----                    
+0000010 930  NN1     enemy                    S1.2.1-/S2mfc S8- 
+0000010 940  IO      of                       Z5 
+0000010 950  AT      the                      Z5 
+0000010 960  JJ      American                 Z2 
+0000010 970  NN      People                   S2mfc 
+0000010 971  ?       ?                        
+0000010 972  NULL    </quote>                 
+0000010 973  -----   -----                    
+0000010 980  RRQ     How                      Z5 A13.3 
+0000010 990  VM      can                      A7+ 
+0000010 000  NP1     U.S.                     Z8 
+0000010 010  NN2     diplomats                G1.1/S2mf 
+0000010 020  VV0     press                    A1.1.1 X8+ S7.1+ E6- 
+0000010 030  NN1     security                 G2.1 A15+ E6+ I1.1 
+0000010 040  NN2     partners                 S3.1/S2mf S3.2/S2mf S4mf 
+0000010 050  TO      to                       Z5 
+0000010 060  VVI     protect                  S8+/A15+ A10- 
+0000010 070  NN2     civilians                G3-/S2mf G2.1-/S2mf 
+0000010 080  II      during                   Z5 
+0000010 090  JJ      military                 G3 
+0000010 100  NN2     operations               A1.1.1 B3 G3 
+0000010 110  CS      while                    Z5 
+0000010 120  AT      the                      Z5 
+0000010 130  NP1     White                    Z3c[i51.2.1 Z2[i51.2.1 Z1mf 
+0000010 140  NN1     House                    Z3c[i51.2.2 Z2[i51.2.2 H1 P1/S5+c G1.1c 
+0000010 150  VBZ     is                       Z5 A3+ 
+0000010 160  VVG     contemplating            X2.4 
+0000010 170  NN1     loosening                Z99 
+0000010 180  NN1     drone                    L2mn X3.2+ 
+0000010 190  NN1     strike                   I3.1- E3- G3 A10+ K5.1 
+0000010 200  NN2     restrictions             A1.7+ 
+0000010 210  CST     that                     Z8 Z5 
+0000010 220  VV0     seek                     X2.4 
+0000010 230  TO      to                       Z5 
+0000010 240  VVI     prevent                  S8- 
+0000010 250  JJ      civilian                 G3- G2.1- 
+0000010 260  NN2     casualties               B2-/S2mf B3 A1.4/S2mf 
+0000010 261  ?       ?                        
+0000010 262  -----   -----                    
+0000010 270  JJ      Rights-abusing           Z99 
+0000010 280  NN2     countries                M7 
+0000010 290  VM      will                     T1.1.3 
+0000010 300  VHI     have                     A9+ Z5 A2.2 S4 
+0000010 310  AT1     a                        Z5 
+0000010 320  RR      much                     A13.3 N6+ 
+0000010 330  JJR     easier                   A12++ 
+0000010 340  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000010 350  VVG     brushing                 B4 A1.1.1 
+0000010 360  RL      away                     M6 A1.1.1% 
+0000010 370  NP1     U.S.                     Z8 
+0000010 380  NN2     criticisms               Q2.2/E2- X2.4 
+0000010 390  IO      of                       Z5 
+0000010 400  APPGE   their                    Z8 
+0000010 410  NN1     behavior                 S1.1.1 A1.1.1 
+0000010 420  RG      so                       A13.3 
+0000010 430  RR      long                     T1.3+ 
+0000010 440  CSA     as                       Z5 
+0000010 450  DD2     these                    Z5 Z8 
+0000010 460  NN2     deficiencies             N5- 
+0000010 470  VV0     persist                  T2++ 
+0000010 480  II      at                       Z5 
+0000010 490  NN1     home                     H4/H1c M6 
+0000010 491  .       .                        
+0000011 001  -----   -----                    
+0000012 010  JJ      Authoritarian            S7.1+ 
+0000012 020  NN2     governments              G1.1c 
+0000012 030  JJ      weary                    B2- X5.2- 
+0000012 040  IO      of                       Z5 
+0000012 050  AT      the                      Z5 
+0000012 060  NP1     United                   Z2c[i54.2.1 Z2c[i53.2.1 Z3c Z1mf[i52.2.1 Z3c[i52.2.1 
+0000012 070  NP1     States                   Z2c[i54.2.2 Z2c[i53.2.2 Z2 Z1mf[i52.2.2 Z3c[i52.2.2 
+0000012 080  VVG     prodding                 A1.1.1 Q2.2 
+0000012 090  PPHO2   them                     Z8mfn 
+0000012 100  II      on                       Z5 
+0000012 110  JJ      human                    G1.2[i55.2.1 G2.1[i55.2.1 S2 S1.2.1+ 
+0000012 120  NN2     rights                   G1.2[i55.2.2 G2.1[i55.2.2 S7.4+ G2.2+ M6 G1.2 
+0000012 130  CC      and                      Z5 
+0000012 140  JJ      critical                 Q2.2/E2- X2.4 A11.1+ A15- 
+0000012 150  IO      of                       Z5 
+0000012 160  DDQ     what                     Z8 Z5 
+0000012 170  PPHS2   they                     Z8mfn 
+0000012 180  VV0     perceive                 X4.1 X3.4 X2.5+ 
+0000012 190  RG@     as                       A13 
+0000012 200  JJ      Western                  M6 T3- 
+0000012 210  NN1     meddling                 S1.1.3+++ 
+0000012 220  II      in                       Z5 
+0000012 230  APPGE   their                    Z8 
+0000012 240  JJ      sovereign                S7.1+ 
+0000012 250  NN2     affairs                  A1.1.1 S1.1.1 S3.2 
+0000012 260  VBR     are                      Z5 A3+ 
+0000012 270  RR@     likely                   A7+ 
+0000012 280  VVG     celebrating              E4.1+ S9 
+0000012 290  DD1     this                     M6 Z5 Z8 
+0000012 300  NN1     turn                     A1.1.1[i56.3.1 N4 M1 O4.4 A2.1+ B2- K4 T1.3/I3.1 
+0000012 310  IO      of                       A1.1.1[i56.3.2 Z5 
+0000012 320  NN2     events                   A1.1.1[i56.3.3 A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
+0000012 321  .       .                        
+0000012 322  -----   -----                    
+0000012 330  AT      The                      Z5 
+0000012 340  NN1     president                G1.1/S7.1+/S2mf 
+0000012 350  IO      of                       Z5 
+0000012 360  NP1     Turkey                   Z2 
+0000012 361  ,       ,                        
+0000012 370  NP1     Recip                    Z1mf[i58.3.1 Z3c[i58.3.1 Z1mf[i57.2.1 Z3c[i57.2.1 
+0000012 380  NP1     Tayyip                   Z1mf[i58.3.2 Z3c[i58.3.2 Z1mf[i57.2.2 Z3c[i57.2.2 Z1mf[i59.2.1 Z3c[i59.2.1 
+0000012 390  NP1     Erdogan                  Z3c[i58.3.3 Z1mf[i58.3.3 Z1mf[i59.2.2 Z3c[i59.2.2 
+0000012 391  ,       ,                        
+0000012 400  VVD     welcomed                 Q2.2 S1.1.1 
+0000012 410  NN2     Trumps                   K5.2 S7.1+ 
+0000012 420  NN1     election                 G1.2/X7+ 
+0000012 430  CC      and                      Z5 
+0000012 440  VVD     heralded                 Q2.2 
+0000012 450  AT1     an                       Z5 
+0000012 460  NN1     era                      T1.3 
+0000012 470  IO      of                       Z5 
+0000012 480  JJR     greater                  A5.1++ A11.1++ N3.2++ N5++ X5.2++ 
+0000012 490  NN1     cooperation              S8+ 
+0000012 491  .       .                        
+0000012 492  -----   -----                    
+0000012 500  RR      Increasingly             A13.3 
+0000012 510  VVN     rebuked                  Q2.2 
+0000012 520  II      by                       Z5 
+0000012 530  AT      the                      Z5 
+0000012 540  NP1     Obama                    Z99 
+0000012 550  NN1     administration           S7.1+c A9- 
+0000012 560  IF      for                      Z5 
+0000012 570  APPGE   his                      Z8m 
+0000012 580  NN1     consolidation            A7+/A2.1 S5+ 
+0000012 590  IO      of                       Z5 
+0000012 600  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000012 610  CC      and                      Z5 
+0000012 620  NN1     crackdown                A1.7+ 
+0000012 630  II      on                       Z5 
+0000012 640  AT      the                      Z5 
+0000012 650  JJ      military                 G3 
+0000012 660  CC      and                      Z5 
+0000012 670  NN1     judiciary                G2.1c 
+0000012 671  ,       ,                        
+0000012 680  RR      especially               A14 
+0000012 690  II      after                    Z5 
+0000012 700  AT1     a                        Z5 
+0000012 710  JJ@     failed                   X9.2- A5.1-/A2.1 
+0000012 720  NN1     coup                     G1.2 
+0000012 730  NN1     attempt                  X8+ 
+0000012 740  II      in                       Z5 
+0000012 750  NPM1    July                     T1.3[i60.2.1 T1.3 
+0000012 760  MC      2016                     T1.3[i60.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000012 761  ,       ,                        
+0000012 770  NP1     Erdogan                  Z99 
+0000012 780  VHZ     has                      A9+ Z5 A2.2 S4 
+0000012 790  DA1     much                     N5+ I1.3+ 
+0000012 800  TO      to                       Z5 
+0000012 810  VVI     gain                     A9+ N5+/A2.1 
+0000012 820  II      by                       Z5 
+0000012 830  AT      the                      Z5 
+0000012 840  NP1     United                   Z2c[i63.2.1 Z2c[i62.2.1 Z3c Z1mf[i61.2.1 Z3c[i61.2.1 
+0000012 850  NP1     States                   Z2c[i63.2.2 Z2c[i62.2.2 Z2 Z1mf[i61.2.2 Z3c[i61.2.2 
+0000012 860  VVG     looking                  A8 X3.4 X2.4 X7+ Z4 
+0000012 870  AT      the                      S3.2[i64.3.1 Z5 
+0000012 880  JJ      other                    S3.2[i64.3.2 A6.1- 
+0000012 890  NN1     way                      S3.2[i64.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000012 900  CSA     as                       Z5 
+0000012 910  NP1     Turkey                   Z2 
+0000012 920  VVZ     creeps                   M1/N3.8--- 
+0000012 930  II      toward                   Z5 
+0000012 940  NN1     authoritarianism         S7.1+ 
+0000012 941  .       .                        
+0000012 942  -----   -----                    
+0000012 950  NN2     Countries                M7 
+0000012 960  II      from                     Z5 
+0000012 970  NP1     Saudi                    Z2[i66.2.1 Z2 Z1mf[i65.2.1 Z3c[i65.2.1 
+0000012 980  NP1     Arabia                   Z2[i66.2.2 Z2 Z1mf[i65.2.2 Z3c[i65.2.2 
+0000012 990  II      to                       Z5 
+0000012 000  NP1     Cambodia                 Z2 
+0000012 010  VV0     appear                   A8 A10+ A3+ G2.1 K4 Q4 
+0000012 020  RRR     less                     A13.6 
+0000012 030  VVN     inhibited                S8- A1.7+ 
+0000012 040  II      in                       Z5 
+0000012 050  VVG     going                    M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000012 060  II      after                    Z5 
+0000012 070  JJ      political                G1.2 
+0000012 080  NN2     opponents                S7.3/S2mf 
+0000012 081  ,       ,                        
+0000012 090  VVG     assuming                 X2.1 A5.4-/A8 
+0000012 100  CST     that                     Z8 Z5 
+0000012 110  VVZ     Trumps                   K5.2 
+0000012 120  NN1     election                 G1.2/X7+ 
+0000012 130  VVZ     means                    Q1.1 X7+ 
+0000012 140  CST     that                     Z8 Z5 
+0000012 150  PPHS2   they                     Z8mfn 
+0000012 160  VM      will                     T1.1.3 
+0000012 170  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000012 180  AT1     a                        Z5 
+0000012 190  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000012 200  NN1     pass                     K5.1 X9.2+ Q1.2 W3 S3.2 
+0000012 210  II@     on                       Z5 
+0000012 220  JJ      human                    G1.2[i67.2.1 G2.1[i67.2.1 S2 S1.2.1+ 
+0000012 230  NN2     rights                   G1.2[i67.2.2 G2.1[i67.2.2 S7.4+ G2.2+ M6 G1.2 
+0000012 240  NN2     violations               G2.1- A1.9 E3- 
+0000012 241  .       .                        
+0000013 001  -----   -----                    
+0000014 010  RR31    By                       Z6[i68.3.1 
+0000014 020  RR32    no                       Z6[i68.3.2 Z6 
+0000014 030  RR33    means                    Z6[i68.3.3 
+0000014 040  VBZ     is                       A3+ Z5 
+0000014 050  JJ      authoritarian            S7.1+ 
+0000014 060  NN1     retrenchment             I1.2/A1.3+ 
+0000014 070  AT1     a                        Z5 
+0000014 080  JJ      new                      T3- 
+0000014 090  NN1     phenomenon               A3 X3.4 A1.1.1 
+0000014 091  .       .                        
+0000014 092  -----   -----                    
+0000014 100  IF      For                      Z5 
+0000014 110  AT      the                      Z5 
+0000014 120  JJ      past                     T1.1.1 
+0000014 130  NNT1    decade                   T1.3 
+0000014 131  ,       ,                        
+0000014 140  NN2     governments              G1.1c 
+0000014 150  VH0     have                     Z5 A9+ A2.2 S4 
+0000014 160  VBN     been                     Z5 A3+ 
+0000014 170  VVG     dismantling              A1.1.1 
+0000014 180  JJ      democratic               G1.2 
+0000014 190  NN2     institutions             S5+c S7.1+ H1c S1.1.1 T2+ 
+0000014 200  CC      and                      Z5 
+0000014 210  VVG     curtailing               N5-/A2.1 
+0000014 220  JJ      human                    G1.2[i69.2.1 G2.1[i69.2.1 S2 S1.2.1+ 
+0000014 230  NN2     rights                   G1.2[i69.2.2 G2.1[i69.2.2 S7.4+ G2.2+ M6 G1.2 
+0000014 231  .       .                        
+0000014 232  -----   -----                    
+0000014 240  NN1     Freedom                  A1.7- 
+0000014 250  NN1     House                    H1 P1/S5+c G1.1c 
+0000014 260  VHZ     has                      Z5 A9+ A2.2 S4 
+0000014 270  VVN     documented               Q1.2 X2.2+ A5.2+ 
+0000014 280  MC      11                       N1 T1.2 T3 T1.3 N3.2 
+0000014 290  JJ      straight                 O4.4 A5.2+ N4 A7+ A6.2+ S3.2 F2 
+0000014 300  NNT2    years                    T1.3 
+0000014 310  II      in                       Z5 
+0000014 320  DDQ     which                    Z5 Z8 
+0000014 330  EX      there                    Z5 
+0000014 340  VH0     have                     Z5 A9+ A2.2 S4 
+0000014 350  VBN     been                     A3+ Z5 
+0000014 360  RRR     more                     A13.3 N6++ 
+0000014 370  VVZ     declines                 N5-/A2.1 Q2.2 
+0000014 380  II      in                       Z5 
+0000014 390  JJ      political                G1.2 
+0000014 400  CC      and                      Z5 
+0000014 410  JJ      civil                    G1.1 S1.2.4+ G2.1 H1% 
+0000014 420  NN2     liberties                A1.7- 
+0000014 430  CSN     than                     Z5 
+0000014 440  NN2     gains                    X9.2+ I1.1 A9+ 
+0000014 441  .       .                        
+0000014 442  -----   -----                    
+0000014 450  RR      However                  Z4 
+0000014 451  ,       ,                        
+0000014 460  AT      the                      Z5 
+0000014 470  NP1     United                   Z2c[i72.2.1 Z2c[i71.2.1 Z3c Z1mf[i70.2.1 Z3c[i70.2.1 
+0000014 480  NP1     States                   Z2c[i72.2.2 Z2c[i71.2.2 Z2 Z1mf[i70.2.2 Z3c[i70.2.2 
+0000014 490  RR      often                    N6+ 
+0000014 500  VVN     served                   S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
+0000014 510  II      as                       Z5 
+0000014 520  AT1     a                        Z5 
+0000014 530  NN1     check                    X2.4/A5.3 I1.3 O4.4/B5 
+0000014 540  II      on                       Z5 
+0000014 550  AT      the                      Z5 
+0000014 560  JJT     worst                    A5.1--- 
+0000014 570  NN2     impulses                 X7++ O3@ 
+0000014 580  IO      of                       Z5 
+0000014 590  NN2     autocrats                S7.1+/S2mf 
+0000014 591  .       .                        
+0000014 592  -----   -----                    
+0000014 600  IW      Without                  Z5 
+0000014 610  AT1     a                        Z5 
+0000014 620  NN1     champion                 X9.2+/S7.3/S2mf S8+/S2mf 
+0000014 630  IO      of                       Z5 
+0000014 640  JJ      human                    G1.2[i73.2.1 G2.1[i73.2.1 S2 S1.2.1+ 
+0000014 650  NN2     rights                   G1.2[i73.2.2 G2.1[i73.2.2 S7.4+ G2.2+ M6 G1.2 
+0000014 660  II      in                       Z5 
+0000014 670  AT      the                      Z5 
+0000014 680  NP1     White                    Z3c[i74.2.1 Z2[i74.2.1 Z1mf 
+0000014 690  NN1     House                    Z3c[i74.2.2 Z2[i74.2.2 H1 P1/S5+c G1.1c 
+0000014 691  ,       ,                        
+0000014 700  DA      such                     Z5 Z8 
+0000014 710  NN2     regimes                  G1.1 S7.1+ B3 
+0000014 720  VM      will                     T1.1.3 
+0000014 730  RR@     likely                   A7+ 
+0000014 740  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000014 750  JJ      unchallenged             A6.1+ S7.1+ Q2.2- 
+0000014 760  CSA     as                       Z5 
+0000014 770  PPHS2   they                     Z8mfn 
+0000014 780  VV0     commit                   A1.1.1 S6+ A1.7+/G2.1 
+0000014 790  JJ      egregious                Z99 
+0000014 800  NN2     abuses                   E3- Q2.2 G2.2- A1.5.1/A5.1- 
+0000014 810  CC      and                      Z5 
+0000014 820  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000014 830  NN2     grabs                    A9+ O2 
+0000014 831  .       .                        
+0000015 001  -----   -----                    
+0000016 010  DD1     This                     M6 Z5 Z8 
+0000016 020  NN1     capitulation             S7.1- 
+0000016 030  VM      would                    A7+ 
+0000016 040  VHI     have                     A9+ Z5 A2.2 S4 
+0000016 050  JJ      major                    A11.1+ N3.2+ 
+0000016 060  NN1     security                 G2.1 A15+ E6+ I1.1 
+0000016 070  CC      and                      Z5 
+0000016 080  JJ      economic                 I1.3- I2.1 
+0000016 090  NN2     consequences             A2.2 
+0000016 100  IF      for                      Z5 
+0000016 110  AT      the                      Z5 
+0000016 120  NP1     United                   Z2c[i77.2.1 Z2c[i76.2.1 Z3c Z1mf[i75.2.1 Z3c[i75.2.1 
+0000016 130  NP1     States                   Z2c[i77.2.2 Z2c[i76.2.2 Z2 Z1mf[i75.2.2 Z3c[i75.2.2 
+0000016 140  CC      and                      Z5 
+0000016 150  APPGE   its                      Z8 
+0000016 160  JJT     closest                  N3.3--- A4.2+++ S5+++ S1.1.3+++ A6.1+++ E2+++ W4 
+0000016 170  NN2     allies                   S5+ 
+0000016 171  .       .                        
+0000016 172  -----   -----                    
+0000016 180  II31    In                       N5++[i78.3.1 Z5 
+0000016 190  II32    addition                 N5++[i78.3.2 
+0000016 200  II33    to                       N5++[i78.3.3 Z5 
+0000016 210  AT      the                      Z5 
+0000016 220  JJ      moral                    G2.2+ E1 
+0000016 230  NN1     imperative               Q3 
+0000016 231  ,       ,                        
+0000016 240  NP1     America                  Z2 
+0000016 250  VHZ     has                      A9+ Z5 A2.2 S4 
+0000016 260  JJ      strong                   S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+ 
+0000016 270  NN2     interests                X5.2+ I1.1 S8+ S1.1.3+ 
+0000016 280  II      in                       Z5 
+0000016 290  JJ      supporting               S8+ A1.1.1 K5.1 I1.1 A10+ 
+0000016 300  NN1     democracy                G1.2 
+0000016 310  CC      and                      Z5 
+0000016 320  JJ      human                    G1.2[i79.2.1 G2.1[i79.2.1 S2 S1.2.1+ 
+0000016 330  NN2     rights                   G1.2[i79.2.2 G2.1[i79.2.2 S7.4+ G2.2+ M6 G1.2 
+0000016 340  RL      abroad                   M7 
+0000016 341  .       .                        
+0000017 001  -----   -----                    
+0000018 010  MD      First                    N4 
+0000018 011  ,       ,                        
+0000018 020  JJ      democratic               G1.2 
+0000018 030  NN2     countries                M7 
+0000018 040  VV0     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000018 050  AT      the                      Z5 
+0000018 060  JJT     best                     A5.1+++ G2.2+++ O4.2+++ 
+0000018 061  ,       ,                        
+0000018 070  RGT     most                     A13.2 
+0000018 080  JJ      stable                   A2.1- S1.2 O4.1 
+0000018 090  NN2     partners                 S3.1/S2mf S3.2/S2mf S4mf 
+0000018 091  .       .                        
+0000018 092  -----   -----                    
+0000018 100  NN2     Democracies              G1.2 
+0000018 110  VBR     are                      A3+ Z5 
+0000018 120  RGR     more                     A13.3 
+0000018 130  JJ      likely                   A7+ A1.2+ 
+0000018 140  TO      to                       Z5 
+0000018 150  VVI     form                     T2+ A2.1+ A1.8+ A3+ A1.1.1 
+0000018 160  NN2     alliances                S5+c 
+0000018 170  CC      and                      Z5 
+0000018 180  VVI     cooperate                S8+ 
+0000018 190  IW      with                     Z5 
+0000018 200  JJ      other                    A6.1- 
+0000018 210  NN2     democracies              G1.2 
+0000018 220  CC      and                      Z5 
+0000018 230  RGR     less                     A13.6 
+0000018 240  JJ      likely                   A7+ A1.2+ 
+0000018 250  TO      to                       Z5 
+0000018 260  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000018 270  VVN     embroiled                S1.1.3+ 
+0000018 280  II      in                       Z5 
+0000018 290  NN1     conflict                 A6.1- G3 E3- 
+0000018 291  .       .                        
+0000018 292  -----   -----                    
+0000018 300  AT      The                      Z5 
+0000018 310  NP1     U.S.                     Z8 
+0000018 320  NN1@    military                 G3 
+0000018 330  VVZ     understands              X2.5+ 
+0000018 340  AT      the                      Z5 
+0000018 350  NN1     value                    A11.1+ I1.3 G2.2 A4.1 N1 
+0000018 360  IO      of                       Z5 
+0000018 370  VHG     having                   A9+ Z5 A2.2 S4 
+0000018 380  NN2     partners                 S3.1/S2mf S3.2/S2mf S4mf 
+0000018 390  CST     that                     Z8 Z5 
+0000018 400  VV0@    respect                  S7.2+ 
+0000018 410  JJ      human                    G1.2[i80.2.1 G2.1[i80.2.1 S2 S1.2.1+ 
+0000018 420  NN2     rights                   G1.2[i80.2.2 G2.1[i80.2.2 S7.4+ G2.2+ M6 G1.2 
+0000018 430  CC      and                      Z5 
+0000018 440  AT      the                      Z5 
+0000018 450  NN1     rule                     G2.1 X4.2 A6.2+ S7.1+ Q3 
+0000018 460  IO      of                       Z5 
+0000018 470  NN1     law                      G2.1 S6+ Y1 
+0000018 471  ,       ,                        
+0000018 480  CC      and                      Z5 
+0000018 490  RR      thus                     Z5/A2.2 
+0000018 500  VVZ     invests                  I1.1 
+0000018 510  NNO2    billions                 N5+ 
+0000018 520  AT1     a                        Z5 
+0000018 530  NNT1    year                     T1.3 P1c 
+0000018 540  II      in                       Z5 
+0000018 550  VVG     enhancing                A5.1+/A2.1 
+0000018 560  AT      the                      Z5 
+0000018 570  NN1     professionalism          I3.2+ 
+0000018 580  IO      of                       Z5 
+0000018 590  NN1     security                 G2.1 A15+ E6+ I1.1 
+0000018 600  NN2     forces                   G3 G2.1 E3- S7.1+ N3 S5+ 
+0000018 610  RL      overseas                 M6 
+0000018 611  .       .                        
+0000018 612  -----   -----                    
+0000018 620  JJ      Recent                   T3- 
+0000018 630  NN1     research                 X2.4 
+0000018 640  VHZ     has                      Z5 A9+ A2.2 S4 
+0000018 650  VVN     deepened                 N3.3+/A2.1 N5+/A2.1 O4.3 
+0000018 660  APPGE   our                      Z8 
+0000018 670  NN1     understanding            X2.5+ 
+0000018 680  IO      of                       Z5 
+0000018 690  AT      the                      Z5 
+0000018 700  NN2     benefits                 S8+ I1.1/G1.1 
+0000018 710  IF      for                      Z5 
+0000018 720  JJ      American                 Z2 
+0000018 730  NN1     security                 G2.1 A15+ E6+ I1.1 
+0000018 740  IO      of                       Z5 
+0000018 750  VHG     having                   A9+ Z5 A2.2 S4 
+0000018 760  JJ      broad                    A4.2- A6.3+ N3.7+ N5+ Q3 
+0000018 770  CC      and                      Z5 
+0000018 780  JJ      deep                     N3.7+ N5+ O4.3 A4.2+ E4.1- X3.2 
+0000018 790  NN2     ties                     B5 O2 S5+ S6+ A1.7+ K5.1/S7.3+ 
+0000018 800  II      to                       Z5 
+0000018 810  JJ      other                    A6.1- 
+0000018 820  NN2     countries                M7 
+0000018 821  .       .                        
+0000018 822  -----   -----                    
+0000018 830  II      In                       Z5 
+0000018 840  AT1     a                        Z5 
+0000018 850  JJ      statistical              N2 
+0000018 860  NN1     analysis                 X2.4 Y1 
+0000018 870  IO      of                       Z5 
+0000018 880  JJ      Muslim-majority          Z99 
+0000018 890  NN2     countries                M7 
+0000018 900  NN1     cooperation              S8+ 
+0000018 910  IW      with                     Z5 
+0000018 920  AT      the                      Z5 
+0000018 930  NP1     United                   Z2c[i83.2.1 Z2c[i82.2.1 Z3c Z1mf[i81.2.1 Z3c[i81.2.1 
+0000018 940  NP1     States                   Z2c[i83.2.2 Z2c[i82.2.2 Z2 Z1mf[i81.2.2 Z3c[i81.2.2 
+0000018 950  II      on                       Z5 
+0000018 960  NN1     counterterrorism         Z99 
+0000018 961  ,       ,                        
+0000018 970  NP1     Peter                    Z1mf[i85.3.1 Z3c[i85.3.1 Z1m Z1mf[i84.2.1 Z3c[i84.2.1 
+0000018 980  NP1     S.                       Z1mf[i85.3.2 Z3c[i85.3.2 Z1mf[i84.2.2 Z3c[i84.2.2 Z1mf[i86.2.1 Z3c[i86.2.1 
+0000018 990  NP1     Henne                    Z3c[i85.3.3 Z1mf[i85.3.3 Z1mf[i86.2.2 Z3c[i86.2.2 
+0000018 000  VVD     found                    A10+ X2.1 X6+ 
+0000018 010  NN2     states                   G1.1c O4.1 
+0000018 020  CST     that                     Z8 Z5 
+0000018 030  VVD     received                 A9+ S5+ 
+0000018 040  RGR     more                     A13.3 
+0000018 050  JJ      foreign                  M7 
+0000018 060  NN1     assistance               S8+ 
+0000018 070  VBDR    were                     A3+ Z5 
+0000018 080  RGR     more                     A13.3 
+0000018 090  JJ      collaborative            S1.1.3+ S8+ 
+0000018 100  CSN     than                     Z5 
+0000018 110  DD2     those                    Z5 Z8 
+0000018 120  CST     that                     Z8 Z5 
+0000018 130  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000018 140  XX      not                      Z6 
+0000018 141  .       .                        
+0000018 142  -----   -----                    
+0000018 150  RR      Conversely               A6.1- 
+0000018 151  ,       ,                        
+0000018 160  VVD     emboldened               S8+ X5.2+ 
+0000018 170  NN2     dictators                S7.1+/S2mf Q2.2/S2mf 
+0000018 180  VV0     tend                     A6.2+ A8 S8+ X5.1+ 
+0000018 190  TO      to                       Z5 
+0000018 200  VVI     pursue                   A1.1.1 X8+ X2.4 M1 
+0000018 210  JJ      foreign                  M7 
+0000018 220  NN1     policy                   X7+ Q1.2 
+0000018 230  NN2     agendas                  Q1.2/X7+ 
+0000018 240  CST     that                     Z8 Z5 
+0000018 250  VBR     are                      A3+ Z5 
+0000018 260  JJ      erratic                  A6.3+ 
+0000018 270  CC      and                      Z5 
+0000018 280  JJ      destructive              A1.1.2 S8- 
+0000018 290  IF      for                      Z5 
+0000018 300  AT      the                      Z5 
+0000018 310  NP1     United                   Z2c[i89.2.1 Z2c[i88.2.1 Z3c Z1mf[i87.2.1 Z3c[i87.2.1 
+0000018 320  NP1     States                   Z2c[i89.2.2 Z2c[i88.2.2 Z2 Z1mf[i87.2.2 Z3c[i87.2.2 
+0000018 330  CC      and                      Z5 
+0000018 340  APPGE   its                      Z8 
+0000018 350  NN2     allies                   S5+ 
+0000018 351  .       .                        
+0000018 352  -----   -----                    
+0000018 360  NP1     North                    M6 
+0000018 370  JJ      Korean                   Z2 Z2/Q3 
+0000018 380  NN1     ruler                    S7.1+/S2mf O2 
+0000018 390  NP1     Kim                      Z1mf[i90.2.1 Z3c[i90.2.1 Z1mf Z3c 
+0000018 400  NP1     Jong                     Z1mf[i90.2.2 Z3c[i90.2.2 
+0000018 410  FW      Uns                      Z3c 
+0000018 420  NN1     spate                    N5+ 
+0000018 430  IO      of                       Z5 
+0000018 440  JJ      nuclear                  Y1 B1 S5+% 
+0000018 450  NN2     tests                    P1 B3 X2.4 K5.1@ 
+0000018 460  CC      and                      Z5 
+0000018 470  NN1     missile                  G3 
+0000018 480  NN2     launches                 M4fn M5 T2+ 
+0000018 490  CC      and                      Z5 
+0000018 500  JJ      Russian                  Z2 
+0000018 510  NNB     President                G1.1/S7.1+/S2mf 
+0000018 520  NP1     Vladimir                 Z99 
+0000018 530  NP2     Putins                   Z99 
+0000018 540  NN1     annexation               A9+ G1.2 G3 
+0000018 550  IO      of                       Z5 
+0000018 560  NP1     Crimea                   Z2 
+0000018 570  CC      and                      Z5 
+0000018 580  NN2     incursions               G3 
+0000018 590  II      into                     Z5 
+0000018 600  JJ      eastern                  M6 
+0000018 610  NP1     Ukraine                  Z2 Z3c 
+0000018 620  VBR     are                      A3+ Z5 
+0000018 630  JJ      emblematic               X4.1 Q1.1 A6.2+ 
+0000018 640  IO      of                       Z5 
+0000018 650  AT      the                      Z5 
+0000018 660  NN1     kind                     A4.1 
+0000018 670  IO      of                       Z5 
+0000018 680  JJ      aggressive               E3- 
+0000018 690  NN1     behavior                 S1.1.1 A1.1.1 
+0000018 700  AT      the                      Z5 
+0000018 710  JJ      international            M7 
+0000018 720  NN1     community                S5+c 
+0000018 730  VHZ     has                      Z5 A9+ A2.2 S4 
+0000018 740  VVN     come                     A1.1.1 
+0000018 750  TO      to                       Z5 
+0000018 760  VVI     expect                   X2.6+ B1 
+0000018 770  II      from                     Z5 
+0000018 780  JJ      autocratic               S7.1+ 
+0000018 790  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000018 791  .       .                        
+0000019 001  -----   -----                    
+0000020 010  MD      Second                   N4 
+0000020 011  ,       ,                        
+0000020 020  II21    contrary                 A6.1-[i91.2.1 
+0000020 030  II22    to                       A6.1-[i91.2.2 Z5 
+0000020 040  AT      the                      Z5 
+0000020 050  NN2     presidents               G1.1/S7.1+/S2mf 
+0000020 060  NN2     assertions               Q2.1 Q2.2 
+0000020 061  ,       ,                        
+0000020 070  AT      the                      Z5 
+0000020 080  NP1     United                   Z2c[i94.2.1 Z2c[i93.2.1 Z3c Z1mf[i92.2.1 Z3c[i92.2.1 
+0000020 090  NP1     States                   Z2c[i94.2.2 Z2c[i93.2.2 Z2 Z1mf[i92.2.2 Z3c[i92.2.2 
+0000020 100  VHZ     has                      Z5 A9+ A2.2 S4 
+0000020 110  VVN     benefitted               S8+ 
+0000020 120  RR      immensely                A13.3 
+0000020 130  II      from                     Z5 
+0000020 140  AT      the                      Z5 
+0000020 150  JJ      liberal                  A1.7- G1.2 N5+ 
+0000020 160  NN1     world                    W1 S5+c A4.1 N5+ 
+0000020 170  NN1     order                    S7.1+/Q2.2 I2.2/Q2.2 A4.1 N4 G2.1+ G2.1 Q1.2/I1.1 O4.2+ 
+0000020 180  CST     that                     Z8 Z5 
+0000020 190  PPH1    it                       Z8 
+0000020 200  VVD     helped                   S8+ 
+0000020 210  VVI     create                   A1.1.1 A2.2 E1 
+0000020 211  .       .                        
+0000020 212  -----   -----                    
+0000020 220  II      From                     Z5 
+0000020 230  AT      the                      Z5 
+0000020 240  NN2     ashes                    O1.1 L3 
+0000020 250  IO      of                       Z5 
+0000020 260  NN1     World                    Z3[i96.3.1 W1 S5+c A4.1 N5+ G3[i95.2.1 
+0000020 270  NN1     War                      Z3[i96.3.2 G3 S7.3 G3[i95.2.2 
+0000020 280  MC      II                       Z3[i96.3.3 N1 
+0000020 281  ,       ,                        
+0000020 290  NP1     America                  Z2 
+0000020 300  VVD     invested                 I1.1 
+0000020 310  II      in                       Z5 
+0000020 320  VVG     interlocking             A1.1.1 
+0000020 330  JJ      political                G1.2 
+0000020 340  CC      and                      Z5 
+0000020 350  JJ      economic                 I1.3- I2.1 
+0000020 360  NN2     institutions             S5+c S7.1+ H1c S1.1.1 T2+ 
+0000020 361  ,       ,                        
+0000020 370  NN2     alliances                S5+c 
+0000020 371  ,       ,                        
+0000020 380  CC      and                      Z5 
+0000020 390  NN2     norms                    A6.2+ 
+0000020 400  VVN     based                    A2.2[i97.2.1 T2+ M6 A2.2 
+0000020 410  II      on                       A2.2[i97.2.2 Z5 
+0000020 420  JJ      universal                W3 M7 A1.8+ N5.1+ X2.2 A5.2+ 
+0000020 430  JJ      human                    G1.2[i98.2.1 G2.1[i98.2.1 S2 S1.2.1+ 
+0000020 440  NN2     rights                   G1.2[i98.2.2 G2.1[i98.2.2 S7.4+ G2.2+ M6 G1.2 
+0000020 441  ,       ,                        
+0000020 450  JJ      shared                   S1.1.2+ 
+0000020 460  NN2     values                   A11.1+ I1.3 G2.2 A4.1 N1 
+0000020 461  ,       ,                        
+0000020 470  CC      and                      Z5 
+0000020 480  AT      the                      Z5 
+0000020 490  NN1     rule                     G2.1 X4.2 A6.2+ S7.1+ Q3 
+0000020 500  IO      of                       Z5 
+0000020 510  NN1     law                      G2.1 S6+ Y1 
+0000020 520  CST     that                     Z8 Z5 
+0000020 530  VM      would                    A7+ 
+0000020 540  VVI     prevent                  S8- 
+0000020 550  JJ      large-scale              N3.2+ N5+ 
+0000020 560  NN1     conflict                 A6.1- G3 E3- 
+0000020 570  CC      and                      Z5 
+0000020 580  NN1     displacement             M2 
+0000020 590  II      in                       Z5 
+0000020 600  AT      the                      Z5 
+0000020 610  NN1     future                   T1.1.3 
+0000020 620  CC      and                      Z5 
+0000020 630  NN1     fuel                     O1 
+0000020 640  NP2     Europes                  Z2 
+0000020 650  NN1     recovery                 B2+ A5.1+/A2.1 A9+ 
+0000020 660  II      from                     Z5 
+0000020 670  AT      the                      Z5 
+0000020 680  NN1     war                      G3 S7.3 
+0000020 681  .       .                        
+0000020 682  -----   -----                    
+0000020 690  AT      The                      Z5 
+0000020 700  NP1     United                   Z2c[i101.2.1 Z2c[i100.2.1 Z3c Z1mf[i99.2.1 Z3c[i99.2.1 
+0000020 710  NP1     States                   Z2c[i101.2.2 Z2c[i100.2.2 Z2 Z1mf[i99.2.2 Z3c[i99.2.2 
+0000020 720  VHZ     has                      Z5 A9+ A2.2 S4 
+0000020 730  VBN     been                     A3+ Z5 
+0000020 740  RR      both                     Z5 
+0000020 750  AT      the                      Z5 
+0000020 760  JJ      primary                  A11.1+ P1 
+0000020 770  NN1     engine                   O2 Y2@ 
+0000020 780  CC      and                      Z5 
+0000020 790  NN1     beneficiary              A9+/S2mf 
+0000020 800  IO      of                       Z5 
+0000020 810  DD1     this                     M6 Z5 Z8 
+0000020 820  JJ      liberal                  A1.7- G1.2 N5+ 
+0000020 830  JJ      international            M7 
+0000020 840  NN1     order                    S7.1+/Q2.2 I2.2/Q2.2 A4.1 N4 G2.1+ G2.1 Q1.2/I1.1 O4.2+ 
+0000020 841  .       .                        
+0000020 842  -----   -----                    
+0000020 850  TO      To                       Z5 
+0000020 860  VBI     be                       A3+ Z5 
+0000020 870  JJ      clear                    A7+ A10+ O4.3 O4.1 N5.1+ W4 
+0000020 871  ,       ,                        
+0000020 880  NN1     inequality               A6.1- S7.1- 
+0000020 890  VHZ     has                      Z5 A9+ A2.2 S4 
+0000020 900  VBN     been                     A3+ Z5 
+0000020 910  AT1     a                        Z5 
+0000020 920  JJ      terrible                 A5.1- 
+0000020 930  NN1     byproduct                Z99 
+0000020 940  IO      of                       Z5 
+0000020 950  DD1     this                     M6 Z5 Z8 
+0000020 960  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000020 970  CC      and                      Z5 
+0000020 980  RG      too                      N5.2+[i102.2.1 N5.2+ A13.3 
+0000020 990  DA2     many                     N5.2+[i102.2.2 N5+ 
+0000020 000  VH0     have                     Z5 A9+ A2.2 S4 
+0000020 010  VBN     been                     Z5 A3+ 
+0000020 020  VVN     left                     M2[i103.2.1 S7.1+[i103.2.1 M1 M2 A1.1.1 A1.9 A9- N5.2+ T2- 
+0000020 030  RL@     behind                   M2[i103.2.2 S7.1+[i103.2.2 M6 A6.1- 
+0000020 031  .       .                        
+0000020 032  -----   -----                    
+0000020 040  CCB     But                      Z5 
+0000020 041  ,       ,                        
+0000020 050  RR      far                      A13.3 N3.3+ X9.2+ 
+0000020 060  II      from                     Z5 
+0000020 070  VBG     being                    Z5 A3+ 
+0000020 080  VVN     victimized               E3- 
+0000020 090  II      by                       Z5 
+0000020 100  NN1     globalization            Z99 
+0000020 101  ,       ,                        
+0000020 110  AT      the                      Z5 
+0000020 120  NP1     United                   Z2c[i106.2.1 Z2c[i105.2.1 Z3c Z1mf[i104.2.1 Z3c[i104.2.1 
+0000020 130  NP1     States                   Z2c[i106.2.2 Z2c[i105.2.2 Z2 Z1mf[i104.2.2 Z3c[i104.2.2 
+0000020 140  VHZ     has                      Z5 A9+ A2.2 S4 
+0000020 150  VVN     enjoyed                  E2+ A9+ E4.1+ 
+0000020 160  RR      nearly                   A13.4 
+0000020 170  MC      70                       N1 T1.2 T3 T1.3 N3.2 
+0000020 180  NNT2    years                    T1.3 
+0000020 190  IO      of                       Z5 
+0000020 200  JJ      unparalleled             A5.1+++ 
+0000020 210  NN1     influence                S7.1+ A2.2 
+0000020 220  II21    because                  A2.2[i107.2.1 
+0000020 230  II22    of                       A2.2[i107.2.2 
+0000020 240  APPGE   its                      Z8 
+0000020 250  NN1     investment               I1.1 
+0000020 260  II      in                       Z5 
+0000020 270  AT      the                      Z5 
+0000020 280  NN1     promotion                S7.1+/A2.1 I2.2/Q2.2 S8+ 
+0000020 290  IO      of                       Z5 
+0000020 300  NN1     democracy                G1.2 
+0000020 310  CC      and                      Z5 
+0000020 320  JJ      human                    G1.2[i108.2.1 G2.1[i108.2.1 S2 S1.2.1+ 
+0000020 330  NN2     rights                   G1.2[i108.2.2 G2.1[i108.2.2 S7.4+ G2.2+ M6 G1.2 
+0000020 331  .       .                        
+0000021 001  -----   -----                    
+0000022 010  RR      Finally                  N4 
+0000022 011  ,       ,                        
+0000022 020  NP1     U.S.                     Z8 
+0000022 030  NN1     support                  S8+ O2 I1.1 B5% 
+0000022 040  IF      for                      Z5 
+0000022 050  NN1     democracy                G1.2 
+0000022 060  CC      and                      Z5 
+0000022 070  JJ      human                    G1.2[i109.2.1 G2.1[i109.2.1 S2 S1.2.1+ 
+0000022 080  NN2     rights                   G1.2[i109.2.2 G2.1[i109.2.2 S7.4+ G2.2+ M6 G1.2 
+0000022 090  NN2     matters                  X4.1 O1 
+0000022 100  II      in                       Z5 
+0000022 110  NN2     peoples                  S2mf 
+0000022 120  NN2     lives                    L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000022 121  .       .                        
+0000022 122  -----   -----                    
+0000022 130  PPH1    It                       Z8 
+0000022 140  VBZ     is                       A3+ Z5 
+0000022 150  JJ      true                     A5.2+ A5.4+ 
+0000022 160  CST     that                     Z5 Z8 
+0000022 170  AT      the                      Z5 
+0000022 180  NP1     United                   Z2c[i112.2.1 Z2c[i111.2.1 Z3c Z1mf[i110.2.1 Z3c[i110.2.1 
+0000022 190  NP1     States                   Z2c[i112.2.2 Z2c[i111.2.2 Z2 Z1mf[i110.2.2 Z3c[i110.2.2 
+0000022 200  VHZ     has                      Z5 A9+ A2.2 S4 
+0000022 210  VBN     been                     A3+ Z5 
+0000022 220  RG21    far                      N3.3+ A13.3 X9.2+ 
+0000022 230  RG22    from                     Z5 
+0000022 240  JJ      perfect                  A5.1+++ A1.2+++ Q3 
+0000022 250  II      in                       Z5 
+0000022 260  VVG     championing              S8+ 
+0000022 270  JJ      human                    G1.2[i113.2.1 G2.1[i113.2.1 S2 S1.2.1+ 
+0000022 280  NN2     rights                   G1.2[i113.2.2 G2.1[i113.2.2 S7.4+ G2.2+ M6 G1.2 
+0000022 281  ,       ,                        
+0000022 290  RR      especially               A14 
+0000022 300  CS      where                    M6 
+0000022 310  NP1     America                  Z2 
+0000022 320  VHZ     has                      A9+ Z5 A2.2 S4 
+0000022 330  JJ      short-term               T1.3- 
+0000022 340  NN1     security                 G2.1 A15+ E6+ I1.1 
+0000022 350  NN2     interests                X5.2+ I1.1 S8+ S1.1.3+ 
+0000022 351  .       .                        
+0000022 352  -----   -----                    
+0000022 360  RR      Yet                      T1.1.2 
+0000022 370  EX      there                    Z5 
+0000022 380  VBZ     is                       A3+ Z5 
+0000022 390  AT      no                       Z6 
+0000022 400  JJ      other                    A6.1- 
+0000022 410  NN1     country                  G1.1c W3 F4/M7 K2 
+0000022 420  CST     that                     Z8 Z5 
+0000022 430  VM      can                      A7+ 
+0000022 440  VVI     substitute               A2.1+ 
+0000022 450  IF      for                      Z5 
+0000022 460  AT      the                      Z5 
+0000022 470  NP1     United                   Z2c[i116.2.1 Z2c[i115.2.1 Z3c Z1mf[i114.2.1 Z3c[i114.2.1 
+0000022 480  NP1     States                   Z2c[i116.2.2 Z2c[i115.2.2 Z2 Z1mf[i114.2.2 Z3c[i114.2.2 
+0000022 490  CS      when                     Z5 
+0000022 500  PPH1    it                       Z8 
+0000022 510  VVZ     comes                    A4.1[i117.2.1 M1[i117.2.1 B1[i117.2.1 N5[i117.2.1 X6+[i117.2.1 X2.1[i117.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000022 520  II      to                       A4.1[i117.2.2 M1[i117.2.2 B1[i117.2.2 N5[i117.2.2 X6+[i117.2.2 X2.1[i117.2.2 Z5 
+0000022 530  VVG     fighting                 S8- X8+ E3- G1.2 
+0000022 540  IF      for                      Z5 
+0000022 550  JJ      universal                W3 M7 A1.8+ N5.1+ X2.2 A5.2+ 
+0000022 560  NN2     freedoms                 A1.7- 
+0000022 561  .       .                        
+0000022 562  -----   -----                    
+0000022 570  JJ      American                 Z2 
+0000022 580  NN2     presidents               G1.1/S7.1+/S2mf 
+0000022 581  ,       ,                        
+0000022 590  NN2     members                  S5+/S2mf B1 
+0000022 600  IO      of                       Z5 
+0000022 610  NN1     Congress                 Z3c 
+0000022 611  ,       ,                        
+0000022 620  CC      and                      Z5 
+0000022 630  NN1     cabinet                  H5 G1.1 
+0000022 640  NN2     secretaries              I3.2/S2mf S7.1+/S2mf 
+0000022 650  VH0     have                     Z5 A9+ A2.2 S4 
+0000022 660  RR      personally               S5- 
+0000022 670  VVN     intervened               S1.1.3+ N4 
+0000022 680  TO      to                       Z5 
+0000022 690  VVI     get                      A2.1+ A9+ Z5 X9.2+ A2.2 M1 M2 X2.5+ E4.1- 
+0000022 700  JJ      political                G1.2 
+0000022 710  NN2     prisoners                G2.1/S2mf A1.7+/S2mf 
+0000022 720  VVN     released                 A1.7- A9- 
+0000022 730  II      from                     Z5 
+0000022 740  NN1     jail                     G2.1/H1 
+0000022 741  ,       ,                        
+0000022 750  VV0     prevent                  S8- 
+0000022 760  NN1     genocide                 L1-/S5+ 
+0000022 761  ,       ,                        
+0000022 770  CC      and                      Z5 
+0000022 780  VV0     bring                    M2 A2.2 
+0000022 790  NN1     war                      G3/G2.1-mf[i118.2.1 G3 S7.3 
+0000022 800  NN2     criminals                G3/G2.1-mf[i118.2.2 G2.1-/S2mf 
+0000022 810  II      to                       Z5 
+0000022 820  NN1     justice                  G2.1+ G2.2+ 
+0000022 821  .       .                        
+0000022 822  -----   -----                    
+0000022 830  AT      The                      Z5 
+0000022 840  NN1     solidarity               S5+ 
+0000022 850  VVN     expressed                Q1.1 B1% 
+0000022 860  II      by                       Z5 
+0000022 870  NP1     U.S.                     Z8 
+0000022 880  JJ      political                G1.2 
+0000022 890  CC      and                      Z5 
+0000022 900  JJ      civil                    G1.1 S1.2.4+ G2.1 H1% 
+0000022 910  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000022 920  VHZ     has                      Z5 A9+ A2.2 S4 
+0000022 930  VVN     provided                 A9- S6+ 
+0000022 940  NN1     sustenance               F1 
+0000022 950  CC      and                      Z5 
+0000022 960  VV0     hope                     X2.6+ E4.1+ X9.2+ A5.1+ 
+0000022 970  II      to                       Z5 
+0000022 980  JJ      human                    G1.2[i119.2.1 G2.1[i119.2.1 S2 S1.2.1+ 
+0000022 990  NN2     rights                   G1.2[i119.2.2 G2.1[i119.2.2 S7.4+ G2.2+ M6 G1.2 
+0000022 000  NN2     defenders                S8+/S2mf G2.1/S2mf G3/S2mf O2 
+0000022 010  II      in                       Z5 
+0000022 020  AT      the                      Z5 
+0000022 030  JJT     grimmest                 E4.1- O4.2- 
+0000022 040  NN2     conditions               O4.1 S6+ B2- B2+ Z7 
+0000022 041  .       .                        
+0000022 042  -----   -----                    
+0000022 050  AT1     An                       Z5 
+0000022 060  JJ      Egyptian                 Z2 
+0000022 070  NN1     activist                 G1.2/S2mf 
+0000022 080  RR      once                     N6- T1.1.1 
+0000022 090  VVN     pulled                   M2 A9+ M1 
+0000022 100  AT1     a                        Z5 
+0000022 110  NN1     speech                   Q2.1 Q3 
+0000022 120  VVN     given                    A9- A1.1.1 
+0000022 130  II      by                       Z5 
+0000022 140  NNB     President                G1.1/S7.1+/S2mf 
+0000022 150  NP1     Barack                   Z1mf[i120.2.1 Z3c[i120.2.1 
+0000022 160  NP1     Obama                    Z1mf[i120.2.2 Z3c[i120.2.2 
+0000022 170  II      on                       Z5 
+0000022 180  AT      the                      Z5 
+0000022 190  JJ      vital                    A11.1+ X5.2+ 
+0000022 200  NN2     contributions            A9- A2.2 S1.1.3+ 
+0000022 210  IO      of                       Z5 
+0000022 220  JJ      civil                    G1.1 S1.2.4+ G2.1 H1% 
+0000022 230  NN1     society                  S5+c 
+0000022 240  II21    out                      Z5[i121.2.1 Z5 Z5[i122.2.1 A9-[i122.2.1 
+0000022 250  II22    of                       Z5[i121.2.2 Z5[i122.2.2 A9-[i122.2.2 
+0000022 260  APPGE   his                      Z8m 
+0000022 270  NN1     pocket                   B5 O2 I1.1 M7/N3.2- 
+0000022 280  CC      and                      Z5 
+0000022 290  VVD     said                     Q2.1 
+0000022 300  II      to                       Z5 
+0000022 310  PPIO1   me                       Z8mf 
+0000022 311  ,       ,                        
+0000022 312  NULL    <quote>                  
+0000022 313  -----   -----                    
+0000022 320  CS      When                     Z5 
+0000022 330  PPIS1   I                        Z8mf 
+0000022 340  VVD     heard                    X3.2 X2.3+ G2.1@ 
+0000022 350  DD2     these                    Z5 Z8 
+0000022 360  NN2     words                    Q3 
+0000022 361  ,       ,                        
+0000022 370  PPIS1   I                        Z8mf 
+0000022 380  VVD     knew                     X2.2+ S3.2/B1% 
+0000022 390  PPIS1   I                        Z8mf 
+0000022 400  VV0     wasnt                    Z99 
+0000022 410  RR      alone                    S5- A14 
+0000022 411  .       .                        
+0000022 412  NULL    </quote>                 
+0000022 413  -----   -----                    
+0000024 010  II      At                       Z5 
+0000024 020  AT1     a                        Z5 
+0000024 030  NN1     moment                   T1.2 T1.1.2 N3 
+0000024 040  II      in                       Z5 
+0000024 050  DDQ     which                    Z8 Z5 
+0000024 060  AT      the                      Z5 
+0000024 070  NN2     forces                   G3 G2.1 E3- S7.1+ N3 S5+ 
+0000024 080  IO      of                       Z5 
+0000024 090  NN1     nationalism              G1.2/M7 
+0000024 091  ,       ,                        
+0000024 100  NN1     authoritarianism         S7.1+ 
+0000024 101  ,       ,                        
+0000024 110  CC      and                      Z5 
+0000024 120  NN1     hatred                   E2- 
+0000024 130  VV0     threaten                 E3-/Q2.2 A15- X2.6+/O4.2- A7+ 
+0000024 140  TO      to                       Z5 
+0000024 150  VVI     tear                     A1.1.1 A1.1.2 
+0000024 160  APPGE   our                      Z8 
+0000024 170  NN2     societies                S5+ 
+0000024 180  RL      apart                    N3.3+ A1.8- S1.1.3- 
+0000024 190  RT      again                    N6+ Z4 
+0000024 191  ,       ,                        
+0000024 200  AT      the                      Z5 
+0000024 210  NP1     United                   Z2c[i125.2.1 Z2c[i124.2.1 Z3c Z1mf[i123.2.1 Z3c[i123.2.1 
+0000024 220  NP1     States                   Z2c[i125.2.2 Z2c[i124.2.2 Z2 Z1mf[i123.2.2 Z3c[i123.2.2 
+0000024 230  VVZ     needs                    S6+ 
+0000024 240  TO      to                       Z5 
+0000024 250  VVI     make                     A7+[i126.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000024 260  JJ      sure                     A7+[i126.2.2 A7+ Z4 
+0000024 270  CST     that                     Z5 Z8 
+0000024 280  DD2     those                    Z8 Z5 
+0000024 290  RR      bravely                  E5+ 
+0000024 300  VVG     fighting                 S8- X8+ E3- G1.2 
+0000024 310  II      against                  Z5 
+0000024 320  NN1     repression               S8- 
+0000024 330  CC      and                      Z5 
+0000024 340  NN1     injustice                G2.1- 
+0000024 350  DB      all                      N5.1+ 
+0000024 360  II      around                   Z5 
+0000024 370  AT      the                      Z5 
+0000024 380  NN1     world                    W1 S5+c A4.1 N5+ 
+0000024 390  VV0     know                     X2.2+ S3.2/B1% 
+0000024 400  CST     that                     Z8 Z5 
+0000024 410  PPHS2   they                     Z8mfn 
+0000024 420  VH0     have                     Z5 A9+ A2.2 S4 
+0000024 430  XX      not                      Z6 
+0000024 440  VBN     been                     Z5 A3+ 
+0000024 450  VVN     forgotten                X2.2- 
+0000024 451  .       .                        
+0000027 001  NULL    **8;7;text               

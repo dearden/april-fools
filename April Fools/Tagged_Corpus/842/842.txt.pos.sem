@@ -1,0 +1,1147 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VV0     URL                      Z99 
+0000002 020  NN2     shorteners               Z99 
+0000002 021  ,       ,                        
+0000002 030  II21    such                     Z5[i1.2.1 
+0000002 040  II22    as                       Z5[i1.2.2 Z5 
+0000002 050  NNU     bit.ly                   Z99 
+0000002 060  CC      and                      Z5 
+0000002 070  NN1     tinyurl                  Z99 
+0000002 071  ,       ,                        
+0000002 080  VBR     are                      A3+ Z5 
+0000002 090  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000002 100  CST     that                     Z8 Z5 
+0000002 110  VV0     help                     S8+ 
+0000002 120  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000002 130  JJR     longer                   T1.3++ N3.7++ N3.3++ N3.2++ 
+0000002 140  NN2     URLs                     Z99 
+0000002 141  (       (                        
+0000002 150  DDQ     which                    Z8 Z5 
+0000002 160  VM      can                      A7+ 
+0000002 170  VBI     be                       A3+ Z5 
+0000002 180  RG      over                     N5.2+ A13.2 
+0000002 190  AT1     a                        Z5 
+0000002 200  NNO     hundred                  N1 
+0000002 210  NN2     characters               S2mf K4/S2mf S1.2 S2mf/A6.2- Q1.2 A4.1 O4.2+ 
+0000002 220  RR      long                     T1.3+ 
+0000002 221  )       )                        
+0000002 230  CC      and                      Z5 
+0000002 240  VV0     transform                A2.1+ 
+0000002 250  PPHO2   them                     Z8mfn 
+0000002 260  II      into                     Z5 
+0000002 270  JJ      manageable               A12+ 
+0000002 280  NN2     links                    A2.2 S5+ M3 Q1.3 F1 K5.1/M7% 
+0000002 290  CST     that                     Z8 Z5 
+0000002 300  RR      almost                   A13.4 
+0000002 310  RR      never                    T1/Z6 
+0000002 320  VV0     exceed                   N5.2+ 
+0000002 330  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000002 340  NN2     characters               S2mf K4/S2mf S1.2 S2mf/A6.2- Q1.2 A4.1 O4.2+ 
+0000002 341  .       .                        
+0000002 342  -----   -----                    
+0000002 350  VV0     URL                      Z99 
+0000002 360  NN2     shorteners               Z99 
+0000002 370  VBR     are                      A3+ Z5 
+0000002 380  XX      not                      Z6 
+0000002 390  JJ      new                      T3- 
+0000002 391  -       -                        
+0000002 400  NP1     TinyURL                  Z99 
+0000002 410  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 420  VBN     been                     A3+ Z5 
+0000002 430  RP      around                   M6 
+0000002 440  II      since                    Z5 
+0000002 450  MC      2002                     N1 T1.2 T3 T1.3 N3.2 
+0000002 451  .       .                        
+0000002 452  -----   -----                    
+0000002 460  CCB     But                      Z5 
+0000002 470  APPGE   their                    Z8 
+0000002 480  NN1     popularity               E2+ 
+0000002 490  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 500  VVN     skyrocketed              N5+++/A2.1 
+0000002 510  IW      with                     Z5 
+0000002 520  AT      the                      Z5 
+0000002 530  NN1     rise                     N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 O4.4 
+0000002 540  IO      of                       Z5 
+0000002 550  NN1     Twitter                  Z99 
+0000002 551  ,       ,                        
+0000002 560  DDQ     which                    Z8 Z5 
+0000002 570  RR      only                     A14 
+0000002 580  VVZ     allows                   S7.4+ S8+ X2.1 
+0000002 590  IF      for                      Z5 
+0000002 600  MC      140                      N1 T1.2 T3 T1.3 N3.2 
+0000002 610  NN2     characters               S2mf K4/S2mf S1.2 S2mf/A6.2- Q1.2 A4.1 O4.2+ 
+0000002 620  II      in                       Z5 
+0000002 630  DD      any                      N5.1+ N5 
+0000002 640  NN1     message                  Q1.1 Q1.3/Y2 
+0000002 641  .       .                        
+0000003 001  -----   -----                    
+0000004 010  II      In                       Z5 
+0000004 020  AT1     an                       Z5 
+0000004 030  NN1     article                  Q4.2 O2 Q3 G2.1/P1@ 
+0000004 040  DD1     this                     M6 Z5 Z8 
+0000004 050  NNT1    week                     T1.3 
+0000004 051  ,       ,                        
+0000004 060  JJ      Delicious                X3.1+ O4.2+ 
+0000004 070  NN1     founder                  T2+/S2mf 
+0000004 080  NP1     Joshua                   Z1mf[i2.2.1 Z3c[i2.2.1 Z1m 
+0000004 090  NP1     Schachter                Z1mf[i2.2.2 Z3c[i2.2.2 
+0000004 100  VVD     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000004 110  DD      some                     N5 Z5 
+0000004 120  RG      very                     A13.3 
+0000004 130  JJ      compelling               A5.2+/A8 
+0000004 140  NN2     arguments                Q2.1 Q2.1/A6.1- Q2.1/E3- 
+0000004 150  IF      for                      Z5 
+0000004 160  RRQ     why                      A2.2 
+0000004 170  NP1     URL                      Z99 
+0000004 180  NN2     shorteners               Z99 
+0000004 190  VM      might                    A7+ 
+0000004 200  VBI     be                       A3+ Z5 
+0000004 210  JJ      bad                      A5.1- G2.2- O4.2- B2- 
+0000004 220  IF      for                      Z5 
+0000004 230  AT      the                      Z5 
+0000004 240  NN1     web                      Y2 L2 O2 
+0000004 241  .       .                        
+0000004 242  -----   -----                    
+0000004 250  RR      However                  Z4 
+0000004 251  ,       ,                        
+0000004 260  PPIS1   I                        Z8mf 
+0000004 270  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000004 280  TO      to                       Z5 
+0000004 290  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000004 300  DD      some                     N5 Z5 
+0000004 310  NN2     points                   Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
+0000004 320  IF      for                      Z5 
+0000004 330  AT      the                      Z5 
+0000004 340  JJ      opposite                 M6 A6.1- 
+0000004 350  NN1     argument                 Q2.1 Q2.1/A6.1- Q2.1/E3- 
+0000004 351  :       :                        
+0000004 360  DD1     that                     Z5 Z8 
+0000004 370  NN1     URL                      Z99 
+0000004 380  NN2     shorteners               Z99 
+0000004 390  VBR     are                      A3+ Z5 
+0000004 400  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000004 410  IF      for                      Z5 
+0000004 420  NN1     web                      Y2 L2 O2 
+0000004 430  NN1     culture                  C1 S1.1.1 S5+ L1 
+0000004 440  CC      and                      Z5 
+0000004 450  AT      the                      Z5 
+0000004 460  NN1     growth                   N3.2+/A2.1 A5.1+/A2.1 L3 B2- 
+0000004 470  IO      of                       Z5 
+0000004 480  AT      the                      Z5 
+0000004 490  NN1     Internet                 Y2 
+0000004 491  .       .                        
+0000004 492  -----   -----                    
+0000004 500  RL      Here                     M6 T1.1.2 T1.2 
+0000004 510  VBR     are                      A3+ Z5 
+0000004 520  APPGE   my                       Z8 
+0000004 530  NN1     top                      A5.1+++[i3.2.1 M6 N4 N5.1+ O2 B5 K6 N5.1- 
+0000004 540  MC      five                     A5.1+++[i3.2.2 N1 T3 T1.2 
+0000004 550  NN2     reasons                  A2.2 X2.1 
+0000004 560  IF      for                      Z5 
+0000004 570  RRQ     why                      A2.2 
+0000004 580  NP1     URL                      Z99 
+0000004 590  NN2     shorteners               Z99 
+0000004 600  VBR     are                      A3+ Z5 
+0000004 610  JJ      useful                   A1.5.2+ 
+0000004 620  II      to                       Z5 
+0000004 630  AT      the                      Z5 
+0000004 640  NN1     web                      Y2 L2 O2 
+0000004 641  :       :                        
+0000006 010  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000006 011  .       .                        
+0000006 012  -----   -----                    
+0000006 020  PPHS2   They                     Z8mfn 
+0000006 030  VV0     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000006 040  NN2     links                    A2.2 S5+ M3 Q1.3 F1 K5.1/M7% 
+0000006 050  RGR     more                     A13.3 
+0000006 060  JJ      manageable               A12+ 
+0000016 010  DDQ     What                     Z8 Z5 
+0000016 020  VBZ     is                       A3+ Z5 
+0000016 030  JJR     easier                   A12++ 
+0000016 040  TO      to                       Z5 
+0000016 050  VVI     share                    S1.1.2+ 
+0000016 051  ?       ?                        
+0000018 001  -       -                        
+0000018 010  DD1     This                     M6 Z5 Z8 
+0000018 011  :       :                        
+0000018 020  NNU     http                     I1 
+0000018 021  :       :                        
+0000018 030  FU      **99;7;TOOLONG           Z99 
+0000020 001  -       -                        
+0000020 010  CC      Or                       Z5 
+0000020 020  DD1     this                     M6 Z5 Z8 
+0000020 021  :       :                        
+0000020 030  NNU     http                     I1 
+0000020 031  :       :                        
+0000020 040  FU      //bit.ly/wPKks           Z99 
+0000022 010  UH      No                       Z4 
+0000022 011  ,       ,                        
+0000022 020  XX      not                      Z6 
+0000022 030  DB      all                      N5.1+ 
+0000022 040  IO      of                       Z5 
+0000022 050  AT      the                      Z5 
+0000022 060  NN1     web                      Y2 L2 O2 
+0000022 061  GE      's                       Z5 
+0000022 070  NN2     links                    A2.2 S5+ M3 Q1.3 F1 K5.1/M7% 
+0000022 080  VBR     are                      A3+ Z5 
+0000022 090  RG%     that                     A13.3 A6.1+ 
+0000022 100  JJ      messy                    O4.2- 
+0000022 101  .       .                        
+0000022 102  -----   -----                    
+0000022 110  RR      However                  Z4 
+0000022 111  ,       ,                        
+0000022 120  DA2     many                     N5+ 
+0000022 130  NN2     links                    A2.2 S5+ M3 Q1.3 F1 K5.1/M7% 
+0000022 140  VBR     are                      A3+ Z5 
+0000022 150  JJ      long                     N3.7+ T1.3+ N3.3+ N3.2+ 
+0000022 160  CC      and                      Z5 
+0000022 170  JJ      wordy                    Q3 
+0000022 180  IF      for                      Z5 
+0000022 190  NN1     SEO                      Z99 
+0000022 200  NN2     reasons                  A2.2 X2.1 
+0000022 201  .       .                        
+0000022 202  -----   -----                    
+0000022 210  NP1     SEO                      Z99 
+0000022 211  ,       ,                        
+0000022 220  CC      or                       Z5 
+0000022 230  NN1     search                   X2.4 
+0000022 240  NN1     engine                   O2 Y2@ 
+0000022 250  NN1     optimization             Z99 
+0000022 251  ,       ,                        
+0000022 260  VBZ     is                       A3+ Z5 
+0000022 270  II      about                    Z5 
+0000022 280  VVG     ranking                  A5.1 
+0000022 290  JJR     higher                   N3.7++ N5++ A11.1++ S7.1++ A5.1++ T3-- X3.2 G2.2++ E4.1++ I1.3++ O4.2-- O4.6++ S9 
+0000022 300  II      in                       Z5 
+0000022 310  NP1     Google                   Z3c/Y2 
+0000022 311  ,       ,                        
+0000022 320  CC      and                      Z5 
+0000022 330  MC1     one                      N1 T3 T1.2 
+0000022 340  IO      of                       Z5 
+0000022 350  AT      the                      Z5 
+0000022 360  NN2     factors                  A2.2 A4.1 N2 I2.1/S2mf@ 
+0000022 370  VV0     Google                   Z3c/Y2 
+0000022 380  CC      and                      S2mf[i4.2.1 Z5 
+0000022 390  JJ      other                    S2mf[i4.2.2 A6.1- 
+0000022 400  NN1     search                   X2.4 
+0000022 410  NN2     engines                  O2 Y2@ 
+0000022 420  VV0     consider                 X2.1 X2.4 X6 
+0000022 430  VBR     are                      A3+ Z5 
+0000022 440  NN2     keywords                 Q3 Y2 
+0000022 450  II      in                       Z5 
+0000022 460  AT      the                      Z5 
+0000022 470  NN1     URL                      Z99 
+0000022 471  .       .                        
+0000022 472  -----   -----                    
+0000022 480  DD1     This                     Z8 M6 Z5 
+0000022 490  VVZ     creates                  A1.1.1 A2.2 E1 
+0000022 500  AT1     a                        Z5 
+0000022 510  NN1     conundrum                Z99 
+0000022 520  IF      for                      Z5 
+0000022 530  AT      the                      Z5 
+0000022 540  NN1     user                     A1.5.1/S2mf 
+0000022 541  -       -                        
+0000022 550  AT      the                      Z5 
+0000022 560  NP2     URLs                     Z99 
+0000022 570  VV0     help                     S8+ 
+0000022 580  VVI     describe                 Q2.2 
+0000022 590  AT      the                      Z5 
+0000022 600  NN1     content                  Q2.1 A1.8+ N5 E4.1+% 
+0000022 601  ,       ,                        
+0000022 610  CCB     but                      Z5 
+0000022 620  VBR     are                      A3+ Z5 
+0000022 630  JJ      lengthy                  T1.3+ N3.7+ 
+0000022 640  CC      and                      Z5 
+0000022 650  VBR     are                      A3+ Z5 
+0000022 660  XX      not                      Z6 
+0000022 670  JJ      easy                     A12+ 
+0000022 680  TO      to                       Z5 
+0000022 690  VVI     share                    S1.1.2+ 
+0000022 700  II      on                       Z5 
+0000022 710  NN2     emails                   Q1.3/Y2 
+0000022 711  ,       ,                        
+0000022 720  NN1     web                      Y2 L2 O2 
+0000022 730  NN2     pages                    Q1.2 T1.3 S7.1-/S2.2m 
+0000022 731  ,       ,                        
+0000022 740  CC      and                      Z5 
+0000022 750  RR      especially               A14 
+0000022 760  JJ      social                   S1.1.1 
+0000022 770  NN      media                    Q4c 
+0000022 780  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000022 790  II      like                     Z5 
+0000022 800  NP1     Facebook                 Z3c/Y2 
+0000022 810  CC      and                      Z5 
+0000022 820  NN1     Twitter                  Z99 
+0000022 821  .       .                        
+0000023 001  -----   -----                    
+0000024 010  VV0     URL                      Z99 
+0000024 020  NN2     shorteners               Z99 
+0000024 030  VV0     help                     S8+ 
+0000024 040  VVI     solve                    X9.2+ 
+0000024 050  AT      the                      Z5 
+0000024 060  NN1     problem                  A12- X4.1 N2 B2- 
+0000024 070  IO      of                       Z5 
+0000024 080  VVG     making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000024 090  NN2     links                    A2.2 S5+ M3 Q1.3 F1 K5.1/M7% 
+0000024 100  RGR     more                     A13.3 
+0000024 110  JJ      manageable               A12+ 
+0000024 120  TO      to                       Z5 
+0000024 130  VVI     share                    S1.1.2+ 
+0000024 131  .       .                        
+0000024 132  -----   -----                    
+0000024 140  CC      And                      Z5 
+0000024 150  JJ      certain                  A4.2+ A7+ 
+0000024 160  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000024 161  ,       ,                        
+0000024 170  II21    such                     Z5[i5.2.1 
+0000024 180  II22    as                       Z5[i5.2.2 Z5 
+0000024 181  .       .                        
+0000024 190  NNU2    ws                       Z3c 
+0000024 200  VVZ     allows                   S7.4+ S8+ X2.1 
+0000024 210  NN2     users                    A1.5.1/S2mf 
+0000024 220  TO      to                       Z5 
+0000024 230  VVI     add                      N5+/A2.1 N2 A1.8+ 
+0000024 240  NN2     keywords                 Q3 Y2 
+0000024 250  TO      to                       Z5 
+0000024 260  VVI     describe                 Q2.2 
+0000024 270  AT      the                      Z5 
+0000024 280  NN1     link                     A2.2 S5+ M3 Q1.3 F1 K5.1/M7% 
+0000024 281  .       .                        
+0000025 001  -----   -----                    
+0000026 010  MC      2                        N1 T1.2 T3 T1.3 N3.2 
+0000026 011  .       .                        
+0000026 012  -----   -----                    
+0000026 020  PPHS2   They                     Z8mfn 
+0000026 030  VM      can                      A7+ 
+0000026 040  VVI     track                    X2.4 
+0000026 050  CC      and                      Z5 
+0000026 060  VVI     compile                  Q1.2 Y2 
+0000026 070  NN1     click                    X3.2 Y2 
+0000026 080  NN      data                     X2.2/X2.4 Q1.1 
+0000028 010  MC1     One                      N1 T3 T1.2 
+0000028 020  IO      of                       Z5 
+0000028 030  AT      the                      Z5 
+0000028 040  NN2     reasons                  A2.2 X2.1 
+0000028 050  CST     that                     Z5 Z8 
+0000028 060  NNU     bit.ly                   Z99 
+0000028 070  VHZ     has                      Z5 A9+ A2.2 S4 
+0000028 080  VVN     received                 A9+ S5+ 
+0000028 090  RG      so                       A13.3 
+0000028 100  DA1     much                     N5+ I1.3+ 
+0000028 110  NN1     attention                X5.1+ S8+ 
+0000028 120  RR      lately                   T3--- 
+0000028 130  VBZ     is                       A3+ Z5 
+0000028 140  II21    because                  A2.2[i6.2.1 
+0000028 150  II22    of                       A2.2[i6.2.2 
+0000028 160  AT      the                      Z5 
+0000028 170  JJ      comprehensive            A1.8+ P1 
+0000028 180  NN      data                     X2.2/X2.4 Q1.1 
+0000028 190  RR      Bitly                    Z99 
+0000028 200  VVZ     provides                 A9- S6+ 
+0000028 210  II      in                       Z5 
+0000028 220  AT      the                      Z5 
+0000028 230  NN1     form                     A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@ 
+0000028 240  IO      of                       Z5 
+0000028 250  JJ      live                     L1+ A3+ Q4.3 K2/K3 K1 O3 G3 
+0000028 260  NN1     click                    X3.2 Y2 
+0000028 270  NN      data                     X2.2/X2.4 Q1.1 
+0000028 271  ,       ,                        
+0000028 280  JJ      geographic               W3 
+0000028 290  NN1     location                 M7 
+0000028 291  ,       ,                        
+0000028 300  AT      the                      Z5 
+0000028 310  NN1     webpage                  Y2 
+0000028 320  AT      the                      Z5 
+0000028 330  NN1     link                     A2.2 S5+ M3 Q1.3 F1 K5.1/M7% 
+0000028 340  CS      where                    M6 
+0000028 350  AT      the                      Z5 
+0000028 360  NN1     link                     A2.2 S5+ M3 Q1.3 F1 K5.1/M7% 
+0000028 370  VBDZ    was                      Z5 A3+ 
+0000028 380  VVN@    clicked                  X3.2 Y2 X2.5+ S1.2.1+ 
+0000028 381  ,       ,                        
+0000028 390  CC      and                      Z5 
+0000028 400  RRR     more                     A13.3 N6++ 
+0000028 401  .       .                        
+0000028 402  -----   -----                    
+0000028 410  DD1     This                     M6 Z5 Z8 
+0000028 420  NN1     type                     A4.1 A6.2+ S1.2 Q1.2 
+0000028 430  IO      of                       Z5 
+0000028 440  NN1     information              X2.2+ 
+0000028 450  VBZ     is                       A3+ Z5 
+0000028 460  JJ      invaluable               A1.5.2+ A11.1+ 
+0000028 470  II      to                       Z5 
+0000028 480  NN2     webmasters               Z99 
+0000028 490  CC      and                      Z5 
+0000028 500  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000028 501  -       -                        
+0000028 510  PPH1    it                       Z8 
+0000028 520  VVZ     shows                    A10+ S1.1.1 
+0000028 530  RRQ     where                    M6 
+0000028 540  NN2     customers                I2.2/S2mf 
+0000028 550  VBR     are                      Z5 A3+ 
+0000028 560  VVG     coming                   M6[i7.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000028 570  II      from                     M6[i7.2.2 Z5 
+0000028 571  ,       ,                        
+0000028 580  CS      when                     Z5 
+0000028 590  PPHS2   they                     Z8mfn 
+0000028 600  VBR     are                      Z5 A3+ 
+0000028 610  VVG     coming                   M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000028 611  ,       ,                        
+0000028 620  CC      and                      Z5 
+0000028 630  DDQ     what                     Z8 Z5 
+0000028 640  VVZ@    interests                X5.2+ 
+0000028 650  PPHO2   them                     Z8mfn 
+0000028 651  .       .                        
+0000029 001  -----   -----                    
+0000030 010  DD1     This                     M6 Z5 Z8 
+0000030 020  NN1     type                     A4.1 A6.2+ S1.2 Q1.2 
+0000030 030  IO      of                       Z5 
+0000030 040  NN1     information              X2.2+ 
+0000030 050  VVZ     helps                    S8+ 
+0000030 060  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000030 070  VVI     develop                  A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000030 080  JJR     better                   A5.1++ G2.2++ O4.2++ 
+0000030 090  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000030 100  CC      and                      Z5 
+0000030 110  NN2     webmasters               Z99 
+0000030 120  VV0     produce                  A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000030 130  RRR     more                     A13.3 N6++ 
+0000030 140  VVN     targeted                 X7+ 
+0000030 150  NN1     content                  Q2.1 A1.8+ N5 E4.1+% 
+0000030 151  .       .                        
+0000030 152  -----   -----                    
+0000030 160  JJ      Detailed                 A4.2+ 
+0000030 170  NN1     information              X2.2+ 
+0000030 180  VVZ     makes                    A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000030 190  AT      the                      Z5 
+0000030 200  NN1     economy                  I2.1 I1.3- 
+0000030 210  RGR     more                     A13.3 
+0000030 220  JJ      efficient                X9.1+/I3.2 N3.8+ A1.5.2+ 
+0000030 221  .       .                        
+0000031 001  -----   -----                    
+0000032 010  MC      3                        N1 T1.2 T3 T1.3 N3.2 
+0000032 011  .       .                        
+0000032 012  -----   -----                    
+0000032 020  PPHS2   They                     Z8mfn 
+0000032 030  VM      can                      A7+ 
+0000032 040  VBI     be                       Z5 A3+ 
+0000032 050  VVN     transformed              A2.1+ 
+0000032 060  II      into                     Z5 
+0000032 070  JJ      social                   S1.1.1 
+0000032 080  NN      media                    Q4c 
+0000032 090  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000034 010  EX      There                    Z5 
+0000034 020  VBDZ    was                      A3+ Z5 
+0000034 030  AT1     a                        Z5 
+0000034 040  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000034 050  NN1     piece                    N5.1- O2 Q4 K2 K4 G3@ 
+0000034 060  II      on                       Z5 
+0000034 070  NN1     GigaOM                   Z99 
+0000034 080  CST     that                     Z8 Z5 
+0000034 090  VVD     discussed                Q2.1 Q2.2 
+0000034 100  RRQ     how                      Z5 A13.3 
+0000034 110  NP1     Bit.ly                   Z99 
+0000034 120  VM      could                    A7+ 
+0000034 130  VVI     launch                   M4 M5 T2+ 
+0000034 140  APPGE   its                      Z8[i8.2.1 Z8 
+0000034 150  DA      own                      Z8[i8.2.2 A9+ S5- 
+0000034 160  NN1     version                  A4.1 Q2.1 
+0000034 170  IO      of                       Z5 
+0000034 180  NN1     Digg                     Z99 
+0000034 181  .       .                        
+0000034 182  -----   -----                    
+0000034 190  CS      While                    Z5 
+0000034 200  DD1     this                     Z8 M6 Z5 
+0000034 210  VM      may                      A7+ 
+0000034 220  CC      or                       Z5 
+0000034 230  VM      may                      A7+ 
+0000034 240  XX      not                      Z6 
+0000034 250  VBI     be                       A3+ Z5 
+0000034 260  NP1     Bit.ly                   Z99 
+0000034 261  GE      's                       Z5 
+0000034 270  JJ      eventual                 N4 
+0000034 280  NN1     goal                     K5.1 X7+ 
+0000034 281  (       (                        
+0000034 290  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000034 300  II      like                     Z5 
+0000034 310  NP1     Digg                     Z99 
+0000034 311  ,       ,                        
+0000034 320  AT1     a                        Z5 
+0000034 330  NN1     URL                      Z99 
+0000034 340  NN1     shortener                Z99 
+0000034 350  VM      could                    A7+ 
+0000034 360  VBI     be                       Z5 A3+ 
+0000034 370  VVN@    gamed                    X5.2+ K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000034 371  )       )                        
+0000034 372  ,       ,                        
+0000034 380  PPH1    it                       Z8 
+0000034 381  VBZ     's                       A3+ Z5 
+0000034 390  JJ      clear                    A7+ A10+ O4.3 O4.1 N5.1+ W4 
+0000034 400  CST     that                     Z5 Z8 
+0000034 410  AT      the                      Z5 
+0000034 420  NN      data                     X2.2/X2.4 Q1.1 
+0000034 430  CST     that                     Z5 Z8 
+0000034 440  VV0     URL                      Z99 
+0000034 450  NN2     shorteners               Z99 
+0000034 460  VM      can                      A7+ 
+0000034 470  VVI     accumulate               A9+ N5+/A2.1 
+0000034 471  ,       ,                        
+0000034 480  VVN     coupled                  N5+ 
+0000034 490  IW      with                     Z5 
+0000034 500  AT      the                      Z5 
+0000034 510  NN1     rise                     N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 O4.4 
+0000034 520  IO      of                       Z5 
+0000034 530  JJ      short                    T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
+0000034 540  NN1     URL                      Z99 
+0000034 550  VVG     sharing                  S1.1.2+ 
+0000034 560  II      on                       Z5 
+0000034 570  NN1     Twitter                  Z99 
+0000034 580  CC      and                      S2mf[i9.2.1 Z5 
+0000034 590  JJ      other                    S2mf[i9.2.2 A6.1- 
+0000034 600  NN2     websites                 Y2 
+0000034 601  ,       ,                        
+0000034 610  VM      could                    A7+ 
+0000034 620  NN1     amount                   A3+[i10.2.1 N5 
+0000034 630  II      to                       A3+[i10.2.2 Z5 
+0000034 640  DD      some                     N5 Z5 
+0000034 650  JJ      innovative               T3- 
+0000034 660  JJ      social                   S1.1.1 
+0000034 670  NN      media                    Q4c 
+0000034 680  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000034 690  CST     that                     Z8 Z5 
+0000034 700  VV0     display                  A10+ 
+0000034 710  JJ      popular                  E2+ S5+ 
+0000034 720  NN2     links                    A2.2 S5+ M3 Q1.3 F1 K5.1/M7% 
+0000034 721  ,       ,                        
+0000034 730  NN1     rank                     S7.1+ S5+ M3 A5.1 
+0000034 740  NN2     domains                  X4.1 A9+ Y2 
+0000034 741  ,       ,                        
+0000034 750  CC      and                      Z5 
+0000034 760  VV0     act                      A1.1.1 T1.1.2 A8 K4 
+0000034 770  II      as                       Z5 
+0000034 780  AT1     a                        Z5 
+0000034 790  NN1     filter                   O2 
+0000034 800  CC      or                       Z5 
+0000034 810  NN1     aggregate                N5.1+ 
+0000034 820  IO      of                       Z5 
+0000034 830  JJ      social                   S1.1.1 
+0000034 840  NN      media                    Q4c 
+0000034 850  NN1     content                  Q2.1 A1.8+ N5 E4.1+% 
+0000034 851  .       .                        
+0000035 001  -----   -----                    
+0000036 010  VV0     URL                      Z99 
+0000036 020  NN2     shorteners               Z99 
+0000036 021  ,       ,                        
+0000036 030  II      in                       Z5 
+0000036 040  APPGE   their                    Z8[i11.2.1 Z8 
+0000036 050  DA      own                      Z8[i11.2.2 A9+ S5- 
+0000036 060  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000036 061  ,       ,                        
+0000036 070  VV0     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000036 080  CSA     as                       Z5 
+0000036 090  NN2     aggregates               N5.1+ 
+0000036 100  IO      of                       Z5 
+0000036 110  NN1     information              X2.2+ 
+0000036 111  .       .                        
+0000036 112  -----   -----                    
+0000036 120  DD1     This                     Z8 M6 Z5 
+0000036 130  VM      can                      A7+ 
+0000036 140  VVI     lead                     A2.2[i12.2.1 M6[i12.2.1 S7.1+ A2.2 M2 A1.1.1 
+0000036 150  II      to                       A2.2[i12.2.2 M6[i12.2.2 Z5 
+0000036 160  DD      some                     N5 Z5 
+0000036 170  JJ      useful                   A1.5.2+ 
+0000036 180  NN2     mashups                  Z99 
+0000036 190  CC      and                      Z5 
+0000036 200  NN2     innovations              T3- 
+0000036 210  II      in                       Z5 
+0000036 220  RRQ     how                      Z5 A13.3 
+0000036 230  NN      people                   S2mfc 
+0000036 240  VV0     share                    S1.1.2+ 
+0000036 250  CC      and                      Z5 
+0000036 260  VV0     digest                   F1/B1 X2.3+ 
+0000036 270  NN1     content                  Q2.1 A1.8+ N5 E4.1+% 
+0000036 271  .       .                        
+0000037 001  -----   -----                    
+0000038 010  MC      4                        N1 T1.2 T3 T1.3 N3.2 
+0000038 011  .       .                        
+0000038 012  -----   -----                    
+0000038 020  PPHS2   They                     Z8mfn 
+0000038 030  VM      can                      A7+ 
+0000038 040  VVI     provide                  A9- S6+ 
+0000038 050  NN2     users                    A1.5.1/S2mf 
+0000038 060  JJ      useful                   A1.5.2+ 
+0000038 070  NN2     features                 O4.1 Q4.2 Q4.3 W3 
+0000040 010  ZZ1     A                        Z5 
+0000040 020  JJ      new                      T3- 
+0000040 030  NN1     URL                      Z99 
+0000040 040  NN1     shortener                Z99 
+0000040 041  ,       ,                        
+0000040 050  NP1     Pagetweet                Z99 
+0000040 051  ,       ,                        
+0000040 060  VVD     caught                   A11.2+[i13.3.1 A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3 
+0000040 070  APPGE   my                       A11.2+[i13.3.2 Z8 
+0000040 080  NN1     eye                      A11.2+[i13.3.3 B1 X3.4 
+0000040 081  .       .                        
+0000040 082  -----   -----                    
+0000040 090  PPH1    It                       Z8 
+0000040 091  VBZ     's                       A3+ Z5 
+0000040 100  RR21    a                        A13.6[i14.2.1 N6-[i14.2.1 
+0000040 110  RR22    little                   A13.6[i14.2.2 N6-[i14.2.2 A13.7 
+0000040 120  RGR     more                     A13.3 
+0000040 130  JJ      complicated              A12- 
+0000040 140  CSN     than                     Z5 
+0000040 150  JJ      other                    A6.1- 
+0000040 160  NN1     URL                      Z99 
+0000040 170  NN2     shorteners               Z99 
+0000040 171  (       (                        
+0000040 180  PPIS1   I                        Z8mf 
+0000040 190  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000040 191  XX      n't                      Z6 
+0000040 200  VVI     understand               X2.5+ 
+0000040 210  RRQ     why                      A2.2 
+0000040 220  PPH1    it                       Z8 
+0000040 230  VVZ     requires                 X7+ S6+ 
+0000040 240  AT1     a                        Z5 
+0000040 250  NN1     security                 G2.1 A15+ E6+ I1.1 
+0000040 260  NN1     code                     G2.1 A10-/Q1.1 G2.2 A4.1 Y2@ B3% B1% 
+0000040 261  )       )                        
+0000040 262  ,       ,                        
+0000040 270  CCB     but                      Z5 
+0000040 280  CS      when                     Z5 
+0000040 290  PPY     you                      Z8mf 
+0000040 300  VV0     look                     X3.4[i15.2.1 X2.4[i15.2.1 X2.1[i15.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000040 310  II      at                       X3.4[i15.2.2 X2.4[i15.2.2 X2.1[i15.2.2 Z5 
+0000040 320  AT1     an                       Z5 
+0000040 330  JJ      actual                   A5.4+ A14 
+0000040 340  NN1     page                     Q1.2 T1.3 S7.1-/S2.2m 
+0000040 350  II      via                      Z5 
+0000040 360  NP1     Pagetweet                Z99 
+0000040 361  ,       ,                        
+0000040 370  PPH1    it                       Z8 
+0000040 380  VVZ     provides                 A9- S6+ 
+0000040 390  AT1     a                        Z5 
+0000040 400  JJ      useful                   A1.5.2+ 
+0000040 410  NN1     interface                Q1.1 S1.1.1 Y2 
+0000040 420  IF      for                      Z5 
+0000040 430  VVG     sharing                  S1.1.2+ 
+0000040 440  II      via                      Z5 
+0000040 450  JJ      social                   S1.1.1 
+0000040 460  NN      media                    Q4c 
+0000040 461  ,       ,                        
+0000040 470  VVG     seeing                   X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000040 480  AT      the                      Z5 
+0000040 490  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000040 500  IO      of                       Z5 
+0000040 510  NN2     views                    X2.1 X3.4 
+0000040 511  ,       ,                        
+0000040 520  CC      and                      Z5 
+0000040 530  RRR     more                     A13.3 N6++ 
+0000040 531  .       .                        
+0000041 001  -----   -----                    
+0000042 010  CS      Because                  Z5/A2.2 
+0000042 020  PPH1    it                       Z8 
+0000042 021  VBZ     's                       A3+ Z5 
+0000042 030  RG      so                       A13.3 
+0000042 040  JJ      easy                     A12+ 
+0000042 050  IF      for                      Z5 
+0000042 060  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000042 070  TO      to                       Z5 
+0000042 080  VVI     enter                    M1 S5+ Q1.2 T2+ A1.8+ Y2 
+0000042 090  DD1     this                     M6 Z5 Z8 
+0000042 100  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000042 101  ,       ,                        
+0000042 110  NN2     innovations              T3- 
+0000042 120  VBR     are                      Z5 A3+ 
+0000042 130  RR      constantly               T2++ 
+0000042 140  VBG     being                    Z5 A3+ 
+0000042 150  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000042 160  CST     that                     Z8 Z5 
+0000042 170  VV0     improve                  A5.1+/A2.1 
+0000042 180  AT      the                      Z5 
+0000042 190  NN1     user                     A1.5.1/S2mf 
+0000042 200  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
+0000042 201  .       .                        
+0000042 202  -----   -----                    
+0000042 210  VV0     Digg                     Z99 
+0000042 220  RR      recently                 T3--- 
+0000042 230  VVN     launched                 M4 M5 T2+ 
+0000042 240  AT1     a                        Z5 
+0000042 250  NN1     DiggBar                  Z99 
+0000042 260  CC      and                      Z5 
+0000042 270  NP1     Digg                     Z1mf[i16.2.1 Z3c[i16.2.1 
+0000042 280  NP1     URL                      Z1mf[i16.2.2 Z3c[i16.2.2 
+0000042 290  NN1     shortener                Z99 
+0000042 291  ,       ,                        
+0000042 300  DDQ     which                    Z8 Z5 
+0000042 310  VVZ     provides                 A9- S6+ 
+0000042 320  NN1     information              X2.2+ 
+0000042 330  II      on                       Z5 
+0000042 340  AT      the                      Z5 
+0000042 350  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000042 360  IO      of                       Z5 
+0000042 370  NP1     Diggs                    Z99 
+0000042 380  CC      and                      Z5 
+0000042 390  VVZ@    comments                 Q2.1 
+0000042 400  DD      any                      N5.1+ N5 
+0000042 410  NN1     article                  Q4.2 O2 Q3 G2.1/P1@ 
+0000042 420  VHZ     has                      Z5 A9+ A2.2 S4 
+0000042 430  VVN     received                 A9+ S5+ 
+0000042 431  .       .                        
+0000042 432  -----   -----                    
+0000042 440  DD1     This                     Z8 M6 Z5 
+0000042 450  VBZ     is                       A3+ Z5 
+0000042 460  RR      only                     A14 
+0000042 470  AT      the                      Z5 
+0000042 480  NN1     beginning                T2+ 
+0000042 481  .       .                        
+0000043 001  -----   -----                    
+0000044 010  NN2     Users                    A1.5.1/S2mf 
+0000044 020  RR      also                     N5++ 
+0000044 030  VH0     have                     A9+ Z5 A2.2 S4 
+0000044 040  AT1     a                        Z5 
+0000044 050  NN1     choice                   X7+ A6.3+ 
+0000044 051  -       -                        
+0000044 060  PPHS2   they                     Z8mfn 
+0000044 070  VM      can                      A7+ 
+0000044 080  VVI     follow                   M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4 
+0000044 090  NN2     links                    A2.2 S5+ M3 Q1.3 F1 K5.1/M7% 
+0000044 100  CST     that                     Z8 Z5 
+0000044 110  VM      will                     T1.1.3 
+0000044 120  VVI     provide                  A9- S6+ 
+0000044 130  NN2     features                 O4.1 Q4.2 Q4.3 W3 
+0000044 131  ,       ,                        
+0000044 140  CC      or                       Z5 
+0000044 150  RR      simply                   A13.6 A14 A12+ 
+0000044 160  VV0     choose                   X7+ 
+0000044 170  NN2     ones                     Z8 
+0000044 180  IW      with                     Z5 
+0000044 190  RR      only                     A14 
+0000044 200  AT      the                      Z5 
+0000044 210  JJ      necessary                S6+ A11.1+ 
+0000044 220  NN1     functionality            A1.5.2+ 
+0000044 230  TO      to                       Z5 
+0000044 240  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000044 250  PPHO2   them                     Z8mfn 
+0000044 260  II      to                       Z5 
+0000044 270  AT1     a                        Z5 
+0000044 280  NN1     web                      Y2 L2 O2 
+0000044 290  NN1     page                     Q1.2 T1.3 S7.1-/S2.2m 
+0000044 291  .       .                        
+0000044 292  -----   -----                    
+0000044 300  DB      All                      Z4[i17.3.1 N5.1+ 
+0000044 310  II      in                       Z4[i17.3.2 Z5 
+0000044 320  DB      all                      Z4[i17.3.3 N5.1+ 
+0000044 330  RR@     though                   Z5 
+0000044 331  ,       ,                        
+0000044 340  VV0     URL                      Z99 
+0000044 350  NN2     shorteners               Z99 
+0000044 360  VM      can                      A7+ 
+0000044 370  VVI     improve                  A5.1+/A2.1 
+0000044 380  AT      the                      Z5 
+0000044 390  NN1     browsing                 X2.4 
+0000044 400  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
+0000044 401  .       .                        
+0000045 001  -----   -----                    
+0000046 010  MC      5                        N1 
+0000046 011  .       .                        
+0000046 012  -----   -----                    
+0000046 020  PPHS2   They                     Z8mfn 
+0000046 030  VV0     promote                  S8+ I2.2/Q2.2 S7.1+/A2.1 
+0000046 040  VVG     sharing                  S1.1.2+ 
+0000048 010  PPY     You                      Z8mf 
+0000048 020  VM      can                      A7+ 
+0000048 030  RR      simply                   A13.6 A14 A12+ 
+0000048 040  VVI     fit                      N3.2/A5.1+ N3.2 A1.2+ M2 B2- 
+0000048 050  DAR     more                     N5++ 
+0000048 060  NN2     links                    A2.2 S5+ M3 Q1.3 F1 K5.1/M7% 
+0000048 070  CC      and                      Z5 
+0000048 080  NN1     content                  Q2.1 A1.8+ N5 E4.1+% 
+0000048 090  II      in                       Z5 
+0000048 100  DAR     less                     N5-- 
+0000048 110  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000048 120  IW      with                     Z5 
+0000048 130  NN1     URL                      Z99 
+0000048 140  NN2     shorteners               Z99 
+0000048 141  .       .                        
+0000048 142  -----   -----                    
+0000048 150  AT1     A                        Z5 
+0000048 160  NN1     tweet                    Z99 
+0000048 170  VM      can                      A7+ 
+0000048 180  VVI     describe                 Q2.2 
+0000048 190  CC      and                      Z5 
+0000048 200  RT      then                     N4 Z5 T1.2 
+0000048 210  VVI     link                     A2.2 S5+ A1.1.1 
+0000048 220  II      to                       Z5 
+0000048 230  AT1     a                        Z5 
+0000048 240  NN1     webpage                  Y2 
+0000048 250  II      in                       Z5 
+0000048 260  RG      under                    T3[i19.2.1 A13.6 T3[i18.2.1 T3/S2mf[i18.2.1 
+0000048 270  MC      140                      T3[i19.2.2 N1 T1.2 T3 T1.3 N3.2 T3[i18.2.2 T3/S2mf[i18.2.2 
+0000048 280  NN2     characters               S2mf K4/S2mf S1.2 S2mf/A6.2- Q1.2 A4.1 O4.2+ 
+0000048 281  ,       ,                        
+0000048 290  CS      while                    Z5 
+0000048 300  AT1     a                        Z5 
+0000048 310  JJ      full                     N5.1+ I3.2+ 
+0000048 320  NN1     URL                      Z99 
+0000048 330  VM      might                    A7+ 
+0000048 340  XX      not                      Z6 
+0000048 350  RR      even                     A13.1 
+0000048 360  VVI     come                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000048 370  IW      with                     Z5 
+0000048 380  AT1     an                       Z5 
+0000048 390  NN1     explanation              Q2.2/A7+ A2.2 
+0000048 391  .       .                        
+0000049 001  -----   -----                    
+0000050 010  RR      Even                     A13.1 
+0000050 020  RGR     more                     A13.3 
+0000050 030  JJ      important                A11.1+ 
+0000050 040  VBZ     is                       A3+ Z5 
+0000050 050  AT      the                      Z5 
+0000050 060  NN1     rise                     N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 O4.4 
+0000050 070  IO      of                       Z5 
+0000050 080  JJ      mobile                   M1/N3.8+ A2.1+ 
+0000050 090  NN2     smartphones              Z99 
+0000050 091  ,       ,                        
+0000050 100  VVG     texting                  Q1.3 
+0000050 101  ,       ,                        
+0000050 110  CC      and                      Z5 
+0000050 120  JJ      mobile                   M1/N3.8+ A2.1+ 
+0000050 130  NN1     Internet                 Y2 
+0000050 131  -       -                        
+0000050 140  PPH1    it                       Z8 
+0000050 141  VBZ     's                       A3+ Z5 
+0000050 150  RR      far                      A13.3 N3.3+ X9.2+ 
+0000050 160  JJR     easier                   A12++ 
+0000050 170  II      to                       Z5 
+0000050 180  NN1     text                     Q1.2 Q4.1 
+0000050 190  II      in                       Z5 
+0000050 200  AT1     a                        Z5 
+0000050 210  JJ      short                    T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
+0000050 220  NN1     URL                      Z99 
+0000050 230  CSN     than                     Z5 
+0000050 240  AT1     a                        Z5 
+0000050 250  JJ      long                     N3.7+ T1.3+ N3.3+ N3.2+ 
+0000050 260  PN1     one                      Z8 
+0000050 261  .       .                        
+0000050 262  -----   -----                    
+0000050 270  CSA     As                       Z5 
+0000050 280  NN1     Twitter                  Z99 
+0000050 281  ,       ,                        
+0000050 290  JJ      social                   S1.1.1 
+0000050 300  NN      media                    Q4c 
+0000050 301  ,       ,                        
+0000050 310  CC      and                      Z5 
+0000050 320  JJ      mobile                   M1/N3.8+ A2.1+ 
+0000050 330  NN1     Internet                 Y2 
+0000050 340  VV0     become                   A2.1+ O4.2+ 
+0000050 350  RGR     more                     A13.3 
+0000050 360  JJ      popular                  E2+ S5+ 
+0000050 361  ,       ,                        
+0000050 370  AT      the                      Z5 
+0000050 380  NN1     need                     S6+ 
+0000050 390  TO      to                       Z5 
+0000050 400  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000050 410  VVG     sharing                  S1.1.2+ 
+0000050 420  NN1     web                      Y2 L2 O2 
+0000050 430  NN1     content                  Q2.1 A1.8+ N5 E4.1+% 
+0000050 440  RRR     easier                   A12++ 
+0000050 450  VM      will                     T1.1.3 
+0000050 460  VVI     increase                 N5+/A2.1 
+0000050 461  .       .                        
+0000050 462  -----   -----                    
+0000050 470  JJR     Shorter                  T1.3 N3.7-- N3.3-- N5-- S1.2.4-- N3.8++@ F1% 
+0000050 480  NN2     URLs                     Z99 
+0000050 490  VBR     are                      Z5 A3+ 
+0000050 500  VVG     becoming                 A2.1+ O4.2+ 
+0000050 510  RRR     more                     A13.3[i20.3.1 N5++[i20.3.1 A13.3 N6++ 
+0000050 520  CC      and                      A13.3[i20.3.2 N5++[i20.3.2 Z5 
+0000050 530  RGR     more                     A13.3[i20.3.3 N5++[i20.3.3 A13.3 
+0000050 540  JJ      integral                 A11.1+ 
+0000050 550  II      to                       Z5 
+0000050 560  DD1     that                     Z5 Z8 
+0000050 570  NN1     cause                    A2.2 X2.1 X4.1 
+0000050 571  .       .                        
+0000051 001  -----   -----                    
+0000052 010  NN1     Innovation               T3- 
+0000052 020  II      in                       Z5 
+0000052 030  AT      the                      Z5 
+0000052 040  NN1     world                    W1 S5+c A4.1 N5+ 
+0000052 050  IO      of                       Z5 
+0000052 060  NN1     URL                      Z99 
+0000052 070  NN2     shorteners               Z99 
+0000052 071  :       :                        
+0000062 010  II      Despite                  Z5 
+0000062 020  AT      the                      Z5 
+0000062 030  JJ      useful                   A1.5.2+ 
+0000062 040  NN2     qualities                A5.1 A5.1+ O4.1 
+0000062 050  IO      of                       Z5 
+0000062 060  NN1     URL                      Z99 
+0000062 070  NN2     shorteners               Z99 
+0000062 071  ,       ,                        
+0000062 080  PPIS1   I                        Z8mf 
+0000062 090  RR      still                    T2++ Z4 E3+ 
+0000062 100  VH0     have                     A9+ Z5 A2.2 S4 
+0000062 110  NN2     reservations             A7- A9+ M7 
+0000062 111  .       .                        
+0000062 112  -----   -----                    
+0000062 120  CSA     As                       Z5 
+0000062 130  NP1     Schachter                Z99 
+0000062 140  VVD     stated                   Q2.1 
+0000062 150  II      in                       Z5 
+0000062 160  APPGE   his                      Z8m 
+0000062 170  NN1     blog                     Z99 
+0000062 180  NN1     post                     Q1.2 O2 I3.1 M6 
+0000062 190  II      on                       Z5 
+0000062 200  NP1     URL                      Z99 
+0000062 210  NN2     shorteners               Z99 
+0000062 211  ,       ,                        
+0000062 220  AT1     a                        Z5 
+0000062 230  NN1     URL                      Z99 
+0000062 240  VVG     shortening               N3.7-/A2.1 N5-/A2.1 A2.1/T1.3 N3.3-/A2.1 F1 
+0000062 250  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000062 260  VBG     being                    Z5 A3+ 
+0000062 270  VVN     hacked                   A1.1.1 X2.5+ Y2 K5.1 
+0000062 280  VM      could                    A7+ 
+0000062 290  VVI     instill                  A2.2 P1 
+0000062 300  NN1     havoc                    A1.7- G2.1- 
+0000062 310  II      across                   Z5 
+0000062 320  AT      the                      Z5 
+0000062 330  NN1     web                      Y2 L2 O2 
+0000062 331  :       :                        
+0000062 340  VVG     destroying               A1.1.2 
+0000062 350  NN2     links                    A2.2 S5+ M3 Q1.3 F1 K5.1/M7% 
+0000062 360  II      to                       Z5 
+0000062 370  NN2     websites                 Y2 
+0000062 380  CC      or                       Z5 
+0000062 381  (       (                        
+0000062 390  RRR@    worse                    A5.1-- 
+0000062 391  )       )                        
+0000062 400  VVG     turning                  A2.1+[i21.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000062 410  PPHO2   them                     Z8mfn 
+0000062 420  II      into                     A2.1+[i21.2.2 Z5 
+0000062 430  NN1     malware                  Z99 
+0000062 440  NN2     links                    A2.2 S5+ M3 Q1.3 F1 K5.1/M7% 
+0000062 441  .       .                        
+0000062 442  -----   -----                    
+0000062 450  DD1     This                     M6 Z5 Z8 
+0000062 460  CC      and                      S2mf[i22.2.1 Z5 
+0000062 470  JJ      other                    S2mf[i22.2.2 A6.1- 
+0000062 480  NN2     possibilities            A7+ 
+0000062 490  VBR     are                      A3+ Z5 
+0000062 500  JJ      frightening              E5- 
+0000062 501  ,       ,                        
+0000062 510  DDQ     which                    Z8 Z5 
+0000062 520  VBZ     is                       A3+ Z5 
+0000062 530  RRQ     why                      A2.2 
+0000062 540  NN2     entrepreneurs            I2.1/S2mf 
+0000062 550  VV0     need                     S6+ 
+0000062 560  TO      to                       Z5 
+0000062 570  VVI     lead                     S7.1+ A2.2 M2 A1.1.1 
+0000062 580  AT      the                      Z5 
+0000062 590  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000062 600  II      in                       Z5 
+0000062 610  VVG     creating                 A1.1.1 A2.2 E1 
+0000062 620  JJ      new                      T3- 
+0000062 630  NN2     innovations              T3- 
+0000062 640  TO      to                       Z5 
+0000062 650  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000062 660  NN1     URL                      Z99 
+0000062 670  NN2     shorteners               Z99 
+0000062 680  RRR     faster                   N3.8++ 
+0000062 681  ,       ,                        
+0000062 690  RGR     more                     A13.3 
+0000062 700  JJ      secure                   A7+ A15+ A1.7+ E6+ 
+0000062 701  ,       ,                        
+0000062 710  CC      and                      Z5 
+0000062 720  RGR     more                     A13.3 
+0000062 730  JJ      friendly                 S1.2.1+ S7.3-/K5.2 
+0000062 740  II      to                       Z5 
+0000062 750  AT      the                      Z5 
+0000062 760  NN2     users                    A1.5.1/S2mf 
+0000062 761  .       .                        
+0000062 762  -----   -----                    
+0000062 770  PPH1    It                       Z8 
+0000062 771  VBZ     's                       A3+ Z5 
+0000062 780  JJ      clear                    A7+ A10+ O4.3 O4.1 N5.1+ W4 
+0000062 790  CST     that                     Z5 Z8 
+0000062 800  VV0     URL                      Z99 
+0000062 810  NN2     shorteners               Z99 
+0000062 820  VBR     are                      A3+ Z5 
+0000062 830  RL      here                     M6 T1.1.2 T1.2 
+0000062 840  TO      to                       Z5 
+0000062 850  VVI     stay                     M8 T2++ H4 
+0000062 851  :       :                        
+0000062 860  AT      the                      Z5 
+0000062 870  NN1     challenge                A12- A6.1- S7.3+ E3- 
+0000062 880  IF      for                      Z5 
+0000062 890  AT      the                      Z5 
+0000062 900  NN1     web                      Y2 L2 O2 
+0000062 910  NN1     community                S5+c 
+0000062 920  VBZ     is                       A3+ Z5 
+0000062 930  TO      to                       Z5 
+0000062 940  VVI     find                     A10+ X2.1 X6+ 
+0000062 950  NN2     ways                     X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000062 960  TO      to                       Z5 
+0000062 970  VVI     enjoy                    E2+ A9+ E4.1+ 
+0000062 980  APPGE   their                    Z8 
+0000062 990  NN2     benefits                 S8+ I1.1/G1.1 
+0000062 000  CC      and                      Z5 
+0000062 010  VVI     protect                  S8+/A15+ A10- 
+0000062 020  II      against                  Z5 
+0000062 030  APPGE   their                    Z8 
+0000062 040  NN2     downfalls                X9.2- 
+0000062 041  .       .                        
+0000063 001  -----   -----                    
+0000064 010  JJ      Good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000064 020  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000064 021  :       :                        
+0000064 030  NN1     innovation               T3- 
+0000064 040  VVZ     seems                    A8 
+0000064 050  TO      to                       Z5 
+0000064 060  VBI     be                       Z5 A3+ 
+0000064 070  VVG     accelerating             N3.8+/A2.1 
+0000064 071  .       .                        
+0000064 072  -----   -----                    
+0000064 080  NP1     Bit.ly                   Z99 
+0000064 090  RR      recently                 T3--- 
+0000064 100  VVN     raised                   M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000064 110  RR      approximately            A13.4 
+0000064 120  NNU     $2                       Z99/H1c[i23.2.1 
+0000064 130  NNO     million                  Z99/H1c[i23.2.2 N1 I1 
+0000064 140  II      in                       Z5 
+0000064 150  NN1     venture                  X8+ A15- I2.1 
+0000064 160  NN1     funding                  I1.1 
+0000064 161  ,       ,                        
+0000064 170  VV0     Digg                     Z99 
+0000064 180  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000064 190  VVD     launched                 M4 M5 T2+ 
+0000064 200  APPGE   its                      Z8 
+0000064 210  NN1     URL                      Z99 
+0000064 220  NN1     shortener                Z99 
+0000064 221  ,       ,                        
+0000064 230  CC      and                      Z5 
+0000064 240  NN1     StumbleUpon              Z99 
+0000064 250  VBZ     is                       Z5 A3+ 
+0000064 260  VVG     coming                   Q2.1[i25.3.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 M1[i24.2.1 A10-[i24.2.1 A10+[i24.2.1 A1.1.1[i24.2.1 T2-[i24.2.1 S3.2/B1@[i24.2.1 
+0000064 270  RP      out                      Q2.1[i25.3.2 M6 M1[i24.2.2 A10-[i24.2.2 A10+[i24.2.2 A1.1.1[i24.2.2 T2-[i24.2.2 S3.2/B1@[i24.2.2 
+0000064 280  IW      with                     Q2.1[i25.3.3 Z5 
+0000064 290  APPGE   its                      Z8[i26.2.1 Z8 
+0000064 300  DA      own                      Z8[i26.2.2 A9+ S5- 
+0000064 310  RR21    as                       N5++[i27.2.1 
+0000064 320  RR22    well                     N5++[i27.2.2 A5.1+ A13.3 A7+ B2+ Z4 
+0000064 321  .       .                        
+0000064 322  -----   -----                    
+0000064 330  CCB     But                      Z5 
+0000064 340  DAR     more                     N5++ 
+0000064 350  NN2     innovations              T3- 
+0000064 351  ,       ,                        
+0000064 360  II      in                       Z5 
+0000064 370  AT      the                      Z5 
+0000064 380  NN1     form                     O4.1 A4.1 O4.4 Q1.2 P1@ H5@ K5.1@ G2.1-@ B1@ 
+0000064 390  IO      of                       Z5 
+0000064 400  NN1     Wordpress                Z99 
+0000064 410  NN2     plugins                  Z99 
+0000064 411  ,       ,                        
+0000064 420  NN2     shorteners               Z99 
+0000064 430  XX      not                      Z6 
+0000064 440  JJ      reliant                  S7.1- 
+0000064 450  II      on                       Z5 
+0000064 460  MD      3rd                      N4 
+0000064 470  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000064 480  VVZ     redirects                M6 A2.1+ 
+0000064 481  ,       ,                        
+0000064 490  CC      and                      Z5 
+0000064 500  JJ      social                   S1.1.1 
+0000064 510  NN      media                    Q4c 
+0000064 520  NN2     features                 O4.1 Q4.2 Q4.3 W3 
+0000064 521  ,       ,                        
+0000064 530  VBR     are                      Z5 A3+ 
+0000064 540  VVN     needed                   S6+ 
+0000064 550  CS      if                       Z7 
+0000064 560  NP1     URL                      Z99 
+0000064 570  NN2     shorteners               Z99 
+0000064 580  VBR     are                      A3+ Z5 
+0000064 590  TO      to                       Z5 
+0000064 600  VBI     be                       A3+ Z5 
+0000064 610  AT1     a                        Z5 
+0000064 620  NN1     mainstay                 A11.1+ 
+0000064 630  IO      of                       Z5 
+0000064 640  AT      the                      Z5 
+0000064 650  NN1     web                      Y2 L2 O2 
+0000064 651  .       .                        
+0000064 652  -----   -----                    
+0000064 660  PPIS1   I                        Z8mf 
+0000064 670  VV0     predict                  Q2.2/T1.1.3 X2.6+ 
+0000064 680  CST     that                     Z5 Z8 
+0000064 690  EX      there                    Z5 
+0000064 700  VM      will                     T1.1.3 
+0000064 710  VBI     be                       A3+ Z5 
+0000064 720  AT1     a                        Z5 
+0000064 730  NNT1    day                      T1.3 
+0000064 740  RRQ     when                     Z5 
+0000064 750  AT1     every                    N5.1+ 
+0000064 760  NN1     domain                   X4.1 A9+ Y2 
+0000064 770  VHZ     has                      A9+ Z5 A2.2 S4 
+0000064 780  NN1     URL                      Z99 
+0000064 790  VVG     shortening               N3.7-/A2.1 N5-/A2.1 A2.1/T1.3 N3.3-/A2.1 F1 
+0000064 800  NN2     capabilities             X9.1+ 
+0000064 801  ,       ,                        
+0000064 810  VVG     lessening                N5-/A2.1 
+0000064 820  AT      the                      Z5 
+0000064 830  NN1     load                     N5+ 
+0000064 840  II      on                       Z5 
+0000064 850  AT      the                      Z5 
+0000064 860  NN1     web                      Y2 L2 O2 
+0000064 870  CC      and                      Z5 
+0000064 880  NN2     DNS                      Z99 
+0000064 881  .       .                        
+0000064 882  -----   -----                    
+0000064 890  CC      And                      Z5 
+0000064 900  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000064 901  XX      n't                      Z6 
+0000064 910  VBI     be                       A3+ Z5 
+0000064 920  JJ      surprised                X2.6- 
+0000064 930  CS      if                       Z7 
+0000064 940  NN1     Twitter                  Z99 
+0000064 950  VVZ     comes                    Q2.1[i29.3.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 M1[i28.2.1 A10-[i28.2.1 A10+[i28.2.1 A1.1.1[i28.2.1 T2-[i28.2.1 S3.2/B1@[i28.2.1 
+0000064 960  RP      out                      Q2.1[i29.3.2 M6 M1[i28.2.2 A10-[i28.2.2 A10+[i28.2.2 A1.1.1[i28.2.2 T2-[i28.2.2 S3.2/B1@[i28.2.2 
+0000064 970  IW      with                     Q2.1[i29.3.3 Z5 
+0000064 980  AT1     a                        Z5 
+0000064 990  NN1     URL                      Z99 
+0000064 000  NN1     shortener                Z99 
+0000064 010  IO      of                       A9+[i30.3.1 Z5 
+0000064 020  APPGE   its                      A9+[i30.3.2 Z8 Z8[i31.2.1 
+0000064 030  DA      own                      A9+[i30.3.3 A9+ S5- Z8[i31.2.2 
+0000064 031  .       .                        
+0000065 001  -----   -----                    
+0000066 010  VD0     Do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000066 020  PPY     you                      Z8mf 
+0000066 030  VHI     have                     A9+ Z5 A2.2 S4 
+0000066 040  NN2     thoughts                 X4.1 
+0000066 050  CC      or                       Z5 
+0000066 060  NN2     predictions              Q2.2/T1.1.3 X2.6+ 
+0000066 070  II      on                       Z5 
+0000066 080  NP1     URL                      Z99 
+0000066 090  NN2     shorteners               Z99 
+0000066 091  ?       ?                        
+0000066 092  -----   -----                    
+0000066 100  VV0     Want                     X7+ S6+ A7+ S3.2 A9- 
+0000066 110  TO      to                       Z5 
+0000066 120  VVI     share                    S1.1.2+ 
+0000066 130  AT1     an                       Z5 
+0000066 140  JJ      innovative               T3- 
+0000066 150  NN1     URL                      Z99 
+0000066 160  NN1     shortener                Z99 
+0000066 161  ?       ?                        
+0000066 162  -----   -----                    
+0000066 170  VV0     Let                      Q2.1[i32.2.1 S7.4+ I2.2/H1 T2- 
+0000066 180  PPIO2   us                       Z8 
+0000066 190  VVI     know                     Q2.1[i32.2.2 X2.2+ S3.2/B1% 
+0000066 200  II      about                    Z5 
+0000066 210  PPHO2   them                     Z8mfn 
+0000066 220  II      in                       Z5 
+0000066 230  AT      the                      Z5 
+0000066 240  NN2     comments                 Q2.1 
+0000066 241  .       .                        
+0000070 001  NULL    **8;107;text             

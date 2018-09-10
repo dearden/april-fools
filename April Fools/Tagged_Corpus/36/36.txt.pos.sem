@@ -1,0 +1,422 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  RT      Today                    T1.1.2 
+0000002 020  NP1     Lucasfilm                Z99 
+0000002 030  VVD     announced                Q2.2 
+0000002 040  AT      the                      Z5 
+0000002 050  NN1     licensing                G1.1/Q1.2 S7.4+ 
+0000002 060  IO      of                       Z5 
+0000002 070  AT1     a                        Z5 
+0000002 080  JJ      new                      T3- 
+0000002 090  NN1     line                     O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000002 100  IO      of                       Z5 
+0000002 101  NULL    <quote>                  
+0000002 102  -----   -----                    
+0000002 103  "       "                        
+0000002 110  NN1     Adult                    T3+/S2mf 
+0000002 111  "       "                        
+0000002 112  NULL    </quote>                 
+0000002 113  -----   -----                    
+0000002 120  NN1     Star                     Z3[i1.2.1 K5.2[i1.2.1 W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 
+0000002 130  NN2     Wars                     Z3[i1.2.2 K5.2[i1.2.2 G3 S7.3 
+0000002 140  NN2     novels                   Q4.1 
+0000002 141  .       .                        
+0000004 001  NULL    <quote>                  
+0000004 002  -----   -----                    
+0000004 003  "       "                        
+0000004 010  CS      While                    Z5 
+0000004 020  AT      the                      Z5 
+0000004 030  NN2     movies                   Q4.3 
+0000004 040  VBDR    were                     A3+ Z5 
+0000004 050  RR      still                    T2++ Z4 E3+ 
+0000004 060  AT1     an                       Z5 
+0000004 070  JJ      ongoing                  T2++ 
+0000004 080  NN1     project                  A1.1.1 P1 
+0000004 081  ,       ,                        
+0000004 090  PPH1    it                       Z8 
+0000004 100  VBDZ    was                      A3+ Z5 
+0000004 110  JJ      important                A11.1+ 
+0000004 120  TO      to                       Z5 
+0000004 130  VVI     portray                  C1 Q2.2 
+0000004 140  DB      all                      N5.1+ 
+0000004 150  NN2     aspects                  A4.1 A8 M6 
+0000004 160  IO      of                       Z5 
+0000004 170  AT      the                      Z5 
+0000004 180  NN1     Star                     Z3c 
+0000004 190  NN2     Wars                     G3 S7.3 
+0000004 200  NN1     universe                 W1 A4.1 
+0000004 210  CSA     as                       Z5 
+0000004 220  JJ      wholesome                A5.1+ B2+ G2.2+ 
+0000004 230  NN1     family                   S4c A4.1c 
+0000004 240  NN1     entertainment            K1 
+0000004 241  ,       ,                        
+0000004 242  "       "                        
+0000004 243  NULL    </quote>                 
+0000004 244  -----   -----                    
+0000004 250  VVD     said                     Q2.1 
+0000004 260  NP1     Lucasfilm                Z99 
+0000004 270  NN2     spokesmen                Q2.2/S2.2m 
+0000004 280  NP1     Dirk                     Z1mf[i2.2.1 Z3c[i2.2.1 Z1m 
+0000004 290  NP1     Merdespieler             Z1mf[i2.2.2 Z3c[i2.2.2 
+0000004 291  .       .                        
+0000004 292  NULL    <quote>                  
+0000004 293  -----   -----                    
+0000004 294  "       "                        
+0000004 300  RR      However                  Z4 
+0000004 301  ,       ,                        
+0000004 310  CS21    now                      Z5[i3.2.1 Z5 
+0000004 320  CS22    that                     Z5[i3.2.2 Z5 Z8 
+0000004 330  AT      the                      Z5 
+0000004 340  NN1     cycle                    M3fn N6 B1 
+0000004 350  IO      of                       Z5 
+0000004 360  NN2     films                    Q4.3 O2/C1 O1.1 O1.2 B3 
+0000004 370  VBZ     is                       Z5 A3+ 
+0000004 380  VDN     done                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000004 381  ,       ,                        
+0000004 390  PPIS2   we                       Z8 
+0000004 400  VM      can                      A7+ 
+0000004 410  RR      finally                  N4 
+0000004 420  VVI     broaden                  N3.7+/A2.1 N5+/A2.1 A4.2-/A2.1 
+0000004 430  AT      the                      Z5 
+0000004 440  NN1     Star                     Z3c 
+0000004 450  NN2     Wars                     G3 S7.3 
+0000004 460  VV0@    franchise                I2.2 
+0000004 470  II      into                     Z5 
+0000004 480  NN1     marketing                I2.2 
+0000004 490  NN2     niches                   O2 I3.1 
+0000004 500  PPIS2   we                       Z8 
+0000004 501  VM      'd                       A7+ 
+0000004 510  RR      heretofore               N4 
+0000004 520  VVN     avoided                  A1.9 M1 
+0000004 521  ,       ,                        
+0000004 530  CC      and                      Z5 
+0000004 540  NN1     adult                    T3+/S2mf 
+0000004 550  NN1     entertainment            K1 
+0000004 560  VBZ     is                       A3+ Z5 
+0000004 570  II      at                       Z5 
+0000004 580  AT      the                      Z5 
+0000004 590  NN1     top                      M6 N4 N5.1+ O2 B5 K6 N5.1- 
+0000004 600  IO      of                       Z5 
+0000004 610  APPGE   our                      Z8 
+0000004 620  NN1     list                     Q1.2 N4 M4 
+0000004 621  .       .                        
+0000004 622  "       "                        
+0000004 623  NULL    </quote>                 
+0000004 624  -----   -----                    
+0000006 010  MC1     One                      N1 T3 T1.2 
+0000006 020  IO      of                       Z5 
+0000006 030  AT      the                      Z5 
+0000006 040  MD      first                    N4 
+0000006 050  JJ      new                      T3- 
+0000006 060  NN2     licenses                 G1.1/Q1.2 S7.4+ 
+0000006 070  VBDZ    was                      Z5 A3+ 
+0000006 080  VVN     awarded                  A9- A5.1+/A9- I1.3+/A9- 
+0000006 090  II      to                       Z5 
+0000006 100  JJ      longtime                 T1.3++ 
+0000006 110  NN1     Star                     Z3c 
+0000006 120  NN2     Wars                     G3 S7.3 
+0000006 130  JJ      novel                    A6.2- 
+0000006 140  NN1     publisher                Q4.1/S2mf 
+0000006 150  NP1     Del                      Z1mf[i4.2.1 Z3c[i4.2.1 Z1m 
+0000006 160  NP1     Rey                      Z1mf[i4.2.2 Z3c[i4.2.2 
+0000006 170  NN2     Books                    Q4.1 Q1.2 I1/Q1.2 K5.1/I1 
+0000006 171  ,       ,                        
+0000006 180  PNQS    who                      Z8 
+0000006 190  VM      will                     T1.1.3 
+0000006 200  VBI     be                       Z5 A3+ 
+0000006 210  VVG     putting                  M2[i5.2.1 O4.6-[i5.2.1 Q2.2[i5.2.1 E4.1-[i5.2.1 M2 Q2.1 Q2.2 A1.1.1 
+0000006 220  RP      out                      M2[i5.2.2 O4.6-[i5.2.2 Q2.2[i5.2.2 E4.1-[i5.2.2 M6 
+0000006 230  AT1     a                        Z5 
+0000006 240  NN1     line                     O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000006 250  IO      of                       Z5 
+0000006 260  NN1     Star                     Z3c 
+0000006 270  NN2     Wars                     G3 S7.3 
+0000006 280  NN1     adult                    T3+/S2mf 
+0000006 290  NN2     novels                   Q4.1 
+0000006 291  .       .                        
+0000006 292  -----   -----                    
+0000006 300  NP1@    Del                      Z1mf[i6.2.1 Z3c[i6.2.1 Z1m 
+0000006 310  NP1     Rey                      Z1mf[i6.2.2 Z3c[i6.2.2 
+0000006 320  VVD     announced                Q2.2 
+0000006 330  CST     that                     Z5 Z8 
+0000006 340  AT      the                      Z5 
+0000006 350  MD      first                    N4 
+0000006 360  NN1     book                     Q4.1 Q1.2 K5.1/I1 
+0000006 370  II      in                       Z5 
+0000006 380  AT      the                      Z5 
+0000006 390  NN1     line                     O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000006 400  VM      would                    A7+ 
+0000006 410  VBI     be                       A3+ Z5 
+0000006 420  NN1     Slave                    S7.1-/S2mf 
+0000006 430  NN1     Girl                     S2.1f L2f@ 
+0000006 440  IO      of                       Z5 
+0000006 450  NP1     Tattoine                 Z99 
+0000006 460  II      by                       Z5 
+0000006 470  NP1     Barry                    Z1mf[i7.2.1 Z3c[i7.2.1 Z1mf Z2 
+0000006 480  NP1     Malzberg                 Z1mf[i7.2.2 Z3c[i7.2.2 
+0000006 490  CC      and                      Z5 
+0000006 500  NP1     Mike                     Z1mf[i8.2.1 Z3c[i8.2.1 Z1m 
+0000006 510  NP1     Resnick                  Z1mf[i8.2.2 Z3c[i8.2.2 
+0000006 511  .       .                        
+0000008 001  NULL    <quote>                  
+0000008 002  -----   -----                    
+0000008 003  "       "                        
+0000008 010  UH      Yeah                     Z4 
+0000008 011  ,       ,                        
+0000008 020  NP1     Barry                    Z1mf Z2 
+0000008 030  CC      and                      Z5 
+0000008 040  PPIS1   I                        Z8mf 
+0000008 050  VHD     had                      A9+ Z5 A2.2 S4 
+0000008 060  AT1     an                       Z5 
+0000008 070  JJ      old                      T3+ Z4 
+0000008 080  NN1     porn                     S3.2/Q4 
+0000008 090  NN1     novel                    Q4.1 
+0000008 100  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000008 110  JJ      Arab                     Z2 Z2/Q3 
+0000008 120  NN1     Slave                    S7.1-/S2mf 
+0000008 130  NN1     Harem                    S4c 
+0000008 140  PPIS2   we                       Z8 
+0000008 141  VM      'd                       A7+ 
+0000008 150  RR      never                    T1/Z6 
+0000008 160  VVN     managed                  S7.1+ A1.1.1 X9.2+ 
+0000008 170  TO      to                       Z5 
+0000008 180  VVI     sell                     I2.2 
+0000008 181  ,       ,                        
+0000008 190  CC      and                      Z5 
+0000008 200  PPH1    it                       Z8 
+0000008 210  VBDZ    was                      A3+ Z5 
+0000008 220  RG      pretty                   A13.5 
+0000008 230  JJ      easy                     A12+ 
+0000008 240  TO      to                       Z5 
+0000008 250  VVI     alter                    A2.1+ 
+0000008 260  RR      so                       Z5 A13.3 
+0000008 270  PPH1    it                       Z8 
+0000008 280  JJ      fit                      A1.2+ B2+ 
+0000008 290  II      in                       Z5 
+0000008 300  AT      the                      Z5 
+0000008 310  NN1     Star                     Z3c 
+0000008 320  NN2     Wars                     G3 S7.3 
+0000008 330  NN1     universe                 W1 A4.1 
+0000008 331  ,       ,                        
+0000008 332  "       "                        
+0000008 333  NULL    </quote>                 
+0000008 334  -----   -----                    
+0000008 340  VVD     said                     Q2.1 
+0000008 350  NP1     Resnick                  Z99 
+0000008 360  CS      when                     Z5 
+0000008 370  AT      the                      Z5 
+0000008 380  MC      two                      N1 T3 T1.2 
+0000008 390  NN2     authors                  Q4.1/S2mf 
+0000008 400  VBDR    were                     Z5 A3+ 
+0000008 410  VVN     reached                  M1 N3.3 Q2.1 X9.2+ 
+0000008 420  IF      for                      Z5 
+0000008 430  NN1     comment                  Q2.1 
+0000008 431  .       .                        
+0000009 001  -----   -----                    
+0000010 010  II      In                       Z5 
+0000010 020  AT      the                      Z5 
+0000010 030  NN1     background               T1.1.1 A2.2 M6 S1.1.1 P1 A11.1- A1.8- 
+0000010 031  ,       ,                        
+0000010 040  NP1     Malzberg                 Z99 
+0000010 050  VM      could                    A7+ 
+0000010 060  VBI     be                       Z5 A3+ 
+0000010 070  VVN     heard                    X3.2 X2.3+ G2.1@ 
+0000010 080  VVG     laughing                 E4.1+/X3.2 
+0000010 090  RR      maniacally               Z99 
+0000010 100  CSA     as                       Z5 
+0000010 110  PPHS1   he                       Z8m 
+0000010 120  VVD     typed                    Q1.2 
+0000010 130  RL      away                     M6 A1.1.1% 
+0000010 140  II      at                       Z5 
+0000010 150  AT      the                      Z5 
+0000010 160  JJ      updated                  T1.1.2 
+0000010 170  NN1     manuscript               Q1.2 
+0000010 171  .       .                        
+0000012 001  NULL    <quote>                  
+0000012 002  -----   -----                    
+0000012 003  "       "                        
+0000012 010  II21    Instead                  A6.1-[i9.2.1 
+0000012 020  II22    of                       A6.1-[i9.2.2 
+0000012 030  AT1     an                       Z5 
+0000012 040  JJ      Arab                     Z2 Z2/Q3 
+0000012 050  NN1     slave                    S7.1-/S2mf 
+0000012 060  NN1     caravan                  M3fn 
+0000012 061  ,       ,                        
+0000012 070  PPHS1   she                      Z8f 
+0000012 080  VVZ     gets                     A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000012 090  VVN     captured                 A9+ 
+0000012 100  II      by                       Z5 
+0000012 110  AT      the                      Z5 
+0000012 120  NN1     Sand                     O1.1 W3 
+0000012 130  NN      People                   S2mfc 
+0000012 140  CC      and                      Z5 
+0000012 150  VVN     sold                     I2.2 
+0000012 160  II      to                       Z5 
+0000012 170  NP1     Jabba                    Z99 
+0000012 180  AT      the                      Z5 
+0000012 190  NP1     Hutt                     Z99 
+0000012 191  .       .                        
+0000012 192  "       "                        
+0000012 193  NULL    </quote>                 
+0000014 001  NULL    <quote>                  
+0000014 002  -----   -----                    
+0000014 003  "       "                        
+0000014 010  NP1     Hahaha                   Z99 
+0000014 011  !       !                        
+0000014 012  -----   -----                    
+0000014 020  NN2     Banthas                  Z99 
+0000014 021  !       !                        
+0000014 022  "       "                        
+0000014 023  NULL    </quote>                 
+0000014 024  -----   -----                    
+0000014 030  VVD     exclaimed                Q2.2 
+0000014 040  NP1     Malzberg                 Z99 
+0000014 041  .       .                        
+0000016 001  NULL    <quote>                  
+0000016 002  -----   -----                    
+0000016 003  "       "                        
+0000016 010  RR      Anyway                   Z4 A13.7 
+0000016 011  ,       ,                        
+0000016 020  CS      after                    Z5 
+0000016 030  DD      some                     N5 Z5 
+0000016 040  MC      200                      N1 T1.2 T3 T1.3 N3.2 
+0000016 050  NN2     pages                    Q1.2 T1.3 S7.1-/S2.2m 
+0000016 060  PPHS1   she                      Z8f 
+0000016 070  VVZ     gets                     A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000016 080  VVN     rescued                  S8+ 
+0000016 090  II      by                       Z5 
+0000016 100  AT1     a                        Z5 
+0000016 110  JJ      young                    T3- 
+0000016 120  NP1     Luke                     Z1mf[i10.2.1 Z3c[i10.2.1 Z1m S9/Q1.2 
+0000016 130  NP1     Skywalker                Z1mf[i10.2.2 Z3c[i10.2.2 
+0000016 131  .       .                        
+0000016 132  -----   -----                    
+0000016 140  DB      All                      Z4[i11.3.1 N5.1+ 
+0000016 150  II      in                       Z4[i11.3.2 Z5 
+0000016 160  DB      all                      Z4[i11.3.3 N5.1+ 
+0000016 161  ,       ,                        
+0000016 170  APPGE   its                      Z8 
+0000016 180  RR      probably                 A7+ 
+0000016 190  AT      the                      Z5 
+0000016 200  JJT     easiest                  A12+++ 
+0000016 210  NNU     $50,000                  Z99 
+0000016 220  NP1     Barry                    Z1mf Z2 
+0000016 230  CC      and                      Z5 
+0000016 240  PPIS1   I                        Z8mf 
+0000016 250  RR      ever                     T1.1 N6+++ A13 
+0000016 260  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000016 261  .       .                        
+0000016 262  "       "                        
+0000016 263  NULL    </quote>                 
+0000016 264  -----   -----                    
+0000018 010  NP1@    Del                      Z1mf[i12.2.1 Z3c[i12.2.1 Z1m 
+0000018 020  NP1     Rey                      Z1mf[i12.2.2 Z3c[i12.2.2 
+0000018 021  GE      's                       Z5 
+0000018 030  NN1     publicist                Q2.2/S2mf 
+0000018 040  VVD     indicated                A10+ M6 Q1.1/M3 
+0000018 050  CST     that                     Z8 Z5 
+0000018 060  PPHS2   they                     Z8mfn 
+0000018 070  VBDR    were                     A3+ Z5 
+0000018 080  JJ      willing                  X7+ X5.2+ 
+0000018 090  TO      to                       Z5 
+0000018 100  VVI     look                     A8 X3.4 X2.4 X7+ Z4 
+0000018 110  II      beyond                   Z5 
+0000018 120  JJ      traditional              S1.1.1 A6.2+ T3++ 
+0000018 130  NN1     adult                    T3+/S2mf 
+0000018 140  NN2     themes                   X4.1 K2 Q1.2 Q3 
+0000018 141  ,       ,                        
+0000018 150  CC      and                      Z5 
+0000018 160  VBDR    were                     A3+ Z5 
+0000018 170  JJ      willing                  X7+ X5.2+ 
+0000018 180  TO      to                       Z5 
+0000018 190  VVI     pay                      I1.2 A9- I1.1/I3.1 
+0000018 200  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
+0000018 210  NNU1    dollar                   I1 
+0000018 220  IF      for                      Z5 
+0000018 230  NN      works                    I4/H1c H1c A1.1.1 N5.1+ Q4 
+0000018 240  TO      to                       Z5 
+0000018 250  VVI     fill                     N5.1+ I3.1 Q1.2@ 
+0000018 260  DDQ     what                     Z8 Z5 
+0000018 270  VBDR    were                     Z5 A3+ 
+0000018 280  RR      previously               N4 
+0000018 290  VVN     considered               X2.1 X2.4 X6 
+0000018 300  NN1     niche                    O2/I2.2[i13.2.1 O2 I3.1 
+0000018 310  NN2     markets                  O2/I2.2[i13.2.2 I2.2 I2.2/H1 
+0000018 311  .       .                        
+0000018 312  -----   -----                    
+0000018 320  II      As                       Z5 
+0000018 330  NN1     proof                    A5.2+ Q4.1 F2 
+0000018 331  ,       ,                        
+0000018 340  PPHS1   she                      Z8f 
+0000018 350  VVD     cited                    Q2.2 Q1.2 G2.1 
+0000018 360  AT      the                      Z5 
+0000018 370  NN1     hiring                   I2.2 I3.1 
+0000018 380  IO      of                       Z5 
+0000018 390  NP1     Pulitzer                 Z1 
+0000018 400  NN1     Prize                    S1.1.4+ A11.1+ I1.3+ 
+0000018 410  NN1     winner                   X9.2+/S7.3/S2mf X9.2+/G3/S2mf 
+0000018 420  NP1     E.                       Z1mf[i15.3.1 Z3c[i15.3.1 Z1mf[i14.2.1 Z3c[i14.2.1 
+0000018 430  NP1     Annie                    Z1mf[i15.3.2 Z3c[i15.3.2 Z1f Z1mf[i14.2.2 Z3c[i14.2.2 Z1mf[i16.2.1 Z3c[i16.2.1 
+0000018 440  NP1     Proulx                   Z3c[i15.3.3 Z1mf[i15.3.3 Z1mf[i16.2.2 Z3c[i16.2.2 
+0000018 450  TO      to                       Z5 
+0000018 460  VVI     pen                      Q1.2 
+0000018 470  NN1     Brokeback                Z99 
+0000018 480  NN1     Falcon                   Z3c 
+0000018 481  ,       ,                        
+0000018 490  AT1     a                        Z5 
+0000018 500  NN1     novel                    Q4.1 
+0000018 510  DDQ     which                    Z8 Z5 
+0000018 520  VVZ     explores                 M1 X2.4 
+0000018 530  AT      the                      Z5 
+0000018 540  JJ@     forbidden                S7.4- 
+0000018 550  NN1     love                     S3.2 E2+ E2+/S2mf 
+0000018 560  II      between                  Z5 
+0000018 570  NP1     Han                      Z1mf[i17.2.1 Z3c[i17.2.1 
+0000018 580  NN1     Solo                     Z1mf[i17.2.2 Z3c[i17.2.2 Z3m Z1mf 
+0000018 590  CC      and                      Z5 
+0000018 600  NP1     Chewbacca                Z99 
+0000018 601  .       .                        
+0000020 001  NULL    <quote>                  
+0000020 002  -----   -----                    
+0000020 003  "       "                        
+0000020 010  AT      The                      Z5 
+0000020 020  NN1     Star                     Z3c 
+0000020 030  NN2     Wars                     G3 S7.3 
+0000020 040  NN1     universe                 W1 A4.1 
+0000020 050  VBZ     is                       A3+ Z5 
+0000020 060  RR      almost                   A13.4 
+0000020 070  MC      30                       T3 N1 T1.2 T1.3 N3.2 
+0000020 080  NNT2    years                    T1.3 
+0000020 090  JJ      old                      T3+ Z4 
+0000020 091  ,       ,                        
+0000020 092  "       "                        
+0000020 093  NULL    </quote>                 
+0000020 094  -----   -----                    
+0000020 100  VVD     said                     Q2.1 
+0000020 110  NP1     Merdespieler             Z99 
+0000020 111  .       .                        
+0000020 112  NULL    <quote>                  
+0000020 113  -----   -----                    
+0000020 114  "       "                        
+0000020 120  PPH1    It                       Z8 
+0000020 121  VBZ     's                       A3+ Z5 
+0000020 130  JJ      high                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000020 140  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000020 150  APPGE   our                      Z8 
+0000020 160  NN2     fans                     S2/E2+mf O2 
+0000020 170  VVD     learned                  X2.3+ P1 
+0000020 180  EX      there                    Z5 
+0000020 181  VBZ     's                       A3+ Z5 
+0000020 190  RRR     more                     A13.3 N6++ 
+0000020 200  II      to                       Z5 
+0000020 210  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000020 220  CSN     than                     Z5 
+0000020 230  JJ      comic                    K1/Q4.1[i18.2.1 E4.1+ 
+0000020 240  NN2     books                    K1/Q4.1[i18.2.2 Q4.1 Q1.2 I1/Q1.2 K5.1/I1 
+0000020 250  CC      and                      Z5 
+0000020 260  NN1     action                   A1.1.1 G3 
+0000020 270  NN2     figures                  N5 N1 B1 S2mf C1 O4.4 O2 
+0000020 271  .       .                        
+0000020 272  "       "                        
+0000020 273  NULL    </quote>                 
+0000023 001  NULL    **8;7;text               

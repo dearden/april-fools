@@ -1,0 +1,408 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN2     Households               S4c B4 
+0000002 020  CST     that                     Z8 Z5 
+0000002 030  RR      already                  T1.1.1 
+0000002 040  VH0     have                     A9+ Z5 A2.2 S4 
+0000002 050  NN1     access                   M1 A9+ A1.1.1 
+0000002 060  II      to                       Z5 
+0000002 070  FO      ADSL2+                   Z99 
+0000002 080  VM      wo                       T1.1.3 
+0000002 081  XX      n't                      Z6 
+0000002 090  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000002 100  AT1     a                        Z5 
+0000002 110  NN1     fibre                    O1.1 O2 
+0000002 120  NN1     upgrade                  A11.1+/A2.1 A5.1+/A2.1 
+0000002 130  II      under                    Z5 
+0000002 140  AT      the                      Z5 
+0000002 150  NP1     NBN                      Z99 
+0000002 151  ,       ,                        
+0000002 160  II21    according                Z5[i1.2.1 Z5 
+0000002 170  II22    to                       Z5[i1.2.2 Z5 
+0000002 180  AT1     a                        Z5 
+0000002 190  NN1     shock                    E5- B2- O3 
+0000002 200  NN1     announcement             Q2.2 
+0000002 210  II      on                       Z5 
+0000002 220  NP1     ABC                      A12+ S5+ Q3 
+0000002 230  NN1     radio                    Q4.3 Q1.3 
+0000002 240  MD      last                     T1.1.1[i2.2.1 N4 
+0000002 250  NNT1    night                    T1.1.1[i2.2.2 T1.3 
+0000002 260  II      by                       Z5 
+0000002 270  NP1     Stephen                  Z2[i4.2.1 Z3c[i4.2.1 Z1mf[i4.2.1 Z1m Z1mf[i3.2.1 Z3c[i3.2.1 
+0000002 280  NP1     Conroy                   Z2[i4.2.2 Z3c[i4.2.2 Z1mf[i4.2.2 Z1mf[i3.2.2 Z3c[i3.2.2 
+0000002 281  .       .                        
+0000002 282  -----   -----                    
+0000002 290  AT      The                      Z5 
+0000002 300  NN1     move                     M1 M2 A2.1+ H4/A2.1 K5.2 
+0000002 310  VBZ     is                       Z5 A3+ 
+0000002 320  VVN     claimed                  Q2.2 A9+ 
+0000002 330  TO      to                       Z5 
+0000002 340  VVI     reduce                   N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000002 350  AT      the                      Z5 
+0000002 360  NN1     cost                     I1.3 
+0000002 370  IO      of                       Z5 
+0000002 380  VVG     rolling                  I2/T2+[i5.2.1 A1.1.1[i5.2.1 M1 M2 A1.1.1 
+0000002 390  RP      out                      I2/T2+[i5.2.2 A1.1.1[i5.2.2 M6 
+0000002 400  AT      the                      Z5 
+0000002 410  NP1     NBN                      Z99 
+0000002 420  II      from                     Z5 
+0000002 430  NNU     $43bn                    Z99 
+0000002 440  II      to                       Z5 
+0000002 450  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000002 460  NNU     $23bn                    Z99 
+0000002 461  .       .                        
+0000003 001  -----   -----                    
+0000004 010  AT      The                      Z5 
+0000004 020  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000004 030  VVZ     comes                    M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000004 040  II      as                       Z5 
+0000004 050  AT      the                      Z5 
+0000004 060  JJ      Federal                  S5+ 
+0000004 070  NN1     Government               G1.1c 
+0000004 080  VVZ     comes                    A1.8+[i6.2.1 A4.1[i6.2.1 S7.1-[i6.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000004 090  II      under                    A1.8+[i6.2.2 A4.1[i6.2.2 S7.1-[i6.2.2 Z5 E6-[i7.2.1 A1.7+[i7.2.1 
+0000004 100  JJ      increased                N5+/A2.1 
+0000004 110  NN1     pressure                 N3.5 S7.1+ E6- E6-[i7.2.2 A1.7+[i7.2.2 
+0000004 120  II      regarding                Z5 
+0000004 130  AT      the                      Z5 
+0000004 140  NN1     price                    I1.3 
+0000004 150  NN1     tag                      Q1.2 Q3 K6 
+0000004 160  VVN     placed                   M2 X2.2+ I3.1 Q2.2 
+0000004 170  II      on                       Z5 
+0000004 180  AT      the                      Z5 
+0000004 190  NP1     NBN                      Z99 
+0000004 191  .       .                        
+0000004 192  -----   -----                    
+0000004 200  PPH1    It                       Z8 
+0000004 210  VM      will                     T1.1.3 
+0000004 220  RR      also                     N5++ 
+0000004 230  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000004 240  AT      the                      Z5 
+0000004 250  NN1     government               G1.1c 
+0000004 260  RP      back                     M6 N6+ T1.1.1 S1.1.2+ 
+0000004 270  II      in                       Z5 
+0000004 280  AT      the                      Z5 
+0000004 290  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000004 300  NN2     graces                   O4.2+ S1.2.4+ T1.3 S7.4+ S9 
+0000004 310  IO      of                       Z5 
+0000004 320  NP1     Telstra                  Z99 
+0000004 330  NN2     shareholders             I1.1/S2mf 
+0000004 331  ,       ,                        
+0000004 340  JJ      angry                    E3- W4 
+0000004 350  II      after                    Z5 
+0000004 360  NN2     attempts                 X8+ 
+0000004 370  TO      to                       Z5 
+0000004 380  VVI     split                    A6.1- A1.1.2 S1.1.2- 
+0000004 390  AT      the                      Z5 
+0000004 400  NN1     telco                    Z99 
+0000004 410  II      in                       A2.1+[i8.2.1 Z5 
+0000004 420  MC      two                      A2.1+[i8.2.2 N1 T3 T1.2 
+0000004 430  II      in                       Z5 
+0000004 440  NN1     preparation              A1.1.1 
+0000004 450  IF      for                      Z5 
+0000004 460  AT      the                      Z5 
+0000004 470  NN1     fibre                    O1.1 O2 
+0000004 480  NN1     network                  S5+c Q4.3 Y2 
+0000004 481  .       .                        
+0000005 001  -----   -----                    
+0000006 010  CS      When                     Z5 
+0000006 020  VVN     challenged               A6.1- S7.3+ Q2.2 
+0000006 030  II      about                    Z5 
+0000006 040  AT      the                      Z5 
+0000006 050  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
+0000006 060  NN1     world                    W1 S5+c A4.1 N5+ 
+0000006 070  NN1     performance              K4 X9.2 A1.1.1 A12- 
+0000006 080  IO      of                       Z5 
+0000006 090  FO      ADSL2+                   Z99 
+0000006 100  NN2     lines                    O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000006 101  ,       ,                        
+0000006 110  NP1     Conroy                   Z99 
+0000006 120  VM      would                    A7+ 
+0000006 130  XX      not                      Z6 
+0000006 140  VVI     get                      M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1- 
+0000006 150  II      into                     Z5 
+0000006 160  NN2     specifics                A4.2+ 
+0000006 161  .       .                        
+0000006 162  NULL    <quote>                  
+0000006 163  -----   -----                    
+0000006 164  "       "                        
+0000006 170  NN2     Figures                  N5 N1 B1 S2mf C1 O4.4 O2 
+0000006 180  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000006 190  VVN     released                 A1.7- A9- 
+0000006 200  II      by                       Z5 
+0000006 210  AT      the                      Z5 
+0000006 220  JJ      Australian               Z2 
+0000006 230  NN1     Bureau                   G1.1 H5 
+0000006 240  IO      of                       Z5 
+0000006 250  NN      Statistics               N3.1c N2c 
+0000006 260  VV0     show                     A10+ S1.1.1 
+0000006 270  CST     that                     Z5 Z8 
+0000006 280  RR      almost                   A13.4 
+0000006 290  MC      two                      N1[i9.2.1 T1.3[i9.2.1 I1[i9.2.1 N1 T3 T1.2 
+0000006 300  NNO     million                  N1[i9.2.2 T1.3[i9.2.2 I1[i9.2.2 N1 I1 
+0000006 310  NN2     households               S4c B4 
+0000006 320  RR      right                    T1.1.2[i10.2.1 Z4 A5.3+ A4.2+ M6 A13.3 A13.2 
+0000006 330  RT      now                      T1.1.2[i10.2.2 T1.1.2 Z4 
+0000006 340  VBR     are                      Z5 A3+ 
+0000006 350  VVG     getting                  M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1- 
+0000006 360  II      between                  Z5 
+0000006 370  MC      8                        N1 T1.2 T3 T1.3 N3.2 
+0000006 380  CC      and                      Z5 
+0000006 390  MC      24                       N1 T1.2 T3 T1.3 N3.2 
+0000006 400  NNU2    megabits                 Y2 
+0000006 410  IW      with                     Z5 
+0000006 420  FO      ADSL2                    Z99 
+0000006 421  "       "                        
+0000006 422  NULL    </quote>                 
+0000006 423  -----   -----                    
+0000006 424  ,       ,                        
+0000006 430  PPHS1   he                       Z8m 
+0000006 440  VVD     claimed                  Q2.2 A9+ 
+0000006 441  .       .                        
+0000006 442  NULL    <quote>                  
+0000006 443  -----   -----                    
+0000006 444  "       "                        
+0000006 450  NN2     Experts                  X2.2+/S2mf X9.1+/S2mf 
+0000006 460  II      from                     Z5 
+0000006 470  AT      the                      Z5 
+0000006 480  NN1     entertainment            I4/K1c[i11.2.1 K1 
+0000006 490  NN1     industry                 I4/K1c[i11.2.2 I4c I2.1c 
+0000006 500  VV0     tell                     Q2.2 Q2.1 X3 A10+ 
+0000006 510  PPIO1   me                       Z8mf 
+0000006 520  DD1     that                     Z8 Z5 
+0000006 530  VBZ     is                       A3+ Z5 
+0000006 540  RR      easily                   A12+ 
+0000006 550  JJ      capable                  X9.1+ 
+0000006 560  IO      of                       Z5 
+0000006 570  MD      next                     Z3c[i12.2.1 N4 
+0000006 580  NN1     generation               Z3c[i12.2.2 T1.3 S5+c 
+0000006 590  NN2     applications             Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000006 600  II21    such                     Z5[i13.2.1 
+0000006 610  II22    as                       Z5[i13.2.2 Z5 
+0000006 620  NP1     IPTV                     Z99 
+0000006 621  .       .                        
+0000006 622  "       "                        
+0000006 623  NULL    </quote>                 
+0000006 624  -----   -----                    
+0000008 010  CCB     But                      Z5 
+0000008 020  AT      the                      Z5 
+0000008 030  NN2     comments                 Q2.1 
+0000008 040  RR      only                     A14 
+0000008 050  VV0     raise                    M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000008 060  DAR     more                     N5++ 
+0000008 070  NN2     questions                Q2.2 X4.1 
+0000008 080  IF      for                      Z5 
+0000008 090  NN2     consumers                I2.2/S2mf 
+0000008 091  .       .                        
+0000008 092  -----   -----                    
+0000008 100  XX      Not                      Z6 
+0000008 110  DB      all                      N5.1+ 
+0000008 120  FO      ADSL2+                   Z99 
+0000008 130  NN2     lines                    O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000008 140  VBR     are                      Z5 A3+ 
+0000008 150  VVN     created                  A1.1.1 A2.2 E1 
+0000008 160  JJ      equal                    A6.1+++ 
+0000008 161  ,       ,                        
+0000008 170  IW      with                     Z5 
+0000008 180  JJ      actual                   A5.4+ A14 
+0000008 190  NN1     performance              K4 X9.2 A1.1.1 A12- 
+0000008 200  RL      anywhere                 M6 
+0000008 210  II      between                  Z5 
+0000008 220  FU      1.5Mbit/s                Z99 
+0000008 230  CC      and                      Z5 
+0000008 240  FU      24Mbit/s                 Z99 
+0000008 241  .       .                        
+0000008 242  -----   -----                    
+0000008 250  PPH1    It                       Z8 
+0000008 260  VBZ     is                       X2.5-[i14.3.1 A10-[i14.3.1 A3+ Z5 
+0000008 270  XX      not                      X2.5-[i14.3.2 A10-[i14.3.2 Z6 
+0000008 280  RR@     clear                    X2.5-[i14.3.3 A10-[i14.3.3 
+0000008 290  CS      if                       Z7 
+0000008 300  AT      the                      Z5 
+0000008 310  NN1     government               G1.1c 
+0000008 320  VM      will                     T1.1.3 
+0000008 330  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000008 340  II      by                       Z5 
+0000008 350  NN1     exchange                 A9/S1.1.2+ Q2.1/E3- G3 M1/S1.1.2+ I2.2/H1 Q1.3/H1 
+0000008 351  ,       ,                        
+0000008 360  CC      or                       Z5 
+0000008 370  CS      if                       Z7 
+0000008 380  DD2     those                    Z8 Z5 
+0000008 390  XX      not                      Z6 
+0000008 400  VVG     reaching                 M1 N3.3 Q2.1 X9.2+ 
+0000008 410  AT1     a                        Z5 
+0000008 420  JJ      certain                  A4.2+ A7+ 
+0000008 430  FO      ADSL2+                   Z99 
+0000008 440  NN1     speed                    N3.8+ F3% 
+0000008 450  VM      will                     T1.1.3 
+0000008 460  RR      still                    T2++ Z4 E3+ 
+0000008 470  VBI     be                       A3+ Z5 
+0000008 480  JJ      eligible                 A1.2+ S4 
+0000008 490  IF      for                      Z5 
+0000008 500  NN1     fibre                    O1.1 O2 
+0000008 501  .       .                        
+0000008 502  -----   -----                    
+0000008 510  II      In                       Z5 
+0000008 520  AT1     a                        Z5 
+0000008 530  JJ      cruel                    E3- 
+0000008 540  NN1     twist                    O4.4 M2 A2.1+ K1 
+0000008 541  ,       ,                        
+0000008 550  PPH1    it                       Z8 
+0000008 560  VVZ     appears                  A8 A10+ A3+ G2.1 K4 Q4 
+0000008 570  CS21    as                       Z5[i15.2.1 Z5 
+0000008 580  CS22    though                   Z5[i15.2.2 Z5 
+0000008 590  DD2     those                    Z8 Z5 
+0000008 600  II      in                       Z5 
+0000008 610  JJ      regional                 M7 
+0000008 620  NN2     areas                    M7 A4.1 N3.6 
+0000008 630  VM      could                    A7+ 
+0000008 640  VVI     end                      T2-[i16.2.1 T2- 
+0000008 650  RP      up                       T2-[i16.2.2 
+0000008 660  IW      with                     Z5 
+0000008 670  JJR     faster                   N3.8++ 
+0000008 680  NN1     broadband                Q1.3/Y2 
+0000008 690  CSN     than                     Z5 
+0000008 700  DD2     those                    Z8 Z5 
+0000008 710  VVG     living                   H4 L1+ 
+0000008 720  II      in                       Z5 
+0000008 730  AT      the                      Z5 
+0000008 740  NN1     CBD                      Z3c 
+0000008 741  .       .                        
+0000009 001  -----   -----                    
+0000010 010  NN1     Opposition               S8-/E2- S7.3+ A6.1- 
+0000010 020  NN2     telecommunications       Q1.3 
+0000010 030  NN1     spokesman                Q2.2/S2.2m 
+0000010 040  NP1     Tony                     Z1mf[i17.2.1 Z3c[i17.2.1 Z1mf 
+0000010 050  NP1     Smith                    Z1mf[i17.2.2 Z3c[i17.2.2 Z1mf 
+0000010 060  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000010 070  JJ      Australian               Z2 
+0000010 080  NN1     IT                       Y2 B3@ 
+0000010 090  CST     that                     Z5 Z8 
+0000010 100  DD1     this                     Z8 M6 Z5 
+0000010 110  VBDZ    was                      A3+ Z5 
+0000010 120  AT      the                      Z5 
+0000010 130  NN1     nail                     O2 B1 
+0000010 140  II      in                       Z5 
+0000010 150  AT      the                      Z5 
+0000010 160  NN1     coffin                   O2/L1- 
+0000010 170  IF      for                      Z5 
+0000010 180  AT      the                      Z5 
+0000010 190  NP1     Rudd                     Z1mf[i18.2.1 Z3c[i18.2.1 Z1 
+0000010 200  NP1     NBN                      Z1mf[i18.2.2 Z3c[i18.2.2 
+0000010 201  .       .                        
+0000010 202  NULL    <quote>                  
+0000010 203  -----   -----                    
+0000010 204  "       "                        
+0000010 210  NN1     Wireless                 Q4.3 Q1.3 
+0000010 220  NN2     technologies             Y1 
+0000010 230  VBR     are                      Z5 A3+ 
+0000010 240  RR      already                  T1.1.1 
+0000010 250  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000010 260  II      past                     Z5 
+0000010 270  MC      100                      N1 T1.2 T3 T1.3 N3.2 
+0000010 280  NNU2    megabits                 Y2 
+0000010 290  CC      and                      Z5 
+0000010 300  AT      the                      Z5 
+0000010 310  NP1     Rudd                     Z1 
+0000010 320  NN1     Government               G1.1c 
+0000010 321  GE      's                       Z5 
+0000010 330  NN1     fibre                    O1.1 O2 
+0000010 340  NN1     plan                     X7+ C1/H1 
+0000010 350  VBZ     is                       A3+ Z5 
+0000010 360  RR      already                  T1.1.1 
+0000010 370  JJ31    out                      T3+++[i19.3.1 K5.1 
+0000010 380  JJ32    of                       T3+++[i19.3.2 
+0000010 390  JJ33    date                     T3+++[i19.3.3 
+0000010 391  "       "                        
+0000010 392  NULL    </quote>                 
+0000010 393  -----   -----                    
+0000010 394  ,       ,                        
+0000010 400  PPHS1   he                       Z8m 
+0000010 410  VVD     said                     Q2.1 
+0000010 411  .       .                        
+0000010 412  NULL    <quote>                  
+0000010 413  -----   -----                    
+0000010 414  "       "                        
+0000010 420  DD1     This                     M6 Z5 Z8 
+0000010 430  JJR@    further                  N5++ N3.3++ T2++ 
+0000010 440  NN1     back-pedalling           T1.1.1/A2.1+ 
+0000010 450  VVZ     proves                   A5.2+ X2.4 
+0000010 460  CST     that                     Z5 Z8 
+0000010 470  AT      the                      Z5 
+0000010 480  NP1     NBN                      Z99 
+0000010 490  VBZ     is                       A3+ Z5 
+0000010 500  RR      simply                   A13.6 A14 A12+ 
+0000010 510  NN1     policy                   X7+ Q1.2 
+0000010 520  II      on                       Z5 
+0000010 530  AT      the                      Z5 
+0000010 540  NN1     run                      M1/N3.8+ M1 B5 X8+ T1.3 X7/N5+ N5 K4 K5.1% 
+0000010 550  IF      for                      Z5 
+0000010 560  NN1     Labor                    A1.1.1 A12- I3.1/S5+ B1 
+0000010 570  RR21    as                       A6.2+[i20.2.1 
+0000010 580  RR22    usual                    A6.2+[i20.2.2 
+0000010 581  .       .                        
+0000010 582  "       "                        
+0000010 583  NULL    </quote>                 
+0000012 001  NULL    <quote>                  
+0000012 002  -----   -----                    
+0000012 003  "       "                        
+0000012 010  AT      The                      Z5 
+0000012 020  NN1     Coalition                S5+c 
+0000012 030  VM      will                     T1.1.3 
+0000012 040  VBI     be                       Z5 A3+ 
+0000012 050  VVG     looking                  X7+[i21.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000012 060  TO      to                       X7+[i21.2.2 Z5 
+0000012 070  VVI     implement                A1.1.1 A9-/O2 
+0000012 080  AT1     a                        Z5 
+0000012 090  RG      very                     A13.3 
+0000012 100  JJ      different                A6.1- 
+0000012 101  ,       ,                        
+0000012 110  JJ      responsible              A2.2 S6+ S7.1 S1.2.6+ X6+ 
+0000012 120  CC      and                      Z5 
+0000012 130  VVD     targeted                 X7+ 
+0000012 140  NN1     approach                 X4.2 M1 E1 S1.1.1 
+0000012 150  CST     that                     Z8 Z5 
+0000012 160  VM      will                     T1.1.3 
+0000012 170  VBI     be                       Z5 A3+ 
+0000012 180  VVN     designed                 C1 X7+ 
+0000012 190  TO      to                       Z5 
+0000012 200  VVI     deliver                  M2 Q2.1 X9.2+ B3 S9% 
+0000012 210  RRR     better                   A5.1++ G2.2++ O4.2++ 
+0000012 211  ,       ,                        
+0000012 220  JJ      affordable               I1.3- 
+0000012 221  ,       ,                        
+0000012 230  JJ      reliable                 A5.1+ A5.3+ 
+0000012 240  JJ      broadband                Q1.3/Y2 
+0000012 250  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000012 260  CS      where                    M6 
+0000012 270  PPHS2   they                     Z8mfn 
+0000012 280  VBR     are                      Z5 A3+ 
+0000012 290  VVN     needed                   S6+ 
+0000012 300  IW      without                  Z5 
+0000012 310  AT1     a                        Z5 
+0000012 320  JJ      reckless                 A1.3- 
+0000012 330  NN1     waste                    N5.2+ 
+0000012 340  IO      of                       Z5 
+0000012 350  NN1     taxpayer                 I1.1/S2mf 
+0000012 351  GE      's                       Z5 
+0000012 360  NN2     funds                    I1.1 N5+ 
+0000012 361  ,       ,                        
+0000012 370  II31    as                       N5++[i22.2.1 Z5 
+0000012 380  II32    well                     N5++[i22.2.2 
+0000012 390  II33    as                       Z5 
+0000012 400  VVG@    encouraging              S8+ 
+0000012 410  AT      the                      Z5 
+0000012 420  JJ      private                  G1.1-c[i23.2.1 A10- S5- G1.1- 
+0000012 430  NN1     sector                   G1.1-c[i23.2.2 A4.1 S5+ M7 N2@ 
+0000012 440  TO      to                       Z5 
+0000012 450  VVI     upgrade                  A11.1+/A2.1 A5.1+/A2.1 
+0000012 460  JJ      broadband                Q1.3/Y2 
+0000012 470  NN1     infrastructure           I2.1/S8+ 
+0000012 471  ,       ,                        
+0000012 472  "       "                        
+0000012 473  NULL    </quote>                 
+0000012 474  -----   -----                    
+0000012 480  NP1     Smith                    Z1mf 
+0000012 490  VVD     said                     Q2.1 
+0000012 491  .       .                        
+0000015 001  NULL    **8;7;text               

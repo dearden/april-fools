@@ -1,0 +1,519 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000004 010  NP1     NASCAR                   Z99 
+0000004 020  VBZ     is                       Z5 A3+ 
+0000004 030  VVG     hoping                   X2.6+ E4.1+ X9.2+ A5.1+ 
+0000004 040  NN      people                   S2mfc 
+0000004 050  VM      will                     T1.1.3 
+0000004 060  VVI     slow                     N3.8-[i1.2.1 N3.8- 
+0000004 070  RP      down                     N3.8-[i1.2.2 
+0000004 080  CSA     as                       Z5 
+0000004 090  PPHS2   they                     Z8mfn 
+0000004 100  VV0     drive                    M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000004 110  II      through                  Z5 
+0000004 120  NN2     cities                   M7 
+0000004 130  CC      and                      Z5 
+0000004 140  NN2     towns                    M7 
+0000004 150  II      around                   Z5 
+0000004 160  AT      the                      Z5 
+0000004 170  NN1     country                  G1.1c W3 F4/M7 K2 
+0000004 171  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NP1     NASCAR                   Z99 
+0000006 020  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000006 030  VVD     announced                Q2.2 
+0000006 040  RT      today                    T1.1.2 
+0000006 050  II      in                       Z5 
+0000006 060  NP1     Daytona                  Z99 
+0000006 070  CST     that                     Z5 Z8 
+0000006 080  AT      the                      Z5 
+0000006 090  NN1     organization             S5+c S7.1+ 
+0000006 100  VM      will                     T1.1.3 
+0000006 110  VVI     participate              S1.1.3+ 
+0000006 120  II      in                       Z5 
+0000006 130  AT1     a                        Z5 
+0000006 140  JJ      national                 M7/N5.1+ 
+0000006 141  NULL    <quote>                  
+0000006 142  -----   -----                    
+0000006 143  "       "                        
+0000006 150  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000006 160  VBZ     Is                       A3+ Z5 
+0000006 170  PN      Plenty                   N5+ 
+0000006 171  "       "                        
+0000006 172  NULL    </quote>                 
+0000006 173  -----   -----                    
+0000006 180  VV0@    campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000006 190  TO      to                       Z5 
+0000006 200  VVI     educate                  P1 
+0000006 210  NN2     drivers                  M3/S2mf O2 
+0000006 220  II      on                       Z5 
+0000006 230  AT      the                      Z5 
+0000006 240  NN2     dangers                  A15- A7+ 
+0000006 250  IO      of                       Z5 
+0000006 260  VVG     driving                  M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000006 270  RG      too                      Z3c[i2.2.1 N5.2+ A13.3 
+0000006 280  RR      fast                     Z3c[i2.2.2 N3.8+ 
+0000006 281  .       .                        
+0000006 282  NULL    <quote>                  
+0000006 283  -----   -----                    
+0000006 284  "       "                        
+0000006 290  RR      Basically                Z4 A13.2 
+0000006 300  PPIS2   we                       Z8 
+0000006 301  VBR     're                      Z5 A3+ 
+0000006 310  VVG     asking                   Q2.2 I1.3 
+0000006 320  NN2     drivers                  M3/S2mf O2 
+0000006 330  TO      to                       Z5 
+0000006 340  VVI     watch                    X3.4 S7.1 X2.4 A1.3+ 
+0000006 350  NN1     NASCAR                   Z99 
+0000006 360  CCB     but                      Z5 
+0000006 370  XX      not                      Z6 
+0000006 380  VV0     act                      A1.1.1 T1.1.2 A8 K4 
+0000006 390  NP1     NASCAR                   Z99 
+0000006 391  ,       ,                        
+0000006 392  "       "                        
+0000006 393  NULL    </quote>                 
+0000006 394  -----   -----                    
+0000006 400  JJ%     said                     Q1.1 Q2.1 
+0000006 410  NN1     NASCAR                   Z99 
+0000006 420  NNB     President                G1.1/S7.1+/S2mf 
+0000006 430  NP1     Mike                     Z1mf[i3.2.1 Z3c[i3.2.1 Z1m 
+0000006 440  NP1     Helton                   Z1mf[i3.2.2 Z3c[i3.2.2 
+0000006 450  II      at                       Z5 
+0000006 460  AT1     a                        Z5 
+0000006 470  NN1     press                    Q4.2/S1.1.3+c[i4.2.1 
+0000006 480  NN1     conference               Q4.2/S1.1.3+c[i4.2.2 S1.1.3+ 
+0000006 490  VVG     announcing               Q2.2 
+0000006 500  AT      the                      Z5 
+0000006 510  JJ      new                      T3- 
+0000006 520  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000006 521  .       .                        
+0000008 001  NULL    <quote>                  
+0000008 002  -----   -----                    
+0000008 003  "       "                        
+0000008 010  VD0     Do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000008 011  XX      n't                      Z6 
+0000008 020  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000008 030  DDQ     what                     Z8 Z5 
+0000008 040  PPIS2   we                       Z8 
+0000008 041  VBR     're                      Z5 A3+ 
+0000008 050  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000008 051  ,       ,                        
+0000008 060  RR      please                   Z4 
+0000008 061  ,       ,                        
+0000008 062  "       "                        
+0000008 063  NULL    </quote>                 
+0000008 064  -----   -----                    
+0000008 070  JJ      added                    N5+/A2.1 A1.8+ 
+0000008 080  NN1@    Helton                   Z99 
+0000008 081  .       .                        
+0000008 082  NULL    <quote>                  
+0000008 083  -----   -----                    
+0000008 084  "       "                        
+0000008 090  PPH1    It                       Z8 
+0000008 091  VBZ     's                       A3+ Z5 
+0000008 100  XX      not                      Z6 
+0000008 110  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000008 120  IF      for                      Z5 
+0000008 130  PN1     anyone                   Z8mfc 
+0000008 131  GE      's                       Z5 
+0000008 140  NN1     health                   B2 X9.2 
+0000008 141  .       .                        
+0000008 142  "       "                        
+0000008 143  NULL    </quote>                 
+0000008 144  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 011  NULL    <quote>                  
+0000010 012  -----   -----                    
+0000010 013  "       "                        
+0000010 020  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000010 030  VBZ     Is                       A3+ Z5 
+0000010 040  PN      Plenty                   N5+ 
+0000010 041  "       "                        
+0000010 042  NULL    </quote>                 
+0000010 043  -----   -----                    
+0000010 050  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000010 060  VM      will                     T1.1.3 
+0000010 070  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000010 080  APPGE   its                      Z8 
+0000010 090  MD      first                    N4 
+0000010 100  NN1     appearance               A10+ O4.1 A3+ G2.1 K5 Q4 
+0000010 110  II      in                       Z5 
+0000010 120  NN1     signage                  Q1.2 
+0000010 130  II      at                       Z5 
+0000010 140  AT      the                      Z5 
+0000010 150  NP1     Geico                    Z2[i5.2.1 Z1mf[i5.2.1 
+0000010 160  MC      500                      Z2[i5.2.2 Z1mf[i5.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000010 161  ,       ,                        
+0000010 170  VVN     held                     M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+ 
+0000010 180  II      at                       Z5 
+0000010 190  AT      the                      Z5 
+0000010 200  NP1     Talladega                Z1mf[i6.2.1 Z3c[i6.2.1 
+0000010 210  NP1     Superspeedway            Z1mf[i6.2.2 Z3c[i6.2.2 
+0000010 220  II      in                       Z5 
+0000010 230  NN1     Alabamaone               Z99 
+0000010 240  IO      of                       Z5 
+0000010 250  AT      the                      Z5 
+0000010 260  RGT     most                     A13.2 
+0000010 270  RR      notoriously              X2.2+/G2.2- 
+0000010 280  JJ      dangerous                A15- 
+0000010 290  NN2     racetracks               K5.1/M7 
+0000010 300  II      in                       Z5 
+0000010 310  AT      the                      Z5 
+0000010 320  NN1     country                  G1.1c W3 F4/M7 K2 
+0000010 321  .       .                        
+0000011 001  -----   -----                    
+0000012 010  II31    In                       N5++[i7.3.1 Z5 
+0000012 020  II32    addition                 N5++[i7.3.2 
+0000012 030  II33    to                       N5++[i7.3.3 Z5 
+0000012 040  JJ      outdoor                  M6 
+0000012 050  NN1     advertising              I2.2/Q2.1 X2.2+ A10+ 
+0000012 051  ,       ,                        
+0000012 060  VV0     print                    Q1.2 
+0000012 070  NN2     ads                      I2.2/Q2.1 X2.2+ A10+ 
+0000012 080  II      in                       Z5 
+0000012 090  VVG     racing                   S7.3+ M1/N3.8+ 
+0000012 100  NN2     magazines                Q4.2 Q4.3 G3 O2 
+0000012 101  ,       ,                        
+0000012 110  CC      and                      Z5 
+0000012 120  JJ      audio                    K3 
+0000012 130  NN2     announcements            Q2.2 
+0000012 140  II      on                       Z5 
+0000012 150  NN1     radio                    Q4.3[i8.2.1 Q4.3 Q1.3 
+0000012 160  NN2     broadcasts               Q4.3[i8.2.2 Q4.3 
+0000012 170  CC      and                      Z5 
+0000012 180  II      at                       Z5 
+0000012 190  AT      the                      Z5 
+0000012 200  NN1     racetrack                K5.1/M7 
+0000012 201  ,       ,                        
+0000012 210  AT      the                      Z5 
+0000012 220  NN1     NASCAR                   Z99 
+0000012 230  NN1     Foundation               T2+ H2 S5+c A5.2+ B4 
+0000012 240  VM      will                     T1.1.3 
+0000012 250  VVI     fund                     I1.1 
+0000012 260  NN1     advertising              I2.2/Q2.1 X2.2+ A10+ 
+0000012 270  NN2     blocks                   O2 H1 N5+ S8- B3 
+0000012 280  TO      to                       Z5 
+0000012 290  VVI     run                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000012 300  II      during                   Z5 
+0000012 310  JJ      national                 M7/N5.1+ 
+0000012 320  NN1     race                     K5.1 S7.3+ S5+c 
+0000012 330  NN2     telecasts                Z99 
+0000012 331  .       .                        
+0000012 332  -----   -----                    
+0000012 340  VV0     Spike                    F4 A1.1.1 F3/G2.2-@ 
+0000012 350  NP1     Jonze                    Z99 
+0000012 351  ,       ,                        
+0000012 360  NN1     director                 S7.1+/S2mf K4/S2mf 
+0000012 370  IO      of                       Z5 
+0000012 380  AT1     a                        Z5 
+0000012 390  NN1     music                    K2 
+0000012 400  NN1     video                    Q4.3 
+0000012 410  VVG     showing                  A10+ S1.1.1 
+0000012 420  NP1     Jay-Z                    Z99 
+0000012 430  CC      and                      Z5 
+0000012 440  VV0     Kanye                    Z99 
+0000012 450  ND1     West                     Z2 Z1mf 
+0000012 460  VVG     driving                  M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000012 470  AT1     a                        Z5 
+0000012 480  RR      highly                   A13.3 
+0000012 490  VVD     modified                 A2.1+ 
+0000012 500  NP      Mercedes                 Z3c/M3 Z1f 
+0000012 510  NP1     Benz                     Z2[i9.3.1 Z3c Z1mf Z2[i10.3.1 
+0000012 520  II      in                       Z2[i9.3.2 Z5 Z2[i10.3.2 
+0000012 530  NP1     Downey                   Z2[i9.3.3 Z2[i10.3.3 
+0000012 531  ,       ,                        
+0000012 540  NP1     California               Z2 
+0000012 541  ,       ,                        
+0000012 550  VHZ     has                      Z5 A9+ A2.2 S4 
+0000012 560  VBN     been                     Z5 A3+ 
+0000012 570  VVN     tapped                   A1.1.1 X3.2 A1.5.1 Q2.2 G1.1/Q1.3 F4% 
+0000012 580  TO      to                       Z5 
+0000012 590  VVI     direct                   M6 Q2.2 S7.1+ K4 
+0000012 600  AT      the                      Z5 
+0000012 610  NN1     TV                       Q4.3 S2.1/S2.2m 
+0000012 620  NN2     spots                    O4.4 O2 B2- N5- Q4.3 M7 
+0000012 621  .       .                        
+0000013 001  -----   -----                    
+0000014 010  AT      The                      Z5 
+0000014 020  NN1     advertisement            I2.2/Q2.1 X2.2+ A10+ 
+0000014 030  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000014 040  CC      and                      Z5 
+0000014 050  JJ      public                   S5+ A10+ 
+0000014 060  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000014 070  NN2     announcements            Q2.2 
+0000014 080  VM      will                     T1.1.3 
+0000014 090  VVI     feature                  A10+ 
+0000014 100  NP1     Matt                     Z1mf[i11.2.1 Z3c[i11.2.1 Z1m 
+0000014 110  NP1     Kenseth                  Z1mf[i11.2.2 Z3c[i11.2.2 
+0000014 111  ,       ,                        
+0000014 120  NN1     driver                   M3/S2mf O2 
+0000014 130  IO      of                       Z5 
+0000014 140  AT      the                      Z5 
+0000014 150  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000014 160  NN1     car                      M3fn 
+0000014 170  IF      for                      Z5 
+0000014 180  NP1     Joe                      Z1mf[i12.2.1 Z3c[i12.2.1 Z1m 
+0000014 190  NP1     Gibbs                    Z1mf[i12.2.2 Z3c[i12.2.2 Z1mf Z3c 
+0000014 200  VVG     Racing                   S7.3+ M1/N3.8+ 
+0000014 201  .       .                        
+0000014 202  NULL    <quote>                  
+0000014 203  -----   -----                    
+0000014 204  "       "                        
+0000014 210  VVG     Focusing                 X5.1+ X3.4 A4.2+ 
+0000014 220  II      on                       Z5 
+0000014 230  AT      the                      Z5 
+0000014 240  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000014 250  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000014 260  VBZ     is                       A3+ Z5 
+0000014 270  AT1     a                        Z5 
+0000014 280  NN1     concept                  X4.1 
+0000014 290  PPIS1   I                        Z8mf 
+0000014 300  VM      can                      A7+ 
+0000014 310  VVI     get                      M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1- 
+0000014 320  RL@     behind                   M6 A6.1- 
+0000014 321  ,       ,                        
+0000014 322  "       "                        
+0000014 323  NULL    </quote>                 
+0000014 324  -----   -----                    
+0000014 330  VVD     said                     Q2.1 
+0000014 340  NP1     Kenseth                  Z99 
+0000014 350  II      at                       Z5 
+0000014 360  AT      the                      Z5 
+0000014 370  NN1     press                    Q4.2/S1.1.3+c[i13.2.1 
+0000014 380  NN1     conference               Q4.2/S1.1.3+c[i13.2.2 S1.1.3+ 
+0000014 390  VVG     announcing               Q2.2 
+0000014 400  AT      the                      Z5 
+0000014 410  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000014 411  .       .                        
+0000014 412  NULL    <quote>                  
+0000014 413  -----   -----                    
+0000014 414  "       "                        
+0000014 420  CCB     But                      Z5 
+0000014 430  CS      when                     Z5 
+0000014 440  PPY     you                      Z8mf 
+0000014 441  VBR     're                      Z5 A3+ 
+0000014 450  VVG     driving                  M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000014 460  II      through                  Z5 
+0000014 470  APPGE   my                       Z8 
+0000014 480  NN1     neighborhood             N3.3-/H3c N3.3-/S2mf M7/N3.3- 
+0000014 481  ,       ,                        
+0000014 490  VV0     focus                    X5.1+ X3.4 A4.2+ 
+0000014 500  II      on                       Z5 
+0000014 510  XX      not                      Z6 
+0000014 520  VVG     going                    M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000014 530  II      above                    Z5 
+0000014 540  MC      20                       N3.3[i14.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000014 550  NNU2    miles                    N3.3[i14.2.2 N3.3 N3.3+ N3.7 N5+ A13.2 
+0000014 560  II      per                      Z5 
+0000014 570  NNT1    hour                     T1.3 
+0000014 571  .       .                        
+0000014 572  -----   -----                    
+0000014 580  PPIS1   I                        Z8mf 
+0000014 590  VH0     have                     S4[i15.2.1 A9+ Z5 A2.2 S4 
+0000014 600  NN2     kids                     S4[i15.2.2 S2mf/T3- S4mf L2 
+0000014 601  .       .                        
+0000014 602  "       "                        
+0000014 603  NULL    </quote>                 
+0000014 604  -----   -----                    
+0000016 010  JJ      Initial                  T2+ 
+0000016 020  NN1     fan                      E2+/S2mf O2 O4.4 
+0000016 030  NN1     reaction                 A1.1.1 A6.1- B2- Y1 
+0000016 040  VHZ     has                      Z5 A9+ A2.2 S4 
+0000016 050  XX      not                      Z6 
+0000016 060  VVN     reflected                A10+ Y1/M2 X3.4 X2.1 A5.1 
+0000016 070  NP1     NASCAR                   Z99 
+0000016 071  GE      's                       Z5 
+0000016 080  JJ      sudden                   N3.8+ 
+0000016 081  ,       ,                        
+0000016 090  JJ      surprising               X2.6- A6.2- 
+0000016 100  NN1     interest                 X5.2+ I1.1 S8+ S1.1.3+ 
+0000016 110  II      in                       Z5 
+0000016 120  AT      the                      Z5 
+0000016 130  JJ      personal                 S5- S1.2.1+ 
+0000016 140  NN1     safety                   A15+ 
+0000016 150  IO      of                       Z5 
+0000016 160  NN1     automobile               M3 
+0000016 170  NN2     travelers                M1/S2mf I2.2/S2mf S9/S2mf S5+/S2mf 
+0000016 171  ,       ,                        
+0000016 180  NN2     pedestrians              M3/S2mf 
+0000016 181  ,       ,                        
+0000016 190  CC      and                      Z5 
+0000016 200  NN2     bicyclists               M3/S2mf 
+0000016 201  .       .                        
+0000016 202  -----   -----                    
+0000016 210  NN2     Reactions                A1.1.1 A6.1- B2- Y1 
+0000016 220  II      on                       Z5 
+0000016 230  JJ      social                   S1.1.1 
+0000016 240  NN      media                    Q4c 
+0000016 250  VH0     have                     Z5 A9+ A2.2 S4 
+0000016 260  VVN     expressed                Q1.1 B1% 
+0000016 270  NN1     concern                  E6- I2.1 
+0000016 280  CST     that                     Z5 Z8 
+0000016 290  AT      the                      Z5 
+0000016 291  NULL    <quote>                  
+0000016 292  -----   -----                    
+0000016 293  "       "                        
+0000016 300  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000016 310  VBZ     Is                       A3+ Z5 
+0000016 320  PN      Plenty                   N5+ 
+0000016 321  "       "                        
+0000016 322  NULL    </quote>                 
+0000016 323  -----   -----                    
+0000016 330  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000016 340  VBZ     is                       A3+ Z5 
+0000016 350  AT      the                      Z5 
+0000016 360  MD      first                    N4 
+0000016 370  NN1     sign                     Q1.1 A6.2+ X4.1 Q1.2 O4.1 S9 B2 M2 K2 
+0000016 380  IO      of                       Z5 
+0000016 390  AT1     a                        Z5 
+0000016 400  JJ      slippery                 A5.1-/A2.1[i16.2.1 O4.5 G2.2- 
+0000016 410  NN1     slope                    A5.1-/A2.1[i16.2.2 W3 O4.4 
+0000016 420  II      into                     Z5 
+0000016 430  JJR     broader                  A4.2-- N3.7++ N5++ 
+0000016 440  JJ      environmental            W5 W3 
+0000016 450  NN2     concerns                 E6- I2.1 
+0000016 460  CST     that                     Z8 Z5 
+0000016 470  VH0     have                     Z5 A9+ A2.2 S4 
+0000016 480  RR      traditionally            S1.1.1 A6.2+ T3++ 
+0000016 490  VBN     been                     A3+ Z5 
+0000016 500  JJ      antithetical             Z99 
+0000016 510  II      to                       Z5 
+0000016 520  AT      the                      Z5 
+0000016 530  NN1     speed                    N3.8+ F3% 
+0000016 540  CC      and                      Z5 
+0000016 550  NN1     gasoline                 O1.2 
+0000016 560  NN1     consumption              A1.5.1 A1.5.1/N5 F1 F1/N5 B2-% 
+0000016 570  JJ      inherent                 A6.2+ 
+0000016 580  II      in                       Z5 
+0000016 590  NP1     NASCAR                   Z99 
+0000016 591  .       .                        
+0000016 592  -----   -----                    
+0000016 600  VV0     Twitter                  Z99 
+0000016 610  NN1     user                     A1.5.1/S2mf 
+0000016 620  FO      @KennyLogginsJr          Z99 
+0000016 630  VVN     summed                   Q2.2[i17.2.1 A11.1+[i17.2.1 N2[i17.2.1 N2 
+0000016 640  RP      up                       Q2.2[i17.2.2 A11.1+[i17.2.2 N2[i17.2.2 
+0000016 650  AT      the                      Z5 
+0000016 660  JJ      general                  N5+ A4.2- 
+0000016 670  NN1     mood                     E1 E3- 
+0000016 680  IO      of                       Z5 
+0000016 690  NN1     NASCAR                   Z99/E2+mf[i18.2.1 
+0000016 700  NN2     fans                     Z99/E2+mf[i18.2.2 S2/E2+mf O2 
+0000016 710  II      in                       Z5 
+0000016 720  NN1     reaction                 A1.1.1 A6.1- B2- Y1 
+0000016 730  II      to                       Z5 
+0000016 740  AT      the                      Z5 
+0000016 750  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000016 751  :       :                        
+0000016 752  NULL    <quote>                  
+0000016 753  -----   -----                    
+0000016 754  "       "                        
+0000016 760  DDQ     What                     Z8 Z5 
+0000016 770  MD      next                     N4 
+0000016 771  ?       ?                        
+0000016 772  -----   -----                    
+0000016 780  NP1@    Will                     Z1mf[i20.3.1 Z3c[i20.3.1 Z1m Z1mf[i19.2.1 Z3c[i19.2.1 
+0000016 790  NP1     Joe                      Z1mf[i20.3.2 Z3c[i20.3.2 Z1m Z1mf[i19.2.2 Z3c[i19.2.2 Z1mf[i21.2.1 Z3c[i21.2.1 
+0000016 800  NP1     Gibbs                    Z3c[i20.3.3 Z1mf[i20.3.3 Z1mf Z3c Z1mf[i21.2.2 Z3c[i21.2.2 
+0000016 810  VVG     Racing                   S7.3+ M1/N3.8+ 
+0000016 820  NN1     start                    T2+ E5- 
+0000016 830  VVG     running                  M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000016 840  NN2@    Teslas                   Z99 
+0000016 850  II      in                       Z5 
+0000016 860  AT      the                      Z5 
+0000016 870  NP1     Daytona                  Z2[i22.2.1 Z1mf[i22.2.1 
+0000016 880  MC      500                      Z2[i22.2.2 Z1mf[i22.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000016 881  ?       ?                        
+0000016 882  "       "                        
+0000016 883  NULL    </quote>                 
+0000016 884  -----   -----                    
+0000018 010  NP1     NASCAR                   Z99 
+0000018 011  GE      's                       Z5 
+0000018 020  NN1     announcement             Q2.2 
+0000018 030  VVZ     adds                     N5+/A2.1 N2 
+0000018 040  JJ      major                    A11.1+ N3.2+ 
+0000018 050  JJ      corporate                S5+ I2.1/S5+ 
+0000018 060  NN1     clout                    E3- S7.1+ B5% 
+0000018 070  II      to                       Z5 
+0000018 080  AT      the                      Z5 
+0000018 090  JJ      growing                  N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000018 100  NN1     success                  X9.2+ 
+0000018 110  IO      of                       Z5 
+0000018 120  JJ      local                    M7 
+0000018 121  NULL    <quote>                  
+0000018 122  -----   -----                    
+0000018 123  "       "                        
+0000018 130  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000018 140  VBZ     Is                       A3+ Z5 
+0000018 150  PN      Plenty                   N5+ 
+0000018 151  "       "                        
+0000018 152  NULL    </quote>                 
+0000018 153  -----   -----                    
+0000018 160  NN2     campaigns                X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000018 170  II      around                   Z5 
+0000018 180  AT      the                      Z5 
+0000018 190  NN1     country                  G1.1c W3 F4/M7 K2 
+0000018 200  CC      and                      Z5 
+0000018 210  NN1     world                    W1 S5+c A4.1 N5+ 
+0000018 211  .       .                        
+0000018 212  -----   -----                    
+0000018 220  NP1     New                      Z1mf[i24.3.1 Z3c[i24.3.1 Z1mf[i23.2.1 Z3c[i23.2.1 Z2[i25.2.1 
+0000018 230  NP1     York                     Z1mf[i24.3.2 Z3c[i24.3.2 Z2 Z1mf Z1mf[i23.2.2 Z3c[i23.2.2 Z2[i25.2.2 Z2[i26.2.1 Z3c[i26.2.1 Z1mf[i27.2.1 Z3c[i27.2.1 
+0000018 240  NN1     City                     Z3c[i24.3.3 Z1mf[i24.3.3 M7/I2.1c Z3c Z2[i26.2.2 Z3c[i26.2.2 Z1mf[i27.2.2 Z3c[i27.2.2 
+0000018 250  CC      and                      Z5 
+0000018 260  NP1     Hoboken                  Z99 
+0000018 270  VH0     have                     Z5 A9+ A2.2 S4 
+0000018 280  VVN     implemented              A1.1.1 A9-/O2 
+0000018 290  JJ      official                 G1.1 S7.4+ 
+0000018 300  NN1     speed                    M3/N3.8[i28.2.1 N3.8+ F3% 
+0000018 310  NN1     limit                    M3/N3.8[i28.2.2 N5.1 A1.7+ M7 
+0000018 320  NN2     initiatives              A1.1.1 
+0000018 330  II      in                       T1.1.1[i29.3.1 Z5 
+0000018 340  AT      the                      T1.1.1[i29.3.2 Z5 
+0000018 350  NN1     past                     T1.1.1[i29.3.3 T1.1.1 
+0000018 351  .       .                        
+0000018 352  -----   -----                    
+0000018 360  RGR     More                     A13.3 
+0000018 370  RR      recently                 T3--- 
+0000018 371  ,       ,                        
+0000018 380  NN2     residents                H4/S2mf 
+0000018 390  IO      of                       Z5 
+0000018 400  NP1     Portland                 Z2 
+0000018 410  CC      and                      Z5 
+0000018 420  NP1     New                      Z1mf[i31.3.1 Z3c[i31.3.1 Z1mf[i30.2.1 Z3c[i30.2.1 Z2[i32.2.1 
+0000018 430  NP1     York                     Z1mf[i31.3.2 Z3c[i31.3.2 Z2 Z1mf Z1mf[i30.2.2 Z3c[i30.2.2 Z2[i32.2.2 Z2[i33.2.1 Z3c[i33.2.1 Z1mf[i34.2.1 Z3c[i34.2.1 
+0000018 440  NN1     City                     Z3c[i31.3.3 Z1mf[i31.3.3 M7/I2.1c Z3c Z2[i33.2.2 Z3c[i33.2.2 Z1mf[i34.2.2 Z3c[i34.2.2 
+0000018 450  VH0     have                     Z5 A9+ A2.2 S4 
+0000018 460  VVN     implemented              A1.1.1 A9-/O2 
+0000018 470  NN1     guerrilla                L2 G3/S2mf 
+0000018 471  NULL    <quote>                  
+0000018 472  -----   -----                    
+0000018 473  "       "                        
+0000018 480  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000018 490  VBZ     Is                       A3+ Z5 
+0000018 500  PN      Plenty                   N5+ 
+0000018 501  "       "                        
+0000018 502  NULL    </quote>                 
+0000018 503  -----   -----                    
+0000018 510  NN2     campaigns                X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000018 511  ,       ,                        
+0000018 520  CC      and                      Z5 
+0000018 530  NP1     Edinburgh                Z2 
+0000018 531  ,       ,                        
+0000018 540  NP1     Scotland                 Z2 Z3c 
+0000018 550  VVD@    implemented              A1.1.1 A9-/O2 
+0000018 560  AT1     a                        Z5 
+0000018 570  NN1     speed                    M3/N3.8[i35.2.1 N3.8+ F3% 
+0000018 580  NN1     limit                    M3/N3.8[i35.2.2 N5.1 A1.7+ M7 
+0000018 590  IO      of                       Z5 
+0000018 600  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000018 610  NN1     miler                    Z99 
+0000018 620  II      per                      Z5 
+0000018 630  NNT1    hour                     T1.3 
+0000018 640  II      throughout               Z5 
+0000018 650  DA1     much                     N5+ I1.3+ 
+0000018 660  IO      of                       Z5 
+0000018 670  AT      the                      Z5 
+0000018 680  NN1     city                     M7c M7/I2.1c 
+0000018 681  .       .                        
+0000021 001  NULL    **8;7;text               

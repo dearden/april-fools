@@ -1,0 +1,355 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVG     Lying                    M1 M6 A5.2- 
+0000002 020  II      in                       Z5 
+0000002 030  NN1     state                    G1.1c O4.1 
+0000002 031  ...     ...                      
+0000002 040  AT      the                      Z5 
+0000002 050  NN1     body                     B1 O2 S5+c O4.1 S2mf 
+0000002 060  IO      of                       Z5 
+0000002 070  NNB     Pope                     Z1mf[i2.3.1 Z3c[i2.3.1 S7.1+/S9m Z1mf[i1.2.1 Z3c[i1.2.1 
+0000002 080  NP1     John                     Z1mf[i2.3.2 Z3c[i2.3.2 Z1m S9/O1.2 Z1mf[i1.2.2 Z3c[i1.2.2 Z1mf[i3.2.1 Z3c[i3.2.1 
+0000002 090  NP1     Paul                     Z3c[i2.3.3 Z1mf[i2.3.3 Z1m Z1mf[i3.2.2 Z3c[i3.2.2 Z2[i4.2.1 Z1mf[i4.2.1 
+0000002 100  MC      II                       N1 Z2[i4.2.2 Z1mf[i4.2.2 
+0000002 110  II      in                       Z5 
+0000002 120  AT      the                      Z5 
+0000002 130  NP1     Clementina               Z2[i5.2.1 Z3c[i5.2.1 
+0000002 140  NN1     hall                     Z2[i5.2.2 Z3c[i5.2.2 H2 H1 S9/H1c 
+0000002 150  II      at                       Z5 
+0000002 160  AT      the                      Z5 
+0000002 170  NP1     Vatican                  Z2[i6.3.1 Z2c 
+0000002 180  II      on                       Z2[i6.3.2 Z5 
+0000002 190  NPD1    Sunday                   Z2[i6.3.3 T1.3 
+0000002 191  .       .                        
+0000002 192  -----   -----                    
+0000002 200  NN1     Photo                    C1 
+0000002 201  :       :                        
+0000002 210  NP1     Reuters                  Z1mf[i8.3.1 Z3c[i8.3.1 Z3c Z1mf[i7.2.1 Z3c[i7.2.1 
+0000004 010  NNB     Pope                     Z1mf[i8.3.2 Z3c[i8.3.2 Z1mf[i10.3.1 Z3c[i10.3.1 S7.1+/S9m Z1mf[i7.2.2 Z3c[i7.2.2 Z1mf[i9.2.1 Z3c[i9.2.1 
+0000004 020  NP1     John                     Z3c[i8.3.3 Z1mf[i8.3.3 Z1mf[i10.3.2 Z3c[i10.3.2 Z1m S9/O1.2 Z1mf[i9.2.2 Z3c[i9.2.2 Z1mf[i11.2.1 Z3c[i11.2.1 
+0000004 030  NP1     Paul                     Z3c[i10.3.3 Z1mf[i10.3.3 Z1m Z1mf[i11.2.2 Z3c[i11.2.2 Z2[i12.2.1 Z1mf[i12.2.1 
+0000004 040  MC      II                       N1 Z2[i12.2.2 Z1mf[i12.2.2 
+0000004 050  VVD     died                     L1- T2- 
+0000004 060  IO      of                       Z5 
+0000004 070  NN1     blood                    B2-[i13.2.1 B1 
+0000004 080  NN1     poisoning                B2-[i13.2.2 E3- A1.1.2 
+0000004 090  CC      and                      Z5 
+0000004 100  AT      the                      Z5 
+0000004 110  NN1     collapse                 A1.1.2 B2- N3.2-/A2.1 
+0000004 120  IO      of                       Z5 
+0000004 130  APPGE   his                      Z8m 
+0000004 140  NN1     blood                    B1[i14.2.1 B1 
+0000004 150  NN2     vessels                  B1[i14.2.2 M4fn O2 B1 
+0000004 151  ,       ,                        
+0000004 160  AT      the                      Z5 
+0000004 170  NP1     Vatican                  Z2c 
+0000004 180  VVD     announced                Q2.2 
+0000004 190  II      on                       Z5 
+0000004 200  NPD1    Sunday                   T1.3 
+0000004 201  ,       ,                        
+0000004 210  VVG     releasing                A1.7- A9- 
+0000004 220  AT      the                      Z5 
+0000004 230  JJ      official                 G1.1 S7.4+ 
+0000004 240  NN1     death                    L1-/Q1.2[i15.2.1 L1- 
+0000004 250  NN1     certificate              L1-/Q1.2[i15.2.2 Q1.2 
+0000004 260  AT1     a                        Z5 
+0000004 270  NNT1    day                      T1.3 
+0000004 280  II      after                    Z5 
+0000004 290  AT      the                      Z5 
+0000004 300  NN1     pontiff                  S9/S7.1+/S2.2m 
+0000004 301  GE      's                       Z5 
+0000004 310  NN1     passing                  M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
+0000004 311  .       .                        
+0000005 001  -----   -----                    
+0000006 010  AT      The                      Z5 
+0000006 020  NN1     certificate              Q1.2 
+0000006 030  VVD     listed                   Q1.2 N4 M4 
+0000006 040  AT      the                      Z5 
+0000006 050  NN2     ailments                 B2- 
+0000006 060  AT      the                      Z5 
+0000006 070  JJ      84-year-old              Z99 
+0000006 080  NN1     Pope                     S7.1+/S9m 
+0000006 090  VVN     suffered                 E4.1- B2- X3 A5.1-/A2.1 S7.4+ 
+0000006 100  II      from                     Z5 
+0000006 101  ,       ,                        
+0000006 110  II      including                A1.8+ 
+0000006 120  VVG     acknowledging            Q2.2 
+0000006 130  RR      officially               G1.1 S7.4+ 
+0000006 140  IF      for                      N4[i16.4.1 Z5 
+0000006 150  AT      the                      N4[i16.4.2 Z5 
+0000006 160  MD      first                    N4[i16.4.3 N4 
+0000006 170  NNT1    time                     N4[i16.4.4 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000006 180  CST     that                     Z5 Z8 
+0000006 190  NP1     John                     Z1mf[i17.2.1 Z3c[i17.2.1 Z1m S9/O1.2 
+0000006 200  NP1     Paul                     Z1mf[i17.2.2 Z3c[i17.2.2 Z1m 
+0000006 210  VHD     had                      A9+ Z5 A2.2 S4 
+0000006 220  NP1     Parkinson                B2-[i19.3.1 Z1mf B2- B2-[i18.3.1 
+0000006 221  GE      's                       B2-[i19.3.2 Z5 B2-[i18.3.2 
+0000006 230  NN1     disease                  B2-[i19.3.3 B2- B2-[i18.3.3 
+0000006 231  .       .                        
+0000007 001  -----   -----                    
+0000008 010  NP1     John                     Z1mf[i20.2.1 Z3c[i20.2.1 Z1m S9/O1.2 
+0000008 020  NP1     Paul                     Z1mf[i20.2.2 Z3c[i20.2.2 Z1m 
+0000008 021  ,       ,                        
+0000008 030  PNQS    who                      Z8 
+0000008 040  VVD     died                     L1- T2- 
+0000008 050  II      on                       Z5 
+0000008 060  NPD1    Saturday                 T1.3[i21.2.1 T1.3 
+0000008 070  NNT1    evening                  T1.3[i21.2.2 T1.3 
+0000008 071  ,       ,                        
+0000008 080  VHD     had                      Z5 A9+ A2.2 S4 
+0000008 090  VVN     suffered                 E4.1- B2- X3 A5.1-/A2.1 S7.4+ 
+0000008 100  NN1     heart                    B1 M6 A11.1+ E1 X5.2+ 
+0000008 110  CC      and                      Z5 
+0000008 120  NN1     kidney                   B1 F1 
+0000008 130  NN1     failure                  X9.2- A5.1-/A2.1 
+0000008 140  VVN     brought                  M2[i22.2.1 A2.2[i22.2.1 M2 A2.2 
+0000008 150  RP@     on                       M2[i22.2.2 A2.2[i22.2.2 M6 A1.1.1 
+0000008 160  II      by                       Z5 
+0000008 170  AT1     a                        Z5 
+0000008 180  JJ      urinary                  B1 
+0000008 190  NN1     tract                    B2-[i23.2.1 Q1.2 N3.6 B1 
+0000008 200  NN1     infection                B2-[i23.2.2 B2- 
+0000008 210  MD      last                     T1.1.1[i24.2.1 N4 
+0000008 220  NNT1    week                     T1.1.1[i24.2.2 T1.3 
+0000008 221  .       .                        
+0000008 222  -----   -----                    
+0000008 230  AT      The                      Z5 
+0000008 240  JJ      official                 G1.1 S7.4+ 
+0000008 250  NN1     certificate              Q1.2 
+0000008 260  VVD     used                     A1.5.1 S7.1+ 
+0000008 270  AT      the                      Z5 
+0000008 280  JJ      medical                  B3 
+0000008 290  NN1     terminology              Q3 
+0000008 300  IF      for                      Z5 
+0000008 310  NN1     blood                    B2-[i25.2.1 B1 
+0000008 320  NN1     poisoning                B2-[i25.2.2 E3- A1.1.2 
+0000008 330  CC      and                      Z5 
+0000008 340  NN1     blood                    B1[i26.2.1 B1 
+0000008 350  NN1     vessel                   B1[i26.2.2 M4fn O2 B1 
+0000008 360  NN1     collapse                 A1.1.2 B2- N3.2-/A2.1 
+0000008 361  ,       ,                        
+0000008 370  DDQ     which                    Z8 Z5 
+0000008 380  VBZ     is                       A3+ Z5 
+0000008 390  JJ      septic                   B2- 
+0000008 400  NN1     shock                    E5- B2- O3 
+0000008 410  CC      and                      Z5 
+0000008 420  JJ      cardiocirculatory        Z99 
+0000008 430  NN1     collapse                 A1.1.2 B2- N3.2-/A2.1 
+0000008 431  .       .                        
+0000009 001  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  JJ      other                    A6.1- 
+0000010 030  NN2     ailments                 B2- 
+0000010 040  VVD     listed                   Q1.2 N4 M4 
+0000010 050  VBDR    were                     A3+ Z5 
+0000010 060  NN2     episodes                 A3+/A11.1+ A6.2- Q4 B2- 
+0000010 070  IO      of                       Z5 
+0000010 080  JJ      acute                    A11.1+ X5.1+ X9.1+ B2- O4.4 Q3% 
+0000010 090  NN1     breathing                B1 
+0000010 100  NN1     failure                  X9.2- A5.1-/A2.1 
+0000010 101  ,       ,                        
+0000010 110  VVG     resulting                A2.2 
+0000010 120  II      in                       Z5 
+0000010 130  AT1     a                        Z5 
+0000010 140  NN1     throat                   B1 B5% 
+0000010 150  NN1     operation                A1.1.1 B3 G3 
+0000010 160  TO      to                       Z5 
+0000010 170  VVI     insert                   A1.1.1 
+0000010 180  AT1     a                        Z5 
+0000010 190  NN1     breathing                B3[i27.2.1 B1 
+0000010 200  NN1     tube                     B3[i27.2.2 O2 B1 O4.4 M3c O3 
+0000010 210  II      in                       Z5 
+0000010 220  APPGE   his                      Z8m 
+0000010 230  NN1     windpipe                 Z99 
+0000010 231  ;       ;                        
+0000010 240  JJ      high                     B2-[i28.3.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000010 250  NN1     blood                    B2-[i28.3.2 B1 B1[i29.2.1 
+0000010 260  NN1     pressure                 B2-[i28.3.3 N3.5 S7.1+ E6- B1[i29.2.2 
+0000010 261  ;       ;                        
+0000010 270  NN1     lack                     A9- 
+0000010 280  IO      of                       Z5 
+0000010 290  NN1     blood                    B1 
+0000010 300  NN1     flow                     M4 M1 N5 
+0000010 310  II      to                       Z5 
+0000010 320  AT      the                      Z5 
+0000010 330  NN2     tissues                  B4 B1 
+0000010 340  CC      and                      Z5 
+0000010 350  AT1     an                       Z5 
+0000010 360  JJ      enlarged                 N3.2+ 
+0000010 370  NN1     prostate                 B1 
+0000010 380  NN1     gland                    B1 
+0000010 381  .       .                        
+0000010 382  -----   -----                    
+0000010 390  AT      The                      Z5 
+0000010 400  NN1     certificate              Q1.2 
+0000010 410  VVD     said                     Q2.1 
+0000010 420  AT      the                      Z5 
+0000010 430  JJ      urinary                  B1 
+0000010 440  NN1     tract                    B2-[i30.2.1 Q1.2 N3.6 B1 
+0000010 450  NN1     infection                B2-[i30.2.2 B2- 
+0000010 451  ,       ,                        
+0000010 460  CC      and                      Z5 
+0000010 470  JJ      resulting                A2.2 
+0000010 480  JJ      deadly                   L1- X9.2+ O4.2- 
+0000010 490  NN1     spread                   F1 N3.6 N3.3 N5+/A2.1 A6.3+ Q4.2 
+0000010 500  IO      of                       Z5 
+0000010 510  DD1     that                     Z5 Z8 
+0000010 520  NN1     infection                B2- 
+0000010 530  II      to                       Z5 
+0000010 540  AT      the                      Z5 
+0000010 550  NN1     blood                    B1 
+0000010 551  ,       ,                        
+0000010 560  VBDZ    was                      A3+ Z5 
+0000010 570  AT1     a                        Z5 
+0000010 580  NN1     complication             A12- 
+0000010 590  IO      of                       Z5 
+0000010 600  AT      the                      Z5 
+0000010 610  NN1     prostate                 B1 
+0000010 620  NN1     problem                  A12- X4.1 N2 B2- 
+0000010 621  .       .                        
+0000011 001  -----   -----                    
+0000012 010  NN1     Enlargement              C1/N3.2++ 
+0000012 020  IO      of                       Z5 
+0000012 030  AT      the                      Z5 
+0000012 040  NN1     prostate                 B1 
+0000012 050  VBZ     is                       A3+ Z5 
+0000012 060  JJ      common                   A6.2+ N5++ S5+ O4.2- 
+0000012 070  II      among                    Z5 
+0000012 080  JJ      elderly                  T3+++ T3+/S2c 
+0000012 090  NN2     men                      S2.2m 
+0000012 091  .       .                        
+0000012 092  -----   -----                    
+0000012 100  AT      The                      Z5 
+0000012 110  NN1     enlargement              C1/N3.2++ 
+0000012 120  VVZ     constricts               A1.7+ 
+0000012 130  AT      the                      Z5 
+0000012 140  JJ      urinary                  B1 
+0000012 150  NN1     tract                    Q1.2 N3.6 B1 
+0000012 151  ,       ,                        
+0000012 160  VVG     leading                  A2.2[i31.2.1 M6[i31.2.1 S7.1+ A2.2 M2 A1.1.1 
+0000012 170  II      to                       A2.2[i31.2.2 M6[i31.2.2 Z5 
+0000012 180  AT1     a                        Z5 
+0000012 190  NN1     reduction                N5-/A2.1 Y1@ 
+0000012 200  II      in                       Z5 
+0000012 210  AT      the                      Z5 
+0000012 220  NN1     flow                     M4 M1 N5 
+0000012 230  CC      or                       Z5 
+0000012 240  NN1     urine                    B1 
+0000012 241  ,       ,                        
+0000012 250  DDQ     which                    Z8 Z5 
+0000012 260  VVZ     makes                    X9.2+[i32.2.1 M1[i32.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000012 270  PPH1    it                       X9.2+[i32.2.2 M1[i32.2.2 Z8 
+0000012 280  RR      increasingly             A13.3 
+0000012 290  JJ      difficult                A12- 
+0000012 300  TO      to                       Z5 
+0000012 310  VVI     empty                    N5--- M1/M4 
+0000012 320  AT      the                      Z5 
+0000012 330  NN1     bladder                  B1 
+0000012 331  .       .                        
+0000012 332  -----   -----                    
+0000012 340  CS      If                       Z7 
+0000012 350  AT      the                      Z5 
+0000012 360  NN1     bladder                  B1 
+0000012 370  VM      can                      A7+ 
+0000012 371  XX      not                      Z6 
+0000012 380  VVI     empty                    N5--- M1/M4 
+0000012 390  RR      properly                 A5.3+ S1.2.4+ A13.3 
+0000012 391  ,       ,                        
+0000012 400  NN2     bacteria                 L2c 
+0000012 410  VV0     tend                     A6.2+ A8 S8+ X5.1+ 
+0000012 420  TO      to                       Z5 
+0000012 430  VVI     linger                   M8 
+0000012 440  CC      and                      Z5 
+0000012 450  VVI     multiply                 N2 N5+/A2.1 
+0000012 451  ,       ,                        
+0000012 460  VVG     increasing               N5+/A2.1 
+0000012 470  AT      the                      Z5 
+0000012 480  NN1     risk                     A15- A1.4 
+0000012 490  IO      of                       Z5 
+0000012 500  AT1     a                        Z5 
+0000012 510  JJ      urinary                  B1 
+0000012 520  NN1     tract                    B2-[i33.2.1 Q1.2 N3.6 B1 
+0000012 530  NN1     infection                B2-[i33.2.2 B2- 
+0000012 531  .       .                        
+0000013 001  -----   -----                    
+0000014 010  AT      The                      Z5 
+0000014 020  NN1     confirmation             A7+ Q2.2 S9@ 
+0000014 030  IO      of                       Z5 
+0000014 040  AT      the                      Z5 
+0000014 050  NN1     death                    L1- 
+0000014 060  VBDZ    was                      Z5 A3+ 
+0000014 070  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000014 080  II      through                  Z5 
+0000014 090  AT1     a                        Z5 
+0000014 100  NN1     heart                    B1 M6 A11.1+ E1 X5.2+ 
+0000014 110  NN1     monitoring               X2.4/O2[i34.2.1 X2.4 
+0000014 120  NN1     machine                  X2.4/O2[i34.2.2 O2 Y2 
+0000014 121  ,       ,                        
+0000014 130  CC      and                      Z5 
+0000014 140  PPHS1   he                       Z8m 
+0000014 150  VBDZ    was                      Z5 A3+ 
+0000014 160  VVN     declared                 Q2.2 K5.1% 
+0000014 170  JJ      dead                     L1- X5.2- A4.2+ A1.1.2 A1.1.1- E3+ B2- 
+0000014 180  CS      after                    Z5 
+0000014 190  DAR     more                     N5++ 
+0000014 200  CSN     than                     Z5 
+0000014 210  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000014 220  NNT2    minutes                  T1.3 Q1.2 
+0000014 230  IO      of                       Z5 
+0000014 240  VVG     monitoring               X2.4 
+0000014 250  APPGE   his                      Z8m 
+0000014 260  NN1     heart                    B1 M6 A11.1+ E1 X5.2+ 
+0000014 261  ,       ,                        
+0000014 270  AT      the                      Z5 
+0000014 280  NN1     document                 Q1.2 X2.2+ Y2 
+0000014 290  VVD     said                     Q2.1 
+0000014 291  .       .                        
+0000016 001  NULL    <quote>                  
+0000016 002  -----   -----                    
+0000016 003  "       "                        
+0000016 010  PPIS1   I                        Z8mf 
+0000016 020  VV0     declare                  Q2.2 K5.1% 
+0000016 030  CST     that                     Z5 Z8 
+0000016 040  AT      the                      Z5 
+0000016 050  NN2     causes                   A2.2 X2.1 X4.1 
+0000016 060  IO      of                       Z5 
+0000016 070  NN1     death                    L1- 
+0000016 080  II21    according                Z5[i35.2.1 Z5 
+0000016 090  II22    to                       Z5[i35.2.2 Z5 
+0000016 100  APPGE   my                       Z8 
+0000016 110  NN1     science                  Y1 
+0000016 120  CC      and                      Z5 
+0000016 130  APPGE   my                       Z8 
+0000016 140  NN1     conscience               X2.1/G2.2 
+0000016 150  VBR     are                      A3+ Z5 
+0000016 160  DD2     those                    Z8 Z5 
+0000016 170  CST     that                     Z8 Z5 
+0000016 180  VBR     are                      Z5 A3+ 
+0000016 190  VVN     indicated                A10+ M6 Q1.1/M3 
+0000016 200  RL      above                    M6 A5.1++ 
+0000016 201  ,       ,                        
+0000016 202  "       "                        
+0000016 203  NULL    </quote>                 
+0000016 204  -----   -----                    
+0000016 210  VVD     said                     Q2.1 
+0000016 220  NNB     Dr.                      B3/S2mf P1/S2mf 
+0000016 230  NP1     Renato                   Z1mf[i36.2.1 Z3c[i36.2.1 
+0000016 240  NP1     Buzzonetti               Z1mf[i36.2.2 Z3c[i36.2.2 
+0000016 241  ,       ,                        
+0000016 250  AT      the                      Z5 
+0000016 260  NP1     Pope                     S7.1+/S9m 
+0000016 261  GE      's                       Z5 
+0000016 270  JJ      personal                 S5- S1.2.1+ 
+0000016 280  NN1     physician                B3/S2mf 
+0000016 281  ,       ,                        
+0000016 290  II      in                       Z5 
+0000016 300  APPGE   his                      Z8m 
+0000016 310  NN1     signing                  Q1.2 I3.1/K5 I3.1/K2 Q1.1 
+0000016 320  IO      of                       Z5 
+0000016 330  AT      the                      Z5 
+0000016 340  NN1     certificate              Q1.2 
+0000016 341  .       .                        
+0000017 001  -----   -----                    
+0000018 010  NP1     AP                       Z3c 
+0000020 001  NULL    **8;7;text               

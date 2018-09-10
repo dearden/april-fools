@@ -1,0 +1,1211 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  PPIS2   We                       Z8 
+0000002 020  VV0     need                     S6+ 
+0000002 030  PPX221  each                     Z8[i1.2.1 
+0000002 040  PPX222  other                    Z8[i1.2.2 
+0000002 041  ,       ,                        
+0000002 050  RR      especially               A14 
+0000002 060  CS      when                     Z5 
+0000002 070  PPIS2   we                       Z8 
+0000002 080  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000002 081  XX      n't                      Z6 
+0000002 090  VVI     feel                     X7+[i2.2.1 X2.1 E1 X3 
+0000002 100  II      like                     X7+[i2.2.2 Z5 
+0000002 110  PPH1    it                       Z8 
+0000002 111  ,       ,                        
+0000002 120  VVZ     writes                   Q1.2 I2.1 
+0000002 130  NP1     Charles                  Z1mf[i3.2.1 Z3c[i3.2.1 Z1m 
+0000002 140  NP1     Waterstreet              Z1mf[i3.2.2 Z3c[i3.2.2 
+0000002 141  .       .                        
+0000003 001  -----   -----                    
+0000004 010  PPIS2   We                       Z8 
+0000004 020  VVD     lost                     X9.2- A9- M6/A5.3- L1- 
+0000004 030  DD1     another                  A6.1- N5++ 
+0000004 040  PN1     one                      Z8 
+0000004 050  MD      last                     T1.1.1[i4.2.1 N4 
+0000004 060  NNT1    week                     T1.1.1[i4.2.2 T1.3 
+0000004 061  .       .                        
+0000004 062  -----   -----                    
+0000004 070  AT      The                      Z5 
+0000004 080  MD      fourth                   N4 
+0000004 090  NN1     lawyer                   G2.1/I3.2/S2mf 
+0000004 100  II      in                       Z5 
+0000004 110  MC      three                    N1 T1.2 T3 
+0000004 120  NNT2    months                   T1.3 
+0000004 121  .       .                        
+0000004 122  -----   -----                    
+0000004 130  NN1     Depression               E4.1- B2-/X1 I2.1/N5- O4.4 W4 
+0000004 140  VBZ     is                       A3+ Z5 
+0000004 150  AT1     an                       Z5 
+0000004 160  JJ      insidious                A11.2- 
+0000004 170  NN1     disease                  B2- 
+0000004 171  ,       ,                        
+0000004 180  RR      silently                 X3.2- 
+0000004 190  VVG     stalking                 L3 
+0000004 200  APPGE   its                      Z8 
+0000004 210  NN1     victim                   A1.1.2/G2.1/S2mf B2-/S2mf 
+0000004 220  II      like                     Z5 
+0000004 230  AT1     a                        Z5 
+0000004 240  NN1     virus                    L2 Y2 
+0000004 241  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NP1@    Misquoting               Z1mf[i6.3.1 Z3c[i6.3.1 Z1mf[i5.2.1 Z3c[i5.2.1 
+0000006 020  NP1     Leo                      Z1mf[i6.3.2 Z3c[i6.3.2 Z1m S9/S2mf S9 Z1mf[i5.2.2 Z3c[i5.2.2 Z1mf[i7.2.1 Z3c[i7.2.1 
+0000006 030  NP1     Tolstoy                  Z3c[i6.3.3 Z1mf[i6.3.3 Z1mf[i7.2.2 Z3c[i7.2.2 
+0000006 040  IF      for                      Z5 
+0000006 050  AT1     a                        Z5 
+0000006 060  NN1     moment                   T1.2 T1.1.2 N3 
+0000006 061  :       :                        
+0000006 062  NULL    <quote>                  
+0000006 063  -----   -----                    
+0000006 064  "       "                        
+0000006 070  JJ      Happy                    E4.1+ E4.2+ 
+0000006 080  NN1     family                   S4c A4.1c 
+0000006 090  NN2     members                  S5+/S2mf B1 
+0000006 100  VBR     are                      A3+ Z5 
+0000006 110  DB      all                      N5.1+ 
+0000006 120  RR      alike                    A6.1+ 
+0000006 121  ,       ,                        
+0000006 130  AT1     every                    N5.1+ 
+0000006 140  JJ      unhappy                  E4.1- E2- A1.4- 
+0000006 150  NN1     family                   S4c A4.1c 
+0000006 160  NN1     member                   S5+/S2mf B1 
+0000006 170  VBZ     is                       A3+ Z5 
+0000006 180  JJ      unhappy                  E4.1- E2- A1.4- 
+0000006 190  II      in                       Z5 
+0000006 200  APPGE   its                      Z8[i8.2.1 Z8 
+0000006 210  DA      own                      Z8[i8.2.2 A9+ S5- 
+0000006 220  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000006 221  .       .                        
+0000006 222  "       "                        
+0000006 223  NULL    </quote>                 
+0000006 224  -----   -----                    
+0000006 230  AT1     Every                    N5.1+ 
+0000006 240  NN1     suicide                  L1- 
+0000006 250  VHZ     has                      A9+ Z5 A2.2 S4 
+0000006 260  APPGE   its                      Z8[i9.2.1 Z8 
+0000006 270  DA      own                      Z8[i9.2.2 A9+ S5- 
+0000006 280  NN1     story                    Q2.1 X4.1 Q4 
+0000006 281  .       .                        
+0000006 282  -----   -----                    
+0000006 290  AT      The                      Z5 
+0000006 300  NN1     mood                     E1 E3- 
+0000006 310  VM      might                    A7+ 
+0000006 320  VHI     have                     Z5 A9+ A2.2 S4 
+0000006 330  VVN     passed                   M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
+0000006 340  II      in                       Z5 
+0000006 350  AT      the                      Z5 
+0000006 360  NN1     blink                    B1 
+0000006 370  IO      of                       Z5 
+0000006 380  AT1     an                       Z5 
+0000006 390  NN1     eye                      B1 X3.4 
+0000006 391  .       .                        
+0000006 392  -----   -----                    
+0000006 400  RR      Yet                      T1.1.2 
+0000006 410  NN1     suicide                  L1- 
+0000006 420  VVD     seemed                   A8 
+0000006 430  AT      the                      Z5 
+0000006 440  JJ      only                     A14 
+0000006 450  NN1     way                      M6[i10.2.1 N5.2++[i10.2.1 O4.1[i10.2.1 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000006 460  RP      out                      M6[i10.2.2 N5.2++[i10.2.2 O4.1[i10.2.2 M6 
+0000006 461  .       .                        
+0000006 462  -----   -----                    
+0000006 470  AT      The                      Z5 
+0000006 480  JJ      deceased                 L1-/S2mfc L1- 
+0000006 490  RR      certainly                A7+ 
+0000006 500  VVN     believed                 X2.1 S9% 
+0000006 510  CST     that                     Z8 Z5 
+0000006 511  ,       ,                        
+0000006 520  IF      for                      Z5 
+0000006 530  DDQ     what                     Z8 Z5 
+0000006 540  PPHS1   he                       Z8m 
+0000006 550  VVD     perceived                X4.1 X3.4 X2.5+ 
+0000006 560  TO      to                       Z5 
+0000006 570  VBI     be                       A3+ Z5 
+0000006 580  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000006 590  NN1     reason                   A2.2 X2.1 
+0000006 591  .       .                        
+0000006 592  -----   -----                    
+0000006 600  NN1     Daylight                 W2 T1.3 
+0000006 610  VM      might                    A7+ 
+0000006 620  VVI     bring                    M2 A2.2 
+0000006 630  AT1     a                        Z5 
+0000006 640  JJ      different                A6.1- 
+0000006 650  NN1     thought                  X4.1 
+0000006 651  .       .                        
+0000006 652  -----   -----                    
+0000006 660  AT1     Every                    N5.1+ 
+0000006 670  NN1     adult                    T3+/S2mf 
+0000006 680  VM      should                   S6+ A7+ 
+0000006 690  VBI     be                       A3+ Z5 
+0000006 700  II      on                       Z5 
+0000006 710  NN1     suicide                  L1- 
+0000006 720  NN1     watch                    T1/O2 M4 
+0000006 730  IF      for                      Z5 
+0000006 740  PPX221  each                     Z8[i11.2.1 
+0000006 750  PPX222  other                    Z8[i11.2.2 
+0000006 751  .       .                        
+0000007 001  -----   -----                    
+0000008 010  NN1     Depression               E4.1- B2-/X1 I2.1/N5- O4.4 W4 
+0000008 011  ,       ,                        
+0000008 020  II      like                     Z5 
+0000008 030  JJ      bad                      A5.1- G2.2- O4.2- B2- 
+0000008 040  NN1     weather                  W4 
+0000008 041  ,       ,                        
+0000008 050  NN1@    will                     X7+ G2.1/Q1.2 
+0000008 060  II      in                       Z5 
+0000008 070  DAT     most                     N5+++ 
+0000008 080  NN2     cases                    A4.1 O2 G2.1 B3 X4.1 Q3 
+0000008 090  VV0     pass                     M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
+0000008 091  ,       ,                        
+0000008 100  RR      even                     A13.1 
+0000008 110  NN1     category                 A4.1 
+0000008 120  MC2     fives                    T1.3 N1 T3 
+0000008 121  .       .                        
+0000008 122  -----   -----                    
+0000008 130  AT      The                      Z5 
+0000008 140  NN1     trick                    G2.2- A1.1.1 X4.2 A6.2+ K5.2 
+0000008 150  VBZ     is                       A3+ Z5 
+0000008 160  TO      to                       Z5 
+0000008 170  VVI     batten                   A1.7+ 
+0000008 180  RP      down                     Z5 M6 N4 N5-- E4.1- S7.1- N3.1 Q1.2 O1.1 L2 Z1mf F1/B1 A1.1.1 
+0000008 190  CC      and                      Z5 
+0000008 200  NN1     plan                     X7+ C1/H1 
+0000008 201  ,       ,                        
+0000008 210  CC      and                      Z5 
+0000008 220  VDI     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000008 221  XX      n't                      Z6 
+0000008 230  VVI     leave                    A9-[i12.2.1 M1 M2 A1.1.1 A1.9 A9- T2- 
+0000008 240  PPH1    it                       Z8 
+0000008 250  II      to                       A9-[i12.2.2 Z5 
+0000008 260  NN1     president                G1.1/S7.1+/S2mf 
+0000008 270  NP1     Bush                     Z3c Z1mf 
+0000008 280  TO      to                       Z5 
+0000008 290  VVI     help                     S8+ 
+0000008 291  .       .                        
+0000008 292  -----   -----                    
+0000008 300  PPIS2   We                       Z8 
+0000008 310  VV0     need                     S6+ 
+0000008 320  PPX221  each                     Z8[i13.2.1 
+0000008 330  PPX222  other                    Z8[i13.2.2 
+0000008 331  ,       ,                        
+0000008 340  RR      especially               A14 
+0000008 350  CS      when                     Z5 
+0000008 360  PPIS2   we                       Z8 
+0000008 370  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000008 371  XX      n't                      Z6 
+0000008 380  VVI     feel                     X7+[i14.2.1 X2.1 E1 X3 
+0000008 390  II      like                     X7+[i14.2.2 Z5 
+0000008 400  PPH1    it                       Z8 
+0000008 401  .       .                        
+0000008 402  -----   -----                    
+0000008 410  NN1     Misery                   E4.1- 
+0000008 420  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000008 430  XX      not                      Z6 
+0000008 440  VVI     love                     E2+ 
+0000008 450  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000008 451  .       .                        
+0000008 452  -----   -----                    
+0000008 460  RT      Sometimes                N6 
+0000008 470  NN1     suicide                  L1- 
+0000008 480  VVZ     appears                  A8 A10+ A3+ G2.1 K4 Q4 
+0000008 490  TO      to                       Z5 
+0000008 500  VBI     be                       A3+ Z5 
+0000008 510  AT1     a                        Z5 
+0000008 520  NN1     mercy                    G2.2+ S8+ 
+0000008 530  NN1     killing                  L1- A12- A1.5.1 E4.1-/A2.2 
+0000008 531  -       -                        
+0000008 540  IW      without                  Z5 
+0000008 550  AT1     an                       Z5 
+0000008 560  NN1     accomplice               S8+/S2mf 
+0000008 561  .       .                        
+0000009 001  -----   -----                    
+0000010 010  JJ      Anecdotal                Q2.1 
+0000010 020  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000010 030  VVZ     says                     Q2.1 
+0000010 040  NN2     dentists                 B3/S2mf 
+0000010 050  VH0     have                     A9+ Z5 A2.2 S4 
+0000010 060  AT      the                      Z5 
+0000010 070  JJT     highest                  N3.7+++ N5+++ A11.1+++ S7.1+++ A5.1+++ T3--- X3.2 G2.2+++ E4.1+++ I1.3+++ O4.2--- O4.6+++ S9 
+0000010 080  NN1     suicide                  L1- 
+0000010 090  NN2     rates                    N3.8 N5 I1.3 
+0000010 100  II      among                    Z5 
+0000010 110  AT      the                      Z5 
+0000010 120  NN2     professions              I3.1 
+0000010 121  ,       ,                        
+0000010 130  RR      hence                    A2.2 
+0000010 140  AT      the                      Z5 
+0000010 150  NN1     expression               Q3 E1/B1 
+0000010 151  NULL    <quote>                  
+0000010 152  -----   -----                    
+0000010 153  "       "                        
+0000010 160  VVG     looking                  A8 X3.4 X2.4 X7+ Z4 X3.4[i15.2.1 S1.2.3+[i15.2.1 
+0000010 170  RP      down                     E4.1-[i16.4.1 X3.4[i15.2.2 S1.2.3+[i15.2.2 
+0000010 180  II      in                       E4.1-[i16.4.2 Z5 
+0000010 190  AT      the                      E4.1-[i16.4.3 Z5 
+0000010 200  NN1     mouth                    E4.1-[i16.4.4 B1 Q2.2 M7/W3 W3/M4 O2 
+0000010 201  "       "                        
+0000010 202  NULL    </quote>                 
+0000010 203  -----   -----                    
+0000010 204  .       .                        
+0000010 205  -----   -----                    
+0000010 210  PPH1    It                       Z8 
+0000010 220  VBZ     is                       A3+ Z5 
+0000010 230  AT1     an                       Z5 
+0000010 240  JJ      extraordinary            A6.2- 
+0000010 250  NN1@    calling                  Q2.2 S1.1.1 Q1.3 I3.1 S9% 
+0000010 260  CC      and                      Z5 
+0000010 261  ,       ,                        
+0000010 270  VVG     judging                  G2.1 X6 
+0000010 280  II      by                       Z5 
+0000010 290  APPGE   my                       Z8 
+0000010 300  JJ      dental                   B1 B3 
+0000010 310  NN2     bills                    I1.3 G1.1 Q1.2 L2 
+0000010 311  ,       ,                        
+0000010 320  AT1     a                        Z5 
+0000010 330  RG      very                     A13.3 
+0000010 340  RR      financially              I1 
+0000010 350  VVG     rewarding                A5.1+/A2.2 I1.1+ S1.1.4+ 
+0000010 360  PN1     one                      Z8 
+0000010 361  .       .                        
+0000010 362  -----   -----                    
+0000010 370  PPIS1   I                        Z8mf 
+0000010 380  VH0     have                     Z5 A9+ A2.2 S4 
+0000010 390  VVN     paid                     I1.2 A9- I1.1/I3.1 
+0000010 400  AT1     a                        Z5 
+0000010 410  RG      very                     A13.3 
+0000010 420  JJ      high                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000010 430  NN1     price                    I1.3 
+0000010 440  IF      for                      Z5 
+0000010 450  NP1     Albury                   Z99 
+0000010 451  GE      's                       Z5 
+0000010 460  NN1     decision                 X6+ 
+0000010 461  ,       ,                        
+0000010 470  II      by                       Z5 
+0000010 480  AT1     a                        Z5 
+0000010 490  NN1     landslide                X9.2++ W3 
+0000010 500  NN1     referendum               G1.2 
+0000010 501  ,       ,                        
+0000010 510  TO      to                       Z5 
+0000010 520  VVI     veto                     S7.4- 
+0000010 530  NN1     fluoride                 O1.1 
+0000010 540  II      in                       Z5 
+0000010 550  AT      the                      Z5 
+0000010 560  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000010 570  NN1     supply                   A9- A9+ S8+% 
+0000010 580  II      in                       Z5 
+0000010 590  MC      1961                     N1 T1.2 T3 T1.3 N3.2 
+0000010 591  .       .                        
+0000011 001  -----   -----                    
+0000012 010  NN2     Dentists                 B3/S2mf 
+0000012 020  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000012 030  XX      not                      Z6 
+0000012 040  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000012 050  NN      people                   S2mfc 
+0000012 060  II      at                       Z5 
+0000012 070  APPGE   their                    Z8 
+0000012 080  JJT     best                     A5.1+++ G2.2+++ O4.2+++ 
+0000012 081  .       .                        
+0000012 082  -----   -----                    
+0000012 090  PPH1    It                       Z8 
+0000012 100  VHZ     has                      Z5 A9+ A2.2 S4 
+0000012 110  VBN     been                     Z5 A3+ 
+0000012 120  VVN@    said                     Q2.1 
+0000012 130  CST     that                     Z5 Z8 
+0000012 140  DA2     many                     N5+ 
+0000012 150  VVD     pursued                  A1.1.1 X8+ X2.4 M1 
+0000012 160  AT      the                      Z5 
+0000012 170  NN1     profession               I3.1 
+0000012 180  CS      when                     Z5 
+0000012 190  VVG     failing                  X9.2- A5.1-/A2.1 
+0000012 200  TO      to                       Z5 
+0000012 210  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000012 220  AT      the                      Z5 
+0000012 230  NN1     cut                      A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
+0000012 240  IF      for                      Z5 
+0000012 250  NN1     medicine                 B3 
+0000012 260  II      at                       Z5 
+0000012 270  NN1     university               P1/H1c 
+0000012 271  .       .                        
+0000012 272  -----   -----                    
+0000012 280  AT      The                      Z5 
+0000012 290  JJ      late                     T4- L1- T1.1 
+0000012 300  NN1     advent                   S9/T1.3 T2+ 
+0000012 310  IO      of                       Z5 
+0000012 320  NN1     fluoride                 O1.1 
+0000012 330  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000012 340  XX      not                      Z6 
+0000012 350  VVI     lessen                   N5-/A2.1 
+0000012 360  AT      the                      Z5 
+0000012 370  NN2     visits                   S1.1.1 M1 
+0000012 380  II      to                       Z5 
+0000012 390  AT      the                      Z5 
+0000012 400  NN1     dentist                  B3/S2mf 
+0000012 401  .       .                        
+0000012 402  -----   -----                    
+0000012 410  JJ      Adolescent               T3-/S2mf 
+0000012 420  NN2     teeth                    B1 O2 
+0000012 430  RR      suddenly                 N3.8+ 
+0000012 440  VVN     needed                   S6+ 
+0000012 450  TO      to                       Z5 
+0000012 460  VBI     be                       Z5 A3+ 
+0000012 470  VVN@    scaffolded               H1 G2.1 
+0000012 480  II      in                       Z5 
+0000012 490  JJ      expensive                I1.3+ 
+0000012 500  NN2     braces                   B5 B3 L2/N5 Q3 O2 
+0000012 510  TO      to                       Z5 
+0000012 520  VVI     stop                     T2- S8- M8 H4 A1.1.1@ 
+0000012 530  PPHO2   them                     Z8mfn 
+0000012 540  VVG     looking                  A6.1+[i17.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000012 550  II      like                     A6.1+[i17.2.2 Z5 
+0000012 560  AT1     a                        Z5 
+0000012 570  JJ      neglected                O4.1 
+0000012 580  NN1     cemetery                 M7/L1- 
+0000012 581  .       .                        
+0000012 582  -----   -----                    
+0000012 590  AT1     A                        Z5 
+0000012 600  NN1     depressive               E4.1- B2-/X1 
+0000012 610  VM      might                    A7+ 
+0000012 620  VVI     say                      Q2.1 Z4% 
+0000012 630  MC1     one                      N1 T3 T1.2 
+0000012 640  NN1     door                     H2 H1@ 
+0000012 650  VVZ     shuts                    A10- 
+0000012 651  ,       ,                        
+0000012 660  DD1     another                  A6.1- N5++ 
+0000012 670  VVZ     closes                   A1.1.1 A10- T2- 
+0000012 671  .       .                        
+0000013 001  -----   -----                    
+0000014 010  JJ      Detailed                 A4.2+ 
+0000014 020  NN2     studies                  P1 X2.4 H2 Q1.2 C1 
+0000014 030  II      in                       Z5 
+0000014 040  NP1     Britain                  Z2 
+0000014 050  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000014 060  NN2     vets                     L2/S2mf G3/S2mf 
+0000014 070  VBR     are                      A3+ Z5 
+0000014 080  II      at                       Z5 
+0000014 090  AT1     a                        Z5 
+0000014 100  JJ      high                     A15-[i18.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000014 110  NN1     risk                     A15-[i18.2.2 A15- A1.4 
+0000014 120  IO      of                       Z5 
+0000014 130  NN1     suicide                  L1- 
+0000014 131  .       .                        
+0000014 132  -----   -----                    
+0000014 140  UH      No                       Z4 
+0000014 141  ,       ,                        
+0000014 150  XX      not                      Z6 
+0000014 160  NN1     war                      G3 S7.3 
+0000014 170  NN2     veterans                 G3/S2mf T3+/S2mf 
+0000014 180  CCB     but                      Z5 
+0000014 190  NN2     veterinarians            Z99 
+0000014 191  .       .                        
+0000014 192  -----   -----                    
+0000014 200  RR      Anecdotally              Q2.1 
+0000014 201  ,       ,                        
+0000014 210  PPHS2   they                     Z8mfn 
+0000014 220  VBDR    were                     A3+ Z5 
+0000014 230  DD2     those                    Z8 Z5 
+0000014 240  PNQS    who                      Z8 
+0000014 250  VM      could                    A7+ 
+0000014 251  XX      n't                      Z6 
+0000014 260  VVI     get                      M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1- 
+0000014 270  II      into                     Z5 
+0000014 280  NN1     dentistry                B3 
+0000014 290  CCB     but                      Z5 
+0000014 300  VVD     loved                    E2+ 
+0000014 310  NN2     animals                  L2mfn S5+c O2c 
+0000014 311  .       .                        
+0000014 312  -----   -----                    
+0000014 320  AT1     A                        Z5 
+0000014 330  NN1     study                    P1 X2.4 H2 Q1.2 C1 
+0000014 340  II      by                       Z5 
+0000014 350  AT      the                      Z5 
+0000014 360  JJ      Australian               Z2 
+0000014 370  JJ      Veterinary               L2 
+0000014 380  NN1     Journal                  Q4.2 Q1.2 
+0000014 390  II      in                       Z5 
+0000014 400  MC      2008                     N1 T1.2 T3 T1.3 N3.2 
+0000014 410  VVD     found                    A10+ X2.1 X6+ 
+0000014 411  NULL    <quote>                  
+0000014 412  -----   -----                    
+0000014 413  "       "                        
+0000014 420  NN2     vets                     L2/S2mf G3/S2mf 
+0000014 430  VBR     are                      A3+ Z5 
+0000014 440  MC      four                     T3 N1 T1.2 
+0000014 450  NNT2    times                    T1 T1.2 T1.3 T1.1.2 N6 N1 
+0000014 460  RRR     more                     A13.3 N6++ 
+0000014 470  JJ      likely                   A7+ A1.2+ 
+0000014 480  TO      to                       Z5 
+0000014 490  VVI     commit                   L1-[i19.2.1 A1.1.1 S6+ A1.7+/G2.1 
+0000014 500  NN1     suicide                  L1-[i19.2.2 L1- 
+0000014 501  "       "                        
+0000014 502  NULL    </quote>                 
+0000014 503  -----   -----                    
+0000014 510  CSN     than                     Z5 
+0000014 520  AT      the                      Z5 
+0000014 530  NN1     rest                     E3+ K1 T2-/T1.3 O2 N5.1- 
+0000014 540  IO      of                       Z5 
+0000014 550  AT      the                      Z5 
+0000014 560  NN1     population               S2/N5c 
+0000014 561  .       .                        
+0000014 562  -----   -----                    
+0000014 570  PPH1    It                       Z8 
+0000014 571  VBZ     's                       A3+ Z5 
+0000014 580  XX      not                      Z6 
+0000014 590  PN1     something                Z8 
+0000014 600  PPHS2   they                     Z8mfn 
+0000014 610  VM      can                      A7+ 
+0000014 620  VVI     catch                    A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3 
+0000014 630  II      from                     Z5 
+0000014 640  APPGE   their                    Z8 
+0000014 650  NN2     clients                  I2.2/S2mf 
+0000014 651  .       .                        
+0000014 652  -----   -----                    
+0000014 660  NN2     Animals                  L2mfn S5+c O2c 
+0000014 670  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000014 680  XX      not                      Z6 
+0000014 690  VVI     commit                   L1-[i20.2.1 A1.1.1 S6+ A1.7+/G2.1 
+0000014 700  NN1     suicide                  L1-[i20.2.2 L1- 
+0000014 701  .       .                        
+0000015 001  -----   -----                    
+0000016 010  NN1     Advertisement            I2.2/Q2.1 X2.2+ A10+ 
+0000018 010  DDQ     What                     Z8 Z5 
+0000018 020  NN2     dentists                 B3/S2mf 
+0000018 021  ,       ,                        
+0000018 030  NN2     veterinarians            Z99 
+0000018 040  CC      and                      Z5 
+0000018 050  NN2     barristers               G2.1/S2mf 
+0000018 060  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000018 070  VHI     have                     A9+ Z5 A2.2 S4 
+0000018 080  RR21    in                       A6.1+[i21.2.1 S1.1.2+[i21.2.1 
+0000018 090  RR22    common                   A6.1+[i21.2.2 S1.1.2+[i21.2.2 
+0000018 100  VBZ     is                       A3+ Z5 
+0000018 110  PPHS2   they                     Z8mfn 
+0000018 120  VBR     are                      A3+ Z5 
+0000018 130  NN2     professions              I3.1 
+0000018 140  DDQ     which                    Z5 Z8 
+0000018 150  RR      traditionally            S1.1.1 A6.2+ T3++ 
+0000018 160  NN1     practice                 A1.1.1 I3.1/S5+c 
+0000018 170  RR      alone                    S5- A14 
+0000018 171  .       .                        
+0000018 172  -----   -----                    
+0000018 180  PPHS2   They                     Z8mfn 
+0000018 190  VM      might                    A7+ 
+0000018 200  VVI     gather                   S5+ A9+ N5+/A2.1 X2.5+ A1.1.1% 
+0000018 210  II      in                       Z5 
+0000018 220  NN2     chambers                 G2.1/H1 H2 S5+ O2 
+0000018 221  ,       ,                        
+0000018 230  NN2     partnerships             S5+c S4 S3.2 
+0000018 240  CC      or                       Z5 
+0000018 241  ,       ,                        
+0000018 250  CSA     as                       Z4[i22.3.1 Z5 
+0000018 260  PPIS2   we                       Z4[i22.3.2 Z8 
+0000018 270  VV0     say                      Z4[i22.3.3 Q2.1 Z4% 
+0000018 271  ,       ,                        
+0000018 280  VV0     share                    S1.1.2+ 
+0000018 290  NN2     rooms                    H2 
+0000018 300  CCB     but                      Z5 
+0000018 310  AT      the                      Z5 
+0000018 320  JJ      day-to-day               T1.1.2 A6.2+ 
+0000018 330  NN1     operation                A1.1.1 B3 G3 
+0000018 340  IO      of                       Z5 
+0000018 350  AT      the                      Z5 
+0000018 360  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000018 370  VBZ     is                       A1.1.1[i23.3.1 X9.1+[i23.3.1 A3+ Z5 
+0000018 380  II21    up                       A1.1.1[i23.3.2 X9.1+[i23.3.2 Z5 Z5[i24.2.1 Z5[i25.2.1 X6+[i25.2.1 
+0000018 390  II22    to                       A1.1.1[i23.3.3 X9.1+[i23.3.3 Z5 Z5[i24.2.2 Z5[i25.2.2 X6+[i25.2.2 
+0000018 400  AT      the                      Z5 
+0000018 410  NN1     individual               S2mf 
+0000018 411  .       .                        
+0000018 412  -----   -----                    
+0000018 420  AT      The                      Z5 
+0000018 430  NN      buck                     I1 L2mn 
+0000018 440  CC      and                      Z5 
+0000018 450  AT      the                      Z5 
+0000018 460  NN2     bucks                    I1 L2mn 
+0000018 470  VV0     stop                     T2- S8- M8 H4 A1.1.1@ 
+0000018 480  IW      with                     Z5 
+0000018 490  PPY     you                      Z8mf 
+0000018 491  .       .                        
+0000018 492  -----   -----                    
+0000018 500  AT      The                      Z5 
+0000018 510  NN2     agonies                  B2- E4.1--- 
+0000018 520  IO      of                       Z5 
+0000018 530  NN2     decisions                X6+ 
+0000018 531  ,       ,                        
+0000018 540  NN2     contradictions           A6.1- 
+0000018 541  ,       ,                        
+0000018 550  NN2     choices                  X7+ A6.3+ 
+0000018 551  ,       ,                        
+0000018 560  NN2     clashes                  E3- A6.1- T1.1.2 X3.2 
+0000018 561  ,       ,                        
+0000018 570  NN2     taxes                    I1.1/G1.1 
+0000018 571  ,       ,                        
+0000018 580  VBR     are                      A3+ Z5 
+0000018 590  DB      all                      N5.1+ 
+0000018 600  II      in                       Z5 
+0000018 610  APPGE   your                     Z8[i26.2.1 Z8 
+0000018 620  DA      own                      Z8[i26.2.2 A9+ S5- 
+0000018 630  NN1     head                     B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
+0000018 640  TO@     to                       Z5 
+0000018 650  VVI     work                     N2[i27.2.1 X9.2+[i27.2.1 X2.5+[i27.2.1 A1.1.1[i27.2.1 K5.1[i27.2.1 X2.1[i27.2.1 I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000018 660  RP      out                      N2[i27.2.2 X9.2+[i27.2.2 X2.5+[i27.2.2 A1.1.1[i27.2.2 K5.1[i27.2.2 X2.1[i27.2.2 M6 
+0000018 661  .       .                        
+0000018 662  -----   -----                    
+0000018 670  RR      Even                     A13.1 
+0000018 680  NN2     monks                    S9/S2.2m 
+0000018 690  VH0     have                     A9+ Z5 A2.2 S4 
+0000018 700  PPX221  each                     Z8[i28.2.1 
+0000018 710  PPX222  other                    Z8[i28.2.2 
+0000018 720  II      in                       Z5 
+0000018 730  AT      the                      Z5 
+0000018 740  NN1     monastery                S9/H1 
+0000018 741  .       .                        
+0000019 001  -----   -----                    
+0000020 010  AT      The                      Z5 
+0000020 020  NN1     disease                  B2- 
+0000020 030  VM      can                      A7+ 
+0000020 040  VBI     be                       Z5 A3+ 
+0000020 050  VVN     found                    A10+ X2.1 X6+.1 
+0000020 060  RL      anywhere                 M6 
+0000020 070  II      in                       Z5 
+0000020 080  AT      the                      Z5 
+0000020 090  NN1     courtroom                G2.1/H2 
+0000020 091  .       .                        
+0000020 092  -----   -----                    
+0000020 100  II      During                   Z5 
+0000020 110  MC1     one                      N1 T3 T1.2 
+0000020 120  IO      of                       Z5 
+0000020 130  AT      the                      Z5 
+0000020 140  RGT     most                     A13.2 
+0000020 150  JJ      difficult                A12- 
+0000020 160  NN2     trials                   G2.1 X2.4 E6- A12- K5.1 
+0000020 170  PPIS1   I                        Z8mf 
+0000020 180  VH0     have                     Z5 A9+ A2.2 S4 
+0000020 190  VHN     had                      A9+ Z5 A2.2 S4 
+0000020 200  AT      the                      Z5 
+0000020 210  NN1     privilege                G2.1 S7.1+ A5.1+ S7.2+ 
+0000020 220  IO      of                       Z5 
+0000020 230  VVG     appearing                A8 A10+ A3+ G2.1 K4 Q4 
+0000020 240  RP@     in                       M6 
+0000020 241  ,       ,                        
+0000020 250  APPGE   my                       Z8 
+0000020 260  NN1     client                   I2.2/S2mf 
+0000020 261  ,       ,                        
+0000020 270  AT1     a                        Z5 
+0000020 280  JJ      young                    T3- 
+0000020 290  NN1     law                      G2.1 S6+ Y1 
+0000020 300  NN1     student                  P1/S2mf 
+0000020 301  ,       ,                        
+0000020 310  VVD     became                   A2.1+ O4.2+ 
+0000020 320  RR      suicidally               Z99 
+0000020 330  JJ      depressed                E4.1- B2-/X1 I2.1/N5- O4.4 
+0000020 331  .       .                        
+0000020 332  -----   -----                    
+0000020 340  PPHS1   She                      Z8f 
+0000020 350  VBDZ    was                      Z5 A3+ 
+0000020 360  VVN     found                    A10+ X2.1 X6+.1 
+0000020 370  TO      to                       Z5 
+0000020 380  VBI     be                       A3+ Z5 
+0000020 390  JJ      unfit                    B2- A1.2- 
+0000020 400  TO      to                       Z5 
+0000020 410  VVI     stand                    M6 M2 M8 M1 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+ 
+0000020 420  NN1     trial                    G2.1 X2.4 E6- A12- K5.1 
+0000020 430  CCB     but                      Z5 
+0000020 440  AT1     a                        Z5 
+0000020 450  JJ      relentless               T2++ 
+0000020 460  NN1     Crown                    Z3c 
+0000020 470  VVD     insisted                 S7.1+/Q2.2 
+0000020 480  II      on                       Z5 
+0000020 490  VVG     continuing               T2++ 
+0000020 500  IW      with                     Z5 
+0000020 510  AT1     a                        Z5 
+0000020 520  JJ      special                  A4.2+ A6.2- 
+0000020 530  NN1     hearing                  B1/X3.2 G2.1 
+0000020 531  .       .                        
+0000020 532  -----   -----                    
+0000020 540  NN1     Kala                     Z99 
+0000020 550  NN1@    Subramanian              Z99 
+0000020 551  ,       ,                        
+0000020 560  AT      the                      Z5 
+0000020 570  JJ      young                    T3- 
+0000020 580  NN1     defendant                G2.1/S2mf 
+0000020 581  ,       ,                        
+0000020 590  VVD     sat                      M8 C1 P1 G1.1 G2.1 M6 A9+ 
+0000020 600  II      in                       Z5 
+0000020 610  NN1     court                    G2.1 H3 M7/K5.2 
+0000020 620  IW      with                     Z5 
+0000020 630  APPGE   her                      Z8f 
+0000020 640  NN1     head                     B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
+0000020 650  II      in                       Z5 
+0000020 660  APPGE   her                      Z8f 
+0000020 670  NN2     hands                    B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000020 671  ,       ,                        
+0000020 680  JK      unable                   X9.1- 
+0000020 690  TO      to                       Z5 
+0000020 700  VVI     participate              S1.1.3+ 
+0000020 710  II      in                       Z5 
+0000020 720  DD      any                      N5.1+ N5 
+0000020 730  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000020 731  .       .                        
+0000021 001  -----   -----                    
+0000022 010  AT      The                      Z5 
+0000022 020  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000022 030  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000022 040  VBZ     is                       Z5 A3+ 
+0000022 050  PPHS1   she                      Z8f 
+0000022 060  VVN     survived                 A3+/T2++ L1+ 
+0000022 061  -       -                        
+0000022 070  CCB     but                      Z5 
+0000022 080  AT      the                      Z5 
+0000022 090  NN1     judge                    G2.1/I3.2/S2mf X6/S2mf 
+0000022 100  II      in                       Z5 
+0000022 110  AT      the                      Z5 
+0000022 120  NN1     case                     A4.1 O2 G2.1 B3 X4.1 Q3 
+0000022 130  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000022 140  XX      not                      Z6 
+0000022 141  .       .                        
+0000022 142  -----   -----                    
+0000022 150  PPHS1   He                       Z8m 
+0000022 160  VVD     killed                   L1- A12- A1.5.1 E4.1-/A2.2 
+0000022 170  PPX1    himself                  Z8m 
+0000022 180  II      within                   Z5 
+0000022 190  NNT2    days                     T1.3 
+0000022 200  IO      of                       Z5 
+0000022 210  AT      the                      Z5 
+0000022 220  NN1     trial                    G2.1 X2.4 E6- A12- K5.1 
+0000022 230  VVG     finishing                T2- A1.5.1/N5.1+ A1.1.1 X9.2- 
+0000022 231  .       .                        
+0000023 001  -----   -----                    
+0000024 001  (       (                        
+0000024 010  II      In                       Z5 
+0000024 020  AT1     a                        Z5 
+0000024 030  JJ      weird                    A6.2- 
+0000024 040  NN1     twist                    O4.4 M2 A2.1+ K1 
+0000024 050  IO      of                       Z5 
+0000024 060  NN1     fate                     S9 A7+++/S7.1- A3+/S7.1- 
+0000024 061  ,       ,                        
+0000024 070  NP1     Marcus                   Z1mf[i29.2.1 Z3c[i29.2.1 Z1m 
+0000024 080  NP1     Einfeld                  Z1mf[i29.2.2 Z3c[i29.2.2 
+0000024 090  RRR     later                    T4-- T1.1.3 N4 
+0000024 100  VVD     took                     A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000024 110  NP1     Kala                     Z99 
+0000024 111  GE      's                       Z5 
+0000024 120  NN1     case                     A4.1 O2 G2.1 B3 X4.1 Q3 
+0000024 130  II      to                       Z5 
+0000024 140  AT      the                      Z5 
+0000024 150  JJ      High                     G2.1c[i31.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 G2.1c[i30.2.1 
+0000024 160  NN1     Court                    G2.1c[i31.2.2 G2.1 H3 M7/K5.2 G2.1c[i30.2.2 
+0000024 170  II      pro                      Z99/E2+[i32.2.1 E2+ I3.2+/S2mf X9.1+/S2mf 
+0000024 180  NN1     bono                     Z99/E2+[i32.2.2 
+0000024 181  .       .                        
+0000024 182  -----   -----                    
+0000024 190  PPHS1   He                       Z8m 
+0000024 200  VBDZ    was                      A3+ Z5 
+0000024 210  JJ      successful               X9.2+ 
+0000024 211  .       .                        
+0000024 212  -----   -----                    
+0000024 220  II      At                       Z5 
+0000024 230  APPGE   its                      Z8 
+0000024 240  NN1     heart                    B1 M6 A11.1+ E1 X5.2+ 
+0000024 250  PPH1    it                       Z8 
+0000024 260  VVD     involved                 A1.8+ 
+0000024 270  AT1     an                       Z5 
+0000024 280  NN1     allegation               Q2.2/A5.2- 
+0000024 290  CST     that                     Z8 Z5 
+0000024 300  PPHS1   she                      Z8f 
+0000024 310  VHD     had                      Z5 A9+ A2.2 S4 
+0000024 320  RR      falsely                  A5.2- 
+0000024 330  VVN     claimed                  Q2.2 A9+ 
+0000024 340  TO      to                       Z5 
+0000024 350  VBI     be                       A3+ Z5 
+0000024 360  AT      the                      Z5 
+0000024 370  NN1     driver                   M3/S2mf O2 
+0000024 380  IO      of                       Z5 
+0000024 390  APPGE   her                      Z8f 
+0000024 400  NN1     boss                     S7.1+/S2mf 
+0000024 401  GE      's                       Z5 
+0000024 410  NN1     car                      M3fn 
+0000024 411  ,       ,                        
+0000024 420  DDQ     which                    Z8 Z5 
+0000024 430  VHD     had                      Z5 A9+ A2.2 S4 
+0000024 440  VBN     been                     Z5 A3+ 
+0000024 450  VVN     photographed             C1 
+0000024 460  II      by                       Z5 
+0000024 470  AT1     a                        Z5 
+0000024 480  JJ      red                      O4.3 G1.2 
+0000024 490  JJ      light                    W2 O4.3 N3.5- N5- N3.2- A12+ X3.2- F1 A11.1- O4.2+ 
+0000024 500  NN1     camera                   C1 Q4.3 
+0000024 501  .       .                        
+0000024 502  -----   -----                    
+0000024 510  NN1     Coincidence              A1.4 
+0000024 520  VBZ     is                       A3+ Z5 
+0000024 530  NP1     God                      S9m Z4 
+0000024 531  GE      's                       Z5 
+0000024 540  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000024 550  IO      of                       Z5 
+0000024 560  JJ      remaining                T2++ M8 N5.2+ 
+0000024 570  JJ      anonymous                A10- 
+0000024 571  .       .                        
+0000024 572  )       )                        
+0000025 001  -----   -----                    
+0000026 010  AT      The                      Z5 
+0000026 020  NN2     blues                    K2 O4.3 B5@ 
+0000026 030  VM      can                      A7+ 
+0000026 040  VVI     come                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 M1[i33.2.1 A10-[i33.2.1 A10+[i33.2.1 A1.1.1[i33.2.1 T2-[i33.2.1 S3.2/B1@[i33.2.1 
+0000026 050  II21    out                      X2.6-[i36.4.1 Z5 M1[i33.2.2 A10-[i33.2.2 A10+[i33.2.2 A1.1.1[i33.2.2 T2-[i33.2.2 S3.2/B1@[i33.2.2 Z5[i34.2.1 Z5[i35.2.1 A9-[i35.2.1 
+0000026 060  II22    of                       X2.6-[i36.4.2 Z5[i34.2.2 Z5[i35.2.2 A9-[i35.2.2 
+0000026 070  AT      the                      X2.6-[i36.4.3 Z5 
+0000026 080  JJ      blue                     X2.6-[i36.4.4 O4.3 S1.2.4- G1.2 
+0000026 090  CCB     but                      Z5 
+0000026 100  VBR     are                      A3+ Z5 
+0000026 110  RGR     more                     A13.3 
+0000026 120  JJ      likely                   A7+ A1.2+ 
+0000026 130  TO      to                       Z5 
+0000026 140  VVI     come                     M1[i37.2.1 A10-[i37.2.1 A10+[i37.2.1 A1.1.1[i37.2.1 T2-[i37.2.1 S3.2/B1@[i37.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000026 150  II21    out                      M1[i37.2.2 A10-[i37.2.2 A10+[i37.2.2 A1.1.1[i37.2.2 T2-[i37.2.2 S3.2/B1@[i37.2.2 Z5 Z5[i38.2.1 Z5[i39.2.1 A9-[i39.2.1 
+0000026 160  II22    of                       Z5 Z5[i38.2.2 Z5[i39.2.2 A9-[i39.2.2 
+0000026 170  AT      the                      Z5 
+0000026 180  JJ      black                    O4.3 G2.2- A5.1- E4.1- S5+ 
+0000026 181  .       .                        
+0000026 182  -----   -----                    
+0000026 190  CSA     As                       Z5 
+0000026 200  PPIS1   I                        Z8mf 
+0000026 210  VV0     write                    Q1.2 I2.1 
+0000026 220  DD1     this                     Z8 M6 Z5 
+0000026 221  ,       ,                        
+0000026 230  PPIS1   I                        Z8mf 
+0000026 240  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000026 250  VVD     learnt                   X2.3+ P1 
+0000026 260  CST     that                     Z5 Z8 
+0000026 270  DD1     another                  A6.1- N5++ 
+0000026 280  JJ      young                    T3- 
+0000026 290  JJ      criminal                 G2.1/S2mf[i40.2.1 G2.1- A5.1- 
+0000026 300  NN1     lawyer                   G2.1/S2mf[i40.2.2 G2.1/I3.2/S2mf 
+0000026 310  NN1     friend                   S3.1/S2mf 
+0000026 311  -       -                        
+0000026 320  NP1     Steve                    Z2[i42.2.1 Z3c[i42.2.1 Z1mf[i42.2.1 Z1mf Z1mf[i41.2.1 Z3c[i41.2.1 
+0000026 330  NP1     Dack                     Z2[i42.2.2 Z3c[i42.2.2 Z1mf[i42.2.2 Z1mf[i41.2.2 Z3c[i41.2.2 
+0000026 331  -       -                        
+0000026 340  VBDZ    was                      Z5 A3+ 
+0000026 350  VVN     found                    A10+ X2.1 X6+.1 
+0000026 360  JJ      dead                     L1- X5.2- A4.2+ A1.1.2 A1.1.1- E3+ B2- 
+0000026 370  II      at                       Z5 
+0000026 380  APPGE   his                      Z8m 
+0000026 390  NN1     house                    H1 P1/S5+c G1.1c 
+0000026 400  II      by                       Z5 
+0000026 410  APPGE   his                      Z8m 
+0000026 420  NN1     brother                  S4m S2.2m S9/S2.2m 
+0000026 421  .       .                        
+0000027 001  -----   -----                    
+0000028 010  EX      There                    Z5 
+0000028 020  VBZ     is                       A3+ Z5 
+0000028 030  RR      rarely                   N6- 
+0000028 040  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000028 050  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000028 060  II      at                       Z5 
+0000028 070  AT      the                      Z5 
+0000028 080  JJ      criminal                 G2.1- A5.1- 
+0000028 090  NN1     bar                      F2/H1c F2/H2 F2/H5 O2 O4.4 S8- G2.1c K2 
+0000028 091  .       .                        
+0000028 092  -----   -----                    
+0000028 100  AT      The                      Z5 
+0000028 110  NN1     nature                   W5 A4.1 S1.2 A6.2+ 
+0000028 120  IO      of                       Z5 
+0000028 130  APPGE   our                      Z8 
+0000028 140  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
+0000028 150  VBZ     is                       A3+ Z5 
+0000028 160  JJ      combative                E3- 
+0000028 161  ,       ,                        
+0000028 170  NN1     nit-picking              Q2.2 
+0000028 180  CC      and                      Z5 
+0000028 190  JJ      negative                 Z6 S8- A5.1- 
+0000028 191  .       .                        
+0000028 192  -----   -----                    
+0000028 200  PPIS2   We                       Z8 
+0000028 210  VV0     deal                     A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2 
+0000028 220  IW      with                     Z5 
+0000028 230  NN      people                   S2mfc 
+0000028 240  PNQS    who                      Z8 
+0000028 250  VH0     have                     A9+ Z5 A2.2 S4 
+0000028 260  JJ      immense                  N3.2++ 
+0000028 270  NN2     problems                 A12- X4.1 N2 B2- 
+0000028 280  DDQ     which                    Z8 Z5 
+0000028 290  PPIS2   we                       Z8 
+0000028 300  VV0     take                     A9+[i43.2.1 S7.3+[i43.2.1 M2[i43.2.1 I3.1[i43.2.1 A1.1.1[i43.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000028 310  RP      on                       A9+[i43.2.2 S7.3+[i43.2.2 M2[i43.2.2 I3.1[i43.2.2 A1.1.1[i43.2.2 M6 A1.1.1 
+0000028 311  .       .                        
+0000028 312  -----   -----                    
+0000028 320  CS      When                     Z5 
+0000028 330  PPIS1   I                        Z8mf 
+0000028 340  VBDZ    was                      A3+ Z5 
+0000028 350  JJ      married                  S4 A2.2 
+0000028 351  ,       ,                        
+0000028 360  PPIS1   I                        Z8mf 
+0000028 370  VVD     tended                   A6.2+ A8 S8+ X5.1+ 
+0000028 380  TO      to                       Z5 
+0000028 390  VVI     continue                 T2++ 
+0000028 400  NN1     cross-examination        Z99 
+0000028 410  II      at                       Z5 
+0000028 420  NN1     home                     H4/H1c M6 
+0000028 421  .       .                        
+0000029 001  -----   -----                    
+0000030 010  AT1     A                        Z5 
+0000030 020  JJ      clever                   X9.1+ A5.1+ 
+0000030 030  NN1     cross-examiner           Z99 
+0000030 040  VBZ     is                       Z5 A3+ 
+0000030 050  RT      sometimes                N6 
+0000030 060  VVN     compared                 A6.1 A5.1 Q3 
+0000030 070  IW      with                     Z5 
+0000030 080  AT1     a                        Z5 
+0000030 090  NN1     surgeon                  B3/S2mf 
+0000030 091  .       .                        
+0000030 092  -----   -----                    
+0000030 100  PPH1    It                       Z8 
+0000030 110  VBZ     is                       Z5 A3+ 
+0000030 120  VVN@    said                     Q2.1 
+0000030 130  AT      the                      Z5 
+0000030 140  JJT     best                     A5.1+++ G2.2+++ O4.2+++ 
+0000030 150  NN2     surgeons                 B3/S2mf 
+0000030 160  VBR     are                      A3+ Z5 
+0000030 170  AT      the                      Z5 
+0000030 180  RGT     most                     A13.2 
+0000030 190  JJ      cold-hearted             S1.2.1- 
+0000030 191  .       .                        
+0000030 192  -----   -----                    
+0000030 200  AT1     A                        Z5 
+0000030 210  JJ      tough                    S1.2.5+ E3- O4.5 A12- Z4 
+0000030 211  ,       ,                        
+0000030 220  JJ      thorough                 N5.1+ A1.3+ 
+0000030 230  CC      and                      Z5 
+0000030 240  JJ      clinical                 B3 S1.2.1- 
+0000030 250  NN1     approach                 X4.2 M1 E1 S1.1.1 
+0000030 260  II      in                       Z5 
+0000030 270  AT      the                      Z5 
+0000030 280  NN1     operating                B3/H2[i45.2.1 A1.1.1 B3 Z3c[i44.2.1 
+0000030 290  NN1     theatre                  B3/H2[i45.2.2 K4/H1 K4 B3/H2 M7 Z3c[i44.2.2 
+0000030 300  VBZ     is                       A3+ Z5 
+0000030 310  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
+0000030 320  TO      to                       Z5 
+0000030 330  VVI     replicate                A6.1+++ 
+0000030 340  II      as                       Z5 
+0000030 350  AT1     a                        Z5 
+0000030 360  JJ      professional             I3.2+ I3.1 X9.1+ A5.1+ 
+0000030 370  NN1     lawyer                   G2.1/I3.2/S2mf 
+0000030 380  II      in                       Z5 
+0000030 390  AT      the                      Z5 
+0000030 400  NN1     theatre                  K4/H1 K4 B3/H2 M7 
+0000030 410  IO      of                       Z5 
+0000030 420  AT      the                      Z5 
+0000030 430  JJ      absurd                   S1.2.6- 
+0000030 440  CST     that                     Z8 Z5 
+0000030 450  VBZ     is                       A3+ Z5 
+0000030 460  AT      the                      Z5 
+0000030 470  NN1     courtroom                G2.1/H2 
+0000030 471  .       .                        
+0000031 001  -----   -----                    
+0000032 010  DA2     Many                     N5+ 
+0000032 020  NN2     professionals            I3.2+/S2mf X9.1+/S2mf 
+0000032 030  II      like                     Z5 
+0000032 040  PPX1    myself                   Z8mf 
+0000032 050  VV0     seek                     X2.4 
+0000032 060  NN1     solace                   S8+ 
+0000032 070  II      in                       Z5 
+0000032 080  AT      the                      Z5 
+0000032 090  NN1     sauce                    F1 S1.2.4- 
+0000032 091  .       .                        
+0000032 092  -----   -----                    
+0000032 100  AT      The                      Z5 
+0000032 110  JJ      high                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000032 120  NN2     rates                    N3.8 N5 I1.3 
+0000032 130  IO      of                       Z5 
+0000032 140  NN1     suicide                  L1- 
+0000032 150  II      in                       Z5 
+0000032 160  AT      the                      Z5 
+0000032 170  NN2     professions              I3.1 
+0000032 180  VV0@    parallel                 A6.1+ T1.1.2 
+0000032 190  AT      the                      Z5 
+0000032 200  NN2     rates                    N3.8 N5 I1.3 
+0000032 210  IO      of                       Z5 
+0000032 220  NN1     alcoholism               F2/B2- 
+0000032 230  CC      and                      Z5 
+0000032 240  NN1     drug                     B3 F3 
+0000032 250  NN1     use                      A1.5.1 
+0000032 251  .       .                        
+0000032 252  -----   -----                    
+0000032 260  AT      The                      Z5 
+0000032 270  JJT     highest                  N3.7+++ N5+++ A11.1+++ S7.1+++ A5.1+++ T3--- X3.2 G2.2+++ E4.1+++ I1.3+++ O4.2--- O4.6+++ S9 
+0000032 280  NN1     rate                     N3.8 N5 I1.3 
+0000032 290  IO      of                       Z5 
+0000032 300  NN1     drug                     F3[i48.2.1 B3 F3 F3/S2mf[i47.2.1 B3/X5.2++mfn[i46.2.1 
+0000032 310  NN1     addiction                F3[i48.2.2 B2- F3/S2mf[i47.2.2 B3/X5.2++mfn[i46.2.2 
+0000032 320  VBZ     is                       A3+ Z5 
+0000032 330  II      among                    Z5 
+0000032 340  NN2     anaesthestists           Z99 
+0000032 341  ,       ,                        
+0000032 350  CC      and                      Z5 
+0000032 360  RRQ     why                      A2.2 
+0000032 370  XX      not                      Z6 
+0000032 371  ?       ?                        
+0000032 372  -----   -----                    
+0000032 380  PPHS2   They                     Z8mfn 
+0000032 390  VM      can                      A7+ 
+0000032 400  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000032 410  PPH1    it                       Z8 
+0000032 420  II      by                       Z5 
+0000032 430  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000032 440  VVG     reaching                 M1[i49.2.1 S1.1.1[i49.2.1 M1 N3.3 Q2.1 X9.2+ 
+0000032 450  RP      out                      M1[i49.2.2 S1.1.1[i49.2.2 M6 
+0000032 451  .       .                        
+0000033 001  -----   -----                    
+0000034 010  RR21    Of                       Z4[i50.2.1 
+0000034 020  RR22    course                   Z4[i50.2.2 Z4 
+0000034 021  ,       ,                        
+0000034 030  NN1     depression               E4.1- B2-/X1 I2.1/N5- O4.4 W4 
+0000034 040  VHZ     has                      A9+ Z5 A2.2 S4 
+0000034 050  AT      no                       Z6 
+0000034 060  NN1     class                    P1c A4.1 S5+c O4.2+ 
+0000034 070  NN1     barrier                  S8- A10- O2 S1.2.1- 
+0000034 071  ,       ,                        
+0000034 080  AT      no                       Z6 
+0000034 090  JJ      economic                 I1.3- I2.1 
+0000034 100  NN2     boundaries               M7 A1.7+ 
+0000034 101  ;       ;                        
+0000034 110  PPH1    it                       Z8 
+0000034 120  VM      can                      A7+ 
+0000034 130  VVI     strike                   I3.1- E3- A1.1.1 A11.2+ A8 E2+ X3.2 A9+ 
+0000034 140  NN2     barristers               G2.1/S2mf 
+0000034 150  CC      and                      Z5 
+0000034 160  VVZ     bikies                   Z99 
+0000034 170  RR      alike                    A6.1+ 
+0000034 171  .       .                        
+0000034 172  -----   -----                    
+0000034 180  PPH1    It                       Z8 
+0000034 190  VM      can                      A7+ 
+0000034 200  VBI     be                       A3+ Z5 
+0000034 210  JJ      biological               L1 B1 
+0000034 220  CC      and                      Z5 
+0000034 230  RR      perhaps                  A7 
+0000034 240  RR      even                     A13.1 
+0000034 250  JJ      hereditary               A9+/S4 
+0000034 251  .       .                        
+0000034 252  -----   -----                    
+0000034 260  PPH1    It                       Z8 
+0000034 270  VM      may                      A7+ 
+0000034 280  RR      even                     A13.1 
+0000034 290  VBI     be                       Z5 A3+ 
+0000034 300  VVN     caused                   A2.2 
+0000034 310  II      by                       Z5 
+0000034 320  NN1     marriage                 S4 
+0000034 321  .       .                        
+0000034 322  -----   -----                    
+0000034 330  AT      The                      Z5 
+0000034 340  NN1     poet                     Q4.1/S2mf 
+0000034 350  NP1     Ted                      Z1mf[i51.2.1 Z3c[i51.2.1 Z1m 
+0000034 360  NP1     Hughes                   Z1mf[i51.2.2 Z3c[i51.2.2 Z1mf 
+0000034 370  VVD     lost                     X9.2- A9- M6/A5.3- L1- 
+0000034 380  DB2     both                     N5 
+0000034 390  IO      of                       Z5 
+0000034 400  APPGE   his                      Z8m 
+0000034 410  NN2     wives                    S4f 
+0000034 420  II      to                       Z5 
+0000034 430  NN1     depression               E4.1- B2-/X1 I2.1/N5- O4.4 W4 
+0000034 440  CC      and                      Z5 
+0000034 441  ,       ,                        
+0000034 450  II      in                       N4[i52.2.1 Z5 
+0000034 460  NN1     turn                     N4[i52.2.2 N4 M1 O4.4 A2.1+ B2- K4 T1.3/I3.1 
+0000034 461  ,       ,                        
+0000034 470  APPGE   his                      Z8m 
+0000034 480  NN1     child                    S2mf/T3- S4mf 
+0000034 481  .       .                        
+0000034 482  -----   -----                    
+0000034 490  CS      If                       Z7 
+0000034 500  PPIS2   we                       Z8 
+0000034 510  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000034 511  XX      n't                      Z6 
+0000034 520  VVI     talk                     Q2.1 
+0000034 530  II      about                    Z5 
+0000034 540  PPH1    it                       Z8 
+0000034 541  ,       ,                        
+0000034 550  PPH1    it                       Z8 
+0000034 560  VM      will                     T1.1.3 
+0000034 570  RR      never                    T1/Z6 
+0000034 580  VVI     go                       M1[i53.2.1 A10-[i53.2.1 G2.1@[i53.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000034 590  RL      away                     M1[i53.2.2 A10-[i53.2.2 G2.1@[i53.2.2 M6 A1.1.1% 
+0000034 600  CC      or                       Z5 
+0000034 610  VM      will                     T1.1.3 
+0000034 620  VBI     be                       Z5 A3+ 
+0000034 630  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000034 640  II      by                       Z5 
+0000034 650  DD1     another                  A6.1- N5++ 
+0000034 660  NN1     name                     Q2.2 
+0000034 661  ,       ,                        
+0000034 670  II21    such                     Z5[i54.2.1 
+0000034 680  II22    as                       Z5[i54.2.2 Z5 
+0000034 690  NN1     alcoholism               F2/B2- 
+0000034 700  CC      or                       Z5 
+0000034 710  NN1     drug                     F3[i57.2.1 B3 F3 F3/S2mf[i56.2.1 B3/X5.2++mfn[i55.2.1 
+0000034 720  NN1     addiction                F3[i57.2.2 B2- F3/S2mf[i56.2.2 B3/X5.2++mfn[i55.2.2 
+0000034 721  .       .                        
+0000035 001  -----   -----                    
+0000036 010  PPH1    It                       Z8 
+0000036 020  VBZ     is                       A3+ Z5 
+0000036 030  RR      particularly             A13.3 A14 
+0000036 040  JJ      important                A11.1+ 
+0000036 050  CS      when                     Z5 
+0000036 060  JJ      public                   S5+ A10+ 
+0000036 070  NN2     figures                  N5 N1 B1 S2mf C1 O4.4 O2 
+0000036 080  II      like                     Z5 
+0000036 090  NP1     Paul                     Z1mf[i58.2.1 Z3c[i58.2.1 Z1m 
+0000036 100  NP1     Menzies                  Z1mf[i58.2.2 Z3c[i58.2.2 
+0000036 101  ,       ,                        
+0000036 110  NNA     QC                       G2.1/S2mf 
+0000036 111  ,       ,                        
+0000036 120  CC      and                      Z5 
+0000036 130  NP1     Geoff                    Z1mf[i59.2.1 Z3c[i59.2.1 Z1m 
+0000036 140  NP1     Gallup                   Z1mf[i59.2.2 Z3c[i59.2.2 Z3c 
+0000036 150  VV0     speak                    Q2.1 
+0000036 160  RR      openly                   A10+ 
+0000036 170  II      about                    Z5 
+0000036 180  AT      the                      Z5 
+0000036 190  JJ      black                    O4.3 G2.2- A5.1- E4.1- S5+ 
+0000036 200  NN1     dog                      L2mfn 
+0000036 201  ,       ,                        
+0000036 210  CS      because                  Z5/A2.2 
+0000036 220  RT      then                     N4 Z5 T1.2 
+0000036 230  APPGE   its                      Z8 
+0000036 240  NN1     bark                     L2/X3.2 L3/O1 
+0000036 250  VM      will                     T1.1.3 
+0000036 260  VVI     announce                 Q2.2 
+0000036 270  CC      and                      Z5 
+0000036 280  VVI     warn                     X2.2+/A15- A1.3+ 
+0000036 290  IO      of                       Z5 
+0000036 300  APPGE   its                      Z8 
+0000036 310  NN1     bite                     B1 F1 X3.1 N5+ 
+0000036 311  .       .                        
+0000036 312  -----   -----                    
+0000036 320  APPGE   My                       Z8 
+0000036 330  NN1     father                   S4m S9/S2.2m 
+0000036 340  RR      often                    N6+ 
+0000036 350  VVN     banged                   A1.1.1 X3.2 S3.2/B1 
+0000036 360  RP@     on                       M6 A1.1.1 
+0000036 370  II      about                    Z5 
+0000036 380  VVG     living                   H4 L1+ 
+0000036 390  II      through                  Z5 
+0000036 400  AT      the                      Z5 
+0000036 410  JJ      Great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000036 420  NN1     Depression               E4.1- B2-/X1 I2.1/N5- O4.4 W4 
+0000036 430  CCB     but                      Z5 
+0000036 440  VV0     let                      S7.4+ I2.2/H1 T2- 
+0000036 450  PPIO1   me                       Z8mf 
+0000036 460  VVI     tell                     Q2.2 Q2.1 X3 A10+ 
+0000036 470  PPY     you                      Z8mf 
+0000036 471  ,       ,                        
+0000036 480  EX      there                    Z5 
+0000036 481  VBZ     's                       A3+ Z5 
+0000036 490  PN1     nothing                  Z6/Z8 
+0000036 500  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000036 510  II      about                    Z5 
+0000036 520  NN1     depression               E4.1- B2-/X1 I2.1/N5- O4.4 W4 
+0000036 521  .       .                        
+0000037 001  -----   -----                    
+0000038 010  NN1     PS                       Z99 
+0000038 011  -       -                        
+0000038 020  DA2     Many                     N5+ 
+0000038 030  IO      of                       Z5 
+0000038 040  AT      the                      Z5 
+0000038 050  JJ      homeless                 H4- 
+0000038 060  II      from                     Z5 
+0000038 070  AT      the                      Z5 
+0000038 080  NN2     alcoves                  M7 
+0000038 090  IO      of                       Z5 
+0000038 100  NP1     Victoria                 Z2[i60.2.1 Z1f Z2 Z1mf[i61.2.1 Z3c[i61.2.1 
+0000038 110  NNL1    Street                   Z2[i63.3.1 Z2[i62.3.1 Z2 Z2[i60.2.2 Z1mf[i61.2.2 Z3c[i61.2.2 
+0000038 120  II      in                       Z2[i63.3.2 Z2[i62.3.2 Z5 
+0000038 130  NP1     Darlinghurst             Z2[i63.3.3 Z2[i62.3.3 
+0000038 140  CC      and                      Z5 
+0000038 150  AT      the                      Z5 
+0000038 160  NN1     courthouse               H1/G2.1 
+0000038 170  NN2     verandas                 H2 
+0000038 180  IO      of                       Z5 
+0000038 190  AT      the                      Z5 
+0000038 200  NP1     Downing                  Z3c[i65.3.1 Z2[i64.2.1 Z1mf[i66.2.1 Z3c[i66.2.1 
+0000038 210  NNL1    Street                   Z3c[i65.3.2 Z2 Z2[i64.2.2 Z1mf[i66.2.2 Z3c[i66.2.2 Z2c[i67.2.1 Z3c[i67.2.1 
+0000038 220  NN1     centre                   Z3c[i65.3.3 M6 H1c M7c G1.2c K5.1mfn Z2c[i67.2.2 Z3c[i67.2.2 
+0000038 230  CC      and                      Z5 
+0000038 240  NP1     King                     Z2[i68.2.1 Z1mf[i69.2.1 Z3c[i69.2.1 
+0000038 250  NNL1    Street                   Z2[i68.2.2 Z2 Z1mf[i69.2.2 Z3c[i69.2.2 Z3c[i70.2.1 Z2[i70.2.1 
+0000038 260  NN1     court                    G2.1 H3 M7/K5.2 Z3c[i70.2.2 Z2[i70.2.2 
+0000038 270  VM      will                     T1.1.3 
+0000038 280  VVI     feel                     X2.1 E1 X3 
+0000038 290  AT      the                      Z5 
+0000038 300  NN1     pinch                    E3- N5- A12- 
+0000038 310  IW      with                     Z5 
+0000038 320  AT      the                      Z5 
+0000038 330  NN1     passing                  M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
+0000038 340  IO      of                       Z5 
+0000038 350  NP1     Steve                    Z1mf 
+0000038 351  .       .                        
+0000038 352  -----   -----                    
+0000038 360  AT1     Every                    N5.1+ 
+0000038 370  JJ      homeless                 H4- 
+0000038 380  NN1     hobo                     Z99 
+0000038 390  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000038 400  PPHO1   him                      Z8m 
+0000038 410  II      by                       Z5 
+0000038 420  NN1     name                     Q2.2 
+0000038 430  CC      and                      Z5 
+0000038 440  PPHS1   he                       Z8m 
+0000038 450  RR      never                    T1/Z6 
+0000038 460  VVD     missed                   A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3- 
+0000038 470  PPHO2   them                     Z8mfn 
+0000038 471  ,       ,                        
+0000038 480  XX      not                      Z6 
+0000038 490  IW      with                     Z5 
+0000038 500  NN2     coins                    I1 
+0000038 510  CCB     but                      Z5 
+0000038 520  IW      with                     Z5 
+0000038 530  MC2     tens                     N1 
+0000038 540  CC      and                      Z5 
+0000038 550  MC2     twenties                 T3 T1.3 N1 
+0000038 560  VVD     crushed                  A1.1.2 A1.1.1 X9.2+/G3 S7.1+ E4.1- 
+0000038 570  II      into                     Z5 
+0000038 580  AT1     a                        Z5 
+0000038 590  NN1     ball                     O2/O4.4 K5.1 B1 K1 
+0000038 600  CC      and                      Z5 
+0000038 610  VVD     palmed                   A10- 
+0000038 620  II      to                       Z5 
+0000038 630  PPHO2   them                     Z8mfn 
+0000038 640  RR      quietly                  X3.2- E3+ A10- A1.1.1/N5- 
+0000038 641  ,       ,                        
+0000038 650  IW      with                     Z5 
+0000038 660  NN1     dignity                  S7.2+ 
+0000038 661  .       .                        
+0000038 662  -----   -----                    
+0000038 670  PPHS1   He                       Z8m 
+0000038 680  VVD     understood               X2.5+ 
+0000038 690  CS      where                    M6 
+0000038 700  PPHS2   they                     Z8mfn 
+0000038 710  VBDR    were                     Z5 A3+ 
+0000038 720  VVG     coming                   M6[i71.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000038 730  II      from                     M6[i71.2.2 Z5 
+0000038 731  .       .                        
+0000039 001  -----   -----                    
+0000040 010  IF      For                      Z5 
+0000040 020  NN1     help                     S8+ 
+0000040 030  CC      and                      Z5 
+0000040 040  NN1     information              X2.2+ 
+0000040 041  :       :                        
+0000040 050  NN1     Lifeline                 S8+ M4 B1@ 
+0000040 060  MC      13                       T1.3[i73.3.1 T1.2[i73.3.1 N1[i73.3.1 I1[i73.3.1 N1 T1.2 T3 T1.3 N3.2 N1[i72.2.1 T3[i72.2.1 T1.2[i72.2.1 T1.3[i72.2.1 N3.3[i72.2.1 N3.5[i72.2.1 I1[i72.2.1 N1[i74.3.1 T1.3[i74.3.1 I1[i74.3.1 
+0000040 070  MC      11                       T1.3[i73.3.2 T1.2[i73.3.2 N1[i73.3.2 I1[i73.3.2 N1 T1.2 T3 T1.3 N3.2 N1[i72.2.2 T3[i72.2.2 T1.2[i72.2.2 T1.3[i72.2.2 N3.3[i72.2.2 N3.5[i72.2.2 I1[i72.2.2 N1[i74.3.2 T1.3[i74.3.2 I1[i74.3.2 N1[i75.2.1 T3[i75.2.1 T1.2[i75.2.1 T1.3[i75.2.1 N3.3[i75.2.1 N3.5[i75.2.1 I1[i75.2.1 
+0000040 080  MC      14                       T1.2[i73.3.3 N1[i73.3.3 I1[i73.3.3 T1.3[i73.3.3 N1 T1.2 T3 T1.3 N3.2 N1[i74.3.3 T1.3[i74.3.3 I1[i74.3.3 N1[i75.2.2 T3[i75.2.2 T1.2[i75.2.2 T1.3[i75.2.2 N3.3[i75.2.2 N3.5[i75.2.2 I1[i75.2.2 
+0000040 090  CC      or                       Z5 
+0000040 100  NNU     www.lifeline.org.au      Z99 
+0000042 010  NN1     Beyondblue               Z99 
+0000042 020  MC      1300                     T1.3[i77.3.1 T1.2[i77.3.1 N1[i77.3.1 I1[i77.3.1 N1 T1.2 T3 T1.3 N3.2 N1[i76.2.1 T3[i76.2.1 T1.2[i76.2.1 T1.3[i76.2.1 N3.3[i76.2.1 N3.5[i76.2.1 I1[i76.2.1 N1[i78.3.1 T1.3[i78.3.1 I1[i78.3.1 
+0000042 030  MC      224                      T1.3[i77.3.2 T1.2[i77.3.2 N1[i77.3.2 I1[i77.3.2 N1 T1.2 T3 T1.3 N3.2 N1[i76.2.2 T3[i76.2.2 T1.2[i76.2.2 T1.3[i76.2.2 N3.3[i76.2.2 N3.5[i76.2.2 I1[i76.2.2 N1[i78.3.2 T1.3[i78.3.2 I1[i78.3.2 N1[i79.2.1 T3[i79.2.1 T1.2[i79.2.1 T1.3[i79.2.1 N3.3[i79.2.1 N3.5[i79.2.1 I1[i79.2.1 
+0000042 040  MC      636                      T1.2[i77.3.3 N1[i77.3.3 I1[i77.3.3 T1.3[i77.3.3 N1 T1.2 T3 T1.3 N3.2 N1[i78.3.3 T1.3[i78.3.3 I1[i78.3.3 N1[i79.2.2 T3[i79.2.2 T1.2[i79.2.2 T1.3[i79.2.2 N3.3[i79.2.2 N3.5[i79.2.2 I1[i79.2.2 
+0000042 050  CC      or                       Z5 
+0000042 060  NNU     www.beyondblue.org.au    Z99 
+0000045 001  NULL    **8;7;text               

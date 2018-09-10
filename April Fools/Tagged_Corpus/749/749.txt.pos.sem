@@ -1,0 +1,654 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  RG21    Up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
+0000002 020  RG22    to                       Z5 M6 
+0000002 030  DB      half                     N5 
+0000002 040  IO      of                       Z5 
+0000002 050  DB      all                      N5.1+ 
+0000002 060  JJ      junior                   S7.1-- T3-- 
+0000002 070  NN2     doctors                  B3/I3.2/S2mf P1/S2mf 
+0000002 080  VBR     are                      Z5 A3+ 
+0000002 090  VBG     being                    Z5 A3+ 
+0000002 100  VVN@    pressured                S7.1+ E6- 
+0000002 110  TO@     to                       Z5 
+0000002 120  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000002 130  NN2     scores                   K5 A5.1 N3.1 O2 K2 X4.1 N5% 
+0000002 140  IO      of                       Z5 
+0000002 150  JJ      unpaid                   I1.1- 
+0000002 160  JJ      extra                    N5++ 
+0000002 170  NNT2    hours                    T1.3 
+0000002 180  IW      with                     Z5 
+0000002 190  DA2     many                     N5+ 
+0000002 200  NN1     warning                  X2.2+/A15- A1.3+ 
+0000002 210  CST     that                     Z5 Z8 
+0000002 220  AT      the                      Z5 
+0000002 230  NN1     practice                 A1.1.1 I3.1/S5+c 
+0000002 240  VVZ     puts                     M2 Q2.1 Q2.2 A1.1.1 
+0000002 250  NP1     NHS                      Z3c 
+0000002 260  NN2     patients                 B2-/S2mf 
+0000002 270  II      at                       A15-[i1.2.1 Z5 
+0000002 280  NN1     risk                     A15-[i1.2.2 A15- A1.4 
+0000002 281  ,       ,                        
+0000002 290  AT      the                      Z5 
+0000002 300  JJ      British                  Z3c[i2.3.1 Z2 Z2/S2mfnc 
+0000002 310  JJ      Medical                  Z3c[i2.3.2 B3 
+0000002 320  NN1     Association              Z3c[i2.3.3 S5+c A6.1+/X2.1 
+0000002 330  NN2     claims                   Q2.2 A9+ G2.1 
+0000002 331  .       .                        
+0000003 001  -----   -----                    
+0000004 010  JJ      Large                    N3.2+ N5+ A11.1+ 
+0000004 020  NN2     numbers                  N5 N1 Q1.3 K2 Q4.2 
+0000004 030  IO      of                       Z5 
+0000004 040  AT      the                      Z5 
+0000004 050  NN2     doctors                  B3/I3.2/S2mf P1/S2mf 
+0000004 060  VV0     believe                  X2.1 S9% 
+0000004 070  CST     that                     Z5 Z8 
+0000004 080  APPGE   their                    Z8 
+0000004 090  NN2     careers                  I3.1 
+0000004 100  VM      would                    A7+ 
+0000004 110  VBI     be                       A3+ Z5 
+0000004 120  II      on                       Z5 
+0000004 130  AT      the                      Z5 
+0000004 140  NN1     line                     O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000004 150  CS      if                       Z7 
+0000004 160  PPHS2   they                     Z8mfn 
+0000004 170  VVD     tried                    X8+ X2.4 Q2.2 G2.1 A12- 
+0000004 180  TO      to                       Z5 
+0000004 190  VVI     resist                   S8- 
+0000004 200  AT      the                      Z5 
+0000004 210  JJ      extra                    N5++ 
+0000004 211  NULL    <quote>                  
+0000004 212  -----   -----                    
+0000004 213  "       "                        
+0000004 220  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000004 221  "       "                        
+0000004 222  NULL    </quote>                 
+0000004 223  -----   -----                    
+0000004 230  NNT2    hours                    T1.3 
+0000004 231  ,       ,                        
+0000004 240  CC      and                      Z5 
+0000004 250  RR      so                       Z5 A13.3 
+0000004 260  VBR     are                      A3+ Z5 
+0000004 270  JJ      scared                   E5- E6- 
+0000004 280  TO      to                       Z5 
+0000004 290  VVI     speak                    Q2.1[i3.2.1 Q2.1 
+0000004 300  RP      out                      Q2.1[i3.2.2 M6 
+0000004 301  .       .                        
+0000005 001  -----   -----                    
+0000006 010  JJ      Medical                  B3 
+0000006 020  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000006 030  VV0     warn                     X2.2+/A15- A1.3+ 
+0000006 040  CST     that                     Z5 Z8 
+0000006 050  AT      the                      Z5 
+0000006 060  NN1     problem                  A12- X4.1 N2 B2- 
+0000006 070  VBZ     is                       A3+ Z5 
+0000006 080  II      on                       N5+/A2.1[i4.3.1 Z5 
+0000006 090  AT      the                      N5+/A2.1[i4.3.2 Z5 
+0000006 100  NN1     increase                 N5+/A2.1[i4.3.3 N5+/A2.1 
+0000006 110  CSA     as                       Z5 
+0000006 120  NN2     hospitals                B3/H1c 
+0000006 130  VV0     prepare                  A1.1.1 F1 
+0000006 140  IF      for                      Z5 
+0000006 150  AT      the                      Z5 
+0000006 160  JJ      European                 Z3 
+0000006 170  NN1     Working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 M7/I4@ 
+0000006 180  NNT2    Hours                    T1.3 
+0000006 190  NN1     Directive                S7.1+ 
+0000006 200  DDQ     which                    Z8 Z5 
+0000006 210  VM      will                     T1.1.3 
+0000006 220  VVI     reduce                   N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000006 230  AT      the                      Z5 
+0000006 240  JJ      official                 G1.1 S7.4+ 
+0000006 250  JJ@     working                  I3.1 A1.1.1 X9.2+ 
+0000006 260  NNT1    week                     T1.3 
+0000006 270  II      to                       Z5 
+0000006 280  MC      48                       N1 T1.2 T3 T1.3 N3.2 
+0000006 290  NNT2    hours                    T1.3 
+0000006 300  II      by                       Z5 
+0000006 310  NPM1    August                   T1.3[i5.2.1 T1.3 
+0000006 320  MC      2009                     T1.3[i5.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000006 321  .       .                        
+0000006 322  -----   -----                    
+0000006 330  AT      The                      Z5 
+0000006 340  NP1     BMA                      Z99 
+0000006 350  RT      yesterday                T1.1.1 
+0000006 360  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000006 370  IF      for                      Z5 
+0000006 380  AT1     an                       Z5 
+0000006 390  JJ      urgent                   A11.1+ 
+0000006 400  NN1     review                   X2.4 Q4 
+0000006 410  IO      of                       Z5 
+0000006 420  AT      the                      Z5 
+0000006 430  NN1     training                 P1 K5.1 
+0000006 440  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000006 450  TO      to                       Z5 
+0000006 460  VVI     ensure                   A7+ 
+0000006 470  AT      the                      Z5 
+0000006 480  NN1     quality                  A5.1 A5.1+ O4.1 
+0000006 490  IO      of                       Z5 
+0000006 500  NN1     patient                  B2-/S2mf 
+0000006 510  NN1     care                     S8+ G1.1/S8+ B3 A1.3 E6- 
+0000006 520  VBZ     is                       Z5 A3+ 
+0000006 530  XX      not                      Z6 
+0000006 540  RRR     further                  N5++ N3.3++ T2++ 
+0000006 550  VVN     jeopardized              A15- 
+0000006 551  .       .                        
+0000007 001  -----   -----                    
+0000008 010  NN2     Doctors                  B3/I3.2/S2mf P1/S2mf 
+0000008 020  VBR     are                      Z5 A3+ 
+0000008 030  RR      regularly                N6+ 
+0000008 040  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000008 050  MCMC    20-30                    N1 T1.2 T3 T1.3 N3.2 
+0000008 060  JJ      extra                    N5++ 
+0000008 070  NNT2    hours                    T1.3 
+0000008 080  AT1     a                        Z5 
+0000008 090  NNT1    week                     T1.3 
+0000008 100  RR      frequently               N6+ 
+0000008 110  IF      for                      Z5 
+0000008 120  AT      no                       Z6 
+0000008 130  NN1     pay                      I1.1/I3.1 
+0000008 140  II31    on                       M6[i6.3.1 N5++[i6.3.1 X2.2+[i6.3.1 Z5 Z5[i7.3.1 
+0000008 150  II32    top                      M6[i6.3.2 N5++[i6.3.2 X2.2+[i6.3.2 Z5[i7.3.2 
+0000008 160  II33    of                       M6[i6.3.3 N5++[i6.3.3 X2.2+[i6.3.3 Z5[i7.3.3 
+0000008 170  APPGE   their                    Z8 
+0000008 180  JJ@     contracted               Q2.2 N3.2-/A2.1 A9+ I2.1 
+0000008 190  MC      56                       N1 T1.2 T3 T1.3 N3.2 
+0000008 200  NNT2    hours                    T1.3 
+0000008 201  ,       ,                        
+0000008 210  II21    according                Z5[i8.2.1 Z5 
+0000008 220  II22    to                       Z5[i8.2.2 Z5 
+0000008 230  NN1     research                 X2.4 
+0000008 240  TO      to                       Z5 
+0000008 250  VBI     be                       Z5 A3+ 
+0000008 260  VVN     published                Q4 
+0000008 270  II      by                       Z5 
+0000008 280  AT      the                      Z5 
+0000008 290  NP1     BMA                      Z99 
+0000008 300  DD1     this                     M6 Z5 Z8 
+0000008 310  NNT1    week                     T1.3 
+0000008 311  .       .                        
+0000008 312  -----   -----                    
+0000008 320  RR      Nearly                   A13.4 
+0000008 330  AT1     a                        Z5 
+0000008 340  MD      third                    N4 N5 N1 
+0000008 350  VVD     reported                 Q2.2 S7.1- 
+0000008 360  VVG     treating                 S1.1.1 A9- X4.2 X2.1 B3 A1.1.1 
+0000008 370  JJ      urgent                   A11.1+ 
+0000008 380  NN2     patients                 B2-/S2mf 
+0000008 390  II      during                   Z5 
+0000008 400  APPGE   their                    Z8 
+0000008 410  NNT1    time                     K1/T1.3[i9.2.1 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000008 420  RP      off                      K1/T1.3[i9.2.2 M6 K1 A1.1.1 A1.9 
+0000008 421  ,       ,                        
+0000008 430  CS      while                    Z5 
+0000008 440  MC      two                      N1[i10.2.1 N1 T3 T1.2 
+0000008 450  MF      fifths                   N1[i10.2.2 N1 
+0000008 460  VHD     had                      Z5 A9+ A2.2 S4 
+0000008 470  VVN     attended                 S1.1.3+ X5.1+ 
+0000008 480  NN1     training                 P1 K5.1 
+0000008 490  II      in                       Z5 
+0000008 500  APPGE   their                    Z8[i11.2.1 Z8 
+0000008 510  DA      own                      Z8[i11.2.2 A9+ S5- 
+0000008 520  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000008 530  CS      because                  Z5/A2.2 
+0000008 540  NN2     rotas                    Q1.2/N4 
+0000008 550  VBDR    were                     Z5 A3+ 
+0000008 560  RR      so                       Z5 A13.3 
+0000008 570  VVN     stretched                N3.6 M1 N3.7+/A2.1 A4.2-/A2.1 T1.3 A12- A2.1+ X8+ 
+0000008 571  .       .                        
+0000009 001  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  NN2     findings                 A10+ X2.1 X6+ 
+0000010 030  VV0     come                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000010 040  II      after                    Z5 
+0000010 050  AT      The                      Z5 
+0000010 060  NN1     Independent              Z2[i12.3.1 Z3c 
+0000010 070  II      on                       Z2[i12.3.2 Z5 
+0000010 080  NPD1    Sunday                   Z2[i12.3.3 T1.3 
+0000010 090  MD      first                    N4 
+0000010 100  VVD     reported                 Q2.2 S7.1- 
+0000010 110  AT      the                      Z5 
+0000010 120  JJ      national                 M7/N5-[i13.2.1 M7/N5.1+ 
+0000010 130  NN1     shortage                 M7/N5-[i13.2.2 N5- 
+0000010 140  IO      of                       Z5 
+0000010 150  JJ      junior                   S7.1-- T3-- 
+0000010 160  NN2     doctors                  B3/I3.2/S2mf P1/S2mf 
+0000010 170  VVG     resulting                A2.2 
+0000010 180  II      from                     Z5 
+0000010 190  AT1     a                        Z5 
+0000010 200  JJ      new                      T3- 
+0000010 210  NN1     recruitment              I3.1/A9+ 
+0000010 220  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000010 221  .       .                        
+0000012 001  NULL    <quote>                  
+0000012 002  -----   -----                    
+0000012 003  "       "                        
+0000012 010  PPIS2   We                       Z8 
+0000012 020  VBR     are                      Z5 A3+ 
+0000012 030  VVG     hearing                  X3.2 X2.3+ G2.1@ 
+0000012 040  II      from                     Z5 
+0000012 050  PN      lots                     N5+ 
+0000012 060  IO      of                       Z5 
+0000012 070  NN2     juniors                  T3--/S2mf S7.1--/S2mf G2.1/S2mf 
+0000012 080  VBG     being                    Z5 A3+ 
+0000012 090  VVN     bullied                  E3- 
+0000012 100  II      by                       Z5 
+0000012 110  APPGE   their                    Z8 
+0000012 120  NN2     trusts                   I1.1 S5+ B3/H1c 
+0000012 121  ,       ,                        
+0000012 122  "       "                        
+0000012 123  NULL    </quote>                 
+0000012 124  -----   -----                    
+0000012 130  VVD     said                     Q2.1 
+0000012 140  NNB     Mr                       Z1m[i17.3.1 S2.2m Z1m[i15.3.1 Z1m[i14.2.1 Z1m[i16.2.1 
+0000012 150  NP1     Andrew                   Z1m[i17.3.2 Z1m Z1m[i15.3.2 Z1m[i14.2.2 Z1m[i16.2.2 Z1mf[i18.2.1 Z3c[i18.2.1 
+0000012 160  NP1     O'Brien                  Z1m[i17.3.3 Z1 Z1m[i15.3.3 Z1mf[i18.2.2 Z3c[i18.2.2 
+0000012 161  ,       ,                        
+0000012 170  NN1     deputy                   S7.1-/S2mf 
+0000012 180  NN1     chairman                 S7.1+/S2mf 
+0000012 190  IO      of                       Z5 
+0000012 200  AT      the                      Z5 
+0000012 210  NP1     BMA                      Z3c[i19.2.1 Z1mf[i19.2.1 
+0000012 220  JJ      Junior                   Z3c[i19.2.2 Z1mf[i19.2.2 S7.1-- T3-- 
+0000012 230  NN2     Doctors                  B3/I3.2/S2mf P1/S2mf 
+0000012 240  NN1     Committee                S7.1+/S5+c 
+0000012 241  .       .                        
+0000012 242  -----   -----                    
+0000012 250  NN2     Doctors                  B3/I3.2/S2mf P1/S2mf 
+0000012 260  VV0     say                      Q2.1 Z4% 
+0000012 270  JJ      implicit                 A10- 
+0000012 280  CC      and                      Z5 
+0000012 290  II      in                       Z4[i20.3.1 Z5 
+0000012 300  DD      some                     Z4[i20.3.2 N5 Z5 
+0000012 310  NN2     cases                    Z4[i20.3.3 A4.1 O2 G2.1 B3 X4.1 Q3 
+0000012 320  JJ      explicit                 A4.2+ 
+0000012 330  NN2     threats                  E3-/Q2.2 A15- X2.6+/O4.2- A7+ 
+0000012 340  TO      to                       Z5 
+0000012 350  VVI     block                    A10- S8- K4% 
+0000012 360  APPGE   their                    Z8 
+0000012 370  NN2     careers                  I3.1 
+0000012 380  VBR     are                      Z5 A3+ 
+0000012 390  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000012 391  .       .                        
+0000013 001  -----   -----                    
+0000014 010  AT      The                      Z5 
+0000014 020  NN1     problem                  A12- X4.1 N2 B2- 
+0000014 030  VBZ     is                       A3+ Z5 
+0000014 040  JJ      two-fold                 Z99 
+0000014 041  .       .                        
+0000014 042  -----   -----                    
+0000014 050  NN2     Hospitals                B3/H1c 
+0000014 060  VBR     are                      Z5 A3+ 
+0000014 070  RR      already                  T1.1.1 
+0000014 080  VVG     struggling               X8+ A12- E3- 
+0000014 090  TO      to                       Z5 
+0000014 100  VVI     fill                     N5.1+ I3.1 Q1.2@ 
+0000014 110  NN2     posts                    Q1.2 O2 I3.1 M6 
+0000014 120  CS      because                  Z5/A2.2 
+0000014 130  DAR     fewer                    N5-- 
+0000014 140  JJ      junior                   S7.1-- T3-- 
+0000014 150  NN2     doctors                  B3/I3.2/S2mf P1/S2mf 
+0000014 160  VM      will                     T1.1.3 
+0000014 170  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000014 180  JJ      short-term               T1.3- 
+0000014 190  NN2     jobs                     I3.1 A1.1.1 
+0000014 200  II      as                       Z5 
+0000014 210  AT1     a                        Z5 
+0000014 220  NN1     result                   A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
+0000014 230  IO      of                       Z5 
+0000014 240  AT1     an                       Z5 
+0000014 250  JJ      unpopular                E2- 
+0000014 260  JJ      new                      T3- 
+0000014 270  NN1     recruitment              I3.1/A9+ 
+0000014 280  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000014 281  .       .                        
+0000015 001  -----   -----                    
+0000016 010  NN2     Gaps                     N3.3 T1.3 A6.1- A9- 
+0000016 020  VBR     are                      Z5 A3+ 
+0000016 030  RR      increasingly             A13.3 
+0000016 040  VVN     filled                   N5.1+ I3.1 Q1.2@ 
+0000016 050  II      by                       Z5 
+0000016 060  JJ@     overstretched            A1.1.1/N5.2+ 
+0000016 070  NN      staff                    I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 
+0000016 080  II21    rather                   Z5[i22.2.1 Z5[i21.2.1 
+0000016 090  II22    than                     Z5[i22.2.2 Z5[i21.2.2 
+0000016 100  JJ      temporary                T1.3 
+0000016 110  NN2     locums                   Z99 
+0000016 111  .       .                        
+0000016 112  -----   -----                    
+0000016 120  II      At                       T1.1.2[i23.4.1 Z5 
+0000016 130  AT      the                      T1.1.2[i23.4.2 Z5 
+0000016 140  DA      same                     T1.1.2[i23.4.3 A6.1+++ 
+0000016 150  NNT1    time                     T1.1.2[i23.4.4 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000016 151  ,       ,                        
+0000016 160  NN2     hospitals                B3/H1c 
+0000016 170  VV0     need                     S6+ 
+0000016 180  TO      to                       Z5 
+0000016 190  VVI     employ                   I3.1 A1.5.1 
+0000016 200  DAR     more                     N5++ 
+0000016 210  NN2     doctors                  B3/I3.2/S2mf P1/S2mf 
+0000016 220  TO      to                       Z5 
+0000016 230  VVI     reduce                   N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000016 240  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
+0000016 250  NN2     loads                    N5+ 
+0000016 260  II      by                       Z5 
+0000016 270  MC      eight                    N6[i24.4.1 N1 T1.2 T3 T1.3 N3.2 
+0000016 280  NNT2    hours                    N6[i24.4.2 T1.3 
+0000016 290  AT1     a                        N6[i24.4.3 Z5 
+0000016 300  NNT1    week                     N6[i24.4.4 T1.3 
+0000016 301  .       .                        
+0000016 302  -----   -----                    
+0000016 310  AT      The                      Z5 
+0000016 320  NN1     result                   A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
+0000016 330  VBZ     is                       A3+ Z5 
+0000016 340  NNO2    hundreds                 N5+ 
+0000016 350  IO      of                       Z5 
+0000016 360  NN2     juniors                  T3--/S2mf S7.1--/S2mf G2.1/S2mf 
+0000016 370  VBG     being                    Z5 A3+ 
+0000016 380  VVN@    pressured                S7.1+ E6- 
+0000016 390  II      into                     Z5 
+0000016 400  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000016 401  NULL    <quote>                  
+0000016 402  -----   -----                    
+0000016 403  "       "                        
+0000016 410  VVN     hidden                   A10- 
+0000016 411  "       "                        
+0000016 412  NULL    </quote>                 
+0000016 413  -----   -----                    
+0000016 420  NNT2    hours                    T1.3 
+0000016 430  CS      because                  Z5/A2.2 
+0000016 440  NN2     hospitals                B3/H1c 
+0000016 450  VV0     face                     M6 S1.1.1 X2.1 B5 
+0000016 460  JJ      financial                I1 
+0000016 470  NN2     punishments              G2.1 
+0000016 480  CS      if                       Z7 
+0000016 490  NN2     doctors                  B3/I3.2/S2mf P1/S2mf 
+0000016 500  VV0@    report                   Q2.2 S7.1- 
+0000016 510  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000016 520  DAR     more                     N5++ 
+0000016 530  NNT2    hours                    T1.3 
+0000016 540  CSN     than                     Z5 
+0000016 550  PPHS2   they                     Z8mfn 
+0000016 560  VM      should                   S6+ A7+ 
+0000016 561  .       .                        
+0000017 001  -----   -----                    
+0000018 010  NNB     Dr                       Z1mf[i26.2.1 B3/S2mf P1/S2mf Z1mf[i25.2.1 
+0000018 020  NP1     Andy                     Z1mf[i26.2.2 Z1m Z1mf[i25.2.2 Z1mf[i27.2.1 Z3c[i27.2.1 
+0000018 030  NP1     Thornley                 Z99 Z1mf[i27.2.2 Z3c[i27.2.2 
+0000018 031  ,       ,                        
+0000018 040  MC      32                       N1 T1.2 T3 T1.3 N3.2 
+0000018 041  ,       ,                        
+0000018 050  PNQS    who                      Z8 
+0000018 060  RR      recently                 T3--- 
+0000018 070  VVN     finished                 T2- A1.5.1/N5.1+ A1.1.1 X9.2- 
+0000018 080  AT1     a                        Z5 
+0000018 090  JJ      six-month                T1.3 
+0000018 100  NN1     post                     Q1.2 O2 I3.1 M6 
+0000018 110  II      at                       Z5 
+0000018 120  AT      the                      Z5 
+0000018 130  NN1     University               Z3c[i29.2.1 P1/H1c B3/P1c[i28.2.1 
+0000018 140  NN1     Hospital                 Z3c[i29.2.2 B3/H1c B3/P1c[i28.2.2 
+0000018 150  IO      of                       Z5 
+0000018 160  ND1     North                    Z2[i30.2.1 M6 
+0000018 170  NP1     Durham                   Z2[i30.2.2 Z2 Z1mf 
+0000018 171  ,       ,                        
+0000018 180  VBDZ    was                      A3+ Z5 
+0000018 190  MC1     one                      N1 T3 T1.2 
+0000018 200  IO      of                       Z5 
+0000018 210  MC      six                      N1 T3 T1.2 
+0000018 220  NN2     doctors                  B3/I3.2/S2mf P1/S2mf 
+0000018 230  VVD     left                     M1 M2 A1.1.1 A1.9 A9- T2- 
+0000018 240  VVG     covering                 A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1 
+0000018 250  AT1     a                        Z5 
+0000018 260  JJ      10-person                Z99 
+0000018 270  NN1     rota                     Q1.2/N4 
+0000018 280  CS      when                     Z5 
+0000018 290  AT      the                      Z5 
+0000018 300  NN1     trust                    E6+ I1.1 S5+c B3/H1c 
+0000018 310  VBDZ    was                      A3+ Z5 
+0000018 320  JK      unable                   X9.1- 
+0000018 330  TO      to                       Z5 
+0000018 340  VVI     fill                     N5.1+ I3.1 Q1.2@ 
+0000018 350  AT      the                      Z5 
+0000018 360  NN2     posts                    Q1.2 O2 I3.1 M6 
+0000018 361  .       .                        
+0000018 362  NULL    <quote>                  
+0000018 363  -----   -----                    
+0000018 364  "       "                        
+0000018 370  PPY     You                      Z8mf 
+0000018 380  VV0     feel                     X2.1 E1 X3 
+0000018 390  RR      morally                  G2.2 
+0000018 400  VVN     obliged                  S6+ S8+ 
+0000018 410  TO      to                       Z5 
+0000018 420  VVI     make                     A7+[i31.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000018 430  JJ      sure                     A7+[i31.2.2 A7+ Z4 
+0000018 440  AT      the                      Z5 
+0000018 450  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000018 460  VBZ     is                       Z5 A3+ 
+0000018 470  VVN     covered                  A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1 
+0000018 480  CC      and                      Z5 
+0000018 490  NN2     patients                 B2-/S2mf 
+0000018 500  VBR     are                      A3+ Z5 
+0000018 510  JJ      safe                     A15+ A7+ 
+0000018 511  .       .                        
+0000018 512  -----   -----                    
+0000018 520  CCB     But                      Z5 
+0000018 530  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000018 540  JJ      extra                    N5++ 
+0000018 550  NNT2    hours                    T1.3 
+0000018 551  ,       ,                        
+0000018 560  RR      especially               A14 
+0000018 570  DAR     more                     N5++ 
+0000018 580  NNT2    nights                   T1.3 
+0000018 581  ,       ,                        
+0000018 590  VVZ     affects                  A2.1+ A5.4-/A8 
+0000018 600  RGQ@    how                      Z5 A13.3 
+0000018 610  DA1     much                     N5+ I1.3+ 
+0000018 620  NN1     training                 P1 K5.1 
+0000018 630  CC      and                      Z5 
+0000018 640  NN1     supervision              S7.1+ P1@ 
+0000018 650  PPY     you                      Z8mf 
+0000018 660  VV0     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000018 661  ,       ,                        
+0000018 662  "       "                        
+0000018 663  NULL    </quote>                 
+0000018 664  -----   -----                    
+0000018 670  PPHS1   he                       Z8m 
+0000018 680  VVD     said                     Q2.1 
+0000018 681  .       .                        
+0000019 001  -----   -----                    
+0000020 010  MC1     One                      N1 T3 T1.2 
+0000020 020  NN1     trainee                  P1/S2mf 
+0000020 030  NN1     surgeon                  B3/S2mf 
+0000020 040  II      at                       Z5 
+0000020 050  AT1     a                        Z5 
+0000020 060  JJ      large                    N3.2+ N5+ A11.1+ 
+0000020 070  NN1     teaching                 B3/P1c[i32.2.1 P1 X4.1 
+0000020 080  NN1     hospital                 B3/P1c[i32.2.2 B3/H1c 
+0000020 081  ,       ,                        
+0000020 090  PNQS    who                      Z8 
+0000020 100  VVD     asked                    Q2.2 
+0000020 110  TO      to                       Z5 
+0000020 120  VVI     remain                   T2++ M8 N5.2+ 
+0000020 130  JJ      anonymous                A10- 
+0000020 131  ,       ,                        
+0000020 140  VBDZ    was                      Z5 A3+ 
+0000020 150  RR      also                     N5++ 
+0000020 160  VVN     warned                   X2.2+/A15- A1.3+ 
+0000020 170  CS      after                    Z5 
+0000020 180  PPHS1   he                       Z8m 
+0000020 190  VVD     protested                Q2.2 A10+ G1.2 
+0000020 191  .       .                        
+0000020 192  NULL    <quote>                  
+0000020 193  -----   -----                    
+0000020 194  "       "                        
+0000020 200  PPIS1   I                        Z8mf 
+0000020 210  VBDZ    was                      Z5 A3+ 
+0000020 220  VVN     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000020 230  AT      the                      Z5 
+0000020 240  NN1     trust                    E6+ I1.1 S5+c B3/H1c 
+0000020 250  VBDZ    was                      A3+ Z5 
+0000020 260  JJ      'troubled'               Z99 
+0000020 270  II      by                       Z5 
+0000020 280  NN      staff                    I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 
+0000020 290  VVG     trying                   X8+ X2.4 Q2.2 G2.1 A12- 
+0000020 300  TO      to                       Z5 
+0000020 310  VVI     highlight                X5.1+ 
+0000020 320  CC      and                      Z5 
+0000020 330  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000020 340  VVN     paid                     I1.2 A9- I1.1/I3.1 
+0000020 350  IF      for                      Z5 
+0000020 360  DD2     these                    Z5 Z8 
+0000020 370  JJ      extra                    N5++ 
+0000020 380  NNT2    hours                    T1.3 
+0000020 381  .       .                        
+0000020 382  -----   -----                    
+0000020 390  PPH1    It                       Z8 
+0000020 400  VBDZ    was                      Z5 A3+ 
+0000020 410  RR      strongly                 A13.3 A5.1+ 
+0000020 420  VVN     suggested                Q2.2 Q1.1 
+0000020 430  APPGE   my                       Z8 
+0000020 440  NN1     progression              A2.1+ N4 M1 N2% K2% 
+0000020 450  NN1     slip                     A5.3- Q1.2 B5 C1/O1.2@ 
+0000020 460  VM      would                    A7+ 
+0000020 461  XX      n't                      Z6 
+0000020 470  VBI     be                       Z5 A3+ 
+0000020 480  VVN     signed                   Q1.2[i33.2.1 Q4.3[i33.2.1 Q1.3[i33.2.1 T2-[i33.2.1 Q1.2 Q1.1 G2.1 I3.1 S9 
+0000020 490  RP      off                      Q1.2[i33.2.2 Q4.3[i33.2.2 Q1.3[i33.2.2 T2-[i33.2.2 M6 K1 A1.1.1 A1.9 
+0000020 500  CS      if                       Z7 
+0000020 510  PPIS1   I                        Z8mf 
+0000020 520  VHD     had                      Z5 A9+ A2.2 S4 
+0000020 521  XX      n't                      Z6 
+0000020 530  VVN     worked                   I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000020 540  JJ      'sufficient'             Z99 
+0000020 550  NNT2    hours                    T1.3 
+0000020 551  .       .                        
+0000020 552  "       "                        
+0000020 553  NULL    </quote>                 
+0000020 554  -----   -----                    
+0000022 010  NP1     Alastair                 Z1mf[i34.2.1 Z3c[i34.2.1 Z1m 
+0000022 020  NP1     Henderson                Z1mf[i34.2.2 Z3c[i34.2.2 Z1mf 
+0000022 021  ,       ,                        
+0000022 030  VVG     acting                   A1.1.1 T1.1.2 A8 K4 
+0000022 040  NN1     director                 S7.1+/S2mf K4/S2mf 
+0000022 050  IO      of                       Z5 
+0000022 060  NP1     NHS                      Z3c 
+0000022 070  NN2     Employers                I3.1/S2mf 
+0000022 080  VVD     said                     Q2.1 
+0000022 081  :       :                        
+0000022 082  NULL    <quote>                  
+0000022 083  -----   -----                    
+0000022 084  "       "                        
+0000022 090  PPH1    It                       Z8 
+0000022 100  VBZ     is                       A3+ Z5 
+0000022 110  XX      not                      Z6 
+0000022 120  JJ      acceptable               A5.1+ 
+0000022 130  IF      for                      Z5 
+0000022 140  DD      any                      N5 N5.1+ 
+0000022 150  NN2     doctors                  B3/I3.2/S2mf P1/S2mf 
+0000022 160  TO      to                       Z5 
+0000022 170  VBI     be                       Z5 A3+ 
+0000022 180  VVN     forced                   S7.1+ A1.1.1 E3- 
+0000022 190  TO      to                       Z5 
+0000022 200  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000022 210  JJ      extra                    N5++ 
+0000022 220  NNT2    hours                    T1.3 
+0000022 230  CC      and                      Z5 
+0000022 240  XX      not                      Z6 
+0000022 250  VV0     declare                  Q2.2 K5.1% 
+0000022 260  DD2     these                    Z8 Z5 
+0000022 261  .       .                        
+0000022 262  -----   -----                    
+0000022 270  CS      If                       Z7 
+0000022 280  AT      the                      Z5 
+0000022 290  NP1     BMA                      Z99 
+0000022 300  VHZ     has                      A9+ Z5 A2.2 S4 
+0000022 310  JJ      genuine                  A5.4+ A5.2+ 
+0000022 320  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000022 330  PPHS2   they                     Z8mfn 
+0000022 340  VM      should                   S6+ A7+ 
+0000022 350  VVI     raise                    M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000022 360  PPH1    it                       Z8 
+0000022 370  IW      with                     Z5 
+0000022 380  AT      the                      Z5 
+0000022 390  JJ      medical                  B3 
+0000022 400  NN2     directors                S7.1+/S2mf K4/S2mf 
+0000022 410  CC      and                      Z5 
+0000022 420  JJ      chief                    S7.1+/S2mf[i35.2.1 S7.1+ 
+0000022 430  NN2     executives               S7.1+/S2mf[i35.2.2 I2.1/S2mf G1.1 S7.1+/S5+c 
+0000022 440  IO      of                       Z5 
+0000022 450  JJ      individual               N5- 
+0000022 460  NN2     hospitals                B3/H1c 
+0000022 461  .       .                        
+0000022 462  "       "                        
+0000022 463  NULL    </quote>                 
+0000022 464  -----   -----                    
+0000024 010  AT1     A                        Z5 
+0000024 020  NN1     spokesperson             Q2.2/S2mf 
+0000024 030  IF      for                      Z5 
+0000024 040  AT      the                      Z5 
+0000024 050  NN1     Department               Z3c[i36.3.1 H2/S5+c X2.2 
+0000024 060  IO      of                       Z3c[i36.3.2 Z5 
+0000024 070  NN1     Health                   Z3c[i36.3.3 B2 X9.2 
+0000024 080  VVD     said                     Q2.1 
+0000024 090  PPH1    it                       Z8 
+0000024 100  VHD     had                      Z5 A9+ A2.2 S4 
+0000024 110  VVN     asked                    Q2.2 
+0000024 120  JJ      Strategic                X7+ G3 
+0000024 130  NN1     Health                   B3/G1.1[i37.2.1 B2 X9.2 
+0000024 140  NN2     Authorities              B3/G1.1[i37.2.2 G1.1 S7.1+ S7.4+ X2.2+ 
+0000024 150  IF      for                      Z5 
+0000024 160  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000024 170  IO      of                       Z5 
+0000024 180  AT      the                      Z5 
+0000024 190  NN1     extent                   N5 N3.6 
+0000024 200  IO      of                       Z5 
+0000024 210  AT      the                      Z5 
+0000024 220  NN1     problem                  A12- X4.1 N2 B2- 
+0000024 221  .       .                        
+0000026 001  NULL    <quote>                  
+0000026 002  -----   -----                    
+0000026 003  "       "                        
+0000026 010  PPIS2   We                       Z8 
+0000026 020  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000026 030  VVI     take                     E4.1-[i39.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ X2.1/A13.3[i38.2.1 
+0000026 040  PPH1    it                       Z8 
+0000026 050  RR      seriously                E4.1-[i39.2.2 A13.3 Z4 E4.1- X2.1/A13.3[i38.2.2 
+0000026 051  .       .                        
+0000026 052  -----   -----                    
+0000026 060  AT      The                      Z5 
+0000026 070  NP1     BMA                      Z99 
+0000026 071  GE      's                       Z5 
+0000026 080  NN1     survey                   X2.4 
+0000026 090  VBZ     is                       A3+ Z5 
+0000026 100  RR      potentially              A7+ 
+0000026 110  JJ      misleading               A5.2- 
+0000026 111  .       .                        
+0000026 112  -----   -----                    
+0000026 120  AT      The                      Z5 
+0000026 130  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000026 140  IO      of                       Z5 
+0000026 150  NN2     doctors                  B3/I3.2/S2mf P1/S2mf 
+0000026 160  PNQS    who                      Z8 
+0000026 170  VVD     took                     S1.1.3+[i40.2.1 A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000026 180  NN1     part                     S1.1.3+[i40.2.2 N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000026 190  II      in                       Z5 
+0000026 200  PPH1    it                       Z8 
+0000026 210  VVZ     represents               Q1.1 A6.2+ S1.1.3 A5.4- K4 
+0000026 220  DAR     less                     N5-- 
+0000026 230  CSN     than                     Z5 
+0000026 240  DB      half                     N5 
+0000026 250  IO      of                       Z5 
+0000026 260  MC1     one                      N5[i41.3.1 N1 T3 T1.2 
+0000026 270  NNU21   per                      N5[i41.3.2 N5[i42.2.1 
+0000026 280  NNU22   cent                     N5[i41.3.3 I1 N5[i42.2.2 
+0000026 290  IO      of                       Z5 
+0000026 300  DD2     those                    Z8 Z5 
+0000026 310  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000026 320  II      in                       Z5 
+0000026 330  AT      the                      Z5 
+0000026 340  NP1     NHS                      Z3c 
+0000026 341  .       .                        
+0000026 342  "       "                        
+0000026 343  NULL    </quote>                 
+0000028 001  NULL    **8;7;text               

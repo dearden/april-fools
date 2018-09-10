@@ -1,0 +1,996 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 001  (       (                        
+0000002 010  NN1     Source                   T2+ Q1.1 X2.2 W3/M4 
+0000002 011  :       :                        
+0000002 020  NP1     Sting                    Z2[i2.2.1 Z3c[i2.2.1 Z1mf[i2.2.1 Z1mf[i1.2.1 Z3c[i1.2.1 
+0000002 030  NP1     Ray                      Z2[i2.2.2 Z3c[i2.2.2 Z1mf[i2.2.2 Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 040  NN2     Studios                  C1/H2 Q4.3/H1c H1 
+0000002 041  )       )                        
+0000004 010  NP1     Toyota                   Z3c/M3 
+0000004 020  VHZ     has                      Z5 A9+ A2.2 S4 
+0000004 030  VVN     recalled                 X2.2+ I3.1-/G1.2 I2.2/T2- K5.2 A6.1+ 
+0000004 040  NNO2    millions                 N1 N5+ I1 
+0000004 050  IO      of                       Z5 
+0000004 060  NN2     vehicles                 M3fn X4.2 
+0000004 061  ,       ,                        
+0000004 070  II      including                A1.8+ 
+0000004 080  AT      the                      Z5 
+0000004 090  JJ      best-selling             X9.2++ 
+0000004 100  NP1     Camry                    Z99 
+0000004 110  IF      for                      Z5 
+0000004 120  JJ      unintended               Z99 
+0000004 130  NN1     acceleration             N3.8+/A2.1 
+0000004 140  NN2     problems                 A12- X4.1 N2 B2- 
+0000004 141  .       .                        
+0000004 142  -----   -----                    
+0000004 150  NP1     Toyota                   Z3c/M3 
+0000004 160  VHZ     has                      Z5 A9+ A2.2 S4 
+0000004 170  RT      now                      T1.1.2 Z4 
+0000004 180  VVN     received                 A9+ S5+ 
+0000004 190  AT1     a                        Z5 
+0000004 200  JJ      massive                  N3.2+ 
+0000004 210  JJ      fine                     A5.1+ A4.2+ O4.5 O4.1 W4 N3.2- 
+0000004 220  IF      for                      Z5 
+0000004 230  VVG     trying                   X8+ X2.4 Q2.2 G2.1 A12- 
+0000004 240  TO      to                       Z5 
+0000004 250  VVI     deceive                  A5.2- 
+0000004 260  NP1     U.S.                     Z8 
+0000004 270  JJ      federal                  S5+ 
+0000004 280  NN2     regulators               O2 S7.1+/S2mf 
+0000004 281  .       .                        
+0000004 282  -----   -----                    
+0000004 283  (       (                        
+0000004 290  NN1     Source                   T2+ Q1.1 X2.2 W3/M4 
+0000004 291  :       :                        
+0000004 300  NN1     Torque                   Z99 
+0000004 310  NN1     Report                   Q2.2 X3.2 
+0000004 311  )       )                        
+0000004 320  JJ      Fine                     A5.1+ A4.2+ O4.5 O4.1 W4 N3.2- 
+0000004 330  VBZ     is                       A3+ Z5 
+0000004 340  JJT     largest                  N3.2+++ N5+++ A11.1+++ 
+0000004 350  II      in                       Z5 
+0000004 360  NP1     U.S.                     Z8 
+0000004 370  NN1     history                  T1.1.1 P1/T1.1.1 Q2.1 B2 
+0000004 380  II      against                  Z5 
+0000004 390  AT1     an                       Z5 
+0000004 400  NN1     automaker                Z99 
+0000008 010  PPIS2   We                       Z8 
+0000008 020  RT      now                      T1.1.2 Z4 
+0000008 030  VH0     have                     A9+ Z5 A2.2 S4 
+0000008 040  NN1     proof                    A5.2+ Q4.1 F2 
+0000008 050  CST     that                     Z5 Z8 
+0000008 060  NP1     Toyota                   Z3c/M3 
+0000008 070  VVD     failed                   X9.2- A5.1-/A2.1 
+0000008 080  TO      to                       Z5 
+0000008 090  VVI     live                     X9.2+[i3.3.1 H4 L1+ A3 
+0000008 100  II21    up                       X9.2+[i3.3.2 Z5 Z5[i4.2.1 Z5[i5.2.1 X6+[i5.2.1 
+0000008 110  II22    to                       X9.2+[i3.3.3 Z5 Z5[i4.2.2 Z5[i5.2.2 X6+[i5.2.2 
+0000008 120  APPGE   its                      Z8 
+0000008 130  JJ      legal                    G2.1 G2.1+ 
+0000008 140  NN2     obligations              S6+ 
+0000008 141  .       .                        
+0000008 142  -----   -----                    
+0000008 150  JJR     Worse                    A5.1-- 
+0000008 160  RR      yet                      T1.1.2 
+0000008 161  ,       ,                        
+0000008 170  PPHS2   they                     Z8mfn 
+0000008 180  RR      knowingly                X2.2+ 
+0000008 190  VVD     hid                      M7/A10- B1 O2 A10- 
+0000008 200  AT1     a                        Z5 
+0000008 210  JJ      dangerous                A15- 
+0000008 220  NN1     defect                   A5.1- B2- 
+0000008 230  IF      for                      Z5 
+0000008 240  NNT2    months                   T1.3 
+0000008 250  II      from                     Z5 
+0000008 260  NP1     U.S.                     Z8 
+0000008 270  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000008 280  CC      and                      Z5 
+0000008 290  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000008 300  XX      not                      Z6 
+0000008 310  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000008 320  NN1     action                   A1.1.1 G3 
+0000008 330  TO      to                       Z5 
+0000008 340  VVI     protect                  S8+/A15+ A10- 
+0000008 350  NNO2    millions                 N1 N5+ I1 
+0000008 360  IO      of                       Z5 
+0000008 370  NN2     drivers                  M3/S2mf O2 
+0000008 380  CC      and                      Z5 
+0000008 390  APPGE   their                    Z8 
+0000008 400  NN2     families                 S4 A4.1 
+0000008 401  .       .                        
+0000008 402  NULL    <quote>                  
+0000008 403  -----   -----                    
+0000008 404  "       "                        
+0000009 001  NULL    </quote>                 
+0000009 002  -----   -----                    
+0000012 010  NN2     Defects                  A5.1- B2- 
+0000012 020  VBR     are                      A3+ Z5 
+0000012 030  AT1     an                       Z5 
+0000012 040  NN1     automaker                Z99 
+0000012 041  GE      's                       Z5 
+0000012 050  JJ      eternal                  T2+++ 
+0000012 060  NN1     enemy                    S1.2.1-/S2mfc S8- 
+0000012 061  .       .                        
+0000012 062  -----   -----                    
+0000012 070  AT1     Every                    N6+[i6.2.1 N5.1+ 
+0000012 080  NNT1    year                     N6+[i6.2.2 T1.3 P1c 
+0000012 090  NNO2    thousands                N1 N5+ I1 
+0000012 091  ,       ,                        
+0000012 100  CS      if                       Z7 
+0000012 110  XX      not                      Z6 
+0000012 120  NNO2    millions                 N1 N5+ I1 
+0000012 130  IO      of                       Z5 
+0000012 140  NN2     vehicles                 M3fn X4.2 
+0000012 150  VBR     are                      Z5 A3+ 
+0000012 160  VVN     recalled                 X2.2+ I3.1-/G1.2 I2.2/T2- K5.2 A6.1+ 
+0000012 170  IF      for                      Z5 
+0000012 180  NN2     defects                  A5.1- B2- 
+0000012 181  .       .                        
+0000012 182  -----   -----                    
+0000012 190  NP1     Toyota                   Z3c/M3 
+0000012 191  GE      's                       Z5 
+0000012 200  JJ      critical                 Q2.2/E2- X2.4 A11.1+ A15- 
+0000012 210  NN1     problem                  A12- X4.1 N2 B2- 
+0000012 220  VBDZ    was                      A3+ Z5 
+0000012 230  XX      not                      Z6 
+0000012 240  RG      so                       A13.3 
+0000012 250  RR      much                     A13.3 N6+ 
+0000012 260  AT      the                      Z5 
+0000012 270  NN2     defects                  A5.1- B2- 
+0000012 280  PPX1    itself                   Z8 
+0000012 290  JJ      --                       Z99 
+0000012 300  II      despite                  Z5 
+0000012 310  AT      the                      Z5 
+0000016 010  II21    According                Z5[i7.2.1 Z5 
+0000016 020  II22    to                       Z5[i7.2.2 Z5 
+0000016 030  NN2     documents                Q1.2 X2.2+ Y2 
+0000016 040  VVN     obtained                 A9+ 
+0000016 050  II      from                     Z5 
+0000016 060  NP1     Toyota                   Z3c/M3 
+0000016 061  ,       ,                        
+0000016 070  AT      the                      Z5 
+0000016 080  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000016 090  VVD     began                    T2+ 
+0000016 100  AT1     a                        Z5 
+0000016 110  NN1@    recall                   X2.2+ I3.1-/G1.2 I2.2/T2- Y2 X3.2/G3 K5.2 
+0000016 120  II      on                       Z5 
+0000020 010  DD1     That                     Z8 Z5 
+0000020 020  VVZ     constitutes              A3+ A1.8+ A1.1.1 
+0000020 030  AT1     a                        Z5 
+0000020 040  JJ      gross                    N5.1+ O4.2- N5 
+0000020 050  NN1     violation                G2.1- A1.9 E3- 
+0000020 060  IO      of                       Z5 
+0000020 070  JJ      federal                  S5+ 
+0000020 080  NN1     safety                   A15+ 
+0000020 090  NN2     guidelines               S8+ 
+0000020 091  ,       ,                        
+0000020 100  DDQ     which                    Z8 Z5 
+0000020 110  VV0     demand                   Q2.2 S6+ X7+ 
+0000020 120  CST     that                     Z5 Z8 
+0000020 130  AT1     an                       Z5 
+0000020 140  NN1     automaker                Z99 
+0000020 150  VV0     inform                   X2.2+ X2.4 Q2.1 
+0000020 160  AT      the                      Z5 
+0000020 170  NP1     U.S.                     Z8 
+0000020 180  JJ      federal                  S5+ 
+0000020 190  NN2     regulators               O2 S7.1+/S2mf 
+0000020 200  II      within                   Z5 
+0000020 210  MC      five                     N1 T3 T1.2 
+0000020 220  NNT2    days                     T1.3 
+0000020 230  IO      of                       Z5 
+0000020 240  VVG     discovering              A10+ 
+0000020 250  AT1     a                        Z5 
+0000020 260  NN1     defect                   A5.1- B2- 
+0000020 261  .       .                        
+0000021 001  -----   -----                    
+0000024 010  II      As                       Z5 
+0000024 020  AT1     a                        Z5 
+0000024 030  NN1     result                   A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
+0000024 031  ,       ,                        
+0000024 040  AT      the                      Z5 
+0000024 050  NN1     DOT                      O4.4 
+0000024 060  VHZ     has                      Z5 A9+ A2.2 S4 
+0000024 070  VVN     thrown                   G2.1[i8.4.1 M2 A2.2 Q2.2 A1.1.1 X2.5- 
+0000024 080  AT      the                      G2.1[i8.4.2 Z5 
+0000024 090  NN1     book                     G2.1[i8.4.3 Q4.1 Q1.2 K5.1/I1 
+0000024 100  II      at                       G2.1[i8.4.4 Z5 
+0000024 110  NP1     Toyota                   Z3c/M3 
+0000024 111  ,       ,                        
+0000024 120  VVG     proposing                Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
+0000024 130  AT1     a                        Z5 
+0000024 140  NNU     $16.4M                   N3.3 N3.7 
+0000024 150  NN1     USD                      Z99 
+0000024 151  ,       ,                        
+0000024 160  AT      the                      Z5 
+0000024 170  JJ      maximum                  N5.1+ 
+0000024 180  NN1     penalty                  G2.1 I1.3 K5.1 
+0000024 190  VVN     allowed                  S7.4+ S8+ X2.1 
+0000024 200  II      under                    Z5 
+0000024 210  AT      the                      Z5 
+0000024 220  NN1     law                      G2.1 S6+ Y1 
+0000024 221  .       .                        
+0000024 222  -----   -----                    
+0000024 230  DD1     That                     Z5 Z8 
+0000024 240  JJ      fine                     A5.1+ A4.2+ O4.5 O4.1 W4 N3.2- 
+0000024 250  RR      far                      A13.3 N3.3+ X9.2+ 
+0000024 260  VVZ     surpasses                A5.1++ N5.2+ 
+0000024 270  AT      the                      Z5 
+0000024 280  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
+0000024 290  JJ      previous                 N4 
+0000024 300  JJ      fine                     A5.1+ A4.2+ O4.5 O4.1 W4 N3.2- 
+0000024 310  II      against                  Z5 
+0000024 320  AT1     an                       Z5 
+0000024 330  NN1     automaker                Z99 
+0000024 340  NN1     --                       Z99 
+0000024 350  NNU     $1M                      N3.3 N3.7 
+0000024 360  NN1     USD                      Z99 
+0000024 370  NN1     sum                      N5 N2 N5.1+ 
+0000024 380  VVN     levied                   G1.1/A9+ 
+0000024 390  II      against                  Z5 
+0000024 400  JJ      General                  N5+ A4.2- 
+0000024 410  NN2     Motors                   O2 M3fn 
+0000024 420  IF      for                      Z5 
+0000024 430  VVG     failing                  X9.2- A5.1-/A2.1 
+0000024 440  TO      to                       Z5 
+0000024 450  RR      promptly                 N3.8+ 
+0000024 460  VVI     recall                   X2.2+ I3.1-/G1.2 I2.2/T2- K5.2 A6.1+ 
+0000024 470  NN1     windshield               Z99 
+0000024 480  NN2     wipers                   O2 
+0000024 490  II      in                       Z5 
+0000024 500  MCMC    2002-2003                N1 T1.2 T3 T1.3 N3.2 
+0000024 510  NN1     model                    O2/A5.4- A4.1 X4.2 A5.1+++ C1/S2mf B5/I3.2/S2mf 
+0000024 520  NN2     vehicles                 M3fn X4.2 
+0000024 521  .       .                        
+0000025 001  -----   -----                    
+0000028 010  NP1     Toyota                   Z3c/M3 
+0000028 020  VHZ     has                      A9+ Z5 A2.2 S4 
+0000028 030  MC      two                      N1 T3 T1.2 
+0000028 040  NNT2    weeks                    T1.3 
+0000028 050  VV0     decide                   X6+ 
+0000028 060  APPGE   its                      Z8 
+0000028 070  NN1     response                 Q2.1 S1.1.2+ 
+0000028 071  .       .                        
+0000028 072  -----   -----                    
+0000028 080  II      Despite                  Z5 
+0000028 090  AT      the                      Z5 
+0000028 100  RR      reportedly               A8 
+0000028 110  JJ      conclusive               A7+++ 
+0000028 120  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000028 121  ,       ,                        
+0000028 130  AT      the                      Z5 
+0000028 140  JJ      Asian                    Z2 
+0000028 150  NN1     automaker                Z99 
+0000028 160  VBZ     is                       Z5 A3+ 
+0000028 170  VVN     expected                 X2.6+ B1 
+0000028 180  TO      to                       Z5 
+0000028 190  VVI     appeal                   O4.2+ Q2.2 G2.1 E2+ 
+0000028 200  AT      the                      Z5 
+0000028 210  NN1     decision                 X6+ 
+0000028 211  ,       ,                        
+0000028 220  RR      perhaps                  A7 
+0000028 230  VVG     seeking                  X2.4 
+0000028 240  AT1     a                        Z5 
+0000028 250  JJR     smaller                  N3.2-- N3.7-- N5-- T3-- A11.1-- S5--/I2.1 X3.2- A5.1-- 
+0000028 260  JJ      fine                     A5.1+ A4.2+ O4.5 O4.1 W4 N3.2- 
+0000028 261  .       .                        
+0000029 001  -----   -----                    
+0000032 010  RR      Meanwhile                T1.1.2 
+0000032 011  ,       ,                        
+0000032 020  AT      the                      Z5 
+0000032 030  JJ      National                 Z1mf[i9.2.1 Z3c[i9.2.1 Z3c 
+0000032 040  NN1     Highway                  Z1mf[i9.2.2 Z3c[i9.2.2 Z3 
+0000032 050  NN1     Traffic                  M3 M4 G2.1-/I2.2 M1 S1.1.2+ 
+0000032 060  NN1     Safety                   A15+ 
+0000032 070  NN1     Administration           S7.1+c A9- 
+0000032 071  (       (                        
+0000032 080  NP1     NHTSA                    Z99 
+0000032 081  )       )                        
+0000032 090  VVZ     continues                T2++ 
+0000032 100  TO      to                       Z5 
+0000032 110  VVI     investigate              X2.4 
+0000032 120  AT      the                      Z5 
+0000032 130  JJ      sticky                   O4.5 A12- 
+0000032 140  NN2     accelerators             M3/N3.8+ Y1@ 
+0000032 141  ,       ,                        
+0000032 150  JJ      unsatisfied              E4.2- A1.2- 
+0000032 160  IW      with                     Z5 
+0000032 170  NP1     Toyota                   Z3c/M3 
+0000032 171  GE      's                       Z5 
+0000032 180  NN1     claim                    Q2.2 A9+ 
+0000032 190  CST     that                     Z5 Z8 
+0000032 200  NN1     floor                    H2 S5+ 
+0000032 210  NN2     mats                     H5 O2 
+0000032 220  VBDR    were                     A3+ Z5 
+0000032 230  RR      solely                   A14 
+0000032 240  TO      to                       Z5 
+0000032 250  VVI     blame                    Q2.2/G2.2- G2.1 
+0000032 251  .       .                        
+0000032 252  -----   -----                    
+0000032 260  NP1     NHTSA                    Z99 
+0000032 270  VBZ     is                       Z5 A3+ 
+0000032 280  VVG     looking                  X3.4[i10.2.1 X2.4[i10.2.1 X2.1[i10.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000032 290  II      at                       X3.4[i10.2.2 X2.4[i10.2.2 X2.1[i10.2.2 Z5 
+0000032 300  AT1     a                        Z5 
+0000032 310  NN1     host                     S2mf B1@ Y2@ S9% 
+0000032 320  IO      of                       Z5 
+0000032 330  JJ      mechanical               O2 A6.2+ 
+0000032 340  CC      and                      Z5 
+0000032 350  JJ      electrical               O3 
+0000032 360  NN2     elements                 A4.1 N5 S5+c O1 O3 O2 W4 
+0000032 370  IF      for                      Z5 
+0000032 380  NN2     bugs                     B2- L2mfn X2.4/A10- Y2 E2- X5.2+ 
+0000032 381  ,       ,                        
+0000032 390  CC      and                      Z5 
+0000032 400  VBZ     is                       Z5 A3+ 
+0000032 410  RR      even                     A13.1 
+0000032 420  VVG     examining                X2.4 B3 P1 
+0000032 430  CSW     whether                  Z5 
+0000036 010  AT      The                      Z5 
+0000036 020  NN1     government               G1.1c 
+0000036 030  VVZ     continues                T2++ 
+0000036 040  TO      to                       Z5 
+0000036 050  VVI     investigate              X2.4 
+0000036 060  NP1     Toyota                   Z3c/M3 
+0000036 061  GE      's                       Z5 
+0000036 070  NN1     behavior                 S1.1.1 A1.1.1 
+0000036 080  II      during                   Z5 
+0000036 090  AT      the                      Z5 
+0000036 100  NN1@    recall                   X2.2+ I3.1-/G1.2 I2.2/T2- Y2 X3.2/G3 K5.2 
+0000036 101  ,       ,                        
+0000036 110  RR21    as                       N5++[i11.2.1 
+0000036 120  RR22    well                     N5++[i11.2.2 A5.1+ A13.3 A7+ B2+ Z4 
+0000036 121  .       .                        
+0000036 122  -----   -----                    
+0000036 130  NN1     DOT                      O4.4 
+0000036 140  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000036 150  VVD     said                     Q2.1 
+0000036 160  DAR     more                     N5++ 
+0000036 170  NN2     fines                    G2.1/I1.3 
+0000036 180  VM      could                    A7+ 
+0000036 190  VVD     brought                  M2 A2.2 
+0000036 200  II      against                  Z5 
+0000036 210  NP1     Toyota                   Z3c/M3 
+0000036 220  CS      if                       Z7 
+0000036 230  JJR@    further                  N5++ N3.3++ T2++ 
+0000036 240  NN1     proof                    A5.2+ Q4.1 F2 
+0000036 250  IO      of                       Z5 
+0000036 260  NN1     wrongdoing               G2.1- G2.2- 
+0000036 270  VBZ     is                       Z5 A3+ 
+0000036 280  VVN     revealed                 A10+ 
+0000036 281  .       .                        
+0000037 001  -----   -----                    
+0000040 010  CS      While                    Z5 
+0000040 020  AT      the                      Z5 
+0000040 030  NN1     defect                   A5.1- B2- 
+0000040 040  NN1     mess                     O4.2- F1/G3c 
+0000040 050  VBZ     is                       A3+ Z5 
+0000040 060  JJ      unpleasant               O4.2- 
+0000040 070  IF      for                      Z5 
+0000040 080  DB      all                      N5.1+ 
+0000040 090  DD2     those                    Z8 Z5 
+0000040 100  VVN     involved                 A1.8+ 
+0000040 110  PPH1    it                       Z8 
+0000040 120  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000040 130  VVI     raise                    M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000040 140  DD      some                     N5 Z5 
+0000040 150  JJ      interesting              X5.2+ 
+0000040 160  NN2     questions                Q2.2 X4.1 
+0000040 170  II      about                    Z5 
+0000040 180  NN1     governance               G1.1 
+0000040 181  .       .                        
+0000040 182  -----   -----                    
+0000040 190  DD      Some                     N5 Z5 
+0000040 200  VV0     say                      Q2.1 Z4% 
+0000040 210  CST     that                     Z5 Z8 
+0000040 220  AT      the                      Z5 
+0000040 230  NN1     government               G1.1c 
+0000040 240  VM      should                   S6+ A7+ 
+0000040 250  XX      not                      Z6 
+0000040 260  NN2     police                   G2.1/I2.1c[i12.2.1 G2.1 
+0000040 270  NN2     companies                G2.1/I2.1c[i12.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000040 271  ,       ,                        
+0000040 280  CC      and                      Z5 
+0000040 290  CST     that                     Z5 Z8 
+0000040 300  AT      the                      Z5 
+0000040 310  JJ      commercial               I2.1 
+0000040 320  NN1     press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
+0000040 330  VM      should                   S6+ A7+ 
+0000040 340  VBI     be                       Z5 A3+ 
+0000040 350  VVN     left                     M1 M2 A1.1.1 A1.9 A9- N5.2+ T2- 
+0000040 360  TO      to                       Z5 
+0000040 370  VVI     investigate              X2.4 
+0000040 380  NN2     reports                  Q2.2 X3.2 
+0000040 390  IO      of                       Z5 
+0000040 400  NN2     defects                  A5.1- B2- 
+0000040 410  CC      and                      Z5 
+0000040 420  VVI     inform                   X2.2+ X2.4 Q2.1 
+0000040 430  NN2     consumers                I2.2/S2mf 
+0000040 440  IO      of                       Z5 
+0000040 450  NN1     safety                   A15+ 
+0000040 460  NN1     risk                     A15- A1.4 
+0000040 461  .       .                        
+0000040 462  -----   -----                    
+0000040 470  NN2     Others                   A6.1-/Z8 
+0000040 480  VV0     argue                    Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 
+0000040 490  AT      the                      Z5 
+0000040 500  JJ      current                  T1.1.2 
+0000040 510  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000040 520  VBZ     is                       A3+ Z5 
+0000040 530  AT1     a                        Z5 
+0000040 540  JJ      successful               X9.2+ 
+0000040 550  PN1     one                      Z8 
+0000040 551  .       .                        
+0000040 552  -----   -----                    
+0000040 560  CC      And                      Z5 
+0000040 570  JJ@     still                    M8 E3+ O4.5 
+0000040 580  NN2     others                   A6.1-/Z8 
+0000040 590  VV0     argue                    Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 
+0000040 600  CST     that                     Z5 Z8 
+0000040 610  JJ      current                  T1.1.2 
+0000040 620  NN1     regulation               G2.1 A1.7+/G1.1 
+0000040 630  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000040 640  XX      not                      Z6 
+0000040 650  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000040 660  RR      far                      A13.3 N3.3+ X9.2+ 
+0000040 670  DD      enough                   N5+ N6+ 
+0000040 680  NN1     --                       Z99 
+0000040 690  CST     that                     Z5 Z8 
+0000040 700  AT      the                      Z5 
+0000040 710  JJ      federal                  S5+ 
+0000040 720  NN1     government               G1.1c 
+0000040 730  VM      should                   S6+ A7+ 
+0000040 740  VHI     have                     A9+ Z5 A2.2 S4 
+0000040 750  AT      the                      Z5 
+0000040 760  NN1     ability                  X9.1+ 
+0000040 770  TO      to                       Z5 
+0000040 780  VVI     levy                     G1.1/I1.1 
+0000040 790  RR      even                     A13.1 
+0000040 800  JJR     bigger                   N3.2++ N5++ A11.1++ S1.2.5++ X5.2++ 
+0000040 810  NN2     fines                    G2.1/I1.3 
+0000040 820  II      against                  Z5 
+0000040 830  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000040 840  PNQS    who                      Z8 
+0000040 850  RR      knowingly                X2.2+ 
+0000040 860  VV0     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000040 870  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000040 880  CST     that                     Z8 Z5 
+0000040 890  VM      could                    A7+ 
+0000040 900  VVI     endanger                 A15- 
+0000040 910  NP1     U.S.                     Z8 
+0000040 920  NN2     consumers                I2.2/S2mf 
+0000040 921  .       .                        
+0000041 001  -----   -----                    
+0000044 010  RR      Likewise                 A6.1+ 
+0000044 011  ,       ,                        
+0000044 020  AT      the                      Z5 
+0000044 030  AT      The                      Z5 
+0000044 040  NN1     atmosphere               W3 W1 E1 N3.5 
+0000044 050  II      at                       Z5 
+0000044 060  AT      the                      Z5 
+0000044 070  NP1     U.S.                     Z8 
+0000044 080  NN1     Department               H2/S5+c X2.2 
+0000044 090  IO      of                       Z5 
+0000044 100  NN1     Transportation           M2 M3 
+0000044 110  II      on                       Z5 
+0000044 120  NPD1    Monday                   T1.3 
+0000044 130  VBDZ    was                      A3+ Z5 
+0000044 140  JJ      tense                    E6- O4.1 
+0000044 150  CSA     as                       Z5 
+0000044 160  NP1@    Secretary                Z1mf[i13.2.1 Z3c[i13.2.1 
+0000044 170  NP1     Ray                      Z1mf[i13.2.2 Z3c[i13.2.2 
+0000044 180  NN1     LaHood                   Z99 
+0000044 190  VVD     slammed                  A1.1.1 Q2.2 
+0000044 200  JJ      Japanese                 Z2 Z2/Q3 Z2/S2mfnc 
+0000044 210  NN1     automaker                Z99 
+0000044 220  NP1     Toyota                   Z3c/M3 
+0000044 221  .       .                        
+0000044 222  -----   -----                    
+0000044 230  NP1@    Lahood                   Z99 
+0000044 240  VVD     announced                Q2.2 
+0000044 241  ,       ,                        
+0000044 242  NULL    <quote>                  
+0000044 243  -----   -----                    
+0000044 244  "       "                        
+0000044 250  NN2     Defects                  A5.1- B2- 
+0000044 260  VBR     are                      A3+ Z5 
+0000044 270  AT1     an                       Z5 
+0000044 280  NN1     automaker                Z99 
+0000044 281  GE      's                       Z5 
+0000044 290  JJ      eternal                  T2+++ 
+0000044 300  NN1     enemy                    S1.2.1-/S2mfc S8- 
+0000044 301  .       .                        
+0000044 302  -----   -----                    
+0000044 310  AT1     Every                    N6+[i14.2.1 N5.1+ 
+0000044 320  NNT1    year                     N6+[i14.2.2 T1.3 P1c 
+0000044 330  NNO2    thousands                N1 N5+ I1 
+0000044 331  ,       ,                        
+0000044 340  CS      if                       Z7 
+0000044 350  XX      not                      Z6 
+0000044 360  NNO2    millions                 N1 N5+ I1 
+0000044 370  IO      of                       Z5 
+0000044 380  NN2     vehicles                 M3fn X4.2 
+0000044 390  VBR     are                      Z5 A3+ 
+0000044 400  VVN     recalled                 X2.2+ I3.1-/G1.2 I2.2/T2- K5.2 A6.1+ 
+0000044 410  IF      for                      Z5 
+0000044 420  NN2     defects                  A5.1- B2- 
+0000044 421  .       .                        
+0000044 422  NULL    </quote>                 
+0000044 423  -----   -----                    
+0000044 430  NP1     Toyota                   Z3c/M3 
+0000044 431  GE      's                       Z5 
+0000044 440  JJ      critical                 Q2.2/E2- X2.4 A11.1+ A15- 
+0000044 450  NN1     problem                  A12- X4.1 N2 B2- 
+0000044 460  VBDZ    was                      A3+ Z5 
+0000044 470  XX      not                      Z6 
+0000044 480  RG      so                       A13.3 
+0000044 490  RR      much                     A13.3 N6+ 
+0000044 500  AT      the                      Z5 
+0000044 510  NN2     defects                  A5.1- B2- 
+0000044 520  PPX1    itself                   Z8 
+0000044 530  JJ      --                       Z99 
+0000044 540  II      despite                  Z5 
+0000044 550  AT      the                      Z5 
+0000044 560  JJ      massive                  N3.2+ 
+0000044 570  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000044 580  IO      of                       Z5 
+0000044 590  NN2     vehicles                 M3fn X4.2 
+0000044 600  VVD     involved                 A1.8+ 
+0000044 601  .       .                        
+0000044 602  -----   -----                    
+0000044 610  RR@     Rather                   Z4 E2++ 
+0000044 611  ,       ,                        
+0000044 620  NP1     Toyota                   Z3c/M3 
+0000044 621  GE      's                       Z5 
+0000044 630  JJ      key                      A11.1+ 
+0000044 640  NN1     mistake                  A5.3- 
+0000044 650  VBDZ    was                      A3+ Z5 
+0000044 660  AT      the                      Z5 
+0000044 670  JJ      dangerous                A15- 
+0000044 680  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000044 690  IO      of                       Z5 
+0000044 700  NN1     deception                A5.2- 
+0000044 710  PPH1    it                       Z8 
+0000044 720  RR      reportedly               A8 
+0000044 730  VVN     played                   K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000044 731  .       .                        
+0000044 732  -----   -----                    
+0000044 740  II21    According                Z5[i15.2.1 Z5 
+0000044 750  II22    to                       Z5[i15.2.2 Z5 
+0000044 760  NN2     documents                Q1.2 X2.2+ Y2 
+0000044 770  VVN     obtained                 A9+ 
+0000044 780  II      from                     Z5 
+0000044 790  NP1     Toyota                   Z3c/M3 
+0000044 791  ,       ,                        
+0000044 800  AT      the                      Z5 
+0000044 810  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000044 820  VVD     began                    T2+ 
+0000044 830  AT1     a                        Z5 
+0000044 840  NN1@    recall                   X2.2+ I3.1-/G1.2 I2.2/T2- Y2 X3.2/G3 K5.2 
+0000044 850  II      on                       Z5 
+0000044 851  NULL    <quote>                  
+0000044 852  -----   -----                    
+0000044 853  "       "                        
+0000044 860  JJ      sticky                   O4.5 A12- 
+0000044 870  NN2     pedals                   O2 
+0000044 871  "       "                        
+0000044 872  NULL    </quote>                 
+0000044 873  -----   -----                    
+0000044 880  II      in                       Z5 
+0000044 890  NPM1    September                T1.3 
+0000044 900  IO      of                       Z5 
+0000044 910  MD      last                     T1.1.1[i17.2.1 N4 T1.3[i16.2.1 P1/S2mf[i16.2.1 
+0000044 920  NNT1    year                     T1.1.1[i17.2.2 T1.3 P1c T1.3[i16.2.2 P1/S2mf[i16.2.2 
+0000044 930  II      in                       Z5 
+0000044 940  NP1     Canada                   Z2 
+0000044 950  CC      and                      Z5 
+0000044 960  NP1     Europe                   Z2 
+0000044 961  .       .                        
+0000044 962  -----   -----                    
+0000044 970  RR      However                  Z4 
+0000044 971  ,       ,                        
+0000044 980  PPH1    it                       Z8 
+0000044 990  VVD     failed                   X9.2- A5.1-/A2.1 
+0000044 000  TO      to                       Z5 
+0000044 010  VVI     inform                   X2.2+ X2.4 Q2.1 
+0000044 020  NP1     U.S.                     Z8 
+0000044 030  NN2     regulators               O2 S7.1+/S2mf 
+0000044 040  IO      of                       Z5 
+0000044 050  AT      the                      Z5 
+0000044 060  NN1     problem                  A12- X4.1 N2 B2- 
+0000044 061  ,       ,                        
+0000044 070  CC      and                      Z5 
+0000044 080  VVD     made                     X8+[i18.3.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000044 090  AT      no                       X8+[i18.3.2 Z6 
+0000044 100  NN1     effort                   X8+[i18.3.3 X8+ O2 
+0000044 110  TO      to                       Z5 
+0000044 120  VVI     launch                   M4 M5 T2+ 
+0000044 130  AT1     a                        Z5 
+0000044 140  NN1@    recall                   X2.2+ I3.1-/G1.2 I2.2/T2- Y2 X3.2/G3 K5.2 
+0000044 150  IO      of                       Z5 
+0000044 160  AT      the                      Z5 
+0000044 170  JJ%     effected                 A2.2 
+0000044 180  NN2     vehicles                 M3fn X4.2 
+0000044 190  CS      until                    Z5 
+0000044 200  PPH1    it                       Z8 
+0000044 210  VVD     came                     A1.8+[i19.2.1 A4.1[i19.2.1 S7.1-[i19.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000044 220  II      under                    A1.8+[i19.2.2 A4.1[i19.2.2 S7.1-[i19.2.2 Z5 
+0000044 230  JJ      heavy                    N3.5+ S1.2.5+ N5+ O4.1 E4.1- W4 A12- A1.1.1 N3.2+ A1.1.2@ 
+0000044 240  NN1     fire                     O4.6+ 
+0000044 250  II      in                       Z5 
+0000044 260  NP1     January.That             Z99 
+0000044 270  VVZ     constitutes              A3+ A1.8+ A1.1.1 
+0000044 280  AT1     a                        Z5 
+0000044 290  JJ      gross                    N5.1+ O4.2- N5 
+0000044 300  NN1     violation                G2.1- A1.9 E3- 
+0000044 310  IO      of                       Z5 
+0000044 320  JJ      federal                  S5+ 
+0000044 330  NN1     safety                   A15+ 
+0000044 340  NN2     guidelines               S8+ 
+0000044 341  ,       ,                        
+0000044 350  DDQ     which                    Z8 Z5 
+0000044 360  VV0     demand                   Q2.2 S6+ X7+ 
+0000044 370  CST     that                     Z5 Z8 
+0000044 380  AT1     an                       Z5 
+0000044 390  NN1     automaker                Z99 
+0000044 400  VV0     inform                   X2.2+ X2.4 Q2.1 
+0000044 410  AT      the                      Z5 
+0000044 420  NP1     U.S.                     Z8 
+0000044 430  JJ      federal                  S5+ 
+0000044 440  NN2     regulators               O2 S7.1+/S2mf 
+0000044 450  II      within                   Z5 
+0000044 460  MC      five                     N1 T3 T1.2 
+0000044 470  NNT2    days                     T1.3 
+0000044 480  IO      of                       Z5 
+0000044 490  VVG     discovering              A10+ 
+0000044 500  AT1     a                        Z5 
+0000044 510  NNU     defect.As                Z99 
+0000044 520  AT1     a                        Z5 
+0000044 530  NN1     result                   A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
+0000044 531  ,       ,                        
+0000044 540  AT      the                      Z5 
+0000044 550  NN1     DOT                      O4.4 
+0000044 560  VHZ     has                      Z5 A9+ A2.2 S4 
+0000044 570  VVN     thrown                   G2.1[i20.4.1 M2 A2.2 Q2.2 A1.1.1 X2.5- 
+0000044 580  AT      the                      G2.1[i20.4.2 Z5 
+0000044 590  NN1     book                     G2.1[i20.4.3 Q4.1 Q1.2 K5.1/I1 
+0000044 600  II      at                       G2.1[i20.4.4 Z5 
+0000044 610  NP1     Toyota                   Z3c/M3 
+0000044 611  ,       ,                        
+0000044 620  VVG     proposing                Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
+0000044 630  AT1     a                        Z5 
+0000044 640  NNU     $16.4M                   N3.3 N3.7 
+0000044 650  NN1     USD                      Z99 
+0000044 651  ,       ,                        
+0000044 660  AT      the                      Z5 
+0000044 670  JJ      maximum                  N5.1+ 
+0000044 680  NN1     penalty                  G2.1 I1.3 K5.1 
+0000044 690  VVN     allowed                  S7.4+ S8+ X2.1 
+0000044 700  II      under                    Z5 
+0000044 710  AT      the                      Z5 
+0000044 720  NN1     law                      G2.1 S6+ Y1 
+0000044 721  .       .                        
+0000044 722  -----   -----                    
+0000044 730  DD1     That                     Z5 Z8 
+0000044 740  JJ      fine                     A5.1+ A4.2+ O4.5 O4.1 W4 N3.2- 
+0000044 750  RR      far                      A13.3 N3.3+ X9.2+ 
+0000044 760  VVZ     surpasses                A5.1++ N5.2+ 
+0000044 770  AT      the                      Z5 
+0000044 780  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
+0000044 790  JJ      previous                 N4 
+0000044 800  JJ      fine                     A5.1+ A4.2+ O4.5 O4.1 W4 N3.2- 
+0000044 810  II      against                  Z5 
+0000044 820  AT1     an                       Z5 
+0000044 830  NN1     automaker                Z99 
+0000044 840  NN1     --                       Z99 
+0000044 850  NNU     $1M                      N3.3 N3.7 
+0000044 860  NN1     USD                      Z99 
+0000044 870  NN1     sum                      N5 N2 N5.1+ 
+0000044 880  VVN     levied                   G1.1/A9+ 
+0000044 890  II      against                  Z5 
+0000044 900  NNB     General                  N5+ A4.2- G3/S7.1+/S2mf B3/H1 
+0000044 910  NP1     MotorsToyota             Z99 
+0000044 920  VHZ     has                      A9+ Z5 A2.2 S4 
+0000044 930  MC      two                      N1 T3 T1.2 
+0000044 940  NNT2    weeks                    T1.3 
+0000044 950  VV0     decide                   X6+ 
+0000044 960  APPGE   its                      Z8 
+0000044 970  NN1     response                 Q2.1 S1.1.2+ 
+0000044 971  .       .                        
+0000044 972  -----   -----                    
+0000044 980  II      Despite                  Z5 
+0000044 990  AT      the                      Z5 
+0000044 000  RR      reportedly               A8 
+0000044 010  JJ      conclusive               A7+++ 
+0000044 020  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000044 021  ,       ,                        
+0000044 030  AT      the                      Z5 
+0000044 040  JJ      Asian                    Z2 
+0000044 050  NN1     automaker                Z99 
+0000044 060  VBZ     is                       Z5 A3+ 
+0000044 070  VVN     expected                 X2.6+ B1 
+0000044 080  TO      to                       Z5 
+0000044 090  VVI     appeal                   O4.2+ Q2.2 G2.1 E2+ 
+0000044 100  AT      the                      Z5 
+0000044 110  NN1     decision                 X6+ 
+0000044 111  ,       ,                        
+0000044 120  RR      perhaps                  A7 
+0000044 130  VVG     seeking                  X2.4 
+0000044 140  AT1     a                        Z5 
+0000044 150  JJR     smaller                  N3.2-- N3.7-- N5-- T3-- A11.1-- S5--/I2.1 X3.2- A5.1-- 
+0000044 160  NNU     fine.Meanwhile           Z99 
+0000044 161  ,       ,                        
+0000044 170  VVZ     thecontinues             Z99 
+0000044 180  TO      to                       Z5 
+0000044 190  VVI     investigate              X2.4 
+0000044 200  AT      the                      Z5 
+0000044 210  JJ      sticky                   O4.5 A12- 
+0000044 220  NN2     accelerators             M3/N3.8+ Y1@ 
+0000044 221  ,       ,                        
+0000044 230  JJ      unsatisfied              E4.2- A1.2- 
+0000044 240  IW      with                     Z5 
+0000044 250  NP1     Toyota                   Z3c/M3 
+0000044 251  GE      's                       Z5 
+0000044 260  NN1     claim                    Q2.2 A9+ 
+0000044 270  CST     that                     Z5 Z8 
+0000044 280  NN1     floor                    H2 S5+ 
+0000044 290  NN2     mats                     H5 O2 
+0000044 300  VBDR    were                     A3+ Z5 
+0000044 310  RR      solely                   A14 
+0000044 320  TO      to                       Z5 
+0000044 330  VVI     blame                    Q2.2/G2.2- G2.1 
+0000044 331  .       .                        
+0000044 332  -----   -----                    
+0000044 340  NP1     NHTSA                    Z99 
+0000044 350  VBZ     is                       Z5 A3+ 
+0000044 360  VVG     looking                  X3.4[i21.2.1 X2.4[i21.2.1 X2.1[i21.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000044 370  II      at                       X3.4[i21.2.2 X2.4[i21.2.2 X2.1[i21.2.2 Z5 
+0000044 380  AT1     a                        Z5 
+0000044 390  NN1     host                     S2mf B1@ Y2@ S9% 
+0000044 400  IO      of                       Z5 
+0000044 410  JJ      mechanical               O2 A6.2+ 
+0000044 420  CC      and                      Z5 
+0000044 430  JJ      electrical               O3 
+0000044 440  NN2     elements                 A4.1 N5 S5+c O1 O3 O2 W4 
+0000044 450  IF      for                      Z5 
+0000044 460  NN2     bugs                     B2- L2mfn X2.4/A10- Y2 E2- X5.2+ 
+0000044 461  ,       ,                        
+0000044 470  CC      and                      Z5 
+0000044 480  VBZ     is                       Z5 A3+ 
+0000044 490  RR      even                     A13.1 
+0000044 500  VVG     examining                X2.4 B3 P1 
+0000044 510  CSW     whether                  Z5 
+0000044 520  JJ      cosmic                   W1 
+0000044 530  NN2     rays                     W2 Y1 
+0000044 540  VM      could                    A7+ 
+0000044 550  VVI     play                     K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000044 560  AT1     a                        Z5 
+0000044 570  NN1     role                     I3.1 K4 S1.1.1 A1.1.1 
+0000044 571  ,       ,                        
+0000044 580  IW      with                     Z5 
+0000044 590  AT      the                      Z5 
+0000044 600  NN1     help                     S8+ 
+0000044 610  IO      of                       Z5 
+0000044 620  NN2     experts                  X2.2+/S2mf X9.1+/S2mf 
+0000044 630  II      from                     Z5 
+0000044 640  NP1     NASA                     Z1 
+0000044 650  AT      The                      Z5 
+0000044 660  NN1     government               G1.1c 
+0000044 670  VVZ     continues                T2++ 
+0000044 680  TO      to                       Z5 
+0000044 690  VVI     investigate              X2.4 
+0000044 700  NP1     Toyota                   Z3c/M3 
+0000044 701  GE      's                       Z5 
+0000044 710  NN1     behavior                 S1.1.1 A1.1.1 
+0000044 720  II      during                   Z5 
+0000044 730  AT      the                      Z5 
+0000044 740  NN1@    recall                   X2.2+ I3.1-/G1.2 I2.2/T2- Y2 X3.2/G3 K5.2 
+0000044 741  ,       ,                        
+0000044 750  RR21    as                       N5++[i22.2.1 
+0000044 760  RR22    well                     N5++[i22.2.2 A5.1+ A13.3 A7+ B2+ Z4 
+0000044 761  .       .                        
+0000044 762  -----   -----                    
+0000044 770  NN1     DOT                      O4.4 
+0000044 780  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000044 790  VVD     said                     Q2.1 
+0000044 800  DAR     more                     N5++ 
+0000044 810  NN2     fines                    G2.1/I1.3 
+0000044 820  VM      could                    A7+ 
+0000044 830  VVD     brought                  M2 A2.2 
+0000044 840  II      against                  Z5 
+0000044 850  NP1     Toyota                   Z3c/M3 
+0000044 860  CS      if                       Z7 
+0000044 870  JJR@    further                  N5++ N3.3++ T2++ 
+0000044 880  NN1     proof                    A5.2+ Q4.1 F2 
+0000044 890  IO      of                       Z5 
+0000044 900  NN1     wrongdoing               G2.1- G2.2- 
+0000044 910  VBZ     is                       A3+ Z5 
+0000044 920  NNU     revealed.While           Z99 
+0000044 930  AT      the                      Z5 
+0000044 940  NN1     defect                   A5.1- B2- 
+0000044 950  NN1     mess                     O4.2- F1/G3c 
+0000044 960  VBZ     is                       A3+ Z5 
+0000044 970  JJ      unpleasant               O4.2- 
+0000044 980  IF      for                      Z5 
+0000044 990  DB      all                      N5.1+ 
+0000044 000  DD2     those                    Z8 Z5 
+0000044 010  VVN     involved                 A1.8+ 
+0000044 020  PPH1    it                       Z8 
+0000044 030  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000044 040  VVI     raise                    M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000044 050  DD      some                     N5 Z5 
+0000044 060  JJ      interesting              X5.2+ 
+0000044 070  NN2     questions                Q2.2 X4.1 
+0000044 080  II      about                    Z5 
+0000044 090  NN1     governance               G1.1 
+0000044 091  .       .                        
+0000044 092  -----   -----                    
+0000044 100  DD      Some                     N5 Z5 
+0000044 110  VV0     say                      Q2.1 Z4% 
+0000044 120  CST     that                     Z5 Z8 
+0000044 130  AT      the                      Z5 
+0000044 140  NN1     government               G1.1c 
+0000044 150  VM      should                   S6+ A7+ 
+0000044 160  XX      not                      Z6 
+0000044 170  NN2     police                   G2.1/I2.1c[i23.2.1 G2.1 
+0000044 180  NN2     companies                G2.1/I2.1c[i23.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000044 181  ,       ,                        
+0000044 190  CC      and                      Z5 
+0000044 200  CST     that                     Z5 Z8 
+0000044 210  AT      the                      Z5 
+0000044 220  JJ      commercial               I2.1 
+0000044 230  NN1     press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
+0000044 240  VM      should                   S6+ A7+ 
+0000044 250  VBI     be                       Z5 A3+ 
+0000044 260  VVN     left                     M1 M2 A1.1.1 A1.9 A9- N5.2+ T2- 
+0000044 270  TO      to                       Z5 
+0000044 280  VVI     investigate              X2.4 
+0000044 290  NN2     reports                  Q2.2 X3.2 
+0000044 300  IO      of                       Z5 
+0000044 310  NN2     defects                  A5.1- B2- 
+0000044 320  CC      and                      Z5 
+0000044 330  VVI     inform                   X2.2+ X2.4 Q2.1 
+0000044 340  NN2     consumers                I2.2/S2mf 
+0000044 350  IO      of                       Z5 
+0000044 360  NN1     safety                   A15+ 
+0000044 370  NN1     risk                     A15- A1.4 
+0000044 371  .       .                        
+0000044 372  -----   -----                    
+0000044 380  NN2     Others                   A6.1-/Z8 
+0000044 390  VV0     argue                    Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 
+0000044 400  AT      the                      Z5 
+0000044 410  JJ      current                  T1.1.2 
+0000044 420  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000044 430  VBZ     is                       A3+ Z5 
+0000044 440  AT1     a                        Z5 
+0000044 450  JJ      successful               X9.2+ 
+0000044 460  PN1     one                      Z8 
+0000044 461  .       .                        
+0000044 462  -----   -----                    
+0000044 470  CC      And                      Z5 
+0000044 480  JJ@     still                    M8 E3+ O4.5 
+0000044 490  NN2     others                   A6.1-/Z8 
+0000044 500  VV0     argue                    Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 
+0000044 510  CST     that                     Z5 Z8 
+0000044 520  JJ      current                  T1.1.2 
+0000044 530  NN1     regulation               G2.1 A1.7+/G1.1 
+0000044 540  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000044 550  XX      not                      Z6 
+0000044 560  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000044 570  RR      far                      A13.3 N3.3+ X9.2+ 
+0000044 580  DD      enough                   N5+ N6+ 
+0000044 590  NN1     --                       Z99 
+0000044 600  CST     that                     Z5 Z8 
+0000044 610  AT      the                      Z5 
+0000044 620  JJ      federal                  S5+ 
+0000044 630  NN1     government               G1.1c 
+0000044 640  VM      should                   S6+ A7+ 
+0000044 650  VHI     have                     A9+ Z5 A2.2 S4 
+0000044 660  AT      the                      Z5 
+0000044 670  NN1     ability                  X9.1+ 
+0000044 680  TO      to                       Z5 
+0000044 690  VVI     levy                     G1.1/I1.1 
+0000044 700  RR      even                     A13.1 
+0000044 710  JJR     bigger                   N3.2++ N5++ A11.1++ S1.2.5++ X5.2++ 
+0000044 720  NN2     fines                    G2.1/I1.3 
+0000044 730  II      against                  Z5 
+0000044 740  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000044 750  PNQS    who                      Z8 
+0000044 760  RR      knowingly                X2.2+ 
+0000044 770  VV0     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000044 780  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000044 790  CST     that                     Z8 Z5 
+0000044 800  VM      could                    A7+ 
+0000044 810  VVI     endanger                 A15- 
+0000044 820  NP1     U.S.                     Z8 
+0000044 830  NNU     consumers.Likewise       Z99 
+0000044 831  ,       ,                        
+0000044 840  AT      the                      Z5 
+0000044 850  MC      135                      N1 T1.2 T3 T1.3 N3.2 
+0000044 860  JJ      pending                  T1.1.3 
+0000044 870  NN2     lawsuits                 G2.1 
+0000044 880  II      against                  Z5 
+0000044 890  NP1     Toyota                   Z3c/M3 
+0000044 900  VV0     raise                    M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000044 910  JJ      similar                  A6.1+ 
+0000044 920  NN2     questions                Q2.2 X4.1 
+0000044 921  .       .                        
+0000044 922  -----   -----                    
+0000044 930  DD      Some                     N5 Z5 
+0000044 940  VV0     argue                    Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 
+0000044 950  CST     that                     Z8 Z5 
+0000044 960  VVG     allowing                 S7.4+ S8+ X2.1 
+0000044 970  DA      such                     Z5 Z8 
+0000044 980  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000044 990  NN1     litigation               G2.1 
+0000044 000  II      against                  Z5 
+0000044 010  NN1     safety                   A15+ 
+0000044 020  JJ      critical                 Q2.2/E2- X2.4 A11.1+ A15- 
+0000044 030  NN2     businesses               I2.1 A1.1.1 A5.1+++ 
+0000044 031  ,       ,                        
+0000044 040  II21    such                     Z5[i24.2.1 
+0000044 050  II22    as                       Z5[i24.2.2 Z5 
+0000044 060  NN2     automakers               Z99 
+0000044 070  CC      and                      Z5 
+0000044 080  NN1     healthcare               B3 
+0000044 090  NN2     providers                A9-/S2mf 
+0000044 100  VVZ     allows                   S7.4+ S8+ X2.1 
+0000044 110  NN2     citizens                 G1.1/S2mf S5+/S2mf 
+0000044 120  TO      to                       Z5 
+0000044 130  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000044 140  NN1     regulation               G2.1 A1.7+/G1.1 
+0000044 150  II      into                     Z5 
+0000044 160  APPGE   their                    Z8[i25.2.1 Z8 
+0000044 170  DA      own                      Z8[i25.2.2 A9+ S5- 
+0000044 180  NN2     hands                    B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000044 181  .       .                        
+0000044 182  -----   -----                    
+0000044 190  NN2     Others                   A6.1-/Z8 
+0000044 200  VV0     argue                    Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 
+0000044 210  CST     that                     Z8 Z5 
+0000044 220  PPH1    it                       Z8 
+0000044 230  VVZ     hinders                  S8- 
+0000044 240  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000044 250  NN1     enterprise               I2.1 X8+ 
+0000044 251  ,       ,                        
+0000044 260  VVG     raising                  M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 
+0000044 270  NN2     prices                   I1.3 
+0000044 271  ,       ,                        
+0000044 280  CC      and                      Z5 
+0000044 290  JJR     worse                    A5.1-- 
+0000044 300  RR      yet                      T1.1.2 
+0000044 310  VVZ     leads                    A2.2[i26.2.1 M6[i26.2.1 S7.1+ A2.2 M2 A1.1.1 
+0000044 320  II      to                       A2.2[i26.2.2 M6[i26.2.2 Z5 
+0000044 330  JJR     bigger                   N3.2++ N5++ A11.1++ S1.2.5++ X5.2++ 
+0000044 340  NN1     government               G1.1c 
+0000044 341  .       .                        
+0000049 001  NULL    <quote>                  
+0000049 002  -----   -----                    
+0000049 010  RG      So                       T1.1.2[i27.2.1 M6[i27.2.1 N5[i27.2.1 A13.3 
+0000049 020  RR      far                      T1.1.2[i27.2.2 M6[i27.2.2 N5[i27.2.2 A13.3 N3.3+ X9.2+ 
+0000049 030  PPIS2   we                       Z8 
+0000049 040  VH0     have                     Z5 A9+ A2.2 S4 
+0000049 050  XX      not                      Z6 
+0000049 060  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000049 070  AT1     a                        Z5 
+0000049 080  JJ      single                   N5--- S5- S3.2- M3 
+0000049 090  NN1     Android                  O3 
+0000049 100  NN1     device                   O2 X4.2 Q1.1 
+0000049 110  CST     that                     Z8 Z5 
+0000049 120  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000049 130  XX      not                      Z6 
+0000049 140  VVI     infringe                 G2.1- 
+0000049 150  II      on                       Z5 
+0000049 160  APPGE   our                      Z8 
+0000049 170  NN2     patents                  A9+/Q1.2 
+0000049 171  .       .                        
+0000049 172  "       "                        
+0000049 173  NULL    </quote>                 
+0000049 174  -----   -----                    
+0000049 180  JJ      --                       Z99 
+0000049 190  NP1     Microsoft                Z3c 
+0000049 200  NNB     General                  N5+ A4.2- G3/S7.1+/S2mf B3/H1 
+0000049 210  NP1     Counsel                  Z1mf[i29.3.1 Z3c[i29.3.1 Z1mf[i28.2.1 Z3c[i28.2.1 
+0000049 220  NP1     Brad                     Z1mf[i29.3.2 Z3c[i29.3.2 Z1m Z1mf[i28.2.2 Z3c[i28.2.2 Z1mf[i30.2.1 Z3c[i30.2.1 
+0000049 230  NP1     Smith                    Z3c[i29.3.3 Z1mf[i29.3.3 Z1mf Z1mf[i30.2.2 Z3c[i30.2.2 
+0000052 001  NULL    **8;7;text               

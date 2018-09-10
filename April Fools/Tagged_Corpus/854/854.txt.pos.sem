@@ -1,0 +1,1312 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000004 010  AT1     A                        Z5 
+0000004 020  NN1     plot                     G2.1- G2.2- X4.1 M7 
+0000004 030  TO      to                       Z5 
+0000004 040  VVI     flood                    W4 N5+ 
+0000004 050  AT      the                      Z5 
+0000004 060  NN2     streets                  M3/H3 
+0000004 070  IO      of                       Z5 
+0000004 080  NP1     Sussex                   Z2 
+0000004 090  IW      with                     Z5 
+0000004 100  MC      100,000                  N1 T1.2 T3 T1.3 N3.2 
+0000004 110  NN2     wraps                    O2 B5 
+0000004 120  IO      of                       Z5 
+0000004 130  NN1     heroin                   F3 
+0000004 140  VBDZ    was                      Z5 A3+ 
+0000004 150  VVN@    foiled                   S8- 
+0000004 160  II      in                       Z5 
+0000004 170  AT1     an                       Z5 
+0000004 180  NN1     operation                A1.1.1 B3 G3 
+0000004 190  VVN     branded                  Q1.1 
+0000004 200  AT      the                      Z5 
+0000004 210  RGT     most                     A13.2 
+0000004 220  JJ      successful               X9.2+ 
+0000004 230  IO      of                       Z5 
+0000004 240  APPGE   its                      Z8 
+0000004 250  NN1     kind                     A4.1 
+0000004 260  TO      to                       Z5 
+0000004 270  VBI     be                       Z5 A3+ 
+0000004 280  VVN     conducted                A1.1.1 S1.1.1 K2 O4.1 
+0000004 290  II      in                       Z5 
+0000004 300  AT      the                      Z5 
+0000004 310  NN1     county                   M7 
+0000004 311  .       .                        
+0000005 001  -----   -----                    
+0000006 010  MC      Five                     N1 T3 T1.2 
+0000006 020  NN2     men                      S2.2m 
+0000006 030  VBR     are                      Z5 A3+ 
+0000006 040  VVG     facing                   M6 S1.1.1 X2.1 B5 
+0000006 050  JJ      long                     N3.7+ T1.3+ N3.3+ N3.2+ 
+0000006 060  NN1     prison                   G2.1/H1 
+0000006 070  NN2     terms                    Q3 T1.3 A4.1 S6+ 
+0000006 080  II      after                    Z5 
+0000006 090  NN1     drug                     F3/G2.1[i1.2.1 B3 F3 
+0000006 100  NN1     squad                    F3/G2.1[i1.2.2 G3/S5+c S5+c 
+0000006 110  NN2     officers                 G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
+0000006 120  VVD     seized                   A9+ X9.2+/G3 S7.1+ 
+0000006 130  AT1     a                        Z5 
+0000006 140  NN1     record                   Q1.2 K3 T1.1.1 A5.1+++ 
+0000006 150  NNU     18kg                     N3.5 
+0000006 160  IO      of                       Z5 
+0000006 170  AT      the                      Z5 
+0000006 180  NN1     class                    B3[i2.3.1 F3[i2.3.1 P1c A4.1 S5+c O4.2+ 
+0000006 190  ZZ1     A                        B3[i2.3.2 F3[i2.3.2 Z5 
+0000006 200  NN1     drug                     B3[i2.3.3 F3[i2.3.3 B3 F3 
+0000006 201  .       .                        
+0000007 001  -----   -----                    
+0000008 010  NN1     Crime                    G2.1- 
+0000008 020  NN1     reporter                 Q4.2/S2mf 
+0000008 030  NP1     BEN                      Z1mf[i3.2.1 Z3c[i3.2.1 Z1m 
+0000008 040  NP1     PARSONS                  Z1mf[i3.2.2 Z3c[i3.2.2 Z1mfn 
+0000008 050  VVZ     reports                  Q2.2 S7.1- 
+0000008 060  II      on                       Z5 
+0000008 070  MC1     one                      N1 T3 T1.2 
+0000008 080  IO      of                       Z5 
+0000008 090  AT      the                      Z5 
+0000008 100  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
+0000008 110  JJ      wholesale                I2.2 N5.1+ 
+0000008 120  NN1     heroin                   F3 
+0000008 130  VVZ     rings                    Q1.3 X3.2 A8 O4.4 
+0000008 140  NN2     detectives               G2.1/S2mf 
+0000008 150  VH0     have                     Z5 A9+ A2.2 S4 
+0000008 160  RR      ever                     T1.1 N6+++ A13 
+0000008 170  VVN     brought                  M2 A2.2 
+0000008 180  II      before                   Z5 
+0000008 190  AT      the                      Z5 
+0000008 200  NN2     courts                   G2.1 H3 M7/K5.2 
+0000008 201  .       .                        
+0000009 001  -----   -----                    
+0000010 010  II      In                       Z5 
+0000010 020  AT      the                      Z5 
+0000010 030  NN1     back                     B1 M6 
+0000010 040  IO      of                       Z5 
+0000010 050  AT1     a                        Z5 
+0000010 060  NN1     taxi                     M3fn 
+0000010 070  II      in                       Z5 
+0000010 080  AT1     a                        Z5 
+0000010 090  NP1     London                   Z2[i4.2.1 Z2 
+0000010 100  NN1     street                   Z2[i4.2.2 M3/H3 
+0000010 110  MD      last                     T1.1.1[i5.2.1 N4 
+0000010 120  NNT1    summer                   T1.1.1[i5.2.2 T1.3 
+0000010 121  ,       ,                        
+0000010 130  AT1     a                        Z5 
+0000010 140  NN1     passenger                M3/S2mf M4/S2mf M5/S2mf 
+0000010 150  VVD     sat                      M8 C1 P1 G1.1 G2.1 M6 A9+ 
+0000010 160  IW      with                     Z5 
+0000010 170  AT1     a                        Z5 
+0000010 180  NN1     bin                      O2/B4[i6.2.1 O2 B3/H1@ 
+0000010 190  NN1     bag                      O2/B4[i6.2.2 B5 O2 B1 
+0000010 200  II      on                       Z5 
+0000010 210  AT1     a                        Z5 
+0000010 220  NN1     seat                     H5 B5 S1.1.3+ S7.1+ M7 
+0000010 230  II21    next                     Z5[i7.2.1 A13.4[i7.2.1 
+0000010 240  II22    to                       Z5[i7.2.2 A13.4[i7.2.2 Z5 
+0000010 250  PPHO1   him                      Z8m 
+0000010 251  .       .                        
+0000011 001  -----   -----                    
+0000012 010  AT      The                      Z5 
+0000012 020  NN1     car                      M3fn 
+0000012 030  VBDZ    was                      Z5 A3+ 
+0000012 040  VVN     pulled                   M3[i8.2.1 M3/G2.1[i8.2.1 M2 A9+ M1 
+0000012 050  RP      over                     M3[i8.2.2 M3/G2.1[i8.2.2 T2- M6 
+0000012 060  CC      and                      Z5 
+0000012 070  AT      the                      Z5 
+0000012 080  NN1     man                      S2.2m 
+0000012 090  VBDZ    was                      Z5 A3+ 
+0000012 100  VVN     confronted               A1.1.1 S1.1.1 
+0000012 110  II      by                       Z5 
+0000012 120  JJ      Metropolitan             Z3c[i9.2.1 M7 
+0000012 130  NN2     Police                   Z3c[i9.2.2 G2.1 G2.1/S2mf[i10.2.1 
+0000012 140  NN2     officers                 G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf G2.1/S2mf[i10.2.2 
+0000012 141  ,       ,                        
+0000012 150  VVG     acting                   A1.1.1 T1.1.2 A8 K4 
+0000012 160  II      at                       Z5 
+0000012 170  AT      the                      Z5 
+0000012 180  NN1     request                  Q2.1 Q2.2 
+0000012 190  IO      of                       Z5 
+0000012 200  NP1     Sussex                   Z2 
+0000012 210  VVZ@    Polices                  G2.1 G2.2 
+0000012 220  JJ      serious                  A11.1+ A15- E4.1- 
+0000012 230  JJ      organised                G2.1-[i11.2.1 S7.1+ O4.1 S5+@ 
+0000012 240  NN1     crime                    G2.1-[i11.2.2 G2.1- 
+0000012 250  NN1     unit                     S5+c O2 H5 H1 N3.1 P1 N1 
+0000012 251  .       .                        
+0000013 001  -----   -----                    
+0000014 010  II      Inside                   Z5 
+0000014 020  AT      the                      Z5 
+0000014 030  NN1     bag                      B5 O2 B1 
+0000014 040  VBDZ    was                      A3+ Z5 
+0000014 050  NNU     10kg                     N3.5 
+0000014 060  IO      of                       Z5 
+0000014 070  NN1     heroin                   F3 
+0000014 071  ,       ,                        
+0000014 080  II      worth                    I1.3 A1.5.2+ S1.1.4+ N5 Z3 Z1mf Z2 
+0000014 090  DB      half                     N5 
+0000014 100  AT1     a                        Z5 
+0000014 110  NNO     million                  N1 I1 
+0000014 120  NN2     pounds                   M7 
+0000014 121  ,       ,                        
+0000014 130  DDQ     which                    Z8 Z5 
+0000014 140  VBDZ    was                      Z5 A3+ 
+0000014 150  VVN     destined                 A7+++/S7.1- 
+0000014 160  IF      for                      Z5 
+0000014 170  NP1     Sussex                   Z2 
+0000014 171  .       .                        
+0000015 001  -----   -----                    
+0000016 010  AT      The                      Z5 
+0000016 020  NP1     London                   Z2 
+0000016 030  NN1     seizure                  A9+ X9.2+/G3 S7.1+ B2- 
+0000016 040  VBDZ    was                      A3+ Z5 
+0000016 050  AT      the                      Z5 
+0000016 060  MD      first                    N4 
+0000016 070  II      in                       Z5 
+0000016 080  AT1     a                        Z5 
+0000016 090  NNT1    week                     T1.3 
+0000016 100  IO      of                       Z5 
+0000016 110  NN2     arrests                  G2.1 
+0000016 120  CC      and                      Z5 
+0000016 130  NN2     searches                 X2.4 
+0000016 140  DDQ     which                    Z8 Z5 
+0000016 150  VVD     netted                   A9+ I1.1 
+0000016 160  NN2     detectives               G2.1/S2mf 
+0000016 170  APPGE   their                    Z8 
+0000016 180  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
+0000016 190  NN1     haul                     N5 
+0000016 200  IO      of                       Z5 
+0000016 210  NN1     heroin                   F3 
+0000016 220  II      to                       T1.1.2[i12.2.1 Z5 
+0000016 230  NN1     date                     T1.1.2[i12.2.2 T1.2 S3.2 S3.2/S2mf 
+0000016 231  .       .                        
+0000017 001  -----   -----                    
+0000018 010  AT1     A                        Z5 
+0000018 020  NN1     total                    N5.1+ 
+0000018 030  IO      of                       Z5 
+0000018 040  NNU     18kg                     N3.5 
+0000018 050  VBDZ    was                      Z5 A3+ 
+0000018 060  VVN     found                    A10+ X2.1 X6+.1 
+0000018 070  CC      and                      Z5 
+0000018 080  VBDZ    was                      A3+ Z5 
+0000018 090  II      worth                    I1.3 A1.5.2+ S1.1.4+ N5 Z3 Z1mf Z2 
+0000018 100  MC1     1                        N1[i13.2.1 T1.3[i13.2.1 I1[i13.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000018 110  NNO     million                  N1[i13.2.2 T1.3[i13.2.2 I1[i13.2.2 N1 I1 
+0000018 120  II      to                       Z5 
+0000018 130  AT      the                      Z5 
+0000018 140  NN2     pushers                  F3/S2mf M2/S2mf 
+0000018 150  CC      and                      Z5 
+0000018 160  VVD     represented              Q1.1 A6.2+ S1.1.3 A5.4- K4 
+0000018 170  MC      100,000                  N1 T1.2 T3 T1.3 N3.2 
+0000018 171  NULL    <quote>                  
+0000018 172  -----   -----                    
+0000018 180  NN2     wraps                    O2 B5 
+0000018 181  NULL    </quote>                 
+0000018 182  -----   -----                    
+0000018 190  VVN     taken                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000018 200  II      off                      Z5 E2- 
+0000018 210  AT      the                      Z5 
+0000018 220  NN2     streets                  M3/H3 
+0000018 221  .       .                        
+0000019 001  -----   -----                    
+0000020 010  MC      Five                     N1 T3 T1.2 
+0000020 020  NN2     men                      S2.2m 
+0000020 030  VH0     have                     Z5 A9+ A2.2 S4 
+0000020 040  RT      now                      T1.1.2 Z4 
+0000020 050  VVN     admitted                 Q2.2 B3 A1.8+ S7.4+/M1 
+0000020 060  APPGE   their                    Z8 
+0000020 070  NN2     roles                    I3.1 K4 S1.1.1 A1.1.1 
+0000020 080  CSA     as                       Z5 
+0000020 090  JJ      key                      A11.1+ 
+0000020 100  NN2     links                    A2.2 S5+ M3 Q1.3 F1 K5.1/M7% 
+0000020 110  II      in                       Z5 
+0000020 120  AT      the                      Z5 
+0000020 130  JJR     higher                   N3.7++ N5++ A11.1++ S7.1++ A5.1++ T3-- X3.2 G2.2++ E4.1++ I1.3++ O4.2-- O4.6++ S9 
+0000020 140  NN2     reaches                  N3.3 X9.1+ 
+0000020 150  IO      of                       Z5 
+0000020 160  AT      the                      Z5 
+0000020 170  NN1     heroin                   F3 
+0000020 180  NN1     supply                   I2.2[i14.2.1 I4[i14.2.1 A9- A9+ S8+% 
+0000020 190  NN1     chain                    I2.2[i14.2.2 I4[i14.2.2 S5+/I2.1c O2 N4 B5 S7.1 
+0000020 191  .       .                        
+0000021 001  -----   -----                    
+0000022 010  DD1     This                     Z8 M6 Z5 
+0000022 020  VBDZ    was                      A3+ Z5 
+0000022 030  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000022 040  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000022 050  RG      so                       A13.3 
+0000022 060  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000022 070  CST     that                     Z5 Z8 
+0000022 080  MC1     one                      N1 T3 T1.2 
+0000022 090  IO      of                       Z5 
+0000022 100  AT      the                      Z5 
+0000022 110  JJ      key                      A11.1+ 
+0000022 120  NN2     organisers               S7.1+/S2mf 
+0000022 130  VBDZ    was                      M6[i15.2.1 A3+ Z5 
+0000022 140  RP      back                     M6[i15.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000022 150  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000022 160  II      at                       Z5 
+0000022 170  APPGE   his                      Z8m 
+0000022 180  JJ      makeshift                T1.3/A5.1- 
+0000022 190  NN1     heroin                   F3[i16.2.1 F3 
+0000022 200  NN1     factory                  F3[i16.2.2 I4/H1c 
+0000022 210  AT      the                      N4/T1.3[i17.3.1 Z5 
+0000022 220  NNT1    day                      N4/T1.3[i17.3.2 T1.3 
+0000022 230  CS      after                    N4/T1.3[i17.3.3 Z5 
+0000022 240  PPHS1   he                       Z8m 
+0000022 250  VVD     got                      S4[i18.2.1 A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000022 260  VVN     married                  S4[i18.2.2 S4 A2.2 
+0000022 261  .       .                        
+0000023 001  -----   -----                    
+0000024 010  NP1@    Atif                     Z1mf[i19.2.1 Z3c[i19.2.1 
+0000024 020  NP1     Ali                      Z1mf[i19.2.2 Z3c[i19.2.2 Z1mf 
+0000024 030  VBDZ    was                      A3+ Z5 
+0000024 040  AT      the                      Z5 
+0000024 050  NN1     Mercedes-driving         Z99 
+0000024 060  VV0     lynch                    G2.1/E3- 
+0000024 070  NN1     pin                      O2 
+0000024 080  II      at                       Z5 
+0000024 090  AT      the                      Z5 
+0000024 100  NP1     Sussex                   Z2[i20.2.1 Z2 
+0000024 110  NN1     end                      Z2[i20.2.2 M6 T2- O2 X7+ N4 
+0000024 120  IO      of                       Z5 
+0000024 130  AT      the                      Z5 
+0000024 140  NN1     operation                A1.1.1 B3 G3 
+0000024 141  .       .                        
+0000025 001  -----   -----                    
+0000026 010  PPHS1   He                       Z8m 
+0000026 020  VVD     took                     A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000026 030  NNT1    time                     K1/T1.3[i23.2.1 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ Z3c[i22.2.1 K1/T1.3[i21.2.1 
+0000026 040  RP      out                      K1/T1.3[i23.2.2 M6 Z3c[i22.2.2 K1/T1.3[i21.2.2 
+0000026 050  II      as                       Z5 
+0000026 060  AT      the                      Z5 
+0000026 070  NN1     chain                    S5+/I2.1c O2 N4 B5 S7.1 
+0000026 080  VVN     crumbled                 A1.1.1 
+0000026 090  II      around                   Z5 
+0000026 100  PPHO1   him                      Z8m 
+0000026 110  TO      to                       Z5 
+0000026 120  VVI     get                      S4[i24.2.1 A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000026 130  VVN     married                  S4[i24.2.2 S4 A2.2 
+0000026 140  II      at                       Z5 
+0000026 150  ND1     South                    Z2[i25.2.1 Z3c[i25.2.1 M6 
+0000026 160  NP1     Lodge                    Z2[i25.2.2 Z3c[i25.2.2 Z3c[i26.2.1 
+0000026 170  NN1     Hotel                    H4/H1 Z3c[i26.2.2 
+0000026 180  II      in                       Z5 
+0000026 190  NP1     Horsham                  Z2 
+0000026 200  AT      the                      Z5 
+0000026 210  JJ      swanky                   Z99 
+0000026 220  JJ      five-star                Z99 
+0000026 230  NN1     venue                    M7 
+0000026 240  VVN     used                     A1.5.1 S7.1+ 
+0000026 250  II      by                       Z5 
+0000026 260  NN1     finance                  I1 
+0000026 270  NN2     ministers                G1.1/S2mf S9/S2mf 
+0000026 280  II      in                       Z5 
+0000026 290  APPGE   their                    Z8 
+0000026 300  NN1     advance                  I1.1 M1/G3 S3.2 A5.1+/A2.1+ 
+0000026 310  VVG     meeting                  S3.1 M6 A1.1.1 X9.2+ A6.1+ 
+0000026 320  IF      for                      Z5 
+0000026 330  AT      the                      Z5 
+0000026 340  FO      G20                      Z99 
+0000026 350  NN1     summit                   W3 N5.1+ S1.1.3+ 
+0000026 360  MD      last                     T1.1.1[i27.2.1 N4 
+0000026 370  NNT1    month                    T1.1.1[i27.2.2 T1.3 
+0000026 371  .       .                        
+0000027 001  -----   -----                    
+0000028 010  APPGE   His                      Z8m 
+0000028 020  JJ      high-rolling             Z99 
+0000028 030  NN1     image                    O4.1 A8 X2.1 C1 
+0000028 040  VVD     belied                   Z99 
+0000028 050  AT      the                      Z5 
+0000028 060  JJ      squalid                  O4.2- G2.2- 
+0000028 070  NN1     cottage                  I4/H1c[i28.2.1 H1 F1% 
+0000028 080  NN1     industry                 I4/H1c[i28.2.2 I4c I2.1c 
+0000028 090  PPHS1   he                       Z8m 
+0000028 100  CC      and                      Z5 
+0000028 110  APPGE   his                      Z8m 
+0000028 120  NN2     cronies                  S3.1mf 
+0000028 130  VBDR    were                     Z5 A3+ 
+0000028 140  VVG     running                  M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000028 141  .       .                        
+0000029 001  -----   -----                    
+0000030 010  NN2     Detectives               G2.1/S2mf 
+0000030 020  VVD     watched                  X3.4 S7.1 X2.4 A1.3+ 
+0000030 030  PPHO1   him                      Z8m 
+0000030 040  VVG     shopping                 I2.2 G2.1@ 
+0000030 050  II      in                       Z5 
+0000030 060  NP1     Crawley                  Z2 Z3c Z1 
+0000030 070  IF      for                      Z5 
+0000030 080  NN1     gear                     O2 B5 F3 
+0000030 090  II      including                A1.8+ 
+0000030 100  AT1     a                        Z5 
+0000030 110  NN1     food                     F1 
+0000030 120  NN1     mixer                    O3 S1.1.3+/S2mf F2 K3 A2.1+/S2mf 
+0000030 121  ,       ,                        
+0000030 130  JJ      brown                    O4.3 
+0000030 140  NN1     packaging                O2 A1.1.1 
+0000030 150  NN1     tape                     K3 Q4.3 Y2 O2 
+0000030 151  ,       ,                        
+0000030 160  VV0     latex                    O1 L3 
+0000030 170  NN2     gloves                   B5 
+0000030 180  CC      and                      Z5 
+0000030 190  JJ      protective               S8+/A15+ A10- 
+0000030 200  NN1     face                     K4/B5[i29.2.1 B1 W3 O2 A8 S1.2.3+ 
+0000030 210  NN2     masks                    K4/B5[i29.2.2 B5 A10- B4 
+0000030 211  .       .                        
+0000031 001  -----   -----                    
+0000032 010  CS      When                     Z5 
+0000032 020  PPHS1   he                       Z8m 
+0000032 030  VBDZ    was                      Z5 A3+ 
+0000032 040  RR      finally                  N4 
+0000032 050  VVN     arrested                 G2.1 
+0000032 051  ,       ,                        
+0000032 060  NN2     police                   G2.1 
+0000032 070  VVD     found                    A10+ X2.1 X6+ 
+0000032 080  DD2     those                    Z5 Z8 
+0000032 090  NN2     wares                    O2 
+0000032 100  VVN     covered                  A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1 
+0000032 110  II      in                       Z5 
+0000032 120  NN2     traces                   A11.2+ N5- X2.4 
+0000032 130  IO      of                       Z5 
+0000032 140  NN1     heroin                   F3 
+0000032 150  II      at                       Z5 
+0000032 160  AT      the                      Z5 
+0000032 170  NN1     home                     H4/H1c M6 
+0000032 180  IO      of                       Z5 
+0000032 190  APPGE   his                      Z8m 
+0000032 200  NN1     crony                    S3.1mf 
+0000032 210  NP1     Aaron                    Z1mf[i30.2.1 Z3c[i30.2.1 Z1m 
+0000032 220  NP1     Pritchard                Z1mf[i30.2.2 Z3c[i30.2.2 
+0000032 221  .       .                        
+0000032 222  -----   -----                    
+0000032 230  AT1     A                        Z5 
+0000032 240  JJ      hydraulic                O2 
+0000032 250  NN1     press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
+0000032 260  VBDZ    was                      Z5 A3+ 
+0000032 270  VBG     being                    Z5 A3+ 
+0000032 280  VVN     used                     T1.1.1[i31.2.1 A6.2+[i31.2.1 A1.5.1 S7.1+ 
+0000032 290  TO      to                       T1.1.1[i31.2.2 A6.2+[i31.2.2 Z5 
+0000032 300  VVI     compress                 N3.4- N3.7- T1.3- 
+0000032 310  AT      the                      Z5 
+0000032 320  JJ@     mixed                    A6.3+ S1.1.3+ S2 
+0000032 330  NN1     drug                     B3 F3 
+0000032 340  II      into                     Z5 
+0000032 350  JJ      bricklike                Z99 
+0000032 360  NN2     blocks                   O2 H1 N5+ S8- B3 
+0000032 361  .       .                        
+0000033 001  -----   -----                    
+0000034 010  CS      While                    Z5 
+0000034 020  NN2     prosecutors              G2.1/I3.1/S2mf 
+0000034 030  VVD     stopped                  T2- S8- M8 H4 A1.1.1@ 
+0000034 040  JJ      short                    N5-[i32.2.1 T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
+0000034 050  IO      of                       N5-[i32.2.2 Z5 
+0000034 060  VVG     describing               Q2.2 
+0000034 070  NP1     Ali                      Z1mf 
+0000034 080  II      as                       Z5 
+0000034 090  AT1     a                        Z5 
+0000034 091  NULL    <quote>                  
+0000034 092  -----   -----                    
+0000034 100  NNB     Mr                       S2.2m 
+0000034 110  JJ      Big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000034 111  NULL    </quote>                 
+0000034 112  -----   -----                    
+0000034 113  ,       ,                        
+0000034 120  PPHS1   he                       Z8m 
+0000034 130  VBZ     is                       Z5 A3+ 
+0000034 140  VVN@    said                     Q2.1 
+0000034 150  TO      to                       Z5 
+0000034 160  VHI     have                     Z5 A9+ A2.2 S4 
+0000034 170  VBN     been                     Z5 A3+ 
+0000034 180  VVG     co-ordinating            S7.1+ T1.1.2 
+0000034 190  AT      the                      Z5 
+0000034 200  NN1     traffic                  M3 M4 G2.1-/I2.2 M1 S1.1.2+ 
+0000034 210  IO      of                       Z5 
+0000034 220  NN1     heroin                   F3 
+0000034 230  VVN     carried                  A1.1.1[i33.2.1 M2[i33.2.1 M2 A9+ Q4 S7.4+ B1% B2-% 
+0000034 240  RP      out                      A1.1.1[i33.2.2 M2[i33.2.2 M6 
+0000034 250  II      by                       Z5 
+0000034 260  AT      the                      Z5 
+0000034 270  JJ      other                    A6.1- 
+0000034 280  MC      four                     N1 T3 T1.2 
+0000034 290  NN2     defendants               G2.1/S2 
+0000034 291  .       .                        
+0000035 001  -----   -----                    
+0000036 010  PPHS1   He                       Z8m 
+0000036 020  VVD     used                     A1.5.1 S7.1+ 
+0000036 030  NN2     intermediaries           S8+/S2mf 
+0000036 040  TO      to                       Z5 
+0000036 050  VVI     spend                    I1.2 A1.5.1 T1.3 
+0000036 060  RG@     as                       A13 
+0000036 070  DA1     little                   N5- 
+0000036 080  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000036 090  II31    in                       S1.1.1[i34.3.1 M6[i34.3.1 Z5 
+0000036 100  II32    contact                  S1.1.1[i34.3.2 M6[i34.3.2 
+0000036 110  II33    with                     S1.1.1[i34.3.3 M6[i34.3.3 
+0000036 120  AT      the                      Z5 
+0000036 130  NN2     drugs                    B3 F3 
+0000036 140  CSA     as                       Z5 
+0000036 150  JJ      possible                 A7+ 
+0000036 160  CS      when                     Z5 
+0000036 170  PPHS2   they                     Z8mfn 
+0000036 180  VBDR    were                     A3+ Z5 
+0000036 190  II      in                       Z5 
+0000036 200  NN1     transit                  M1 M3 
+0000036 210  CCB     but                      Z5 
+0000036 220  AT      the                      Z5 
+0000036 230  NN1     trail                    O2 X2.4 M7 
+0000036 240  VVD     led                      S7.1+ A2.2 M2 A1.1.1 
+0000036 250  RR      inexorably               T2++ 
+0000036 260  II      to                       Z5 
+0000036 270  APPGE   his                      Z8m 
+0000036 280  NN1     door                     H2 H1@ 
+0000036 281  .       .                        
+0000037 001  -----   -----                    
+0000038 010  II      On                       Z5 
+0000038 020  NPD1    Monday                   T1.3 
+0000038 021  ,       ,                        
+0000038 030  NPM1    August                   T1.3[i35.2.1 T1.3 
+0000038 040  MC      4                        T1.3[i35.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000038 041  ,       ,                        
+0000038 050  MD      last                     T1.1.1[i37.2.1 N4 T1.3[i36.2.1 P1/S2mf[i36.2.1 
+0000038 060  NNT1    year                     T1.1.1[i37.2.2 T1.3 P1c T1.3[i36.2.2 P1/S2mf[i36.2.2 
+0000038 061  ,       ,                        
+0000038 070  NP1     Ali                      Z1mf 
+0000038 080  VVD     sent                     M2 A2.2 
+0000038 090  NP1     Jamie                    Z1mf[i38.2.1 Z3c[i38.2.1 Z1mf 
+0000038 100  NP1     Cowsell                  Z1mf[i38.2.2 Z3c[i38.2.2 
+0000038 110  II      to                       Z5 
+0000038 120  NP1     London                   Z2 
+0000038 130  TO      to                       Z5 
+0000038 140  VVI     pick                     M2[i39.2.1 A9+[i39.2.1 X3[i39.2.1 X2.3+[i39.2.1 A5.1+/A2.1[i39.2.1 A10+[i39.2.1 S3.2[i39.2.1 T2+[i39.2.1 I2.2[i39.2.1 M3fn[i39.2.1 G2.1[i39.2.1 X7+ A1.1.1 
+0000038 150  RP      up                       M2[i39.2.2 A9+[i39.2.2 X3[i39.2.2 X2.3+[i39.2.2 A5.1+/A2.1[i39.2.2 A10+[i39.2.2 S3.2[i39.2.2 T2+[i39.2.2 I2.2[i39.2.2 M3fn[i39.2.2 G2.1[i39.2.2 
+0000038 160  NNU     10kg                     N3.5 
+0000038 170  IO      of                       Z5 
+0000038 180  NN1     heroin                   F3 
+0000038 181  .       .                        
+0000039 001  -----   -----                    
+0000040 010  NN1     Cowsell                  Z99 
+0000040 020  VBDZ    was                      Z5 A3+ 
+0000040 030  VVN     arrested                 G2.1 
+0000040 040  II      in                       Z5 
+0000040 050  AT      the                      Z5 
+0000040 060  NN1     back                     B1 M6 
+0000040 070  IO      of                       Z5 
+0000040 080  AT1     a                        Z5 
+0000040 090  NN1     taxi                     M3fn 
+0000040 100  II      in                       Z5 
+0000040 110  NP1     Wandsworth               Z2[i40.3.1 Z2 Z2[i41.2.1 Z1mf[i42.2.1 Z3c[i42.2.1 
+0000040 120  NP1     Bridge                   Z2[i40.3.2 Z2[i41.2.2 Z1mf[i42.2.2 Z3c[i42.2.2 Z2[i43.2.1 
+0000040 130  NNL1    Road                     Z2[i40.3.3 Z2[i43.2.2 
+0000040 131  ,       ,                        
+0000040 140  II      in                       Z5 
+0000040 150  NP1     Hammersmith              Z2 
+0000040 151  ,       ,                        
+0000040 160  NP1     London                   Z2 
+0000040 161  .       .                        
+0000041 001  -----   -----                    
+0000042 010  AT      The                      Z5 
+0000042 020  MD      next                     T1.1.3[i44.2.1 N4 
+0000042 030  NNT1    day                      T1.1.3[i44.2.2 T1.3 
+0000042 031  ,       ,                        
+0000042 040  NP1     Ali                      Z1mf 
+0000042 050  VVD     picked                   M2[i45.2.1 A9+[i45.2.1 X3[i45.2.1 X2.3+[i45.2.1 A5.1+/A2.1[i45.2.1 A10+[i45.2.1 S3.2[i45.2.1 T2+[i45.2.1 I2.2[i45.2.1 M3fn[i45.2.1 G2.1[i45.2.1 X7+ A1.1.1 
+0000042 060  RP      up                       M2[i45.2.2 A9+[i45.2.2 X3[i45.2.2 X2.3+[i45.2.2 A5.1+/A2.1[i45.2.2 A10+[i45.2.2 S3.2[i45.2.2 T2+[i45.2.2 I2.2[i45.2.2 M3fn[i45.2.2 G2.1[i45.2.2 
+0000042 070  NP1     Frank                    Z1mf[i46.2.1 Z3c[i46.2.1 Z1 
+0000042 080  NP1     Isiodu                   Z1mf[i46.2.2 Z3c[i46.2.2 
+0000042 090  II      in                       Z5 
+0000042 100  APPGE   his                      Z8m 
+0000042 110  NP      Mercedes                 Z3c/M3 Z1f 
+0000042 120  II      in                       Z5 
+0000042 130  MC      Three                    N1 T1.2 T3 
+0000042 140  NP1     Bridges                  H1 W3 A2.2/S3.1 H2/M4 B1 B3 O2 K5.2 M1 
+0000042 141  ,       ,                        
+0000042 150  NP1     Crawley                  Z2 Z3c Z1 
+0000042 151  .       .                        
+0000042 152  -----   -----                    
+0000042 160  PPHS2   They                     Z8mfn 
+0000042 170  VVD     drove                    M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000042 180  II      around                   Z5 
+0000042 190  AT      the                      Z5 
+0000042 200  NN1     block                    O2 H1 N5+ S8- B3 
+0000042 201  ,       ,                        
+0000042 210  VVD     came                     M1/N6+[i47.2.1 X2.2+[i47.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000042 220  RP      back                     M1/N6+[i47.2.2 X2.2+[i47.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000042 230  CC      and                      Z5 
+0000042 240  NP1     Isiodu                   Z99 
+0000042 250  VVD     walked                   M1 L2 X9.2+/A12+ 
+0000042 260  II      to                       Z5 
+0000042 270  AT1     a                        Z5 
+0000042 280  NN1     taxi                     M3fn 
+0000042 290  RRQ     where                    M6 
+0000042 300  NP1     Kwasi                    Z1mf[i48.2.1 Z3c[i48.2.1 
+0000042 310  NP1     Nkansah                  Z1mf[i48.2.2 Z3c[i48.2.2 
+0000042 320  VBDZ    was                      Z5 A3+ 
+0000042 330  VVG     sitting                  M8 C1 P1 G1.1 G2.1 M6 A9+ 
+0000042 331  .       .                        
+0000043 001  -----   -----                    
+0000044 010  NP1@    Isiodu                   Z99 
+0000044 020  VVD     passed                   M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
+0000044 030  NP1     Nkansah                  Z99 
+0000044 040  AT1     a                        Z5 
+0000044 050  NN1     package                  O2 A1.8+ Y2 
+0000044 060  CC      and                      Z5 
+0000044 070  AT      the                      Z5 
+0000044 080  NN1     taxi                     M3fn 
+0000044 090  VVD     drove                    M3[i49.2.1 M2[i49.2.1 M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000044 100  RP      off                      M3[i49.2.2 M2[i49.2.2 M6 K1 A1.1.1 A1.9 
+0000044 101  .       .                        
+0000045 001  -----   -----                    
+0000046 010  PPH1    It                       Z8 
+0000046 020  VVD     headed                   S7.1+ K5.1 M1 N5 A2.1+ A11.1+ Q1.2 T1.1.3 
+0000046 030  II      towards                  Z5 
+0000046 040  NP1     London                   Z2 
+0000046 050  II      on                       Z5 
+0000046 060  AT      the                      Z5 
+0000046 070  FO      M23                      Z99 
+0000046 080  CCB     but                      Z5 
+0000046 090  VBDZ    was                      Z5 A3+ 
+0000046 100  VVN     stopped                  T2- S8- M8 H4 A1.1.1@ 
+0000046 110  II      by                       Z5 
+0000046 120  NN2     police                   G2.1 
+0000046 130  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000046 140  ND1     north                    Z2[i50.3.1 Z3c[i50.3.1 M6 
+0000046 150  IO      of                       Z2[i50.3.2 Z3c[i50.3.2 Z5 
+0000046 160  NP1     Gatwick                  Z2[i50.3.3 Z3c[i50.3.3 Z2 Z3c 
+0000046 161  .       .                        
+0000047 001  -----   -----                    
+0000048 010  UH      Nkansah                  Z99 
+0000048 020  VBDZ    was                      Z5 A3+ 
+0000048 030  VVN     arrested                 G2.1 
+0000048 040  IW      with                     Z5 
+0000048 050  NNU     1kg                      N3.5 
+0000048 060  IO      of                       Z5 
+0000048 070  NN1     heroin                   F3 
+0000048 080  IW      with                     Z5 
+0000048 090  AT1     a                        Z5 
+0000048 100  NN1     street                   M3/H3 
+0000048 110  NN1     value                    A11.1+ I1.3 G2.2 A4.1 N1 
+0000048 120  IO      of                       Z5 
+0000048 130  MC      50,000                   N1 T1.2 T3 T1.3 N3.2 
+0000048 131  .       .                        
+0000049 001  -----   -----                    
+0000050 010  AT      The                      Z5 
+0000050 020  MD      next                     T1.1.3[i51.2.1 N4 
+0000050 030  NNT1    day                      T1.1.3[i51.2.2 T1.3 
+0000050 031  ,       ,                        
+0000050 040  NP1     Ali                      Z1mf 
+0000050 050  VBDZ    was                      Z5 A3+ 
+0000050 060  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000050 070  VVG     buying                   I2.2 
+0000050 080  NN2     spoons                   O2 
+0000050 081  ,       ,                        
+0000050 090  NN2     scales                   N3.2 N4 A4.1 K2 L2 O2 I1.1/I3.1 O1.1 
+0000050 100  CC      and                      Z5 
+0000050 110  NN2     foodbags                 Z99 
+0000050 120  IF      for                      Z5 
+0000050 130  APPGE   his                      Z8m 
+0000050 140  NN1     heroin                   F3 
+0000050 150  NN1     processing               L3[i52.2.1 I4/A1.1.1c[i52.2.1 A1.1.1 Y2 M1 
+0000050 160  NN1     plant                    L3[i52.2.2 I4/A1.1.1c[i52.2.2 L3 I4/H1c O2 A10-/S2mf 
+0000050 161  .       .                        
+0000051 001  -----   -----                    
+0000052 010  CCB     But                      Z5 
+0000052 020  II      on                       Z5 
+0000052 030  NPD1    Thursday                 T1.3 
+0000052 031  ,       ,                        
+0000052 040  NPM1    August                   T1.3[i53.2.1 T1.3 
+0000052 050  MC      7                        T1.3[i53.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000052 051  ,       ,                        
+0000052 060  PPHS1   he                       Z8m 
+0000052 070  VVD     took                     A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000052 080  AT      the                      Z5 
+0000052 090  NNT1    day                      K1/T1.3[i54.2.1 T1.3 
+0000052 100  RP      off                      K1/T1.3[i54.2.2 M6 K1 A1.1.1 A1.9 
+0000052 110  TO      to                       Z5 
+0000052 120  VVI     get                      S4[i55.2.1 A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000052 130  VVN     married                  S4[i55.2.2 S4 A2.2 
+0000052 131  .       .                        
+0000053 001  -----   -----                    
+0000054 010  AT      The                      Z5 
+0000054 020  JJ      following                N4 
+0000054 030  NNT1    day                      T1.3 
+0000054 031  ,       ,                        
+0000054 040  PPHS1   he                       Z8m 
+0000054 050  VBDZ    was                      M6[i56.2.1 A3+ Z5 
+0000054 060  RP      back                     M6[i56.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000054 070  II      on                       I3.1[i57.3.1 A1.1.1[i57.3.1 S3.2@[i57.3.1 Z5 
+0000054 080  AT      the                      I3.1[i57.3.2 A1.1.1[i57.3.2 S3.2@[i57.3.2 Z5 
+0000054 090  NN1     job                      I3.1[i57.3.3 A1.1.1[i57.3.3 S3.2@[i57.3.3 I3.1 A1.1.1 A12- 
+0000054 100  CC      and                      Z5 
+0000054 110  VBDZ    was                      Z5 A3+ 
+0000054 120  VVN     watched                  X3.4 S7.1 X2.4 A1.3+ 
+0000054 130  II      by                       Z5 
+0000054 140  NN2     detectives               G2.1/S2mf 
+0000054 150  VVG     travelling               M1 
+0000054 160  II      to                       Z5 
+0000054 170  NP2     Pritchards               Z99 
+0000054 180  RL      home                     H4 M6 
+0000054 190  II      in                       Z5 
+0000054 200  NP1     Maiden                   Z2[i58.2.1 Z3c%[i58.2.1 Z1mf[i59.2.1 Z3c[i59.2.1 
+0000054 210  NNL1    Lane                     Z2[i58.2.2 Z3c%[i58.2.2 Z1mf Z1mf[i59.2.2 Z3c[i59.2.2 
+0000054 211  ,       ,                        
+0000054 220  NP1     Langley                  Z2[i60.2.1 Z1mf Z2 Z1mf[i61.2.1 Z3c[i61.2.1 
+0000054 230  NP1@    Green                    Z2[i60.2.2 Z1mf[i61.2.2 Z3c[i61.2.2 
+0000054 231  ,       ,                        
+0000054 240  NP1     Crawley                  Z2 Z3c Z1 
+0000054 241  .       .                        
+0000055 001  -----   -----                    
+0000056 010  NN2     Police                   G2.1 
+0000056 020  VV0     burst                    A1.1.2 A1.1.1 
+0000056 030  RP@     in                       M6 
+0000056 040  CC      and                      Z5 
+0000056 050  VVD@    arrested                 G2.1 S8- 
+0000056 060  AT      the                      Z5 
+0000056 070  NN      pair                     N5c 
+0000056 071  .       .                        
+0000057 001  -----   -----                    
+0000058 010  PPHS2   They                     Z8mfn 
+0000058 020  VVD     found                    A10+ X2.1 X6+ 
+0000058 030  NNU     6.76kg                   N3.5 
+0000058 040  IO      of                       Z5 
+0000058 050  NN1     heroin                   F3 
+0000058 060  IW      with                     Z5 
+0000058 070  AT1     a                        Z5 
+0000058 080  NN1     street                   M3/H3 
+0000058 090  NN1     value                    A11.1+ I1.3 G2.2 A4.1 N1 
+0000058 100  IO      of                       Z5 
+0000058 110  MC      350,000                  N1 T1.2 T3 T1.3 N3.2 
+0000058 111  .       .                        
+0000059 001  -----   -----                    
+0000060 010  NP1     Ali                      Z1mf 
+0000060 011  ,       ,                        
+0000060 020  MC      30                       N1 T1.2 T3 T1.3 N3.2 
+0000060 021  ,       ,                        
+0000060 030  IO      of                       Z5 
+0000060 040  AT      The                      Z5 
+0000060 050  NP2     Birches                  O2 L3 G2.1 L2mfnc 
+0000060 051  ,       ,                        
+0000060 060  MC      Three                    N1 T1.2 T3 
+0000060 070  NP1     Bridges                  H1 W3 A2.2/S3.1 H2/M4 B1 B3 O2 K5.2 M1 
+0000060 071  ,       ,                        
+0000060 080  NP1     Crawley                  Z2 Z3c Z1 
+0000060 081  ,       ,                        
+0000060 090  VHD     had                      Z5 A9+ A2.2 S4 
+0000060 100  VVN     admitted                 Q2.2 B3 A1.8+ S7.4+/M1 
+0000060 110  MC      three                    N1 T1.2 T3 
+0000060 120  NN2     counts                   N2 
+0000060 130  IO      of                       Z5 
+0000060 140  NN1     conspiracy               G2.1- G2.2- 
+0000060 150  TO      to                       Z5 
+0000060 160  VVI     supply                   A9- 
+0000060 170  NN1     heroin                   F3 
+0000060 171  .       .                        
+0000061 001  -----   -----                    
+0000062 010  UH      Nkansah                  Z99 
+0000062 011  ,       ,                        
+0000062 020  MC      6                        N1 T1.2 T3 T1.3 N3.2 
+0000062 021  ,       ,                        
+0000062 030  IO      of                       Z5 
+0000062 040  NP1     Kennington               Z2 
+0000062 041  ,       ,                        
+0000062 050  NP1     London                   Z2 
+0000062 051  ;       ;                        
+0000062 060  NP1     Cowsell                  Z99 
+0000062 061  ,       ,                        
+0000062 070  MC      37                       N1 T1.2 T3 T1.3 N3.2 
+0000062 071  ,       ,                        
+0000062 080  IO      of                       Z5 
+0000062 090  NP1     Hambleton                Z2[i62.2.1 Z3c[i62.2.1 
+0000062 100  NNL1    Hill                     Z2[i62.2.2 Z3c[i62.2.2 W3 
+0000062 101  ,       ,                        
+0000062 110  NP1     Southgate                Z2 
+0000062 111  ,       ,                        
+0000062 120  NP1     Crawley                  Z2 Z3c Z1 
+0000062 121  ;       ;                        
+0000062 130  CC      and                      Z5 
+0000062 140  NP1     Pritchard                Z99 
+0000062 141  ,       ,                        
+0000062 150  MC      34                       N1 T1.2 T3 T1.3 N3.2 
+0000062 151  ,       ,                        
+0000062 160  IO      of                       Z5 
+0000062 170  NP1     Maiden                   Z2[i63.2.1 Z3c%[i63.2.1 Z1mf[i64.2.1 Z3c[i64.2.1 
+0000062 180  NNL1    Lane                     Z2[i63.2.2 Z3c%[i63.2.2 Z1mf Z1mf[i64.2.2 Z3c[i64.2.2 
+0000062 181  ,       ,                        
+0000062 190  VH0     have                     Z5 A9+ A2.2 S4 
+0000062 200  RR@     all                      A13.2 
+0000062 210  VVN     admitted                 Q2.2 B3 A1.8+ S7.4+/M1 
+0000062 220  NN1     conspiracy               G2.1- G2.2- 
+0000062 230  TO      to                       Z5 
+0000062 240  VVI     supply                   A9- 
+0000062 250  NN1     heroin                   F3 
+0000062 251  .       .                        
+0000062 252  -----   -----                    
+0000062 260  NN1     Isiodu                   Z99 
+0000062 261  ,       ,                        
+0000062 270  MC      30                       N1 T1.2 T3 T1.3 N3.2 
+0000062 271  ,       ,                        
+0000062 280  II      from                     Z5 
+0000062 290  NP1     Croydon                  Z2 
+0000062 291  ,       ,                        
+0000062 300  NP1     Surrey                   Z2 Z1mf 
+0000062 301  ,       ,                        
+0000062 310  VVD     admitted                 Q2.2 B3 A1.8+ S7.4+/M1 
+0000062 320  AT      the                      Z5 
+0000062 330  DA      same                     A6.1+++ 
+0000062 340  NN1     charge                   I1.3 O3 G2.1 M1 G3% 
+0000062 350  II      at                       Z5 
+0000062 360  AT1     a                        Z5 
+0000062 370  NN1     hearing                  B1/X3.2 G2.1 
+0000062 380  II      at                       Z5 
+0000062 390  NP1     Hove                     Z1mf[i65.2.1 Z3c[i65.2.1 Z2 Z3c 
+0000062 400  NN1     Crown                    Z1mf[i65.2.2 Z3c[i65.2.2 Z3c Z3c[i66.2.1 Z2[i66.2.1 
+0000062 410  NN1     Court                    G2.1 H3 M7/K5.2 Z3c[i66.2.2 Z2[i66.2.2 
+0000062 420  RT      yesterday                T1.1.1 
+0000062 421  .       .                        
+0000063 001  -----   -----                    
+0000064 010  AT      No                       Z6 
+0000064 020  NN1     date                     T1.2 S3.2 S3.2/S2mf 
+0000064 030  VHZ     has                      Z5 A9+ A2.2 S4 
+0000064 040  VBN     been                     Z5 A3+ 
+0000064 050  VVN     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000064 060  IF      for                      Z5 
+0000064 070  AT      the                      Z5 
+0000064 080  NN1     sentencing               G2.1 Q3% 
+0000064 090  IO      of                       Z5 
+0000064 100  AT      the                      Z5 
+0000064 110  MC      five                     N1 T3 T1.2 
+0000064 111  .       .                        
+0000064 112  -----   -----                    
+0000064 120  NN2     Detectives               G2.1/S2mf 
+0000064 130  VVD     said                     Q2.1 
+0000064 140  PPHS2   they                     Z8mfn 
+0000064 150  VV0     expect                   X2.6+ B1 
+0000064 160  TO      to                       Z5 
+0000064 170  VVI     apply                    Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+ 
+0000064 180  IF      for                      Z5 
+0000064 190  AT      the                      Z5 
+0000064 200  NN1     confiscation             G2.1/A9+ 
+0000064 210  IO      of                       Z5 
+0000064 220  APPGE   their                    Z8 
+0000064 230  NN2     assets                   I1.1 A1.5.2+ 
+0000064 240  II      at                       Z5 
+0000064 250  AT1     a                        Z5 
+0000064 260  JJR     later                    T4-- T1.1.3 N4 
+0000064 270  NN1     hearing                  B1/X3.2 G2.1 
+0000064 271  .       .                        
+0000065 001  -----   -----                    
+0000065 010  NN1     Operation                A1.1.1 B3 G3 
+0000065 020  VVZ     comes                    M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000065 030  II      after                    Z5 
+0000065 040  MC      1.7                      N1[i67.2.1 T1.3[i67.2.1 I1[i67.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000065 050  NNO     million                  N1[i67.2.2 T1.3[i67.2.2 I1[i67.2.2 N1 I1 
+0000065 060  NN1     cash                     I1 
+0000065 070  NN1     injection                B3 A9- Y1 
+0000067 010  NN2     Detectives               G2.1/S2mf 
+0000067 020  VVD     hailed                   Q2.2 W4 M6 
+0000067 030  APPGE   their                    Z8 
+0000067 040  NN1     record                   Q1.2 K3 T1.1.1 A5.1+++ 
+0000067 050  NN1     heroin                   F3 
+0000067 060  NN1     haul                     N5 
+0000067 070  II      as                       Z5 
+0000067 080  AT1     an                       Z5 
+0000067 090  JJ      unprecedented            A6.2- 
+0000067 100  NN1     success                  X9.2+ 
+0000067 110  IF      for                      Z5 
+0000067 120  NP1     Sussex                   Z3c[i68.2.1 Z2 
+0000067 130  NN2     Police                   Z3c[i68.2.2 G2.1 
+0000067 131  .       .                        
+0000068 001  -----   -----                    
+0000069 010  AT      The                      Z5 
+0000069 020  NN2     forces                   G3 G2.1 E3- S7.1+ N3 S5+ 
+0000069 030  JJ      serious                  A11.1+ A15- E4.1- 
+0000069 040  JJ      organised                G2.1-[i69.2.1 S7.1+ O4.1 S5+@ 
+0000069 050  NN1     crime                    G2.1-[i69.2.2 G2.1- 
+0000069 060  NN1     unit                     S5+c O2 H5 H1 N3.1 P1 N1 
+0000069 070  VVD     took                     M2[i70.2.1 S1.1.1[i70.2.1 S3.2[i70.2.1 A9+[i70.2.1 G3[i70.2.1 L1-[i70.2.1 A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000069 080  RP      out                      M2[i70.2.2 S1.1.1[i70.2.2 S3.2[i70.2.2 A9+[i70.2.2 G3[i70.2.2 L1-[i70.2.2 M6 
+0000069 090  AT1     a                        Z5 
+0000069 100  JJ      key                      A11.1+ 
+0000069 110  NN1     section                  N5.1- S5+c B3 Y1 C1/H1@ 
+0000069 120  IO      of                       Z5 
+0000069 130  AT1     a                        Z5 
+0000069 140  NN1     chain                    S5+/I2.1c O2 N4 B5 S7.1 
+0000069 150  VVG     bringing                 M2 A2.2 
+0000069 160  NN1     heroin                   F3 
+0000069 170  II      into                     Z5 
+0000069 180  NP1     Sussex                   Z2 
+0000069 190  IF      for                      Z5 
+0000069 200  NN1     distribution             A9- N5 
+0000069 210  RL      here                     M6 T1.1.2 T1.2 
+0000069 220  CC      and                      Z5 
+0000069 230  II      across                   Z5 
+0000069 240  AT      the                      Z5 
+0000069 250  NN1     country                  G1.1c W3 F4/M7 K2 
+0000069 251  .       .                        
+0000070 001  -----   -----                    
+0000071 010  NN1     Detective                G2.1/S2mf 
+0000071 020  NNB     Inspector                Z1mf[i71.2.1 
+0000071 030  NP1     Steve                    Z1mf[i71.2.2 Z2[i73.2.1 Z3c[i73.2.1 Z1mf[i73.2.1 Z1mf Z1mf[i72.2.1 Z3c[i72.2.1 
+0000071 040  NP1     Paice                    Z2[i73.2.2 Z3c[i73.2.2 Z1mf[i73.2.2 Z1mf[i72.2.2 Z3c[i72.2.2 
+0000071 050  VVD     said                     Q2.1 
+0000071 051  :       :                        
+0000071 052  NULL    <quote>                  
+0000071 053  -----   -----                    
+0000071 060  DD1     This                     Z8 M6 Z5 
+0000071 070  VHZ     has                      Z5 A9+ A2.2 S4 
+0000071 080  VBN     been                     A3+ Z5 
+0000071 090  AT1     a                        Z5 
+0000071 100  RR      highly                   A13.3 
+0000071 110  JJ      successful               X9.2+ 
+0000071 120  JJ      intelligence-led         Z99 
+0000071 130  NN1     policing                 G2.1 G2.2 
+0000071 140  NN1     operation                A1.1.1 B3 G3 
+0000071 141  .       .                        
+0000072 001  NULL    </quote>                 
+0000073 001  NULL    <quote>                  
+0000073 002  -----   -----                    
+0000073 010  DD2     These                    Z5 Z8 
+0000073 020  NN      people                   S2mfc 
+0000073 030  VH0     have                     Z5 A9+ A2.2 S4 
+0000073 040  VBN     been                     Z5 A3+ 
+0000073 050  VVG     supplying                A9- 
+0000073 060  NN1     heroin                   F3 
+0000073 070  II      in                       N5++[i74.2.1 Z5 
+0000073 080  NN1     bulk                     N5++[i74.2.2 N5+++ 
+0000073 090  NN2     quantities               N5 
+0000073 100  CC      and                      Z5 
+0000073 110  RR      ultimately               N4 Z4 
+0000073 120  PPH1    it                       Z8 
+0000073 130  VM      would                    A7+ 
+0000073 140  VHI     have                     Z5 A9+ A2.2 S4 
+0000073 150  VVN@    impacted                 A1.1.1 
+0000073 160  II      in                       Z5 
+0000073 170  DA2     many                     N5+ 
+0000073 180  NN2     areas                    M7 A4.1 N3.6 
+0000073 190  II      across                   Z5 
+0000073 200  AT      the                      Z5 
+0000073 210  NN1     country                  G1.1c W3 F4/M7 K2 
+0000073 211  .       .                        
+0000074 001  NULL    </quote>                 
+0000075 001  NULL    <quote>                  
+0000075 002  -----   -----                    
+0000075 010  AT      The                      Z5 
+0000075 020  NN1     investigation            X2.4 B3 
+0000075 030  VVD     recovered                B2+ A5.1+/A2.1 A9+ 
+0000075 040  RG      over                     N5.2+ A13.2 
+0000075 050  NNU     18kg                     N3.5 
+0000075 060  IO      of                       Z5 
+0000075 070  NN1     heroin                   F3 
+0000075 071  .       .                        
+0000075 072  -----   -----                    
+0000075 080  AT      The                      Z5 
+0000075 090  NN2     seizures                 A9+ X9.2+/G3 S7.1+ B2- 
+0000075 100  VV0     represent                Q1.1 A6.2+ S1.1.3 A5.4- K4 
+0000075 110  JJ      unprecedented            A6.2- 
+0000075 120  NN1     success                  X9.2+ 
+0000075 130  IF      for                      Z5 
+0000075 140  PPIO2   us                       Z8 
+0000075 141  .       .                        
+0000076 001  NULL    </quote>                 
+0000077 001  NULL    <quote>                  
+0000077 002  -----   -----                    
+0000077 010  PPH1    It                       Z8 
+0000077 020  VBZ     is                       A3+ Z5 
+0000077 030  RR@     likely                   A7+ 
+0000077 040  DD1     this                     M6 Z5 Z8 
+0000077 050  NN1     heroin                   F3 
+0000077 060  VM      would                    A7+ 
+0000077 070  VHI     have                     Z5 A9+ A2.2 S4 
+0000077 080  RR      ultimately               N4 Z4 
+0000077 090  VVN     resulted                 A2.2 
+0000077 100  II      in                       Z5 
+0000077 110  DAR     more                     N5++ 
+0000077 120  CSN     than                     Z5 
+0000077 130  MC      100,000                  N1 T1.2 T3 T1.3 N3.2 
+0000077 140  JJ      individual               N5- 
+0000077 150  NN2     supplies                 A9- A9+ S8+% 
+0000077 160  II      at                       Z5 
+0000077 170  NN1     street                   M3/H3 
+0000077 180  NN1     level                    N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 
+0000077 181  .       .                        
+0000077 182  NULL    </quote>                 
+0000077 183  -----   -----                    
+0000079 010  JJ      Senior                   S7.1++ T3++ 
+0000079 020  NN2     officers                 G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
+0000079 030  VVD     said                     Q2.1 
+0000079 040  PPH1    it                       Z8 
+0000079 050  VBDZ    was                      A3+ Z5 
+0000079 060  JJ      impossible               A7- A12- 
+0000079 070  TO      to                       Z5 
+0000079 080  VVI     estimate                 X6/A7- N2/A7- 
+0000079 090  AT      the                      Z5 
+0000079 100  NN1     effect                   A2.2 A8 
+0000079 110  AT      the                      Z5 
+0000079 120  NN1     seizure                  A9+ X9.2+/G3 S7.1+ B2- 
+0000079 130  VM      would                    A7+ 
+0000079 140  VHI     have                     A9+ Z5 A2.2 S4 
+0000079 150  II      on                       Z5 
+0000079 160  JJ      lower-level              Z99 
+0000079 170  NN1@    dealing                  A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2 
+0000079 180  CC      and                      Z5 
+0000079 190  NN1     drug                     B3 F3 
+0000079 200  NN1     use                      A1.5.1 
+0000079 201  .       .                        
+0000080 001  -----   -----                    
+0000081 010  RR      Inevitably               A7+++ 
+0000081 011  ,       ,                        
+0000081 020  DDQV    whatever                 Z8 Z5 
+0000081 030  NN1     effect                   A2.2 A8 
+0000081 040  EX      there                    Z5 
+0000081 050  VBZ     is                       A3+ Z5 
+0000081 060  VM      would                    A7+ 
+0000081 070  VBI     be                       A3+ Z5 
+0000081 080  JJ      short-lived              T1.3- 
+0000081 090  II21    because                  A2.2[i75.2.1 
+0000081 100  II22    of                       A2.2[i75.2.2 
+0000081 110  AT      the                      Z5 
+0000081 120  NN1     army                     G3c N5+ 
+0000081 130  IO      of                       Z5 
+0000081 140  JJ      willing                  X7+ X5.2+ 
+0000081 150  NN2     criminals                G2.1-/S2mf 
+0000081 160  VVG     seeking                  X2.4 
+0000081 170  TO      to                       Z5 
+0000081 180  VVI     peddle                   I2.2 Q2.1 
+0000081 190  NN1     class                    B3[i76.3.1 F3[i76.3.1 P1c A4.1 S5+c O4.2+ 
+0000081 200  ZZ1     A                        B3[i76.3.2 F3[i76.3.2 Z5 
+0000081 210  NN2     drugs                    B3[i76.3.3 F3[i76.3.3 B3 F3 
+0000081 220  II      to                       Z5 
+0000081 230  AT      the                      Z5 
+0000081 240  NN2     countys                  M7/X5.2++mfn[i77.2.1 M7 
+0000081 250  NN2     addicts                  M7/X5.2++mfn[i77.2.2 X5.2++/S2mf F3/S2mf 
+0000081 251  .       .                        
+0000082 001  -----   -----                    
+0000083 010  CCB     But                      Z5 
+0000083 020  VV0     outreach                 M7 
+0000083 030  NN2     workers                  I3.1/S2mf 
+0000083 040  VVD     said                     Q2.1 
+0000083 050  EX      there                    Z5 
+0000083 060  VBDZ    was                      A3+ Z5 
+0000083 070  JJ      anecdotal                Q2.1 
+0000083 080  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000083 090  CST     that                     Z5 Z8 
+0000083 100  JJ      short                    T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
+0000083 110  NN2     droughts                 W4 
+0000083 120  RR      often                    N6+ 
+0000083 130  VV0     follow                   M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4 
+0000083 140  NN2     seizures                 A9+ X9.2+/G3 S7.1+ B2- 
+0000083 150  CC      or                       Z5 
+0000083 160  NN2     arrests                  G2.1 
+0000083 161  ,       ,                        
+0000083 170  VVG     prompting                A2.2 K4/Q2.2 Q2.2 
+0000083 180  DD      some                     N5 Z5 
+0000083 190  NN2     addicts                  X5.2++/S2mf F3/S2mf 
+0000083 200  TO      to                       Z5 
+0000083 210  VVI     take                     S8+[i79.3.1 G2.2-[i79.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ S1.2.2+[i78.2.1 
+0000083 220  NN1     advantage                S8+[i79.3.2 G2.2-[i79.3.2 A5.1+ K5.2 S1.2.2+[i78.2.2 
+0000083 230  IO      of                       G2.2-[i79.3.3 S8+[i79.3.3 Z5 
+0000083 240  NN1     help                     S8+ 
+0000083 250  TO      to                       Z5 
+0000083 260  VVI     beat                     X9.2+/S7.3 X9.2+/G3 S7.1+ E3- A1.1.1 A5.1++ B1 
+0000083 270  APPGE   their                    Z8 
+0000083 280  NN2     habits                   S1.1.1 A6.2+ B5@ 
+0000083 281  .       .                        
+0000084 001  -----   -----                    
+0000085 010  NP1     Justin                   Z1mf[i80.2.1 Z3c[i80.2.1 Z1mf 
+0000085 020  NP1     Grantham                 Z1mf[i80.2.2 Z3c[i80.2.2 Z3c 
+0000085 030  VVZ     works                    I3.1 A1.1.1 X9.2+ A2.2 
+0000085 040  IW      with                     Z5 
+0000085 050  NN2     addicts                  X5.2++/S2mf F3/S2mf 
+0000085 060  AT1     every                    N6+[i81.2.1 N5.1+ 
+0000085 070  NNT1    day                      N6+[i81.2.2 T1.3 
+0000085 080  CSA     as                       Z5 
+0000085 090  NN1     harm                     A1.1.2 
+0000085 100  NN1     reduction                N5-/A2.1 Y1@ 
+0000085 110  NN1     manager                  S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf 
+0000085 120  IF      for                      Z5 
+0000085 130  AT      the                      Z5 
+0000085 140  NN1     charity                  S8+/S5+c S8+ S1.2.2- 
+0000085 150  NN1     Crime                    G2.1- 
+0000085 160  NN1     Reduction                N5-/A2.1 Y1@ 
+0000085 170  NN2     Initiatives              A1.1.1 
+0000085 171  ,       ,                        
+0000085 180  II      in                       Z5 
+0000085 190  NP1     Gloucester               Z2[i82.2.1 Z2 Z1mf 
+0000085 200  NNL1    Road                     Z2[i82.2.2 
+0000085 201  ,       ,                        
+0000085 210  NP1     Brighton                 Z2 
+0000085 211  .       .                        
+0000086 001  -----   -----                    
+0000087 010  PPHS1   He                       Z8m 
+0000087 020  CC      and                      Z5 
+0000087 030  APPGE   his                      Z8m 
+0000087 040  NN      staff                    I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 
+0000087 050  VV0     play                     K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000087 060  AT1     an                       Z5 
+0000087 070  JJ      important                A11.1+ 
+0000087 080  NN1     role                     I3.1 K4 S1.1.1 A1.1.1 
+0000087 090  II      in                       Z5 
+0000087 100  VVG     getting                  A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000087 110  NN2     addicts                  X5.2++/S2mf F3/S2mf 
+0000087 120  PNQS    who                      Z8 
+0000087 130  VH0     have                     Z5 A9+ A2.2 S4 
+0000087 140  VVN     turned                   M1[i83.2.1 S1.1.1[i83.2.1 T2+[i83.2.1 A2.1+[i83.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000087 150  II      to                       M1[i83.2.2 S1.1.1[i83.2.2 T2+[i83.2.2 A2.1+[i83.2.2 Z5 
+0000087 160  NN1     crime                    G2.1- 
+0000087 170  TO      to                       Z5 
+0000087 180  VVI     feed                     F1 A9- S8+ M2@ 
+0000087 190  APPGE   their                    Z8 
+0000087 200  NN2     habits                   S1.1.1 A6.2+ B5@ 
+0000087 210  II      into                     Z5 
+0000087 220  NN1     treatment                B3 S1.1.1 A1.1.1 X4.2 
+0000087 221  .       .                        
+0000088 001  -----   -----                    
+0000089 010  PPHS1   He                       Z8m 
+0000089 020  VVD     said                     Q2.1 
+0000089 021  :       :                        
+0000089 022  NULL    <quote>                  
+0000089 023  -----   -----                    
+0000089 030  PPIS2   We                       Z8 
+0000089 040  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000089 050  VVI     tend                     A6.2+ A8 S8+ X5.1+ 
+0000089 060  TO      to                       Z5 
+0000089 070  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000089 080  DD      some                     N5 Z5 
+0000089 090  NN1     effect                   A2.2 A8 
+0000089 100  II      on                       Z5 
+0000089 110  AT      the                      Z5 
+0000089 120  NN1     street                   M3/H3 
+0000089 130  CCB     but                      Z5 
+0000089 140  CS21    even                     Z7[i84.2.1 
+0000089 150  CS22    if                       Z7[i84.2.2 Z7 
+0000089 160  PPHS2   they                     Z8mfn 
+0000089 170  VV0     knock                    E3-[i85.2.1 B2-[i85.2.1 A1.1.1[i85.2.1 S7.1+[i85.2.1 X3.2 A1.1.1 E3- Q2.2 S3.2@ 
+0000089 180  RP      out                      E3-[i85.2.2 B2-[i85.2.2 A1.1.1[i85.2.2 S7.1+[i85.2.2 M6 
+0000089 190  AT1     a                        Z5 
+0000089 200  JJ      whole                    N5.1+ 
+0000089 210  NN1     supply                   A9- A9+ S8+% 
+0000089 220  NN1     network                  S5+c Q4.3 Y2 
+0000089 221  ,       ,                        
+0000089 230  PPH1    it                       Z8 
+0000089 240  VM      can                      A7+ 
+0000089 250  VBI     be                       Z5 A3+ 
+0000089 260  VVN     replaced                 A2.1+ M2 
+0000089 270  II      within                   Z5 
+0000089 280  MC      48                       N1 T1.2 T3 T1.3 N3.2 
+0000089 290  NNT2    hours                    T1.3 
+0000089 291  .       .                        
+0000090 001  NULL    </quote>                 
+0000091 001  NULL    <quote>                  
+0000091 002  -----   -----                    
+0000091 010  CS31    As                       Z5[i86.3.1 Z5 
+0000091 020  CS32    soon                     Z5[i86.3.2 
+0000091 030  CS33    as                       Z5[i86.3.3 Z5 
+0000091 040  NN2     dealers                  I2.1/S2mf K5.2/S2mf F3/S2mf 
+0000091 050  NN2     networks                 S5+ Q4.3 Y2 
+0000091 060  VBR     are                      A3+ Z5 
+0000091 070  JJ      aware                    X2.2+ 
+0000091 080  CST     that                     Z5 Z8 
+0000091 090  EX      there                    Z5 
+0000091 100  VBR     are                      A3+ Z5 
+0000091 110  AT      no                       Z6 
+0000091 120  NN2     drugs                    B3 F3 
+0000091 130  RP      around                   M6 
+0000091 140  PPHS2   they                     Z8mfn 
+0000091 150  VM      will                     T1.1.3 
+0000091 160  VBI     be                       Z5 A3+ 
+0000091 170  VVG     talking                  Q2.1 
+0000091 180  II      to                       Z5 
+0000091 190  APPGE   their                    Z8 
+0000091 200  NN2     contacts                 S1.1.1 S2mf Q2.2 O3 
+0000091 210  TO      to                       Z5 
+0000091 220  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000091 230  NN2     supplies                 A9- A9+ S8+% 
+0000091 240  RP@     in                       M6 
+0000091 241  .       .                        
+0000092 001  NULL    </quote>                 
+0000093 001  NULL    <quote>                  
+0000093 002  -----   -----                    
+0000093 010  PPH1    It                       Z8 
+0000093 020  VHZ     has                      Z5 A9+ A2.2 S4 
+0000093 030  VBN     been                     Z5 A3+ 
+0000093 040  VVN     noticed                  X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1 
+0000093 050  II      in                       T1.1.1[i87.3.1 Z5 
+0000093 060  AT      the                      T1.1.1[i87.3.2 Z5 
+0000093 070  NN1     past                     T1.1.1[i87.3.3 T1.1.1 
+0000093 080  CST     that                     Z5 Z8 
+0000093 090  DD      some                     N5 Z5 
+0000093 100  NN      people                   S2mfc 
+0000093 110  VV0     come                     A9+[i88.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000093 120  II      into                     A9+[i88.2.2 Z5 
+0000093 130  NN1     treatment                B3 S1.1.1 A1.1.1 X4.2 
+0000093 140  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000093 150  CS      because                  Z5/A2.2 
+0000093 160  EX      there                    Z5 
+0000093 170  VBZ     is                       A3+ Z5 
+0000093 180  AT1     a                        Z5 
+0000093 190  JJ      short                    T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
+0000093 200  NN1     drought                  W4 
+0000093 201  ,       ,                        
+0000093 210  CS      because                  Z5/A2.2 
+0000093 220  PPHS2   they                     Z8mfn 
+0000093 230  VBR     are                      Z5 A3+ 
+0000093 240  VVG     missing                  A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3- 
+0000093 250  APPGE   their                    Z8 
+0000093 260  NN1     drug                     B3 F3 
+0000093 270  IO      of                       Z5 
+0000093 280  NN1     choice                   X7+ A6.3+ 
+0000093 290  CC      and                      Z5 
+0000093 300  PPHS2   they                     Z8mfn 
+0000093 310  VBR     are                      Z5 A3+ 
+0000093 320  VVG     starting                 T2+ E5- E3- 
+0000093 330  TO      to                       Z5 
+0000093 340  VVI     withdraw                 M2 M1 S1.1.3- A2.1+ 
+0000093 350  II      from                     Z5 
+0000093 360  DDQ     what                     Z8 Z5 
+0000093 370  PPHS2   they                     Z8mfn 
+0000093 380  VBR     are                      Z5 A3+ 
+0000093 390  VVG     using                    A1.5.1 S7.1+ 
+0000093 391  .       .                        
+0000094 001  NULL    </quote>                 
+0000095 001  NULL    <quote>                  
+0000095 002  -----   -----                    
+0000095 010  PPH1    It                       Z8 
+0000095 020  VM      could                    A7+ 
+0000095 030  VBI     be                       A3+ Z5 
+0000095 040  AT      the                      Z5 
+0000095 050  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
+0000095 060  CST     that                     Z8 Z5 
+0000095 070  VVZ     gives                    A9- A1.1.1 
+0000095 080  PPHO2   them                     Z8mfn 
+0000095 090  AT      the                      Z5 
+0000095 100  NN1@    nudge                    A1.1.1 M2 Q2.2 A13.5 
+0000095 110  TO      to                       Z5 
+0000095 120  VVI     come                     M1[i89.2.1 A1.5.2+[i89.2.1 O4.2+[i89.2.1 S1.1.3+[i89.2.1 T2+[i89.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000095 130  RP@     in                       M1[i89.2.2 A1.5.2+[i89.2.2 O4.2+[i89.2.2 S1.1.3+[i89.2.2 T2+[i89.2.2 M6 
+0000095 140  CC      and                      Z5 
+0000095 150  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000095 160  PPIO2   us                       Z8 
+0000095 161  .       .                        
+0000095 162  NULL    </quote>                 
+0000095 163  -----   -----                    
+0000097 010  AT      The                      Z5 
+0000097 020  NN1     operation                A1.1.1 B3 G3 
+0000097 030  TO      to                       Z5 
+0000097 040  VVI     snare                    A1.7+ 
+0000097 050  NP1     Ali                      Z1mf 
+0000097 060  CC      and                      Z5 
+0000097 070  APPGE   his                      Z8m 
+0000097 080  NN2     cronies                  S3.1mf 
+0000097 090  VVD     came                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000097 100  II      after                    Z5 
+0000097 110  AT      the                      Z5 
+0000097 120  NN1     force                    E3- S7.1+ G2.1c N3 S5+c 
+0000097 130  VVD     invested                 I1.1 
+0000097 140  MC      1.7                      N1[i90.2.1 T1.3[i90.2.1 I1[i90.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000097 150  NNO     million                  N1[i90.2.2 T1.3[i90.2.2 I1[i90.2.2 N1 I1 
+0000097 160  TO      to                       Z5 
+0000097 170  VVI     double                   N5+/A2.1 
+0000097 180  AT      the                      Z5 
+0000097 190  NN1     size                     N3.2 N5 N3.1 O4.1 
+0000097 200  IO      of                       Z5 
+0000097 210  AT      the                      Z5 
+0000097 220  JJ      serious                  A11.1+ A15- E4.1- 
+0000097 230  JJ      organised                G2.1-[i91.2.1 S7.1+ O4.1 S5+@ 
+0000097 240  NN1     crime                    G2.1-[i91.2.2 G2.1- 
+0000097 250  NN1     unit                     S5+c O2 H5 H1 N3.1 P1 N1 
+0000097 251  .       .                        
+0000098 001  -----   -----                    
+0000099 010  NNB     Chief                    S7.1+ 
+0000099 020  NNB     Superintendent           S7.1+/S2mf G2.1/S2mf 
+0000099 030  NP1     Kevin                    Z1mf[i93.2.1 Z3c[i93.2.1 Z1m Z2[i92.2.1 
+0000099 040  NP1     Moore                    Z1mf[i93.2.2 Z3c[i93.2.2 Z1mf Z2[i92.2.2 
+0000099 041  ,       ,                        
+0000099 050  AT      the                      Z5 
+0000099 060  NN1     head                     B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
+0000099 070  IO      of                       Z5 
+0000099 080  NP1     Sussex                   Z1mf[i94.2.1 Z3c[i94.2.1 Z2 
+0000099 090  NP1     CID                      Z1mf[i94.2.2 Z3c[i94.2.2 
+0000099 091  ,       ,                        
+0000099 100  VVD     said                     Q2.1 
+0000099 101  :       :                        
+0000099 102  NULL    <quote>                  
+0000099 103  -----   -----                    
+0000099 110  APPGE   Our                      Z8 
+0000099 120  NN1     success                  X9.2+ 
+0000099 130  CS      since                    Z5 
+0000099 140  DD1     this                     M6 Z5 Z8 
+0000099 150  NN1     uplift                   A5.1+/A2.2 E4.1+/A2.2 
+0000099 160  VM      can                      A7+ 
+0000099 170  VBI     be                       Z5 A3+ 
+0000099 180  VVN     measured                 N3.1 
+0000099 190  II31    in                       Z5[i95.3.1 Z5 
+0000099 200  II32    terms                    Z5[i95.3.2 
+0000099 210  II33    of                       Z5[i95.3.3 
+0000099 220  AT      the                      Z5 
+0000099 230  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000099 240  IO      of                       Z5 
+0000099 250  NN2     cases                    A4.1 O2 G2.1 B3 X4.1 Q3 
+0000099 260  VVG     involving                A1.8+ 
+0000099 261  ,       ,                        
+0000099 270  RR21    in                       A4.2+[i96.2.1 
+0000099 280  RR22    particular               A4.2+[i96.2.2 
+0000099 281  ,       ,                        
+0000099 290  JJ      large                    N3.2+[i97.2.1 N3.2+ N5+ A11.1+ 
+0000099 300  NN1     scale                    N3.2+[i97.2.2 N3.2 N4 A4.1 K2 L2 O2 I1.1/I3.1 O1.1 N3.1 
+0000099 310  JJ      illegal                  G2.1- 
+0000099 320  NN2     drugs                    B3 F3 
+0000099 330  VV0     supply                   A9- 
+0000099 331  ,       ,                        
+0000099 340  JJ      armed                    G3 B1 
+0000099 350  NN1     robbery                  G2.1- A9- 
+0000099 360  CC      and                      Z5 
+0000099 370  NN      people                   S2mfc 
+0000099 380  VVG     trafficking              G2.1-/I2.2 
+0000099 390  CST     that                     Z8 Z5 
+0000099 400  VH0     have                     Z5 A9+ A2.2 S4 
+0000099 410  VBN     been                     Z5 A3+ 
+0000099 420  VVN     brought                  M2 A2.2 
+0000099 430  II      to                       Z5 
+0000099 440  AT1     a                        Z5 
+0000099 450  JJ      successful               X9.2+ 
+0000099 460  NN1     conclusion               X6+ T2- 
+0000099 461  .       .                        
+0000100 001  NULL    </quote>                 
+0000101 001  NULL    <quote>                  
+0000101 002  -----   -----                    
+0000101 010  AT1     A                        Z5 
+0000101 020  JJ      large                    N3.2+ N5+ A11.1+ 
+0000101 030  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000101 040  IO      of                       Z5 
+0000101 050  AT      the                      Z5 
+0000101 060  RGT     most                     A13.2 
+0000101 070  JJ      serious                  A11.1+ A15- E4.1- 
+0000101 080  NN2     criminals                G2.1-/S2mf 
+0000101 090  VH0     have                     Z5 A9+ A2.2 S4 
+0000101 100  VBN     been                     Z5 A3+ 
+0000101 110  VVN     sentenced                G2.1 
+0000101 120  II      to                       Z5 
+0000101 130  JJ      lengthy                  T1.3+ N3.7+ 
+0000101 140  NN2     terms                    Q3 T1.3 A4.1 S6+ 
+0000101 150  IO      of                       Z5 
+0000101 160  NN1     imprisonment             G2.1 A1.7+ 
+0000101 161  .       .                        
+0000102 001  NULL    </quote>                 
+0000103 001  NULL    <quote>                  
+0000103 002  -----   -----                    
+0000103 010  RR      Additionally             N5++ 
+0000103 011  ,       ,                        
+0000103 020  II      in                       T1.1.1[i98.4.1 Z5 
+0000103 030  AT      the                      T1.1.1[i98.4.2 Z5 
+0000103 040  JJ      past                     T1.1.1[i98.4.3 T1.1.1 
+0000103 050  NNT1    year                     T1.1.1[i98.4.4 T1.3 P1c 
+0000103 060  PPIS2   we                       Z8 
+0000103 070  VH0     have                     Z5 A9+ A2.2 S4 
+0000103 080  VVN     seized                   A9+ X9.2+/G3 S7.1+ 
+0000103 090  JJ      criminal                 G2.1- A5.1- 
+0000103 100  NN2     assets                   I1.1 A1.5.2+ 
+0000103 110  II31    in                       N5.2+[i99.3.1 Z5 
+0000103 120  II32    excess                   N5.2+[i99.3.2 
+0000103 130  II33    of                       N5.2+[i99.3.3 
+0000103 140  MC      1.6                      N1[i100.2.1 T1.3[i100.2.1 I1[i100.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000103 150  NNO     million                  N1[i100.2.2 T1.3[i100.2.2 I1[i100.2.2 N1 I1 
+0000103 151  .       .                        
+0000103 152  NULL    </quote>                 
+0000107 001  NULL    **8;7;text               

@@ -1,0 +1,29 @@
+<text>
+<?php
+$app = array(
+'session' =>
+$response&lsqb;'body'&rsqb;
+$response&lsqb;'headers'&rsqb;
+$session&lsqb;'name'&rsqb;
+$response&lsqb;'body'&rsqb;
+$session&lsqb;'name'&rsqb;
+$request&lsqb;'data'&rsqb;&lsqb;'name'&rsqb;
+$response&lsqb;'headers'&rsqb;
+$response&lsqb;'body'&rsqb;
+$app&lsqb;'session'&rsqb;
+$SERVER&lsqb;'REQUESTMETHOD'&rsqb;
+$app&lsqb;'request'&rsqb;&lsqb;'ispost'&rsqb;
+$app&lsqb;'request'&rsqb;&lsqb;'uri'&rsqb;
+$app&lsqb;'request'&rsqb;&lsqb;'method'&rsqb;
+$app&lsqb;'request'&rsqb;&lsqb;'data'&rsqb;
+$app&lsqb;'request'&rsqb;&lsqb;'method'&rsqb;
+$app&lsqb;'request'&rsqb;&lsqb;'uri'&rsqb;
+$app&lsqb;'response'&rsqb;
+$app&lsqb;'session'&rsqb;
+$app&lsqb;'bootstrap'&rsqb;
+$app&lsqb;'dispatch'&rsqb;($app)
+$app&lsqb;'response'&rsqb;&lsqb;'headers'&rsqb;
+$app&lsqb;'response'&rsqb;&lsqb;'body'&rsqb;
+$app&lsqb;'response'&rsqb;&lsqb;'body'&rsqb;
+</text>
+

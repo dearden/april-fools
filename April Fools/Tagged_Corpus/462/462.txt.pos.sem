@@ -1,0 +1,898 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  AT      The                      Z5 
+0000002 020  JJ      International            M7 
+0000002 030  NN1     Organization             S5+c S7.1+ 
+0000002 040  IF      for                      Z5 
+0000002 050  NN1     Standardization          Z99 
+0000002 051  (       (                        
+0000002 060  NP1     ISO                      Z99 
+0000002 061  )       )                        
+0000002 070  VBZ     is                       Z5 A3+ 
+0000002 080  VVG     planning                 X7+ 
+0000002 090  TO      to                       Z5 
+0000002 100  VVI     change                   A2.1+ I1 B5 
+0000002 110  AT      the                      Z5 
+0000002 120  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000002 130  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000002 140  PPIS2   we                       Z8 
+0000002 150  VV0     use                      A1.5.1 S7.1+ 
+0000002 151  .       .                        
+0000002 152  -----   -----                    
+0000002 160  AT1     A                        Z5 
+0000002 170  JJ      revised                  A2.1+ 
+0000002 180  NN1     version                  A4.1 Q2.1 
+0000002 190  IO      of                       Z5 
+0000002 200  AT      the                      Z5 
+0000002 210  JJ      Iranian                  Z2 Z2/Q3 
+0000002 220  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000002 230  VM      will                     T1.1.3 
+0000002 240  VBI     be                       A3+ Z5 
+0000002 250  AT      the                      Z5 
+0000002 260  JJ      new                      T3- 
+0000002 270  NN1     world                    W1 S5+c A4.1 N5+ 
+0000002 280  NN1     standard                 A5.1 G2.2 Q1.1 O2@ 
+0000002 290  II      from                     Z5 
+0000002 300  MC      2017                     N1 T1.2 T3 T1.3 N3.2 
+0000002 310  RL      onwards                  M6 A2.1+ T2++ 
+0000002 311  .       .                        
+0000002 312  -----   -----                    
+0000002 320  VV0     Use                      A1.5.1 S7.1+ 
+0000002 330  APPGE   our                      Z8 
+0000002 340  JJ      Iranian                  Z2 Z2/Q3 
+0000002 350  NN1     Birthday                 T1.2/T3 
+0000002 360  NN1     Calculator               Y2/N2 
+0000002 370  RL      below                    M6 
+0000002 380  TO      to                       Z5 
+0000002 390  VVI     find                     X2.3+[i1.2.1 A10+ X2.1 X6+ 
+0000002 400  RP      out                      X2.3+[i1.2.2 M6 
+0000002 410  APPGE   your                     Z8 
+0000002 420  JJ      new                      T3- 
+0000002 430  JJ      Iranian                  Z2 Z2/Q3 
+0000002 440  NN1     birthday                 T1.2/T3 
+0000002 441  !       !                        
+0000003 001  -----   -----                    
+0000003 010  NN1     Illustration             A4.1 C1 
+0000003 020  NN1     image                    O4.1 A8 X2.1 C1 
+0000005 010  EX      There                    Z5 
+0000005 020  VM      will                     T1.1.3 
+0000005 030  VBI     be                       A3+ Z5 
+0000005 040  AT      no                       Z6 
+0000005 050  NPM1    January                  T1.3 
+0000005 060  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000005 061  ,       ,                        
+0000005 070  MC      2017                     N1 T1.2 T3 T1.3 N3.2 
+0000005 071  .       .                        
+0000006 001  -----   -----                    
+0000007 010  DD1     This                     Z8 M6 Z5 
+0000007 020  VBZ     is                       A3+ Z5 
+0000007 030  AT      the                      Z5 
+0000007 040  MD      first                    N4 
+0000007 050  JJ      major                    A11.1+ N3.2+ 
+0000007 060  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000007 070  NN1     reform                   A2.1+ 
+0000007 080  CS      since                    Z5 
+0000007 090  RT      today                    T1.1.2 
+0000007 091  GE      's                       Z5 
+0000007 100  JJ      Gregorian                Z1 
+0000007 110  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000007 120  VBDZ    was                      Z5 A3+ 
+0000007 130  VVN     introduced               S1.1.1 T2+ 
+0000007 140  II      in                       Z5 
+0000007 150  MC      1582                     N1 T1.2 T3 T1.3 N3.2 
+0000007 151  .       .                        
+0000008 001  -----   -----                    
+0000009 010  II21    According                Z5[i2.2.1 Z5 
+0000009 020  II22    to                       Z5[i2.2.2 Z5 
+0000009 030  AT      the                      Z5 
+0000009 040  NP1     ISO                      Z99 
+0000009 041  ,       ,                        
+0000009 050  AT      the                      Z5 
+0000009 060  NN1     change                   A2.1+ I1 B1 
+0000009 070  VBZ     is                       A3+ Z5 
+0000009 080  JJ      necessary                S6+ A11.1+ 
+0000009 090  TO      to                       Z5 
+0000009 100  VVI     ensure                   A7+ 
+0000009 110  AT1     a                        Z5 
+0000009 120  JJ      correct                  A5.3+ 
+0000009 130  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000009 140  IF      for                      Z5 
+0000009 150  JJ      future                   T1.1.3 
+0000009 160  NN2     generations              T1.3 S5+c 
+0000009 161  ,       ,                        
+0000009 170  II      despite                  Z5 
+0000009 180  VVG     inducing                 A2.2 Q2.2 
+0000009 190  JJ      short-term               T1.3- 
+0000009 200  NN1     chaos                    A1.7- G2.1- Y1@ 
+0000009 210  CC      and                      Z5 
+0000009 220  NN1     confusion                X2.5- 
+0000009 230  II      around                   Z5 
+0000009 240  AT      the                      Z5 
+0000009 250  NN1     world                    W1 S5+c A4.1 N5+ 
+0000009 251  .       .                        
+0000009 252  -----   -----                    
+0000009 260  AT      The                      Z5 
+0000009 270  JJ      Iranian                  Z2 Z2/Q3 
+0000009 280  NN1     Calendar                 O2/T1.3 T1.1 Q1.2 
+0000009 290  VBZ     is                       A3+ Z5 
+0000009 300  RG      far                      N3.3+ A13.3 X9.2+ 
+0000009 310  RGR     more                     A13.3 
+0000009 320  JJ      accurate                 A5.3+ 
+0000009 330  CSN     than                     Z5 
+0000009 340  AT      the                      Z5 
+0000009 350  JJ      Gregorian                Z1 
+0000009 360  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000009 361  .       .                        
+0000010 001  -----   -----                    
+0000010 010  JJ      New                      T1.3[i4.4.1 T3- T1.3/K1[i3.2.1 
+0000010 020  NNT1    Year                     T1.3[i4.4.2 T1.3 P1c T1.3/K1[i3.2.2 
+0000010 021  GE      's                       T1.3[i4.4.3 Z5 
+0000010 030  NNT1    Day                      T1.3[i4.4.4 T1.3 
+0000010 040  II      in                       Z5 
+0000010 050  NP1@    March                    M1 G3 G1.2 T1.3 
+0000012 010  NNU     timeanddate.com          N3.3 N3.7 
+0000012 020  VHZ     has                      Z5 A9+ A2.2 S4 
+0000012 030  VVN     obtained                 A9+ 
+0000012 040  AT1     a                        Z5 
+0000012 050  JJ      confidential             A10- 
+0000012 060  NP1     ISO                      Z3[i5.2.1 
+0000012 070  NN1     report                   Z3[i5.2.2 Q2.2 X3.2 
+0000012 071  ,       ,                        
+0000012 080  DDQ     which                    Z8 Z5 
+0000012 090  VVZ     provides                 A9- S6+ 
+0000012 100  NN2     details                  A4.2+ S5+c B5 
+0000012 110  II      about                    Z5 
+0000012 120  AT      the                      Z5 
+0000012 130  JJ      upcoming                 T1.1.3 
+0000012 140  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000012 150  NN1     reform                   A2.1+ 
+0000012 151  :       :                        
+0000014 010  EX      There                    Z5 
+0000014 020  VM      will                     T1.1.3 
+0000014 030  VBI     be                       A3+ Z5 
+0000014 040  AT      no                       Z6 
+0000014 050  NNT1    year                     P1c[i6.2.1 T1.3 P1c 
+0000014 060  MC      2017                     P1c[i6.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000014 070  II      as                       Z5 
+0000014 080  AT      the                      Z5 
+0000014 090  NNT1    year                     T1.3 P1c 
+0000014 100  NN1     count                    N2 
+0000014 110  VM      will                     T1.1.3 
+0000014 120  VBI     be                       Z5 A3+ 
+0000014 130  VVN     reset                    A2.1+ 
+0000014 140  TO      to                       Z5 
+0000014 150  VVI     match                    A6.1+ 
+0000014 160  AT      the                      Z5 
+0000014 170  JJ      Iranian                  Z2 Z2/Q3 
+0000014 180  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000014 181  .       .                        
+0000014 182  -----   -----                    
+0000014 190  AT      The                      N4/T1.3[i7.3.1 Z5 
+0000014 200  NNT1    year                     N4/T1.3[i7.3.2 T1.3 P1c 
+0000014 210  II      after                    N4/T1.3[i7.3.3 Z5 
+0000014 220  MC      2016                     N1 T1.2 T3 T1.3 N3.2 
+0000014 230  VM      will                     T1.1.3 
+0000014 240  VBI     be                       Z5 A3+ 
+0000014 250  VVN     designated               Q2.2 X7+ 
+0000014 260  CSA     as                       Z5 
+0000014 270  NNT1    year                     P1c[i8.2.1 T1.3 P1c 
+0000014 280  MC      1395                     P1c[i8.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000014 281  .       .                        
+0000015 001  -----   -----                    
+0000015 010  JJ      New                      T1.3[i10.4.1 T3- T1.3/K1[i9.2.1 
+0000015 020  NNT1    Year                     T1.3[i10.4.2 T1.3 P1c T1.3/K1[i9.2.2 
+0000015 021  GE      's                       T1.3[i10.4.3 Z5 
+0000015 030  NNT1    Day                      T1.3[i10.4.4 T1.3 
+0000015 040  VM      will                     T1.1.3 
+0000015 050  VBI     be                       Z5 A3+ 
+0000015 060  VVN     celebrated               E4.1+ S9 
+0000015 070  II      on                       Z5 
+0000015 080  AT      the                      Z5 
+0000015 090  NNT1    day                      T1.3 
+0000015 100  IO      of                       Z5 
+0000015 110  AT      the                      Z5 
+0000015 120  NP1@    March                    Z1mf[i11.2.1 Z3c[i11.2.1 
+0000015 130  NP1     Equinox                  Z1mf[i11.2.2 Z3c[i11.2.2 Z3c 
+0000015 140  DD1     each                     N6+[i12.2.1 N5.1+ 
+0000015 150  NNT1    year                     N6+[i12.2.2 T1.3 P1c 
+0000015 151  .       .                        
+0000015 152  -----   -----                    
+0000015 160  AT      The                      Z5 
+0000015 170  NN1     report                   Q2.2 X3.2 
+0000015 180  RR      also                     N5++ 
+0000015 190  VVZ     suggests                 Q2.2 Q1.1 
+0000015 200  VVG     changing                 A2.1+ I1 B5 
+0000015 210  AT      the                      Z5 
+0000015 220  NN1     holiday                  K1/T1.3 
+0000015 221  GE      's                       Z5 
+0000015 230  NN1     name                     Q2.2 
+0000015 240  II      to                       Z5 
+0000015 250  AT      the                      Z5 
+0000015 260  JJ      original                 T3- A5.4+ A6.2- 
+0000015 270  JJ      Persian                  Z2 Z2/Q3 
+0000015 280  NN1     term                     Q3 T1.3 S6+ 
+0000015 281  ,       ,                        
+0000015 290  NP1     Nowruz                   Z99 
+0000015 291  ,       ,                        
+0000015 300  II      from                     Z5 
+0000015 310  NNT1    year                     P1c[i13.2.1 T1.3 P1c 
+0000015 320  MC      1396                     P1c[i13.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000015 330  RL      onwards                  M6 A2.1+ T2++ 
+0000015 331  .       .                        
+0000015 332  -----   -----                    
+0000015 340  NN1     Nowruz                   Z99 
+0000015 350  VM      will                     T1.1.3 
+0000015 360  VBI     be                       A3+ Z5 
+0000015 370  AT1     a                        Z5 
+0000015 380  JJ      public                   S5+ A10+ 
+0000015 390  NN1     holiday                  K1/T1.3 
+0000015 400  II      around                   Z5 
+0000015 410  AT      the                      Z5 
+0000015 420  NN1     world                    W1 S5+c A4.1 N5+ 
+0000015 421  ,       ,                        
+0000015 430  CS      while                    Z5 
+0000015 440  NPM1    January                  T1.3 
+0000015 450  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000015 460  VM      will                     T1.1.3 
+0000015 470  VBI     be                       A3+ Z5 
+0000015 480  AT1     a                        Z5 
+0000015 490  JJ      normal                   A6.2+ 
+0000015 500  JJ@     working                  I3.1 A1.1.1 X9.2+ 
+0000015 510  NNT1    day                      T1.3 
+0000015 511  .       .                        
+0000016 001  -----   -----                    
+0000016 010  NNT1    Year                     P1c[i14.2.1 T1.3 P1c 
+0000016 020  MC      1395                     P1c[i14.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000016 030  VM      will                     T1.1.3 
+0000016 040  VBI     be                       A3+ Z5 
+0000016 050  AT1     a                        Z5 
+0000016 060  JJ      transitional             A2.1+ T1.3 
+0000016 070  NNT1    year                     T1.3 P1c 
+0000016 080  IW      with                     Z5 
+0000016 090  RR      only                     A14 
+0000016 100  MC      11                       N1 T1.2 T3 T1.3 N3.2 
+0000016 110  NNT2    weeks                    T1.3 
+0000016 120  II      from                     Z5 
+0000016 130  NPM1    January                  T1.3 
+0000016 140  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000016 150  II      to                       Z5 
+0000016 160  AT      the                      Z5 
+0000016 170  NN1     equinox                  W1 
+0000016 180  II      on                       Z5 
+0000016 190  NPM1    March                    T1.3[i15.2.1 T1.3 
+0000016 200  MC      20.                      T1.3[i15.2.2 N1 T1.2 T3 T1.3 N3.2 N1[i16.2.1 T3[i16.2.1 T1.2[i16.2.1 T1.3[i16.2.1 N3.3[i16.2.1 N3.5[i16.2.1 I1[i16.2.1 
+0000017 010  MC      1396                     N1 T1.2 T3 T1.3 N3.2 N1[i16.2.2 T3[i16.2.2 T1.2[i16.2.2 T1.3[i16.2.2 N3.3[i16.2.2 N3.5[i16.2.2 I1[i16.2.2 
+0000017 020  VM      will                     T1.1.3 
+0000017 030  VBI     be                       A3+ Z5 
+0000017 040  AT      the                      Z5 
+0000017 050  MD      first                    N4 
+0000017 060  JJ      full                     N5.1+ I3.2+ 
+0000017 070  JJ      Iranian                  Z2 Z2/Q3 
+0000017 080  NN1     calendar                 T1.3[i17.2.1 O2/T1.3 T1.1 Q1.2 
+0000017 090  NNT1    year                     T1.3[i17.2.2 T1.3 P1c 
+0000017 091  .       .                        
+0000018 001  -----   -----                    
+0000019 010  II21    According                Z5[i18.2.1 Z5 
+0000019 020  II22    to                       Z5[i18.2.2 Z5 
+0000019 030  AT      the                      Z5 
+0000019 040  NN1     report                   Q2.2 X3.2 
+0000019 041  ,       ,                        
+0000019 050  AT      the                      Z5 
+0000019 060  NP1     ISO                      Z99 
+0000019 070  VBZ     is                       A3+ Z5 
+0000019 080  RR      also                     N5++ 
+0000019 090  CS      considering              Z5 
+0000019 100  VVG     throwing                 M2 A2.2 Q2.2 A1.1.1 X2.5- 
+0000019 110  AT1     a                        Z5 
+0000019 120  JJ      5-day                    T1.3 T3 
+0000019 130  NN1@    Nowruz                   Z99 
+0000019 140  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000019 150  II      at                       Z5 
+0000019 160  APPGE   their                    Z8 
+0000019 170  NN      headquarters             S7.1+/H1c 
+0000019 180  II      in                       Z5 
+0000019 190  NP1     Geneva                   Z2 Z3c 
+0000019 191  ,       ,                        
+0000019 200  NP1     Switzerland              Z2 
+0000019 201  .       .                        
+0000019 202  -----   -----                    
+0000019 210  AT      The                      Z5 
+0000019 220  NN2     celebrations             E4.1+ S9 
+0000019 230  VM      will                     T1.1.3 
+0000019 240  VVI     begin                    T2+ 
+0000019 250  II      on                       Z5 
+0000019 260  NPM1    March                    T1.3[i19.2.1 T1.3 
+0000019 270  MC      21                       T1.3[i19.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000019 271  ,       ,                        
+0000019 280  MC      2017                     N1 T1.2 T3 T1.3 N3.2 
+0000019 281  (       (                        
+0000019 290  NP1     Farvardin                Z99 
+0000019 300  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000019 301  ,       ,                        
+0000019 310  MC      1396                     N1 T1.2 T3 T1.3 N3.2 
+0000019 311  )       )                        
+0000019 312  ,       ,                        
+0000019 320  DDQ     which                    Z8 Z5 
+0000019 330  VBZ     is                       A3+ Z5 
+0000019 340  AT      the                      Z5 
+0000019 350  JJ      United                   Z3c[i20.2.1 Z3c 
+0000019 360  NN2     Nations                  Z3c[i20.2.2 
+0000019 361  GE      '                        Z5 
+0000019 370  JJ      International            M7 
+0000019 380  NNT1    Day                      T1.3 
+0000019 390  IO      of                       Z5 
+0000019 400  NP1     Nowruz                   Z99 
+0000019 401  .       .                        
+0000020 001  -----   -----                    
+0000021 010  AT      The                      Z5 
+0000021 020  NN1     report                   Q2.2 X3.2 
+0000021 030  VBZ     is                       Z5 A3+ 
+0000021 040  VVN     dated                    T3 S3.2 
+0000021 050  NPM1    November                 T1.3[i21.2.1 T1.3 
+0000021 060  MC      3                        T1.3[i21.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000021 061  ,       ,                        
+0000021 070  MC      2015                     N1 T1.2 T3 T1.3 N3.2 
+0000021 071  ,       ,                        
+0000021 080  VVG     meaning                  Q1.1 X7+ 
+0000021 090  CST     that                     Z8 Z5 
+0000021 100  PPH1    it                       Z8 
+0000021 110  VBDZ    was                      Z5 A3+ 
+0000021 120  VVN     issued                   A9- 
+0000021 130  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000021 140  NNT2    days                     T1.3 
+0000021 150  II      after                    Z5 
+0000021 160  AT      the                      Z5 
+0000021 170  JJ      Iranian                  Z2 Z2/Q3 
+0000021 180  NN1     parliament               G1.1 
+0000021 190  VVD     approved                 S7.4+ E2+ G1.1 
+0000021 200  AT1     a                        Z5 
+0000021 210  NN1     landmark                 M7/A11.2+ A11.1+ 
+0000021 220  JJ      nuclear                  Y1 B1 S5+% 
+0000021 230  NN1     deal                     N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
+0000021 240  IW      with                     Z5 
+0000021 250  AT      the                      Z5 
+0000021 260  FO      P5+1                     Z99 
+0000021 270  NN1     group                    S5+c A4.1c B3% 
+0000021 280  IO      of                       Z5 
+0000021 290  NN1     world                    W1 S5+c A4.1 N5+ 
+0000021 300  NN2     powers                   S7.1+ O3 S1.2.5+ N2@ 
+0000021 301  .       .                        
+0000022 001  -----   -----                    
+0000023 010  AT      The                      Z5 
+0000023 020  NP1     ISO                      Z99 
+0000023 021  ,       ,                        
+0000023 030  DDQ     which                    Z8 Z5 
+0000023 040  VBZ     is                       A3+ Z5 
+0000023 050  AT      the                      Z5 
+0000023 060  NN1     world                    W1 S5+c A4.1 N5+ 
+0000023 061  GE      's                       Z5 
+0000023 070  JJ      standard-setting         Z99 
+0000023 080  NN1     body                     B1 O2 S5+c O4.1 S2mf 
+0000023 081  ,       ,                        
+0000023 090  VBDZ    was                      A3+ Z5 
+0000023 100  XX      not                      Z6 
+0000023 110  JJ      available                A3+ A9+ A1.2+/G1.2 S4 
+0000023 120  IF      for                      Z5 
+0000023 130  NN1     comment                  Q2.1 
+0000023 131  .       .                        
+0000024 001  -----   -----                    
+0000024 010  VV0     Find                     X2.3+[i22.2.1 A10+ X2.1 X6+ 
+0000024 020  RP      Out                      X2.3+[i22.2.2 M6 
+0000024 030  APPGE   Your                     Z8 
+0000024 040  JJ      Iranian                  Z2 Z2/Q3 
+0000024 050  NN1     Birthday                 T1.2/T3 
+0000026 010  CS      While                    Z5 
+0000026 020  AT      the                      Z5 
+0000026 030  NN1     reform                   A2.1+ 
+0000026 040  VM      will                     T1.1.3 
+0000026 050  VVI     improve                  A5.1+/A2.1 
+0000026 060  APPGE   our                      Z8 
+0000026 070  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000026 080  NN1     reckoning                X2.1 N2 
+0000026 090  CC      and                      Z5 
+0000026 100  VVI     ensure                   A7+ 
+0000026 110  AT1     a                        Z5 
+0000026 120  JJ      correct                  A5.3+ 
+0000026 130  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000026 140  IF      for                      Z5 
+0000026 150  DA2     many                     N5+ 
+0000026 160  JJ      future                   T1.1.3 
+0000026 170  NN2     generations              T1.3 S5+c 
+0000026 171  ,       ,                        
+0000026 180  PPH1    it                       Z8 
+0000026 190  VM      will                     T1.1.3 
+0000026 200  VVI     cause                    A2.2 
+0000026 210  DD      some                     N5 Z5 
+0000026 220  NN1     disruption               E3- 
+0000026 230  II      in                       Z5 
+0000026 240  AT      the                      Z5 
+0000026 250  NN1     transition               A2.1+ 
+0000026 260  NN1     period                   T1.3 B1 Q3 P1/T1.3 
+0000026 261  .       .                        
+0000026 262  -----   -----                    
+0000026 270  MD      First                    N4[i23.3.1 N4 
+0000026 280  IO      of                       N4[i23.3.2 Z5 
+0000026 290  DB      all                      N4[i23.3.3 N5.1+ 
+0000026 291  ,       ,                        
+0000026 300  PPH1    it                       Z8 
+0000026 310  VM      will                     T1.1.3 
+0000026 320  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000026 330  DD      some                     T1.2[i24.2.1 N5 Z5 
+0000026 340  NNT1    time                     T1.2[i24.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000026 350  TO      to                       Z5 
+0000026 360  VVI     get                      A2.1+ A9+ Z5 X9.2+ A2.2 M1 M2 X2.5+ E4.1- 
+0000026 370  JJ      used                     T1.1.1[i25.2.1 A6.2+[i25.2.1 
+0000026 380  II      to                       T1.1.1[i25.2.2 A6.2+[i25.2.2 Z5 
+0000026 390  AT      the                      Z5 
+0000026 400  JJ      new                      T3- 
+0000026 410  NN2     dates                    T1.2 S3.2 S3.2/S2mf 
+0000026 420  IF      for                      Z5 
+0000026 430  JJ      public                   S5+ A10+ 
+0000026 440  NN2     holidays                 K1/T1.3 
+0000026 441  .       .                        
+0000026 442  -----   -----                    
+0000026 450  REX21   For                      Z5[i26.2.1 
+0000026 460  REX22   example                  Z5[i26.2.2 
+0000026 461  ,       ,                        
+0000026 470  NN1     Independence             T1.3/S5-[i27.2.1 S5- 
+0000026 480  NNT1    Day                      T1.3/S5-[i27.2.2 T1.3 
+0000026 490  II      in                       Z5 
+0000026 500  AT      the                      Z5 
+0000026 510  NP1     United                   Z2c[i30.2.1 Z2c[i29.2.1 Z3c Z1mf[i28.2.1 Z3c[i28.2.1 
+0000026 520  NP1     States                   Z2c[i30.2.2 Z2c[i29.2.2 Z2 Z1mf[i28.2.2 Z3c[i28.2.2 
+0000026 530  VM      will                     T1.1.3 
+0000026 540  RR%     no                       Z6 
+0000026 550  JJR     longer                   T1.3++ N3.7++ N3.3++ N3.2++ 
+0000026 560  NN1     fall                     M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- W3/M4 S9 K5 
+0000026 570  II      on                       Z5 
+0000026 580  NPM1    July                     T1.3[i31.2.1 T1.3 
+0000026 590  MC      4                        T1.3[i31.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000026 600  CCB     but                      Z5 
+0000026 610  II      on                       Z5 
+0000026 620  NP1     Tir                      Z2[i32.2.1 Z1mf[i32.2.1 
+0000026 630  MC      13                       Z2[i32.2.2 Z1mf[i32.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000026 631  .       .                        
+0000027 001  -----   -----                    
+0000028 010  DDQ     What                     Z8 Z5 
+0000028 011  VBZ     's                       A3+ Z5 
+0000028 020  RRR     more                     A13.3 N6++ 
+0000028 021  ,       ,                        
+0000028 030  NN      people                   S2mfc 
+0000028 040  DDQGE   whose                    Z8 
+0000028 050  NN1     birthday                 T1.2/T3 
+0000028 060  VVZ     falls                    M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 
+0000028 070  II      between                  Z5 
+0000028 080  NPM1    January                  T1.3 
+0000028 090  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000028 100  CC      and                      Z5 
+0000028 110  NPM1    March                    T1.3[i33.2.1 T1.3 
+0000028 120  MC      20                       T1.3[i33.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000028 130  VM      will                     T1.1.3 
+0000028 140  VVI     celebrate                E4.1+ S9 
+0000028 150  MC      two                      N1 T3 T1.2 
+0000028 160  NN2     birthdays                T1.2/T3 
+0000028 170  RR      only                     A14 
+0000028 180  MC      11                       N1 T1.2 T3 T1.3 N3.2 
+0000028 190  NNT2    weeks                    T1.3 
+0000028 200  RL      apart                    N3.3+ A1.8- S1.1.3- 
+0000028 210  II      in                       Z5 
+0000028 220  NNT2    years                    T1.3 
+0000028 230  MC      1395                     N1 T1.2 T3 T1.3 N3.2 
+0000028 240  CC      and                      Z5 
+0000028 250  MC      1396                     N1 T1.2 T3 T1.3 N3.2 
+0000028 251  .       .                        
+0000028 252  -----   -----                    
+0000028 260  RR      So                       Z5 A13.3 
+0000028 261  ,       ,                        
+0000028 270  II      on                       Z5 
+0000028 280  NN1     paper                    Q4.2c O1.1 Q1.2 P1/Q1.2 H5 
+0000028 281  ,       ,                        
+0000028 290  PPHS2   they                     Z8mfn 
+0000028 300  VM      will                     T1.1.3 
+0000028 310  VBI     be                       A3+ Z5 
+0000028 320  RR      nearly                   A13.4 
+0000028 330  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000028 340  NNT1    year                     T1.3 P1c 
+0000028 350  JJR     older                    T3++ 
+0000028 360  CSN     than                     Z5 
+0000028 370  APPGE   their                    Z8 
+0000028 380  JJ      biological               L1 B1 
+0000028 390  NN1     age                      T3 T1.3 
+0000028 400  II      after                    Z5 
+0000028 410  AT      the                      Z5 
+0000028 420  NN1     transition               A2.1+ 
+0000028 421  .       .                        
+0000029 001  -----   -----                    
+0000029 010  JJ      Iranian                  Z2 Z2/Q3 
+0000029 020  NN1     Birthday                 T1.2/T3 
+0000029 030  NN1     Calculator               Y2/N2 
+0000031 010  TO      To                       Z5 
+0000031 020  VVI     find                     X2.3+[i34.2.1 A10+ X2.1 X6+ 
+0000031 030  RP      out                      X2.3+[i34.2.2 M6 
+0000031 040  APPGE   your                     Z8 
+0000031 050  JJ      Iranian                  Z2 Z2/Q3 
+0000031 060  NN1     birthday                 T1.2/T3 
+0000031 061  ,       ,                        
+0000031 070  RR      please                   Z4 
+0000031 080  VV0     enter                    M1 S5+ Q1.2 T2+ A1.8+ Y2 
+0000031 090  APPGE   your                     Z8 
+0000031 100  NN1     date                     T1.2/S4[i35.3.1 T1.2 S3.2 S3.2/S2mf 
+0000031 110  IO      of                       T1.2/S4[i35.3.2 Z5 
+0000031 120  NN1     birth                    T1.2/S4[i35.3.3 B1 T2+ 
+0000031 130  CC      and                      Z5 
+0000031 140  VV0     click                    X3.2 Y2 X2.5+ S1.2.1+ 
+0000031 150  VV0     Calculate                N2 X7+ 
+0000031 160  APPGE   your                     Z8 
+0000031 170  JJ      new                      T3- 
+0000031 180  NN1     birthday                 T1.2/T3 
+0000031 181  !       !                        
+0000031 182  :       :                        
+0000032 001  -----   -----                    
+0000032 010  RRQ     Why                      A2.2 
+0000032 020  AT      the                      Z5 
+0000032 030  NN1     Change                   A2.1+ I1 B1 
+0000032 031  ?       ?                        
+0000033 001  -----   -----                    
+0000034 010  AT      The                      Z5 
+0000034 020  JJ      Gregorian                Z1 
+0000034 030  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000034 040  VVN     used                     A1.5.1 S7.1+ 
+0000034 050  CSA     as                       Z5 
+0000034 060  APPGE   our                      Z8 
+0000034 070  JJ      civil                    G1.1 S1.2.4+ G2.1 H1% 
+0000034 080  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000034 090  RT      today                    T1.1.2 
+0000034 100  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000034 110  XX      not                      Z6 
+0000034 120  RR      accurately               A5.3+ 
+0000034 130  VVI     reflect                  A10+ Y1/M2 X3.4 X2.1 A5.1 
+0000034 140  AT      the                      Z5 
+0000034 150  NN1     length                   N3.7 T1.3 M4 
+0000034 160  IO      of                       Z5 
+0000034 170  AT1     a                        Z5 
+0000034 180  JJ      solar                    W1 W2 O3 
+0000034 190  NNT1    year                     T1.3 P1c 
+0000034 191  ,       ,                        
+0000034 200  DDQ     which                    Z8 Z5 
+0000034 210  VBZ     is                       A3+ Z5 
+0000034 220  AT      the                      Z5 
+0000034 230  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000034 240  PPH1    it                       Z8 
+0000034 250  VVZ     takes                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000034 260  NN1     Earth                    W3 W1 O1.1 O3 N5++ 
+0000034 270  TO      to                       Z5 
+0000034 280  VVI     revolve                  A2.2[i36.2.1 M1 M2 A11.1+ 
+0000034 290  RR      once                     N6- T1.1.1 
+0000034 300  II      around                   A2.2[i36.2.2 Z5 
+0000034 310  AT      the                      Z5 
+0000034 320  NN1     Sun                      Z3 
+0000034 321  .       .                        
+0000034 322  -----   -----                    
+0000034 330  PPH1    It                       Z8 
+0000034 340  VVZ     deviates                 A6.1- 
+0000034 350  II      by                       Z5 
+0000034 360  RR      nearly                   A13.4 
+0000034 370  MC      30                       N1 T1.2 T3 T1.3 N3.2 
+0000034 380  NNT2    seconds                  T1.3 T1.2 
+0000034 390  DD1     each                     N6+[i37.2.1 N5.1+ 
+0000034 400  NNT1    year                     N6+[i37.2.2 T1.3 P1c 
+0000034 401  ,       ,                        
+0000034 410  VVG     introducing              S1.1.1 T2+ 
+0000034 420  AT1     an                       Z5 
+0000034 430  NN1     error                    A5.3- 
+0000034 440  IO      of                       Z5 
+0000034 450  AT1     a                        Z5 
+0000034 460  JJ      whole                    N5.1+ 
+0000034 470  NNT1    day                      T1.3 
+0000034 480  II      in                       Z5 
+0000034 490  MC      3236                     N1 T1.2 T3 T1.3 N3.2 
+0000034 500  NNT2    years                    T1.3 
+0000034 501  .       .                        
+0000034 502  -----   -----                    
+0000034 510  AT      The                      Z5 
+0000034 520  NP1     ISO                      Z3[i38.2.1 
+0000034 530  NN1     report                   Z3[i38.2.2 Q2.2 X3.2 
+0000034 540  VVZ     describes                Q2.2 
+0000034 550  AT      the                      Z5 
+0000034 560  JJ      Gregorian                Z1 
+0000034 570  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000034 571  ,       ,                        
+0000034 580  DDQ     which                    Z8 Z5 
+0000034 590  VBDZ    was                      Z5 A3+ 
+0000034 600  VVN     introduced               S1.1.1 T2+ 
+0000034 610  II      in                       Z5 
+0000034 620  MC      1582                     N1 T1.2 T3 T1.3 N3.2 
+0000034 621  ,       ,                        
+0000034 630  CSA     as                       Z5 
+0000034 631  NULL    <quote>                  
+0000034 632  -----   -----                    
+0000034 640  AT1     an                       Z5 
+0000034 650  JJ      outdated                 T3+ 
+0000034 660  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000034 670  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000034 680  II      from                     Z5 
+0000034 690  AT      the                      Z5 
+0000034 700  JJ      middle                   N4 M6 
+0000034 710  NN2     ages                     T1.3+ T3 
+0000034 711  NULL    </quote>                 
+0000034 712  -----   -----                    
+0000034 713  .       .                        
+0000035 001  -----   -----                    
+0000036 010  AT      The                      Z5 
+0000036 020  JJ      Iranian                  Z2 Z2/Q3 
+0000036 030  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000036 040  VBZ     is                       A3+ Z5 
+0000036 050  RG      far                      N3.3+ A13.3 X9.2+ 
+0000036 060  RGR     more                     A13.3 
+0000036 070  JJ      accurate                 A5.3+ 
+0000036 071  .       .                        
+0000036 072  -----   -----                    
+0000036 080  PPH1    It                       Z8 
+0000036 090  VVZ     reflects                 A10+ Y1/M2 X3.4 X2.1 A5.1 
+0000036 100  AT      the                      Z5 
+0000036 110  JJ      solar                    W1 W2 O3 
+0000036 120  NNT1    year                     T1.3 P1c 
+0000036 130  RP      down                     X6+[i39.2.1 A2.2[i39.2.1 M6[i39.2.1 N5.1+[i39.2.1 
+0000036 140  II      to                       X6+[i39.2.2 A2.2[i39.2.2 M6[i39.2.2 N5.1+[i39.2.2 Z5 
+0000036 150  AT      the                      Z5 
+0000036 160  NNT1    second                   T1.3 T1.2 
+0000036 161  ,       ,                        
+0000036 170  VVG     deviating                A6.1- 
+0000036 180  II      by                       Z5 
+0000036 190  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000036 200  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000036 210  NNT1    day                      T1.3 
+0000036 220  II      in                       Z5 
+0000036 230  MC      110,000                  N1 T1.2 T3 T1.3 N3.2 
+0000036 240  NNT2    years                    T1.3 
+0000036 241  .       .                        
+0000036 242  -----   -----                    
+0000036 250  TO      To                       Z5 
+0000036 260  VVI     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000036 270  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000036 280  II      into                     Z5 
+0000036 290  NN1     perspective              X4.1 C1 
+0000036 291  ,       ,                        
+0000036 300  AT      the                      Z5 
+0000036 310  MD      last                     N4 
+0000036 320  NN1     ice                      T1.3/O4.6-[i40.2.1 O1.1 
+0000036 330  NN1     age                      T1.3/O4.6-[i40.2.2 T3 T1.3 
+0000036 340  VVD     began                    T2+ 
+0000036 350  RG      about                    A13.4 
+0000036 360  MC      110,000                  T1.1.1[i41.3.1 N1 T1.2 T3 T1.3 N3.2 
+0000036 370  NNT2    years                    T1.1.1[i41.3.2 T1.3 T1.1.1[i42.2.1 
+0000036 380  RA      ago                      T1.1.1[i41.3.3 T1.1.1 T1.1.1[i42.2.2 
+0000036 381  .       .                        
+0000037 001  -----   -----                    
+0000038 010  VV0     Compare                  A6.1 A5.1 Q3 
+0000038 020  AT      the                      Z5 
+0000038 030  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000038 040  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000039 010  VV0     Memorize                 X2.2+ X2.3+ 
+0000039 020  AT      the                      Z5 
+0000039 030  JJ      New                      T3- 
+0000039 040  NNT2    Months                   T1.3 
+0000039 050  RT      Now                      T1.1.2 Z4 
+0000039 051  !       !                        
+0000040 001  -----   -----                    
+0000040 010  NN1     Illustration             A4.1 C1 
+0000040 020  NN1     image                    O4.1 A8 X2.1 C1 
+0000041 010  NP1     Nowruz                   Z99 
+0000041 020  NN2     celebrations             E4.1+ S9 
+0000041 030  II      in                       Z5 
+0000041 040  NP1     Paris                    Z2 Z1f 
+0000041 041  ,       ,                        
+0000041 050  NP1     France                   Z2 Z1mf 
+0000041 051  .       .                        
+0000042 001  -----   -----                    
+0000042 010  FU      iStockphoto.com/Elena    Z99 
+0000042 020  NN1     Dijour                   Z99 
+0000044 010  AT      The                      Z5 
+0000044 020  JJ      Iranian                  Z2 Z2/Q3 
+0000044 030  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000044 031  ,       ,                        
+0000044 040  RR      also                     N5++ 
+0000044 050  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000044 060  AT      the                      Z5 
+0000044 070  JJ      Solar                    Z3fn 
+0000044 080  JJ      Hijri                    Z99 
+0000044 090  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000044 091  ,       ,                        
+0000044 100  VHZ     has                      A9+ Z5 A2.2 S4 
+0000044 110  MC      12                       N1 T1.2 T3 T1.3 N3.2 
+0000044 120  NNT2    months                   T1.3 
+0000044 130  IO      of                       Z5 
+0000044 140  JJ      varying                  A6.1- A6.3+ A2.1+ 
+0000044 150  NN2     lengths                  N3.7 T1.3 M4 
+0000044 151  .       .                        
+0000044 152  -----   -----                    
+0000044 160  AT      The                      Z5 
+0000044 170  MD      first                    T1.3[i43.3.1 N4 
+0000044 180  MC      6                        T1.3[i43.3.2 N1 T1.2 T3 T1.3 N3.2 
+0000044 190  NNT2    months                   T1.3[i43.3.3 T1.3 
+0000044 200  VH0     have                     A9+ Z5 A2.2 S4 
+0000044 210  MC      31                       N1 T1.2 T3 T1.3 N3.2 
+0000044 220  NNT2    days                     T1.3 
+0000044 221  ,       ,                        
+0000044 230  CC      and                      Z5 
+0000044 240  NNT2    months                   T1.3 
+0000044 250  MC      7                        N1 T1.2 T3 T1.3 N3.2 
+0000044 260  II      through                  Z5 
+0000044 270  MC      11                       N1 T1.2 T3 T1.3 N3.2 
+0000044 280  VH0     have                     A9+ Z5 A2.2 S4 
+0000044 290  MC      30                       N1 T1.2 T3 T1.3 N3.2 
+0000044 300  NNT2    days                     T1.3 
+0000044 301  .       .                        
+0000044 302  -----   -----                    
+0000044 310  AT      The                      Z5 
+0000044 320  MD      last                     T1.1.1[i44.2.1 N4 
+0000044 330  NNT1    month                    T1.1.1[i44.2.2 T1.3 
+0000044 331  ,       ,                        
+0000044 340  NP1     Esfand                   Z99 
+0000044 341  ,       ,                        
+0000044 350  VHZ     has                      A9+ Z5 A2.2 S4 
+0000044 360  MC      29                       N1 T1.2 T3 T1.3 N3.2 
+0000044 370  NNT2    days                     T1.3 
+0000044 380  II      in                       Z5 
+0000044 390  AT1     a                        Z5 
+0000044 400  JJ      common                   A6.2+ N5++ S5+ O4.2- 
+0000044 410  NNT1    year                     T1.3 P1c 
+0000044 420  CC      and                      Z5 
+0000044 430  MC      30                       N1 T1.2 T3 T1.3 N3.2 
+0000044 440  NNT2    days                     T1.3 
+0000044 450  II      in                       Z5 
+0000044 460  AT1     a                        Z5 
+0000044 470  NN1     leap                     M1 N5+/A2.1 
+0000044 480  NNT1    year                     T1.3 P1c 
+0000044 481  .       .                        
+0000045 001  -----   -----                    
+0000046 010  CS      While                    Z5 
+0000046 020  DD1     this                     Z8 M6 Z5 
+0000046 030  VM      will                     T1.1.3 
+0000046 040  VVI     make                     X9.2+[i45.2.1 M1[i45.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000046 050  PPH1    it                       X9.2+[i45.2.2 M1[i45.2.2 Z8 
+0000046 060  RR      much                     A13.3 N6+ 
+0000046 070  JJR     easier                   A12++ 
+0000046 080  TO      to                       Z5 
+0000046 090  VVI     remember                 X2.2+ 
+0000046 100  AT      the                      Z5 
+0000046 110  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000046 120  IO      of                       Z5 
+0000046 130  NNT2    days                     T1.3 
+0000046 140  II      in                       Z5 
+0000046 150  DD1     each                     N6+[i46.2.1 N5.1+ 
+0000046 160  NNT1    month                    N6+[i46.2.2 T1.3 
+0000046 161  ,       ,                        
+0000046 170  VVG     memorizing               X2.2+ X2.3+ 
+0000046 180  CC      and                      Z5 
+0000046 190  RR      correctly                A5.3+ 
+0000046 200  VVG     pronouncing              Q3 Q2.2 
+0000046 210  AT      the                      Z5 
+0000046 220  NNT1    month                    T1.3 
+0000046 230  NN2     names                    Q2.2 
+0000046 240  II      in                       Z5 
+0000046 250  AT      the                      Z5 
+0000046 260  JJ      new                      T3- 
+0000046 270  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000046 280  VM      will                     T1.1.3 
+0000046 290  VVI     pose                     O4.1/B1 S1.2.3+ A5.4- Q2.2 A2.2+ 
+0000046 300  AT1     a                        Z5 
+0000046 310  JJ      major                    A11.1+ N3.2+ 
+0000046 320  NN1     challenge                A12- A6.1- S7.3+ E3- 
+0000046 330  II      to                       Z5 
+0000046 340  DD2     those                    Z5 Z8 
+0000046 350  PNQS    who                      Z8 
+0000046 360  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000046 370  XX      not                      Z6 
+0000046 380  VVI     speak                    Q2.1 
+0000046 390  JJ      Persian                  Z2 Z2/Q3 
+0000046 400  RR      yet                      T1.1.2 
+0000046 401  .       .                        
+0000047 001  -----   -----                    
+0000048 010  AT      The                      Z5 
+0000048 020  NP1     ISO                      Z3[i47.2.1 
+0000048 030  NN1     report                   Z3[i47.2.2 Q2.2 X3.2 
+0000048 040  VVZ     suggests                 Q2.2 Q1.1 
+0000048 050  VVG     beginning                T2+ 
+0000048 060  TO      to                       Z5 
+0000048 070  VVI     study                    P1 X2.4 
+0000048 080  AT      the                      Z5 
+0000048 090  NNT1    month                    T1.3 
+0000048 100  NN2     names                    Q2.2 
+0000048 110  CC      and                      Z5 
+0000048 120  NN1     practice                 A1.1.1 I3.1/S5+c 
+0000048 130  AT      the                      Z5 
+0000048 140  JJ      correct                  A5.3+ 
+0000048 150  JJ      Persian                  Z2 Z2/Q3 
+0000048 160  NN1     pronunciation            Q3 Q2.2 
+0000048 170  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000048 180  II      in                       T4+[i48.2.1 Z5 
+0000048 190  NN1     advance                  T4+[i48.2.2 I1.1 M1/G3 S3.2 A5.1+/A2.1+ 
+0000048 200  IO      of                       Z5 
+0000048 210  AT      the                      Z5 
+0000048 220  NN1     change                   A2.1+ I1 B1 
+0000048 221  .       .                        
+0000048 222  -----   -----                    
+0000048 230  JJ      Iranian                  Z2 Z2/Q3 
+0000048 240  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000048 250  NN2     studies                  P1 X2.4 H2 Q1.2 C1 
+0000048 260  VM      will                     T1.1.3 
+0000048 270  RR      also                     N5++ 
+0000048 280  VBI     be                       Z5 A3+ 
+0000048 290  VVN     added                    N5+/A2.1 N2 A1.8+ 
+0000048 300  II      to                       Z5 
+0000048 310  NN1     school                   P1/H1c S5+c L2%c 
+0000048 320  NN2     curricula                P1 
+0000048 330  RL      worldwide                W3 M7 A1.8+ 
+0000048 340  TO      to                       Z5 
+0000048 350  VVI     ensure                   A7+ 
+0000048 360  AT1     a                        Z5 
+0000048 370  JJ      smooth                   O4.5 
+0000048 380  NN1     transition               A2.1+ 
+0000048 381  .       .                        
+0000049 001  -----   -----                    
+0000050 010  VV0     Contact                  Q2.2 
+0000050 020  APPGE   your                     Z8 
+0000050 030  NN1     school                   P1/H1c S5+c L2%c 
+0000050 040  RT      now                      T1.1.2 Z4 
+0000050 050  TO      to                       Z5 
+0000050 060  VVI     make                     A7+[i49.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000050 070  JJ      sure                     A7+[i49.2.2 A7+ Z4 
+0000050 080  PPHS2   they                     Z8mfn 
+0000050 090  VBR     are                      A3+ Z5 
+0000050 100  JJ      aware                    X2.2+ 
+0000050 110  IO      of                       Z5 
+0000050 120  AT      the                      Z5 
+0000050 130  NN1     change                   A2.1+ I1 B1 
+0000051 010  AT      The                      Z5 
+0000051 020  JJ      Iranian                  Z2 Z2/Q3 
+0000051 030  NNT2    Months                   T1.3 
+0000053 010  NP1     Farvardin                Z99 
+0000053 011  (       &lsqb;                   
+0000053 020  NN1     fvdin                    Z99 
+0000053 021  )       &rsqb;                   
+0000054 010  NP1     Ordibehesht              Z99 
+0000054 011  (       &lsqb;                   
+0000054 020  NN1     odibehet                 Z99 
+0000054 021  )       &rsqb;                   
+0000055 010  NP1     Khordad                  Z99 
+0000055 011  (       &lsqb;                   
+0000055 020  NN1     xodd                     Z99 
+0000055 021  )       &rsqb;                   
+0000056 010  NP1     Tir                      Z99 
+0000056 011  (       &lsqb;                   
+0000056 020  NN2     ti                       Z3c 
+0000056 021  )       &rsqb;                   
+0000057 010  NP1     Mordad                   Z99 
+0000057 011  (       &lsqb;                   
+0000057 020  NN1     modd                     Z99 
+0000057 021  )       &rsqb;                   
+0000058 010  NP1     Shahrivar                Z99 
+0000058 011  (       &lsqb;                   
+0000058 020  NN1     hiv                      B2- 
+0000058 021  )       &rsqb;                   
+0000059 010  NP1     Mehr                     Z99 
+0000059 011  (       &lsqb;                   
+0000059 020  NN1     meh                      Z99 
+0000059 021  )       &rsqb;                   
+0000060 010  NP1     Aban                     Z99 
+0000060 011  (       &lsqb;                   
+0000060 020  NNU     bn                       Z99 
+0000060 021  )       &rsqb;                   
+0000061 010  NP1     Azar                     Z99 
+0000061 011  (       &lsqb;                   
+0000061 020  ZZ1     z                        Z5 
+0000061 021  )       &rsqb;                   
+0000062 010  NP1     Dey                      Z99 
+0000062 011  (       &lsqb;                   
+0000062 020  NN2     dei                      Z99 
+0000062 021  )       &rsqb;                   
+0000063 010  NP1     Bahman                   Z99 
+0000063 011  (       &lsqb;                   
+0000063 020  NNU     bhmn                     Z99 
+0000063 021  )       &rsqb;                   
+0000064 010  NP1     Esfand                   Z99 
+0000064 011  (       &lsqb;                   
+0000064 020  NN1     esfnd                    Z99 
+0000064 021  )       &rsqb;                   
+0000067 001  NULL    **8;7;text               

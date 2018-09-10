@@ -1,0 +1,270 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VV0     Get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000002 020  RR      daily                    T1.1.2 N6+ Q4.2 B4/S2mf 
+0000002 030  VVZ     updates                  T1.1.2 
+0000002 040  RR      directly                 M6 N3.8+ S1.1.1 
+0000002 050  II      to                       Z5 
+0000002 060  APPGE   your                     Z8 
+0000002 070  NN1     inbox                    Q1.3/Y2 
+0000002 080  FO      +                        Z5 
+0000002 090  VV0     Subscribe                X2.1/A6.1+ Q4.2/I2.2 A9-/I1 I2.2/I1 
+0000002 100  VV0     Thank                    Z4[i1.2.1 S1.2.4+[i1.2.1 S1.2.4+ 
+0000002 110  PPY     you                      Z4[i1.2.2 S1.2.4+[i1.2.2 Z8mf 
+0000002 120  IF      for                      Z5 
+0000002 130  VVG     subscribing              X2.1/A6.1+ Q4.2/I2.2 A9-/I1 I2.2/I1 
+0000002 131  !       !                        
+0000002 132  -----   -----                    
+0000002 140  VM      Could                    A7+ 
+0000002 150  XX      not                      Z6 
+0000002 160  VVI     subscribe                X2.1/A6.1+ Q4.2/I2.2 A9-/I1 I2.2/I1 
+0000002 161  ,       ,                        
+0000002 170  VV0     try                      X8+ X2.4 Q2.2 G2.1 A12- 
+0000002 180  RT      again                    N6+ Z4 
+0000002 190  RRR     later                    T4-- T1.1.3 N4 
+0000002 200  JJ      Invalid                  A5.2- B2- 
+0000002 210  NN1     Email                    Q1.3/Y2 
+0000004 010  RG      Around                   A13.4 
+0000004 020  MC      240                      N1 T1.2 T3 T1.3 N3.2 
+0000004 030  NN2     children                 S2mf/T3- S4mf 
+0000004 040  II      from                     Z5 
+0000004 050  II      across                   Z5 
+0000004 060  NP1     Berkshire                Z2 Z3c 
+0000004 070  VVD     competed                 S7.3+ 
+0000004 080  II      in                       Z5 
+0000004 090  NN1     tag                      Q1.2 Q3 K6 
+0000004 100  NN1     rugby                    K5.1 
+0000004 110  CC      and                      Z5 
+0000004 120  NN1     netball                  K5.2 
+0000004 130  NN2     competitions             K1 S7.3+ 
+0000004 140  II      at                       Z5 
+0000004 150  AT1     a                        Z5 
+0000004 160  NN1     Festival                 K1/S1.1.3+ S9 
+0000004 170  IO      of                       Z5 
+0000004 180  NN1     Sport                    K5.1 
+0000004 190  VVN     hosted                   S1.1.1 
+0000004 200  II      by                       Z5 
+0000004 210  NP1     Beechwood                Z3c[i2.3.1 Z3c[i3.2.1 
+0000004 220  JJ      Primary                  Z3c[i2.3.2 A11.1+ P1 P1/H1c[i4.2.1 
+0000004 230  NN1     School                   Z3c[i2.3.3 P1/H1c S5+c L2%c Z3c[i3.2.2 P1/H1c[i4.2.2 
+0000004 240  II      in                       Z5 
+0000004 250  NP1     Woodley                  Z2 
+0000004 251  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NN2     Youngsters               T3-/S2mf 
+0000006 020  II      from                     Z5 
+0000006 030  MC      13                       N1 T1.2 T3 T1.3 N3.2 
+0000006 040  NN2     schools                  P1/H1c S5+c L2%c 
+0000006 050  II      across                   Z5 
+0000006 060  NP1     Wokingham                Z2 Z3c 
+0000006 061  ,       ,                        
+0000006 070  ND1     West                     Z2[i6.2.1 Z2 Z1mf Z1mf[i5.2.1 Z3c[i5.2.1 
+0000006 080  NP1     Berkshire                Z2[i6.2.2 Z2 Z3c Z1mf[i5.2.2 Z3c[i5.2.2 
+0000006 081  ,       ,                        
+0000006 090  NP1     Bracknell                Z2 
+0000006 100  CC      and                      Z5 
+0000006 110  NP1     Oxfordshire              Z2 Z3c 
+0000006 120  VVD     took                     S1.1.3+[i7.2.1 A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000006 130  NN1     part                     S1.1.3+[i7.2.2 N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000006 140  II      in                       Z5 
+0000006 150  NN1     rugby                    K5.1 
+0000006 160  CC      and                      Z5 
+0000006 170  NN1     netball                  K5.2 
+0000006 180  NN2     tournaments              S7.3 
+0000006 190  II      on                       Z5 
+0000006 200  NPD1    Thursday                 T1.3 
+0000006 210  MD      last                     T1.1.1[i8.2.1 N4 
+0000006 220  NNT1    week                     T1.1.1[i8.2.2 T1.3 
+0000006 221  .       .                        
+0000007 001  -----   -----                    
+0000008 010  MC      Fourteen                 N1 T3 
+0000008 020  NN1     school                   P1/H1c S5+c L2%c 
+0000008 030  NN1     rugby                    K5.1/S5+c[i9.2.1 K5.1 
+0000008 040  NN2     teams                    K5.1/S5+c[i9.2.2 S5+ K5.1/S5+ 
+0000008 050  CC      and                      Z5 
+0000008 060  MC      10                       N1 T1.2 T3 T1.3 N3.2 
+0000008 070  NN1     netball                  K5.2 
+0000008 080  NN2     teams                    S5+ K5.1/S5+ 
+0000008 090  VBDR    were                     Z5 A3+ 
+0000008 100  VVN     placed                   M2 X2.2+ I3.1 Q2.2 
+0000008 110  II      into                     Z5 
+0000008 120  NN2     leagues                  S5+c K5.1/S5+ S7.3+ N3.3% 
+0000008 130  IW      with                     Z5 
+0000008 140  AT      the                      Z5 
+0000008 150  NN1     top                      A5.1+++[i10.2.1 M6 N4 N5.1+ O2 B5 K6 N5.1- 
+0000008 160  MC      four                     A5.1+++[i10.2.2 N1 T3 T1.2 
+0000008 170  II      in                       Z5 
+0000008 180  DD1     each                     N5.1+ 
+0000008 190  NN1     sport                    K5.1 
+0000008 200  VVG     battling                 X8+ G3 E3- 
+0000008 210  PPH1    it                       Z8 
+0000008 220  RP      out                      M6 
+0000008 230  AT      the                      Z5 
+0000008 240  NN2     semi-finals              K5.1 
+0000008 250  IF      for                      Z5 
+0000008 260  AT1     a                        Z5 
+0000008 270  NN1     place                    M7 H1 A1.2 P1 
+0000008 280  II      in                       Z5 
+0000008 290  AT      the                      Z5 
+0000008 300  NN1     final                    K5.1 
+0000008 310  IF      for                      Z5 
+0000008 320  DD1     each                     N5.1+ 
+0000008 330  NN1     sport                    K5.1 
+0000008 331  .       .                        
+0000009 001  -----   -----                    
+0000010 010  NP1     Meadow                   Z2[i11.2.1 Z1mf[i12.2.1 Z3c[i12.2.1 
+0000010 020  NP1@    Vale                     Z3c[i13.3.1 Z3c Z2[i11.2.2 Z1mf[i12.2.2 Z3c[i12.2.2 Z3c[i14.2.1 
+0000010 030  JJ      Primary                  Z3c[i13.3.2 A11.1+ P1 P1/H1c[i15.2.1 
+0000010 040  NN1     School                   Z3c[i13.3.3 P1/H1c S5+c L2%c Z3c[i14.2.2 P1/H1c[i15.2.2 
+0000010 050  II      in                       Z5 
+0000010 060  NP1     Bracknell                Z2 
+0000010 070  VVD     won                      S7.1+ A9+ 
+0000010 080  DB2     both                     N5 
+0000010 090  NN2     competitions             K1 S7.3+ 
+0000010 091  ,       ,                        
+0000010 100  VVG     overcoming               X9.2+/S7.3 X9.2+/G3 A2.2/E1 B2- 
+0000010 110  NP2     Harmans                  Z99 
+0000010 120  NN1     Water                    O1.2 W3/M4 B1 C1% 
+0000010 130  MCMC    5-3                      N1 T1.2 T3 T1.3 N3.2 
+0000010 140  II      in                       Z5 
+0000010 150  AT      the                      Z5 
+0000010 160  NN1     rugby                    K5.1 
+0000010 170  CC      and                      Z5 
+0000010 180  NP1     Beechwood                Z99 
+0000010 190  MCMC    4-2                      N1 T1.2 T3 T1.3 N3.2 
+0000010 200  II      in                       Z5 
+0000010 210  AT      the                      Z5 
+0000010 220  NN1     netball                  K5.2 
+0000010 221  .       .                        
+0000011 001  -----   -----                    
+0000012 010  NN2     Pupils                   P1/S2mf G2.1/S2mf B1 
+0000012 020  II      from                     Z5 
+0000012 030  AT      The                      Z5 
+0000012 040  NN1     Forest                   Z3c[i16.2.1 Z3 
+0000012 050  NN1     School                   Z3c[i16.2.2 P1/H1c S5+c L2%c 
+0000012 060  II      in                       Z5 
+0000012 070  NP1     Winnersh                 Z99 
+0000012 080  VVD     helped                   S8+[i17.2.1 S8+ 
+0000012 090  RP      out                      S8+[i17.2.2 M6 
+0000012 100  IW      with                     Z5 
+0000012 110  VVG@    refereeing               K5.1 
+0000012 120  AT      the                      Z5 
+0000012 130  NN1     rugby                    K5.1 
+0000012 131  ,       ,                        
+0000012 140  CS      while                    Z5 
+0000012 150  NP1     Beechwood                Z99 
+0000012 160  JJ      Primary                  A11.1+ P1 
+0000012 170  NN2     Schools                  P1/H1c S5+c L2%c P1 
+0000012 180  NP1     PTA                      S1.1.1c 
+0000012 190  VVD     sold                     I2.2 
+0000012 200  NN2     refreshments             F2 
+0000012 210  TO      to                       Z5 
+0000012 220  VVI     raise                    M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000012 230  NN2     funds                    I1.1 N5+ 
+0000012 240  TO      to                       Z5 
+0000012 250  VVI     renovate                 A5.1+/A2.1/H1 
+0000012 260  AT      the                      Z5 
+0000012 270  NN1     school                   P1/H1c S5+c L2%c 
+0000012 280  NN1     swimming                 M4/M7[i18.2.1 K5.1/M4 M4 
+0000012 290  NN1     pool                     M4/M7[i18.2.2 W3/M4 K5.1/H1 N5+ K5.1 I1/A1.4 
+0000012 291  .       .                        
+0000013 001  -----   -----                    
+0000014 010  VVG     Teaching                 P1 
+0000014 020  JJ      assistant                S8+ 
+0000014 030  NP1     Ben                      Z1mf[i19.2.1 Z3c[i19.2.1 Z1m 
+0000014 040  NP1     Berryman                 Z1mf[i19.2.2 Z3c[i19.2.2 
+0000014 041  ,       ,                        
+0000014 050  PNQS    who                      Z8 
+0000014 060  VVD     organised                S7.1+ O4.1 S5+@ 
+0000014 070  AT      the                      Z5 
+0000014 080  NN1     event                    A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
+0000014 081  ,       ,                        
+0000014 090  VVD     said                     Q2.1 
+0000014 091  :       :                        
+0000014 092  NULL    <quote>                  
+0000014 093  -----   -----                    
+0000014 100  PPH1    It                       Z8 
+0000014 110  VBDZ    was                      A3+ Z5 
+0000014 120  AT1     a                        Z5 
+0000014 130  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000014 140  NNT1    afternoon                T1.3 
+0000014 150  CC      and                      Z5 
+0000014 160  PN1     everyone                 Z8/N5.1+c 
+0000014 170  CST     that                     Z8 Z5 
+0000014 180  VVD     came                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000014 190  RR      really                   A13.3 A5.2+ 
+0000014 200  VVN     involved                 A1.8+ 
+0000014 210  PPX2    themselves               Z8 
+0000014 220  II      in                       Z5 
+0000014 230  AT      the                      Z5 
+0000014 240  NN1     tournament               S7.3 
+0000014 241  .       .                        
+0000015 001  NULL    </quote>                 
+0000016 001  NULL    <quote>                  
+0000016 002  -----   -----                    
+0000016 010  II      As                       Z5 
+0000016 020  AT1     a                        Z5 
+0000016 030  NN1     school                   P1/H1c S5+c L2%c 
+0000016 040  PPIS2   we                       Z8 
+0000016 050  VV0@    like                     E2+ 
+0000016 060  VVG     playing                  K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000016 070  II      against                  Z5 
+0000016 080  JJ      other                    A6.1- 
+0000016 090  NN2     teams                    S5+ K5.1/S5+ 
+0000016 100  CC      and                      Z5 
+0000016 110  PPIS2   we                       Z8 
+0000016 120  VV0     believe                  X2.1 S9% 
+0000016 130  PPH1    it                       Z8 
+0000016 140  VBZ     is                       A3+ Z5 
+0000016 150  JJ      important                A11.1+ 
+0000016 160  TO      to                       Z5 
+0000016 170  VVI     get                      A2.1+ A9+ Z5 X9.2+ A2.2 M1 M2 X2.5+ E4.1- 
+0000016 180  JJ      primary                  P1/H1c[i20.2.1 A11.1+ P1 
+0000016 190  NN1     school                   P1/H1c[i20.2.2 P1/H1c S5+c L2%c P1/S2mf[i21.2.1 
+0000016 200  NN2     children                 S2mf/T3- S4mf P1/S2mf[i21.2.2 
+0000016 210  RRR     more                     A13.3 N6++ 
+0000016 220  II      into                     Z5 
+0000016 230  NN1     sport                    K5.1 
+0000016 240  CSA     as                       Z5 
+0000016 250  EX      there                    Z5 
+0000016 260  VBZ     is                       A3+ Z5 
+0000016 270  XX      not                      Z6 
+0000016 280  RR      enough                   N5+ N6+ 
+0000016 290  II      at                       Z5 
+0000016 300  DD1     this                     M6 Z5 Z8 
+0000016 310  NN1     level                    N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 
+0000016 311  .       .                        
+0000017 001  NULL    </quote>                 
+0000018 001  NULL    <quote>                  
+0000018 002  -----   -----                    
+0000018 010  NN1     Sport                    K5.1 
+0000018 020  RR      really                   A13.3 A5.2+ 
+0000018 030  VVZ     brings                   M2[i22.2.1 I2.2[i22.2.1 A2.2[i22.2.1 A10+[i22.2.1 M2 A2.2 
+0000018 040  RP      out                      M2[i22.2.2 I2.2[i22.2.2 A2.2[i22.2.2 A10+[i22.2.2 M6 
+0000018 050  NN1     character                S2mf K4/S2mf S1.2 S2mf/A6.2- Q1.2 A4.1 O4.2+ 
+0000018 060  II      in                       Z5 
+0000018 070  JJ      young                    T3- 
+0000018 080  NN      people                   S2mfc 
+0000018 090  CC      and                      Z5 
+0000018 100  RR      also                     N5++ 
+0000018 110  VVZ     improves                 A5.1+/A2.1 
+0000018 120  VVZ     helps                    S8+ 
+0000018 130  TO      to                       Z5 
+0000018 140  VVI     improve                  A5.1+/A2.1 
+0000018 150  APPGE   their                    Z8 
+0000018 160  NN1     communication            Q2.1 Q1.2 Q1.3 Q4.3 
+0000018 170  CC      and                      Z5 
+0000018 180  NN1     teamwork                 I3.1/S5+ A1.1.1/S5+ 
+0000018 190  NN2     skills                   X9.1+ 
+0000018 200  CC      and                      Z5 
+0000018 210  NN1     confidence               E6+ A10- 
+0000018 220  DDQ     which                    Z8 Z5 
+0000018 230  PPHS2   they                     Z8mfn 
+0000018 240  VM      can                      A7+ 
+0000018 250  VVI     use                      A1.5.1 S7.1+ 
+0000018 260  RRR     later                    T4-- T1.1.3 N4 
+0000018 270  II      in                       Z5 
+0000018 280  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000018 281  .       .                        
+0000018 282  NULL    </quote>                 
+0000020 001  NULL    **8;7;text               

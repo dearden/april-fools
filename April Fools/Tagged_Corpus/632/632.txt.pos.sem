@@ -1,0 +1,653 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  AT      The                      Z5 
+0000002 020  NN1     film                     I4/Q4.3c[i1.2.1 Q4.3 O2/C1 O1.1 O1.2 B3 
+0000002 030  NN1     industry                 I4/Q4.3c[i1.2.2 I4c I2.1c 
+0000002 040  II      in                       Z5 
+0000002 050  AT      the                      Z5 
+0000002 060  NP1     Caribbean                Z2 
+0000002 070  VVD     took                     A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000002 080  AT1     a                        Z5 
+0000002 090  NN1     step                     M1 T1.2 H5 O2 A2.1+ A1.1.1 K1@ K5.1@ 
+0000002 100  II      in                       Z5 
+0000002 110  AT      the                      Z5 
+0000002 120  JJ      right                    A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 
+0000002 130  NN1     direction                M6 Q2.2 S7.1+ X4.2 K4 
+0000002 140  DD1     this                     M6 Z5 Z8 
+0000002 150  NNT1    month                    T1.3 
+0000002 151  .       .                        
+0000002 152  -----   -----                    
+0000002 160  II      In                       Z5 
+0000002 170  MC      seven                    N1 T3 T1.2 
+0000002 180  NNT2    days                     T1.3 
+0000002 181  ,       ,                        
+0000002 190  AT      the                      Z5 
+0000002 200  RR      much-buzzed-about        Z99 
+0000002 210  NN2@    CaribbeanTales           Z99 
+0000002 220  MC      2011                     N1 T1.2 T3 T1.3 N3.2 
+0000002 230  NN1     Film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000002 240  NN1     Festival                 K1/S1.1.3+ S9 
+0000002 250  VVD     came                     A4.1[i2.2.1 M1[i2.2.1 B1[i2.2.1 N5[i2.2.1 X6+[i2.2.1 X2.1[i2.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000002 260  II      to                       A4.1[i2.2.2 M1[i2.2.2 B1[i2.2.2 N5[i2.2.2 X6+[i2.2.2 X2.1[i2.2.2 Z5 
+0000002 270  AT1     a                        Z5 
+0000002 280  JJ      close                    N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4 
+0000002 281  .       .                        
+0000003 001  -----   -----                    
+0000004 010  AT      The                      Z5 
+0000004 020  NN1     event                    A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
+0000004 030  VVD     celebrated               E4.1+ S9 
+0000004 040  AT      the                      Z5 
+0000004 050  JJ%     exploding                A1.1.1 N5+/A2.1 E3- G3 
+0000004 060  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000004 070  CC      and                      Z5 
+0000004 080  NN1     television               I4/Q4.3c[i3.2.1 Q4.3 
+0000004 090  NN1     industry                 I4/Q4.3c[i3.2.2 I4c I2.1c 
+0000004 100  II      across                   Z5 
+0000004 110  AT      the                      Z5 
+0000004 120  JJ      Caribbean                Z2 
+0000004 130  NN1     region                   M7 B1 
+0000004 140  CC      and                      Z5 
+0000004 150  PPH1    it                       Z8 
+0000004 151  VBZ     's                       A3+ Z5 
+0000004 160  NN1     diaspora                 S5+ 
+0000004 161  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NN2     Filmmakers               Z99 
+0000006 020  CC      and                      Z5 
+0000006 030  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000006 040  NN2     enthusiasts              X5.2+ 
+0000006 050  II      from                     Z5 
+0000006 060  AT      the                      Z5 
+0000006 070  NN1     region                   M7 B1 
+0000006 080  CC      and                      Z5 
+0000006 090  AT      the                      Z5 
+0000006 100  NN1     world                    W1 S5+c A4.1 N5+ 
+0000006 110  VVD     came                     S5+[i4.2.1 X9.2+[i4.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000006 120  RL      together                 S5+[i4.2.2 X9.2+[i4.2.2 S5+ T1.1.2 M6 
+0000006 130  IF      for                      T1.3[i5.3.1 Z5 
+0000006 140  AT1     a                        T1.3[i5.3.2 Z5 
+0000006 150  NNT1    week                     T1.3[i5.3.3 T1.3 
+0000006 160  IO      of                       Z5 
+0000006 170  JJ      cultural                 C1 S1.1.1 S5+ 
+0000006 180  NN1     celebration              E4.1+ S9 
+0000006 190  DDQ     which                    Z8 Z5 
+0000006 200  VVD     took                     A1.1.1[i6.2.1 A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000006 210  NN1     place                    A1.1.1[i6.2.2 M7 H1 A1.2 P1 
+0000006 220  II      at                       Z5 
+0000006 230  AT      the                      Z5 
+0000006 240  NN1     Island                   W3 
+0000006 250  NN1     Inn                      F2/H1 G2.1/S5+c 
+0000006 260  CC      and                      Z5 
+0000006 270  NP1     George                   Z1mf[i7.2.1 Z3c[i7.2.1 Z1m 
+0000006 280  NP1     Washington               Z1mf[i7.2.2 Z3c[i7.2.2 Z2 Z1mf Z3c[i8.2.1 Z2[i8.2.1 
+0000006 290  NN1     House                    H1 P1/S5+c G1.1c Z3c[i8.2.2 Z2[i8.2.2 
+0000006 300  II      in                       Z5 
+0000006 310  NP1     Bridgetown               Z2 
+0000006 311  ,       ,                        
+0000006 320  NP1     Barbados                 Z2 Z3c 
+0000006 321  .       .                        
+0000007 001  -----   -----                    
+0000008 010  AT      The                      Z5 
+0000008 020  NN1     festival                 K1/S1.1.3+ S9 
+0000008 021  GE      's                       Z5 
+0000008 030  NN1     gala                     K1/S1.1.1 
+0000008 040  NN1     opening                  A1.1.1 T2+ O2 I3.1 
+0000008 041  ,       ,                        
+0000008 050  II      on                       Z5 
+0000008 060  NPM1    March                    T1.3[i9.2.1 T1.3 
+0000008 070  MC      16                       T1.3[i9.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000008 080  II      at                       Z5 
+0000008 090  NP1     Frank                    Z1mf[i10.2.1 Z3c[i10.2.1 Z1 
+0000008 100  NP1     Collymore                Z1mf[i10.2.2 Z3c[i10.2.2 Z2[i11.2.1 Z3c[i11.2.1 
+0000008 110  NN1     Hall                     H2 H1 S9/H1c Z2[i11.2.2 Z3c[i11.2.2 
+0000008 111  ,       ,                        
+0000008 120  VBDZ    was                      Z5 A3+ 
+0000008 130  VVN     held                     M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+ 
+0000008 140  II      before                   Z5 
+0000008 150  AT1     a                        Z5 
+0000008 160  NN1     capacity                 N3.2 N3.4 N5.1+ X9.1+ I3.1 
+0000008 170  NN1     audience                 K1/S2mfc S2mfc S1.1.3+ 
+0000008 180  IO      of                       Z5 
+0000008 190  MC      500                      N1 T1.2 T3 T1.3 N3.2 
+0000008 200  NN2     patrons                  S8+/S2mf I2.2/S2mf 
+0000008 201  .       .                        
+0000009 001  -----   -----                    
+0000010 010  CC      And                      Z5 
+0000010 020  II      at                       Z5 
+0000010 030  AT      the                      Z5 
+0000010 040  JJ      closing                  A1.1.1 A10- T2- 
+0000010 050  NNT1    night                    T1.3 
+0000010 060  NN1     screening                A10- Q4.3 X2.4 B3 
+0000010 070  IO      of                       Z5 
+0000010 080  NP1     Raoul                    Z1mf[i12.2.1 Z3c[i12.2.1 
+0000010 090  NP1     Peck                     Z1mf[i12.2.2 Z3c[i12.2.2 
+0000010 091  GE      's                       Z5 
+0000010 100  NN1     Moloch                   Z99 
+0000010 110  JJ      Tropical                 M7 W4 
+0000010 111  ,       ,                        
+0000010 120  NP2     CaribbeanTales           Z99 
+0000010 130  NN1     CEO                      S7.1+/S2mf 
+0000010 140  NP1     Frances-Anne             Z1mf[i13.2.1 Z3c[i13.2.1 
+0000010 150  NP1     Solomon                  Z1mf[i13.2.2 Z3c[i13.2.2 Z1mf 
+0000010 160  VVD     thanked                  S1.2.4+ 
+0000010 170  NN2     participants             S1.1.3+mfn 
+0000010 180  CC      and                      Z5 
+0000010 190  NN2     sponsors                 A9-/I1.1/S2mf S8+/S2mf 
+0000010 200  IF      for                      Z5 
+0000010 210  VVG     making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000010 220  DD1     this                     M6 Z5 Z8 
+0000010 230  NNT1    year                     T1.3 P1c 
+0000010 231  GE      's                       Z5 
+0000010 240  NN1     theme                    X4.1 K2 Q1.2 Q3 
+0000010 241  ,       ,                        
+0000010 250  NN1     'Vision                  Z99 
+0000010 260  NN1     Momentum                 Z3c 
+0000010 270  NN1     Action                   A1.1.1 G3 
+0000010 271  !       !                        
+0000010 280  UH      'a                       Z99 
+0000010 290  JJ      huge                     N3.2+++ 
+0000010 300  NN1     success                  X9.2+ 
+0000010 301  .       .                        
+0000011 001  -----   -----                    
+0000012 010  JJ      tremendous               N3.2+ A5.1+ 
+0000012 020  NN1     support                  S8+ O2 I1.1 B5% 
+0000014 001  NULL    <quote>                  
+0000014 002  -----   -----                    
+0000014 003  "       "                        
+0000014 010  CS21    Even                     Z5[i14.2.1 
+0000014 020  CS22    though                   Z5[i14.2.2 Z5 
+0000014 030  PPH1    it                       Z8 
+0000014 040  VBDZ    was                      A3+ Z5 
+0000014 050  RG      very                     A13.3 
+0000014 060  JJ      hard                     A12-[i15.2.1 O4.5 A12- S1.2.5+ O4.1 
+0000014 070  NN1     work                     A12-[i15.2.2 I3.1 A1.1.1 Q4 K2 C1 
+0000014 071  ,       ,                        
+0000014 080  II      in                       Z5 
+0000014 090  AT1     a                        Z5 
+0000014 100  JJ      lean                     O4.2+ F1 N5- 
+0000014 110  NNT1    year                     T1.3 P1c 
+0000014 111  ,       ,                        
+0000014 120  AT      the                      Z5 
+0000014 130  NN1     support                  S8+ O2 I1.1 B5% 
+0000014 140  PPIS2   we                       Z8 
+0000014 150  VH0     have                     Z5 A9+ A2.2 S4 
+0000014 160  VHN     had                      A9+ Z5 A2.2 S4 
+0000014 170  VHZ     has                      Z5 A9+ A2.2 S4 
+0000014 180  VBN     been                     A3+ Z5 
+0000014 190  JJ      tremendous               N3.2+ A5.1+ 
+0000014 191  ,       ,                        
+0000014 192  "       "                        
+0000014 193  NULL    </quote>                 
+0000014 194  -----   -----                    
+0000014 200  PPHS1   she                      Z8f 
+0000014 210  VVD     said                     Q2.1 
+0000014 211  .       .                        
+0000016 001  NULL    <quote>                  
+0000016 002  -----   -----                    
+0000016 003  "       "                        
+0000016 010  AT      The                      Z5 
+0000016 020  NN1     payoff                   I1.1/I3.1 G2.2-/I1 X5.2+ E3- 
+0000016 030  VBZ     is                       A3+ Z5 
+0000016 040  AT1     a                        Z5 
+0000016 050  JJ      satisfied                E4.2+ A1.2+ 
+0000016 060  CC      and                      Z5 
+0000016 070  JJ@     nourished                Z99 
+0000016 080  NN1     audience                 K1/S2mfc S2mfc S1.1.3+ 
+0000016 090  NN1     base                     M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000016 091  ,       ,                        
+0000016 100  VVN     stimulated               A2.2 X5.2+ 
+0000016 110  II      by                       Z5 
+0000016 120  JJ      rich                     I1.1+ O4.1 N5+ X5.2+ E4.1+ 
+0000016 130  NN1     dialogue                 Q2.1 
+0000016 140  II      about                    Z5 
+0000016 150  APPGE   our                      Z8 
+0000016 160  NN1     industry                 I4c I2.1c 
+0000016 161  .       .                        
+0000016 162  -----   -----                    
+0000016 170  DD1     This                     Z8 M6 Z5 
+0000016 180  VM      will                     T1.1.3 
+0000016 190  VVI     carry                    M2 A9+ Q4 S7.4+ B1% B2-% 
+0000016 200  APPGE   our                      Z8 
+0000016 210  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000016 220  RL      forward                  M6 T1.1.3 
+0000016 230  IF      for                      Z5 
+0000016 240  AT1     a                        Z5 
+0000016 250  JJ      long                     T1.3+[i16.2.1 N3.7+ T1.3+ N3.3+ N3.2+ 
+0000016 260  NNT1    time                     T1.3+[i16.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000016 270  TO      to                       Z5 
+0000016 280  VVI     come                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000016 281  ,       ,                        
+0000016 282  "       "                        
+0000016 283  NULL    </quote>                 
+0000016 284  -----   -----                    
+0000016 290  PPHS1   she                      Z8f 
+0000016 300  VVD     continued                T2++ 
+0000016 301  .       .                        
+0000017 001  -----   -----                    
+0000018 010  AT      The                      Z5 
+0000018 020  NN1     festival                 K1/S1.1.3+ S9 
+0000018 021  GE      's                       Z5 
+0000018 030  NN1     highlight                X5.2+ O4.3/B4 
+0000018 040  VBDZ    was                      A3+ Z5 
+0000018 050  AT      the                      Z5 
+0000018 060  JJ      unique                   N5--- 
+0000018 070  NN1     CT                       B3 
+0000018 080  NN1     Content                  Q2.1 A1.8+ N5 E4.1+% 
+0000018 090  NN1     Incubator                S8+ B3 L1 
+0000018 091  ,       ,                        
+0000018 100  VVN     facilitated              S8+ 
+0000018 110  II      by                       Z5 
+0000018 120  NP1     United                   Z2c[i19.2.1 Z2c[i18.2.1 Z3c Z1mf[i17.2.1 Z3c[i17.2.1 
+0000018 130  NP1     States                   Z2c[i19.2.2 Z2c[i18.2.2 Z2 Z1mf[i17.2.2 Z3c[i17.2.2 
+0000018 140  NN1     marketing                I2.2 
+0000018 150  CC      and                      Z5 
+0000018 160  NN1     distribution             A9- N5 
+0000018 170  NN1     consultant               B3/S2mf Q2.1/S8+/S2mf 
+0000018 171  ,       ,                        
+0000018 180  NP1     Michele                  Z1mf[i20.2.1 Z3c[i20.2.1 Z1f 
+0000018 190  NP1     Matterre                 Z1mf[i20.2.2 Z3c[i20.2.2 
+0000018 191  ,       ,                        
+0000018 200  IW      with                     Z5 
+0000018 210  AT1     a                        Z5 
+0000018 220  JJ      special                  A4.2+ A6.2- 
+0000018 230  NN1     animation                Q4.3 X5.2+ 
+0000018 240  NN1     incubator                S8+ B3 L1 
+0000018 250  VVN     led                      S7.1+ A2.2 M2 A1.1.1 
+0000018 260  II      by                       Z5 
+0000018 270  NP1     Camille                  Z1mf[i22.3.1 Z3c[i22.3.1 Z1f Z1mf[i21.2.1 Z3c[i21.2.1 
+0000018 280  NP1     Selvon                   Z1mf[i22.3.2 Z3c[i22.3.2 Z1mf[i21.2.2 Z3c[i21.2.2 Z1mf[i23.2.1 Z3c[i23.2.1 
+0000018 290  NP1     Abrahams                 Z3c[i22.3.3 Z1mf[i22.3.3 Z1m Z1mf[i23.2.2 Z3c[i23.2.2 
+0000018 300  IO      of                       Z5 
+0000018 310  NP1     Anime                    Z1mf[i24.2.1 Z3c[i24.2.1 
+0000018 320  NP1     Caribe                   Z1mf[i24.2.2 Z3c[i24.2.2 
+0000018 321  .       .                        
+0000019 001  -----   -----                    
+0000020 010  JJ      Selected                 X7+ 
+0000020 020  NN2     filmmakers               Z99 
+0000020 030  VVD     participated             S1.1.3+ 
+0000020 040  II      in                       Z5 
+0000020 050  AT1     an                       Z5 
+0000020 060  JJ      intensive                N5+ X8+ 
+0000020 070  NN1     immersion                X5.2+ M2 
+0000020 080  II      in                       Z5 
+0000020 090  AT      the                      Z5 
+0000020 100  JJ      creative                 X2.1/A6.2- 
+0000020 101  ,       ,                        
+0000020 110  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000020 120  CC      and                      Z5 
+0000020 130  NN1     marketing                I2.2 
+0000020 140  NN2     aspects                  A4.1 A8 M6 
+0000020 150  IO      of                       Z5 
+0000020 160  AT      the                      Z5 
+0000020 170  NN1     industry                 I4c I2.1c 
+0000020 171  ,       ,                        
+0000020 180  IW      with                     Z5 
+0000020 190  NN1     support                  S8+ O2 I1.1 B5% 
+0000020 200  II      from                     Z5 
+0000020 210  JJ      international            M7 
+0000020 220  NN1     industry                 I4c I2.1c 
+0000020 230  NN2     experts                  X2.2+/S2mf X9.1+/S2mf 
+0000020 231  ,       ,                        
+0000020 240  VVG     culminating              T2- 
+0000020 250  II      in                       Z5 
+0000020 260  AT1     a                        Z5 
+0000020 270  NN1     pitch                    M7/K5.1 X3.2 N5 O1.2 
+0000020 280  NNT1    session                  T1.3 
+0000020 281  .       .                        
+0000021 001  -----   -----                    
+0000022 010  DD1     Another                  A6.1- N5++ 
+0000022 020  NN1     highlight                X5.2+ O4.3/B4 
+0000022 030  VBDZ    was                      A3+ Z5 
+0000022 040  AT      the                      Z5 
+0000022 050  NN1     CT                       B3 
+0000022 060  NN1     Symposium                P1 S1.1.3+ 
+0000022 070  CST     that                     Z8 Z5 
+0000022 080  VVD     provided                 A9- S6+ 
+0000022 090  AT1     a                        Z5 
+0000022 100  JJ      comprehensive            A1.8+ P1 
+0000022 110  NN1     overview                 X2.5+ 
+0000022 120  IO      of                       Z5 
+0000022 130  AT      the                      Z5 
+0000022 140  JJ      regional                 M7 
+0000022 150  NN1     industry                 I4c I2.1c 
+0000022 151  ,       ,                        
+0000022 160  VVG     starting                 T2+ E5- E3- 
+0000022 170  IW      with                     Z5 
+0000022 180  AT1     a                        Z5 
+0000022 190  JJ      wonderful                A5.1+ 
+0000022 200  CC      and                      Z5 
+0000022 210  JJ      inspired                 X5.2+ A5.1+ 
+0000022 220  NN1     keynote                  A11.1++ 
+0000022 230  NN1     address                  H4 Q2.2 
+0000022 240  VVN     delivered                M2 Q2.1 X9.2+ B3 S9% 
+0000022 250  II      by                       Z5 
+0000022 260  NP1     Mia                      Z1mf[i25.2.1 Z3c[i25.2.1 
+0000022 270  NP1     Mottley                  Z1mf[i25.2.2 Z3c[i25.2.2 
+0000022 271  .       .                        
+0000023 001  -----   -----                    
+0000024 010  DA2     Many                     N5+ 
+0000024 020  JJ      special                  A4.2+ A6.2- 
+0000024 030  NN2     guests                   S2mf 
+0000024 040  VVN     travelled                M1 
+0000024 050  II      from                     Z5 
+0000024 060  RL      abroad                   M7 
+0000024 070  TO      to                       Z5 
+0000024 080  VVI     take                     S1.1.3+[i26.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000024 090  NN1     part                     S1.1.3+[i26.2.2 N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000024 100  II      in                       Z5 
+0000024 110  AT      the                      Z5 
+0000024 120  NN2     activities               A1.1.1 
+0000024 121  ,       ,                        
+0000024 130  II      including                A1.8+ 
+0000024 140  NP1     Hollywood                Z2 
+0000024 150  NN1     director                 S7.1+/S2mf K4/S2mf 
+0000024 160  NP1     Neema                    Z1mf[i27.2.1 Z3c[i27.2.1 
+0000024 170  NP1     Barnette                 Z1mf[i27.2.2 Z3c[i27.2.2 
+0000024 171  ,       ,                        
+0000024 180  NP1     Berlinale                Z99 
+0000024 190  NN1     Talent                   X9.1+ 
+0000024 200  NN1     Campus                   M7/P1 
+0000024 210  NN1     Director                 S7.1+/S2mf K4/S2mf 
+0000024 220  NP1     Mattijs                  Z1mf[i28.2.1 Z3c[i28.2.1 
+0000024 230  NP1     Knol                     Z1mf[i28.2.2 Z3c[i28.2.2 
+0000024 231  ,       ,                        
+0000024 240  NN1     World                    W1 S5+c A4.1 N5+ 
+0000024 250  NN1     Cinema                   Q4.3/H1 Q4.3 
+0000024 260  NN1     Fund                     I1.1 N5+ 
+0000024 270  NN1     Director                 S7.1+/S2mf K4/S2mf 
+0000024 280  NP1     Sonja                    Z1mf[i29.2.1 Z3c[i29.2.1 
+0000024 290  NP1     Heinen                   Z1mf[i29.2.2 Z3c[i29.2.2 
+0000024 291  ,       ,                        
+0000024 300  NP1     Africa                   Z1mf[i30.2.1 Z3c[i30.2.1 Z2 
+0000024 310  NN1     Channel                  Z1mf[i30.2.2 Z3c[i30.2.2 Z2 
+0000024 320  NN1     executive                S7.1+ I2.1/S2mf G1.1c S7.1+/S5+c 
+0000024 330  NN1     vice-president           G1.1/S7.1+/S2mf 
+0000024 340  IO      of                       Z5 
+0000024 350  JJ      Corporate                S5+ I2.1/S5+ 
+0000024 360  NN2     Affairs                  A1.1.1 S1.1.1 S3.2 
+0000024 370  NP1     Mark                     Z1mf[i31.2.1 Z3c[i31.2.1 Z1m S9/O1.2 
+0000024 380  NP1     Watson                   Z1mf[i31.2.2 Z3c[i31.2.2 Z1mf 
+0000024 381  ,       ,                        
+0000024 390  NP1     Kethiwe                  Z1mf[i32.2.1 Z3c[i32.2.1 
+0000024 400  NP1     Ngcobo                   Z1mf[i32.2.2 Z3c[i32.2.2 
+0000024 401  ,       ,                        
+0000024 410  NN1     head                     B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
+0000024 420  IO      of                       Z5 
+0000024 430  NN1     drama                    K4 A1.1.1 
+0000024 440  II      at                       Z5 
+0000024 450  AT      the                      Z5 
+0000024 460  NP1     South                    Z2mfn[i33.2.1 
+0000024 470  JJ      African                  Z2mfn[i33.2.2 Z2 
+0000024 480  NN1     Broadcasting             Q4.3 
+0000024 490  NN1     Corporation              I2.1/S5c G1.1c 
+0000024 500  CC      and                      Z5 
+0000024 510  JJ      award-winning            A9+ X9.2+ 
+0000024 520  JJ      Canadian                 Z2 
+0000024 530  NN1     composer                 K2/S2mf 
+0000024 531  ,       ,                        
+0000024 540  NP1     John                     Z1mf[i34.2.1 Z3c[i34.2.1 Z1m S9/O1.2 
+0000024 550  NP1     Welsman                  Z1mf[i34.2.2 Z3c[i34.2.2 
+0000024 551  ,       ,                        
+0000024 560  PNQS    who                      Z8 
+0000024 570  VVD     delivered                M2 Q2.1 X9.2+ B3 S9% 
+0000024 580  AT1     a                        Z5 
+0000024 590  NN1     master                   S7.1+/P1c[i35.2.1 S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m 
+0000024 600  NN1     class                    S7.1+/P1c[i35.2.2 P1c A4.1 S5+c O4.2+ 
+0000024 610  II      on                       Z5 
+0000024 620  NN1     sound                    X3.2 
+0000024 630  CC      and                      Z5 
+0000024 640  NN1     music                    K2 
+0000024 650  IF      for                      Z5 
+0000024 660  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000024 661  .       .                        
+0000025 001  -----   -----                    
+0000026 010  AT      The                      Z5 
+0000026 020  NNT1    week                     T1.3 
+0000026 030  RR      also                     N5++ 
+0000026 040  VVN     included                 A1.8+ 
+0000026 050  AT1     an                       Z5 
+0000026 060  NN2     awards                   K1[i36.2.1 S7.2+/S1.1.1[i36.2.1 A5.1+/A9- I1.3+/A9- 
+0000026 070  NN1     ceremony                 K1[i36.2.2 S7.2+/S1.1.1[i36.2.2 S1.1.1 
+0000026 080  VVG     honouring                S7.2+ 
+0000026 090  JJ      special                  A4.2+ A6.2- 
+0000026 100  NN1     guest                    H4/S2mf S1.2.2-/S2mf 
+0000026 101  ,       ,                        
+0000026 110  NP1     Hollywood                Z2 
+0000026 120  NN1     director                 S7.1+/S2mf K4/S2mf 
+0000026 130  NP1     Neema                    Z1mf[i37.2.1 Z3c[i37.2.1 
+0000026 140  NP1     Barnette                 Z1mf[i37.2.2 Z3c[i37.2.2 
+0000026 141  .       .                        
+0000027 001  -----   -----                    
+0000028 010  DD1     This                     Z8 M6 Z5 
+0000028 020  VBDZ    was                      Z5 A3+ 
+0000028 030  VVN     followed                 M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 
+0000028 040  II      by                       Z5 
+0000028 050  AT      the                      Z5 
+0000028 060  NN1     world                    W1 S5+c A4.1 N5+ 
+0000028 070  NN1     premiere                 N4 
+0000028 080  NN1     screening                A10- Q4.3 X2.4 B3 
+0000028 090  IO      of                       Z5 
+0000028 100  NP1     Howard                   Z1mf 
+0000028 110  CC      and                      Z5 
+0000028 120  NP1     Mitzi                    Z1mf[i38.2.1 Z3c[i38.2.1 
+0000028 130  NP1     Allen                    Z1mf[i38.2.2 Z3c[i38.2.2 Z1mf 
+0000028 131  VBZ     's                       Z5 A3+ 
+0000028 140  RR      eagerly                  X5.2+ 
+0000028 150  VVN     anticipated              X2.6+ 
+0000028 160  MD      fourth                   N4 
+0000028 170  NN1     feature                  Q4.3[i39.2.1 O4.1 Q4.2 Q4.3 W3 
+0000028 180  NN1     film                     Q4.3[i39.2.2 Q4.3 O2/C1 O1.1 O1.2 B3 
+0000028 181  ,       ,                        
+0000028 190  AT      The                      Z5 
+0000028 200  NN1     Skin                     Z3c 
+0000028 201  ,       ,                        
+0000028 210  VVN     followed                 M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 
+0000028 220  II      by                       Z5 
+0000028 230  AT1     a                        Z5 
+0000028 240  NN1     rap                      X3.2 G2.1 K2 E3- 
+0000028 250  NNT1    session                  T1.3 
+0000028 260  IW      with                     Z5 
+0000028 270  AT      the                      Z5 
+0000028 280  NNU     filmmakers.              Z99 
+0000030 010  JJ      important                A11.1+ 
+0000030 020  IF      for                      Z5 
+0000030 030  NN2     filmmakers               Z99 
+0000032 010  NN1     Barnette                 Z99 
+0000032 011  ,       ,                        
+0000032 020  PNQS    who                      Z8 
+0000032 030  VVD     arrived                  M1 T2- 
+0000032 040  II      from                     Z5 
+0000032 050  NP1     Los                      Z2[i43.2.1 Z2[i41.2.1 Z1 Z2[i42.2.1 Z1mf[i40.2.1 Z3c[i40.2.1 
+0000032 060  NP1     Angeles                  Z2[i43.2.2 Z2[i41.2.2 Z2 Z2[i42.2.2 Z1mf[i40.2.2 Z3c[i40.2.2 
+0000032 070  TO      to                       Z5 
+0000032 080  VVI     receive                  A9+ S5+ 
+0000032 090  AT      the                      Z5 
+0000032 100  NN1     award                    A5.1+/A9- I1.3+/A9- 
+0000032 101  ,       ,                        
+0000032 110  VVD     spoke                    Q2.1 
+0000032 120  RR      movingly                 Z99 
+0000032 130  IO      of                       Z5 
+0000032 140  AT      the                      Z5 
+0000032 150  NN1     importance               A11.1+ 
+0000032 160  IO      of                       Z5 
+0000032 170  AT      the                      Z5 
+0000032 180  NP2     CaribbeanTales           Z99 
+0000032 181  .       .                        
+0000034 001  NULL    <quote>                  
+0000034 002  -----   -----                    
+0000034 003  "       "                        
+0000034 010  IF      For                      Z5 
+0000034 020  PN1     someone                  Z8mfc 
+0000034 030  PNQS    who                      Z8 
+0000034 040  VHZ     has                      Z5 A9+ A2.2 S4 
+0000034 050  VVN     worked                   I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000034 060  RR      hard                     O4.1 X8+ X5.2+ N5+ A12- 
+0000034 070  IF      for                      Z5 
+0000034 080  PN1     everything               Z8/N5.1+ 
+0000034 090  PPIS1   I                        Z8mf 
+0000034 100  VH0     have                     Z5 A9+ A2.2 S4 
+0000034 110  RR      ever                     T1.1 N6+++ A13 
+0000034 120  VVN     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000034 121  ,       ,                        
+0000034 130  PPH1    it                       Z8 
+0000034 140  VBZ     is                       A3+ Z5 
+0000034 150  JJ      wonderful                A5.1+ 
+0000034 160  TO      to                       Z5 
+0000034 170  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000034 180  DDQ     what                     Z8 Z5 
+0000034 190  DD1     this                     M6 Z5 Z8 
+0000034 200  NN1     festival                 K1/S1.1.3+ S9 
+0000034 210  VVZ     provides                 S7.4+[i44.2.1 A9- S6+ 
+0000034 220  IF      for                      S7.4+[i44.2.2 Z5 
+0000034 230  NN2     filmmakers               Z99 
+0000034 231  ,       ,                        
+0000034 232  "       "                        
+0000034 233  NULL    </quote>                 
+0000034 234  -----   -----                    
+0000034 240  PPHS1   she                      Z8f 
+0000034 250  VVD     said                     Q2.1 
+0000034 251  .       .                        
+0000035 001  -----   -----                    
+0000036 010  NP1     Allen                    Z1mf 
+0000036 020  VVD     said                     Q2.1 
+0000036 030  PPH1    it                       Z8 
+0000036 040  VBDZ    was                      A3+ Z5 
+0000036 050  JJ      important                A11.1+ 
+0000036 060  II      to                       Z5 
+0000036 070  PPX1    herself                  Z8f 
+0000036 080  CC      and                      Z5 
+0000036 090  APPGE   her                      Z8f 
+0000036 100  NN1     husband                  S4m 
+0000036 101  ,       ,                        
+0000036 110  NN1     filmmaker                Z99 
+0000036 120  NN1     director                 S7.1+/S2mf K4/S2mf 
+0000036 130  NP1     Howard                   Z1mf[i45.2.1 Z3c[i45.2.1 Z1mf 
+0000036 140  NP1     Allen                    Z1mf[i45.2.2 Z3c[i45.2.2 Z1mf 
+0000036 141  ,       ,                        
+0000036 150  TO      to                       Z5 
+0000036 160  VVI     present                  A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4 
+0000036 170  AT      the                      Z5 
+0000036 180  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000036 190  II      at                       Z5 
+0000036 200  NP2     CaribbeanTales           Z99 
+0000036 201  ,       ,                        
+0000036 210  CS21    even                     Z5[i46.2.1 
+0000036 220  CS22    though                   Z5[i46.2.2 Z5 
+0000036 230  PPH1    it                       Z8 
+0000036 240  VBDZ    was                      A3+ Z5 
+0000036 250  XX      not                      Z6 
+0000036 260  RG      quite                    A13.5 A13.6 A13.2 
+0000036 270  JJ@     finished                 T2- O4.1 X9.2- 
+0000036 271  .       .                        
+0000038 001  NULL    <quote>                  
+0000038 002  -----   -----                    
+0000038 003  "       "                        
+0000038 010  PPIS1   I                        Z8mf 
+0000038 020  RR      really                   A13.3 A5.2+ 
+0000038 030  VVD     liked                    E2+ 
+0000038 040  AT      the                      Z5 
+0000038 050  NN1     feedback                 X2.4/A5 
+0000038 060  PPIS2   we                       Z8 
+0000038 070  VVD     got                      M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1- 
+0000038 080  II      from                     Z5 
+0000038 090  NN1     industry                 I4c I2.1c 
+0000038 100  NN2     folks                    S2mf S4mf 
+0000038 101  .       .                        
+0000038 102  -----   -----                    
+0000038 110  PPH1    It                       Z8 
+0000038 120  VBDZ    was                      A3+ Z5 
+0000038 130  JJ      honest                   A5.2+ 
+0000038 140  CC      and                      Z5 
+0000038 150  JJ      constructive             S8+ 
+0000038 151  .       .                        
+0000038 152  -----   -----                    
+0000038 160  AT1     A                        Z5 
+0000038 170  NN1     pre-screening            Z99 
+0000038 180  II21    outside                  M6[i47.2.1 A1.8-[i47.2.1 Z5 
+0000038 190  II22    of                       M6[i47.2.2 A1.8-[i47.2.2 
+0000038 200  NP1     Antigua                  Z2 
+0000038 210  VBDZ    was                      A3+ Z5 
+0000038 220  AT      the                      Z5 
+0000038 230  JJT     best                     A5.1+++ G2.2+++ O4.2+++ 
+0000038 240  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
+0000038 250  PPIS2   we                       Z8 
+0000038 260  RR      ever                     T1.1 N6+++ A13 
+0000038 270  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000038 271  ,       ,                        
+0000038 272  "       "                        
+0000038 273  NULL    </quote>                 
+0000038 274  -----   -----                    
+0000038 280  VVD     said                     Q2.1 
+0000038 290  NP1     Allen                    Z1mf 
+0000038 291  ,       ,                        
+0000038 300  PNQS    who                      Z8 
+0000038 310  VBZ     is                       A3+ Z5 
+0000038 320  AT      the                      Z5 
+0000038 330  NN1     executive                S7.1+ I2.1/S2mf G1.1c S7.1+/S5+c 
+0000038 340  NN1     producer                 K4/S7.1+/S2mf A1.1.1/S2mf 
+0000038 350  IF      for                      Z5 
+0000038 360  AT      the                      Z5 
+0000038 370  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000038 371  .       .                        
+0000039 001  -----   -----                    
+0000040 010  DAT     Most                     N5+++ 
+0000040 020  IO      of                       Z5 
+0000040 030  AT      the                      Z5 
+0000040 040  NN2     films                    Q4.3 O2/C1 O1.1 O1.2 B3 
+0000040 050  VVN     screened                 A10- Q4.3 X2.4 B3 
+0000040 060  II      to                       Z5 
+0000040 070  JJ      sold-out                 Z99 
+0000040 080  NN2     audiences                K1/S2mfc S2mfc 
+0000040 090  II      at                       Z5 
+0000040 100  AT      the                      Z5 
+0000040 110  NP1     George                   Z1mf[i48.2.1 Z3c[i48.2.1 Z1m 
+0000040 120  NP1     Washington               Z1mf[i48.2.2 Z3c[i48.2.2 Z2 Z1mf Z3c[i49.2.1 Z2[i49.2.1 
+0000040 130  NN1     House                    H1 P1/S5+c G1.1c Z3c[i49.2.2 Z2[i49.2.2 
+0000040 140  NN1     cinema                   Q4.3/H1 Q4.3 
+0000040 141  .       .                        
+0000040 142  -----   -----                    
+0000040 150  DD2     These                    Z8 Z5 
+0000040 160  VVN     featured                 A10+ 
+0000040 170  DD      some                     N5 Z5 
+0000040 180  JJ      local                    M7 
+0000040 181  ,       ,                        
+0000040 190  JJ      regional                 M7 
+0000040 200  CC      and                      Z5 
+0000040 210  JJ      international            M7 
+0000040 220  NN2     premieres                N4 
+0000040 221  ,       ,                        
+0000040 230  II      including                A1.8+ 
+0000040 240  NP1     Miquel                   Z1mf[i50.2.1 Z3c[i50.2.1 
+0000040 250  NP1     Jalofre                  Z1mf[i50.2.2 Z3c[i50.2.2 
+0000040 251  GE      's                       Z5 
+0000040 260  JJ      extraordinary            A6.2- 
+0000040 270  NN1     exploration              M1 X2.4 
+0000040 280  IO      of                       Z5 
+0000040 290  JJ      Jamaican                 Z2 
+0000040 300  NN1     dancehall                Z99 
+0000040 310  NN1     music                    K2 
+0000040 311  ,       ,                        
+0000040 320  VVD     Hit                      E3- A1.1.1 A2.1+ A11.2+ A10+ M1 G3 
+0000040 330  PPIO1   Me                       Z8mf 
+0000040 340  IW      With                     Z5 
+0000040 350  NN1     Music                    K2 
+0000040 351  ,       ,                        
+0000040 360  CC      and                      Z5 
+0000040 370  AT      the                      Z5 
+0000040 380  JJ      stunning                 O4.2+ A6.2- 
+0000040 390  NN      series                   N4c Q4.3c 
+0000040 400  NN1     premiere                 N4 
+0000040 410  IO      of                       Z5 
+0000040 420  NN1     Dominion                 S7.1+ 
+0000040 430  II      by                       Z5 
+0000040 440  NP1     Bajan                    Z99 
+0000040 450  NN1     dream                    X4.1 X7+ A5.2- 
+0000040 460  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000040 470  NP1     Sean                     Z1mf[i52.3.1 Z3c[i52.3.1 Z1mf Z1mf[i51.2.1 Z3c[i51.2.1 
+0000040 480  NP1     Michael                  Z1mf[i52.3.2 Z3c[i52.3.2 Z1m Z1mf[i51.2.2 Z3c[i51.2.2 Z1mf[i53.2.1 Z3c[i53.2.1 Z2[i54.2.1 
+0000040 490  NP1     Field                    Z3c[i52.3.3 Z1mf[i52.3.3 Z1mf[i53.2.2 Z3c[i53.2.2 Z2[i54.2.2 
+0000040 500  CC      and                      Z5 
+0000040 510  NP1     Rodney                   Z1mf[i55.2.1 Z3c[i55.2.1 
+0000040 520  NP1     Smith                    Z1mf[i55.2.2 Z3c[i55.2.2 Z1mf 
+0000040 521  .       .                        
+0000046 001  NULL    **8;7;text               

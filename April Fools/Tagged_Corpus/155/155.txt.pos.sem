@@ -1,0 +1,274 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VV0     Aytog                    Z99 
+0000002 011  ,       ,                        
+0000002 020  NP1     LLC                      Z99 
+0000002 030  VVD     announced                Q2.2 
+0000002 040  RT      today                    T1.1.2 
+0000002 050  AT      the                      Z5 
+0000002 060  NN1     launch                   M4fn M5 T2+ 
+0000002 070  IO      of                       Z5 
+0000002 080  NN1     iTasteBeerandWine        Z99 
+0000002 081  ,       ,                        
+0000002 090  AT1     a                        Z5 
+0000002 100  JJ      new                      T3- 
+0000002 110  JJ      downloadable             Y2 
+0000002 120  NN1     application              Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000002 130  IF      for                      Z5 
+0000002 140  APPGE   your                     Z8 
+0000002 150  JJ      favorite                 E2+++ 
+0000002 160  NN1     smartphone               Z99 
+0000002 161  .       .                        
+0000002 162  -----   -----                    
+0000002 170  JJ      Available                A3+ A9+ A1.2+/G1.2 S4 
+0000002 180  II      at                       Z5 
+0000002 190  NNU     http                     I1 
+0000002 191  :       :                        
+0000002 200  FU      **27;7;TOOLONG           Z99 
+0000002 201  ,       ,                        
+0000002 210  AT      the                      Z5 
+0000002 220  NN1     application              Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000002 230  VVZ     allows                   S7.4+ S8+ X2.1 
+0000002 240  AT      the                      Z5 
+0000002 250  NN1     user                     A1.5.1/S2mf 
+0000002 260  TO      to                       Z5 
+0000002 270  VVI     select                   X7+ 
+0000002 280  AT1     a                        Z5 
+0000002 290  NN1     wine                     F2 
+0000002 300  CC      or                       Z5 
+0000002 310  NN1     beer                     F2 
+0000002 320  TO      to                       Z5 
+0000002 330  VVI     sample                   X3.1 X8+ K2 
+0000002 340  II      from                     Z5 
+0000002 350  AT1     a                        Z5 
+0000002 360  NN1     database                 X2.2/Y2 
+0000002 370  IO      of                       Z5 
+0000002 380  RG      over                     T3[i1.2.1 N5[i1.2.1 N5.2+ A13.2 
+0000002 390  MC      50,000                   T3[i1.2.2 N5[i1.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000002 400  NN2     brands                   A4.1 Q1.1 
+0000002 410  CC      and                      Z5 
+0000002 420  NN2     varieties                A4.1 
+0000002 421  .       .                        
+0000004 001  NULL    <quote>                  
+0000004 002  -----   -----                    
+0000004 003  "       "                        
+0000004 010  II      After                    Z5 
+0000004 020  VVG     making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000004 030  APPGE   your                     Z8 
+0000004 040  NN1     choice                   X7+ A6.3+ 
+0000004 050  AT      the                      Z5 
+0000004 060  NN1     application              Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000004 070  VVZ     pours                    A1.1.1/O1.2 W4 M1/N5+ 
+0000004 080  AT1     a                        Z5 
+0000004 090  JJ      virtual                  A13.4 
+0000004 100  NN1     glass                    O1.1 O2 
+0000004 110  IO      of                       Z5 
+0000004 120  NN1     beer                     F2 
+0000004 130  CC      or                       Z5 
+0000004 140  NN1     wine                     F2 
+0000004 150  II      onto                     Z5 
+0000004 160  APPGE   your                     Z8 
+0000004 170  NN1     smartphone               Z99 
+0000004 180  NN1     screen                   Y2 Q4.3 H5 A10- 
+0000004 181  .       .                        
+0000004 182  -----   -----                    
+0000004 190  CS      When                     Z5 
+0000004 200  AT      the                      Z5 
+0000004 210  NN1     glass                    O1.1 O2 
+0000004 220  VBZ     is                       A3+ Z5 
+0000004 230  JJ      full                     N5.1+ I3.2+ 
+0000004 240  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000004 250  VV0     lick                     B1 S7.1+ 
+0000004 260  AT      the                      Z5 
+0000004 270  NN1     screen                   Y2 Q4.3 H5 A10- 
+0000004 280  TO      to                       Z5 
+0000004 290  VVI     taste                    X3.1 F1 X2.2 
+0000004 300  AT      the                      Z5 
+0000004 310  NN1     beer                     F2 
+0000004 320  CC      or                       Z5 
+0000004 330  NN1     wine                     F2 
+0000004 340  PPY     you                      Z8mf 
+0000004 350  VVN     selected                 X7+ 
+0000004 351  ,       ,                        
+0000004 352  "       "                        
+0000004 353  NULL    </quote>                 
+0000004 354  -----   -----                    
+0000004 360  VVD     said                     Q2.1 
+0000004 370  NP1     James                    Z1mf[i2.2.1 Z3c[i2.2.1 Z1m 
+0000004 380  NP1     Looflirpa                Z1mf[i2.2.2 Z3c[i2.2.2 
+0000004 381  ,       ,                        
+0000004 390  JJ      chief                    S7.1+/S2mf[i3.2.1 S7.1+ 
+0000004 400  NN1     executive                S7.1+/S2mf[i3.2.2 
+0000004 410  NN1     officer                  G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
+0000004 411  ,       ,                        
+0000004 420  NP1     Aytog                    Z99 
+0000004 421  ,       ,                        
+0000004 430  NP1     LLC                      Z99 
+0000004 431  .       .                        
+0000004 432  NULL    <quote>                  
+0000004 433  -----   -----                    
+0000004 434  "       "                        
+0000004 440  PPIS2   We                       Z8 
+0000004 450  VV0     believe                  X2.1 S9% 
+0000004 460  DD1     this                     M6 Z5 Z8 
+0000004 470  NN1     application              Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000004 480  VVZ     eliminates               A9- E3/L1- 
+0000004 490  AT      the                      Z5 
+0000004 500  NN1     trepidation              E5- 
+0000004 510  DAT     most                     N5+++ 
+0000004 520  NN2     consumers                I2.2/S2mf 
+0000004 530  VV0     feel                     X2.1 E1 X3 
+0000004 540  CS      when                     Z5 
+0000004 550  VVG     ordering                 S7.1+/Q2.2 I2.2/Q2.2 
+0000004 560  II      in                       Z5 
+0000004 570  AT1     a                        Z5 
+0000004 580  NN1     bar                      F2/H1c F2/H2 F2/H5 O2 O4.4 S8- G2.1c K2 
+0000004 590  CC      or                       Z5 
+0000004 600  NN1     restaurant               F1/H1 
+0000004 610  CC      or                       Z5 
+0000004 620  VVG     shopping                 I2.2 G2.1@ 
+0000004 630  AT      the                      Z5 
+0000004 640  JJ      crowded                  S5+++ A1.1.1/N5+ 
+0000004 650  NN1     beer                     F2 
+0000004 660  CC      and                      Z5 
+0000004 670  NN1     wine                     F2 
+0000004 680  NN2     aisles                   H2 
+0000004 690  IO      of                       Z5 
+0000004 700  APPGE   their                    Z8 
+0000004 710  JJ      favorite                 E2+++ 
+0000004 720  NN1     grocery                  F1/I2.2c[i4.2.1 F1 
+0000004 730  NN1     store                    F1/I2.2c[i4.2.2 I2.2/H1c A9+ A9+/H1 
+0000004 731  .       .                        
+0000004 732  -----   -----                    
+0000004 740  VVG     Utilizing                A1.5.1 
+0000004 750  APPGE   our                      Z8 
+0000004 760  JJ@     patented                 Z99 
+0000004 770  JJ      'virtual                 Z99 
+0000004 780  NN1     screen                   Y2 Q4.3 H5 A10- 
+0000004 790  NN1     taste'                   Z99 
+0000004 800  NN1     technology               Y1 
+0000004 810  AT      the                      Z5 
+0000004 820  NN1     iTasteBeerAndWine        Z99 
+0000004 830  VVZ     makes                    A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000004 840  VVG     selecting                X7+ 
+0000004 850  DD1     that                     Z5 Z8 
+0000004 860  JJ      perfect                  A5.1+++ A1.2+++ Q3 
+0000004 870  NN1     bottle                   O2 E5+ 
+0000004 880  IO      of                       Z5 
+0000004 890  NN1     beer                     F2 
+0000004 900  CC      or                       Z5 
+0000004 910  NN1     wine                     F2 
+0000004 920  AT1     a                        Z5 
+0000004 930  JJ@     snap                     N3.8+ 
+0000004 940  II      since                    Z5 
+0000004 950  VVG     tasting                  X3.1 F1 X2.2 
+0000004 960  CS      before                   Z5 
+0000004 970  PPY     you                      Z8mf 
+0000004 980  VV0     buy                      I2.2 
+0000004 990  VBZ     is                       A3+ Z5 
+0000004 000  RT      now                      T1.1.2 Z4 
+0000004 010  RRR     easier                   A12++ 
+0000004 020  CSN     than                     Z5 
+0000004 030  RR      ever                     T1.1 N6+++ A13 
+0000004 031  .       .                        
+0000004 032  "       "                        
+0000004 033  NULL    </quote>                 
+0000004 034  -----   -----                    
+0000006 010  NN2     Features                 O4.1 Q4.2 Q4.3 W3 
+0000006 020  CC      and                      Z5 
+0000006 030  NN2     Benefits                 S8+ I1.1/G1.1 
+0000006 031  :       :                        
+0000008 010  NN1     Download                 M2 
+0000008 020  VVD     personalized             A1.2/S5- 
+0000008 030  JJ      tasting                  X3.1 F1 X2.2 
+0000008 040  NN2     notes                    Q1.2 K2 
+0000009 010  VD0     Do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000009 011  XX      n't                      Z6 
+0000009 020  VBI     be                       Z5 A3+ 
+0000009 030  VVN     confused                 X2.5- 
+0000009 031  -       -                        
+0000009 040  JJ      full                     N5.1+ I3.2+ 
+0000009 050  NN1     color                    O4.3 
+0000009 060  NN2     images                   O4.1 A8 X2.1 C1 
+0000009 070  IO      of                       Z5 
+0000009 080  DAR     more                     N5++ 
+0000009 090  CSN     than                     Z5 
+0000009 100  MC      50,000                   N1 T1.2 T3 T1.3 N3.2 
+0000009 110  NN1     beer                     F2 
+0000009 120  CC      and                      Z5 
+0000009 130  NN1     wine                     F2 
+0000009 140  NN2     labels                   Q1.2 Q2.2 
+0000010 010  JJ      Authentic                A5.4+ 
+0000010 020  JJ      gurgling                 Z99 
+0000010 030  NN1     sound                    X3.2 
+0000010 040  CSA     as                       Z5 
+0000010 050  APPGE   your                     Z8 
+0000010 060  NN1     glass                    O1.1 O2 
+0000010 070  VBZ     is                       Z5 A3+ 
+0000010 080  RR      virtually                A13.4 
+0000010 090  VVN     poured                   A1.1.1/O1.2 W4 M1/N5+ 
+0000011 010  NN1     Share                    S1.1.2+ I1.1 
+0000011 020  NN2     favorites                E2+++ 
+0000011 030  IW      with                     Z5 
+0000011 040  APPGE   your                     Z8 
+0000011 050  NN2     friends                  S3.1/S2mf 
+0000011 060  II      via                      Z5 
+0000011 070  AT1     a                        Z5 
+0000011 080  NN1     wireless                 Q4.3 Q1.3 
+0000011 090  NN1     connection               A2.2 S5+ M3 O3 A1.1.1 
+0000012 010  JJ      Searchable               Z99 
+0000012 020  NN1     dictionary               Q4.1 
+0000012 030  IW      with                     Z5 
+0000012 040  JJ      easy                     A12+ 
+0000012 050  TO      to                       Z5 
+0000012 060  VVI     understand               X2.5+ 
+0000012 070  NN2     definitions              Q2.2 O4.1 
+0000012 080  IF      for                      Z5 
+0000012 090  NN2     words                    Q3 
+0000012 100  II21    such                     Z5[i5.2.1 
+0000012 110  II22    as                       Z5[i5.2.2 Z5 
+0000012 120  NN1     tannin                   Z99 
+0000012 121  ,       ,                        
+0000012 130  NN1     astringent               B3 
+0000012 131  ,       ,                        
+0000012 140  VVG     mashing                  A1.1.1 
+0000012 150  CC      and                      Z5 
+0000012 160  NN1     malt                     F1 F2 
+0000012 170  NN1     liquor                   F2 
+0000013 010  VVG     Getting                  A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000013 020  AT      the                      Z5 
+0000013 030  JJT     best                     A5.1+++ G2.2+++ O4.2+++ 
+0000013 040  NN1     deal                     N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
+0000013 041  ?       ?                        
+0000013 042  -----   -----                    
+0000013 050  VV0     Use                      A1.5.1 S7.1+ 
+0000013 060  NN2     GPS                      B3/S2mf Z5 
+0000013 070  TO      to                       Z5 
+0000013 080  VVI     search                   X2.4 
+0000013 090  JJ      local                    M7 
+0000013 100  NN1     grocery                  F1/I2.2c[i6.2.1 F1 
+0000013 110  NN2     stores                   F1/I2.2c[i6.2.2 I2.2/H1 A9+ A9+/H1 F1 
+0000013 111  ,       ,                        
+0000013 120  NN1     wine                     F2 
+0000013 130  NN2     merchants                I2.2/S2mf 
+0000013 140  CC      and                      Z5 
+0000013 150  NN1     liquor                   F2 
+0000013 160  NN2     stores                   I2.2/H1 A9+ A9+/H1 F1 
+0000013 170  TO      to                       Z5 
+0000013 180  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000013 190  CSW@    if                       Z7 
+0000013 200  PPY     you                      Z8mf 
+0000013 210  VBR     are                      Z5 A3+ 
+0000013 220  VVG     getting                  A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000013 230  AT      the                      Z5 
+0000013 240  JJT     best                     A5.1+++ G2.2+++ O4.2+++ 
+0000013 250  NN1     price                    I1.3 
+0000013 260  JJ      possible                 A7+ 
+0000014 010  JJ      Initial                  T2+ 
+0000014 020  NN1     download                 M2 
+0000014 030  IO      of                       Z5 
+0000014 040  NN1     iTasteBeerAndWine        Z99 
+0000014 050  VBZ     is                       A3+ Z5 
+0000014 060  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000014 061  .       .                        
+0000017 001  NULL    **8;35;text              

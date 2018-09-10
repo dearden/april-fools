@@ -1,0 +1,464 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  AT      The                      Z5 
+0000002 020  NP1     Philadelphia             Z1mf[i1.2.1 Z3c[i1.2.1 Z2 Z3 
+0000002 030  NP1     Phillies                 Z1mf[i1.2.2 Z3c[i1.2.2 Z2 
+0000002 040  VH0     have                     Z5 A9+ A2.2 S4 
+0000002 050  VVN     offered                  A9- Q2.2 
+0000002 060  AT      the                      Z5 
+0000002 070  NP1     New                      Z2[i3.2.1 Z1mf[i2.2.1 Z3c[i2.2.1 
+0000002 080  NP1     York                     Z2[i3.2.2 Z2 Z1mf Z1mf[i2.2.2 Z3c[i2.2.2 
+0000002 090  NN2     Mets                     S3.1 M6 A1.1.1 A6.1+ 
+0000002 100  CC      and                      Z5 
+0000002 110  APPGE   their                    Z8 
+0000002 120  NN2     fans                     S2/E2+mf O2 
+0000002 130  AT1     an                       Z5 
+0000002 140  JJ      olive                    O4.3 
+0000002 150  NN1     branch                   S5+c L3 A4.1 
+0000002 160  II      in                       Z5 
+0000002 170  DDQ     what                     Z8 Z5 
+0000002 180  VHZ     has                      A9+ Z5 A2.2 S4 
+0000002 190  RR      quickly                  N3.8+ 
+0000002 200  VV0     become                   A2.1+ O4.2+ 
+0000002 210  MC1     one                      N1 T3 T1.2 
+0000002 220  IO      of                       Z5 
+0000002 230  JJ      professional             I3.2+ I3.1 X9.1+ A5.1+ 
+0000002 240  NN2     sports                   K5.1 
+0000002 241  GE      '                        Z5 
+0000002 250  RGT     most                     A13.2 
+0000002 260  JJ      heated                   O4.6+ E3- 
+0000002 270  NN2     rivalries                S7.3 
+0000002 271  .       .                        
+0000002 272  -----   -----                    
+0000002 280  RT      Today                    T1.1.2 
+0000002 281  ,       ,                        
+0000002 290  AT      the                      Z5 
+0000002 300  NP1     Phillies                 Z2 
+0000002 310  VVD     announced                Q2.2 
+0000002 320  CST     that                     Z5 Z8 
+0000002 330  NPD1    Saturday                 T1.3 
+0000002 331  ,       ,                        
+0000002 340  NPM1    May                      T1.3[i4.2.1 T1.3 
+0000002 350  MC      2                        T1.3[i4.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000002 351  ,       ,                        
+0000002 360  MC      2009                     N1 T1.2 T3 T1.3 N3.2 
+0000002 370  VM      will                     T1.1.3 
+0000002 380  VBI     be                       A3+ Z5 
+0000002 381  NULL    <quote>                  
+0000002 382  -----   -----                    
+0000002 383  "       "                        
+0000002 390  NP1     New                      Z2[i6.2.1 Z1mf[i5.2.1 Z3c[i5.2.1 
+0000002 400  NP1     York                     Z2[i6.2.2 Z2 Z1mf Z1mf[i5.2.2 Z3c[i5.2.2 
+0000002 410  NN2     Mets                     S3.1 M6 A1.1.1 A6.1+ 
+0000002 420  NP1     Day                      T1.3 
+0000002 421  "       "                        
+0000002 422  NULL    </quote>                 
+0000002 423  -----   -----                    
+0000002 430  II      at                       Z5 
+0000002 440  NN2     Citizens                 G1.1/S2mf S5+/S2mf 
+0000002 450  NN1     Bank                     Z2[i7.2.1 Z2 
+0000002 460  NN1     Park                     Z2[i7.2.2 M7/L3 
+0000002 461  .       .                        
+0000004 001  NULL    <quote>                  
+0000004 002  -----   -----                    
+0000004 003  "       "                        
+0000004 010  PPIS2   We                       Z8 
+0000004 020  VV0     understand               X2.5+ 
+0000004 021  ,       ,                        
+0000004 030  IW      with                     Z5 
+0000004 040  MC      2009                     N1 T1.2 T3 T1.3 N3.2 
+0000004 050  VBG     being                    A3+ Z5 
+0000004 060  AT      the                      Z5 
+0000004 070  JJ      inaugural                T2+ 
+0000004 080  NNT1    season                   T1.3 
+0000004 090  II      at                       Z5 
+0000004 100  NP1     Citi                     Z2[i9.2.1 Z1mf[i8.2.1 Z3c[i8.2.1 
+0000004 110  NP1     Field                    Z2[i9.2.2 Z1mf[i8.2.2 Z3c[i8.2.2 
+0000004 111  ,       ,                        
+0000004 120  CST     that                     Z5 Z8 
+0000004 130  NN2     Mets                     S3.1 M6 A1.1.1 A6.1+ 
+0000004 140  NN2     tickets                  Q1.2 G2.1/Q1.2 G1.2 
+0000004 150  VM      will                     T1.1.3 
+0000004 160  VBI     be                       A3+ Z5 
+0000004 170  RR21    a                        A13.6[i10.2.1 N6-[i10.2.1 
+0000004 180  RR22    little                   A13.6[i10.2.2 N6-[i10.2.2 A13.7 
+0000004 190  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
+0000004 200  TO      to                       Z5 
+0000004 210  VVI     come                     M1[i11.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000004 220  II      by                       M1[i11.2.2 Z5 
+0000004 230  IF      for                      Z5 
+0000004 240  DD      some                     N5 Z5 
+0000004 250  IO      of                       Z5 
+0000004 260  APPGE   their                    Z8 
+0000004 270  RGT     most                     A13.2 
+0000004 280  JJ      passionate               X5.2+ S3.2 
+0000004 290  NN2     fans                     S2/E2+mf O2 
+0000004 291  ,       ,                        
+0000004 292  "       "                        
+0000004 293  NULL    </quote>                 
+0000004 294  -----   -----                    
+0000004 300  VVD     explained                Q2.2/A7+ A2.2 
+0000004 310  NP1     Scott                    Z1mf[i12.2.1 Z3c[i12.2.1 Z1mf 
+0000004 320  NP1     Palmer                   Z1mf[i12.2.2 Z3c[i12.2.2 Z1mf 
+0000004 321  ,       ,                        
+0000004 330  NP1     Phillies                 Z2 
+0000004 340  NN1     Director                 S7.1+/S2mf K4/S2mf 
+0000004 350  IO      of                       Z5 
+0000004 360  JJ      Public                   G1.1[i13.2.1 S5+ A10+ 
+0000004 370  NN2     Affairs                  G1.1[i13.2.2 A1.1.1 S1.1.1 S3.2 
+0000004 371  .       .                        
+0000004 372  NULL    <quote>                  
+0000004 373  -----   -----                    
+0000004 374  "       "                        
+0000004 380  PPIS2   We                       Z8 
+0000004 390  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000004 400  VVN     wanted                   X7+ S6+ A7+ G2.1- S3.2 A9- 
+0000004 410  TO      to                       Z5 
+0000004 420  VVI     let                      S7.4+ I2.2/H1 T2- 
+0000004 430  AT      the                      Z5 
+0000004 440  NN2     Mets                     S3.1/E2+mf[i14.2.1 S3.1 M6 A1.1.1 A6.1+ 
+0000004 450  NN2     fans                     S3.1/E2+mf[i14.2.2 S2/E2+mf O2 
+0000004 460  VVI     know                     X2.2+ S3.2/B1% 
+0000004 470  CST     that                     Z5 Z8 
+0000004 480  NP1     Philadelphia             Z2 Z3 
+0000004 490  VBZ     is                       A3+ Z5 
+0000004 500  JJ      nice                     A13.3[i15.2.1 O4.2+ S1.2.1+ 
+0000004 510  CC      and                      A13.3[i15.2.2 Z5 
+0000004 520  VV0     close                    A1.1.1 A10- T2- 
+0000004 521  ,       ,                        
+0000004 530  CC      and                      Z5 
+0000004 540  CST     that                     Z8 Z5 
+0000004 550  PPHS2   they                     Z8mfn 
+0000004 560  VM      can                      A7+ 
+0000004 570  VVI     consider                 X2.1 X2.4 X6 
+0000004 580  NN2     Citizens                 G1.1/S2mf S5+/S2mf 
+0000004 590  NN1     Bank                     Z2[i16.2.1 Z2 
+0000004 600  NN1     Park                     Z2[i16.2.2 M7/L3 
+0000004 610  AT1     a                        Z5 
+0000004 620  NN1     home                     H4/H1c M6 
+0000004 630  II21    away                     M6[i17.2.1 
+0000004 640  II22    from                     M6[i17.2.2 Z5 
+0000004 650  NN1     home                     H4/H1c M6 
+0000004 651  .       .                        
+0000004 652  -----   -----                    
+0000004 660  PPIS2   We                       Z8 
+0000004 661  VM      'd                       A7+ 
+0000004 670  VVI     like                     E2+ 
+0000004 680  PPHO2   them                     Z8mfn 
+0000004 690  TO      to                       Z5 
+0000004 700  VVI     think                    X2.1 
+0000004 710  IO      of                       Z5 
+0000004 720  NP1     Philadelphia             Z2 Z3 
+0000004 730  II      as                       Z5 
+0000004 740  AT      the                      Z5 
+0000004 750  NN1     'sixth                   Z99 
+0000004 760  NN1     borough                  M7c G1.1c 
+0000004 761  .       .                        
+0000004 762  "@      '                        
+0000004 763  "       "                        
+0000004 764  NULL    </quote>                 
+0000004 765  -----   -----                    
+0000006 010  AT      The                      Z5 
+0000006 020  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000006 030  VVZ     plans                    X7+ 
+0000006 040  TO      to                       Z5 
+0000006 050  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000006 060  AT1     a                        Z5 
+0000006 070  NN1     multitude                N5+ 
+0000006 080  IO      of                       Z5 
+0000006 090  NN2     changes                  A2.1+[i18.2.1 A2.1+ I1 B1 
+0000006 100  II      around                   A2.1+[i18.2.2 Z5 
+0000006 110  AT      the                      Z5 
+0000006 120  NN1     park                     M7/L3 
+0000006 130  TO      to                       Z5 
+0000006 140  VVI     accomodate               Z99 
+0000006 150  APPGE   their                    Z8 
+0000006 160  JJ      new                      T3- 
+0000006 170  NN2     guests                   S2mf 
+0000006 171  .       .                        
+0000006 172  -----   -----                    
+0000006 180  NP1     Nathan                   Z1m 
+0000006 181  GE      's                       Z5 
+0000006 190  JJ      hot                      F1[i19.2.1 O4.6+ X9.1+ O4.2+ X5.2+ G2.1- A12- S7.3+ E6- A7+++ 
+0000006 200  NN2     dogs                     F1[i19.2.2 L2mfn 
+0000006 210  VM      will                     T1.1.3 
+0000006 220  VVI     replace                  A2.1+ M2 
+0000006 230  NP1     Philadelphia             Z2 Z3 
+0000006 240  NN1     stand-by                 Z2[i20.2.1 Z3c[i20.2.1 Z1mf[i20.2.1 
+0000006 250  NP1     Hatfield                 Z2[i20.2.2 Z3c[i20.2.2 Z1mf[i20.2.2 
+0000006 260  NP2     Franks                   Z1 
+0000006 261  ,       ,                        
+0000006 270  CC      and                      Z5 
+0000006 280  AT1     a                        Z5 
+0000006 290  JJ      special                  A4.2+ A6.2- 
+0000006 300  JJ      White                    Z2[i21.2.1 Z1mf Z1mf[i22.2.1 Z3c[i22.2.1 
+0000006 310  NN1     Castle                   Z2[i21.2.2 Z1mf Z1mf[i22.2.2 Z3c[i22.2.2 
+0000006 320  NN1     stand                    I2.2/H5 H5 H1 S8- 
+0000006 330  VM      will                     T1.1.3 
+0000006 340  VVI     replace                  A2.1+ M2 
+0000006 350  NP1     Tony                     Z1mf[i23.2.1 Z3c[i23.2.1 Z1mf 
+0000006 360  NP1     Luke                     Z1mf[i23.2.2 Z3c[i23.2.2 Z1m S9/Q1.2 
+0000006 361  GE      's                       Z5 
+0000006 362  .       .                        
+0000006 363  -----   -----                    
+0000006 370  NP1@    Pinkberry                Z99 
+0000006 380  JJ      frozen                   O4.6- 
+0000006 390  NN1     yogurt                   F1 
+0000006 400  VM      will                     T1.1.3 
+0000006 410  VVI     stand                    S1.1.1[i25.2.1 M6 M2 M8 M1 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+ Q3[i24.2.1 
+0000006 420  RP@     in                       S1.1.1[i25.2.2 M6 
+0000006 430  IF      for                      Z5 Q3[i24.2.2 
+0000006 440  NP1     Pennsylvania             Z2 
+0000006 450  NN1     classic                  A4.1 Q4.1 K2 
+0000006 460  NP1     Turkey                   Z2[i26.2.1 Z3c[i26.2.1 Z2 
+0000006 470  NNL1    Hill                     Z2[i26.2.2 Z3c[i26.2.2 W3 
+0000006 480  NN1     ice                      F1[i27.2.1 O1.1 
+0000006 490  NN1     cream                    F1[i27.2.2 F1 B3 O1.2 O4.3 A5.1+++ 
+0000006 491  .       .                        
+0000006 492  NULL    <quote>                  
+0000006 493  -----   -----                    
+0000006 494  "       "                        
+0000006 500  PPIS2   We                       Z8 
+0000006 501  VBR     're                      Z5 A3+ 
+0000006 510  VVGK    going                    T1.1.3[i28.2.1 
+0000006 520  TO      to                       T1.1.3[i28.2.2 Z5 
+0000006 530  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000006 540  DB      all                      N5.1+ 
+0000006 550  RP      out                      M6 
+0000006 560  IW      with                     Z5 
+0000006 570  AT      the                      Z5 
+0000006 580  NN2     concessions              S7.4+ A9- I2.2 I1.3- 
+0000006 581  ,       ,                        
+0000006 582  "       "                        
+0000006 583  NULL    </quote>                 
+0000006 584  -----   -----                    
+0000006 590  VV0     Aramark                  Z99 
+0000006 600  NN2     representatives          Q2.1/S2mf G1.1/S2mf I2.2/S2mf A4.1 
+0000006 610  VVD     said                     Q2.1 
+0000006 611  .       .                        
+0000006 612  NULL    <quote>                  
+0000006 613  -----   -----                    
+0000006 614  "       "                        
+0000006 620  PPIS2   We                       Z8 
+0000006 630  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000006 640  TO      to                       Z5 
+0000006 650  VVI     give                     A9- A1.1.1 
+0000006 660  PPHO2   them                     Z8mfn 
+0000006 670  AT1     a                        Z5 
+0000006 680  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
+0000006 690  NP1     New                      Z2[i30.2.1 Z1mf[i29.2.1 Z3c[i29.2.1 
+0000006 700  NP1     York                     Z2[i30.2.2 Z2 Z1mf Z1mf[i29.2.2 Z3c[i29.2.2 
+0000006 710  VV0     experience               A2.1+/A3+ X3 
+0000006 720  RL      here                     M6 T1.1.2 T1.2 
+0000006 730  II      in                       Z5 
+0000006 740  NP1     Philadelphia             Z2 Z3 
+0000006 741  .       .                        
+0000006 742  "       "                        
+0000006 743  NULL    </quote>                 
+0000006 744  -----   -----                    
+0000008 010  RR      Additionally             N5++ 
+0000008 011  ,       ,                        
+0000008 020  AT      the                      Z5 
+0000008 030  NP1     Phillie                  Z99 
+0000008 040  JJ      Phanatic                 Z99 
+0000008 050  VM      will                     T1.1.3 
+0000008 060  VBI     be                       Z5 A3+ 
+0000008 070  VVN     given                    A9- A1.1.1 
+0000008 080  AT      the                      Z5 
+0000008 090  NNT1    day                      K1/T1.3[i31.2.1 T1.3 
+0000008 100  RP      off                      K1/T1.3[i31.2.2 M6 K1 A1.1.1 A1.9 
+0000008 101  ,       ,                        
+0000008 110  IW      with                     Z5 
+0000008 120  NNB     Mr.                      Z1m[i32.2.1 S2.2m 
+0000008 130  NP1     Met                      Z1m[i32.2.2 
+0000008 140  VVG     providing                A9- 
+0000008 150  NN1     entertainment            K1 
+0000008 160  II      in                       Z5 
+0000008 170  AT      the                      Z5 
+0000008 180  NN2     stands                   Q3[i33.2.1 I2.2/H5 H5 H1 S8- 
+0000008 190  IF      for                      Q3[i33.2.2 Z5 
+0000008 200  NN2     fans                     S2/E2+mf O2 
+0000008 210  IO      of                       Z5 
+0000008 220  DB      all                      N5.1+ 
+0000008 230  NN2     ages                     T1.3+ T3 
+0000008 231  .       .                        
+0000008 232  NULL    <quote>                  
+0000008 233  -----   -----                    
+0000008 234  "       "                        
+0000008 240  PPIS2   We                       Z8 
+0000008 250  VV0     know                     X2.2+ S3.2/B1% 
+0000008 260  CST     that                     Z5 Z8 
+0000008 270  NN2     fans                     S2/E2+mf O2 
+0000008 280  IO      of                       Z5 
+0000008 290  DB2     both                     N5 
+0000008 300  NN2     teams                    S5+ K5.1/S5+ 
+0000008 310  VM      can                      A7+ 
+0000008 320  VVI     appreciate               E2+ X2.5+ S1.1.1 I1.1++ 
+0000008 330  AT      the                      Z5 
+0000008 340  NN1     hilarity                 Z99 
+0000008 350  IO      of                       Z5 
+0000008 360  DA      such                     A13.3[i34.2.1 Z5 Z8 
+0000008 370  AT1     a                        A13.3[i34.2.2 Z5 
+0000008 380  JJ      fine                     A5.1+ A4.2+ O4.5 O4.1 W4 N3.2- 
+0000008 390  NN1     mascot                   L2mfn K6 
+0000008 391  !       !                        
+0000008 392  "       "                        
+0000008 393  NULL    </quote>                 
+0000008 394  -----   -----                    
+0000008 395  ,       ,                        
+0000008 400  NP1     Palmer                   Z1mf 
+0000008 410  VVD     stated                   Q2.1 
+0000008 411  .       .                        
+0000010 001  NULL    <quote>                  
+0000010 002  -----   -----                    
+0000010 003  "       "                        
+0000010 010  PPIS2   We                       Z8 
+0000010 020  RR      also                     N5++ 
+0000010 030  VV0     understand               X2.5+ 
+0000010 040  CST     that                     Z5 Z8 
+0000010 050  NP1     Philadelphia             Z2 Z3 
+0000010 060  VBZ     is                       A3+ Z5 
+0000010 070  RR      easily                   A12+ 
+0000010 080  JJ      accessible               S1.2.1+ A9+ A12+ M6 
+0000010 090  IF      for                      Z5 
+0000010 100  DA2     many                     N5+ 
+0000010 110  IO      of                       Z5 
+0000010 120  AT      the                      Z5 
+0000010 130  NN2     Mets                     S3.1/E2+mf[i35.2.1 S3.1 M6 A1.1.1 A6.1+ 
+0000010 140  NN2     fans                     S3.1/E2+mf[i35.2.2 S2/E2+mf O2 
+0000010 150  II      in                       Z5 
+0000010 160  JJ      central                  A11.1+ M6 
+0000010 170  CC      and                      Z5 
+0000010 180  JJ      northern                 Z2[i36.2.1 M6 
+0000010 190  NP1     New                      Z2[i36.2.2 Z2[i38.2.1 Z1mf[i37.2.1 Z3c[i37.2.1 
+0000010 200  NP1     Jersey                   Z2[i38.2.2 Z2 Z1mf[i37.2.2 Z3c[i37.2.2 
+0000010 201  .       .                        
+0000010 202  -----   -----                    
+0000010 210  PPIS2   We                       Z8 
+0000010 211  VBR     're                      Z5 A3+ 
+0000010 220  VVG     planning                 X7+ 
+0000010 230  JJ      special                  A4.2+ A6.2- 
+0000010 240  NN2     contests                 S7.3 
+0000010 250  TO      to                       Z5 
+0000010 260  VVI     cater                    S8+ F1 
+0000010 270  II      to                       Z5 
+0000010 280  DD1     this                     M6 Z5 Z8 
+0000010 290  NN1     portion                  N5 
+0000010 300  IO      of                       Z5 
+0000010 310  APPGE   their                    Z8 
+0000010 320  NN1     fanbase                  Z99 
+0000010 321  .       .                        
+0000010 322  -----   -----                    
+0000010 330  PPIS2   We                       Z8 
+0000010 331  VM      'll                      T1.1.3 
+0000010 340  VBI     be                       Z5 A3+ 
+0000010 350  VVG     raffling                 K1/I2.2 
+0000010 360  RP      off                      M6 K1 A1.1.1 A1.9 
+0000010 370  AT1     a                        Z5 
+0000010 380  JJ      no-deposit               Z99 
+0000010 390  NNT1    summer                   T1.3 
+0000010 400  NN1     rental                   I2.2 
+0000010 410  NN1     house                    H1 P1/S5+c G1.1c 
+0000010 420  II      in                       Z5 
+0000010 430  NN1     Seaside                  W3/M4 
+0000010 440  NN2     Heights                  N3.7 N5.1+ S7.1+ 
+0000010 441  ,       ,                        
+0000010 450  AT1     a                        Z5 
+0000010 460  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000010 470  NN1     consultation             Q2.1 B3 X2.3 
+0000010 480  IW      with                     Z5 
+0000010 490  JJ      world-famous             Z99 
+0000010 500  NN1     stylist                  Z2[i39.2.1 Z3c[i39.2.1 Z1mf[i39.2.1 B4/S2mf 
+0000010 510  NP1     Giuseppe                 Z2[i39.2.2 Z3c[i39.2.2 Z1mf[i39.2.2 Z1mf[i40.2.1 Z3c[i40.2.1 
+0000010 520  NP1     Franco                   Z1mf Z1mf[i40.2.2 Z3c[i40.2.2 
+0000010 521  ,       ,                        
+0000010 530  CC      and                      Z5 
+0000010 540  AT1     a                        Z5 
+0000010 550  NNU     $5,000                   Z99 
+0000010 560  NN1     shopping                 I2.2/O2 I2.2 G2.1@ 
+0000010 570  NN1     spree                    N5.2+ A1.1.1 
+0000010 580  II      at                       Z5 
+0000010 590  NN1     Garden                   L3/H3 M7/L3 
+0000010 600  NN1     State                    Z2[i41.2.1 Z3c[i41.2.1 Z1mf[i41.2.1 G1.1c O4.1 
+0000010 610  NN1     Plaza                    Z2[i41.2.2 Z3c[i41.2.2 Z1mf[i41.2.2 Z2 Z3c 
+0000010 611  ,       ,                        
+0000010 612  "       "                        
+0000010 613  NULL    </quote>                 
+0000010 614  -----   -----                    
+0000010 620  NP1     Palmer                   Z1mf 
+0000010 630  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000010 631  .       .                        
+0000011 001  -----   -----                    
+0000012 010  VV0     Comcast                  Z99 
+0000012 020  NN1     SportsNet                Z99 
+0000012 030  VM      will                     T1.1.3 
+0000012 040  VVI     forgo                    A1.9 
+0000012 050  APPGE   their                    Z8 
+0000012 060  JJ      normal                   A6.2+ 
+0000012 070  VVG     announcing               Q2.2 
+0000012 080  NN1     crew                     M4/S5+c M5/S5+c K4/S5+c Q4.3/S5+c 
+0000012 090  IO      of                       Z5 
+0000012 100  NP1     Harry                    Z1mf 
+0000012 110  NP2     Kalas                    Z99 
+0000012 111  ,       ,                        
+0000012 120  NP1     Chris                    Z1mf[i42.2.1 Z3c[i42.2.1 Z1mf 
+0000012 130  NP1     Wheeler                  Z1mf[i42.2.2 Z3c[i42.2.2 Z1mf 
+0000012 131  ,       ,                        
+0000012 140  CC      and                      Z5 
+0000012 150  NP1     Gary                     Z1mf[i43.2.1 Z3c[i43.2.1 Z1m 
+0000012 160  NP1     Matthews                 Z1mf[i43.2.2 Z3c[i43.2.2 Z1m S9/O1.2 
+0000012 161  ,       ,                        
+0000012 170  PNQS    who                      Z8 
+0000012 180  VM      will                     T1.1.3 
+0000012 190  VVI     hand                     A9- 
+0000012 200  AT      the                      Z5 
+0000012 210  NN2     microphones              Q2.1/O3 
+0000012 220  RP      over                     T2- M6 
+0000012 230  II      to                       Z5 
+0000012 240  APPGE   their                    Z8 
+0000012 250  NN2     friends                  S3.1/S2mf 
+0000012 260  II      in                       Z5 
+0000012 270  AT      the                      Z5 
+0000012 280  JJ      SNY                      Z99 
+0000012 290  NN1     broadcast                Q4.3 
+0000012 300  NN1     booth                    H1 
+0000012 310  NN1     --                       Z99 
+0000012 320  NP1     Keith                    Z1mf[i44.2.1 Z3c[i44.2.1 Z1mf 
+0000012 330  NP1     Hernandez                Z1mf[i44.2.2 Z3c[i44.2.2 
+0000012 331  ,       ,                        
+0000012 340  NP1     Gary                     Z1mf[i45.2.1 Z3c[i45.2.1 Z1m 
+0000012 350  NP1     Cohen                    Z1mf[i45.2.2 Z3c[i45.2.2 Z1mf 
+0000012 351  ,       ,                        
+0000012 360  CC      and                      Z5 
+0000012 370  NP1     Ron                      Z1mf[i46.2.1 Z3c[i46.2.1 Z1m 
+0000012 380  NN1     Darling                  Z1mf[i46.2.2 Z3c[i46.2.2 Z1mf 
+0000012 381  .       .                        
+0000013 001  -----   -----                    
+0000014 010  NN1     Actor/comedian           Z99 
+0000014 020  NP1     Kevin                    Z1mf[i47.2.1 Z3c[i47.2.1 Z1m 
+0000014 030  NP1     James                    Z1mf[i47.2.2 Z3c[i47.2.2 Z1m 
+0000014 031  ,       ,                        
+0000014 040  AT1     a                        Z5 
+0000014 050  JJ      lifelong                 T1.3+ 
+0000014 060  NN2     Mets                     S3.1 M6 A1.1.1 A6.1+ 
+0000014 070  VV0     fan                      A1.1.1 
+0000014 080  CC      and                      Z5 
+0000014 090  NN1     star                     W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 
+0000014 100  IO      of                       Z5 
+0000014 110  NN1     blockbuster              Q4.3/A5.1+ 
+0000014 120  NP1     Paul                     Z1mf[i48.2.1 Z3c[i48.2.1 Z1m 
+0000014 130  NP1     Blart                    Z1mf[i48.2.2 Z3c[i48.2.2 
+0000014 131  :       :                        
+0000014 140  NN1     Mall                     I2.2/H1c M3/H3 
+0000014 150  NN1     Cop                      G2.1/S2mf A5.1+@ 
+0000014 151  ,       ,                        
+0000014 160  VBZ     is                       Z5 A3+ 
+0000014 170  VVN     expected                 X2.6+ B1 
+0000014 180  TO      to                       Z5 
+0000014 190  VVI     throw                    M2[i49.2.1 X7-[i49.2.1 K5.1@[i49.2.1 M2 A2.2 Q2.2 A1.1.1 X2.5- 
+0000014 200  RP      out                      M2[i49.2.2 X7-[i49.2.2 K5.1@[i49.2.2 M6 
+0000014 210  AT      the                      Z5 
+0000014 220  MD      first                    N4 
+0000014 230  NN1     pitch                    M7/K5.1 X3.2 N5 O1.2 
+0000014 231  .       .                        
+0000017 001  NULL    **8;7;text               

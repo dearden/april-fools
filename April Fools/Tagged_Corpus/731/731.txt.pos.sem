@@ -1,0 +1,835 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  DAR     More                     N5++ 
+0000002 020  CSN     than                     Z5 
+0000002 030  MC      7,500                    N1 T1.2 T3 T1.3 N3.2 
+0000002 040  JJ      high                     P1/H1c[i1.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000002 050  NN1     school                   P1/H1c[i1.2.2 P1/H1c S5+c L2%c 
+0000002 060  NN2     girls                    S2.1f L2f@ 
+0000002 070  VVD     gathered                 S5+ A9+ N5+/A2.1 X2.5+ A1.1.1% 
+0000002 080  TO      to                       Z5 
+0000002 090  VVI     tinker                   A2.1+ 
+0000002 100  IW      with                     Z5 
+0000002 110  NN2     robotics                 Y2 
+0000002 120  DD1     this                     M6 Z5 Z8 
+0000002 130  NPM1    March                    T1.3 
+0000002 131  ,       ,                        
+0000002 140  II      as                       Z5 
+0000002 150  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000002 160  IO      of                       Z5 
+0000002 170  AT      the                      Z5 
+0000002 180  MD      15th                     N4 T1.3 
+0000002 190  JJ      annual                   N6+ 
+0000002 200  JJ      Devry                    Z99 
+0000002 210  NN1     University               P1/H1c 
+0000002 220  NN1     HerWorld                 Z99 
+0000002 230  NN1     program                  Y2 X7+ Q4.3 Q1.2 P1 
+0000002 231  .       .                        
+0000002 232  -----   -----                    
+0000002 240  NN1     HerWorld                 Z99 
+0000002 250  VVZ     aims                     X7+ M6 
+0000002 260  TO      to                       Z5 
+0000002 270  VVI     create                   A1.1.1 A2.2 E1 
+0000002 280  JJ      college-                 Z99 
+0000002 290  CC      and                      Z5 
+0000002 300  JJ      career-ready             Z99 
+0000002 310  JJ      young                    T3- 
+0000002 320  NN2     women                    S2.1f 
+0000002 330  II      by                       Z5 
+0000002 340  VVG@    encouraging              S8+ 
+0000002 350  PPHO2   them                     Z8mfn 
+0000002 360  TO      to                       Z5 
+0000002 370  VVI     explore                  M1 X2.4 
+0000002 380  AT      the                      Z5 
+0000002 390  NN1     science                  Y1 
+0000002 391  ,       ,                        
+0000002 400  NN1     technology               Y1 
+0000002 401  ,       ,                        
+0000002 410  NN1     engineering              Y1 S7.1+ A1.1.1 
+0000002 411  ,       ,                        
+0000002 420  CC      and                      Z5 
+0000002 430  NN1     math                     N2 
+0000002 431  (       (                        
+0000002 440  NN1     STEM                     L3 O2 
+0000002 441  )       )                        
+0000002 450  NN2     fields                   F4 W3 M7 K5.1/M7 G3@ A4.1 
+0000002 451  .       .                        
+0000003 001  -----   -----                    
+0000004 010  NP1@    Devry                    Z99 
+0000004 020  VVD     hosted                   S1.1.1 
+0000004 030  MC      30                       N1 T1.2 T3 T1.3 N3.2 
+0000004 040  NN1     HerWorld                 Z99 
+0000004 050  NN2     events                   A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
+0000004 060  II      across                   Z5 
+0000004 070  AT      the                      Z5 
+0000004 080  NN1     country                  G1.1c W3 F4/M7 K2 
+0000004 090  MD      last                     T1.1.1[i2.2.1 N4 
+0000004 100  NNT1    month                    T1.1.1[i2.2.2 T1.3 
+0000004 101  ,       ,                        
+0000004 110  DDQ     which                    Z8 Z5 
+0000004 120  VVD     included                 A1.8+ 
+0000004 130  NN1     STEM                     L3 O2 
+0000004 140  NN2     workshops                I4/H1 P1 
+0000004 150  CC      and                      Z5 
+0000004 160  NN2     speeches                 Q2.1 Q3 
+0000004 170  II      from                     Z5 
+0000004 180  JJ      female                   S2.1 
+0000004 190  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000004 200  II      in                       Z5 
+0000004 210  NN1     science                  Y1 
+0000004 220  CC      and                      Z5 
+0000004 230  NN1     technology               Y1 
+0000004 240  NN2     fields                   F4 W3 M7 K5.1/M7 G3@ A4.1 
+0000004 241  ,       ,                        
+0000004 250  II31    as                       N5++[i3.2.1 Z5 
+0000004 260  II32    well                     N5++[i3.2.2 
+0000004 270  II33    as                       Z5 
+0000004 280  JJ      Olympic                  Z3c 
+0000004 290  NN2     athletes                 K5.1/S2mf 
+0000004 291  .       .                        
+0000004 292  -----   -----                    
+0000004 300  NN1     Soccer                   K5.1 
+0000004 310  NN1     legend                   S9/Q2.1 X2.2+++/S2mf 
+0000004 320  NP1     Mia                      Z1mf[i4.2.1 Z3c[i4.2.1 
+0000004 330  NP1     Hamm                     Z1mf[i4.2.2 Z3c[i4.2.2 
+0000004 340  VVD     spoke                    Q2.1 
+0000004 350  II      at                       Z5 
+0000004 360  NN2     gatherings               S5+c A9+ N5+/A2.1 X2.5+ A1.1.1% 
+0000004 370  II      in                       Z5 
+0000004 380  NP1     New                      Z2[i6.2.1 Z1mf[i5.2.1 Z3c[i5.2.1 
+0000004 390  NP1     York                     Z2[i6.2.2 Z2 Z1mf Z1mf[i5.2.2 Z3c[i5.2.2 
+0000004 400  CC      and                      Z5 
+0000004 410  NP1     Florida                  Z2 
+0000004 420  TO      to                       Z5 
+0000004 430  VVI     assure                   A7+ Q2.2 
+0000004 440  JJ      young                    T3- 
+0000004 450  NN2     women                    S2.1f 
+0000004 460  CST     that                     Z8 Z5 
+0000004 470  PPHS2   they                     Z8mfn 
+0000004 480  VM      can                      A7+ 
+0000004 490  VVI     succeed                  X9.2+ N4 
+0000004 500  II      in                       Z5 
+0000004 510  AT1     a                        Z5 
+0000004 520  JJ      male-dominated           S2.2/S7.1+ 
+0000004 530  NN1     fieldbe                  Z99 
+0000004 540  PPH1    it                       Z8 
+0000004 550  VV0     STEM                     L3 O2 T2+ T2- Q3% 
+0000004 560  CC      or                       Z5 
+0000004 570  JJ      professional             I3.2+ I3.1 X9.1+ A5.1+ 
+0000004 580  NN2     sports                   K5.1 
+0000004 581  .       .                        
+0000005 001  -----   -----                    
+0000006 010  CCB     But                      Z5 
+0000006 020  PPH1    it                       Z8 
+0000006 021  VBZ     's                       A3+ Z5 
+0000006 030  NP1     Hammwho                  Z99 
+0000006 040  VVD     joined                   A2.2 S5+ A1.8+ A1.1.1 
+0000006 050  AT      the                      Z5 
+0000006 060  NP1     U.S.                     Z8 
+0000006 070  NN2     women                    S2.1f 
+0000006 071  GE      's                       Z5 
+0000006 080  JJ      national                 M7/N5.1+ 
+0000006 090  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000006 100  II      at                       Z5 
+0000006 110  MC      15                       N1 T1.2 T3 T1.3 N3.2 
+0000006 111  ,       ,                        
+0000006 120  VVD     claimed                  Q2.2 A9+ 
+0000006 130  MC      two                      N1 T3 T1.2 
+0000006 140  NN1     World                    K5.1[i7.2.1 W1 S5+c A4.1 N5+ K5.1[i8.2.1 
+0000006 150  NN1     Cup                      K5.1[i7.2.2 O2 S7.3+ A5.1+/O2 K5.1[i8.2.2 
+0000006 160  NN2     titles                   Q4 S7.1+ A9+ Q2.2 
+0000006 161  ,       ,                        
+0000006 170  CC      and                      Z5 
+0000006 180  VVD     won                      S7.1+ A9+ 
+0000006 190  MC      two                      N1 T3 T1.2 
+0000006 200  JJ      Olympic                  Z3c 
+0000006 210  NN1     gold                     O1.1 O4.3 I1 
+0000006 220  NN1     medalswho                Z99 
+0000006 230  VVZ     calls                    Q2.2 S1.1.1 Q1.3 S9% 
+0000006 240  AT      the                      Z5 
+0000006 250  JJ      high                     P1/H1c[i9.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000006 260  NN1     school                   P1/H1c[i9.2.2 P1/H1c S5+c L2%c 
+0000006 270  NN2     girls                    S2.1f L2f@ 
+0000006 280  II      at                       Z5 
+0000006 290  AT      the                      Z5 
+0000006 300  NN1     HerWorld                 Z99 
+0000006 310  NN2     events                   A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
+0000006 311  NULL    <quote>                  
+0000006 312  -----   -----                    
+0000006 313  "       "                        
+0000006 320  JJ      inspiring                S8+ 
+0000006 321  .       .                        
+0000006 322  "       "                        
+0000006 323  NULL    </quote>                 
+0000008 001  NULL    <quote>                  
+0000008 002  -----   -----                    
+0000008 003  "       "                        
+0000008 010  PPIS1   I                        Z8mf 
+0000008 020  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000008 021  XX      n't                      Z6 
+0000008 030  VVI     think                    X2.1 
+0000008 040  PPH1    it                       Z8 
+0000008 050  VM      would                    A7+ 
+0000008 060  VHI     have                     A9+ Z5 A2.2 S4 
+0000008 070  RG@     as                       A13 
+0000008 080  DA1     much                     N5+ I1.3+ 
+0000008 090  IO      of                       Z5 
+0000008 100  AT1     an                       Z5 
+0000008 110  JJ      emotional                E1 
+0000008 120  NN1     impact                   A2.2 A1.1.1 
+0000008 130  II      on                       Z5 
+0000008 140  PPIO1   me                       Z8mf 
+0000008 150  CSA     as                       Z5 
+0000008 160  PPH1    it                       Z8 
+0000008 170  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000008 171  ,       ,                        
+0000008 172  "       "                        
+0000008 173  NULL    </quote>                 
+0000008 174  -----   -----                    
+0000008 180  PPHS1   she                      Z8f 
+0000008 190  VVZ     says                     Q2.1 
+0000008 200  IO      of                       Z5 
+0000008 210  VVG     engaging                 A1.1.1 S1.1.3+ X5.2+ I3.1 G3@ 
+0000008 220  IW      with                     Z5 
+0000008 230  AT      the                      Z5 
+0000008 240  JJ      young                    T3- 
+0000008 250  NN2     women                    S2.1f 
+0000008 260  II      at                       Z5 
+0000008 270  AT      the                      Z5 
+0000008 280  NP1     New                      Z2[i11.2.1 Z1mf[i10.2.1 Z3c[i10.2.1 
+0000008 290  NP1     York                     Z2[i11.2.2 Z2 Z1mf Z1mf[i10.2.2 Z3c[i10.2.2 
+0000008 300  NN1     event                    A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
+0000008 301  .       .                        
+0000008 302  NULL    <quote>                  
+0000008 303  -----   -----                    
+0000008 304  "       "                        
+0000008 310  PPY     You                      Z8mf 
+0000008 320  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000008 330  AT1     a                        Z5 
+0000008 340  NN1     group                    S5+c A4.1c B3% 
+0000008 350  IO      of                       Z5 
+0000008 360  NN2     women                    S2.1f 
+0000008 370  VVG     wanting                  X7+ S6+ A7+ S3.2 A9- 
+0000008 380  TO      to                       Z5 
+0000008 390  VBI     be                       A3+ Z5 
+0000008 400  RL      there                    M6 T1.2 
+0000008 401  ,       ,                        
+0000008 410  VVG     wanting                  X7+ S6+ A7+ S3.2 A9- 
+0000008 420  TO      to                       Z5 
+0000008 430  VVI     learn                    X2.3+ P1 
+0000008 431  ,       ,                        
+0000008 440  CC      and                      Z5 
+0000008 450  VVG     understanding            X2.5+ 
+0000008 460  AT      the                      Z5 
+0000008 470  NN1     importance               A11.1+ 
+0000008 480  IO      of                       Z5 
+0000008 490  VVG     furthering               N5+/A2.1 
+0000008 500  APPGE   their                    Z8 
+0000008 510  NN1     educationnot             Z99 
+0000008 520  RR      only                     A14 
+0000008 530  RP@     in                       M6 
+0000008 540  VVZ     regards                  X2.1 
+0000008 550  II      to                       Z5 
+0000008 560  APPGE   their                    Z8 
+0000008 570  NN1     future                   T1.1.3 
+0000008 571  ,       ,                        
+0000008 580  CCB     but                      Z5 
+0000008 590  AT      the                      Z5 
+0000008 600  NN1     future                   T1.1.3 
+0000008 610  IO      of                       Z5 
+0000008 620  APPGE   their                    Z8 
+0000008 630  NN2     families                 S4 A4.1 
+0000008 631  ,       ,                        
+0000008 640  IF      for                      Z5 
+0000008 650  AT      the                      Z5 
+0000008 660  NN1     future                   T1.1.3 
+0000008 670  IO      of                       Z5 
+0000008 680  APPGE   their                    Z8 
+0000008 690  NN2     communities              S5+ 
+0000008 691  ,       ,                        
+0000008 700  CC      and                      Z5 
+0000008 710  RR      hopefully                X2.6+ E4.1+ X9.2+ A5.1+ A13.3 
+0000008 720  IF      for                      Z5 
+0000008 730  AT      the                      Z5 
+0000008 740  NN1     future                   T1.1.3 
+0000008 750  APPGE   our                      Z8 
+0000008 760  NN1     country                  G1.1c W3 F4/M7 K2 
+0000008 761  .       .                        
+0000008 762  "       "                        
+0000008 763  NULL    </quote>                 
+0000008 764  -----   -----                    
+0000010 010  II      In                       Z5 
+0000010 020  AT      the                      Z5 
+0000010 030  NP1     United                   Z2c[i14.2.1 Z2c[i13.2.1 Z3c Z1mf[i12.2.1 Z3c[i12.2.1 
+0000010 040  NP1     States                   Z2c[i14.2.2 Z2c[i13.2.2 Z2 Z1mf[i12.2.2 Z3c[i12.2.2 
+0000010 041  ,       ,                        
+0000010 050  EX      there                    Z5 
+0000010 051  VBZ     's                       A3+ Z5 
+0000010 060  AT1     a                        Z5 
+0000010 070  NN1     call                     Q2.2 S1.1.1 Q1.3 X7+ S9% 
+0000010 080  IF      for                      Z5 
+0000010 090  VVG     developing               A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000010 100  DAR     more                     N5++ 
+0000010 110  NN1     STEM                     L3 O2 
+0000010 120  NN2     experts                  X2.2+/S2mf X9.1+/S2mf 
+0000010 130  TO      to                       Z5 
+0000010 140  VVI     keep                     A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000010 150  AT      the                      Z5 
+0000010 160  NN1     country                  G1.1c W3 F4/M7 K2 
+0000010 170  RR      globally                 M7 A1.8+ 
+0000010 180  JJ      competitive              S7.3+ 
+0000010 190  CC      and                      Z5 
+0000010 200  TO      to                       Z5 
+0000010 210  VVI     solve                    X9.2+ 
+0000010 220  JJ      environmental            W5 W3 
+0000010 230  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000010 231  .       .                        
+0000010 232  -----   -----                    
+0000010 240  AT      The                      Z5 
+0000010 250  NN1     field                    F4 W3 M7 K5.1/M7 G3@ A4.1 
+0000010 260  VBZ     is                       A3+ Z5 
+0000010 270  JJ      ripe                     O4.1/L3/F1 A1.2+ 
+0000010 280  IF      for                      Z5 
+0000010 290  NN2     women                    S2.1f 
+0000010 291  :       :                        
+0000010 300  II21    According                Z5[i15.2.1 Z5 
+0000010 310  II22    to                       Z5[i15.2.2 Z5 
+0000010 320  AT1     a                        Z5 
+0000010 330  MC      2011                     N1 T1.2 T3 T1.3 N3.2 
+0000010 340  NP1     U.S.                     Z8 
+0000010 350  NN1     Department               H2/S5+c X2.2 
+0000010 360  IO      of                       Z5 
+0000010 370  NN1     Commerce                 I2.1 
+0000010 380  NN1     report                   Q2.2 X3.2 
+0000010 381  ,       ,                        
+0000010 390  NN2     women                    S2.1f 
+0000010 400  IW      with                     Z5 
+0000010 410  NN1     STEM                     L3 O2 
+0000010 420  NN2     jobs                     I3.1 A1.1.1 
+0000010 430  VV0     earn                     A9+/I1 S1.1.4+ 
+0000010 440  MC      33                       N5[i16.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000010 450  NNU     percent                  N5[i16.2.2 N5 
+0000010 460  DAR     more                     N5++ 
+0000010 470  CSN     than                     Z5 
+0000010 480  NN2     women                    S2.1f 
+0000010 490  II      in                       Z5 
+0000010 500  JJ      non-STEM                 Z99 
+0000010 510  NN2     jobs                     I3.1 A1.1.1 
+0000010 511  .       .                        
+0000010 512  -----   -----                    
+0000010 520  CCB     But                      Z5 
+0000010 530  AT      the                      Z5 
+0000010 540  DA      same                     A6.1+++ 
+0000010 550  NN1     report                   Q2.2 X3.2 
+0000010 560  VVZ     shows                    A10+ S1.1.1 
+0000010 570  CST     that                     Z5 Z8 
+0000010 580  NN2     women                    S2.1f 
+0000010 590  VV0     hold                     M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+ 
+0000010 600  DAR     less                     N5-- 
+0000010 610  CSN     than                     Z5 
+0000010 620  MC      25                       N5[i17.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000010 630  NNU     percent                  N5[i17.2.2 N5 
+0000010 640  IO      of                       Z5 
+0000010 650  DB      all                      N5.1+ 
+0000010 660  VV0     STEM                     L3 O2 T2+ T2- Q3% 
+0000010 670  NN2     positions                M6 M7 S7.1 I3.1 N4 S1.1.1 A1.1.1 K5.1% 
+0000010 671  .       .                        
+0000011 001  -----   -----                    
+0000012 001  (       &lsqb;                   
+0000012 010  VV0     Check                    X2.4[i18.2.1 I2.2[i18.2.1 A5.2+[i18.2.1 X2.4/A5.3 A15 Q1.2 T2- M5 
+0000012 020  RP      out                      X2.4[i18.2.2 I2.2[i18.2.2 A5.2+[i18.2.2 M6 
+0000012 030  MC      nine                     N1 T1.2 T3 T1.3 N3.2 
+0000012 040  NN1     college                  P1/H1c 
+0000012 050  NN2     scholarships             I1 P1 
+0000012 060  IF      for                      Z5 
+0000012 070  NN2     women                    S2.1f 
+0000012 080  II      in                       Z5 
+0000012 090  NN1     STEM                     L3 O2 
+0000012 091  .       .                        
+0000012 092  )       &rsqb;                   
+0000013 001  -----   -----                    
+0000014 010  DD      Some                     N5 Z5 
+0000014 020  NN2     studies                  P1 X2.4 H2 Q1.2 C1 
+0000014 030  VV0     show                     A10+ S1.1.1 
+0000014 040  CST     that                     Z5 Z8 
+0000014 050  JJ      young                    T3- 
+0000014 060  NN2     women                    S2.1f 
+0000014 070  VBR     are                      Z5 A3+ 
+0000014 071  XX      n't                      Z6 
+0000014 080  VVG     pursuing                 A1.1.1 X8+ X2.4 M1 
+0000014 090  NN1     STEM                     L3 O2 
+0000014 100  NN2     fields                   F4 W3 M7 K5.1/M7 G3@ A4.1 
+0000014 110  CS      because                  Z5/A2.2 
+0000014 120  PPHS2   they                     Z8mfn 
+0000014 130  VV0@    lack                     A9- 
+0000014 140  AT      the                      Z5 
+0000014 150  NN1     confidence               E6+ A10- 
+0000014 160  TO      to                       Z5 
+0000014 170  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000014 180  RR      so                       Z5 A13.3 
+0000014 190  CC      and                      Z5 
+0000014 200  VVI     feel                     X2.1 E1 X3 
+0000014 210  VVN     tied                     A2.2 A1.1.1 S5+ S6+ A1.7+ 
+0000014 220  II      to                       Z5 
+0000014 230  AT      the                      Z5 
+0000014 240  NN1     gender                   S2 
+0000014 250  NN2     stereotypes              A6.2+/X2.1 
+0000014 260  IO      of                       Z5 
+0000014 270  NN2     males                    S2.2m 
+0000014 280  VHG     having                   A9+ Z5 A2.2 S4 
+0000014 290  DAR     more                     N5++ 
+0000014 300  JJ      technical                Y1 I4 X9.1 
+0000014 310  NN2     skills                   X9.1+ 
+0000014 311  .       .                        
+0000016 001  NULL    <quote>                  
+0000016 002  -----   -----                    
+0000016 003  "       "                        
+0000016 010  PPIS1   I                        Z8mf 
+0000016 020  VV0     remember                 X2.2+ 
+0000016 030  VVG     taking                   A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000016 040  AT1     a                        Z5 
+0000016 041  (       &lsqb;                   
+0000016 050  JJ      high                     P1/H1c[i19.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000016 060  NN1     school                   P1/H1c[i19.2.2 P1/H1c S5+c L2%c 
+0000016 061  )       &rsqb;                   
+0000016 070  NN1     chemistry                Y1/P1c[i20.2.1 Y1 S3.1 
+0000016 080  NN1     class                    Y1/P1c[i20.2.2 P1c A4.1 S5+c O4.2+ 
+0000016 090  CC      and                      Z5 
+0000016 100  VVD     felt                     X2.1 E1 X3 
+0000016 110  RRR     more                     A13.3 N6++ 
+0000016 120  II      like                     Z5 
+0000016 130  AT      the                      Z5 
+0000016 140  NN2     guys                     S2.2m O2 
+0000016 150  VBDR    were                     Z5 A3+ 
+0000016 160  VBG     being                    Z5 A3+ 
+0000016 170  VVN     taught                   P1 
+0000016 180  CSN     than                     Z5 
+0000016 190  AT      the                      Z5 
+0000016 200  NN2     girls                    S2.1f L2f@ 
+0000016 201  ,       ,                        
+0000016 202  "       "                        
+0000016 203  NULL    </quote>                 
+0000016 204  -----   -----                    
+0000016 210  NP1@    Hamm                     Z99 
+0000016 220  VVZ     says                     Q2.1 
+0000016 221  .       .                        
+0000016 222  NULL    <quote>                  
+0000016 223  -----   -----                    
+0000016 224  "       "                        
+0000016 230  PPH1    It                       Z8 
+0000016 231  VBZ     's                       A3+ Z5 
+0000016 240  FO      2012we                   Z99 
+0000016 250  VM      should                   S6+ A7+ 
+0000016 260  VBI     be                       Z5 A3+ 
+0000016 270  VVG     talking                  Q2.1 
+0000016 280  II      about                    Z5 
+0000016 290  NN1     inclusion                A1.8+ 
+0000016 291  ,       ,                        
+0000016 300  XX      not                      Z6 
+0000016 310  NN1     exclusion                A1.8- 
+0000016 311  .       .                        
+0000016 312  -----   -----                    
+0000016 320  CC      And                      Z5 
+0000016 330  CS21    even                     Z7[i21.2.1 
+0000016 340  CS22    if                       Z7[i21.2.2 Z7 
+0000016 350  AT      the                      Z5 
+0000016 360  NN2     numbers                  N5 N1 Q1.3 K2 Q4.2 
+0000016 370  VBR     are                      A3+ Z5 
+0000016 380  JJR     lower                    M6 N3.7-- N5-- I1.3-- A5.1-- A11.1-- E4.1-- X3.2-- G2.2-- S7.1-- 
+0000016 390  IW      with                     Z5 
+0000016 400  NN2     girls                    S2.1f L2f@ 
+0000016 401  GE      '                        Z5 
+0000016 410  NN1     participation            S1.1.3+ 
+0000016 411  (       &lsqb;                   
+0000016 420  II      in                       Z5 
+0000016 430  NN1     STEM                     L3 O2 
+0000016 431  )       &rsqb;                   
+0000016 440  II      in                       Z5 
+0000016 450  AT      the                      Z5 
+0000016 460  NN1     classroom                P1/H2 
+0000016 461  ,       ,                        
+0000016 470  CS      if                       Z7 
+0000016 480  DD1     that                     Z8 Z5 
+0000016 481  VBZ     's                       A3+ Z5 
+0000016 490  DDQ     what                     Z8 Z5 
+0000016 500  APPGE   their                    Z8 
+0000016 510  NN1     passion                  X5.2+ S3.2 S9@ E4.1-@ 
+0000016 520  VBZ     is                       A3+ Z5 
+0000016 521  ,       ,                        
+0000016 530  CC      and                      Z5 
+0000016 540  CS      if                       Z7 
+0000016 550  DD1     that                     Z8 Z5 
+0000016 551  VBZ     's                       A3+ Z5 
+0000016 560  DDQ     what                     Z8 Z5 
+0000016 570  PPHS2   they                     Z8mfn 
+0000016 580  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000016 590  TO      to                       Z5 
+0000016 600  VVI     focus                    X5.1+ X3.4 A4.2+ 
+0000016 610  RP@     on                       M6 A1.1.1 
+0000016 611  ,       ,                        
+0000016 620  RT      then                     N4 Z5 T1.2 
+0000016 630  PPIS2   we                       Z8 
+0000016 640  VM      should                   S6+ A7+ 
+0000016 650  VBI     be                       Z5 A3+ 
+0000016 660  VVG@    encouraging              S8+ 
+0000016 670  DD2     these                    Z5 Z8 
+0000016 680  NN2     girls                    S2.1f L2f@ 
+0000016 690  TO      to                       Z5 
+0000016 700  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000016 710  DD1     that                     Z8 Z5 
+0000016 711  .       .                        
+0000016 712  "       "                        
+0000016 713  NULL    </quote>                 
+0000016 714  -----   -----                    
+0000018 010  NN1     Encouragement            S8+ 
+0000018 020  II      from                     Z5 
+0000018 030  NN2     parents                  S4mf A9+ 
+0000018 040  CC      and                      Z5 
+0000018 050  NN2     teachers                 P1/I3.2/S2mf 
+0000018 060  RR      typically                A6.2+ A4.2+ 
+0000018 070  VHZ     has                      A9+ Z5 A2.2 S4 
+0000018 080  AT      the                      Z5 
+0000018 090  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
+0000018 100  NN1     effect                   A2.2 A8 
+0000018 110  II      on                       Z5 
+0000018 120  NN2     students                 P1/S2mf 
+0000018 130  CC      and                      Z5 
+0000018 140  APPGE   their                    Z8 
+0000018 150  NN2     ambitions                X7+ 
+0000018 151  ,       ,                        
+0000018 160  NP1     Hamm                     Z99 
+0000018 170  VVZ     says                     Q2.1 
+0000018 171  .       .                        
+0000018 172  -----   -----                    
+0000018 180  AT      The                      Z5 
+0000018 190  JJT     best                     A5.1+++ G2.2+++ O4.2+++ 
+0000018 200  NN2     teachers                 P1/I3.2/S2mf 
+0000018 210  NP1     Hamm                     Z99 
+0000018 220  VHD     had                      A9+ Z5 A2.2 S4 
+0000018 230  VBDR    were                     A3+ Z5 
+0000018 240  AT      the                      Z5 
+0000018 250  NN2     ones                     Z8 
+0000018 260  PNQS    who                      Z8 
+0000018 270  VVD     challenged               A6.1- S7.3+ Q2.2 
+0000018 280  PPHO1   her                      Z8f 
+0000018 290  CC      and                      Z5 
+0000018 300  VVD     created                  A1.1.1 A2.2 E1 
+0000018 310  AT1     a                        Z5 
+0000018 320  JJ      positive                 A5.1+ A7+ N2 
+0000018 330  NN1     learning                 X2.3+[i23.2.1 X2.3+ P1 X2.3+[i22.2.1 
+0000018 340  NN1     environment              X2.3+[i23.2.2 W5 W3 E1 Y2 O4.1 X2.3+[i22.2.2 
+0000018 350  II      in                       Z5 
+0000018 360  AT      the                      Z5 
+0000018 370  NN1     classroom                P1/H2 
+0000018 371  ,       ,                        
+0000018 380  PPHS1   she                      Z8f 
+0000018 390  VVZ     says                     Q2.1 
+0000018 391  .       .                        
+0000020 001  NULL    <quote>                  
+0000020 002  -----   -----                    
+0000020 003  "       "                        
+0000020 010  PPIS1   I                        Z8mf 
+0000020 020  VV0     remember                 X2.2+ 
+0000020 030  AT      the                      Z5 
+0000020 040  NN2     teachers                 P1/I3.2/S2mf 
+0000020 050  CST     that                     Z8 Z5 
+0000020 060  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000020 070  VVI     thatonce                 Z99 
+0000020 080  PPY     you                      Z8mf 
+0000020 090  VVD     got                      M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1- 
+0000020 100  II      in                       Z5[i24.2.1 Z5 
+0000020 110  DD1     that                     Z5[i24.2.2 Z5 Z8 
+0000020 120  NN1     classroom                P1/H2 
+0000020 121  ,       ,                        
+0000020 130  EX      there                    Z5 
+0000020 140  VBDR    were                     A3+ Z5 
+0000020 150  AT      no                       Z6 
+0000020 160  NN2     cliques                  S5+c 
+0000020 161  ,       ,                        
+0000020 162  "       "                        
+0000020 163  NULL    </quote>                 
+0000020 164  -----   -----                    
+0000020 170  UH      Hamm                     Z99 
+0000020 180  NN2     notes                    Q1.2 K2 
+0000020 181  .       .                        
+0000020 182  NULL    <quote>                  
+0000020 183  -----   -----                    
+0000020 184  "       "                        
+0000020 190  PPIS1   I                        Z8mf 
+0000020 200  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000020 210  VV0     remember                 X2.2+ 
+0000020 220  NN1     thinking                 X2.1 
+0000020 221  ,       ,                        
+0000020 230  NN1     'Oh                      Z99 
+0000020 240  APPGE   my                       Z8 
+0000020 250  UH      gosh                     Z4 
+0000020 251  ,       ,                        
+0000020 260  PPIS2   we                       Z8 
+0000020 270  VBR     are                      Z5 A3+ 
+0000020 280  VVG     learning                 X2.3+ P1 
+0000020 290  RG      so                       A13.3 
+0000020 300  DA1     much                     N5+ I1.3+ 
+0000020 310  II      from                     Z5 
+0000020 320  PPX221  each                     Z8[i25.2.1 
+0000020 330  PPX222  other                    Z8[i25.2.2 
+0000020 331  .       .                        
+0000020 332  "@      '                        
+0000020 333  "       "                        
+0000020 334  NULL    </quote>                 
+0000020 335  -----   -----                    
+0000022 010  NN2     Parents                  S4mf A9+ 
+0000022 020  VV0     play                     K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000022 030  AT1     a                        Z5 
+0000022 040  JJ      key                      A11.1+ 
+0000022 050  NN1     role                     I3.1 K4 S1.1.1 A1.1.1 
+0000022 060  II      in                       Z5 
+0000022 070  VVG     supporting               S8+ A1.1.1 K5.1 I1.1 A10+ 
+0000022 080  APPGE   their                    Z8 
+0000022 090  NN2     children                 S2mf/T3- S4mf 
+0000022 091  ,       ,                        
+0000022 100  RR      especially               A14 
+0000022 110  CS      if                       Z7 
+0000022 120  PPH1    it                       Z8 
+0000022 121  VBZ     's                       A3+ Z5 
+0000022 130  AT1     an                       Z5 
+0000022 140  JJ      unpopular                E2- 
+0000022 150  NN1     field                    F4 W3 M7 K5.1/M7 G3@ A4.1 
+0000022 160  IF      for                      Z5 
+0000022 170  AT      the                      Z5 
+0000022 180  NN2     students                 P1/S2mf 
+0000022 181  GE      '                        Z5 
+0000022 190  NN2     genders                  S2 
+0000022 191  ,       ,                        
+0000022 200  II21    such                     Z5[i26.2.1 
+0000022 210  II22    as                       Z5[i26.2.2 Z5 
+0000022 220  JJ      young                    T3- 
+0000022 230  NN2     women                    S2.1f 
+0000022 240  PNQS    who                      Z8 
+0000022 250  VBR     are                      Z5 A3+ 
+0000022 260  VVG     pursuing                 A1.1.1 X8+ X2.4 M1 
+0000022 270  NN1     STEM                     L3 O2 
+0000022 280  NN2     fields                   F4 W3 M7 K5.1/M7 G3@ A4.1 
+0000022 290  CC      or                       Z5 
+0000022 300  JJ      competitive              S7.3+ 
+0000022 310  NN2     sports                   K5.1 
+0000022 311  .       .                        
+0000022 312  -----   -----                    
+0000022 320  NP1@    Hamm                     Z99 
+0000022 321  GE      's                       Z5 
+0000022 330  NN2     parents                  S4mf A9+ 
+0000022 340  VBDR    were                     A3+ Z5 
+0000022 350  JJ      supportive               S8+ 
+0000022 360  IO      of                       Z5 
+0000022 370  PPHO1   her                      Z8f 
+0000022 380  CS      when                     Z5 
+0000022 390  PPHS1   she                      Z8f 
+0000022 400  VBDZ    was                      A3+ Z5 
+0000022 410  MC1     one                      T3 N1 T1.2 
+0000022 420  IO      of                       Z5 
+0000022 430  AT      the                      Z5 
+0000022 440  JJ      only                     A14 
+0000022 450  JJ      female                   S2.1 
+0000022 460  NN1     soccer                   K5.1 
+0000022 470  NN2     players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000022 480  II      at                       Z5 
+0000022 490  APPGE   her                      Z8f 
+0000022 500  JJ      high                     P1/H1c[i27.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000022 510  NN1     school                   P1/H1c[i27.2.2 P1/H1c S5+c L2%c 
+0000022 511  ,       ,                        
+0000022 520  CC      and                      Z5 
+0000022 530  NP1     Hamm                     Z99 
+0000022 540  VVZ     plans                    X7+ 
+0000022 550  TO      to                       Z5 
+0000022 560  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000022 570  AT      the                      Z5 
+0000022 580  DA      same                     A6.1+++ 
+0000022 590  IF      for                      Z5 
+0000022 600  APPGE   her                      Z8f 
+0000022 610  JJ      5-year-old               Z99 
+0000022 620  NN1     twin                     S4mf A6.1+ 
+0000022 630  NN2     daughters                S4f 
+0000022 631  .       .                        
+0000024 001  NULL    <quote>                  
+0000024 002  -----   -----                    
+0000024 003  "       "                        
+0000024 010  PPIS1   I                        Z8mf 
+0000024 020  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000024 030  APPGE   my                       Z8 
+0000024 040  NN2     girls                    S2.1f L2f@ 
+0000024 050  TO      to                       Z5 
+0000024 060  VVI     feel                     X2.1 E1 X3 
+0000024 070  CST     that                     Z8 Z5 
+0000024 080  PPHS2   they                     Z8mfn 
+0000024 090  VM      can                      A7+ 
+0000024 100  VBI     be                       A3+ Z5 
+0000024 110  AT1     a                        Z5 
+0000024 120  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000024 130  IO      of                       Z5 
+0000024 140  DDQV    whatever                 Z8 Z5 
+0000024 150  PPHS2   they                     Z8mfn 
+0000024 160  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000024 161  ,       ,                        
+0000024 162  "       "                        
+0000024 163  NULL    </quote>                 
+0000024 164  -----   -----                    
+0000024 170  PPHS1   she                      Z8f 
+0000024 180  VVZ     says                     Q2.1 
+0000024 181  .       .                        
+0000025 001  -----   -----                    
+0000026 001  (       &lsqb;                   
+0000026 010  VV0     Read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000026 020  RRQ     how                      Z5 A13.3 
+0000026 030  NN2     students                 P1/S2mf 
+0000026 040  VV0     learn                    X2.3+ P1 
+0000026 050  RRR     better                   A5.1++ G2.2++ O4.2++ 
+0000026 060  IW      with                     Z5 
+0000026 070  JJ      engaged                  S4 A1.5.1/H5 Q1.3 A1.1.1 S1.1.3+ X5.2+ I3.1 G3@ 
+0000026 080  NN2     parents                  S4mf A9+ 
+0000026 081  .       .                        
+0000026 082  )       &rsqb;                   
+0000027 001  -----   -----                    
+0000028 010  AT1     An                       Z5 
+0000028 020  JJ      important                A11.1+ 
+0000028 030  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000028 040  IF      for                      Z5 
+0000028 050  NN2     parents                  S4mf A9+ 
+0000028 060  TO      to                       Z5 
+0000028 070  VVI     provide                  A9- S6+ 
+0000028 080  NN1     support                  S8+ O2 I1.1 B5% 
+0000028 090  IF      for                      Z5 
+0000028 100  APPGE   their                    Z8 
+0000028 110  NN2     kids                     S2mf/T3- S4mf L2 
+0000028 111  GE      '                        Z5 
+0000028 120  NN2     activities               A1.1.1 
+0000028 130  VBZ     is                       A3+ Z5 
+0000028 140  TO      to                       Z5 
+0000028 150  VVI     show                     A10+ S1.1.1 
+0000028 160  PPHO2   them                     Z8mfn 
+0000028 170  CST     that                     Z5 Z8 
+0000028 180  EX      there                    Z5 
+0000028 190  VBR     are                      A3+ Z5 
+0000028 200  JJ      other                    A6.1- 
+0000028 210  NN      people                   S2mfc 
+0000028 220  RP      out                      M6[i28.2.1 M6 
+0000028 230  RL      there                    M6[i28.2.2 M6 T1.2 
+0000028 240  IW      with                     Z5 
+0000028 250  JJ      similar                  A6.1+ 
+0000028 260  NN2     interests                X5.2+ I1.1 S8+ S1.1.3+ 
+0000028 261  .       .                        
+0000028 262  -----   -----                    
+0000028 270  AT      The                      Z5 
+0000028 280  NN1     HerWorld                 Z99 
+0000028 290  NN2     events                   A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
+0000028 291  ,       ,                        
+0000028 300  REX21   for                      Z5[i29.2.1 
+0000028 310  REX22   example                  Z5[i29.2.2 
+0000028 311  ,       ,                        
+0000028 320  VVD     allowed                  S7.4+ S8+ X2.1 
+0000028 330  JJ      young                    T3- 
+0000028 340  NN2     women                    S2.1f 
+0000028 350  TO      to                       Z5 
+0000028 360  VVI     meet                     S3.1 M6 A1.1.1 X9.2+ A6.1+ 
+0000028 370  NN2     peers                    A6.1+/S2mf S7.1+/S2mf 
+0000028 380  PNQS    who                      Z8 
+0000028 390  VBR     are                      A3+ Z5 
+0000028 400  RR      also                     N5++ 
+0000028 410  JJ      interested               X5.2+ S1.1.3+ 
+0000028 420  II      in                       Z5 
+0000028 430  NN1     STEM                     L3 O2 
+0000028 431  .       .                        
+0000030 001  NULL    <quote>                  
+0000030 002  -----   -----                    
+0000030 003  "       "                        
+0000030 010  PPH1    It                       Z8 
+0000030 011  VBZ     's                       A3+ Z5 
+0000030 020  RR      largely                  A13.2 
+0000030 030  JJ      important                A11.1+ 
+0000030 040  TO      to                       Z5 
+0000030 050  VHI     have                     A9+ Z5 A2.2 S4 
+0000030 060  AT1     a                        Z5 
+0000030 070  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000030 080  NN1     support                  S8+ O2 I1.1 B5% 
+0000030 090  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000030 091  ,       ,                        
+0000030 092  "       "                        
+0000030 093  NULL    </quote>                 
+0000030 094  -----   -----                    
+0000030 100  UH      Hamm                     Z99 
+0000030 110  NN2     notes                    Q1.2 K2 
+0000030 111  .       .                        
+0000030 112  NULL    <quote>                  
+0000030 113  -----   -----                    
+0000030 114  "       "                        
+0000030 120  RR      Especially               A14 
+0000030 130  II      on                       Z5 
+0000030 140  DD2     those                    Z5 Z8 
+0000030 150  JJ      tough                    S1.2.5+ E3- O4.5 A12- Z4 
+0000030 160  NNT2    days                     T1.3 
+0000030 170  CC      or                       Z5 
+0000030 180  RRQ     when                     Z5 
+0000030 181  (       &lsqb;                   
+0000030 190  AT      the                      Z5 
+0000030 200  NN2     kids                     S2mf/T3- S4mf L2 
+0000030 201  )       &rsqb;                   
+0000030 210  VBR     are                      Z5 A3+ 
+0000030 220  VVG     doubting                 A7- 
+0000030 230  PPX2    themselves               Z8 
+0000030 231  ,       ,                        
+0000030 240  TO      to                       Z5 
+0000030 250  VBI     be                       A3+ Z5 
+0000030 260  JK      able                     X9.1+ 
+0000030 270  TO      to                       Z5 
+0000030 280  VVI     turn                     M1[i30.2.1 S1.1.1[i30.2.1 T2+[i30.2.1 A2.1+[i30.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000030 290  II      to                       M1[i30.2.2 S1.1.1[i30.2.2 T2+[i30.2.2 A2.1+[i30.2.2 Z5 
+0000030 300  PPHO2   them                     Z8mfn 
+0000030 310  CC      and                      Z5 
+0000030 320  VVI     say                      Q2.1 Z4% 
+0000030 321  ,       ,                        
+0000030 330  VV0     'Listen                  Z99 
+0000030 331  ,       ,                        
+0000030 340  PPY     you                      Z8mf 
+0000030 350  VV0     deserve                  S1.1.4+ 
+0000030 360  DD1     this                     Z8 M6 Z5 
+0000030 361  .       .                        
+0000030 362  -----   -----                    
+0000030 370  DD1     This                     Z8 M6 Z5 
+0000030 380  VBZ     is                       A3+ Z5 
+0000030 390  DDQ     what                     Z8 Z5 
+0000030 400  PPY     you                      Z8mf 
+0000030 410  VV0     love                     E2+ 
+0000030 420  TO      to                       Z5 
+0000030 430  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000030 431  .       .                        
+0000030 432  -----   -----                    
+0000030 440  VV0     Believe                  X2.1 S9% 
+0000030 450  II      in                       Z5 
+0000030 460  PPX1    yourself                 Z8 
+0000030 470  CC      and                      Z5 
+0000030 480  VV0     continue                 T2++ 
+0000030 490  TO      to                       Z5 
+0000030 500  VVI     push                     M2 M1 S7.1+ X8+ I2.2 F3 I3.1- 
+0000030 510  RL      forward                  M6 T1.1.3 
+0000030 511  .       .                        
+0000030 512  "@      '                        
+0000030 513  "       "                        
+0000030 514  NULL    </quote>                 
+0000030 515  -----   -----                    
+0000032 010  NP1@    Mia                      Z1mf[i31.2.1 Z3c[i31.2.1 
+0000032 020  NP1     Hamm                     Z1mf[i31.2.2 Z3c[i31.2.2 
+0000032 021  (       (                        
+0000032 030  NN1     middle                   M6 N5 N4 T1.2 
+0000032 031  )       )                        
+0000032 040  VVZ     encourages               S8+ 
+0000032 050  JJ      young                    T3- 
+0000032 060  NN2     women                    S2.1f 
+0000032 070  TO      to                       Z5 
+0000032 080  VVI     explore                  M1 X2.4 
+0000032 090  NN1     STEM                     L3 O2 
+0000032 100  II      at                       Z5 
+0000032 110  AT1     a                        Z5 
+0000032 120  NP1     New                      Z1mf[i33.3.1 Z3c[i33.3.1 Z1mf[i32.2.1 Z3c[i32.2.1 Z2[i34.2.1 
+0000032 130  NP1     York                     Z1mf[i33.3.2 Z3c[i33.3.2 Z2 Z1mf Z1mf[i32.2.2 Z3c[i32.2.2 Z2[i34.2.2 Z1mf[i35.2.1 Z3c[i35.2.1 
+0000032 140  NP1     HerWorld                 Z3c[i33.3.3 Z1mf[i33.3.3 Z1mf[i35.2.2 Z3c[i35.2.2 
+0000032 150  NN1     event                    A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
+0000032 151  .       .                        
+0000034 001  NULL    **8;7;text               

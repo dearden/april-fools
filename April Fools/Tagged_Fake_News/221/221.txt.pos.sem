@@ -1,0 +1,976 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NNB     President-elect          G1.1/S7.1+/S2mf 
+0000002 020  NP1     Donald                   Z1mf[i1.2.1 Z3c[i1.2.1 Z1mf 
+0000002 030  NN1     Trump                    Z1mf[i1.2.2 Z3c[i1.2.2 Z1mf 
+0000002 031  GE      's                       Z5 
+0000002 040  NN1     transition               A2.1+ 
+0000002 050  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000002 060  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 070  VVN     asked                    Q2.2 
+0000002 080  AT      the                      Z5 
+0000002 090  NN1     State                    G1.1/S5+c[i2.2.1 G1.1c O4.1 
+0000002 100  NN1     Department               G1.1/S5+c[i2.2.2 H2/S5+c X2.2 
+0000002 110  TO      to                       Z5 
+0000002 120  VVI     list                     Q1.2 N4 M4 
+0000002 130  APPGE   its                      Z8 
+0000002 140  NN2     workers                  I3.1/S2mf 
+0000002 150  PNQS    who                      Z8 
+0000002 160  VV0     focus                    X5.1+ X3.4 A4.2+ 
+0000002 170  II      on                       Z5 
+0000002 180  NN1     gender                   S2 
+0000002 190  NN1     equality                 A6.1+ 
+0000002 200  CC      and                      Z5 
+0000002 210  VVG     ending                   T2- 
+0000002 220  NN1     violence                 E3- 
+0000002 230  II      against                  Z5 
+0000002 240  NN2     women                    S2.1f 
+0000002 241  ,       ,                        
+0000002 250  II      in                       Z5 
+0000002 260  DDQ     what                     Z8 Z5 
+0000002 261  VBZ     's                       Z5 A3+ 
+0000002 270  VBG     being                    Z5 A3+ 
+0000002 280  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000002 290  II      as                       Z5 
+0000002 300  AT1     an                       Z5 
+0000002 310  NN1     echo                     X3.2 
+0000002 320  IO      of                       Z5 
+0000002 330  AT1     an                       Z5 
+0000002 340  JJR     earlier                  N4 T1.1.1 T4++ 
+0000002 350  NN1     request                  Q2.1 Q2.2 
+0000002 360  IF      for                      Z5 
+0000002 370  AT      the                      Z5 
+0000002 380  NN1     Energy                   X5.2+/S5+c[i3.2.1 X5.2+ Y1 
+0000002 390  NN1     Department               X5.2+/S5+c[i3.2.2 H2/S5+c X2.2 
+0000002 400  TO      to                       Z5 
+0000002 410  VVI     list                     Q1.2 N4 M4 
+0000002 420  NN2     employees                I3.1/S2mf 
+0000002 430  PNQS    who                      Z8 
+0000002 440  VV0     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000002 450  II      on                       Z5 
+0000002 460  NN1     climate                  W4 A1.1.1 E1 
+0000002 470  NN1     change                   A2.1+ I1 B1 
+0000002 471  .       .                        
+0000003 001  -----   -----                    
+0000004 010  II      In                       Z5 
+0000004 020  AT1     a                        Z5 
+0000004 030  JJ      brief                    T1.3- N3.7-% 
+0000004 040  NN1     email                    Q1.3/Y2 
+0000004 050  CST     that                     Z8 Z5 
+0000004 060  VBDZ    was                      Z5 A3+ 
+0000004 070  VVN     sent                     M2 A2.2 
+0000004 080  NPD1    Wednesday                T1.3[i4.2.1 T1.3 
+0000004 090  NNT1    morning                  T1.3[i4.2.2 T1.3 
+0000004 091  ,       ,                        
+0000004 100  AT      the                      Z5 
+0000004 110  NN1     Trump                    Z1mf 
+0000004 120  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000004 130  VVD     asked                    Q2.2 
+0000004 140  AT      the                      Z5 
+0000004 150  NN1     State                    G1.1/S5+c[i5.2.1 G1.1c O4.1 
+0000004 160  NN1     Department               G1.1/S5+c[i5.2.2 H2/S5+c X2.2 
+0000004 161  GE      's                       Z5 
+0000004 170  NN2     bureaus                  G1.1 I2.1 H5 
+0000004 180  CC      and                      Z5 
+0000004 190  NN2     offices                  I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000004 200  TO      to                       Z5 
+0000004 210  VVI     list                     Q1.2 N4 M4 
+0000004 220  DD      any                      N5 N5.1+ 
+0000004 230  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000004 240  CC      or                       Z5 
+0000004 250  NN2     activities               A1.1.1 
+0000004 260  CST     that                     Z5 Z8 
+0000004 261  "       "                        
+0000004 270  VV0     promote                  S8+ I2.2/Q2.2 S7.1+/A2.1 
+0000004 280  NN1     gender                   S2 
+0000004 290  NN1     equality                 A6.1+ 
+0000004 291  ,       ,                        
+0000004 300  II21    such                     Z5[i6.2.1 
+0000004 310  II22    as                       Z5[i6.2.2 Z5 
+0000004 320  VVG     ending                   T2- 
+0000004 330  JJ      gender-based             S2 
+0000004 340  NN1     violence                 E3- 
+0000004 341  ,       ,                        
+0000004 350  VVG     promoting                S8+ I2.2/Q2.2 S7.1+/A2.1 
+0000004 360  NN2     women                    S2.1f 
+0000004 361  GE      's                       Z5 
+0000004 370  NN1     participation            S1.1.3+ 
+0000004 380  II      in                       Z5 
+0000004 390  JJ      economic                 I1.3- I2.1 
+0000004 400  CC      and                      Z5 
+0000004 410  JJ      political                G1.2 
+0000004 420  NN2     spheres                  O4.4 A4.1 S5+ 
+0000004 421  ,       ,                        
+0000004 430  NN1     entrepreneurship         I2.1 
+0000004 431  ,       ,                        
+0000004 440  RA      etc                      Z4 
+0000004 441  .       .                        
+0000004 442  "       "                        
+0000005 001  -----   -----                    
+0000006 010  AT      The                      Z5 
+0000006 020  NN1     email                    Q1.3/Y2 
+0000006 030  VBDZ    was                      Z5 A3+ 
+0000006 040  VVN     acquired                 A9+ 
+0000006 050  CC      and                      Z5 
+0000006 060  VVN     published                Q4 
+0000006 070  II      by                       Z5 
+0000006 080  AT      The                      Z5 
+0000006 090  NP1     New                      Z3c[i10.3.1 Z1mf[i8.3.1 Z3c[i8.3.1 Z1mf[i7.2.1 Z3c[i7.2.1 Z2[i9.2.1 
+0000006 100  NP1     York                     Z3c[i10.3.2 Z2 Z1mf Z1mf[i8.3.2 Z3c[i8.3.2 Z1mf[i7.2.2 Z3c[i7.2.2 Z2[i9.2.2 Z1mf[i11.2.1 Z3c[i11.2.1 
+0000006 110  NNT2    Times                    Z3c[i10.3.3 Z3 Z3c[i8.3.3 Z1mf[i8.3.3 Z1mf[i11.2.2 Z3c[i11.2.2 
+0000006 111  ,       ,                        
+0000006 120  DDQ     which                    Z8 Z5 
+0000006 130  VVZ     reports                  Q2.2 S7.1- 
+0000006 131  :       :                        
+0000008 001  "       "                        
+0000008 010  CS      Although                 Z5 
+0000008 020  AT      the                      Z5 
+0000008 030  NN1     wording                  Q3 
+0000008 040  IO      of                       Z5 
+0000008 050  AT      the                      Z5 
+0000008 060  NN1     memo                     Q1.2 
+0000008 070  VBZ     is                       A3+ Z5 
+0000008 080  JJ      neutral                  S5- O4.1 
+0000008 090  CC      and                      Z5 
+0000008 100  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000008 110  XX      not                      Z6 
+0000008 120  VVI     hint                     Q2.2 
+0000008 130  II      at                       Z5 
+0000008 140  DD      any                      N5.1+ N5 
+0000008 150  NN1     policy                   X7+ Q1.2 
+0000008 160  NN1     change                   A2.1+ I1 B1 
+0000008 161  ,       ,                        
+0000008 170  PPH1    it                       Z8 
+0000008 180  VVD     rattled                  X3.2 E3- 
+0000008 190  NN1     State                    G1.1/S5+c[i12.2.1 G1.1c O4.1 
+0000008 200  NN1     Department               G1.1/S5+c[i12.2.2 H2/S5+c X2.2 
+0000008 210  NN2     employees                I3.1/S2mf 
+0000008 211  ,       ,                        
+0000008 220  RR      even                     A13.1 
+0000008 230  DD2     those                    Z8 Z5 
+0000008 240  II      at                       Z5 
+0000008 250  JJ      senior                   S7.1++ T3++ 
+0000008 260  NN2     levels                   N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 
+0000008 261  .       .                        
+0000008 262  -----   -----                    
+0000008 270  DD      Some                     N5 Z5 
+0000008 280  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000008 290  VVD     said                     Q2.1 
+0000008 300  PPHS2   they                     Z8mfn 
+0000008 310  VVD     feared                   E5- 
+0000008 320  CST     that                     Z5 Z8 
+0000008 330  AT      the                      Z5 
+0000008 340  JJ      incoming                 M1 T2+ 
+0000008 350  NN1     Trump                    Z1mf 
+0000008 360  NN1     administration           S7.1+c A9- 
+0000008 370  VBDZ    was                      Z5 A3+ 
+0000008 380  VVG     trying                   X8+ X2.4 Q2.2 G2.1 A12- 
+0000008 390  TO      to                       Z5 
+0000008 400  VVI     determine                A2.2 A7+ X6+ 
+0000008 410  DDQ     what                     Z5 Z8 
+0000008 420  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000008 430  VBDR    were                     Z5 A3+ 
+0000008 440  VVN     focused                  X5.1+ X3.4 A4.2+ 
+0000008 450  II      on                       Z5 
+0000008 460  NN1     lesbian                  S3.2/S2.1f 
+0000008 461  ,       ,                        
+0000008 470  JJ      gay                      S3.2/B1 O4.2+ E4.1+ 
+0000008 471  ,       ,                        
+0000008 480  JJ      bisexual                 S3.2/B1 
+0000008 490  CC      and                      Z5 
+0000008 500  VV0     transgender              Z99 
+0000008 510  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000008 511  ,       ,                        
+0000008 520  CS      though                   Z5 
+0000008 530  AT      the                      Z5 
+0000008 540  NN1     memo                     Q1.2 
+0000008 550  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000008 560  XX      not                      Z6 
+0000008 570  VVI     refer                    Q2.2 Q1.2 
+0000008 580  II      to                       Z5 
+0000008 590  PPHO2   them                     Z8mfn 
+0000008 591  .       .                        
+0000008 592  "       "                        
+0000009 001  -----   -----                    
+0000009 010  AT      The                      Z5 
+0000009 020  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000009 030  RR      also                     N5++ 
+0000009 040  VVD     asked                    Q2.2 
+0000009 050  AT      the                      Z5 
+0000009 060  NN1     department               H2/S5+c X2.2 
+0000009 070  NN2     offices                  I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000009 080  TO      to                       Z5 
+0000009 081  "       "                        
+0000009 090  VVI     note                     Q2.1 Q1.2 
+0000009 100  NN2     positions                M6 M7 S7.1 I3.1 N4 S1.1.1 A1.1.1 K5.1% 
+0000009 110  DDQGE   whose                    Z8 
+0000009 120  JJ      primary                  A11.1+ P1 
+0000009 130  NN2     functions                A1.5.1 A1.1.1 S1.1.3+ A2.2 N2 Y2 
+0000009 140  VBR     are                      A3+ Z5 
+0000009 150  TO      to                       Z5 
+0000009 160  VVI     promote                  S8+ I2.2/Q2.2 S7.1+/A2.1 
+0000009 170  DA      such                     Z5 Z8 
+0000009 180  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000009 181  "       "                        
+0000009 190  CC      and                      Z5 
+0000009 200  TO      to                       Z5 
+0000009 210  VVI     highlight                X5.1+ 
+0000009 220  DD      any                      N5 N5.1+ 
+0000009 230  NN2     funds                    I1.1 N5+ 
+0000009 240  IF      for                      Z5 
+0000009 250  AT      the                      Z5 
+0000009 260  JJ      current                  T1.1.2 
+0000009 270  JJ      financial                T1.3/I1[i13.2.1 I1 
+0000009 280  NNT1    year                     T1.3/I1[i13.2.2 T1.3 P1c 
+0000009 290  CST     that                     Z8 Z5 
+0000009 300  VBR     are                      A3+ Z5 
+0000009 301  "       "                        
+0000009 310  RR      already                  T1.1.1 
+0000009 320  VVN     allocated                A9- 
+0000009 330  II      to                       Z5 
+0000009 340  DA      such                     Z5 Z8 
+0000009 350  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000009 360  CC      and                      Z5 
+0000009 370  NN2     activities               A1.1.1 
+0000009 371  .       .                        
+0000009 372  "       "                        
+0000010 001  -----   -----                    
+0000011 010  VVG     Affirming                Q2.2 S1.2.3+ A7+ 
+0000011 020  AT      the                      Z5 
+0000011 030  NNT2    Times                    Z3 
+0000011 031  GE      '                        Z5 
+0000011 040  NN1     characterization         A4.1 Q2.2 K4 
+0000011 050  IO      of                       Z5 
+0000011 060  AT      the                      Z5 
+0000011 070  NN1     email                    Q1.3/Y2 
+0000011 071  GE      's                       Z5 
+0000011 080  NN1     reception                H2 S1.1.1 Q4.3 S1.1.3+ T3- 
+0000011 081  ,       ,                        
+0000011 090  AT      The                      Z5 
+0000011 100  NP1     Los                      Z1mf[i15.3.1 Z3c[i15.3.1 Z1 Z1mf[i14.2.1 Z3c[i14.2.1 Z2[i16.2.1 Z2[i17.2.1 Z2[i18.2.1 
+0000011 110  NP1     Angeles                  Z1mf[i15.3.2 Z3c[i15.3.2 Z2 Z1mf[i14.2.2 Z3c[i14.2.2 Z2[i16.2.2 Z2[i17.2.2 Z2[i18.2.2 Z1mf[i19.2.1 Z3c[i19.2.1 
+0000011 120  NNT2    Times                    Z3c[i15.3.3 Z1mf[i15.3.3 Z3 Z1mf[i19.2.2 Z3c[i19.2.2 
+0000011 130  VVZ     quotes                   Q2.2 I1.3 
+0000011 140  AT1     a                        Z5 
+0000011 150  JJ      senior                   S7.1++ T3++ 
+0000011 160  NN1     State                    G1.1/S5+c[i20.2.1 G1.1c O4.1 
+0000011 170  NN1     Department               G1.1/S5+c[i20.2.2 H2/S5+c X2.2 
+0000011 180  NN1     official                 G1.1/S2mf S7.1+/S2mf 
+0000011 190  PNQS    who                      Z8 
+0000011 200  VVD     said                     Q2.1 
+0000011 201  ,       ,                        
+0000011 202  "       "                        
+0000011 210  NN      People                   S2mfc 
+0000011 220  VBR     are                      Z5 A3+ 
+0000011 230  VVN     freaked                  E5-[i21.2.1 E5- 
+0000011 240  RP      out                      E5-[i21.2.2 M6 
+0000011 241  .       .                        
+0000011 242  "       "                        
+0000012 001  -----   -----                    
+0000013 010  VV0     Update                   T1.1.2 
+0000013 020  MC      9                        T1.2[i22.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000013 030  RA      a.m                      T1.2[i22.2.2 T1.3 
+0000013 031  .       .                        
+0000013 032  -----   -----                    
+0000013 040  NP1     ET                       Z3 
+0000013 050  NPD1    Friday                   T1.3 
+0000013 051  :       :                        
+0000013 060  VV0     Trump                    Z1mf 
+0000013 070  NN1     Team                     S5+c K5.1/S5+c S5+ 
+0000013 071  GE      's                       Z5 
+0000013 080  NN1     Response                 Q2.1 S1.1.2+ 
+0000015 010  II      In                       Z5 
+0000015 020  AT1     a                        Z5 
+0000015 030  NN1     statement                Q2.1 I1/Q1.2 
+0000015 040  II      about                    Z5 
+0000015 050  AT      the                      Z5 
+0000015 060  NN1     request                  Q2.1 Q2.2 
+0000015 061  ,       ,                        
+0000015 070  AT      the                      Z5 
+0000015 080  NN1     Trump                    Z1mf 
+0000015 090  NN1     transition               A2.1+ 
+0000015 100  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000015 110  VVZ     says                     Q2.1 
+0000015 111  :       :                        
+0000017 001  "       "                        
+0000017 010  NNB     President-elect          G1.1/S7.1+/S2mf 
+0000017 020  NN1     Trump                    Z1mf 
+0000017 030  VM      will                     T1.1.3 
+0000017 040  VVI     ensure                   A7+ 
+0000017 050  AT      the                      Z5 
+0000017 060  NN2     rights                   S7.4+ G2.2+ M6 G1.2 
+0000017 070  IO      of                       Z5 
+0000017 080  NN2     women                    S2.1f 
+0000017 090  II      across                   Z5 
+0000017 100  AT      the                      Z5 
+0000017 110  NN1     world                    W1 S5+c A4.1 N5+ 
+0000017 120  VBR     are                      Z5 A3+ 
+0000017 130  VVN     valued                   A11.1+ I1.3 
+0000017 140  CC      and                      Z5 
+0000017 150  JJ      protected                S8+/A15+ A10- 
+0000017 151  .       .                        
+0000017 152  -----   -----                    
+0000017 160  TO      To                       Z5 
+0000017 170  VVI     help                     S8+ 
+0000017 180  VVI     fulfill                  X9.2+ 
+0000017 190  DD1     this                     M6 Z5 Z8 
+0000017 200  NN1     promise                  S6+ A7+ X9.1+ 
+0000017 201  ,       ,                        
+0000017 210  AT      the                      Z5 
+0000017 220  NN1     transition               A2.1+ 
+0000017 230  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000017 240  VVD     inquired                 Q2.2 X2.4 
+0000017 250  II      about                    Z5 
+0000017 260  JJ      existing                 A3+ 
+0000017 270  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000017 280  II      at                       Z5 
+0000017 290  AT      the                      Z5 
+0000017 300  NN1     State                    G1.1/S5+c[i23.2.1 G1.1c O4.1 
+0000017 310  NN1     department               G1.1/S5+c[i23.2.2 H2/S5+c X2.2 
+0000017 320  CST     that                     Z8 Z5 
+0000017 330  VVZ     helps                    S8+ 
+0000017 340  JJ      foster                   S4 
+0000017 350  NN1     gender                   S2 
+0000017 360  NN1     equality                 A6.1+ 
+0000017 361  ,       ,                        
+0000017 370  VVZ     ends                     T2- 
+0000017 380  JJ      gender-based             S2 
+0000017 390  NN1     violence                 E3- 
+0000017 391  ,       ,                        
+0000017 400  CC      and                      Z5 
+0000017 410  VVZ     promotes                 S8+ I2.2/Q2.2 S7.1+/A2.1 
+0000017 420  JJ      economic                 I1.3- I2.1 
+0000017 430  CC      and                      Z5 
+0000017 440  JJ      political                G1.2 
+0000017 450  JJ@     participationfinding     Z99 
+0000017 460  NN2     ways                     X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000017 470  TO      to                       Z5 
+0000017 480  VVI     improve                  A5.1+/A2.1 
+0000017 490  PPHO2   them                     Z8mfn 
+0000017 491  ,       ,                        
+0000017 500  II21    along                    Z5[i24.2.1 Z5 
+0000017 510  II22    with                     Z5[i24.2.2 
+0000017 520  NNO2    hundreds                 N5+ 
+0000017 530  IO      of                       Z5 
+0000017 540  JJ      other                    A6.1- 
+0000017 550  NN2     requests                 Q2.1 Q2.2 
+0000017 551  .       .                        
+0000017 552  "       "                        
+0000018 001  -----   -----                    
+0000018 010  APPGE   Our                      Z8 
+0000018 020  JJ      original                 T3- A5.4+ A6.2- 
+0000018 030  NN1     post                     Q1.2 O2 I3.1 M6 
+0000018 040  VVZ     continues                T2++ 
+0000018 041  :       :                        
+0000020 010  AT      The                      Z5 
+0000020 020  NN1     topic                    X4.1 
+0000020 030  RR      also                     N5++ 
+0000020 040  VVD     came                     A1.1.1[i26.2.1 M1[i26.2.1 P1%[i26.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 E3-[i25.2.1 
+0000020 050  RP      up                       M1[i26.2.2 P1%[i26.2.2 A1.1.1[i26.2.2 
+0000020 060  II      at                       Z5 E3-[i25.2.2 
+0000020 070  NPD1    Thursday                 T1.3 
+0000020 071  GE      's                       Z5 
+0000020 080  JJ      daily                    T1.1.2 N6+ 
+0000020 090  NN1     State                    G1.1/S5+c[i27.2.1 G1.1c O4.1 
+0000020 100  NN1     Department               G1.1/S5+c[i27.2.2 H2/S5+c X2.2 
+0000020 110  NN1     briefing                 Q2.1 
+0000020 120  CCB     but                      Z5 
+0000020 130  NP1     NPR                      Z99 
+0000020 131  GE      's                       Z5 
+0000020 140  NP1     Michele                  Z1mf[i28.2.1 Z3c[i28.2.1 Z1f 
+0000020 150  NP1     Kelemen                  Z1mf[i28.2.2 Z3c[i28.2.2 
+0000020 160  VVZ     says                     Q2.1 
+0000020 170  PPH1    it                       Z8 
+0000020 180  VVD     seemed                   A8 
+0000020 190  DD1     that                     Z5 Z8 
+0000020 200  NN1     spokesman                Q2.2/S2.2m 
+0000020 210  NP1     John                     Z1mf[i29.2.1 Z3c[i29.2.1 Z1m S9/O1.2 
+0000020 220  NP1     Kirby                    Z1mf[i29.2.2 Z3c[i29.2.2 Z2 Z1mf 
+0000020 230  RR      mainly                   A13.2 
+0000020 240  VVN     sought                   X2.4 
+0000020 250  TO      to                       Z5 
+0000020 260  VVI     calm                     E3+ E4.2+ 
+0000020 270  NN2     nerves                   B1 E6- 
+0000020 280  II      about                    Z5 
+0000020 290  AT      the                      Z5 
+0000020 300  NN1     request                  Q2.1 Q2.2 
+0000020 301  .       .                        
+0000021 001  -----   -----                    
+0000022 010  II      In                       Z5 
+0000022 020  AT1     a                        Z5 
+0000022 030  NN1     report                   Q2.2 X3.2 
+0000022 040  IF      for                      Z5 
+0000022 050  APPGE   our                      Z8 
+0000022 060  NN1     Newscast                 Z99 
+0000022 070  NN1     unit                     S5+c O2 H5 H1 N3.1 P1 N1 
+0000022 071  ,       ,                        
+0000022 080  NP1     Michele                  Z1f 
+0000022 090  VVZ     quotes                   Q2.2 I1.3 
+0000022 100  NP1     Kirby                    Z2 Z1mf 
+0000022 110  CSA     as                       Z5 
+0000022 120  VVG     saying                   Q2.1 Z4% 
+0000022 121  ,       ,                        
+0000022 122  "       "                        
+0000022 130  II      To                       Z5 
+0000022 140  AT      the                      Z5 
+0000022 150  NN1     degree                   A13.1 N3.1 N3.2 N5 P1 
+0000022 160  CST     that                     Z5 Z8 
+0000022 170  EX      there                    Z5 
+0000022 180  VBZ     is                       A3+ Z5 
+0000022 190  NN1     interest                 X5.2+ I1.1 S8+ S1.1.3+ 
+0000022 200  II      in                       M6[i30.3.1 S8-[i30.3.1 Z5 
+0000022 210  AT      the                      M6[i30.3.2 S8-[i30.3.2 Z5 
+0000022 220  NN1     way                      M6[i30.3.3 S8-[i30.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000022 230  CST     that                     Z8 Z5 
+0000022 240  PPIS2   we                       Z8 
+0000022 250  VH0     have                     Z5 A9+ A2.2 S4 
+0000022 260  VVN     approached               M1 A1.1.1 Q2.2 
+0000022 270  VVG     pursuing                 A1.1.1 X8+ X2.4 M1 
+0000022 280  NN1     gender                   S2 
+0000022 290  NN1     equality                 A6.1+ 
+0000022 300  CC      and                      Z5 
+0000022 310  JJ      human                    G1.2[i31.2.1 G2.1[i31.2.1 S2 S1.2.1+ 
+0000022 320  NN2     rights                   G1.2[i31.2.2 G2.1[i31.2.2 S7.4+ G2.2+ M6 G1.2 
+0000022 330  II      around                   Z5 
+0000022 340  AT      the                      Z5 
+0000022 350  NN1     world                    W1 S5+c A4.1 N5+ 
+0000022 360  II      by                       Z5 
+0000022 370  AT      the                      Z5 
+0000022 380  NN1     transition               A2.1+ 
+0000022 390  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000022 391  ,       ,                        
+0000022 400  PPIS2   we                       Z8 
+0000022 410  VM      will                     T1.1.3 
+0000022 420  RR      certainly                A7+ 
+0000022 430  VVI     provide                  A9- S6+ 
+0000022 440  PPHO2   them                     Z8mfn 
+0000022 450  AT      the                      Z5 
+0000022 460  NN1     context                  O4.1/A3+ A2.2 Q3 
+0000022 461  ,       ,                        
+0000022 470  AT      the                      Z5 
+0000022 480  NN1     information              X2.2+ 
+0000022 490  CST     that                     Z8 Z5 
+0000022 500  VBZ     is                       A3+ Z5 
+0000022 510  JJ      appropriate              A1.2+ 
+0000022 520  IF      for                      Z5 
+0000022 530  PPHO2   them                     Z8mfn 
+0000022 540  TO      to                       Z5 
+0000022 550  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000022 560  APPGE   their                    Z8[i32.2.1 Z8 
+0000022 570  DA      own                      Z8[i32.2.2 A9+ S5- 
+0000022 580  NN2     decisions                X6+ 
+0000022 590  VVG     going                    A2.1+[i33.2.1 M1[i33.2.1 T2++[i33.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000022 600  RL      forward                  A2.1+[i33.2.2 M1[i33.2.2 T2++[i33.2.2 M6 T1.1.3 
+0000022 601  .       .                        
+0000022 602  "       "                        
+0000023 001  -----   -----                    
+0000024 010  NP1     Kirby                    Z2 Z1mf 
+0000024 020  VVD     acknowledged             Q2.2 
+0000024 030  CST     that                     Z5 Z8 
+0000024 040  EX      there                    Z5 
+0000024 050  VM      could                    A7+ 
+0000024 060  VBI     be                       A3+ Z5 
+0000024 061  "       "                        
+0000024 070  NN1     anxiety                  E6- 
+0000024 071  "       "                        
+0000024 080  II      at                       T1.1.2[i34.3.1 Z5 
+0000024 090  AT1     a                        T1.1.2[i34.3.2 Z5 
+0000024 100  NNT1    time                     T1.1.2[i34.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000024 110  IO      of                       Z5 
+0000024 120  NN1     transition               A2.1+ 
+0000024 121  ,       ,                        
+0000024 130  CCB     but                      Z5 
+0000024 140  PPHS1   he                       Z8m 
+0000024 150  VVD     refused                  Q2.2/Z6 S7.4- X7- 
+0000024 160  TO      to                       Z5 
+0000024 170  VVI     go                       M1[i35.2.1 X2.4[i35.2.1 T2+[i35.2.1 N2[i35.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000024 180  II      into                     M1[i35.2.2 X2.4[i35.2.2 T2+[i35.2.2 N2[i35.2.2 Z5 
+0000024 190  NN2     details                  A4.2+ S5+c B5 
+0000024 200  II      about                    Z5 
+0000024 210  AT      the                      Z5 
+0000024 220  NN1     email                    Q1.3/Y2 
+0000024 230  CC      or                       Z5 
+0000024 240  TO      to                       Z5 
+0000024 250  VVI     verify                   A5.2+ 
+0000024 260  AT      the                      Z5 
+0000024 270  NN1     accuracy                 A5.3+ 
+0000024 280  IO      of                       Z5 
+0000024 290  AT      the                      Z5 
+0000024 300  JJ      leaked                   A1.7- A1.1.2 A10+/Q2.2 
+0000024 310  NN2     documents                Q1.2 X2.2+ Y2 
+0000024 311  .       .                        
+0000025 001  -----   -----                    
+0000026 010  VVG     Addressing               Q1.2 Q2.2 A1.1.1 
+0000026 020  APPGE   his                      Z8m 
+0000026 030  NN1     agency                   I2.2/S5+c G1.1c 
+0000026 031  GE      's                       Z5 
+0000026 040  NN1     approach                 X4.2 M1 E1 S1.1.1 
+0000026 050  II      to                       Z5 
+0000026 060  NN1     gender                   S2 
+0000026 070  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000026 071  ,       ,                        
+0000026 080  NP1     Kirby                    Z2 Z1mf 
+0000026 090  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000026 100  AT1     a                        Z5 
+0000026 110  NN1     reporter                 Q4.2/S2mf 
+0000026 111  ,       ,                        
+0000026 112  "       "                        
+0000026 120  RR      Obviously                Z4 A11.2+ 
+0000026 121  ,       ,                        
+0000026 130  NN1     gender                   S2 
+0000026 140  NN1     equality                 A6.1+ 
+0000026 150  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000026 160  RL      here                     M6 T1.1.2 T1.2 
+0000026 170  II      at                       Z5 
+0000026 180  AT      the                      Z5 
+0000026 190  NN1     Department               H2/S5+c X2.2 
+0000026 200  IO      of                       Z5 
+0000026 210  NN1     State                    G1.1c O4.1 
+0000026 220  VBR     are                      A3+ Z5 
+0000026 230  AT1     a                        Z5 
+0000026 240  NN1     priority                 A11.1+ 
+0000026 241  .       .                        
+0000026 242  -----   -----                    
+0000026 250  NP1@    Secretary                Z1mf[i36.2.1 Z3c[i36.2.1 
+0000026 260  NP1     Kerry                    Z1mf[i36.2.2 Z3c[i36.2.2 Z2 Z1mf 
+0000026 270  VHZ     has                      Z5 A9+ A2.2 S4 
+0000026 280  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000026 290  PPHO2   them                     Z8mfn 
+0000026 300  AT1     a                        Z5 
+0000026 310  NN1     priority                 A11.1+ 
+0000026 311  ;       ;                        
+0000026 320  NP1@    Secretary                Z1mf[i37.2.1 Z3c[i37.2.1 
+0000026 330  NP1     Clinton                  Z1mf[i37.2.2 Z3c[i37.2.2 Z1mf 
+0000026 340  II      before                   Z5 
+0000026 350  PPHO1   him                      Z8m 
+0000026 360  VVD     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000026 370  PPH1    it                       Z8 
+0000026 380  AT1     a                        Z5 
+0000026 390  NN1     priority                 A11.1+ 
+0000026 391  ,       ,                        
+0000026 400  CC      and                      Z5 
+0000026 410  PPH1    it                       Z8 
+0000026 420  VVZ     remains                  T2++ M8 N5.2+ 
+0000026 430  PN1     one                      Z8 
+0000026 440  IF      for                      Z5 
+0000026 450  PPIO2   us                       Z8 
+0000026 460  RL      here                     M6 T1.1.2 T1.2 
+0000026 461  .       .                        
+0000026 462  "       "                        
+0000027 001  -----   -----                    
+0000028 010  NP1     Kirby                    Z2 Z1mf 
+0000028 020  RR      also                     N5++ 
+0000028 030  VVN     suggested                Q2.2 Q1.1 
+0000028 040  CST     that                     Z5 Z8 
+0000028 050  AT      the                      Z5 
+0000028 060  NN1     State                    G1.1/S5+c[i38.2.1 G1.1c O4.1 
+0000028 070  NN1     Department               G1.1/S5+c[i38.2.2 H2/S5+c X2.2 
+0000028 080  VM      might                    A7+ 
+0000028 090  VVI     balk                     S8- 
+0000028 100  II      at                       Z5 
+0000028 110  VVG     naming                   Q2.2 
+0000028 120  APPGE   its                      Z8 
+0000028 130  NN2     employees                I3.1/S2mf 
+0000028 140  PNQS    who                      Z8 
+0000028 150  VH0     have                     Z5 A9+ A2.2 S4 
+0000028 160  VVN     worked                   I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000028 170  II      on                       Z5 
+0000028 180  DD2     those                    Z5 Z8 
+0000028 190  NN2     priorities               A11.1+ 
+0000028 191  ,       ,                        
+0000028 200  VVG     saying                   Q2.1 Z4% 
+0000028 210  CST     that                     Z8 Z5 
+0000028 220  II      in                       Z5 
+0000028 230  AT1     a                        Z5 
+0000028 240  JJ      hypothetical             X4.1 A1.6 
+0000028 250  NN1     case                     A4.1 O2 G2.1 B3 X4.1 Q3 
+0000028 251  ,       ,                        
+0000028 252  "       "                        
+0000028 260  CS      if                       Z7 
+0000028 270  EX      there                    Z5 
+0000028 280  VBDR    were                     A3+ Z5 
+0000028 290  JJ      issue-specific           Z99 
+0000028 300  NN2     names                    Q2.2 
+0000028 310  VVN     requested                Q2.2 Q2.1 
+0000028 311  ,       ,                        
+0000028 320  RR      obviously                Z4 A11.2+ 
+0000028 330  DD1     that                     Z8 Z5 
+0000028 340  VM      would                    A7+ 
+0000028 350  VBI     be                       A3+ Z5 
+0000028 360  IO      of                       Z5 
+0000028 370  NN1     concern                  E6- I2.1 
+0000028 380  II      to                       Z5 
+0000028 390  PPIO2   us                       Z8 
+0000028 400  CC      and                      Z5 
+0000028 410  PPH1    it                       Z8 
+0000028 420  VM      would                    A7+ 
+0000028 430  XX      not                      Z6 
+0000028 440  VBI     be                       A3+ Z5 
+0000028 450  AT      the                      Z5 
+0000028 460  NN1     kind                     A4.1 
+0000028 470  IO      of                       Z5 
+0000028 480  NN1     information              X2.2+ 
+0000028 490  CST     that                     Z8 Z5 
+0000028 500  PPIS2   we                       Z8 
+0000028 510  VM      would                    A7+ 
+0000028 520  VVI     deem                     X2.1 X6 
+0000028 530  TO      to                       Z5 
+0000028 540  VBI     be                       A3+ Z5 
+0000028 550  JJ      appropriate              A1.2+ 
+0000028 560  TO      to                       Z5 
+0000028 570  VBI     be                       Z5 A3+ 
+0000028 580  VVN     passed                   M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
+0000028 590  RP      along                    M6 
+0000028 591  .       .                        
+0000028 592  "       "                        
+0000029 001  -----   -----                    
+0000030 010  RR      Shortly                  N3.8+ 
+0000030 020  II      after                    Z5 
+0000030 030  AT      the                      Z5 
+0000030 040  NN1     transition               A2.1+ 
+0000030 050  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000030 051  GE      's                       Z5 
+0000030 060  NN1     email                    Q1.3/Y2 
+0000030 070  VVD     became                   A2.1+ O4.2+ 
+0000030 080  NN1     public                   S5+ A10+ S5+c 
+0000030 081  ,       ,                        
+0000030 090  AT      the                      Z5 
+0000030 100  NN1     Twitter                  Z99 
+0000030 110  NN1     account                  I1 I1.3 I2.1 Q2.2 Y2 
+0000030 120  IO      of                       Z5 
+0000030 130  AT      the                      Z5 
+0000030 140  NN1     State                    G1.1/S5+c[i39.2.1 G1.1c O4.1 
+0000030 150  NN1     Department               G1.1/S5+c[i39.2.2 H2/S5+c X2.2 
+0000030 151  GE      's                       Z5 
+0000030 160  JJ      Political-Military       Z99 
+0000030 170  NN2     Affairs                  A1.1.1 S1.1.1 S3.2 
+0000030 180  NN1     bureau                   G1.1 H5 
+0000030 190  VVD     posted                   Q1.2 M2 I3.1 
+0000030 200  AT1     a                        Z5 
+0000030 210  NN1     note                     Q1.2 K2 
+0000030 220  IO      of                       Z5 
+0000030 230  NN1     support                  S8+ O2 I1.1 B5% 
+0000030 240  IF      for                      Z5 
+0000030 250  AT      the                      Z5 
+0000030 260  JJ      National                 Z3c 
+0000030 270  NN1     Action                   A1.1.1 G3 
+0000030 280  NN1     Plan                     X7+ C1/H1 
+0000030 290  II      on                       Z5 
+0000030 300  NN2     Women                    S2.1f 
+0000030 301  ,       ,                        
+0000030 310  NN1     Peace                    E3+ 
+0000030 311  ,       ,                        
+0000030 312  NULL    &;                       
+0000030 320  NN1     Security                 G2.1 A15+ E6+ I1.1 
+0000030 330  AT1     a                        Z5 
+0000030 340  NN1     program                  Y2 X7+ Q4.3 Q1.2 P1 
+0000030 350  CST     that                     Z8 Z5 
+0000030 360  VBDZ    was                      Z5 A3+ 
+0000030 370  VVN     celebrated               E4.1+ S9 
+0000030 380  II      in                       E4.1-[i40.3.1 B2-[i40.3.1 O4.2-[i40.3.1 Z5 
+0000030 390  AT1     a                        E4.1-[i40.3.2 B2-[i40.3.2 O4.2-[i40.3.2 Z5 
+0000030 400  NN1     State                    E4.1-[i40.3.3 B2-[i40.3.3 O4.2-[i40.3.3 G1.1c O4.1 G1.1/S5+c[i41.2.1 
+0000030 410  NN1     Department               H2/S5+c X2.2 G1.1/S5+c[i41.2.2 
+0000030 420  NN1     tweet                    Z99 
+0000030 430  NPD1    Wednesday                T1.3 
+0000030 431  ,       ,                        
+0000030 440  CSA     as                       Z5 
+0000030 450  AT      the                      Z5 
+0000030 460  NN1     agency                   I2.2/S5+c G1.1c 
+0000030 470  VVN     marked                   O4.2- Q1.2 A5/P1 N3.1 Q1.1 
+0000030 480  MC      five                     N1 T3 T1.2 
+0000030 490  NNT2    years                    T1.3 
+0000030 500  CS      since                    Z5 
+0000030 510  AT      the                      Z5 
+0000030 520  NN1     plan                     X7+ C1/H1 
+0000030 530  VBDZ    was                      Z5 A3+ 
+0000030 540  VVN     introduced               S1.1.1 T2+ 
+0000030 550  II      by                       Z5 
+0000030 560  NNB     President                G1.1/S7.1+/S2mf 
+0000030 570  NP1     Obama                    Z99 
+0000030 571  .       .                        
+0000031 001  -----   -----                    
+0000032 010  II31    In                       A2.2[i42.3.1 Z5 
+0000032 020  II32    response                 A2.2[i42.3.2 
+0000032 030  II33    to                       A2.2[i42.3.3 Z5 
+0000032 040  NN2     reports                  Q2.2 X3.2 
+0000032 050  II      about                    Z5 
+0000032 060  AT      the                      Z5 
+0000032 070  NN1     memo                     Q1.2 
+0000032 071  ,       ,                        
+0000032 080  NNB     Sen.                     B3/S2mf 
+0000032 090  NP1     Jeanne                   Z1mf[i43.2.1 Z3c[i43.2.1 
+0000032 100  NP1     Shaheen                  Z1mf[i43.2.2 Z3c[i43.2.2 
+0000032 101  ,       ,                        
+0000032 110  NP1     D-N.H.                   Z99 
+0000032 111  ,       ,                        
+0000032 120  PNQS    who                      Z8 
+0000032 130  VVZ     serves                   S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
+0000032 140  II      on                       Z5 
+0000032 150  AT      the                      Z5 
+0000032 160  NN1     Senate                   S7.1+ 
+0000032 170  JJ      Foreign                  M7 
+0000032 180  NN2     Relations                A2.2 S1.1.1 S4 S3.2 
+0000032 190  NN1     Committee                S7.1+/S5+c 
+0000032 191  ,       ,                        
+0000032 200  VVD     issued                   A9- 
+0000032 210  AT1     a                        Z5 
+0000032 220  NN1     statement                Q2.1 I1/Q1.2 
+0000032 230  VVG     saying                   Q2.1 Z4% 
+0000032 240  RR21    in                       Z5 O4.2+ M6 
+0000032 250  RR22    part                     N5.1- 
+0000032 251  :       :                        
+0000034 001  "       "                        
+0000034 010  II31    In                       A2.2[i44.3.1 Z5 
+0000034 020  II32    light                    A2.2[i44.3.2 
+0000034 030  II33    of                       A2.2[i44.3.3 
+0000034 040  JJ      previous                 N4 
+0000034 050  NN2     requests                 Q2.1 Q2.2 
+0000034 060  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000034 070  II      by                       Z5 
+0000034 080  AT      the                      Z5 
+0000034 090  NN1     Trump                    Z1mf 
+0000034 100  NN1     transition               A2.1+ 
+0000034 110  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000034 111  ,       ,                        
+0000034 120  RT      today                    T1.1.2 
+0000034 121  GE      's                       Z5 
+0000034 130  NN1     report                   Q2.2 X3.2 
+0000034 140  CST     that                     Z5 Z8 
+0000034 150  AT      the                      Z5 
+0000034 160  JJ      incoming                 M1 T2+ 
+0000034 170  NN1     administration           S7.1+c A9- 
+0000034 180  VBZ     is                       Z5 A3+ 
+0000034 190  VVG     requesting               Q2.2 Q2.1 
+0000034 200  DB      all                      N5.1+ 
+0000034 210  NN1     information              X2.2+ 
+0000034 220  VVN     related                  A2.2 S3.1 X2.5+ Q2.1 
+0000034 230  II      to                       Z5 
+0000034 240  NN1     State                    G1.1/S5+c[i45.2.1 G1.1c O4.1 
+0000034 250  NN1     Department               G1.1/S5+c[i45.2.2 H2/S5+c X2.2 
+0000034 260  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000034 270  CST     that                     Z8 Z5 
+0000034 280  VV0     promote                  S8+ I2.2/Q2.2 S7.1+/A2.1 
+0000034 290  NN1     gender                   S2 
+0000034 300  NN1     equality                 A6.1+ 
+0000034 310  VBZ     is                       Z5 A3+ 
+0000034 320  VVG     concerning               E6- A1.8+ S1.1.3+ 
+0000034 330  CC      and                      Z5 
+0000034 340  AT      the                      Z5 
+0000034 350  NN1     transition               A2.1+ 
+0000034 360  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000034 370  VM      should                   S6+ A7+ 
+0000034 380  VVI     clarify                  A7+/Q2.2 
+0000034 390  APPGE   their                    Z8 
+0000034 400  NN1     intent                   X7+ 
+0000034 401  ...     ....                     
+0000034 402  -----   -----                    
+0000034 410  NN2     Women                    S2.1f 
+0000034 420  CC      and                      Z5 
+0000034 430  NN2     girls                    S2.1f L2f@ 
+0000034 431  GE      '                        Z5 
+0000034 440  NN1     equality                 A6.1+ 
+0000034 450  VBZ     is                       A3+ Z5 
+0000034 460  JJ      transformative           Z99 
+0000034 470  IF      for                      Z5 
+0000034 480  NN2     communities              S5+ 
+0000034 490  CC      and                      Z5 
+0000034 500  NN2     economies                I2.1 I1.3- 
+0000034 501  ,       ,                        
+0000034 510  CC      and                      Z5 
+0000034 520  AT      the                      Z5 
+0000034 530  JJ      existing                 A3+ 
+0000034 540  NN1     State                    G1.1/S5+c[i46.2.1 G1.1c O4.1 
+0000034 550  NN1     Department               G1.1/S5+c[i46.2.2 H2/S5+c X2.2 
+0000034 560  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000034 570  VH0     have                     Z5 A9+ A2.2 S4 
+0000034 580  VVN     achieved                 A9+ X9.2+ 
+0000034 590  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000034 600  NN2     successes                X9.2+ 
+0000034 610  TO      to                       Z5 
+0000034 620  VVI     advance                  M1 A5.1+/A2.1+ I1.1 T4+ S8+ X2.1 
+0000034 630  NN1     education                P1 X2.3+ 
+0000034 640  NN1     access                   M1 A9+ A1.1.1 
+0000034 650  IF      for                      Z5 
+0000034 660  NN2     girls                    S2.1f L2f@ 
+0000034 661  ,       ,                        
+0000034 670  VV0     protect                  S8+/A15+ A10- 
+0000034 680  NN2     women                    S2.1f 
+0000034 690  II      from                     Z5 
+0000034 700  NN1     trafficking              G2.1-/I2.2 
+0000034 701  ,       ,                        
+0000034 710  VV0     end                      T2- 
+0000034 720  NN1     child                    S2mf/T3- S4mf 
+0000034 730  NN1     marriage                 S4 
+0000034 731  ,       ,                        
+0000034 740  CC      and                      Z5 
+0000034 750  VV0     combat                   S8- 
+0000034 760  JJ      gender-based             S2 
+0000034 770  NN1     violence                 E3- 
+0000034 771  .       .                        
+0000034 772  "       "                        
+0000035 001  -----   -----                    
+0000035 010  AT      The                      Z5 
+0000035 020  NN1     Trump                    Z1mf 
+0000035 030  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000035 031  GE      's                       Z5 
+0000035 040  NN1     request                  Q2.1 Q2.2 
+0000035 041  ,       ,                        
+0000035 050  DDQ     which                    Z8 Z5 
+0000035 060  VV0     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000035 070  AT1     a                        Z5 
+0000035 080  NN1     deadline                 T1.2 
+0000035 090  IO      of                       Z5 
+0000035 100  NPD1    Wednesday                T1.3[i47.2.1 T1.3 
+0000035 110  NNT1    afternoon                T1.3[i47.2.2 T1.3 
+0000035 120  TO      to                       Z5 
+0000035 130  VVI     produce                  A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000035 140  AT      the                      Z5 
+0000035 150  NN2     lists                    Q1.2 N4 
+0000035 151  ,       ,                        
+0000035 160  VVZ     comes                    M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000035 170  MC1     one                      N1 T3 T1.2 
+0000035 180  NNT1    week                     T1.3 
+0000035 190  II      after                    Z5 
+0000035 200  AT      the                      Z5 
+0000035 210  NN1     Energy                   X5.2+/S5+c[i48.2.1 X5.2+ Y1 
+0000035 220  NN1     Department               X5.2+/S5+c[i48.2.2 H2/S5+c X2.2 
+0000035 230  VVD     rebuffed                 X7- M2 
+0000035 240  AT1     a                        Z5 
+0000035 250  NN1     request                  Q2.1 Q2.2 
+0000035 260  II      from                     Z5 
+0000035 270  NN1     Trump                    Z1mf 
+0000035 271  GE      's                       Z5 
+0000035 280  NN1     transition               A2.1+ 
+0000035 290  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000035 300  TO      to                       Z5 
+0000035 310  VVI     name                     Q2.2 
+0000035 320  NN2     employees                I3.1/S2mf 
+0000035 330  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000035 340  II      on                       Z5 
+0000035 350  NN1     climate                  W4 A1.1.1 E1 
+0000035 360  NN1     change                   A2.1+ I1 B1 
+0000035 361  .       .                        
+0000036 001  -----   -----                    
+0000037 010  CSA     As                       Z5 
+0000037 020  NP1     NPR                      Z99 
+0000037 021  GE      's                       Z5 
+0000037 030  NP1     Brakkton                 Z1mf[i49.2.1 Z3c[i49.2.1 
+0000037 040  NP1     Booker                   Z1mf[i49.2.2 Z3c[i49.2.2 Z1mf Z2 Z3 
+0000037 050  VHZ     has                      Z5 A9+ A2.2 S4 
+0000037 060  VVN     reported                 Q2.2 S7.1- 
+0000037 061  ,       ,                        
+0000037 070  AT      the                      Z5 
+0000037 080  NN1     Trump                    Z1mf 
+0000037 090  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000037 091  GE      's                       Z5 
+0000037 100  JJ      74-point                 Z99 
+0000037 110  NN1     questionnaire            Q1.2 
+0000037 120  II      on                       Z5 
+0000037 130  NN1     climate                  W4 A1.1.1 E1 
+0000037 140  NN1     change                   A2.1+ I1 B1 
+0000037 141  "       "                        
+0000037 150  VVD     raised                   M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 
+0000037 160  NN2     fears                    E5- 
+0000037 170  II      among                    Z5 
+0000037 180  JJ      civil                    G1.2[i50.2.1 G1.1 S1.2.4+ G2.1 H1% 
+0000037 190  NN2     rights                   G1.2[i50.2.2 S7.4+ G2.2+ M6 G1.2 
+0000037 200  NN2     lawyers                  G2.1/I3.2/S2mf 
+0000037 210  VVG     specializing             A4.2+ 
+0000037 220  II      in                       Z5 
+0000037 230  JJ      federal                  S5+ 
+0000037 240  NN1     worker                   I3.1/S2mf 
+0000037 250  NN1     whistleblower            Z99 
+0000037 260  NN2     protections              S8+/A15+ A10- 
+0000037 261  ,       ,                        
+0000037 270  PNQS    who                      Z8 
+0000037 280  VV0     say                      Q2.1 Z4% 
+0000037 290  AT      the                      Z5 
+0000037 300  JJ      incoming                 M1 T2+ 
+0000037 310  NN1     administration           S7.1+c A9- 
+0000037 320  VBZ     is                       A3+ Z5 
+0000037 330  II      at                       Z5 
+0000037 340  AT1     a                        Z5 
+0000037 350  NN1     minimum                  N5--- 
+0000037 360  VVG     trying                   X8+ X2.4 Q2.2 G2.1 A12- 
+0000037 370  TO      to                       Z5 
+0000037 380  VVI     influence                A2.2 A2.1+ 
+0000037 390  CC      or                       Z5 
+0000037 400  VVI     limit                    A1.7+ 
+0000037 410  AT      the                      Z5 
+0000037 420  NN1     research                 X2.4 
+0000037 421  .       .                        
+0000037 422  "       "                        
+0000038 001  -----   -----                    
+0000039 010  II      In                       Z5 
+0000039 020  VVG     refusing                 Q2.2/Z6 S7.4- X7- 
+0000039 030  AT      the                      Z5 
+0000039 040  NN1     Trump                    Z1mf 
+0000039 050  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000039 051  GE      's                       Z5 
+0000039 060  NN1     request                  Q2.1 Q2.2 
+0000039 061  ,       ,                        
+0000039 070  AT      the                      Z5 
+0000039 080  NN1     Energy                   X5.2+/S5+c[i51.2.1 X5.2+ Y1 
+0000039 090  NN1     Department               X5.2+/S5+c[i51.2.2 H2/S5+c X2.2 
+0000039 100  VVD     said                     Q2.1 
+0000039 110  DA2     many                     N5+ 
+0000039 120  IO      of                       Z5 
+0000039 130  APPGE   its                      Z8 
+0000039 140  NN      staff                    I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 
+0000039 150  NN2     members                  S5+/S2mf B1 
+0000039 160  VBDR    were                     A3+ Z5 
+0000039 161  "       "                        
+0000039 170  VVN     unsettled                A7- E6- X6- S2-/H4 W4 
+0000039 171  "       "                        
+0000039 180  II      by                       Z5 
+0000039 190  AT      the                      Z5 
+0000039 200  NN1     gesture                  Q1.1/B1 A10+ M1 A1.1.1 
+0000039 201  ,       ,                        
+0000039 210  VVG     stating                  Q2.1 
+0000039 220  CST     that                     Z8 Z5 
+0000039 230  CS      while                    Z5 
+0000039 240  PPH1    it                       Z8 
+0000039 250  VM      would                    A7+ 
+0000039 260  VVI     share                    S1.1.2+ 
+0000039 270  DD      any                      N5.1+ N5 
+0000039 280  NN1     information              X2.2+ 
+0000039 290  CST     that                     Z8 Z5 
+0000039 300  VBDZ    was                      A3+ Z5 
+0000039 310  RR      already                  T1.1.1 
+0000039 320  JJ      public                   S5+ A10+ 
+0000039 321  ,       ,                        
+0000039 330  PPH1    it                       Z8 
+0000039 340  VM      would                    A7+ 
+0000039 350  XX      not                      Z6 
+0000039 360  VVI     produce                  A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000039 370  AT1     a                        Z5 
+0000039 380  NN1     list                     Q1.2 N4 M4 
+0000039 390  IO      of                       Z5 
+0000039 400  JJ      individual               N5- 
+0000039 410  NN2     names                    Q2.2 
+0000039 411  .       .                        
+0000040 001  -----   -----                    
+0000041 010  RR      Early                    T4+ 
+0000041 020  MD      last                     T1.1.1[i52.2.1 N4 
+0000041 030  NNT1    week                     T1.1.1[i52.2.2 T1.3 
+0000041 031  ,       ,                        
+0000041 040  NN1     Trump                    Z1mf 
+0000041 050  VVD     said                     Q2.1 
+0000041 060  PPHS1   he                       Z8m 
+0000041 070  VBZ     is                       Z5 A3+ 
+0000041 080  VVG     nominating               X7+/Q2.2 
+0000041 090  NP1     Exxon                    Z1mf[i53.2.1 Z3c[i53.2.1 Z3c 
+0000041 100  NP1     Mobil                    Z1mf[i53.2.2 Z3c[i53.2.2 Z3c 
+0000041 110  NN1     Chairman                 S7.1+/S2mf 
+0000041 120  CC      and                      Z5 
+0000041 130  NN1     CEO                      S7.1+/S2mf 
+0000041 140  NP1     Rex                      Z1mf[i54.2.1 Z3c[i54.2.1 Z1m Z3mnc 
+0000041 150  NP1     Tillerson                Z1mf[i54.2.2 Z3c[i54.2.2 
+0000041 160  TO      to                       Z5 
+0000041 170  VVI     lead                     S7.1+ A2.2 M2 A1.1.1 
+0000041 180  AT      the                      Z5 
+0000041 190  NN1     State                    G1.1/S5+c[i55.2.1 G1.1c O4.1 
+0000041 200  NN1     Department               G1.1/S5+c[i55.2.2 H2/S5+c X2.2 
+0000041 201  .       .                        
+0000043 001  NULL    **8;7;text               

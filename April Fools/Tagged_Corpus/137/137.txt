@@ -1,0 +1,53 @@
+ <quote> "Open source code will contain text ads in comments and variable names, and Google and other text ad companies will scan the open source code repositories and fund the projects based on what they find in the code" </quote> 
+
+
+
+We all remember when ads on a page were mostly big, colorful and sometimes even blinking banner ads. It turned out people learned to steer clear of them and preferred pure text links, and some companies including the ubiquitous Google [GOOG] has made a big business from them. Most analysts today agree that we are moving into an open source world as far as software is concerned. This is where the future money is, and it is a no brainer to see text ads moving into this realm.  A larger and larger percent of Internet users are active open source developers in one sense or another and it is therefore natural to put the messages into what these people read - source code.
+
+Revenue stream
+
+ <quote> "Ads in source code puts the money where the real effort is" </quote>  says Martin L, an on and off open source writer.  <quote> "With this kind of revenue potential I would probably code open source around the clock" </quote> , he quips while sipping on a caffeinated drink. And he is not alone.  <quote> "We estimate the market to be worth $2.9 billion, if you include naked default credit swaps and leverage" </quote> , says a leading IT Open Source analyst on Wall Street. In short the ads may put substantial amounts of money into open source code development.
+
+Comments and placement
+
+Here is an example of what we might see in the future. This is some python code from an Open source project (buildout.eggnest) that gives an impression of what lies in wait.
+
+Before:
+
+for directory in src_dirs:
+if os.path.isdir(directory):
+for file in os.listdir(directory):
+if os.path.isfile(os.path.join(directory, file)):
+try:
+content = _open(os.path.dirname(file),os.path.join(directory, file),[])
+except MissingSectionHeaderError:
+continue
+
+After:
+
+#Jolt Cola makes it a lot easier to write this stuff
+for directory in src_dirs:
+if os.path.isdir(directory):
+for file in os.listdir(directory):
+if os.path.isfile(os.path.join(directory, file)):
+try:
+content = _open(os.path.dirname(file),os.path.join(directory, file),[])
+except MissingSectionHeaderError:
+continue
+# Takes a sip..
+
+
+
+
+
+Ghostwriters
+
+ <quote> "Major sponsors will most likely want to have commit access to the code, so that they can insert ads themselves" </quote>  says Tim, an ad placement strategist at one of the major Internet ad firms.  <quote> "Special deals will be done with prolific open source coders, so that they can get their own persona, or ghostwriter, pretty much like the way celebrities' Twitter feeds work today" </quote> , he continues.
+
+Harmony
+
+Major advertising clients have declared their willingness to divide the open source market in between them and not clobber each other's ads in the source files.  <quote> "A pilot project two years ago got derailed in a fork war on the Linux kernel between 2.6.16coke and 2.6.16pepsi" </quote>  shrugs an industry insider of some stature.
+
+Timeline
+
+Just after March 31, that is on the first day of quarter 2, ads in code will roll out in a big way. Stay tuned.

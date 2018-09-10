@@ -1,0 +1,581 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  JJ      Biometric                Z99 
+0000002 020  NN2     devices                  O2 X4.2 Q1.1 
+0000002 030  VVG     measuring                N3.1 
+0000002 040  NN2     players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000002 050  JJ      joint                    S5+ 
+0000002 060  NN1     stress                   E6- A1.7+ Q3 A1.1.2 
+0000002 061  ,       ,                        
+0000002 070  NN1     heart                    B1 M6 A11.1+ E1 X5.2+ 
+0000002 080  CC      and                      Z5 
+0000002 090  VVG     breathing                B1 
+0000002 100  NN2     rates                    N3.8 N5 I1.3 
+0000002 110  VH0     have                     Z5 A9+ A2.2 S4 
+0000002 120  VBN     been                     Z5 A3+ 
+0000002 130  VVN     approved                 S7.4+ E2+ G1.1 
+0000002 140  IF      for                      Z5 
+0000002 150  NN1     use                      A1.5.1 
+0000002 160  II      during                   Z5 
+0000002 170  NNB     Major                    A11.1+ N3.2+ G3/S7.1+/S2mf P1 P1/S2mf 
+0000002 180  NP1     League                   S5+c K5.1/S5+c S7.3+ N3.3% 
+0000002 190  NN1     Baseball                 K5.2 
+0000002 200  NN2     games                    K5.1 K5.2 A1.1.1 
+0000002 210  DD1     this                     M6 Z5 Z8 
+0000002 220  NNT1    season                   T1.3 
+0000004 010  JJ      Wearable                 Z99 
+0000004 020  NN1     technology               Y1 
+0000004 030  VBZ     is                       Z5 A3+ 
+0000004 040  VVG     coming                   A4.1[i1.2.1 M1[i1.2.1 B1[i1.2.1 N5[i1.2.1 X6+[i1.2.1 X2.1[i1.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000004 050  II      to                       A4.1[i1.2.2 M1[i1.2.2 B1[i1.2.2 N5[i1.2.2 X6+[i1.2.2 X2.1[i1.2.2 Z5 
+0000004 060  NNB     Major                    A11.1+ N3.2+ G3/S7.1+/S2mf P1 P1/S2mf 
+0000004 070  NP1     League                   S5+c K5.1/S5+c S7.3+ N3.3% 
+0000004 080  NN1     Baseball                 K5.2 
+0000004 081  .       .                        
+0000005 001  -----   -----                    
+0000008 010  AT      The                      Z5 
+0000008 020  NN2     sports                   K5.1 
+0000008 030  VVG     playing                  K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000008 040  NN2     rules                    G2.1 X4.2 A6.2+ Q3 
+0000008 050  NN1     committee                S7.1+/S5+c 
+0000008 060  VVD     approved                 S7.4+ E2+ G1.1 
+0000008 070  MC      two                      N1 T3 T1.2 
+0000008 080  NN2     devices                  O2 X4.2 Q1.1 
+0000008 090  IF      for                      Z5 
+0000008 100  NN1     use                      A1.5.1 
+0000008 110  II      during                   Z5 
+0000008 120  NN2     games                    K5.1 K5.2 A1.1.1 
+0000008 130  DD1     this                     M6 Z5 Z8 
+0000008 140  NNT1    season                   T1.3 
+0000008 141  ,       ,                        
+0000008 150  MC      two                      N1 T3 T1.2 
+0000008 160  NN      people                   S2mfc 
+0000008 170  JJ      familiar                 A6.2+ S1.2.1+ 
+0000008 180  IW      with                     Z5 
+0000008 190  AT      the                      Z5 
+0000008 200  NN1     decision                 X6+ 
+0000008 210  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000008 220  AT      The                      Z5 
+0000008 230  JJ      Associated               S5+ A2.2 A6.1+/X2.1 S3.1 
+0000008 240  NN1     Press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
+0000008 241  .       .                        
+0000008 242  -----   -----                    
+0000008 250  AT      The                      Z5 
+0000008 260  JJ      Motus                    Z99 
+0000008 270  NN1     Baseball                 K5.2 
+0000008 280  NN1     Sleeve                   B5 O2 
+0000008 290  NN2     measures                 N3.1 F2 K2 
+0000008 300  VV0@    stress                   Q2.2 A1.1.2 
+0000008 310  II      on                       Z5 
+0000008 320  NN2     elbows                   B1 
+0000008 330  CC      and                      Z5 
+0000008 340  AT      the                      Z5 
+0000008 350  NP1     Zephyr                   Z1mf[i2.2.1 Z3c[i2.2.1 Z3 
+0000008 360  NP1     Bioharness               Z1mf[i2.2.2 Z3c[i2.2.2 
+0000008 370  VVZ     monitors                 X2.4 
+0000008 380  NN1     heart                    B1 M6 A11.1+ E1 X5.2+ 
+0000008 390  CC      and                      Z5 
+0000008 400  VVG     breathing                B1 
+0000008 410  NN2     rates                    N3.8 N5 I1.3 
+0000008 411  .       .                        
+0000009 001  -----   -----                    
+0000010 010  RR21    In                       N5++[i3.2.1 
+0000010 020  RR22    addition                 N5++[i3.2.2 
+0000010 021  ,       ,                        
+0000010 030  AT      the                      Z5 
+0000010 040  NN1     committee                S7.1+/S5+c 
+0000010 050  VVD     approved                 S7.4+ E2+ G1.1 
+0000010 060  AT1     a                        Z5 
+0000010 070  NN      pair                     N5c 
+0000010 080  IO      of                       Z5 
+0000010 090  NN1     bat                      K5.1/O2 L2mfn S2.1f/T3+ 
+0000010 100  NN2     sensors                  O3 
+0000010 110  IF      for                      Z5 
+0000010 120  NN1     use                      A1.5.1 
+0000010 130  II      on                       Z5 
+0000010 140  NN1     field                    F4 W3 M7 K5.1/M7 G3@ A4.1 
+0000010 150  II      during                   Z5 
+0000010 160  NN2     workouts                 K5.1 
+0000010 161  ,       ,                        
+0000010 170  PN1     one                      Z8 
+0000010 180  II      from                     Z5 
+0000010 190  NN1     Blast                    A1.1.1 X3.2 
+0000010 200  NN1     Motion                   M1 Q1.1 
+0000010 210  CC      and                      Z5 
+0000010 220  AT      the                      Z5 
+0000010 230  JJ      other                    A6.1- 
+0000010 240  II      from                     Z5 
+0000010 250  NN1     Blast                    A1.1.1 X3.2 
+0000010 260  NN1     Motion                   M1 Q1.1 
+0000010 261  .       .                        
+0000011 001  -----   -----                    
+0000012 010  AT      The                      Z5 
+0000012 020  NN1     technology               Y1 
+0000012 030  VVZ     provides                 A9- S6+ 
+0000012 040  AT      the                      Z5 
+0000012 050  NN1     potential                A7+ O3 
+0000012 060  IF      for                      Z5 
+0000012 070  JJR     earlier                  N4 T1.1.1 T4++ 
+0000012 080  NN1     detection                A10+ 
+0000012 090  IO      of                       Z5 
+0000012 100  NN2     habits                   S1.1.1 A6.2+ B5@ 
+0000012 110  CST     that                     Z8 Z5 
+0000012 120  VM      could                    A7+ 
+0000012 130  VVI     lead                     A2.2[i4.2.1 M6[i4.2.1 S7.1+ A2.2 M2 A1.1.1 
+0000012 140  II      to                       A2.2[i4.2.2 M6[i4.2.2 Z5 
+0000012 150  NN2     injuries                 B2- E1 
+0000012 151  .       .                        
+0000012 152  -----   -----                    
+0000012 160  RR      However                  Z4 
+0000012 161  ,       ,                        
+0000012 170  AT      the                      Z5 
+0000012 180  NN1     union                    I3.1/S5+c S5+c S4 Z3c 
+0000012 190  VBZ     is                       A3+ Z5 
+0000012 200  JJ      concerned                E6- A1.8+ A2.2 S1.1.3+ 
+0000012 210  II      about                    Z5 
+0000012 220  NN1     player                   K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000012 230  NN1     privacy                  A10- 
+0000012 240  CC      and                      Z5 
+0000012 250  RRQ     how                      Z5 A13.3 
+0000012 260  NN2     teams                    S5+ K5.1/S5+ 
+0000012 270  VV0     use                      A1.5.1 S7.1+ 
+0000012 280  AT      the                      Z5 
+0000012 290  NN1     information              X2.2+ 
+0000012 291  .       .                        
+0000012 292  -----   -----                    
+0000012 300  DB2     Both                     N5.1+[i5.2.1 N5 
+0000012 310  NN2     sides                    N5.1+[i5.2.2 A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
+0000012 320  VV0     say                      Q2.1 Z4% 
+0000012 330  JJR@    further                  N5++ N3.3++ T2++ 
+0000012 340  NN2     discussions              Q2.1 Q2.2 
+0000012 350  VBR     are                      A3+ Z5 
+0000012 360  JJ      likely                   A7+ A1.2+ 
+0000012 370  II      in                       Z5 
+0000012 380  VVG     bargaining               Q2.2 
+0000012 390  DD1     this                     M6 Z5 Z8 
+0000012 400  NNT1    year                     T1.3 P1c 
+0000012 401  .       .                        
+0000013 001  -----   -----                    
+0000014 010  NN      People                   S2mfc 
+0000014 020  VVD     spoke                    Q2.1 
+0000014 030  II      about                    Z5 
+0000014 040  AT      the                      Z5 
+0000014 050  NN1     decision                 X6+ 
+0000014 060  II      on                       Z5 
+0000014 070  NN1     condition                O4.1 S6+ B2- B2+ Z7 
+0000014 080  IO      of                       Z5 
+0000014 090  NN1     anonymity                A10- 
+0000014 100  CS      because                  Z5/A2.2 
+0000014 110  AT      no                       Z6 
+0000014 120  NN2     announcements            Q2.2 
+0000014 130  VBDR    were                     Z5 A3+ 
+0000014 140  VVN     authorized               S7.4+ 
+0000014 150  II      by                       Z5 
+0000014 160  NP1     MLB                      Z99 
+0000014 170  CC      or                       Z5 
+0000014 180  AT      the                      Z5 
+0000014 190  NN2     players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000014 200  NN1     association              S5+c A6.1+/X2.1 
+0000014 201  .       .                        
+0000014 202  -----   -----                    
+0000014 210  NP1     New                      Z2[i7.2.1 Z1mf[i6.2.1 Z3c[i6.2.1 
+0000014 220  NP1     York                     Z2[i7.2.2 Z2 Z1mf Z1mf[i6.2.2 Z3c[i6.2.2 
+0000014 230  NN2     Mets                     S3.1 M6 A1.1.1 A6.1+ 
+0000014 240  JJ      general                  S7.1+/S2mf[i8.2.1 N5+ A4.2- 
+0000014 250  NN1     manager                  S7.1+/S2mf[i8.2.2 S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf 
+0000014 260  NP1     Sandy                    Z1mf[i9.2.1 Z3c[i9.2.1 Z1mf 
+0000014 270  NP1     Alderson                 Z1mf[i9.2.2 Z3c[i9.2.2 
+0000014 271  ,       ,                        
+0000014 280  NN1     chairman                 S7.1+/S2mf 
+0000014 290  IO      of                       Z5 
+0000014 300  AT      the                      Z5 
+0000014 310  JJ%     playing                  K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000014 320  NN2     rules                    G2.1 X4.2 A6.2+ Q3 
+0000014 330  NN1     committee                S7.1+/S5+c 
+0000014 331  ,       ,                        
+0000014 340  VVD     declined                 N5-/A2.1 Q2.2 
+0000014 350  NN1     comment                  Q2.1 
+0000014 351  .       .                        
+0000015 001  -----   -----                    
+0000016 010  AT      The                      Z5 
+0000016 020  NN1     sleeve                   B5 O2 
+0000016 030  VHD     had                      Z5 A9+ A2.2 S4 
+0000016 040  VBN     been                     Z5 A3+ 
+0000016 050  VVN     given                    A9- A1.1.1 
+0000016 060  JJ      provisional              T1.3- 
+0000016 070  NN1     approval                 S7.4+ E2+ G1.1 
+0000016 080  II      by                       Z5 
+0000016 090  AT      the                      Z5 
+0000016 100  NN1     committee                S7.1+/S5+c 
+0000016 110  MD      last                     T1.1.1[i11.2.1 N4 T1.3[i10.2.1 P1/S2mf[i10.2.1 
+0000016 120  NNT1    year                     T1.1.1[i11.2.2 T1.3 P1c T1.3[i10.2.2 P1/S2mf[i10.2.2 
+0000016 121  ,       ,                        
+0000016 130  CCB     but                      Z5 
+0000016 140  DD2     these                    Z8 Z5 
+0000016 150  VBR     are                      A3+ Z5 
+0000016 160  AT      the                      Z5 
+0000016 170  MD      first                    N4 
+0000016 180  JJ      full                     N5.1+ I3.2+ 
+0000016 190  NN2     consents                 S7.4+ Q2.2 
+0000016 200  IF      for                      Z5 
+0000016 210  NN1     use                      A1.5.1 
+0000016 220  IO      of                       Z5 
+0000016 230  JJ      wearable                 Z99 
+0000016 240  NN1     technology               Y1 
+0000016 241  .       .                        
+0000016 242  -----   -----                    
+0000016 250  AT      The                      Z5 
+0000016 260  NN1     committee                S7.1+/S5+c 
+0000016 270  VVZ     includes                 A1.8+ 
+0000016 280  NP2     Atlantas                 Z2 
+0000016 290  NP1     John                     Z1mf[i12.2.1 Z3c[i12.2.1 Z1m S9/O1.2 
+0000016 300  NP1     Schuerholz               Z1mf[i12.2.2 Z3c[i12.2.2 
+0000016 301  ,       ,                        
+0000016 310  NP2     Clevelands               Z2 Z3c Z1mf 
+0000016 320  NP1     Chris                    Z1mf[i13.2.1 Z3c[i13.2.1 Z1mf 
+0000016 330  NP1     Antonetti                Z1mf[i13.2.2 Z3c[i13.2.2 
+0000016 331  ,       ,                        
+0000016 340  NP1     St                       Z1mf[i15.3.1 Z3c[i15.3.1 Z1mf[i14.2.1 Z3c[i14.2.1 Z2[i16.2.1 Z3c[i16.2.1 Z1mf[i16.2.1 Z2[i17.2.1 Z3c[i17.2.1 Z2[i18.2.1 Z3c[i18.2.1 
+0000016 350  NP1     Louis                    Z1mf[i15.3.2 Z3c[i15.3.2 Z1mf[i20.3.1 Z3c[i20.3.1 Z1m Z1mf[i14.2.2 Z3c[i14.2.2 Z2[i16.2.2 Z3c[i16.2.2 Z1mf[i16.2.2 Z2[i17.2.2 Z3c[i17.2.2 Z2[i18.2.2 Z3c[i18.2.2 Z1mf[i19.2.1 Z3c[i19.2.1 
+0000016 360  NP1     John                     Z3c[i15.3.3 Z1mf[i15.3.3 Z1mf[i20.3.2 Z3c[i20.3.2 Z1m S9/O1.2 Z1mf[i19.2.2 Z3c[i19.2.2 Z1mf[i21.2.1 Z3c[i21.2.1 
+0000016 370  NP1     Mozeliak                 Z3c[i20.3.3 Z1mf[i20.3.3 Z1mf[i21.2.2 Z3c[i21.2.2 
+0000016 371  ,       ,                        
+0000016 380  NP2     Minnesotas               Z2 
+0000016 390  NP1     Terry                    Z1mf[i22.2.1 Z3c[i22.2.1 Z1mf 
+0000016 400  NP1     Ryan                     Z1mf[i22.2.2 Z3c[i22.2.2 Z1mf 
+0000016 410  CC      and                      Z5 
+0000016 420  NN2     others                   A6.1-/Z8 
+0000016 421  .       .                        
+0000017 001  -----   -----                    
+0000018 010  NN      Data                     X2.2/X2.4 Q1.1 
+0000018 020  II      from                     Z5 
+0000018 030  AT      the                      Z5 
+0000018 040  NN2     devices                  O2 X4.2 Q1.1 
+0000018 050  VM      can                      A7+ 
+0000018 051  XX      not                      Z6 
+0000018 060  VBI     be                       Z5 A3+ 
+0000018 070  VVN     transmitted              Q4.3 M2 Q2.1 
+0000018 080  II      during                   Z5 
+0000018 090  NN2     games                    K5.1 K5.2 A1.1.1 
+0000018 100  CCB     but                      Z5 
+0000018 110  VM      must                     S6+ A7+ 
+0000018 120  VBN     been                     Z5 A3+ 
+0000018 130  VVN@    downloaded               Y2 
+0000018 140  RL      afterward                N4 
+0000018 141  .       .                        
+0000018 142  -----   -----                    
+0000018 150  AT      The                      Z5 
+0000018 160  NN2     iPads                    Z99 
+0000018 170  NP1     MLB                      Z99 
+0000018 180  VVD     approved                 S7.4+ E2+ G1.1 
+0000018 190  IF      for                      Z5 
+0000018 200  NN1     use                      A1.5.1 
+0000018 210  II      by                       Z5 
+0000018 220  NN2     teams                    S5+ K5.1/S5+ 
+0000018 230  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000018 240  XX      not                      Z6 
+0000018 250  VHI     have                     A9+ Z5 A2.2 S4 
+0000018 260  NN1     Bluetooth                Z99 
+0000018 270  NN1     wireless                 Q4.3 Q1.3 
+0000018 280  NN1     technology               Y1 
+0000018 290  CC      and                      Z5 
+0000018 300  AT      no                       Z6 
+0000018 310  JJ      other                    A6.1- 
+0000018 320  JJ      electronic               O3 Y2 
+0000018 330  NN1     equipment                O2 
+0000018 340  VBZ     is                       Z5 A3+ 
+0000018 350  VVN     allowed                  S7.4+ S8+ X2.1 
+0000018 360  II      in                       Z5 
+0000018 370  NN2     dugouts                  M4 H1 
+0000018 380  II      during                   Z5 
+0000018 390  NN2     games                    K5.1 K5.2 A1.1.1 
+0000018 391  .       .                        
+0000019 001  -----   -----                    
+0000020 010  NN2     Clubs                    S5+ O2 K5.2@ 
+0000020 020  VM      may                      A7+ 
+0000020 030  VVI     use                      A1.5.1 S7.1+ 
+0000020 040  AT      the                      Z5 
+0000020 050  NN      data                     X2.2/X2.4 Q1.1 
+0000020 060  RR      only                     A14 
+0000020 070  IF      for                      Z5 
+0000020 080  JJ      internal                 M6 A10- G1.1 
+0000020 090  NN2     purposes                 X7+ A2.2 A1.5.1 
+0000020 091  ,       ,                        
+0000020 100  CC      and                      Z5 
+0000020 110  PPH1    it                       Z8 
+0000020 120  VM      will                     T1.1.3 
+0000020 130  VBI     be                       Z5 A3+ 
+0000020 140  VVN     shared                   S1.1.2+ 
+0000020 150  IW      with                     Z5 
+0000020 160  AT      the                      Z5 
+0000020 170  NN1     player                   K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000020 171  .       .                        
+0000020 172  -----   -----                    
+0000020 180  PPH1    It                       Z8 
+0000020 190  VM      can                      A7+ 
+0000020 191  XX      not                      Z6 
+0000020 200  VBI     be                       Z5 A3+ 
+0000020 210  VVN     provided                 A9- S6+ 
+0000020 220  II      to                       Z5 
+0000020 230  NN2     broadcasters             Q4.3/S2mf 
+0000020 240  CC      or                       Z5 
+0000020 250  VVN     used                     A1.5.1 S7.1+ 
+0000020 260  IF      for                      Z5 
+0000020 270  JJ      commercial               I2.1 
+0000020 280  NN2     purposes                 X7+ A2.2 A1.5.1 
+0000020 281  .       .                        
+0000021 001  -----   -----                    
+0000022 010  NN2     Players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000022 020  VM      can                      A7+ 
+0000022 030  VVI     decide                   X6+ 
+0000022 040  CSW31   whether                  Z7[i23.3.1 Z5 
+0000022 050  CSW32   or                       Z7[i23.3.2 
+0000022 060  CSW33   not                      Z7[i23.3.3 
+0000022 070  TO      to                       Z5 
+0000022 080  VVI     use                      A1.5.1 S7.1+ 
+0000022 090  AT      the                      Z5 
+0000022 100  NN1     technology               Y1 
+0000022 110  CC      and                      Z5 
+0000022 120  VVI     determine                A2.2 A7+ X6+ 
+0000022 130  PNQS    who                      Z8 
+0000022 140  VM      can                      A7+ 
+0000022 150  VVI     receive                  A9+ S5+ 
+0000022 160  AT      the                      Z5 
+0000022 170  NN      data                     X2.2/X2.4 Q1.1 
+0000022 171  .       .                        
+0000024 001  NULL    <quote>                  
+0000024 002  -----   -----                    
+0000024 010  NN1     Heart                    B1 M6 A11.1+ E1 X5.2+ 
+0000024 020  NN1     rate                     N3.8 N5 I1.3 
+0000024 030  NN1     variability              A6.3+ 
+0000024 040  VBZ     is                       A3+ Z5 
+0000024 050  AT1     an                       Z5 
+0000024 060  NN1     indicator                A10+ O2 M3/O4.3 
+0000024 070  IO      of                       Z5 
+0000024 080  NN1     stress                   E6- A1.7+ Q3 A1.1.2 
+0000024 090  CC      and                      Z5 
+0000024 100  VM      can                      A7+ 
+0000024 110  VBI     be                       Z5 A3+ 
+0000024 120  VVN     used                     A1.5.1 S7.1+ 
+0000024 130  II      in                       Z5 
+0000024 140  JJ      developing               A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000024 150  NN1     post                     Q1.2 O2 I3.1 M6 
+0000024 160  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000024 170  NN1     recovery                 B2+ A5.1+/A2.1 A9+ 
+0000024 180  NN2     routines                 A6.2+ X4.2 K4 
+0000024 190  IF      for                      Z5 
+0000024 200  JJ      high                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000024 210  NN1     intensity                N5 
+0000024 220  NN2     players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000024 230  II21    such                     Z5[i24.2.1 
+0000024 240  II22    as                       Z5[i24.2.2 Z5 
+0000024 250  AT      the                      Z5 
+0000024 260  NN1     starting                 K5.1/M7[i25.2.1 T2+ E5- E3- 
+0000024 270  NN1     pitcher                  K5.1/M7[i25.2.2 O2 K5.1/S2mf 
+0000024 280  NN2     rotations                M1 M2 A6.3+ 
+0000024 290  CC      and                      Z5 
+0000024 300  NN2     catchers                 A1.7+/S2mf 
+0000024 301  ,       ,                        
+0000024 302  NULL    </quote>                 
+0000024 303  -----   -----                    
+0000024 310  VVD     said                     Q2.1 
+0000024 320  NP1     Steven                   Z2[i27.2.1 Z3c[i27.2.1 Z1mf[i27.2.1 Z1m Z1mf[i26.2.1 Z3c[i26.2.1 
+0000024 330  NP1     Small                    Z2[i27.2.2 Z3c[i27.2.2 Z1mf[i27.2.2 Z1mf[i26.2.2 Z3c[i26.2.2 
+0000024 331  ,       ,                        
+0000024 340  NN1     director                 S7.1+/S2mf K4/S2mf 
+0000024 350  IO      of                       Z5 
+0000024 360  NP1     Zephyr                   Z3 
+0000024 370  NN1     performance              K4 X9.2 A1.1.1 A12- 
+0000024 380  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000024 381  .       .                        
+0000025 001  -----   -----                    
+0000026 010  AT      The                      Z5 
+0000026 020  NNB     Major                    A11.1+ N3.2+ G3/S7.1+/S2mf P1 P1/S2mf 
+0000026 030  NP1     League                   S5+c K5.1/S5+c S7.3+ N3.3% 
+0000026 040  NN1     Baseball                 K5.2 
+0000026 050  NN2     Players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000026 060  NN1     Association              S5+c A6.1+/X2.1 
+0000026 061  ,       ,                        
+0000026 070  JJ      concerned                E6- A1.8+ A2.2 S1.1.3+ 
+0000026 080  II      about                    Z5 
+0000026 090  APPGE   its                      Z8 
+0000026 100  NN2     members                  S5+/S2mf B1 
+0000026 110  NN2     rights                   S7.4+ G2.2+ M6 G1.2 
+0000026 111  ,       ,                        
+0000026 120  JJ      negotiated               Q2.2 
+0000026 130  NN2     rules                    G2.1 X4.2 A6.2+ Q3 
+0000026 140  VVG     covering                 A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1 
+0000026 150  NN1     use                      A1.5.1 
+0000026 160  IO      of                       Z5 
+0000026 170  AT      the                      Z5 
+0000026 180  NN1     technology               Y1 
+0000026 181  .       .                        
+0000026 182  -----   -----                    
+0000026 190  JJ      Veteran                  G3/S2mf T3+/S2mf 
+0000026 200  NN2     players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000026 210  VM      could                    A7+ 
+0000026 220  VBI     be                       A3+ Z5 
+0000026 230  JJ      reluctant                X5.2- 
+0000026 240  TO      to                       Z5 
+0000026 250  VVI     experiment               X2.4 
+0000026 260  IW      with                     Z5 
+0000026 270  NN1     in-game                  Z99 
+0000026 280  NN1     use                      A1.5.1 
+0000026 281  .       .                        
+0000028 001  NULL    <quote>                  
+0000028 002  -----   -----                    
+0000028 010  AT      The                      Z5 
+0000028 020  MD      next                     N4 
+0000028 030  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
+0000028 040  PPY     you                      Z4[i28.2.1 Z8mf 
+0000028 050  VV0     know                     Z4[i28.2.2 X2.2+ S3.2/B1% 
+0000028 051  ,       ,                        
+0000028 060  AT      the                      Z5 
+0000028 070  NN2     pitchers                 O2 K5.1/S2mf 
+0000028 080  VVG     going                    T1.1.3[i29.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000028 090  TO      to                       T1.1.3[i29.2.2 Z5 
+0000028 100  VHI     have                     A9+ Z5 A2.2 S4 
+0000028 110  AT1     a                        Z5 
+0000028 120  NN1     phone                    Q1.3[i30.2.1 Q1.3 
+0000028 130  II      in                       Q1.3[i30.2.2 Z5 
+0000028 140  APPGE   his                      Z8m 
+0000028 150  NN1     pocket                   B5 O2 I1.1 M7/N3.2- 
+0000028 160  VVG     taking                   A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000028 170  NN2     selfies                  Z99 
+0000028 171  ,       ,                        
+0000028 172  NULL    </quote>                 
+0000028 173  -----   -----                    
+0000028 180  NP1     New                      Z2[i32.2.1 Z1mf[i31.2.1 Z3c[i31.2.1 
+0000028 190  NP1     York                     Z2[i32.2.2 Z2 Z1mf Z1mf[i31.2.2 Z3c[i31.2.2 
+0000028 200  NN2     Yankees                  Z2 Z2/S2mf I1/A1.4% 
+0000028 210  VV0     outfielder               Z99 
+0000028 220  NP1     Brett                    Z1mf[i33.2.1 Z3c[i33.2.1 Z1mf 
+0000028 230  NP1     Gardner                  Z1mf[i33.2.2 Z3c[i33.2.2 Z1mf 
+0000028 240  VVD     said                     Q2.1 
+0000028 241  .       .                        
+0000029 001  -----   -----                    
+0000030 010  NP1     New                      Z2[i35.2.1 Z1mf[i34.2.1 Z3c[i34.2.1 
+0000030 020  NP1     York                     Z2[i35.2.2 Z2 Z1mf Z1mf[i34.2.2 Z3c[i34.2.2 
+0000030 030  NN2     Mets                     S3.1 M6 A1.1.1 A6.1+ 
+0000030 040  JJ      medical                  B3 
+0000030 050  NN1     director                 S7.1+/S2mf K4/S2mf 
+0000030 060  NNB     Dr                       Z1mf[i37.2.1 B3/S2mf P1/S2mf Z1mf[i36.2.1 
+0000030 070  NP1     David                    Z1mf[i37.2.2 Z1m Z1mf[i36.2.2 Z1mf[i38.2.1 Z3c[i38.2.1 
+0000030 080  NP1     Altchek                  Z99 Z1mf[i38.2.2 Z3c[i38.2.2 
+0000030 081  ,       ,                        
+0000030 090  AT1     an                       Z5 
+0000030 100  NN1     adviser                  S8+/S2mf 
+0000030 110  II      to                       Z5 
+0000030 120  NP1     Motus                    Z99 
+0000030 121  ,       ,                        
+0000030 130  VVZ     hopes                    X2.6+ E4.1+ X9.2+ A5.1+ 
+0000030 140  AT      the                      Z5 
+0000030 150  NN1     device                   O2 X4.2 Q1.1 
+0000030 160  VM      can                      A7+ 
+0000030 170  VBI     be                       Z5 A3+ 
+0000030 180  VVN     used                     T1.1.1[i39.2.1 A6.2+[i39.2.1 A1.5.1 S7.1+ 
+0000030 190  TO      to                       T1.1.1[i39.2.2 A6.2+[i39.2.2 Z5 
+0000030 200  VVI     help                     S8+ 
+0000030 210  NN2     pitchers                 O2 K5.1/S2mf 
+0000030 220  VVI     avoid                    A1.9 M1 
+0000030 230  NP1     Tommy                    Z1mf[i40.2.1 Z3c[i40.2.1 Z1m 
+0000030 240  NP1     John                     Z1mf[i40.2.2 Z3c[i40.2.2 Z1m S9/O1.2 
+0000030 250  NN1     surgery                  B3 B3/H1 B3/H2 S8+/T1.3 
+0000030 260  CC      and                      Z5 
+0000030 270  VV0     rehabilitate             B3 S8+ 
+0000030 280  II      from                     Z5 
+0000030 290  AT      the                      Z5 
+0000030 300  JJ      career-interrupting      Z99 
+0000030 310  NN1     operation                A1.1.1 B3 G3 
+0000030 320  II      by                       Z5 
+0000030 330  VVG     monitoring               X2.4 
+0000030 340  NN1     valgus                   Z99 
+0000030 350  NN1     torque                   Z99 
+0000030 360  NN1     stress                   E6- A1.7+ Q3 A1.1.2 
+0000030 370  II      on                       Z5 
+0000030 380  AT      the                      Z5 
+0000030 390  NN1     elbow                    B1 
+0000030 391  .       .                        
+0000032 001  NULL    <quote>                  
+0000032 002  -----   -----                    
+0000032 010  VV0     Zack                     Z99 
+0000032 020  NP1     Wheeler                  Z1mf 
+0000032 021  ,       ,                        
+0000032 030  APPGE   its                      Z8 
+0000032 040  RG      very                     A13.3 
+0000032 050  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
+0000032 060  TO      to                       Z5 
+0000032 070  VVI     keep                     A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000032 080  PPHO1   him                      Z8m 
+0000032 090  RG      below                    Z5 M6 
+0000032 100  NNU     85%                      N5 
+0000032 110  RT      now                      T1.1.2 Z4 
+0000032 111  ,       ,                        
+0000032 112  NULL    </quote>                 
+0000032 113  -----   -----                    
+0000032 120  NP1@    Altchek                  Z99 
+0000032 130  VVD     said                     Q2.1 
+0000032 140  MD      last                     T1.1.1[i41.2.1 N4 
+0000032 150  NNT1    month                    T1.1.1[i41.2.2 T1.3 
+0000032 160  IO      of                       Z5 
+0000032 170  AT      the                      Z5 
+0000032 180  NN2     Mets                     S3.1 M6 A1.1.1 A6.1+ 
+0000032 190  NN1     pitcher                  O2 K5.1/S2mf 
+0000032 200  PNQS    who                      Z8 
+0000032 210  VHD     had                      A9+ Z5 A2.2 S4 
+0000032 220  NP1     Tommy                    Z1mf[i42.2.1 Z3c[i42.2.1 Z1m 
+0000032 230  NP1     John                     Z1mf[i42.2.2 Z3c[i42.2.2 Z1m S9/O1.2 
+0000032 240  NN1     surgery                  B3 B3/H1 B3/H2 S8+/T1.3 
+0000032 250  MD      last                     T1.1.1[i44.2.1 N4 T1.3[i43.2.1 P1/S2mf[i43.2.1 
+0000032 260  NNT1    year                     T1.1.1[i44.2.2 T1.3 P1c T1.3[i43.2.2 P1/S2mf[i43.2.2 
+0000032 261  .       .                        
+0000032 262  NULL    <quote>                  
+0000032 263  -----   -----                    
+0000032 270  CS21    Even                     Z5[i45.2.1 
+0000032 280  CS22    though                   Z5[i45.2.2 Z5 
+0000032 290  APPGE   its                      Z8 
+0000032 300  APPGE   his                      Z8m 
+0000032 310  MD      first                    N4 
+0000032 320  NN1     couple                   N5+ S4c 
+0000032 330  NNT2    days                     T1.3 
+0000032 340  II      off                      Z5 E2- 
+0000032 350  AT      the                      Z5 
+0000032 360  NN1     mound                    W3 N5+ 
+0000032 361  ,       ,                        
+0000032 370  PPHS1   he                       Z8m 
+0000032 380  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000032 390  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
+0000032 400  TO      to                       Z5 
+0000032 410  VVI     bring                    M2 A2.2 
+0000032 420  PPH1    it                       Z8 
+0000032 421  ,       ,                        
+0000032 430  CC      and                      Z5 
+0000032 440  PPIS2   we                       Z8 
+0000032 450  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000032 451  XX      nt                       S9/Q4.1 Z3c 
+0000032 460  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
+0000032 470  PPHO1   him                      Z8m 
+0000032 480  TO      to                       Z5 
+0000032 490  VVI     bring                    M2 A2.2 
+0000032 500  PPH1    it                       Z8 
+0000032 501  .       .                        
+0000032 502  -----   -----                    
+0000032 510  CS      If                       Z7 
+0000032 520  PPIS2   we                       Z8 
+0000032 530  VHD     had                      A9+ Z5 A2.2 S4 
+0000032 540  AT1     an                       Z5 
+0000032 550  JJ      absolute                 A5.1+++ A1.7- 
+0000032 560  NN1     measure                  N3.1 F2 K2 
+0000032 570  IO      of                       Z5 
+0000032 580  PPHO1   him                      Z8m 
+0000032 581  ,       ,                        
+0000032 590  PPIS2   we                       Z8 
+0000032 600  VM      could                    A7+ 
+0000032 610  VVI     say                      Q2.1 Z4% 
+0000032 611  ...     ...                      
+0000032 620  VV0     dial                     Q1.3 
+0000032 630  PPH1    it                       Z8 
+0000032 640  RP      down                     Z5 M6 N4 N5-- E4.1- S7.1- N3.1 Q1.2 O1.1 L2 Z1mf F1/B1 A1.1.1 
+0000032 641  .       .                        
+0000032 642  NULL    </quote>                 
+0000036 001  NULL    **8;7;text               

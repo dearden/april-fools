@@ -1,0 +1,527 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     WASHINGTON               Z2 Z1mf 
+0000002 011  ,       ,                        
+0000002 020  NP1     D.C.                     Z2 Z3c 
+0000002 030  II21    According                Z5[i1.2.1 Z5 
+0000002 040  II22    to                       Z5[i1.2.2 Z5 
+0000002 050  AT1     a                        Z5 
+0000002 060  JJ      new                      T3- 
+0000002 070  NN1     report                   Q2.2 X3.2 
+0000002 080  VVN     scheduled                X7+/T1 
+0000002 090  IF      for                      Z5 
+0000002 100  JJ      public                   S5+ A10+ 
+0000002 110  NN1     release                  A1.7- A9- I2.2 K3 Q4 E6+ 
+0000002 120  DD1     this                     M6 Z5 Z8 
+0000002 130  NNT1    week                     T1.3 
+0000002 140  II      by                       Z5 
+0000002 150  AT      the                      Z5 
+0000002 160  NN1     Government               G1.1c 
+0000002 170  NN1     Accountability           S7.1+ A7+ 
+0000002 180  NN1     Office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000002 181  ,       ,                        
+0000002 190  NNB     President                G1.1/S7.1+/S2mf 
+0000002 200  NP1     Obamas                   Z99 
+0000002 210  NN1     bathroom                 B4/H2 
+0000002 220  NN2     breaks                   K1/T1.3 T2- O2 A1.4 A1.1.2 
+0000002 230  VM      may                      A7+ 
+0000002 240  VHI     have                     A9+ Z5 A2.2 S4 
+0000002 250  NN1     cost                     I1.3 
+0000002 260  NP1     U.S.                     Z8 
+0000002 270  NN2     taxpayers                I1.1/S2mf 
+0000002 280  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000002 290  RG      over                     N5.2+ A13.2 
+0000002 300  NNU     $4                       I1.2/Z99[i2.2.1 
+0000002 310  NNO     billion                  I1.2/Z99[i2.2.2 N1 I1 
+0000002 320  II      in                       Z5 
+0000002 330  MC      2015                     N1 T1.2 T3 T1.3 N3.2 
+0000002 331  .       .                        
+0000002 332  -----   -----                    
+0000002 340  NN      Data                     X2.2/X2.4 Q1.1 
+0000002 350  VVN     provided                 A9- S6+ 
+0000002 360  II      to                       Z5 
+0000002 370  AT      the                      Z5 
+0000002 380  NP1     GAO                      Z1 
+0000002 390  II      by                       Z5 
+0000002 400  AT      the                      Z5 
+0000002 410  NP1     Obama                    Z99 
+0000002 420  NN1     administration           S7.1+c A9- 
+0000002 430  VVZ     shows                    A10+ S1.1.1 
+0000002 440  CST     that                     Z8 Z5 
+0000002 450  II      on                       A6.2+[i3.2.1 Z5 
+0000002 460  NN1     average                  A6.2+[i3.2.2 A6.2+ A5.1 N2 
+0000002 461  ,       ,                        
+0000002 470  NNB     President                G1.1/S7.1+/S2mf 
+0000002 480  NP1     Barack                   Z1mf[i4.2.1 Z3c[i4.2.1 
+0000002 490  NP1     Obama                    Z1mf[i4.2.2 Z3c[i4.2.2 
+0000002 500  VVD     took                     A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000002 510  MC      3.5                      N1 T1.2 T3 T1.3 N3.2 
+0000002 520  NN1     bathroom                 B4/H2 
+0000002 530  VVZ     breaks                   A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000002 540  AT1     a                        Z5 
+0000002 550  NNT1    day                      T1.3 
+0000002 560  MD      last                     T1.1.1[i6.2.1 N4 T1.3[i5.2.1 P1/S2mf[i5.2.1 
+0000002 570  NNT1    year                     T1.1.1[i6.2.2 T1.3 P1c T1.3[i5.2.2 P1/S2mf[i5.2.2 
+0000002 571  ,       ,                        
+0000002 580  IW      with                     Z5 
+0000002 590  DD1     each                     N5.1+ 
+0000002 600  NN1     trip                     M1 F3% 
+0000002 610  II      to                       Z5 
+0000002 620  AT      the                      Z5 
+0000002 630  NN1     toilet                   B4/H5 B4/H1 
+0000002 640  VVG     lasting                  T2++ T1.3 
+0000002 650  MC      four                     N1 T3 T1.2 
+0000002 660  NNT2    minutes                  T1.3 Q1.2 
+0000002 670  CC      or                       Z5 
+0000002 680  RRR     less                     A13.6 
+0000002 681  .       .                        
+0000003 001  -----   -----                    
+0000004 010  II      By                       Z5 
+0000004 020  AT      the                      Z5 
+0000004 030  NP2     GAOs                     Z1 
+0000004 040  VV0     estimate                 X6/A7- N2/A7- 
+0000004 041  ,       ,                        
+0000004 050  AT      the                      Z5 
+0000004 060  NN1     commander-in-chief       S7.1+/S2mf G3/S7.1+/S2mf 
+0000004 070  VVD     spent                    I1.2 A1.5.1 T1.3 
+0000004 080  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000004 090  RG      over                     T3[i7.2.1 N5[i7.2.1 N5.2+ A13.2 
+0000004 100  MC      eighty-five              T3[i7.2.2 N5[i7.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000004 110  NNT2    hours                    T1.3 
+0000004 120  II      in                       Z5 
+0000004 130  AT      the                      Z5 
+0000004 140  NN1     bathroom                 B4/H2 
+0000004 150  II      in                       Z5 
+0000004 160  MC      2015                     N1 T1.2 T3 T1.3 N3.2 
+0000004 170  JJ      alone                    A14 S5- 
+0000004 171  .       .                        
+0000004 172  -----   -----                    
+0000004 180  AT      The                      Z5 
+0000004 190  NN1     question                 Q2.2 X4.1 
+0000004 200  II      on                       Z5 
+0000004 210  NN2     everyones                Z8/N5.1+ 
+0000004 220  VV0     mind                     E6+ E2- S8+ A1.3 
+0000004 230  RRQ     when                     Z5 
+0000004 240  PPHS2   they                     Z8mfn 
+0000004 250  VV0     look                     X3.4[i8.2.1 X2.4[i8.2.1 X2.1[i8.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000004 260  II      at                       X3.4[i8.2.2 X2.4[i8.2.2 X2.1[i8.2.2 Z5 
+0000004 270  AT1     a                        Z5 
+0000004 280  NN1     report                   Q2.2 X3.2 
+0000004 290  II      like                     Z5 
+0000004 300  DD1     this                     Z8 M6 Z5 
+0000004 310  VBZ     is                       A3+ Z5 
+0000004 311  ,       ,                        
+0000004 320  DDQ     What                     Z8 Z5 
+0000004 330  RR      exactly                  A4.2+ A5.3+ 
+0000004 340  VBZ     is                       Z5 A3+ 
+0000004 350  PPHS1   he                       Z8m 
+0000004 360  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000004 370  II      in                       Z5 
+0000004 380  RL      there                    M6 T1.2 
+0000004 381  ?       ?                        
+0000004 382  "@      '                        
+0000004 383  -----   -----                    
+0000004 390  VVD     Wondered                 X2.1 
+0000004 400  JJ@     Republican               G1.2 
+0000004 410  NN1     senator                  G1.2/S2mf 
+0000004 420  NP1     John                     Z1mf[i9.2.1 Z3c[i9.2.1 Z1m S9/O1.2 
+0000004 430  NP1     McCain                   Z1mf[i9.2.2 Z3c[i9.2.2 
+0000004 431  .       .                        
+0000004 432  -----   -----                    
+0000004 440  AT      The                      Z5 
+0000004 450  DA      former                   T2- N4 
+0000004 460  NN1     POW                      G3/S2mf 
+0000004 470  VVN     admitted                 Q2.2 B3 A1.8+ S7.4+/M1 
+0000004 480  II      to                       Z5 
+0000004 490  NN1     C-SPAN                   Z99 
+0000004 500  CST     that                     Z8 Z5 
+0000004 510  PPHS1   he                       Z8m 
+0000004 520  VVZ     goes                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000004 530  II      to                       Z5 
+0000004 540  AT      the                      Z5 
+0000004 550  NN1     bathroom                 B4/H2 
+0000004 560  RG      about                    A13.4 
+0000004 570  RR      once                     N6[i10.3.1 N6- T1.1.1 
+0000004 580  AT1     a                        N6[i10.3.2 Z5 
+0000004 590  NNT1    day                      N6[i10.3.3 T1.3 
+0000004 600  II      on                       Z5 
+0000004 610  AT1     a                        Z5 
+0000004 620  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000004 630  NNT1    day                      T1.3 
+0000004 631  .       .                        
+0000005 001  -----   -----                    
+0000006 010  RR21    Even                     Z5[i11.2.1 A13.1 
+0000006 020  RR22    so                       Z5[i11.2.2 Z5 A13.3 
+0000006 021  ,       ,                        
+0000006 030  AT      the                      Z5 
+0000006 040  NP1     Arizona                  Z2 Z3c 
+0000006 050  NN1     senator                  G1.2/S2mf 
+0000006 060  VVD     cited                    Q2.2 Q1.2 G2.1 
+0000006 070  AT1     a                        Z5 
+0000006 080  RR      particularly             A13.3 A14 
+0000006 090  JJ      disturbing               E6- 
+0000006 100  NN1     quote                    Q2.2 I1.3 
+0000006 110  II      from                     Z5 
+0000006 120  AT      the                      Z5 
+0000006 130  NN1     report                   Q2.2 X3.2 
+0000006 140  VVG     stating                  Q2.1 
+0000006 150  CST     that                     Z8 Z5 
+0000006 160  II      on                       Z5 
+0000006 170  NPM1    October                  T1.3[i12.2.1 T1.3 
+0000006 180  MD      23rd                     T1.3[i12.2.2 N4 T1.3 
+0000006 181  ,       ,                        
+0000006 190  AT      the                      Z5 
+0000006 200  NNT1    day                      T1.3 
+0000006 210  DA      former                   T2- N4 
+0000006 220  NN1     secretary                G1.1/S2mf[i13.3.1 I3.2/S2mf S7.1+/S2mf 
+0000006 230  IO      of                       G1.1/S2mf[i13.3.2 Z5 
+0000006 240  NN1     state                    G1.1/S2mf[i13.3.3 G1.1c O4.1 Z2[i14.2.1 Z3c[i14.2.1 Z1mf[i14.2.1 
+0000006 250  NP1     Hillary                  Z99 Z2[i14.2.2 Z3c[i14.2.2 Z1mf[i14.2.2 Z1mf[i15.2.1 Z3c[i15.2.1 
+0000006 260  NP1     Clinton                  Z1mf Z1mf[i15.2.2 Z3c[i15.2.2 
+0000006 270  VBDZ    was                      Z5 A3+ 
+0000006 280  VVN     scheduled                X7+/T1 
+0000006 290  TO      to                       Z5 
+0000006 300  VVI     testify                  G2.1 A5.2+ 
+0000006 310  II      before                   Z5 
+0000006 320  AT      the                      Z5 
+0000006 330  NN1     House                    H1 P1/S5+c G1.1c 
+0000006 340  JJ      Select                   X7+/A5.1+++ 
+0000006 350  NN1     Committee                S7.1+/S5+c 
+0000006 360  II      on                       Z5 
+0000006 370  NP1     Benghazi                 Z99 
+0000006 371  ,       ,                        
+0000006 380  NNB     President                G1.1/S7.1+/S2mf 
+0000006 390  NP1     Obama                    Z99 
+0000006 400  VVD     took                     A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000006 410  AT1     a                        Z5 
+0000006 420  NN1     record-breaking          Z99 
+0000006 430  MC      twenty-one               N1 T1.2 T3 T1.3 N3.2 
+0000006 440  JJ@     minute                   N3.2- 
+0000006 450  NN1     bathroom                 B4/H2 
+0000006 460  NN1     break                    K1/T1.3 T2- O2 A1.4 A1.1.2 
+0000006 461  .       .                        
+0000006 462  -----   -----                    
+0000006 470  PPIS1   I                        Z4[i16.2.1 Z8mf 
+0000006 480  VV0     think                    Z4[i16.2.2 X2.1 
+0000006 490  APPGE   its                      Z8 
+0000006 500  RG      very                     A13.3 
+0000006 510  JJ@     telling                  X9.2+ A10+ 
+0000006 511  ,       ,                        
+0000006 520  NNB     Senator                  G1.2/S2mf 
+0000006 530  NP1     McCain                   Z99 
+0000006 540  VVD     said                     Q2.1 
+0000006 541  .       .                        
+0000007 001  -----   -----                    
+0000008 010  AT      The                      Z5 
+0000008 020  JJ      average                  A6.2+ A5.1 N2 
+0000008 030  NN1     adult                    T3+/S2mf 
+0000008 040  NN1     male                     S2.2m 
+0000008 050  VVZ     uses                     A1.5.1 S7.1+ 
+0000008 060  AT      the                      Z5 
+0000008 070  NN1     restroom                 Z99 
+0000008 080  RL      anywhere                 M6 
+0000008 090  II      from                     Z5 
+0000008 100  MC      three                    N6+[i17.4.1 N1 T1.2 T3 N6+[i18.2.1 A13.3[i18.2.1 N6[i19.4.1 
+0000008 110  NNT2    times                    N6+[i17.4.2 T1 T1.2 T1.3 T1.1.2 N6 N1 N6+[i18.2.2 A13.3[i18.2.2 N6[i19.4.2 
+0000008 120  AT1     a                        N6+[i17.4.3 Z5 N6[i19.4.3 
+0000008 130  NNT1    day                      N6+[i17.4.4 T1.3 N6[i19.4.4 
+0000008 140  II      to                       Z5 
+0000008 150  RR      once                     N6- T1.1.1 
+0000008 160  AT1     every                    N6+[i20.3.1 N5.1+ 
+0000008 170  MC      three                    N6+[i20.3.2 N1 T1.2 T3 
+0000008 180  NNT2    days                     N6+[i20.3.3 T1.3 
+0000008 181  ,       ,                        
+0000008 190  VVD     said                     Q2.1 
+0000008 200  NNB     Dr.                      B3/S2mf P1/S2mf 
+0000008 210  NP1     Deepak                   Z1mf[i21.2.1 Z3c[i21.2.1 
+0000008 220  NP1     Gupta                    Z1mf[i21.2.2 Z3c[i21.2.2 
+0000008 221  ,       ,                        
+0000008 230  AT1     a                        Z5 
+0000008 240  JJ      senior                   S7.1++ T3++ 
+0000008 250  NN1     scatologist              Z99 
+0000008 260  II      at                       Z5 
+0000008 270  NP1     Johns                    Z1mf[i22.2.1 Z3c[i22.2.1 Z1m S9/O1.2 
+0000008 280  NP1     Hopkins                  Z1mf[i22.2.2 Z3c[i22.2.2 Z1mf 
+0000008 290  JJ      Medical                  B3 
+0000008 300  NN1     Center                   M6 H1c M7c G1.2c K5.1mfn 
+0000008 310  II      in                       Z5 
+0000008 320  NP1     Baltimore                Z2 
+0000008 321  .       .                        
+0000008 322  -----   -----                    
+0000008 330  RR      Ideally                  A5.1+++ X4.1 
+0000008 340  PPIS2   we                       Z8 
+0000008 350  VV0     see                      X2.4[i23.2.1 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000008 360  II      about                    X2.4[i23.2.2 Z5 
+0000008 370  MC1     one                      N1 T3 T1.2 
+0000008 380  NNU1    ounce                    N3.5 
+0000008 390  IO      of                       Z5 
+0000008 400  NN1     stool                    H5 B1% 
+0000008 410  II      per                      Z5 
+0000008 420  AT1     every                    N5.1+ 
+0000008 430  MC      twelve                   I1[i24.2.1 N3.5[i24.2.1 N1 T3 T1.2 
+0000008 440  NN2     pounds                   I1[i24.2.2 N3.5[i24.2.2 M7 
+0000008 450  IO      of                       Z5 
+0000008 460  NN1     body                     N3.5[i25.2.1 B1 O2 S5+c O4.1 S2mf 
+0000008 470  NN1     weight                   N3.5[i25.2.2 N3.5 A11.1 O2/K5.1 
+0000008 471  ,       ,                        
+0000008 480  NNB     Dr.                      B3/S2mf P1/S2mf 
+0000008 490  NP1     Gupta                    Z99 
+0000008 500  VVD     explained                Q2.2/A7+ A2.2 
+0000008 501  ,       ,                        
+0000008 510  VVG     continuing               T2++ 
+0000008 511  ,       ,                        
+0000008 520  IW      With                     Z5 
+0000008 530  DD1     that                     Z8 Z5 
+0000008 540  VVD     said                     Q2.1 
+0000008 541  ,       ,                        
+0000008 550  NNB     President                G1.1/S7.1+/S2mf 
+0000008 560  NP1     Obama                    Z99 
+0000008 570  PNQS    -who                     Z99 
+0000008 580  VVZ     weighs                   N3.5 X2.1 E6- A2.1+ 
+0000008 590  II      about                    Z5 
+0000008 600  MC1     one                      N1[i26.2.1 T1.3[i26.2.1 I1[i26.2.1 N1 T3 T1.2 
+0000008 610  NNO     hundred                  N1[i26.2.2 T1.3[i26.2.2 I1[i26.2.2 N1 
+0000008 620  MC      eighty                   I1[i27.2.1 N3.5[i27.2.1 N1 T3 
+0000008 630  NN2     pounds                   I1[i27.2.2 N3.5[i27.2.2 M7 
+0000008 631  ,       ,                        
+0000008 640  VM      should                   S6+ A7+ 
+0000008 650  VVI     produce                  A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000008 660  RG      about                    A13.4 
+0000008 670  MC      fifteen                  N1 T1.2 T3 T1.3 N3.2 
+0000008 680  NNU2    ounces                   N3.5 
+0000008 690  IO      of                       Z5 
+0000008 700  JJ      solid                    O1.1 O4.5 A5.1+ A5.3+ T2++ 
+0000008 710  JJ      fecal                    Z99 
+0000008 720  NN1     matter                   X4.1 O1 
+0000008 730  II      per                      Z5 
+0000008 740  NN1     bowel                    B1[i28.2.1 B1 
+0000008 750  NN1     movement                 B1[i28.2.2 M1 S5+c K2 A2.1+ 
+0000008 751  .       .                        
+0000009 001  -----   -----                    
+0000010 010  RR      However                  Z4 
+0000010 011  ,       ,                        
+0000010 020  NNB     Dr.                      B3/S2mf P1/S2mf 
+0000010 030  NP1     Gupta                    Z99 
+0000010 040  VVD     pointed                  A10+[i29.2.1 A10+ M6 H1 
+0000010 050  RP      out                      A10+[i29.2.2 M6 
+0000010 060  CST     that                     Z8 Z5 
+0000010 070  II21    due                      A2.2[i30.2.1 
+0000010 080  II22    to                       A2.2[i30.2.2 Z5 
+0000010 090  RR      unusually                A6.2- 
+0000010 100  JJ      high                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000010 110  NN2     levels                   N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 
+0000010 120  IO      of                       Z5 
+0000010 130  NN1     stress                   E6- A1.7+ Q3 A1.1.2 
+0000010 140  VVN     associated               A6.1+/X2.1 S3.1 
+0000010 150  IW      with                     Z5 
+0000010 160  AT      the                      Z5 
+0000010 170  NN1     job                      I3.1 A1.1.1 A12- 
+0000010 180  IO      of                       Z5 
+0000010 190  VVG     running                  M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000010 200  AT      the                      Z5 
+0000010 210  NN1     country                  G1.1c W3 F4/M7 K2 
+0000010 211  ,       ,                        
+0000010 220  NNB     President                G1.1/S7.1+/S2mf 
+0000010 230  NP1     Obama                    Z99 
+0000010 240  RR@     likely                   A7+ 
+0000010 250  VVZ     produces                 A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000010 260  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000010 270  RG      below                    Z5 M6 
+0000010 280  JJ      average                  A6.2+ A5.1 N2 
+0000010 290  NN2     stools                   H5 B1% 
+0000010 291  .       .                        
+0000010 292  -----   -----                    
+0000010 300  II      In                       Z5 
+0000010 310  DB      all                      N5.1+ 
+0000010 320  NN1     probability              A7 N1 
+0000010 321  ,       ,                        
+0000010 330  AT      the                      Z5 
+0000010 340  NN1     guy                      S2.2m O2 
+0000010 350  VBZ     is                       A3+ Z5 
+0000010 360  AT1     a                        Z5 
+0000010 370  NN1     stool                    H5 B1% 
+0000010 380  NN1     softener                 Z99/X5.2++mfn[i31.2.1 
+0000010 390  NN1     addict                   Z99/X5.2++mfn[i31.2.2 X5.2++/S2mf F3/S2mf 
+0000010 391  ,       ,                        
+0000010 400  NNB     Dr.                      B3/S2mf P1/S2mf 
+0000010 410  NP1     Gupta                    Z99 
+0000010 420  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000010 430  JJ      Real                     A3+ A5.2+ A5.4+ A13.3 
+0000010 440  NN1     News                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000010 450  RR      Right                    T1.1.2[i32.2.1 Z4 A5.3+ A4.2+ M6 A13.3 A13.2 
+0000010 460  RT      Now                      T1.1.2[i32.2.2 T1.1.2 Z4 
+0000010 461  .       .                        
+0000011 001  -----   -----                    
+0000012 010  II      Despite                  Z5 
+0000012 020  NNB     President                G1.1/S7.1+/S2mf 
+0000012 030  NP1     Obamas                   Z99 
+0000012 040  JJ      low                      N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1- 
+0000012 050  NN1     performance              K4 X9.2 A1.1.1 A12- 
+0000012 060  VVG     rating                   A5.1 
+0000012 070  II      in                       Z5 
+0000012 080  AT      the                      Z5 
+0000012 090  NN1     bathroom                 B4/H2 
+0000012 091  ,       ,                        
+0000012 100  AT      the                      Z5 
+0000012 110  NP1     GAO                      Z1 
+0000012 120  VVZ     estimates                X6/A7- N2/A7- 
+0000012 130  PPHS1   he                       Z8m 
+0000012 140  RR      still                    T2++ Z4 E3+ 
+0000012 150  VVZ     uses                     A1.5.1 S7.1+ 
+0000012 160  AT1     an                       Z5 
+0000012 170  JJ      above-average            A5.1+ A6.2+ 
+0000012 180  NN1     amount                   N5 
+0000012 190  IO      of                       Z5 
+0000012 200  NN1     toilet                   B4/H5 B4/H1 
+0000012 210  NN1     paper                    Q4.2c O1.1 Q1.2 P1/Q1.2 H5 
+0000012 220  CC      and                      Z5 
+0000012 230  CS      -if                      Z99 
+0000012 240  PPHS1   he                       Z8m 
+0000012 241  VBZ     s                        T1.3 I1.1 Z5 
+0000012 250  AT1     a                        Z5 
+0000012 260  NN1     courtesy                 S1.2.4+ 
+0000012 270  NN1     flusher                  Z99 
+0000012 271  ,       ,                        
+0000012 280  CSA     as                       Z5 
+0000012 290  NP1     White                    Z3c[i33.2.1 Z2[i33.2.1 Z1mf 
+0000012 300  NN1     House                    Z3c[i33.2.2 Z2[i33.2.2 H1 P1/S5+c G1.1c 
+0000012 310  NN1     Press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
+0000012 320  NN1     Secretary                I3.2/S2mf S7.1+/S2mf 
+0000012 330  NP1     Josh                     Z1m 
+0000012 340  JJ      Earnest                  A5.2+ 
+0000012 350  RR      once                     N6- T1.1.1 
+0000012 360  VVN     hinted                   Q2.2 
+0000012 361  ,       ,                        
+0000012 370  PPHS1   he                       Z8m 
+0000012 380  VVZ     uses                     A1.5.1 S7.1+ 
+0000012 390  RR21    at                       A13.7[i34.2.1 
+0000012 400  RR22    least                    A13.7[i34.2.2 A13.7 
+0000012 410  RR      twice                    N6 
+0000012 420  RG      as                       A13 
+0000012 430  DA1     much                     N5+ I1.3+ 
+0000012 440  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000012 450  II      per                      Z5 
+0000012 460  NN1     visit                    S1.1.1 M1 
+0000012 470  II      to                       Z5 
+0000012 480  AT      the                      Z5 
+0000012 490  NN2     mens                     S2.2/H2[i35.2.1 S2.2m 
+0000012 500  NN1     room                     S2.2/H2[i35.2.2 H2 N3.6 
+0000012 510  II      as                       Z5 
+0000012 520  AT      the                      Z5 
+0000012 530  JJ      average                  A6.2+ A5.1 N2 
+0000012 540  JJ      American                 Z2 
+0000012 541  .       .                        
+0000012 542  -----   -----                    
+0000012 550  DD1     This                     Z8 M6 Z5 
+0000012 551  ,       ,                        
+0000012 560  VVN     coupled                  N5+ 
+0000012 570  IW      with                     Z5 
+0000012 580  AT      the                      Z5 
+0000012 590  JJ      obvious                  A11.2+ 
+0000012 600  NN2     breaks                   K1/T1.3 T2- O2 A1.4 A1.1.2 
+0000012 610  II      in                       Z5 
+0000012 620  NN1     productivity             I2.1/N5+ 
+0000012 621  ,       ,                        
+0000012 630  VHZ     has                      Z5 A9+ A2.2 S4 
+0000012 640  VVN     cost                     I1.3 I1.2 
+0000012 650  NN2     taxpayers                I1.1/S2mf 
+0000012 660  AT1     a                        Z5 
+0000012 670  JJ      whopping                 N3.2++ E3- 
+0000012 680  NNU     $4.1                     I1.2/Z99[i36.2.1 
+0000012 690  NNO     billion                  I1.2/Z99[i36.2.2 N1 I1 
+0000012 691  .       .                        
+0000013 001  -----   -----                    
+0000014 010  DD1     This                     Z8 M6 Z5 
+0000014 020  VBZ     is                       A3+ Z5 
+0000014 030  RR      simply                   A13.6 A14 A12+ 
+0000014 040  JJ      unacceptable             X7- E2- 
+0000014 041  ,       ,                        
+0000014 050  NP1     Florida                  Z2 
+0000014 060  NN1     senator                  G1.2/S2mf 
+0000014 070  CC      and                      Z5 
+0000014 080  VV0     GOP                      Z99 
+0000014 090  JJ      presidential             G1.1/S7.1+ 
+0000014 100  NN1     candidate                G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
+0000014 110  NP1     Marco                    Z1mf[i37.2.1 Z3c[i37.2.1 Z1m 
+0000014 120  NP1     Rubio                    Z1mf[i37.2.2 Z3c[i37.2.2 
+0000014 130  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000014 140  JJ      Real                     A3+ A5.2+ A5.4+ A13.3 
+0000014 150  NN1     News                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000014 160  RR      Right                    T1.1.2[i38.2.1 Z4 A5.3+ A4.2+ M6 A13.3 A13.2 
+0000014 170  RT      Now                      T1.1.2[i38.2.2 T1.1.2 Z4 
+0000014 171  .       .                        
+0000014 172  -----   -----                    
+0000014 180  DD1     This                     Z8 M6 Z5 
+0000014 190  VBZ     is                       A3+ Z5 
+0000014 200  AT      the                      Z5 
+0000014 210  NN1     kind                     A4.1 
+0000014 220  IO      of                       Z5 
+0000014 230  JJ      imprudent                A1.3- S1.2.6- 
+0000014 240  JJ      overzealous              Z99 
+0000014 250  NN1     spending                 I1.2 A1.5.1 T1.3 
+0000014 260  CST     that                     Z8 Z5 
+0000014 270  PPIS1   I                        Z8mf 
+0000014 280  VV0     intend                   X7+ 
+0000014 290  TO      to                       Z5 
+0000014 300  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000014 310  JJ%     away                     M6 A1.1.1% 
+0000014 320  IW      with                     Z5 
+0000014 321  .       .                        
+0000014 322  -----   -----                    
+0000014 330  NNB     Senator                  G1.2/S2mf 
+0000014 340  NP1     Rubio                    Z99 
+0000014 350  VVD     said                     Q2.1 
+0000014 360  PPHS1   he                       Z8m 
+0000014 370  CC      and                      S2mf[i39.2.1 Z5 
+0000014 380  JJ      other                    S2mf[i39.2.2 A6.1- 
+0000014 390  NN1     Republican               G1.2/S2mf 
+0000014 400  NN2     congressmen              G1.2/S2.2m 
+0000014 410  NN1     -in                      Z99 
+0000014 420  AT1     an                       Z5 
+0000014 430  NN1     effort                   X8+ O2 
+0000014 440  TO      to                       Z5 
+0000014 450  VVI     save                     I1.1 B3 A9+ S8+ A1.9 K5.1 S9 
+0000014 460  NN2     taxpayers                I1.1/S2mf 
+0000014 470  AT1     a                        Z5 
+0000014 480  NN      buck                     I1 L2mn 
+0000014 490  CC      or                       Z5 
+0000014 500  MC      two                      N1 T3 T1.2 
+0000014 501  ,       ,                        
+0000014 510  RR      often                    N6+ 
+0000014 520  VV0     wear                     B5 A1.1.1 B2- S7.4+ 
+0000014 530  NN1     adult                    T3+/S2mf 
+0000014 540  VVZ     diapers                  Z99 
+0000014 550  CS      while                    Z5 
+0000014 560  II      on                       Z5 
+0000014 570  NP1     Capitol                  Z1mf[i41.2.1 Z3c[i41.2.1 Z2 Z2[i40.2.1 Z3c[i40.2.1 
+0000014 580  NP1     Hill                     Z1mf[i41.2.2 Z3c[i41.2.2 Z2[i40.2.2 Z3c[i40.2.2 
+0000014 581  .       .                        
+0000014 582  -----   -----                    
+0000014 590  APPGE   Its                      Z8 
+0000014 600  JJ      uncomfortable            O4.2- E1 
+0000014 610  CCB     but                      Z5 
+0000014 620  II      from                     Z5 
+0000014 630  AT1     a                        Z5 
+0000014 640  JJ      moral                    G2.2+ E1 
+0000014 650  NN1     standpoint               X2.1 X4.1 
+0000014 651  ,       ,                        
+0000014 660  APPGE   its                      Z8 
+0000014 670  AT      the                      Z5 
+0000014 680  JJ      right                    A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 
+0000014 690  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
+0000014 700  TO      to                       Z5 
+0000014 710  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000014 711  .       .                        
+0000014 712  -----   -----                    
+0000014 720  PPIS2   We                       Z8 
+0000014 730  RG@     as                       A13 
+0000014 740  JJ@     elected                  G1.2/X7+ 
+0000014 750  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000014 760  VV0     owe                      I1.2 S6+ 
+0000014 770  RG      that                     A13.3 A6.1+ 
+0000014 780  DA1     much                     N5+ I1.3+ 
+0000014 790  II      to                       Z5 
+0000014 800  APPGE   our                      Z8 
+0000014 810  NN2     constituents             G1.2/S2mf O1/A1.8+ 
+0000014 811  .       .                        
+0000016 001  NULL    **8;7;text               

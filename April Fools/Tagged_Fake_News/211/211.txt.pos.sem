@@ -1,0 +1,453 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     Kentucky                 Z2 
+0000002 020  NNA     Sen.                     B3/S2mf 
+0000002 030  NP1     Rand                     Z1mf[i1.2.1 Z3c[i1.2.1 
+0000002 040  NP1     Paul                     Z1mf[i1.2.2 Z3c[i1.2.2 Z1m 
+0000002 050  VVD     gave                     A9- A1.1.1 
+0000002 060  AT1     an                       Z5 
+0000002 070  NN1     indication               A10+ Q1.1 
+0000002 080  RT      today                    T1.1.2 
+0000002 090  IO      of                       Z5 
+0000002 100  AT      the                      Z5 
+0000002 110  NN1     trouble                  E6- A12- B2- E3- X8+ O4.2- 
+0000002 120  CST     that                     Z5 Z8 
+0000002 130  NNB     President-elect          G1.1/S7.1+/S2mf 
+0000002 140  NN1     Trump                    Z1mf 
+0000002 150  VM      may                      A7+ 
+0000002 160  VVI     face                     M6 S1.1.1 X2.1 B5 
+0000002 170  II      from                     Z5 
+0000002 180  APPGE   his                      Z8[i2.2.1 Z8m 
+0000002 190  DA      own                      Z8[i2.2.2 A9+ S5- 
+0000002 200  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000002 210  II      in                       Z5 
+0000002 220  VVG     trying                   X8+ X2.4 Q2.2 G2.1 A12- 
+0000002 230  TO      to                       Z5 
+0000002 240  VVI     fulfill                  X9.2+ 
+0000002 250  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000002 260  VVZ     promises                 S6+ A7+ 
+0000002 270  CST     that                     Z8 Z5 
+0000002 280  VV0     cost                     I1.3 I1.2 
+0000002 290  NN1     money                    I1 
+0000002 291  .       .                        
+0000003 001  -----   -----                    
+0000004 010  AT      The                      Z5 
+0000004 020  DA      former                   T2- N4 
+0000004 030  NN1     GOP                      Z99 
+0000004 040  JJ      presidential             G1.1/S7.1+ 
+0000004 050  NN1     candidate                G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
+0000004 060  VVD     said                     Q2.1 
+0000004 070  II      on                       Z5 
+0000004 080  NP1     ABC                      A12+ S5+ Q3 
+0000004 090  NN1     News                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000004 091  GE      '                        Z5 
+0000004 092  "       "                        
+0000004 100  DD1     This                     M6 Z5 Z8 
+0000004 110  NNT1    Week                     T1.3 
+0000004 111  "       "                        
+0000004 120  CST     that                     Z8 Z5 
+0000004 130  PPHS1   he                       Z8m 
+0000004 131  "       "                        
+0000004 140  VM      wo                       T1.1.3 
+0000004 141  XX      n't                      Z6 
+0000004 150  VVI     vote                     G1.2 
+0000004 160  IF      for                      Z5 
+0000004 170  AT1     a                        Z5 
+0000004 180  NN1     budget                   I1 G1.1/I1 I1.3- 
+0000004 190  CST     that                     Z8 Z5 
+0000004 200  RR      never                    T1/Z6 
+0000004 210  VVZ     balances                 O4.1/B1 A6.1+ A11.1 I1.1 
+0000004 211  "       "                        
+0000004 220  CC      and                      Z5 
+0000004 230  CST     that                     Z8 Z5 
+0000004 240  PPHS1   he                       Z8m 
+0000004 250  VBZ     is                       Z5 A3+ 
+0000004 260  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000004 270  TO      to                       Z5 
+0000004 280  VVI     find                     A10+ X2.1 X6+ 
+0000004 290  AT1     a                        Z5 
+0000004 300  DA2     few                      N5- 
+0000004 310  JJ      other                    A6.1- 
+0000004 320  JJ      conservative             G1.2 A6.2+ A1.3+ A9+ 
+0000004 330  NN1     GOP                      Z99 
+0000004 340  NN2     senators                 G1.2/S2mf 
+0000004 350  TO      to                       Z5 
+0000004 360  VVI     join                     A2.2 S5+ A1.8+ A1.1.1 
+0000004 370  PPHO1   him                      Z8m 
+0000004 371  .       .                        
+0000005 001  -----   -----                    
+0000006 001  "       "                        
+0000006 010  AT      The                      Z5 
+0000006 020  JJ      current                  T1.1.2 
+0000006 030  NN1     budget                   I1 G1.1/I1 I1.3- 
+0000006 040  CST     that                     Z5 Z8 
+0000006 050  AT      the                      Z5 
+0000006 060  NN2     Republicans              G1.2 G1.2/S2mf 
+0000006 070  VBR     are                      Z5 A3+ 
+0000006 080  VVG     looking                  X3.4[i3.2.1 X2.4[i3.2.1 X2.1[i3.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000006 090  II      at                       X3.4[i3.2.2 X2.4[i3.2.2 X2.1[i3.2.2 Z5 
+0000006 100  RR      never                    T1/Z6 
+0000006 110  VVZ     balances                 O4.1/B1 A6.1+ A11.1 I1.1 
+0000006 111  .       .                        
+0000006 112  -----   -----                    
+0000006 120  RRQ     How                      Z5 A13.3 
+0000006 130  VM      can                      A7+ 
+0000006 140  DD1     that                     Z8 Z5 
+0000006 150  VBI     be                       A3+ Z5 
+0000006 160  RR      fiscally                 Z99 
+0000006 170  JJ      responsible              A2.2 S6+ S7.1 S1.2.6+ X6+ 
+0000006 171  ?       ?                        
+0000006 172  -----   -----                    
+0000006 180  CC      And                      Z5 
+0000006 190  RRQ     how                      Z5 A13.3 
+0000006 200  VM      can                      A7+ 
+0000006 210  PPIS2   we                       Z8 
+0000006 220  VVI     look                     X3.4[i4.2.1 X2.4[i4.2.1 X2.1[i4.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000006 230  II      at                       X3.4[i4.2.2 X2.4[i4.2.2 X2.1[i4.2.2 Z5 
+0000006 240  AT      the                      Z5 
+0000006 250  NN1     public                   S5+ A10+ S5+c 
+0000006 260  IW      with                     E4.1-[i5.4.1 Z5 
+0000006 270  AT1     a                        E4.1-[i5.4.2 Z5 
+0000006 280  JJ      straight                 E4.1-[i5.4.3 O4.4 A5.2+ N4 A7+ A6.2+ S3.2 F2 
+0000006 290  NN1     face                     E4.1-[i5.4.4 B1 W3 O2 A8 S1.2.3+ 
+0000006 300  CC      and                      Z5 
+0000006 310  VV0     say                      Q2.1 Z4% 
+0000006 311  ,       ,                        
+0000006 320  UH      yes                      Z4 
+0000006 321  ,       ,                        
+0000006 330  PPIS2   we                       Z8 
+0000006 340  VVD     ran                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000006 350  II      on                       Z5 
+0000006 360  JJ      balanced                 A5.3+ A5.1+ E3+/S1.2.6+ O4.1 
+0000006 370  NN2     budgets                  I1 G1.1/I1 
+0000006 371  ,       ,                        
+0000006 380  PPIS2   we                       Z8 
+0000006 381  VBR     're                      A3+ Z5 
+0000006 390  IF      for                      Z5 
+0000006 400  AT      the                      Z5 
+0000006 410  JJ      balanced                 A5.3+ A5.1+ E3+/S1.2.6+ O4.1 
+0000006 420  NN1     budget                   I1 G1.1/I1 I1.3- 
+0000006 430  NN1     amendment                A2.1+ 
+0000006 431  ,       ,                        
+0000006 440  CC      and                      Z5 
+0000006 450  RR      yet                      T1.1.2 
+0000006 460  AT      the                      Z5 
+0000006 470  NN1     budget                   I1 G1.1/I1 I1.3- 
+0000006 480  PPIS2   we                       Z8 
+0000006 481  VBR     're                      Z5 A3+ 
+0000006 490  VVGK    going                    T1.1.3[i6.2.1 
+0000006 500  TO      to                       T1.1.3[i6.2.2 Z5 
+0000006 510  VVI     introduce                S1.1.1 T2+ 
+0000006 511  ,       ,                        
+0000006 520  CST     that                     Z8 Z5 
+0000006 530  PPIS2   we                       Z8 
+0000006 531  VBR     're                      Z5 A3+ 
+0000006 540  VVGK    going                    T1.1.3[i7.2.1 
+0000006 550  TO      to                       T1.1.3[i7.2.2 Z5 
+0000006 560  VVI     repeal                   T2- 
+0000006 570  NN1     Obamacare                Z99 
+0000006 580  IW      with                     Z5 
+0000006 590  RR      never                    T1/Z6 
+0000006 600  VVZ     balances                 O4.1/B1 A6.1+ A11.1 I1.1 
+0000006 601  ?       ?                        
+0000006 602  "       "                        
+0000006 603  -----   -----                    
+0000006 610  NP1     Paul                     Z1m 
+0000006 620  VVD     said                     Q2.1 
+0000006 621  .       .                        
+0000007 001  -----   -----                    
+0000008 010  VV0     Trump                    K5.2 
+0000008 020  DD1     this                     M6 Z5 Z8 
+0000008 030  NNT1    week                     T1.3 
+0000008 040  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000008 050  APPGE   his                      Z8m 
+0000008 060  NN1     promise                  S6+ A7+ X9.1+ 
+0000008 070  CST     that                     Z8 Z5 
+0000008 080  PPHS1   he                       Z8m 
+0000008 090  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
+0000008 100  AT1     a                        Z5 
+0000008 110  NNU1    trillion-dollar          Z99 
+0000008 120  NN1     infrastructure           I2.1/S8+ 
+0000008 130  NN1     program                  Y2 X7+ Q4.3 Q1.2 P1 
+0000008 140  CC      and                      Z5 
+0000008 150  PPHS1   he                       Z8m 
+0000008 160  VVD     promised                 S6+ A7+ 
+0000008 170  II      during                   Z5 
+0000008 180  AT      the                      Z5 
+0000008 190  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000008 200  TO      to                       Z5 
+0000008 210  VVI     repeal                   T2- 
+0000008 220  NN1     Obamacare                Z99 
+0000008 221  .       .                        
+0000009 001  -----   -----                    
+0000010 010  NP1     Paul                     Z1m 
+0000010 020  VVD     said                     Q2.1 
+0000010 030  CST     that                     Z8 Z5 
+0000010 040  IW      with                     Z5 
+0000010 050  AT      the                      Z5 
+0000010 060  NN1     help                     S8+ 
+0000010 070  IO      of                       Z5 
+0000010 080  JJ      other                    A6.1- 
+0000010 090  JJ      conservative             G1.2 A6.2+ A1.3+ A9+ 
+0000010 100  NN2     senators                 G1.2/S2mf 
+0000010 110  PPHS1   he                       Z8m 
+0000010 120  VM      might                    A7+ 
+0000010 130  VBI     be                       A3+ Z5 
+0000010 140  JK      able                     X9.1+ 
+0000010 150  TO      to                       Z5 
+0000010 160  VVI     block                    A10- S8- K4% 
+0000010 170  AT1     a                        Z5 
+0000010 180  NN1     budget                   I1 G1.1/I1 I1.3- 
+0000010 190  CST     that                     Z8 Z5 
+0000010 200  PPHS1   he                       Z8m 
+0000010 210  VVZ     considers                X2.1 X2.4 X6 
+0000010 220  JJ      irresponsible            S1.2.6- 
+0000010 221  .       .                        
+0000011 001  -----   -----                    
+0000012 001  "       "                        
+0000012 010  DB      All                      N5.1+ 
+0000012 020  PPH1    it                       Z8 
+0000012 030  VVZ     takes                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000012 040  VBZ     is                       A3+ Z5 
+0000012 050  AT1     a                        N5[i8.2.1 S4[i8.2.1 Z5 
+0000012 060  NN1     couple                   N5[i8.2.2 S4[i8.2.2 N5+ S4c 
+0000012 070  IO      of                       Z5 
+0000012 080  PPIO2   us                       Z8 
+0000012 081  .       .                        
+0000012 082  -----   -----                    
+0000012 090  CS      If                       Z7 
+0000012 100  EX      there                    Z5 
+0000012 110  VBR     are                      A3+ Z5 
+0000012 120  AT1     a                        Z5 
+0000012 130  DA2     few                      N5- 
+0000012 140  NN2     conservatives            G1.2/S2mf A2.1-/S2mf 
+0000012 150  II      in                       Z5 
+0000012 160  AT      the                      Z5 
+0000012 170  NN1     Senate                   S7.1+ 
+0000012 180  NN1     wing                     L2 M5 H2 S5+c K5.1/S2 M3 A10- 
+0000012 190  IO      of                       Z5 
+0000012 200  AT      the                      Z5 
+0000012 210  NN1     Republican               G1.2/S2mf 
+0000012 220  NN1     Party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000012 230  CST     that                     Z8 Z5 
+0000012 240  VM      will                     T1.1.3 
+0000012 250  VVI     say                      Q2.1 Z4% 
+0000012 260  UH      no                       Z4 
+0000012 270  II      to                       Z5 
+0000012 280  AT1     a                        Z5 
+0000012 290  NN1     budget                   I1 G1.1/I1 I1.3- 
+0000012 300  CST     that                     Z8 Z5 
+0000012 310  RR      never                    T1/Z6 
+0000012 320  VVZ     balances                 O4.1/B1 A6.1+ A11.1 I1.1 
+0000012 321  ,       ,                        
+0000012 330  PPIS2   we                       Z8 
+0000012 340  VM      could                    A7+ 
+0000012 350  VHI     have                     A9+ Z5 A2.2 S4 
+0000012 360  AT      the                      Z5 
+0000012 370  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000012 380  TO      to                       Z5 
+0000012 390  VVI     say                      Q2.1 Z4% 
+0000012 400  II      to                       Z5 
+0000012 410  AT      the                      Z5 
+0000012 420  NN1     leadership               S7.1+ 
+0000012 421  ,       ,                        
+0000012 430  PPY     you                      Z8mf 
+0000012 440  VV0     know                     X2.2+ S3.2/B1% 
+0000012 450  DDQ     what                     Z8 Z5 
+0000012 451  ,       ,                        
+0000012 460  PPIS2   we                       Z8 
+0000012 470  VV0     need                     S6+ 
+0000012 480  AT1     a                        Z5 
+0000012 490  JJR     better                   A5.1++ G2.2++ O4.2++ 
+0000012 500  NN1     budget                   I1 G1.1/I1 I1.3- 
+0000012 501  ,       ,                        
+0000012 502  "       "                        
+0000012 510  NP1     Paul                     Z1m 
+0000012 520  VVD     said                     Q2.1 
+0000012 521  .       .                        
+0000013 001  -----   -----                    
+0000014 001  "       "                        
+0000014 010  PPIS1   I                        Z8mf 
+0000014 020  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000014 021  XX      n't                      Z6 
+0000014 030  VVI     know                     X2.2+ S3.2/B1% 
+0000014 040  CSW@    if                       Z7 
+0000014 050  PPH1    it                       Z8 
+0000014 060  VM      will                     T1.1.3 
+0000014 070  VVI     happen                   A2.1+ A3+ X7- 
+0000014 071  ,       ,                        
+0000014 080  CCB     but                      Z5 
+0000014 090  PPIS1   I                        Z8mf 
+0000014 100  VV0     know                     X2.2+ S3.2/B1% 
+0000014 110  CST     that                     Z8 Z5 
+0000014 120  PPIS1   I                        Z8mf 
+0000014 130  VM      will                     T1.1.3 
+0000014 140  VBI     be                       A3+ Z5 
+0000014 150  PN1     one                      Z8 
+0000014 160  CST     that                     Z8 Z5 
+0000014 170  VM      wo                       T1.1.3 
+0000014 171  XX      n't                      Z6 
+0000014 180  VVI     vote                     G1.2 
+0000014 190  IF      for                      Z5 
+0000014 200  AT1     a                        Z5 
+0000014 210  NN1     budget                   I1 G1.1/I1 I1.3- 
+0000014 220  CST     that                     Z8 Z5 
+0000014 230  RR      never                    T1/Z6 
+0000014 240  VVZ     balances                 O4.1/B1 A6.1+ A11.1 I1.1 
+0000014 241  ,       ,                        
+0000014 242  "       "                        
+0000014 250  PPHS1   he                       Z8m 
+0000014 260  VVD     said                     Q2.1 
+0000014 261  .       .                        
+0000015 001  -----   -----                    
+0000016 010  NP1     Paul                     Z1m 
+0000016 020  RR      also                     N5++ 
+0000016 030  VVN     addressed                Q1.2 Q2.2 A1.1.1 
+0000016 040  NN2     reports                  Q2.2 X3.2 
+0000016 050  CST     that                     Z5 Z8 
+0000016 060  NP1     ExxonMobile              Z99 
+0000016 070  NN1     CEO                      S7.1+/S2mf 
+0000016 080  NP1     Rex                      Z1mf[i9.2.1 Z3c[i9.2.1 Z1m Z3mnc 
+0000016 090  NP1     Tillerson                Z1mf[i9.2.2 Z3c[i9.2.2 
+0000016 100  VHZ     has                      Z5 A9+ A2.2 S4 
+0000016 110  VVN     emerged                  M1 A10+ A1.1.1 
+0000016 120  II      as                       Z5 
+0000016 130  AT1     a                        Z5 
+0000016 140  JJ      likely                   A7+ A1.2+ 
+0000016 150  NN1@    pick                     X7+ A5.1+++ O2 
+0000016 160  IF      for                      Z5 
+0000016 170  NN1     secretary                G1.1/S2mf[i10.3.1 I3.2/S2mf S7.1+/S2mf 
+0000016 180  IO      of                       G1.1/S2mf[i10.3.2 Z5 
+0000016 190  NN1     state                    G1.1/S2mf[i10.3.3 G1.1c O4.1 
+0000016 191  ,       ,                        
+0000016 200  VVG     saying                   Q2.1 Z4% 
+0000016 210  CST     that                     Z8 Z5 
+0000016 220  PPHS1   he                       Z8m 
+0000016 230  VBZ     is                       A3+ Z5 
+0000016 231  "       "                        
+0000016 240  VVGK    going                    T1.1.3[i11.2.1 
+0000016 250  TO      to                       T1.1.3[i11.2.2 Z5 
+0000016 260  VVI     reserve                  A9+ 
+0000016 270  NN1     judgment                 X2.1 X6 G2.1 
+0000016 280  II      on                       Z5 
+0000016 290  NP1     Tillerson                Z99 
+0000016 291  .       .                        
+0000016 292  "       "                        
+0000017 001  -----   -----                    
+0000018 010  CCB     But                      Z5 
+0000018 020  AT      the                      Z5 
+0000018 030  NP1     Kentucky                 Z2 
+0000018 040  NN1     senator                  G1.2/S2mf 
+0000018 050  VHD     had                      A9+ Z5 A2.2 S4 
+0000018 060  JJ      strong                   S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+ 
+0000018 070  NN2     warnings                 X2.2+/A15- A1.3+ 
+0000018 080  II      about                    Z5 
+0000018 090  DA      former                   T2- N4 
+0000018 100  JJ      United                   Z3c[i12.2.1 Z3c 
+0000018 110  NN2     Nations                  Z3c[i12.2.2 
+0000018 120  NNB     Ambassador               G1.1/S2mf S1.1.1/S2mf 
+0000018 130  NP1     John                     Z1mf[i13.2.1 Z3c[i13.2.1 Z1m S9/O1.2 
+0000018 140  NP1     Bolton                   Z1mf[i13.2.2 Z3c[i13.2.2 Z2 Z1mf 
+0000018 141  ,       ,                        
+0000018 150  PNQS    who                      Z8 
+0000018 160  VBZ     is                       A3+ Z5 
+0000018 170  AT1     a                        Z5 
+0000018 180  JJ      possible                 A7+ 
+0000018 190  NN1     contender                S7.3+/S2mf 
+0000018 200  IF      for                      Z5 
+0000018 210  NN1     secretary                G1.1/S2mf[i14.3.1 I3.2/S2mf S7.1+/S2mf 
+0000018 220  IO      of                       G1.1/S2mf[i14.3.2 Z5 
+0000018 230  NN1     state                    G1.1/S2mf[i14.3.3 G1.1c O4.1 
+0000018 240  CC      or                       Z5 
+0000018 250  NN1     deputy                   S7.1-/S2mf 
+0000018 260  NN1     secretary                G1.1/S2mf[i15.3.1 I3.2/S2mf S7.1+/S2mf 
+0000018 270  IO      of                       G1.1/S2mf[i15.3.2 Z5 
+0000018 280  NN1     state                    G1.1/S2mf[i15.3.3 G1.1c O4.1 
+0000018 281  .       .                        
+0000019 001  -----   -----                    
+0000020 001  "       "                        
+0000020 010  PPIS1   I                        Z8mf 
+0000020 011  VM      'll                      T1.1.3 
+0000020 020  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000020 030  PN1     anything                 Z8 
+0000020 040  TO      to                       Z5 
+0000020 050  VVI     try                      X8+ X2.4 Q2.2 G2.1 A12- 
+0000020 060  TO      to                       Z5 
+0000020 070  VVI     prevent                  S8- 
+0000020 080  NP1     John                     Z1mf[i16.2.1 Z3c[i16.2.1 Z1m S9/O1.2 
+0000020 090  NP1     Bolton                   Z1mf[i16.2.2 Z3c[i16.2.2 Z2 Z1mf 
+0000020 100  II      from                     Z5 
+0000020 110  VVG     getting                  A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000020 120  DD      any                      N5.1+ N5 
+0000020 130  NN1     position                 M6 M7 S7.1 I3.1 N4 S1.1.1 A1.1.1 K5.1% 
+0000020 140  CS      because                  Z5/A2.2 
+0000020 150  PPIS1   I                        Z4[i17.2.1 Z8mf 
+0000020 160  VV0     think                    Z4[i17.2.2 X2.1 
+0000020 170  APPGE   his                      Z8m 
+0000020 180  NN1     world                    X4.1[i18.2.1 W1 S5+c A4.1 N5+ 
+0000020 190  NN1     view                     X4.1[i18.2.2 X4.1 X3.4 A4.1 X7+ 
+0000020 200  VBZ     is                       A3+ Z5 
+0000020 210  JJ      naive                    S1.2.6- 
+0000020 211  ,       ,                        
+0000020 212  "       "                        
+0000020 220  NP1     Paul                     Z1m 
+0000020 230  VVD     said                     Q2.1 
+0000020 231  .       .                        
+0000020 232  -----   -----                    
+0000020 233  "       "                        
+0000020 240  PPHS1   He                       Z8m 
+0000020 250  RR      still                    T2++ Z4 E3+ 
+0000020 260  VVZ     believes                 X2.1 S9% 
+0000020 270  II      in                       Z5 
+0000020 280  NN1     regime                   G1.1 S7.1+ B3 
+0000020 290  NN1     change                   A2.1+ I1 B1 
+0000020 291  .       .                        
+0000020 292  -----   -----                    
+0000020 300  PPHS1   He                       Z8m 
+0000020 301  VBZ     's                       A3+ Z5 
+0000020 310  RR      still                    T2++ Z4 E3+ 
+0000020 320  AT1     a                        Z5 
+0000020 330  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000020 340  NN1     cheerleader              Z99 
+0000020 350  IF      for                      Z5 
+0000020 360  AT      the                      Z5 
+0000020 370  NP1     Iraq                     Z2 Z3c 
+0000020 380  NN1     War                      G3 S7.3 
+0000020 381  .       .                        
+0000020 382  -----   -----                    
+0000020 390  PPHS1   He                       Z8m 
+0000020 391  VBZ     's                       Z5 A3+ 
+0000020 400  VVN     promoted                 S8+ I2.2/Q2.2 S7.1+/A2.1 
+0000020 410  AT1     a                        Z5 
+0000020 420  JJ      nuclear                  Y1 B1 S5+% 
+0000020 430  NN1     attack                   E3- G3 B2- A1.1.2 Q2.2 
+0000020 440  II      by                       Z5 
+0000020 450  NP1     Israel                   Z2[i20.3.1 Z2 Z2[i19.3.1 
+0000020 460  II      on                       Z2[i20.3.2 Z5 Z2[i19.3.2 
+0000020 470  NP1     Iran                     Z2[i20.3.3 Z2 Z3c Z2[i19.3.3 
+0000020 471  .       .                        
+0000020 472  -----   -----                    
+0000020 480  PPHS1   He                       Z8m 
+0000020 490  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
+0000020 500  TO      to                       Z5 
+0000020 510  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000020 520  NN1     regime                   G1.1 S7.1+ B3 
+0000020 530  NN1     change                   A2.1+ I1 B1 
+0000020 540  II      in                       Z5 
+0000020 550  NP1     Iran                     Z2 Z3c 
+0000020 551  .       .                        
+0000020 552  "       "                        
+0000021 001  -----   -----                    
+0000022 001  "       "                        
+0000022 010  NP1     John                     Z1mf[i21.2.1 Z3c[i21.2.1 Z1m S9/O1.2 
+0000022 020  NP1     Bolton                   Z1mf[i21.2.2 Z3c[i21.2.2 Z2 Z1mf 
+0000022 030  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000022 031  XX      n't                      Z6 
+0000022 040  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000022 050  PPH1    it                       Z8 
+0000022 051  ,       ,                        
+0000022 052  "       "                        
+0000022 060  NP1     Paul                     Z1m 
+0000022 070  VVD     said                     Q2.1 
+0000022 071  .       .                        
+0000024 001  NULL    **8;7;text               

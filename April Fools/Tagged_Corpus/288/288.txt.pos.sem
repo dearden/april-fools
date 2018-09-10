@@ -1,0 +1,609 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  AT      The                      Z5 
+0000002 020  NNO2    millions                 N1 N5+ I1 
+0000002 030  IO      of                       Z5 
+0000002 040  NNU2    tonnes                   N3.5 
+0000002 050  IO      of                       Z5 
+0000002 060  NN1     chicken                  L2mfn F1 E5-/S2mf 
+0000002 070  NN2     feathers                 L2 
+0000002 080  VVD     discarded                X7- T2- 
+0000002 090  DD1     each                     N6+[i1.2.1 N5.1+ 
+0000002 100  NNT1    year                     N6+[i1.2.2 T1.3 P1c 
+0000002 110  VM      could                    A7+ 
+0000002 120  VBI     be                       Z5 A3+ 
+0000002 130  VVN     used                     A1.5.1 S7.1+ 
+0000002 140  II      in                       Z5 
+0000002 150  NN2     plastics                 O1.1 
+0000002 151  ,       ,                        
+0000002 160  NN2     researchers              X2.4/S2mf 
+0000002 170  VV0     say                      Q2.1 Z4% 
+0000002 171  .       .                        
+0000003 001  -----   -----                    
+0000004 010  AT1     A                        Z5 
+0000004 020  NN1     study                    P1 X2.4 H2 Q1.2 C1 
+0000004 030  VVN     reported                 Q2.2 S7.1- 
+0000004 040  II      at                       Z5 
+0000004 050  AT      the                      Z5 
+0000004 060  JJ      American                 Z2 
+0000004 070  NN1     Chemical                 O1/S5+c[i2.2.1 O1 
+0000004 080  NN1     Society                  O1/S5+c[i2.2.2 S5+c 
+0000004 090  VVG     meeting                  S3.1 M6 A1.1.1 X9.2+ A6.1+ 
+0000004 100  II      in                       Z5 
+0000004 110  AT      the                      Z5 
+0000004 120  NP1     US                       Z8 
+0000004 130  VVZ     suggests                 Q2.2 Q1.1 
+0000004 140  NN2     feathers                 L2 
+0000004 150  VM      could                    A7+ 
+0000004 160  VVI     lead                     A2.2[i3.2.1 M6[i3.2.1 S7.1+ A2.2 M2 A1.1.1 
+0000004 170  II      to                       A2.2[i3.2.2 M6[i3.2.2 Z5 
+0000004 180  RGR     more                     A13.3 
+0000004 190  JJ      environment-friendly     Z99 
+0000004 191  ,       ,                        
+0000004 200  JJR     lighter                  W2 O4.3 N3.5-- N5-- N3.2-- A12++ X3.2-- F1 A11.1-- O4.2++ 
+0000004 210  NN2     plastics                 O1.1 
+0000004 211  .       .                        
+0000005 001  -----   -----                    
+0000006 010  AT      The                      Z5 
+0000006 020  JJ      chemical                 O1 
+0000006 030  NN1     recipe                   F1 X4.2 
+0000006 040  VVZ     requires                 X7+ S6+ 
+0000006 050  RR      significantly            A11.1+ 
+0000006 060  RGR     less                     A13.6 
+0000006 070  JJ      petroleum-derived        Z99 
+0000006 080  NN1     material                 O1 B5 O2 X2.2 S1.2 
+0000006 081  .       .                        
+0000007 001  -----   -----                    
+0000008 010  RR      However                  Z4 
+0000008 011  ,       ,                        
+0000008 020  NN2     tests                    P1 B3 X2.4 K5.1@ 
+0000008 030  II      on                       Z5 
+0000008 040  AT1     a                        Z5 
+0000008 050  JJR     grander                  O4.2+ A11.1+ A5.1+ N3.2+ S1.2.3+ 
+0000008 060  NN1     scale                    N3.2 N4 A4.1 K2 L2 O2 I1.1/I3.1 O1.1 N3.1 
+0000008 070  VM      will                     T1.1.3 
+0000008 080  VBI     be                       A3+ Z5 
+0000008 090  JJ      necessary                S6+ A11.1+ 
+0000008 100  TO      to                       Z5 
+0000008 110  VVI     establish                T2+ X6+ 
+0000008 120  AT      the                      Z5 
+0000008 130  NN1     idea                     X4.1 X7+ 
+0000008 131  GE      's                       Z5 
+0000008 140  JJ      industrial               I4 
+0000008 150  NN1     feasibility              A7 
+0000008 151  .       .                        
+0000009 001  -----   -----                    
+0000010 010  DA      Such                     Z5 Z8 
+0000010 011  NULL    <quote>                  
+0000010 012  -----   -----                    
+0000010 013  "       "                        
+0000010 020  VV0     biowaste                 Z99 
+0000010 021  "       "                        
+0000010 022  NULL    </quote>                 
+0000010 023  -----   -----                    
+0000010 030  NN2     materials                O1 B5 O2 
+0000010 040  VH0     have                     Z5 A9+ A2.2 S4 
+0000010 050  VBN     been                     Z5 A3+ 
+0000010 060  VVN     proposed                 Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
+0000010 070  CSA     as                       Z5 
+0000010 080  NN2     components               O2 N5.1- 
+0000010 090  IO      of                       Z5 
+0000010 100  NN1     plastic                  O1.1 
+0000010 110  NN2     formulations             G1.1/X7 Y1 N2 
+0000010 120  RT      before                   N4 
+0000010 121  .       .                        
+0000011 001  -----   -----                    
+0000012 010  NN2     Feathers                 L2 
+0000012 011  ,       ,                        
+0000012 020  II      like                     Z5 
+0000012 030  NN1     hair                     B1 
+0000012 040  CC      and                      Z5 
+0000012 050  NN2     fingernails              B1 
+0000012 051  ,       ,                        
+0000012 060  VBR     are                      Z5 A3+ 
+0000012 070  VVN     made                     A5.2-[i4.2.1 B4[i4.2.1 N5[i4.2.1 S3.1[i4.2.1 A1.8+[i4.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000012 080  RP      up                       A5.2-[i4.2.2 B4[i4.2.2 N5[i4.2.2 S3.1[i4.2.2 A1.8+[i4.2.2 
+0000012 090  RR      principally              A13.2 
+0000012 100  IO      of                       Z5 
+0000012 110  AT      the                      Z5 
+0000012 120  JJ      tough                    S1.2.5+ E3- O4.5 A12- Z4 
+0000012 130  CC      and                      Z5 
+0000012 140  RR      chemically               O1 
+0000012 150  JJ      stable                   A2.1- S1.2 O4.1 
+0000012 160  NN1     protein                  O1 
+0000012 170  NN1     keratin                  Z99 
+0000012 171  ,       ,                        
+0000012 180  CC      and                      Z5 
+0000012 190  VM      can                      A7+ 
+0000012 200  VVI     lend                     A9- 
+0000012 210  NN1     strength                 S1.2.5+ O4.1 S7.1+ X9.1+ N5 
+0000012 220  CS      while                    Z5 
+0000012 230  VVG     reducing                 N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000012 240  NN1     weight                   N3.5 A11.1 O2/K5.1 
+0000012 250  II      in                       Z5 
+0000012 260  AT      the                      Z5 
+0000012 270  NN2     mixtures                 O1.1 A6.3+ 
+0000012 280  IO      of                       Z5 
+0000012 290  NN2     plastics                 O1.1 
+0000012 300  NN2     chemicals                O1 
+0000012 310  VVN     known                    X2.2+ S3.2/B1% 
+0000012 320  II      as                       Z5 
+0000012 330  NN2     composites               O4.1 
+0000012 331  .       .                        
+0000013 001  -----   -----                    
+0000014 010  NN2     Researchers              X2.4/S2mf 
+0000014 020  II      at                       Z5 
+0000014 030  AT      the                      Z5 
+0000014 040  NP1     US                       Z8 
+0000014 050  JJ      agricultural             F4 
+0000014 060  NN1     authority                G1.1c S7.1+ S7.4+ X2.2+ 
+0000014 070  VH0     have                     Z5 A9+ A2.2 S4 
+0000014 080  RR      even                     A13.1 
+0000014 090  VVN     published                Q4 
+0000014 100  NN1     research                 X2.4 
+0000014 110  II      into                     Z5 
+0000014 120  AT      the                      Z5 
+0000014 130  NN1     possibility              A7+ 
+0000014 140  IO      of                       Z5 
+0000014 150  VVG     incorporating            A1.8+ S5+ 
+0000014 160  NN1     chicken                  L2mfn F1 E5-/S2mf 
+0000014 170  NN2     feathers                 L2 
+0000014 180  II      into                     Z5 
+0000014 190  NN2     plastics                 O1.1 
+0000014 191  ,       ,                        
+0000014 200  CSA     as                       Z5 
+0000014 210  AT1     an                       Z5 
+0000014 220  JJ      additive                 F1 F2 
+0000014 230  II      in                       Z5 
+0000014 240  NN2     composites               O4.1 
+0000014 250  CST     that                     Z8 Z5 
+0000014 260  VBR     are                      Z5 A3+ 
+0000014 270  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000014 280  RR      largely                  A13.2 
+0000014 290  IO      of                       Z5 
+0000014 300  AT1     a                        Z5 
+0000014 310  JJ      chemical                 O1 
+0000014 320  NN1     polymer                  O1 
+0000014 321  .       .                        
+0000015 001  -----   -----                    
+0000016 010  CCB     But                      Z5 
+0000016 020  AT      the                      Z5 
+0000016 030  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
+0000016 040  VVN     presented                A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4 
+0000016 050  II      by                       Z5 
+0000016 060  NP1     Yiqi                     Z1mf[i5.2.1 Z3c[i5.2.1 
+0000016 070  NP1     Yang                     Z1mf[i5.2.2 Z3c[i5.2.2 Z1 
+0000016 071  ,       ,                        
+0000016 080  II      from                     Z5 
+0000016 090  AT      the                      Z5 
+0000016 100  NN1     University               Z3c[i6.3.1 P1/H1c 
+0000016 110  IO      of                       Z3c[i6.3.2 Z5 
+0000016 120  NP1     Nebraska                 Z3c[i6.3.3 
+0000016 121  ,       ,                        
+0000016 130  NP1     Lincoln                  Z2 Z1mf 
+0000016 131  ,       ,                        
+0000016 140  VVZ     takes                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000016 150  DD1     this                     M6 Z5 Z8 
+0000016 160  NN1     idea                     X4.1 X7+ 
+0000016 170  RRR     further                  N5++ N3.3++ T2++ 
+0000016 180  CC      and                      Z5 
+0000016 190  VVZ     uses                     A1.5.1 S7.1+ 
+0000016 200  AT      the                      Z5 
+0000016 210  NN1     chicken                  L2mfn F1 E5-/S2mf 
+0000016 220  NN1     feather                  L2 
+0000016 230  NN2     fibres                   O1.1 O2 
+0000016 240  PPX2    themselves               Z8 
+0000016 250  II      as                       Z5 
+0000016 260  AT1     a                        Z5 
+0000016 270  JJ      principal                A11.1+++ 
+0000016 280  NN1     ingredient               A1.8+ 
+0000016 281  -       -                        
+0000016 290  VVG     making                   A5.2-[i7.2.1 B4[i7.2.1 N5[i7.2.1 S3.1[i7.2.1 A1.1.1[i7.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000016 300  RP      up                       A5.2-[i7.2.2 B4[i7.2.2 N5[i7.2.2 S3.1[i7.2.2 A1.1.1[i7.2.2 
+0000016 310  NNU     50%                      N5 
+0000016 320  IO      of                       Z5 
+0000016 330  AT      the                      Z5 
+0000016 340  NN1     mass                     N5+ N3.5 S9 S5+c B2- 
+0000016 350  IO      of                       Z5 
+0000016 360  AT      the                      Z5 
+0000016 370  JJ      composite                O4.1 
+0000016 371  .       .                        
+0000017 001  -----   -----                    
+0000018 010  II      As                       Z5 
+0000018 020  AT1     a                        Z5 
+0000018 030  NN1     result                   A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
+0000018 031  ,       ,                        
+0000018 040  AT      the                      Z5 
+0000018 050  NN2     plastics                 O1.1 
+0000018 060  VV0     require                  X7+ S6+ 
+0000018 070  DAR     less                     N5-- 
+0000018 080  IO      of                       Z5 
+0000018 090  AT      the                      Z5 
+0000018 100  NN2     materials                O1 B5 O2 
+0000018 110  II21    such                     Z5[i8.2.1 
+0000018 120  II22    as                       Z5[i8.2.2 Z5 
+0000018 130  NN1     polyethylene             Z99 
+0000018 140  CC      and                      Z5 
+0000018 150  NN1     polypropylene            O2 
+0000018 160  CST     that                     Z8 Z5 
+0000018 170  VBR     are                      Z5 A3+ 
+0000018 180  VVN     derived                  A2.2 Q3 
+0000018 190  II      from                     Z5 
+0000018 200  NN1     petroleum                O1.2 
+0000018 210  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000018 211  .       .                        
+0000019 001  -----   -----                    
+0000020 010  PPIS2   We                       Z8 
+0000020 020  VM      should                   S6+ A7+ 
+0000020 030  VVI     pursue                   A1.1.1 X8+ X2.4 M1 
+0000020 040  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000020 050  II      like                     Z5 
+0000020 060  DD2     these                    Z8 Z5 
+0000020 061  ,       ,                        
+0000020 070  VV0     try                      X8+ X2.4 Q2.2 G2.1 A12- 
+0000020 080  CC      and                      Z5 
+0000020 090  VV0     use                      A1.5.1 S7.1+ 
+0000020 100  NN2     biomaterials             Z99 
+0000020 101  -       -                        
+0000020 110  RR      certainly                A7+ 
+0000020 120  CS      if                       Z7 
+0000020 130  PPH1    it                       Z8 
+0000020 131  VBZ     's                       A3+ Z5 
+0000020 140  JJ@     waste                    N5.2+ O4.2- 
+0000020 150  RR      otherwise                A6.1- 
+0000020 151  -       -                        
+0000020 160  CC      and                      Z5 
+0000020 170  VV0     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000020 180  PN1     something                Z8 
+0000020 190  JJ      useful                   A1.5.2+ 
+0000021 010  NN1     Renko                    Z99 
+0000021 020  NN1     Akkerman                 Z99 
+0000021 021  ,       ,                        
+0000021 030  JJ      Thermoplastic            Z99 
+0000021 040  NN2     Composites               O4.1 
+0000021 050  VV0@    Research                 X2.4 
+0000021 060  NN1     Centre                   M6 H1c M7c G1.2c K5.1mfn 
+0000021 061  ,       ,                        
+0000021 070  NN1     University               Z3c[i9.3.1 P1/H1c 
+0000021 080  IO      of                       Z3c[i9.3.2 Z5 
+0000021 090  NP1     Twente                   Z3c[i9.3.3 
+0000023 001  NULL    <quote>                  
+0000023 002  -----   -----                    
+0000023 003  "       "                        
+0000023 004  (       &lsqb;                   
+0000023 010  RR      Prior                    N4/T1.1.1 
+0000023 011  )       &rsqb;                   
+0000023 020  NN1     technology               Y1 
+0000023 030  VVZ     uses                     A1.5.1 S7.1+ 
+0000023 040  NN1     keratin                  Z99 
+0000023 050  II      as                       Z5 
+0000023 060  AT1     an                       Z5 
+0000023 070  NN1     'additive'               Z99 
+0000023 080  II      to                       Z5 
+0000023 090  NN1     polyethylene             Z99 
+0000023 100  CC      and                      Z5 
+0000023 110  NN1     polypropylene            O2 
+0000023 111  .       .                        
+0000023 112  -----   -----                    
+0000023 120  APPGE   Our                      Z8 
+0000023 130  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
+0000023 140  VVZ     turns                    M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000023 150  NN2     feathers                 L2 
+0000023 160  II      into                     Z5 
+0000023 170  PN1     something                Z8 
+0000023 180  II      like                     Z5 
+0000023 190  NN1     polyethylene             Z99 
+0000023 200  CC      and                      Z5 
+0000023 210  NN1     polypropylene            O2 
+0000023 211  ,       ,                        
+0000023 212  "       "                        
+0000023 213  NULL    </quote>                 
+0000023 214  -----   -----                    
+0000023 220  NNB     Professor                P1/S2mf 
+0000023 230  NP1     Yang                     Z1 
+0000023 240  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000023 250  NP1     BBC                      Z3c 
+0000023 260  NN1     News                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000023 261  .       .                        
+0000025 001  NULL    <quote>                  
+0000025 002  -----   -----                    
+0000025 003  "       "                        
+0000025 010  CS      If                       Z7 
+0000025 020  VVN     used                     A1.5.1 S7.1+ 
+0000025 030  CSA     as                       Z5 
+0000025 040  JJ      composite                O4.1 
+0000025 050  NN2     materials                O1 B5 O2 
+0000025 051  ,       ,                        
+0000025 060  AT      no                       Z6 
+0000025 070  NN1     polyethylene             Z99 
+0000025 080  CC      or                       Z5 
+0000025 090  NN1     polypropylene            O2 
+0000025 100  VBR     are                      Z5 A3+ 
+0000025 110  VVN     needed                   S6+ 
+0000025 111  .       .                        
+0000025 112  -----   -----                    
+0000025 120  RR      Therefore                Z5 
+0000025 121  (       &lsqb;                   
+0000025 130  AT      the                      Z5 
+0000025 140  NN2     plastics                 O1.1 
+0000025 141  )       &rsqb;                   
+0000025 150  VM      will                     T1.1.3 
+0000025 160  VBI     be                       A3+ Z5 
+0000025 170  RGR     more                     A13.3 
+0000025 180  JJ      degradable               Z99 
+0000025 190  CC      and                      Z5 
+0000025 200  RGR     more                     A13.3 
+0000025 210  JJ      sustainable              T2++ 
+0000025 211  .       .                        
+0000025 212  "       "                        
+0000025 213  NULL    </quote>                 
+0000025 214  -----   -----                    
+0000027 010  NNB     Professor                P1/S2mf 
+0000027 020  NP1     Yang                     Z1 
+0000027 021  GE      's                       Z5 
+0000027 030  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000027 040  JJ      processed                O4.1 
+0000027 050  NN1     chicken                  L2mfn F1 E5-/S2mf 
+0000027 060  NN2     feathers                 L2 
+0000027 070  CC      and                      Z5 
+0000027 080  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000027 090  AT1     a                        Z5 
+0000027 100  NN1     chemical                 O1 
+0000027 110  VVN     known                    X2.2+ S3.2/B1% 
+0000027 120  II      as                       Z5 
+0000027 130  NN1     methyl                   O1 
+0000027 140  NN1     acrylate                 Z99 
+0000027 150  TO      to                       Z5 
+0000027 160  VVI     turn                     A2.1+[i10.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000027 170  PPHO2   them                     Z8mfn 
+0000027 180  II      into                     A2.1+[i10.2.2 Z5 
+0000027 190  AT1     a                        Z5 
+0000027 200  NN1     plastic                  O1.1 
+0000027 201  ,       ,                        
+0000027 210  II      from                     Z5 
+0000027 220  DDQ     which                    Z8 Z5 
+0000027 230  PPHS2   they                     Z8mfn 
+0000027 240  VVD     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000027 250  JJ      thin                     N3.7- B1 O4.5 N5- A5.1- X3.2% 
+0000027 260  NN2     films                    Q4.3 O2/C1 O1.1 O1.2 B3 
+0000027 261  .       .                        
+0000028 001  -----   -----                    
+0000029 010  DD2     These                    Z5 Z8 
+0000029 020  NN2     films                    Q4.3 O2/C1 O1.1 O1.2 B3 
+0000029 030  VBDR    were                     A3+ Z5 
+0000029 040  JJR     tougher                  S1.2.5+ E3- O4.5 A12- Z4 
+0000029 050  CSN     than                     Z5 
+0000029 060  JJ      comparable               A6.1+ 
+0000029 070  NN2     formulations             G1.1/X7 Y1 N2 
+0000029 080  VVG     using                    A1.5.1 S7.1+ 
+0000029 090  JJ      other                    A6.1- 
+0000029 100  NN1     biowaste                 Z99 
+0000029 110  NN2     materials                O1 B5 O2 
+0000029 111  ,       ,                        
+0000029 120  CC      and                      Z5 
+0000029 130  NNB     Professor                P1/S2mf 
+0000029 140  NP1     Yang                     Z1 
+0000029 150  VVD     said                     Q2.1 
+0000029 160  CST     that                     Z5 Z8 
+0000029 170  AT1     a                        Z5 
+0000029 180  JJ      crucial                  A11.1+ 
+0000029 190  NN1     advantage                A5.1+ K5.2 
+0000029 200  IO      of                       Z5 
+0000029 210  AT      the                      Z5 
+0000029 220  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000029 221  GE      's                       Z5 
+0000029 230  NN1     approach                 X4.2 M1 E1 S1.1.1 
+0000029 240  VBDZ    was                      A3+ Z5 
+0000029 250  CST     that                     Z5 Z8 
+0000029 260  APPGE   their                    Z8 
+0000029 270  NN2     plastics                 O1.1 
+0000029 280  VBR     are                      A3+ Z5 
+0000029 290  RR      much                     A13.3 N6+ 
+0000029 300  RGR     more                     A13.3 
+0000029 310  JJ      resistant                S8- O4.1 
+0000029 320  II      to                       Z5 
+0000029 330  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000029 331  .       .                        
+0000030 001  -----   -----                    
+0000031 010  NP1@    Renko                    Z1mf[i11.2.1 Z3c[i11.2.1 
+0000031 020  NP1     Akkerman                 Z1mf[i11.2.2 Z3c[i11.2.2 
+0000031 021  ,       ,                        
+0000031 030  JJ      technical                Y1 I4 X9.1 
+0000031 040  NN1     director                 S7.1+/S2mf K4/S2mf 
+0000031 050  IO      of                       Z5 
+0000031 060  AT      the                      Z5 
+0000031 070  JJ      Thermoplastic            Z99 
+0000031 080  JJ      Composite                O4.1 
+0000031 090  NN1     Research                 X2.4 
+0000031 100  NN1     Centre                   M6 H1c M7c G1.2c K5.1mfn 
+0000031 110  II      in                       Z5 
+0000031 120  AT      the                      Z5 
+0000031 130  NP1     Netherlands              Z2 Z3c 
+0000031 131  ,       ,                        
+0000031 140  VVD     said                     Q2.1 
+0000031 150  CST     that                     Z8 Z5 
+0000031 151  ,       ,                        
+0000031 160  II21    depending                A2.2[i12.2.1 
+0000031 170  II22    on                       A2.2[i12.2.2 Z5 
+0000031 180  AT      the                      Z5 
+0000031 190  NN1     application              Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000031 191  ,       ,                        
+0000031 200  JJ      feather-derived          Z99 
+0000031 210  NN2     composites               O4.1 
+0000031 220  VM      could                    A7+ 
+0000031 230  VBI     be                       A3+ Z5 
+0000031 240  AT1     a                        Z5 
+0000031 250  JJ      strong                   S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+ 
+0000031 260  NN1     addition                 N5++ N2 
+0000031 270  II      to                       Z5 
+0000031 280  AT      the                      Z5 
+0000031 290  NN1     palette                  O2/C1 O4.3 
+0000031 300  IO      of                       Z5 
+0000031 310  NN2     plastics                 O1.1 
+0000031 311  .       .                        
+0000033 001  NULL    <quote>                  
+0000033 002  -----   -----                    
+0000033 003  "       "                        
+0000033 010  RRQV    Whenever                 Z5 
+0000033 020  PPY     you                      Z8mf 
+0000033 030  VM      can                      A7+ 
+0000033 040  VVI     use                      A1.5.1 S7.1+ 
+0000033 050  NN1     waste                    N5.2+ 
+0000033 060  IF      for                      Z5 
+0000033 070  AT1     a                        Z5 
+0000033 080  JJ      functional               A1.5.2+ 
+0000033 090  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000033 091  ,       ,                        
+0000033 100  PPIS1   I                        Z4[i13.3.1 Z8mf 
+0000033 101  VM      'd                       Z4[i13.3.2 A7+ 
+0000033 110  VVI     say                      Z4[i13.3.3 Q2.1 Z4% 
+0000033 120  DD1     that                     Z8 Z5 
+0000033 121  VBZ     's                       A3+ Z5 
+0000033 130  AT1     a                        Z5 
+0000033 140  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000033 150  NN1     idea                     X4.1 X7+ 
+0000033 151  .       .                        
+0000033 152  -----   -----                    
+0000033 160  RR      So                       Z5 A13.3 
+0000033 170  VVG     using                    A1.5.1 S7.1+ 
+0000033 180  NN2     biomaterials             Z99 
+0000033 181  ,       ,                        
+0000033 190  CSW     whether                  Z5 
+0000033 200  PPH1    it                       Z8 
+0000033 201  VBZ     's                       A3+ Z5 
+0000033 210  IF      for                      Z5 
+0000033 220  NN1     commodity                O2 
+0000033 230  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000033 240  CC      or                       Z5 
+0000033 250  RR      even                     A13.1 
+0000033 260  JJ      structural               O4.1 S7.1 
+0000033 270  NN2     applications             Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000033 271  ,       ,                        
+0000033 280  DD1     that                     Z8 Z5 
+0000033 281  VBZ     's                       A3+ Z5 
+0000033 290  II      worth                    I1.3 A1.5.2+ S1.1.4+ N5 Z3 Z1mf Z2 
+0000033 300  VVG     pursuing                 A1.1.1 X8+ X2.4 M1 
+0000033 301  ,       ,                        
+0000033 302  "       "                        
+0000033 303  NULL    </quote>                 
+0000033 304  -----   -----                    
+0000033 310  PPHS1   he                       Z8m 
+0000033 320  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000033 330  NP1     BBC                      Z3c 
+0000033 340  NN1     News                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000033 341  .       .                        
+0000034 001  -----   -----                    
+0000035 010  RR      However                  Z4 
+0000035 011  ,       ,                        
+0000035 020  PPHS1   he                       Z8m 
+0000035 030  VVD     said                     Q2.1 
+0000035 040  CST     that                     Z5 Z8 
+0000035 050  RR      only                     A14 
+0000035 060  II      by                       Z5 
+0000035 070  VVG     making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000035 080  JJR     larger                   N3.2++ N5++ A11.1++ 
+0000035 090  NN2     amounts                  N5 
+0000035 100  IO      of                       Z5 
+0000035 110  AT      the                      Z5 
+0000035 120  JJ      composite                O4.1 
+0000035 121  -       -                        
+0000035 130  CC      and                      Z5 
+0000035 140  VVG     assessing                X2.4/A5 P1 I1.3 
+0000035 150  AT      the                      Z5 
+0000035 160  NN1     energy                   X5.2+ Y1 
+0000035 170  NN2     costs                    I1.3 
+0000035 180  IO      of                       Z5 
+0000035 190  NN1     production               A1.1.1 A10+ K4 K3 Q4.3 
+0000035 191  -       -                        
+0000035 200  VM      could                    A7+ 
+0000035 210  AT1     a                        Z5 
+0000035 220  JJ      full                     N5.1+ I3.2+ 
+0000035 230  NN1     assessment               X2.4/A5 P1 I1.3 
+0000035 240  IO      of                       Z5 
+0000035 250  AT      the                      Z5 
+0000035 260  NN1     idea                     X4.1 X7+ 
+0000035 270  VBI     be                       Z5 A3+ 
+0000035 280  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000035 281  .       .                        
+0000037 001  NULL    <quote>                  
+0000037 002  -----   -----                    
+0000037 003  "       "                        
+0000037 010  IF      For                      Z5 
+0000037 020  DD1     each                     N5.1+ 
+0000037 030  NN1     material                 O1 B5 O2 X2.2 S1.2 
+0000037 040  PPY     you                      Z8mf 
+0000037 050  VM      can                      A7+ 
+0000037 060  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000037 070  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000037 080  II      at                       Z5 
+0000037 090  AT1     a                        Z5 
+0000037 100  RG      very                     A13.3 
+0000037 110  JJ      minor                    A11.1- N3.2- 
+0000037 120  NN1     scale                    N3.2 N4 A4.1 K2 L2 O2 I1.1/I3.1 O1.1 N3.1 
+0000037 121  ,       ,                        
+0000037 130  CCB     but                      Z5 
+0000037 140  VVG     making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000037 150  AT      the                      Z5 
+0000037 160  NN1     transition               A2.1+ 
+0000037 170  II      to                       Z5 
+0000037 180  JJ      mass                     N5+ 
+0000037 190  NN1     production               A1.1.1 A10+ K4 K3 Q4.3 
+0000037 200  VBZ     is                       A3+ Z5 
+0000037 210  AT1     a                        Z5 
+0000037 220  JJ      large                    N3.2+ N5+ A11.1+ 
+0000037 230  PN1     one                      Z8 
+0000037 240  CC      and                      Z5 
+0000037 250  RR      only                     A14 
+0000037 260  RT      then                     N4 Z5 T1.2 
+0000037 270  VM      can                      A7+ 
+0000037 280  PPY     you                      Z8mf 
+0000037 290  RR      truly                    A5.2+ A5.4+ 
+0000037 300  VVI     grade                    A5.1 A4.1 
+0000037 310  AT      the                      Z5 
+0000037 320  NN1     performance              K4 X9.2 A1.1.1 A12- 
+0000037 330  II31    in                       Z5[i14.3.1 Z5 
+0000037 340  II32    terms                    Z5[i14.3.2 
+0000037 350  II33    of                       Z5[i14.3.3 
+0000037 360  NN1     economics                I1c 
+0000037 361  ,       ,                        
+0000037 370  NN1     carbon                   O1.1 Q1.2@ 
+0000037 380  NN1     footprint                O4.4 Q1.1 
+0000037 381  ,       ,                        
+0000037 390  RR31    and                      Z4[i15.3.1 
+0000037 400  RR32    so                       Z4[i15.3.2 Z5 A13.3 
+0000037 410  RR33    on                       Z4[i15.3.3 
+0000037 411  .       .                        
+0000038 001  NULL    </quote>                 
+0000039 001  NULL    <quote>                  
+0000039 002  -----   -----                    
+0000039 003  "       "                        
+0000039 010  II      Despite                  Z5 
+0000039 020  DB      all                      N5.1+ 
+0000039 030  CST     that                     Z8 Z5 
+0000039 040  PPIS2   we                       Z8 
+0000039 050  VM      should                   S6+ A7+ 
+0000039 060  VVI     pursue                   A1.1.1 X8+ X2.4 M1 
+0000039 070  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000039 080  II      like                     Z5 
+0000039 090  DD2     these                    Z8 Z5 
+0000039 091  ,       ,                        
+0000039 100  VV0     try                      X8+ X2.4 Q2.2 G2.1 A12- 
+0000039 110  CC      and                      Z5 
+0000039 120  VV0     use                      A1.5.1 S7.1+ 
+0000039 130  NN2     biomaterials             Z99 
+0000039 131  -       -                        
+0000039 140  RR      certainly                A7+ 
+0000039 150  CS      if                       Z7 
+0000039 160  PPH1    it                       Z8 
+0000039 161  VBZ     's                       A3+ Z5 
+0000039 170  JJ@     waste                    N5.2+ O4.2- 
+0000039 180  RR      otherwise                A6.1- 
+0000039 181  -       -                        
+0000039 190  CC      and                      Z5 
+0000039 200  VV0     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000039 210  PN1     something                Z8 
+0000039 220  JJ      useful                   A1.5.2+ 
+0000039 221  .       .                        
+0000039 222  "       "                        
+0000039 223  NULL    </quote>                 
+0000042 001  NULL    **8;7;text               

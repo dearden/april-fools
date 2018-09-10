@@ -1,0 +1,799 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NNB     Mr.                      Z1m[i2.2.1 S2.2m Z1m[i1.2.1 
+0000002 020  NP1     Taylor                   Z1m[i2.2.2 Z1mf Z1m[i1.2.2 
+0000002 030  VVD     betrayed                 G2.2- A10+ 
+0000002 040  AT      no                       Z6 
+0000002 050  NN1     emotion                  E1 
+0000002 060  II      as                       Z5 
+0000002 070  AT      the                      Z5 
+0000002 080  JJ      nine-page                Z99 
+0000002 090  NN1     indictment               Q2.2 G2.1 
+0000002 100  VBDZ    was                      Z5 A3+ 
+0000002 110  VVN     read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000002 120  II      to                       Z5 
+0000002 130  PPHO1   him                      Z8m 
+0000002 131  ,       ,                        
+0000002 140  VVG     detailing                Q2.2 
+0000002 150  AT      the                      Z5 
+0000002 160  NN2     charges                  I1.3 O3 G2.1 M1 G3% 
+0000002 161  ,       ,                        
+0000002 170  II      from                     Z5 
+0000002 180  VVG     terrorizing              Z99 
+0000002 190  NP1     Sierra                   Z2[i4.2.1 Z3 Z1mf[i3.2.1 Z3c[i3.2.1 
+0000002 200  NP1     Leone                    Z2[i4.2.2 Z1mf[i3.2.2 Z3c[i3.2.2 
+0000002 201  GE      's                       Z5 
+0000002 210  JJ      civilian                 G3- G2.1- 
+0000002 220  NN1     population               S2/N5c 
+0000002 221  ,       ,                        
+0000002 230  II      to                       Z5 
+0000002 240  JJ      sexual                   S3.2 
+0000002 250  NN1     violence                 E3- 
+0000002 260  CC      and                      Z5 
+0000002 270  AT      the                      Z5 
+0000002 280  NN1     recruitment              I3.1/A9+ 
+0000002 290  IO      of                       Z5 
+0000002 300  NN1     child                    S2mf/T3- S4mf 
+0000002 310  NN2     soldiers                 G3/S2mf 
+0000002 311  .       .                        
+0000003 001  -----   -----                    
+0000004 010  AT      The                      Z5 
+0000004 020  NN1     core                     O2 F1 A11.1+ Y2% 
+0000004 030  IO      of                       Z5 
+0000004 040  AT      the                      Z5 
+0000004 050  NN1     case                     A4.1 O2 G2.1 B3 X4.1 Q3 
+0000004 060  II      against                  Z5 
+0000004 070  NNB     Mr.                      Z1m[i5.2.1 S2.2m 
+0000004 080  NP1     Taylor                   Z1m[i5.2.2 Z1mf 
+0000004 090  VBZ     is                       A3+ Z5 
+0000004 100  CST     that                     Z8 Z5 
+0000004 110  PPHS1   he                       Z8m 
+0000004 120  VVD     aided                    S8+ 
+0000004 130  NN2     rebels                   G3/S2mf G1.2/A6.1-/S2mf A6.1-/S2mf 
+0000004 140  PNQS    who                      Z8 
+0000004 150  VVD     plunged                  M1 N5-/A2.1 S1.1.3+ 
+0000004 160  NP1     Sierra                   Z2[i7.2.1 Z3 Z1mf[i6.2.1 Z3c[i6.2.1 
+0000004 170  NP1     Leone                    Z2[i7.2.2 Z1mf[i6.2.2 Z3c[i6.2.2 
+0000004 171  ,       ,                        
+0000004 180  MC1     one                      N1 T3 T1.2 
+0000004 190  IO      of                       Z5 
+0000004 200  NP1     Africa                   Z2 
+0000004 201  GE      's                       Z5 
+0000004 210  JJT     richest                  I1.1+++ O4.1 N5+++ X5.2+++ E4.1+++ 
+0000004 220  NN2     countries                M7 
+0000004 230  II      at                       Z5 
+0000004 240  APPGE   its                      Z8 
+0000004 250  NN1     independence             S5- 
+0000004 260  II      in                       Z5 
+0000004 270  MC      1961                     N1 T1.2 T3 T1.3 N3.2 
+0000004 271  ,       ,                        
+0000004 280  II      into                     Z5 
+0000004 290  MC      10                       N1 T1.2 T3 T1.3 N3.2 
+0000004 300  NNT2    years                    T1.3 
+0000004 310  IO      of                       Z5 
+0000004 320  NN1     chaos                    A1.7- G2.1- Y1@ 
+0000004 330  CC      and                      Z5 
+0000004 340  NN1     killing                  L1- A12- A1.5.1 E4.1-/A2.2 
+0000004 350  CSA     as                       Z5 
+0000004 360  PPHS2   they                     Z8mfn 
+0000004 370  VVD     sought                   X2.4 
+0000004 380  NN1     control                  S7.1+ A1.7+ O2 
+0000004 390  IO      of                       Z5 
+0000004 400  JJ      lucrative                I1.1+ 
+0000004 410  NN1     diamond                  O1.1 O4.4 
+0000004 420  NN2     fields                   F4 W3 M7 K5.1/M7 G3@ A4.1 
+0000004 421  .       .                        
+0000005 001  -----   -----                    
+0000006 010  AT      The                      Z5 
+0000006 020  NN1     war                      G3 S7.3 
+0000006 021  ,       ,                        
+0000006 030  DDQ     which                    Z8 Z5 
+0000006 040  VVD     ended                    T2- 
+0000006 050  II      in                       Z5 
+0000006 060  MC      2002                     N1 T1.2 T3 T1.3 N3.2 
+0000006 061  ,       ,                        
+0000006 070  VVD     left                     M1 M2 A1.1.1 A1.9 A9- T2- 
+0000006 080  MC      50,000                   N1 T1.2 T3 T1.3 N3.2 
+0000006 090  JJ      dead                     L1- X5.2- A4.2+ A1.1.2 A1.1.1- E3+ B2- 
+0000006 100  CC      and                      Z5 
+0000006 110  NNO2    thousands                N1 N5+ I1 
+0000006 120  VVD@    maimed                   A1.1.2 
+0000006 130  II@     as                       Z5 
+0000006 140  DB2     both                     N5 
+0000006 150  NN2     rebels                   G3/S2mf G1.2/A6.1-/S2mf A6.1-/S2mf 
+0000006 160  CC      and                      Z5 
+0000006 170  AT1     a                        Z5 
+0000006 180  JJ      pro-government           Z99 
+0000006 190  NN      militia                  G3c 
+0000006 200  JJ      used                     A1.5.1 T3+ 
+0000006 210  NN1     torture                  E3- B2- E4.1--- 
+0000006 211  ,       ,                        
+0000006 220  NN1     rape                     G2.1-/S3.2 A1.1.2 
+0000006 230  CC      and                      Z5 
+0000006 240  NN2     amputations              B3 
+0000006 250  TO      to                       Z5 
+0000006 260  VVI     terrorize                Z99 
+0000006 270  NN2     civilians                G3-/S2mf G2.1-/S2mf 
+0000006 271  .       .                        
+0000006 272  -----   -----                    
+0000006 280  NNB     Mr.                      Z1m[i9.2.1 S2.2m Z1m[i8.2.1 
+0000006 290  NP1     Taylor                   Z1m[i9.2.2 Z1mf Z1m[i8.2.2 
+0000006 300  VVZ     joins                    A2.2 S5+ A1.8+ A1.1.1 
+0000006 310  MC      nine                     N1 T1.2 T3 T1.3 N3.2 
+0000006 320  JJ      other                    A6.1- 
+0000006 330  NN      people                   S2mfc 
+0000006 340  VVD     indicted                 G2.1 
+0000006 341  ;       ;                        
+0000006 350  APPGE   their                    Z8 
+0000006 360  NN2     trials                   G2.1 X2.4 E6- A12- K5.1 
+0000006 370  VBR     are                      A3+ Z5 
+0000006 380  RR21    under                    A1.1.1[i10.2.1 
+0000006 390  RR22    way                      A1.1.1[i10.2.2 A13.3 
+0000006 391  .       .                        
+0000007 001  -----   -----                    
+0000008 010  VVZ     Fears                    E5- 
+0000008 020  CST     that                     Z5 Z8 
+0000008 030  NNB     Mr.                      Z1m[i12.2.1 S2.2m Z1m[i11.2.1 
+0000008 040  NP1     Taylor                   Z1m[i12.2.2 Z1mf Z1m[i11.2.2 
+0000008 041  GE      's                       Z5 
+0000008 050  NN1     presence                 M6 A3+ S1.1.3+ S1.2 S9 
+0000008 060  II      in                       Z5 
+0000008 070  NP1     Sierra                   Z2[i14.2.1 Z3 Z1mf[i13.2.1 Z3c[i13.2.1 
+0000008 080  NP1     Leone                    Z2[i14.2.2 Z1mf[i13.2.2 Z3c[i13.2.2 
+0000008 081  ,       ,                        
+0000008 090  CS      where                    M6 
+0000008 100  AT      the                      Z5 
+0000008 110  MD      last                     N4 
+0000008 120  IO      of                       Z5 
+0000008 130  MC      17,500                   N1 T1.2 T3 T1.3 N3.2 
+0000008 140  JJ      United                   Z3c[i15.2.1 Z3c 
+0000008 150  NN2     Nations                  Z3c[i15.2.2 
+0000008 160  NN2     peacekeepers             E3+/S2mf G3/S2mf 
+0000008 170  VVD     left                     M1 M2 A1.1.1 A1.9 A9- T2- 
+0000008 180  MC      three                    T1.1.1[i16.3.1 N1 T1.2 T3 
+0000008 190  NNT2    months                   T1.1.1[i16.3.2 T1.3 T1.1.1[i17.2.1 
+0000008 200  RA      ago                      T1.1.1[i16.3.3 T1.1.1 T1.1.1[i17.2.2 
+0000008 201  ,       ,                        
+0000008 210  VM      could                    A7+ 
+0000008 220  VVI     destabilize              A2.1+ A1.1.2 
+0000008 230  AT      the                      Z5 
+0000008 240  JJ      entire                   N5.1+ 
+0000008 250  NN1     region                   M7 B1 
+0000008 260  VHZ     has                      Z5 A9+ A2.2 S4 
+0000008 270  VVN     led                      S7.1+ A2.2 M2 A1.1.1 
+0000008 280  AT      the                      Z5 
+0000008 290  NN1     court                    G2.1 H3 M7/K5.2 
+0000008 300  TO      to                       Z5 
+0000008 310  VVI     request                  Q2.2 Q2.1 
+0000008 320  NN1     transfer                 M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5 C1 
+0000008 330  IO      of                       Z5 
+0000008 340  AT      the                      Z5 
+0000008 350  NN1     trial                    G2.1 X2.4 E6- A12- K5.1 
+0000008 360  II      to                       Z5 
+0000008 370  AT1     a                        Z5 
+0000008 380  NN1     courtroom                G2.1/H2 
+0000008 390  II      at                       Z5 
+0000008 400  AT      The                      Z2[i18.2.1 Z5 
+0000008 410  NP1     Hague                    Z2[i18.2.2 Z2 Z1mf 
+0000008 411  .       .                        
+0000009 001  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  JJ      international            M7 
+0000010 030  NN1     community                S5+c 
+0000010 040  VVZ     seems                    A8 
+0000010 050  JJ      eager                    X5.2+ 
+0000010 060  TO      to                       Z5 
+0000010 070  VVI     honor                    Z99 
+0000010 080  AT      the                      Z5 
+0000010 090  NN1     request                  Q2.1 Q2.2 
+0000010 100  II      by                       Z5 
+0000010 110  NP1     Ellen                    Z1mf[i20.3.1 Z3c[i20.3.1 Z1f Z1mf[i19.2.1 Z3c[i19.2.1 
+0000010 120  NP1     Johnson                  Z1mf[i20.3.2 Z3c[i20.3.2 Z1mf Z1mf[i19.2.2 Z3c[i19.2.2 Z1mf[i21.2.1 Z3c[i21.2.1 
+0000010 130  NP1     Sirleaf                  Z3c[i20.3.3 Z1mf[i20.3.3 Z1mf[i21.2.2 Z3c[i21.2.2 
+0000010 131  ,       ,                        
+0000010 140  NP1     Liberia                  Z2 
+0000010 141  GE      's                       Z5 
+0000010 150  JJ      new                      T3- 
+0000010 160  NN1     president                G1.1/S7.1+/S2mf 
+0000010 161  ,       ,                        
+0000010 170  CST     that                     Z5 Z8 
+0000010 180  NNB     Mr.                      Z1m[i22.2.1 S2.2m 
+0000010 190  NP1     Taylor                   Z1m[i22.2.2 Z1mf 
+0000010 200  VBI     be                       Z5 A3+ 
+0000010 210  VVN     removed                  M2 
+0000010 220  II      from                     Z5 
+0000010 230  AT      the                      Z5 
+0000010 240  NN1     region                   M7 B1 
+0000010 241  .       .                        
+0000010 242  -----   -----                    
+0000010 250  AT1     A                        Z5 
+0000010 260  NN1     draft                    Q1.2 G3 Q1.2/I1 
+0000010 270  NN1     resolution               X6+ X9.2+ 
+0000010 280  VBZ     is                       Z5 A3+ 
+0000010 290  VBG     being                    Z5 A3+ 
+0000010 300  VVN     circulated               M2 M1 
+0000010 310  II      at                       Z5 
+0000010 320  AT      the                      Z5 
+0000010 330  NN1     Security                 G2.1 A15+ E6+ I1.1 
+0000010 340  NN1     Council                  G1.1c S7.1+/S5+c 
+0000010 350  TO      to                       Z5 
+0000010 360  VVI     authorize                S7.4+ 
+0000010 370  AT      the                      Z5 
+0000010 380  NN1     move                     M1 M2 A2.1+ H4/A2.1 K5.2 
+0000010 390  CC      and                      Z5 
+0000010 391  ,       ,                        
+0000010 400  VVG     assuming                 X2.1 A5.4-/A8 
+0000010 410  NN1     approval                 S7.4+ E2+ G1.1 
+0000010 420  II      from                     Z5 
+0000010 430  AT      the                      Z5 
+0000010 440  JJ      United                   Z3c[i23.2.1 Z3c 
+0000010 450  NN2     Nations                  Z3c[i23.2.2 
+0000010 460  CC      and                      Z5 
+0000010 470  AT      the                      Z5 
+0000010 480  JJ      Dutch                    Z2 Z2/Q3 Z2/S2mfnc 
+0000010 481  ,       ,                        
+0000010 490  AT      the                      Z5 
+0000010 500  NN1     transfer                 M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5 C1 
+0000010 510  VM      would                    A7+ 
+0000010 520  VBI     be                       A3+ Z5 
+0000010 530  AT1     a                        Z5 
+0000010 540  NN1     matter                   X4.1 O1 
+0000010 550  IO      of                       Z5 
+0000010 560  NN1     logistics                A1.1.1c 
+0000010 561  .       .                        
+0000011 001  -----   -----                    
+0000012 010  CCB     But                      Z5 
+0000012 020  IW      with                     Z5 
+0000012 030  AT      the                      Z5 
+0000012 040  NN1     court                    G2.1 H3 M7/K5.2 
+0000012 041  GE      's                       Z5 
+0000012 050  JJ      principal                A11.1+++ 
+0000012 060  NN1     defender                 S8+/S2mf G2.1/S2mf G3/S2mf O2 
+0000012 061  ,       ,                        
+0000012 070  NP1     Vincent                  Z1mf[i25.3.1 Z3c[i25.3.1 Z1mf Z1mf[i24.2.1 Z3c[i24.2.1 
+0000012 080  NP1     O.                       Z1mf[i25.3.2 Z3c[i25.3.2 Z1mf[i24.2.2 Z3c[i24.2.2 Z1mf[i26.2.1 Z3c[i26.2.1 
+0000012 090  NP1     Nmehielle                Z3c[i25.3.3 Z1mf[i25.3.3 Z1mf[i26.2.2 Z3c[i26.2.2 
+0000012 100  IO      of                       Z5 
+0000012 110  NP1     Nigeria                  Z2 
+0000012 111  ,       ,                        
+0000012 120  VVG     serving                  S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
+0000012 130  CSA     as                       Z5 
+0000012 140  APPGE   his                      Z8m 
+0000012 150  NN1     counsel                  G2.1/S2mf S8+/Q2.2 
+0000012 151  ,       ,                        
+0000012 160  NNB     Mr.                      Z1m[i27.2.1 S2.2m 
+0000012 170  NP1     Taylor                   Z1m[i27.2.2 Z1mf 
+0000012 180  VVD     indicated                A10+ M6 Q1.1/M3 
+0000012 190  CST     that                     Z8 Z5 
+0000012 200  PPHS1   he                       Z8m 
+0000012 210  VM      would                    A7+ 
+0000012 220  VVI     fight                    S8- X8+ E3- G1.2 
+0000012 230  DD      any                      N5.1+ N5 
+0000012 240  VV0     move                     M2 M1 A2.1+ E1 H4/A2.1 
+0000012 250  TO      to                       Z5 
+0000012 260  VVI     transfer                 M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5 
+0000012 270  AT      the                      Z5 
+0000012 280  NN1     trial                    G2.1 X2.4 E6- A12- K5.1 
+0000012 290  II      to                       Z5 
+0000012 300  AT      The                      Z2[i28.2.1 Z5 
+0000012 310  NP1     Hague                    Z2[i28.2.2 Z2 Z1mf 
+0000012 311  ,       ,                        
+0000012 320  VVG     insisting                S7.1+/Q2.2 
+0000012 330  CST     that                     Z8 Z5 
+0000012 340  PPHS1   he                       Z8m 
+0000012 350  VM      could                    A7+ 
+0000012 360  VVI     receive                  A9+ S5+ 
+0000012 370  AT1     a                        Z5 
+0000012 380  JJ      fair                     G2.2+ A5.1+ O4.2+ O4.3 W4 N5 
+0000012 390  NN1     trial                    G2.1 X2.4 E6- A12- K5.1 
+0000012 400  RR      only                     A14 
+0000012 410  II      in                       Z5 
+0000012 420  NP1     Sierra                   Z2[i30.2.1 Z3 Z1mf[i29.2.1 Z3c[i29.2.1 
+0000012 430  NP1     Leone                    Z2[i30.2.2 Z1mf[i29.2.2 Z3c[i29.2.2 
+0000012 431  .       .                        
+0000013 001  -----   -----                    
+0000014 010  RR      Even                     A13.1 
+0000014 020  DD      some                     N5 Z5 
+0000014 030  IO      of                       Z5 
+0000014 040  NNB     Mr.                      Z1m[i31.2.1 S2.2m 
+0000014 050  NP1     Taylor                   Z1m[i31.2.2 Z1mf 
+0000014 051  GE      's                       Z5 
+0000014 060  DA      former                   T2- N4 
+0000014 070  NN2     allies                   S5+ 
+0000014 080  VH0     have                     Z5 A9+ A2.2 S4 
+0000014 090  VVN     suggested                Q2.2 Q1.1 
+0000014 100  CST     that                     Z5 Z8 
+0000014 110  APPGE   his                      Z8m 
+0000014 120  NN1     presence                 M6 A3+ S1.1.3+ S1.2 S9 
+0000014 130  II      in                       Z5 
+0000014 140  NP1     Sierra                   Z2[i33.2.1 Z3 Z1mf[i32.2.1 Z3c[i32.2.1 
+0000014 150  NP1     Leone                    Z2[i33.2.2 Z1mf[i32.2.2 Z3c[i32.2.2 
+0000014 160  VM      could                    A7+ 
+0000014 170  VHI     have                     A9+ Z5 A2.2 S4 
+0000014 180  AT1     a                        Z5 
+0000014 190  JJ@     destabilizing            Z99 
+0000014 200  NN1     effect                   A2.2 A8 
+0000014 201  .       .                        
+0000015 001  -----   -----                    
+0000016 010  NN1     Advertisement            I2.2/Q2.1 X2.2+ A10+ 
+0000016 020  VV0     Continue                 T2++ 
+0000016 030  VVG     reading                  Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000016 040  AT      the                      Z5 
+0000016 050  JJ      main                     A11.1+ N5+++ 
+0000016 060  NN1     story                    Z2[i34.2.1 Z3c[i34.2.1 Z1mf[i34.2.1 Q2.1 X4.1 Q4 
+0000018 010  NP1     Jonathan                 Z2[i34.2.2 Z3c[i34.2.2 Z1mf[i34.2.2 Z1m Z1mf[i35.2.1 Z3c[i35.2.1 
+0000018 020  NP1     Kposowa                  Z99 Z1mf[i35.2.2 Z3c[i35.2.2 
+0000018 021  ,       ,                        
+0000018 030  AT      the                      Z5 
+0000018 040  NN1     secretary                S7.1+/S2mf[i36.2.1 I3.2/S2mf S7.1+/S2mf 
+0000018 050  JJ      general                  S7.1+/S2mf[i36.2.2 N5+ A4.2- 
+0000018 060  IO      of                       Z5 
+0000018 070  AT      the                      Z5 
+0000018 080  JJ      political                G1.2 
+0000018 090  NN1     wing                     L2 M5 H2 S5+c K5.1/S2 M3 A10- 
+0000018 100  IO      of                       Z5 
+0000018 110  AT      the                      Z5 
+0000018 120  JJ      Revolutionary            T3--- 
+0000018 130  JJ      United                   Z2[i37.2.1 Z3c 
+0000018 140  NN1     Front                    Z2[i37.2.2 M6 M7/W3 A4.1 A10- S1.2.3+ W4 
+0000018 141  ,       ,                        
+0000018 150  AT1     a                        Z5 
+0000018 160  NN1     group                    S5+c A4.1c B3% 
+0000018 170  RR      once                     N6- T1.1.1 
+0000018 180  VVN     allied                   S5+ 
+0000018 190  IW      with                     Z5 
+0000018 200  NNB     Mr.                      Z1m[i38.2.1 S2.2m 
+0000018 210  NP1     Taylor                   Z1m[i38.2.2 Z1mf 
+0000018 211  ,       ,                        
+0000018 220  VVD     said                     Q2.1 
+0000018 230  II      in                       Z5 
+0000018 240  AT1     an                       Z5 
+0000018 250  NN1     interview                Q2.1 
+0000018 260  DD1     that                     Z5 Z8 
+0000018 261  NULL    <quote>                  
+0000018 262  -----   -----                    
+0000018 263  "       "                        
+0000018 270  AT      the                      Z5 
+0000018 280  NN2     distances                N3.3+ S1.2.1- 
+0000018 290  VBR     are                      A3+ Z5 
+0000018 300  JJ      short                    T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
+0000018 301  "       "                        
+0000018 302  NULL    </quote>                 
+0000018 303  -----   -----                    
+0000018 310  II      between                  Z5 
+0000018 320  NP1     Liberia                  Z2 
+0000018 330  CC      and                      Z5 
+0000018 340  NP1     Sierra                   Z2[i40.2.1 Z3 Z1mf[i39.2.1 Z3c[i39.2.1 
+0000018 350  NP1     Leone                    Z2[i40.2.2 Z1mf[i39.2.2 Z3c[i39.2.2 
+0000018 351  ,       ,                        
+0000018 360  CC      and                      Z5 
+0000018 370  CST     that                     Z5 Z8 
+0000018 380  NNB     Mr.                      Z1m[i41.2.1 S2.2m 
+0000018 390  NP1     Taylor                   Z1m[i41.2.2 Z1mf 
+0000018 400  VBDZ    was                      A3+ Z5 
+0000018 410  RR      still                    T2++ Z4 E3+ 
+0000018 420  AT1     a                        Z5 
+0000018 430  JJ      popular                  E2+ S5+ 
+0000018 440  NN1     man                      S2.2m 
+0000018 450  II      in                       Z5 
+0000018 460  DD      some                     N5 Z5 
+0000018 470  NN2     pockets                  B5 O2 I1.1 M7/N3.2- 
+0000018 480  II      in                       Z5 
+0000018 490  NP1     Liberia                  Z2 
+0000018 491  .       .                        
+0000019 001  -----   -----                    
+0000020 010  NN1     Photo                    C1 
+0000022 010  VVD     Indicted                 G2.1 
+0000022 020  RR21    in                       Z5 O4.2+ M6 
+0000022 030  RR22    absentia                 Z99 
+0000022 040  II      in                       Z5 
+0000022 050  MC      2003                     N1 T1.2 T3 T1.3 N3.2 
+0000022 051  ,       ,                        
+0000022 060  NNB     Mr.                      Z1m[i42.2.1 S2.2m 
+0000022 070  NP1     Taylor                   Z1m[i42.2.2 Z1mf 
+0000022 080  VBDZ    was                      Z5 A3+ 
+0000022 090  RT      then                     N4 Z5 T1.2 
+0000022 100  VVN     offered                  A9- Q2.2 
+0000022 110  NN1     asylum                   G1.1 B3/H1c 
+0000022 120  II      in                       Z5 
+0000022 130  NP1     Nigeria                  Z2 
+0000022 140  II      under                    Z5 
+0000022 150  AT1     a                        Z5 
+0000022 160  NN1     peace                    E3+ 
+0000022 170  NN1     accord                   Q2.2 S7.1- 
+0000022 180  TO      to                       Z5 
+0000022 190  VVI     end                      T2- 
+0000022 200  NP1     Liberia                  Z2 
+0000022 201  GE      's                       Z5 
+0000022 210  MC      14                       N1 T1.2 T3 T1.3 N3.2 
+0000022 220  NNT2    years                    T1.3 
+0000022 230  IO      of                       Z5 
+0000022 240  AT1     a                        Z5 
+0000022 250  NN1     war                      G3 S7.3 
+0000022 260  CST     that                     Z8 Z5 
+0000022 270  VHD     had                      Z5 A9+ A2.2 S4 
+0000022 280  VVN     claimed                  Q2.2 A9+ 
+0000022 290  MC      250,000                  N1 T1.2 T3 T1.3 N3.2 
+0000022 300  NN2     lives                    L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000022 310  CC      and                      Z5 
+0000022 320  VVN     left                     M1 M2 A1.1.1 A1.9 A9- N5.2+ T2- 
+0000022 330  AT      the                      Z5 
+0000022 340  NN1     country                  G1.1c W3 F4/M7 K2 
+0000022 350  RR      little                   A13.7 
+0000022 360  DAR     more                     N5++ 
+0000022 370  CSN     than                     Z5 
+0000022 380  AT1     a                        Z5 
+0000022 390  NN1     shell                    L2 O2 G3 
+0000022 391  .       .                        
+0000023 001  -----   -----                    
+0000024 010  NNB     Mr.                      Z1m[i44.2.1 S2.2m Z1m[i43.2.1 
+0000024 020  NP1     Taylor                   Z1m[i44.2.2 Z1mf Z1m[i43.2.2 
+0000024 030  VBZ     is                       Z5 A3+ 
+0000024 040  VVN     believed                 X2.1 S9% 
+0000024 050  TO      to                       Z5 
+0000024 060  VHI     have                     A9+ Z5 A2.2 S4 
+0000024 070  JJ@     stolen                   G2.1-/A9+ 
+0000024 080  MC2     tens                     N1 
+0000024 090  IO      of                       Z5 
+0000024 100  NNO2    millions                 N1 N5+ I1 
+0000024 110  IO      of                       Z5 
+0000024 120  NNU2    dollars                  I1 
+0000024 130  II      in                       Z5 
+0000024 140  APPGE   his                      Z8m 
+0000024 150  NNT2    years                    T1.3 
+0000024 160  II      as                       Z5 
+0000024 170  AT1     a                        Z5 
+0000024 180  NN1     warlord                  G3/S7.1+/S2mf 
+0000024 190  CC      and                      Z5 
+0000024 200  NN1     president                G1.1/S7.1+/S2mf 
+0000024 210  IO      of                       Z5 
+0000024 220  NP1     Liberia                  Z2 
+0000024 221  ,       ,                        
+0000024 230  CCB     but                      Z5 
+0000024 240  VBZ     is                       Z5 A3+ 
+0000024 250  VVG     saying                   Q2.1 Z4% 
+0000024 260  PPHS1   he                       Z8m 
+0000024 270  VBZ     is                       A3+ Z5 
+0000024 280  JJ      indigent                 Z99 
+0000024 290  BCL21   in                       Z5[i45.3.1 Z5[i46.2.1 
+0000024 300  BCL22   order                    Z5[i45.3.2 Z5[i46.2.2 
+0000024 310  TO      to                       Z5[i45.3.3 Z5 
+0000024 320  VVI     receive                  A9+ S5+ 
+0000024 330  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000024 340  JJ      legal                    G2.1 G2.1+ 
+0000024 350  NN1     assistance               S8+ 
+0000024 351  .       .                        
+0000025 001  -----   -----                    
+0000026 010  NNB     Mr.                      Z1m[i48.2.1 S2.2m Z1m[i47.2.1 
+0000026 020  NP1     Taylor                   Z1m[i48.2.2 Z1mf Z1m[i47.2.2 
+0000026 021  GE      's                       Z5 
+0000026 030  NN1     appearance               A10+ O4.1 A3+ G2.1 K5 Q4 
+0000026 040  VVN     capped                   A1.1.1 A1.7+ K5.1 
+0000026 050  AT1     a                        Z5 
+0000026 060  JJ      dramatic                 K4 E1/N5.2+ N3.8++ 
+0000026 070  MC      nine                     N1 T1.2 T3 T1.3 N3.2 
+0000026 080  NNT2    days                     T1.3 
+0000026 090  CST     that                     Z8 Z5 
+0000026 100  VVD     began                    T2+ 
+0000026 110  IW      with                     Z5 
+0000026 120  NP1     Nigeria                  Z2 
+0000026 121  GE      's                       Z5 
+0000026 130  NN1     announcement             Q2.2 
+0000026 140  II      on                       Z5 
+0000026 150  NPM1    March                    T1.3[i49.2.1 T1.3 
+0000026 160  MC      25                       T1.3[i49.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000026 170  CST     that                     Z8 Z5 
+0000026 180  PPH1    it                       Z8 
+0000026 190  VM      would                    A7+ 
+0000026 200  VVI     honor                    Z99 
+0000026 210  AT      the                      Z5 
+0000026 220  NN1     request                  Q2.1 Q2.2 
+0000026 230  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000026 240  II      by                       Z5 
+0000026 250  NNB     Ms.                      S2.1f B2- 
+0000026 260  NP1     Johnson                  Z1mf[i50.2.1 Z3c[i50.2.1 Z1mf 
+0000026 270  NP1     Sirleaf                  Z1mf[i50.2.2 Z3c[i50.2.2 
+0000026 280  TO      to                       Z5 
+0000026 290  VVI     hand                     A9-[i51.2.1 A9- 
+0000026 300  PPHO1   him                      Z8m 
+0000026 310  RP      over                     A9-[i51.2.2 T2- M6 
+0000026 320  II      to                       Z5 
+0000026 330  JJ      international            M7 
+0000026 340  NN2     authorities              G1.1 S7.1+ S7.4+ X2.2+ 
+0000026 341  .       .                        
+0000027 001  -----   -----                    
+0000028 010  NN1     Newsletter               Q4.2 
+0000028 020  VV0     Sign                     Q2.2[i52.2.1 Q1.2 Q1.1 G2.1 I3.1 S9 
+0000028 030  RP      Up                       Q2.2[i52.2.2 
+0000028 040  VV0     Continue                 T2++ 
+0000028 050  VVG     reading                  Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000028 060  AT      the                      Z5 
+0000028 070  JJ      main                     A11.1+ N5+++ 
+0000028 080  NN1     story                    Q2.1 X4.1 Q4 
+0000028 090  RR      Please                   Z4 
+0000028 100  VV0     verify                   A5.2+ 
+0000028 110  PPY     you                      Z8mf 
+0000028 111  VBR     're                      A3+ Z5 
+0000028 120  XX      not                      Z6 
+0000028 130  AT1     a                        Z5 
+0000028 140  NN1     robot                    O3 
+0000028 150  II      by                       Z5 
+0000028 160  VVG     clicking                 X3.2 Y2 X2.5+ S1.2.1+ 
+0000028 170  AT      the                      Z5 
+0000028 180  NN1     box                      O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ 
+0000028 181  .       .                        
+0000028 182  -----   -----                    
+0000028 190  JJ      Invalid                  A5.2- B2- 
+0000028 200  NN1     email                    Q1.3/Y2 
+0000028 210  NN1     address                  H4 Q2.2 
+0000028 211  .       .                        
+0000028 212  -----   -----                    
+0000028 220  RR      Please                   Z4 
+0000028 230  VV0     re-enter                 Z99 
+0000028 231  .       .                        
+0000028 232  -----   -----                    
+0000028 240  PPY     You                      Z8mf 
+0000028 250  VM      must                     S6+ A7+ 
+0000028 260  VVI     select                   X7+ 
+0000028 270  AT1     a                        Z5 
+0000028 280  NN1     newsletter               Q4.2 
+0000028 290  TO      to                       Z5 
+0000028 300  VVI     subscribe                X2.1/A6.1+ Q4.2/I2.2 A9-/I1 I2.2/I1 
+0000028 310  II      to                       Z5 
+0000028 311  .       .                        
+0000028 312  -----   -----                    
+0000028 320  VV0     Sign                     Q2.2[i53.2.1 Q1.2 Q1.1 G2.1 I3.1 S9 
+0000028 330  RP      Up                       Q2.2[i53.2.2 
+0000028 340  PPY     You                      Z8mf 
+0000028 350  VV0     agree                    A6.1+ Q2.2 
+0000028 360  TO      to                       Z5 
+0000028 370  VVI     receive                  A9+ S5+ 
+0000028 380  JJ      occasional               N6- 
+0000028 390  NN2     updates                  T1.1.2/Q1.1 
+0000028 400  CC      and                      Z5 
+0000028 410  JJ      special                  I1.3-[i54.2.1 A4.2+ A6.2- 
+0000028 420  NN2     offers                   I1.3-[i54.2.2 A9- Q2.2 I1.3- 
+0000028 430  IF      for                      Z5 
+0000028 440  AT      The                      Z5 
+0000028 450  NP1     New                      Z3c[i58.3.1 Z1mf[i56.3.1 Z3c[i56.3.1 Z1mf[i55.2.1 Z3c[i55.2.1 Z2[i57.2.1 
+0000028 460  NP1     York                     Z3c[i58.3.2 Z2 Z1mf Z1mf[i56.3.2 Z3c[i56.3.2 Z1mf[i55.2.2 Z3c[i55.2.2 Z2[i57.2.2 Z1mf[i59.2.1 Z3c[i59.2.1 
+0000028 470  NNT2    Times                    Z3c[i58.3.3 Z3 Z3c[i56.3.3 Z1mf[i56.3.3 Z1mf[i59.2.2 Z3c[i59.2.2 
+0000028 471  GE      's                       Z5 
+0000028 480  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000028 490  CC      and                      Z5 
+0000028 500  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000028 501  .       .                        
+0000028 502  -----   -----                    
+0000028 510  VV0     Thank                    Z4[i60.2.1 S1.2.4+[i60.2.1 S1.2.4+ 
+0000028 520  PPY     you                      Z4[i60.2.2 S1.2.4+[i60.2.2 Z8mf 
+0000028 530  IF      for                      Z5 
+0000028 540  VVG     subscribing              X2.1/A6.1+ Q4.2/I2.2 A9-/I1 I2.2/I1 
+0000028 541  .       .                        
+0000028 542  -----   -----                    
+0000028 550  AT1     An                       Z5 
+0000028 560  NN1     error                    A5.3- 
+0000028 570  VHZ     has                      Z5 A9+ A2.2 S4 
+0000028 580  VVN     occurred                 A2.1+ A3+ X2.1 
+0000028 581  .       .                        
+0000028 582  -----   -----                    
+0000028 590  RR      Please                   Z4 
+0000028 600  VV0     try                      X8+ X2.4 Q2.2 G2.1 A12- 
+0000028 610  RT      again                    N6+ Z4 
+0000028 620  RRR     later                    T4-- T1.1.3 N4 
+0000028 621  .       .                        
+0000028 622  -----   -----                    
+0000028 630  VV0@    View                     X2.1 X3.4 X2.4 
+0000028 640  DB      all                      N5.1+ 
+0000028 650  NP1     New                      Z3c[i64.3.1 Z1mf[i62.3.1 Z3c[i62.3.1 Z1mf[i61.2.1 Z3c[i61.2.1 Z2[i63.2.1 
+0000028 660  NP1     York                     Z3c[i64.3.2 Z2 Z1mf Z1mf[i62.3.2 Z3c[i62.3.2 Z1mf[i61.2.2 Z3c[i61.2.2 Z2[i63.2.2 Z1mf[i65.2.1 Z3c[i65.2.1 
+0000028 670  NNT2    Times                    Z3c[i64.3.3 Z3 Z3c[i62.3.3 Z1mf[i62.3.3 Z1mf[i65.2.2 Z3c[i65.2.2 
+0000028 680  NN2     newsletters              Q4.2 
+0000028 681  .       .                        
+0000029 001  -----   -----                    
+0000030 010  CCB     But                      Z5 
+0000030 020  NNB     Mr.                      Z1m[i67.2.1 S2.2m Z1m[i66.2.1 
+0000030 030  NP1     Taylor                   Z1m[i67.2.2 Z1mf Z1m[i66.2.2 
+0000030 040  VVD     fled                     M1 
+0000030 050  APPGE   his                      Z8m 
+0000030 060  JJ      plush                    O4.2+ 
+0000030 070  NN1     villa                    H1 
+0000030 080  II      in                       Z5 
+0000030 090  NP1     Calabar                  Z99 
+0000030 091  ,       ,                        
+0000030 100  CC      and                      Z5 
+0000030 110  NN2     recriminations           E3- 
+0000030 120  VVD     flew                     M5 M1 N3.8+ E3- 
+0000030 130  II      across                   Z5 
+0000030 140  AT      the                      Z5 
+0000030 150  NP1     Atlantic                 Z2 
+0000030 151  ,       ,                        
+0000030 160  IW      with                     Z5 
+0000030 170  DD      some                     N5 Z5 
+0000030 180  NN2     critics                  Q2.2/S2mf 
+0000030 190  VVG     accusing                 Q2.2 G2.1 
+0000030 200  AT      the                      Z5 
+0000030 210  JJ      Nigerian                 Z2 
+0000030 220  NN1     president                G1.1/S7.1+/S2mf 
+0000030 221  ,       ,                        
+0000030 230  NP1     Olusegun                 Z1mf[i68.2.1 Z3c[i68.2.1 
+0000030 240  NP1     Obasanjo                 Z1mf[i68.2.2 Z3c[i68.2.2 
+0000030 241  ,       ,                        
+0000030 250  IO      of                       Z5 
+0000030 260  VVG     facilitating             S8+ 
+0000030 270  NNB     Mr.                      Z1m[i69.2.1 S2.2m 
+0000030 280  NP1     Taylor                   Z1m[i69.2.2 Z1mf 
+0000030 281  GE      's                       Z5 
+0000030 290  NN1     escape                   A1.7- O2 
+0000030 291  .       .                        
+0000031 001  -----   -----                    
+0000032 010  NP1     K.                       Z1mf[i71.3.1 Z3c[i71.3.1 Z1mf[i70.2.1 Z3c[i70.2.1 
+0000032 020  NP1     A.                       Z1mf[i71.3.2 Z3c[i71.3.2 Z1mf[i70.2.2 Z3c[i70.2.2 Z1mf[i72.2.1 Z3c[i72.2.1 
+0000032 030  NP1     Paul                     Z3c[i71.3.3 Z1mf[i71.3.3 Z1m Z1mf[i72.2.2 Z3c[i72.2.2 
+0000032 031  ,       ,                        
+0000032 040  AT      the                      Z5 
+0000032 050  JJ      Indian-born              Z99 
+0000032 060  NN1     evangelist               S9/S2mf 
+0000032 070  PNQS    who                      Z8 
+0000032 080  VBZ     is                       A3+ Z5 
+0000032 090  NNB     Mr.                      Z1m[i73.2.1 S2.2m 
+0000032 100  NP1     Taylor                   Z1m[i73.2.2 Z1mf 
+0000032 101  GE      's                       Z5 
+0000032 110  JJ      spiritual                S9 X1 
+0000032 120  NN1     adviser                  S8+/S2mf 
+0000032 121  ,       ,                        
+0000032 130  VVD     said                     Q2.1 
+0000032 140  CST     that                     Z5 Z8 
+0000032 150  NNB     Mr.                      Z1m[i74.2.1 S2.2m 
+0000032 160  NP1     Taylor                   Z1m[i74.2.2 Z1mf 
+0000032 170  VHD     had                      Z5 A9+ A2.2 S4 
+0000032 180  VVN     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000032 190  PPHO1   him                      Z8m 
+0000032 200  II      in                       Z5 
+0000032 210  AT1     a                        Z5 
+0000032 220  NN1     telephone                Q1.3 
+0000032 230  NN1     conversation             Q2.1 
+0000032 240  II      from                     Z5 
+0000032 250  APPGE   his                      Z8m 
+0000032 260  NN1     jail                     G2.1/H1 
+0000032 270  NN1     cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000032 280  RL      here                     M6 T1.1.2 T1.2 
+0000032 290  CST     that                     Z8 Z5 
+0000032 300  PPHS1   he                       Z8m 
+0000032 310  VHD     had                      Z5 A9+ A2.2 S4 
+0000032 320  VVN     tried                    X8+ X2.4 Q2.2 G2.1 A12- 
+0000032 330  TO      to                       Z5 
+0000032 340  VVI     flee                     M1 
+0000032 350  NP1     Nigeria                  Z2 
+0000032 360  CS      because                  Z5/A2.2 
+0000032 370  JJ      Nigerian                 Z2 
+0000032 380  NN1     state                    G1.1c O4.1 
+0000032 390  NN1     security                 G2.1 A15+ E6+ I1.1 
+0000032 400  NN2     agents                   I2.1/S2mf G3/S2mf K4/S2mf 
+0000032 410  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000032 420  PPHO1   him                      Z8m 
+0000032 430  TO      to                       Z5 
+0000032 440  VVI     leave                    M1 M2 A1.1.1 A1.9 A9- T2- 
+0000032 441  ,       ,                        
+0000032 450  CC      and                      Z5 
+0000032 460  CST     that                     Z8 Z5 
+0000032 470  PPHS1   he                       Z8m 
+0000032 480  VBDZ    was                      Z5 A3+ 
+0000032 490  VVN     escorted                 S3.1 
+0000032 500  II      to                       Z5 
+0000032 510  AT1     a                        Z5 
+0000032 520  NN1     spot                     O4.4 O2 B2- M7 N5- Q4.3 
+0000032 530  II      in                       Z5 
+0000032 540  JJ      northeastern             Z2[i75.2.1 M6 
+0000032 550  NP1     Nigeria                  Z2[i75.2.2 Z2 
+0000032 560  II      near                     Z5 
+0000032 570  AT      the                      Z5 
+0000032 580  NN1     border                   M7/G1.1 O2 B5 L3/H3 
+0000032 590  IW      with                     Z5 
+0000032 600  NP1     Cameroon                 Z2 
+0000032 610  II      by                       Z5 
+0000032 620  NN1     government               G1.1c 
+0000032 630  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000032 631  .       .                        
+0000034 001  NULL    <quote>                  
+0000034 002  -----   -----                    
+0000034 003  "       "                        
+0000034 010  PPHS2   They                     Z8mfn 
+0000034 020  VVD     took                     A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000034 030  PPHO1   him                      Z8m 
+0000034 040  CC      and                      Z5 
+0000034 050  PPHS2   they                     Z8mfn 
+0000034 060  VVD     drove                    M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000034 070  IF      for                      Z5 
+0000034 080  RG      so                       N5[i76.2.1 A13.3 
+0000034 090  DA2     many                     N5[i76.2.2 N5+ 
+0000034 100  NNT2    hours                    T1.3 
+0000034 101  ,       ,                        
+0000034 102  "       "                        
+0000034 103  NULL    </quote>                 
+0000034 104  -----   -----                    
+0000034 110  NNB     Mr.                      Z1m[i78.2.1 S2.2m Z1m[i77.2.1 
+0000034 120  NP1     Paul                     Z1m[i78.2.2 Z1m Z1m[i77.2.2 
+0000034 130  VVD     said                     Q2.1 
+0000034 140  II      in                       Z5 
+0000034 150  AT1     a                        Z5 
+0000034 160  NN1     telephone                Q1.3 
+0000034 170  NN1     interview                Q2.1 
+0000034 171  .       .                        
+0000034 172  NULL    <quote>                  
+0000034 173  -----   -----                    
+0000034 174  "       "                        
+0000034 180  RG      Around                   A13.4 
+0000034 190  MC      4:30                     N1 T1.2 T3 T1.3 N3.2 
+0000034 200  CC      or                       Z5 
+0000034 210  MC      5                        N1 
+0000034 220  II      in                       Z5 
+0000034 230  AT      the                      Z5 
+0000034 240  NNT1    morning                  T1.3 
+0000034 250  PPHS2   they                     Z8mfn 
+0000034 260  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000034 270  PPHO1   him                      Z8m 
+0000034 280  TO      to                       Z5 
+0000034 290  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000034 300  CC      and                      Z5 
+0000034 310  PPHS2   they                     Z8mfn 
+0000034 320  VVD     left                     M1 M2 A1.1.1 A1.9 A9- T2- 
+0000034 330  PPHO1   him                      Z8m 
+0000034 331  .       .                        
+0000034 332  "       "                        
+0000034 333  NULL    </quote>                 
+0000034 334  -----   -----                    
+0000034 340  NNB     Mr.                      Z1m[i80.2.1 S2.2m Z1m[i79.2.1 
+0000034 350  NP1     Taylor                   Z1m[i80.2.2 Z1mf Z1m[i79.2.2 
+0000034 360  VBDZ    was                      Z5 A3+ 
+0000034 370  VVN     arrested                 G2.1 
+0000034 380  II      by                       Z5 
+0000034 390  NN1     border                   M7/G1.1 O2 B5 L3/H3 
+0000034 400  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000034 410  II      in                       Z5 
+0000034 420  NP1     Nigeria                  Z2 
+0000034 430  RG      around                   A13.4 
+0000034 440  MC      5                        N1 
+0000034 450  RA      a.m.                     T1.3 
+0000034 460  VV0@    last                     T1.1.1[i81.2.1 T2++ T1.3 
+0000034 470  NPD1    Wednesday                T1.1.1[i81.2.2 T1.3 
+0000034 471  .       .                        
+0000035 001  -----   -----                    
+0000036 010  AT      The                      Z5 
+0000036 020  JJ      Nigerian                 Z2 
+0000036 030  NN1     government               G1.1c 
+0000036 040  VVD     denied                   Q2.2/Z6 S7.4- 
+0000036 050  AT      the                      Z5 
+0000036 060  NN1     accusation               Q2.2 G2.1 
+0000036 061  ,       ,                        
+0000036 070  IW      with                     Z5 
+0000036 080  NP1     Femi                     Z1mf[i82.2.1 Z3c[i82.2.1 
+0000036 090  NP1     Fani-Kayode              Z1mf[i82.2.2 Z3c[i82.2.2 
+0000036 091  ,       ,                        
+0000036 100  AT1     a                        Z5 
+0000036 110  NN1     government               G1.1c 
+0000036 120  NN1     spokesman                Q2.2/S2.2m 
+0000036 121  ,       ,                        
+0000036 130  VVG     telling                  Q2.2 Q2.1 X3 A10+ 
+0000036 140  AT      The                      Z5 
+0000036 150  JJ      Associated               S5+ A2.2 A6.1+/X2.1 S3.1 
+0000036 160  NN1     Press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
+0000036 170  CST     that                     Z5 Z8 
+0000036 180  NNB     Mr.                      Z1m[i83.2.1 S2.2m 
+0000036 190  NP1     Paul                     Z1m[i83.2.2 Z1m 
+0000036 191  GE      's                       Z5 
+0000036 200  NN1     account                  I1 I1.3 I2.1 Q2.2 Y2 
+0000036 210  VBDZ    was                      A3+ Z5 
+0000036 220  AT1     a                        Z5 
+0000036 221  NULL    <quote>                  
+0000036 222  -----   -----                    
+0000036 223  "       "                        
+0000036 230  JJ      far-fetched              A5.2- 
+0000036 240  NN1     figment                  N5.1- 
+0000036 250  IO      of                       Z5 
+0000036 260  APPGE   his                      Z8m 
+0000036 270  JJ      jaundiced                X5.2- B2- 
+0000036 280  NN1     imagination              X2.1/A6.2- A5.2- 
+0000036 281  .       .                        
+0000036 282  "       "                        
+0000036 283  NULL    </quote>                 
+0000039 001  NULL    **8;7;text               

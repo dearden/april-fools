@@ -1,0 +1,569 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 001  (       (                        
+0000002 010  NP1     CNN                      Z99 
+0000002 011  )       )                        
+0000002 020  NN1     --                       Z99 
+0000002 030  AT1     Every                    N6+[i1.2.1 N5.1+ 
+0000002 040  NNT1    day                      N6+[i1.2.2 T1.3 
+0000002 041  ,       ,                        
+0000002 050  RR      nearly                   A13.4 
+0000002 060  MC      90,000                   N1 T1.2 T3 T1.3 N3.2 
+0000002 070  NN      people                   S2mfc 
+0000002 080  II      in                       Z5 
+0000002 090  AT      the                      Z5 
+0000002 100  NP1     U.S.                     Z8 
+0000002 110  VV0     reach                    M1 N3.3 Q2.1 X9.2+ 
+0000002 120  IF      for                      Z5 
+0000002 130  AT1     a                        Z5 
+0000002 140  NN1     cup                      F2[i2.3.1 O2 S7.3+ A5.1+/O2 
+0000002 150  IO      of                       F2[i2.3.2 Z5 
+0000002 160  NN1     coffee                   F2[i2.3.3 F2 
+0000002 170  CC      or                       Z5 
+0000002 180  NN1     tea                      F2 F1 
+0000002 181  ,       ,                        
+0000002 190  AT1     a                        Z5 
+0000002 200  NN1     soda                     O1.1 F2 
+0000002 201  ,       ,                        
+0000002 210  CC      or                       Z5 
+0000002 220  AT1     an                       Z5 
+0000002 230  NN1     energy                   X5.2+ Y1 
+0000002 240  NN1     drink                    F2 
+0000002 241  ,       ,                        
+0000002 250  II21    according                Z5[i3.2.1 Z5 
+0000002 260  II22    to                       Z5[i3.2.2 Z5 
+0000002 270  AT      the                      Z5 
+0000002 280  NN1     Food                     F1 
+0000002 290  CC      and                      Z5 
+0000002 300  NN1     Drug                     B3 F3 
+0000002 310  NN1     Administration           S7.1+c A9- 
+0000002 311  .       .                        
+0000003 001  -----   -----                    
+0000004 010  CC      And                      Z5 
+0000004 020  IO      of                       Z5 
+0000004 030  DD2     those                    Z8 Z5 
+0000004 031  ,       ,                        
+0000004 040  NNO2    thousands                N1 N5+ I1 
+0000004 050  VV0     become                   A2.1+ O4.2+ 
+0000004 060  NN1     caffeine                 O1/X5.2++mfn[i4.2.1 O1 
+0000004 070  NN2     addicts                  O1/X5.2++mfn[i4.2.2 X5.2++/S2mf F3/S2mf 
+0000004 080  IF      for                      Z5 
+0000004 090  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000004 091  .       .                        
+0000005 001  -----   -----                    
+0000006 010  RT      Now                      T1.1.2 Z4 
+0000006 011  ,       ,                        
+0000006 020  II      in                       Z5 
+0000006 030  AT1     an                       Z5 
+0000006 040  NN1     effort                   X8+ O2 
+0000006 050  TO      to                       Z5 
+0000006 060  VVI     fight                    S8- X8+ E3- G1.2 
+0000006 070  AT      the                      Z5 
+0000006 080  NN1     war                      G3 S7.3 
+0000006 090  II      on                       Z5 
+0000006 100  DB      all                      N5.1+ 
+0000006 110  JJ      addictive                F3 X5.2++ 
+0000006 120  NN2     drugs                    B3 F3 
+0000006 130  NN1     --                       Z99 
+0000006 140  RR      especially               A14 
+0000006 150  CS      when                     Z5 
+0000006 160  PPH1    it                       Z8 
+0000006 170  VVZ     comes                    A4.1[i5.2.1 M1[i5.2.1 B1[i5.2.1 N5[i5.2.1 X6+[i5.2.1 X2.1[i5.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000006 180  II      to                       A4.1[i5.2.2 M1[i5.2.2 B1[i5.2.2 N5[i5.2.2 X6+[i5.2.2 X2.1[i5.2.2 Z5 
+0000006 190  NN2     children                 S2mf/T3- S4mf 
+0000006 200  NN1     --                       Z99 
+0000006 210  AT      the                      Z5 
+0000006 220  NN1     FDA                      Z99 
+0000006 230  VBZ     is                       Z5 A3+ 
+0000006 240  VVG     issuing                  A9- Q2.2 Q1.2 
+0000006 250  AT1     a                        Z5 
+0000006 260  JJ      new                      T3- 
+0000006 270  NN1     rule                     G2.1 X4.2 A6.2+ S7.1+ Q3 
+0000006 280  VVN     titled                   Q2.2 
+0000006 290  NN1     Prohibition              F2 S7.4- 
+0000006 300  IO      of                       Z5 
+0000006 310  DB      All                      N5.1+ 
+0000006 320  NN1     Caffeine                 O1 
+0000006 330  CC      and                      Z5 
+0000006 340  JJ      Caffeinated              Z99 
+0000006 350  NN2     Products                 O2 A1.1.1 A2.2 N2% 
+0000006 360  NN1     Act                      A1.1.1 K4 A5.4- G2.1 P1% 
+0000006 361  .       .                        
+0000007 001  -----   -----                    
+0000008 010  AT      The                      Z5 
+0000008 020  NN1     rule                     G2.1 X4.2 A6.2+ S7.1+ Q3 
+0000008 021  ,       ,                        
+0000008 030  DDQ     which                    Z8 Z5 
+0000008 040  VVD     became                   A2.1+ O4.2+ 
+0000008 050  JJ      effective                X9.2+ 
+0000008 060  NPM1    March                    T1.3[i6.2.1 T1.3 
+0000008 070  MC      31                       T1.3[i6.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000008 071  ,       ,                        
+0000008 080  RR      completely               A13.2 
+0000008 090  VVZ     prohibits                S7.4- 
+0000008 100  AT      the                      Z5 
+0000008 110  NN1     possession               A9+ S9% 
+0000008 120  CC      and                      Z5 
+0000008 130  NN1     sale                     I2.2 I2.2/I1.3- 
+0000008 140  IO      of                       Z5 
+0000008 150  DB      all                      N5.1+ 
+0000008 160  JJ@     caffeinated              Z99 
+0000008 170  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000008 171  ,       ,                        
+0000008 180  II21    such                     Z5[i7.2.1 
+0000008 190  II22    as                       Z5[i7.2.2 Z5 
+0000008 200  NN1     coffee                   F2 
+0000008 201  ,       ,                        
+0000008 210  NN1     tea                      F2 F1 
+0000008 211  ,       ,                        
+0000008 220  NN1     energy                   X5.2+ Y1 
+0000008 230  NN2     drinks                   F2 
+0000008 231  ,       ,                        
+0000008 240  NN2     sodas                    O1.1 F2 
+0000008 250  CC      and                      Z5 
+0000008 260  JJ      soft                     F2[i8.2.1 O4.5 X3.2- O4.3 O4.1 S1.2.5- A12+ 
+0000008 270  NN2     drinks                   F2[i8.2.2 F2 
+0000008 280  VVG     containing               A1.8+ A1.7+ 
+0000008 290  NN1     caffeine                 O1 
+0000008 291  ,       ,                        
+0000008 300  CC      and                      Z5 
+0000008 310  RR      even                     A13.1 
+0000008 320  JJ      over-the-counter         Z99 
+0000008 330  NN2     medications              B3 
+0000008 340  VVG     containing               A1.8+ A1.7+ 
+0000008 350  NN1     caffeine                 O1 
+0000008 360  II21    such                     Z5[i9.2.1 
+0000008 370  II22    as                       Z5[i9.2.2 Z5 
+0000008 380  NN2     stimulants               B3 
+0000008 390  CC      and                      Z5 
+0000008 400  JJ      dietary                  F1 
+0000008 410  NN2     aids                     B2- 
+0000008 411  .       .                        
+0000009 001  -----   -----                    
+0000010 010  DD1     This                     Z8 M6 Z5 
+0000010 020  VM      will                     T1.1.3 
+0000010 030  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000010 040  NN1     caffeine                 O1 
+0000010 050  AT1     a                        Z5 
+0000010 060  NN1     Class                    P1c A4.1 S5+c O4.2+ 
+0000010 070  ZZ1     B                        Z5 
+0000010 080  JJ@     controlled               S7.1+ A1.7+ 
+0000010 090  NN1     substance                O1 A11.1+ 
+0000010 091  ,       ,                        
+0000010 100  RR      exactly                  A4.2+ A5.3+ 
+0000010 110  II      like                     Z5 
+0000010 120  NN1     cocaine                  O1 
+0000010 130  CC      and                      S2mf[i10.2.1 Z5 
+0000010 140  JJ      other                    S2mf[i10.2.2 A6.1- 
+0000010 150  JJ      illegal                  G2.1- 
+0000010 160  NN2     stimulants               B3 
+0000010 161  ,       ,                        
+0000010 170  IW      with                     Z5 
+0000010 180  AT      the                      Z5 
+0000010 190  DA      same                     A6.1+++ 
+0000010 200  JJ      mandatory                S6+ 
+0000010 210  NN1     jail                     G2.1/H1 
+0000010 220  NN2     sentences                Q3 G2.1 
+0000010 230  IF      for                      Z5 
+0000010 240  NN1     possession               A9+ S9% 
+0000010 250  CC      and                      Z5 
+0000010 260  NN1     distribution             A9- N5 
+0000010 261  .       .                        
+0000012 001  NULL    <quote>                  
+0000012 002  -----   -----                    
+0000012 003  "       "                        
+0000012 010  PPH1    It                       Z8 
+0000012 011  VBZ     's                       A3+ Z5 
+0000012 020  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000012 030  PPIS2   we                       Z8 
+0000012 040  VVD     turned                   M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000012 050  APPGE   our                      Z8 
+0000012 060  NN1     attention                X5.1+ S8+ 
+0000012 070  II      to                       Z5 
+0000012 080  AT      the                      Z5 
+0000012 090  JJT     greatest                 A5.1+++ A11.1+++ N3.2+++ N5+++ X5.2+++ 
+0000012 100  NN1     gateway                  H2 
+0000012 110  NN1     drug                     B3 F3 
+0000012 120  IO      of                       Z5 
+0000012 130  PPHO2   them                     Z8mfn 
+0000012 140  DB      all                      N5.1+ 
+0000012 141  ,       ,                        
+0000012 142  "       "                        
+0000012 143  NULL    </quote>                 
+0000012 144  -----   -----                    
+0000012 150  NN1     Health                   B2 X9.2 
+0000012 160  CC      and                      Z5 
+0000012 170  JJ      Human                    S2 S1.2.1+ 
+0000012 180  NN2     Services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000012 190  NP1@    Secretary                Z1mf[i12.3.1 Z3c[i12.3.1 Z1mf[i11.2.1 Z3c[i11.2.1 
+0000012 200  NP1     Kathleen                 Z1mf[i12.3.2 Z3c[i12.3.2 Z1f Z1mf[i11.2.2 Z3c[i11.2.2 Z1mf[i13.2.1 Z3c[i13.2.1 
+0000012 210  NP1     Sebelius                 Z3c[i12.3.3 Z1mf[i12.3.3 Z1mf[i13.2.2 Z3c[i13.2.2 
+0000012 220  VVD     said                     Q2.1 
+0000012 221  .       .                        
+0000012 222  NULL    <quote>                  
+0000012 223  -----   -----                    
+0000012 224  "       "                        
+0000012 230  JJ      Stimulant                B3 
+0000012 240  NN1     abuse                    E3- Q2.2 G2.2- A1.5.1/A5.1- 
+0000012 250  II      in                       Z5 
+0000012 260  AT      the                      Z5 
+0000012 270  NP1     U.S.                     Z8 
+0000012 280  VVZ     starts                   T2+ E5- E3- 
+0000012 290  IW      with                     Z5 
+0000012 300  NN1     soda                     O1.1 F2 
+0000012 310  II      in                       Z5 
+0000012 320  AT      the                      Z5 
+0000012 330  NN1     childhood                T1.3/T3- 
+0000012 340  NNT2    years                    T1.3 
+0000012 350  CC      or                       Z5 
+0000012 360  NN1     coffee                   F2 
+0000012 370  II      in                       Z5 
+0000012 380  AT      the                      Z5 
+0000012 390  JJ      young                    T3- 
+0000012 400  NN1     adult                    T3+/S2mf 
+0000012 410  NNT2    years                    T1.3 
+0000012 411  .       .                        
+0000012 412  -----   -----                    
+0000012 420  DB      All                      N5.1+ 
+0000012 430  NN2     abuses                   E3- Q2.2 G2.2- A1.5.1/A5.1- 
+0000012 440  IO      of                       Z5 
+0000012 450  JJ      stimulant                B3 
+0000012 460  NN2     drugs                    B3 F3 
+0000012 461  ,       ,                        
+0000012 470  II      including                A1.8+ 
+0000012 480  NN1     methamphetamine          Z99 
+0000012 490  CC      and                      Z5 
+0000012 500  NN1     cocaine                  O1 
+0000012 501  ,       ,                        
+0000012 510  VBDR    were                     Z5 A3+ 
+0000012 520  VVN     demonstrated             A10+ G1.2 
+0000012 530  TO      to                       Z5 
+0000012 540  VHI     have                     Z5 A9+ A2.2 S4 
+0000012 550  VVN     used                     A1.5.1 S7.1+ 
+0000012 560  NN1     caffeine                 O1 
+0000012 570  MD      first                    N4 
+0000012 571  .       .                        
+0000012 572  -----   -----                    
+0000012 580  RR      So                       Z5 A13.3 
+0000012 590  PPIS2   we                       Z8 
+0000012 591  VBR     're                      Z5 A3+ 
+0000012 600  VVG     cutting                  T2-[i14.2.1 A1.1.1[i14.2.1 Q1.3[i14.2.1 S5-[i14.2.1 A10-[i14.2.1 A1.1.1 N5-/A2.1 T2- Q4.3 K5.1 B1 
+0000012 610  PPH1    it                       Z8 
+0000012 620  RP      off                      T2-[i14.2.2 A1.1.1[i14.2.2 Q1.3[i14.2.2 S5-[i14.2.2 A10-[i14.2.2 M6 K1 A1.1.1 A1.9 
+0000012 630  II      at                       Z5 
+0000012 640  AT      the                      Z5 
+0000012 650  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000012 660  RL      here                     M6 T1.1.2 T1.2 
+0000012 661  .       .                        
+0000012 662  "       "                        
+0000012 663  NULL    </quote>                 
+0000014 001  NULL    <quote>                  
+0000014 002  -----   -----                    
+0000014 003  "       "                        
+0000014 010  NN1     Caffeine                 O1 
+0000014 020  VHZ     has                      Z5 A9+ A2.2 S4 
+0000014 030  VVN     gone                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000014 040  JJ      unchecked                A1.7- 
+0000014 041  ,       ,                        
+0000014 050  JJ      unregulated              A1.7-/G1.1 
+0000014 051  ,       ,                        
+0000014 060  CC      and                      Z5 
+0000014 070  JJ      uncontrolled             S7.1- A1.7- 
+0000014 080  IF      for                      Z5 
+0000014 090  RG      too                      N5.2+ A13.3 
+0000014 100  RR      long                     T1.3+ 
+0000014 101  ,       ,                        
+0000014 102  "       "                        
+0000014 103  NULL    </quote>                 
+0000014 104  -----   -----                    
+0000014 110  NP1     FDA                      Z99 
+0000014 120  NN1     Commissioner             G1.1/S2mf G2.1/S2mf 
+0000014 130  NP1     Margaret                 Z1mf[i16.3.1 Z3c[i16.3.1 Z1f Z1mf[i15.2.1 Z3c[i15.2.1 
+0000014 140  NP1     A.                       Z1mf[i16.3.2 Z3c[i16.3.2 Z1mf[i15.2.2 Z3c[i15.2.2 Z1mf[i17.2.1 Z3c[i17.2.1 
+0000014 150  NP1     Hamburg                  Z3c[i16.3.3 Z1mf[i16.3.3 Z2 Z3c Z1mf[i17.2.2 Z3c[i17.2.2 
+0000014 160  VVD     said                     Q2.1 
+0000014 161  .       .                        
+0000014 162  NULL    <quote>                  
+0000014 163  -----   -----                    
+0000014 164  "       "                        
+0000014 170  VVG     Putting                  M2 Q2.1 Q2.2 A1.1.1 
+0000014 180  DD2     these                    Z5 Z8 
+0000014 190  NN2     restrictions             A1.7+ 
+0000014 200  II      in                       M6[i18.2.1 Z5 
+0000014 210  NN1     place                    M6[i18.2.2 M7 H1 A1.2 P1 
+0000014 220  VBZ     is                       A3+ Z5 
+0000014 230  JJ      necessary                S6+ A11.1+ 
+0000014 240  TO      to                       Z5 
+0000014 250  VVI     protect                  S8+/A15+ A10- 
+0000014 260  AT      the                      Z5 
+0000014 270  NN1     health                   B2 X9.2 
+0000014 280  IO      of                       Z5 
+0000014 290  APPGE   our                      Z8 
+0000014 300  NN2     citizens                 G1.1/S2mf S5+/S2mf 
+0000014 301  .       .                        
+0000014 302  -----   -----                    
+0000014 310  AT1     A                        Z5 
+0000014 320  JJ      thimble-sized            Z99 
+0000014 330  NN1     measure                  N3.1 F2 K2 
+0000014 340  IO      of                       Z5 
+0000014 350  JJ      pure                     A5.4+ O4.1 A14 A4.2+ G2.2+ 
+0000014 360  NN1     caffeine                 O1 
+0000014 370  II      in                       Z5 
+0000014 380  NN1     powder                   O1.1 B4 G3 
+0000014 390  NN1     form                     A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@ 
+0000014 400  VM      can                      A7+ 
+0000014 410  VVI     kill                     L1- A12- A1.5.1 E4.1-/A2.2 
+0000014 420  AT1     a                        Z5 
+0000014 430  VVN     grown                    N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000014 440  NN1     adult                    T3+/S2mf 
+0000014 441  .       .                        
+0000014 442  -----   -----                    
+0000014 450  MC1     One                      N1 T3 T1.2 
+0000014 460  NN1     box                      O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ 
+0000014 470  IO      of                       Z5 
+0000014 480  JJ      stimulant                B3 
+0000014 490  NN2     pills                    B3 
+0000014 500  VM      can                      A7+ 
+0000014 510  VVI     kill                     L1- A12- A1.5.1 E4.1-/A2.2 
+0000014 520  CS      if                       Z7 
+0000014 530  VVN     eaten                    F1/B1 A1.5.1/N5+ 
+0000014 540  RR31    all                      A13.2 
+0000014 550  RR32    at                       N3.8+[i19.2.1 T1.1.2[i19.2.1 
+0000014 560  RR33    once                     N3.8+[i19.2.2 T1.1.2[i19.2.2 N6- T1.1.1 
+0000014 561  .       .                        
+0000014 562  "       "                        
+0000014 563  NULL    </quote>                 
+0000014 564  -----   -----                    
+0000016 010  II      Under                    Z5 
+0000016 020  AT      the                      Z5 
+0000016 030  NN1     ruling                   S7.1+ Q1.2 X6+ 
+0000016 031  ,       ,                        
+0000016 040  AT      the                      Z5 
+0000016 050  NN1     FDA                      Z99 
+0000016 060  VM      will                     T1.1.3 
+0000016 070  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000016 080  RR      closely                  A13.4 A4.2+ N3.3- 
+0000016 090  IW      with                     Z5 
+0000016 100  NN2     states                   G1.1c O4.1 
+0000016 110  TO      to                       Z5 
+0000016 120  VVI     make                     A7+[i20.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000016 130  JJ      sure                     A7+[i20.2.2 A7+ Z4 
+0000016 140  NN2     retailers                I2.2/S2mf 
+0000016 150  RR      completely               A13.2 
+0000016 160  VV0     remove                   M2 
+0000016 170  DB      all                      N5.1+ 
+0000016 180  JJ@     caffeinated              Z99 
+0000016 190  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000016 200  II      from                     Z5 
+0000016 210  NN1     public                   S5+ A10+ S5+c 
+0000016 220  NN1     access                   M1 A9+ A1.1.1 
+0000016 221  .       .                        
+0000016 222  -----   -----                    
+0000016 230  AT      The                      Z5 
+0000016 240  NN1     agency                   I2.2/S5+c G1.1c 
+0000016 250  VM      will                     T1.1.3 
+0000016 260  RR      also                     N5++ 
+0000016 270  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000016 280  IW      with                     Z5 
+0000016 290  JJ      retail                   I2.2 
+0000016 300  NN2     businesses               I2.1 A1.1.1 A5.1+++ 
+0000016 310  VVN     based                    A2.2[i21.2.1 T2+ M6 A2.2 
+0000016 320  II      on                       A2.2[i21.2.2 Z5 
+0000016 330  NN1     caffeine                 O1 
+0000016 340  NN1     consumption              A1.5.1 A1.5.1/N5 F1 F1/N5 B2-% 
+0000016 341  ,       ,                        
+0000016 350  II21    such                     Z5[i22.2.1 
+0000016 360  II22    as                       Z5[i22.2.2 Z5 
+0000016 370  NN1     coffee                   F2/H1c[i23.2.1 F2 
+0000016 380  NN2     shops                    F2/H1c[i23.2.2 I2.2/H1 I4/H1 I2.2 
+0000016 381  ,       ,                        
+0000016 390  TO      to                       Z5 
+0000016 400  VVI     transform                A2.1+ 
+0000016 410  PPHO2   them                     Z8mfn 
+0000016 420  II      into                     Z5 
+0000016 430  JJ      new                      T3- 
+0000016 440  NN2     businesses               I2.1 A1.1.1 A5.1+++ 
+0000016 450  II21    such                     Z5[i24.2.1 
+0000016 460  II22    as                       Z5[i24.2.2 Z5 
+0000016 470  NN1     juice                    F2 O1.2 
+0000016 480  NN2     bars                     F2/H1c F2/H2 F2/H5 O2 O4.4 S8- G2.1c K2 
+0000016 481  .       .                        
+0000017 001  -----   -----                    
+0000018 010  AT      The                      Z5 
+0000018 020  NN1     FDA                      Z99 
+0000018 030  RR      also                     N5++ 
+0000018 040  VM      will                     T1.1.3 
+0000018 050  VVI     help                     S8+ 
+0000018 060  NN2     retailers                I2.2/S2mf 
+0000018 070  RRR     better                   A5.1++ G2.2++ O4.2++ 
+0000018 080  VVI     understand               X2.5+ 
+0000018 090  RRQ     how                      Z5 A13.3 
+0000018 100  TO      to                       Z5 
+0000018 110  VVI     comply                   A6.1+ S7.1- 
+0000018 120  CC      and                      Z5 
+0000018 130  RRQ     how                      Z5 A13.3 
+0000018 140  TO      to                       Z5 
+0000018 150  VVI     protect                  S8+/A15+ A10- 
+0000018 160  NN2     children                 S2mf/T3- S4mf 
+0000018 170  CC      and                      Z5 
+0000018 180  NN2     adolescents              T3-/S2mf 
+0000018 190  II      from                     Z5 
+0000018 191  NULL    <quote>                  
+0000018 192  -----   -----                    
+0000018 193  "       "                        
+0000018 200  JJ      addictive                F3 X5.2++ 
+0000018 210  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000018 211  .       .                        
+0000018 212  "       "                        
+0000018 213  NULL    </quote>                 
+0000018 214  -----   -----                    
+0000018 220  NN2     Manufacturers            A1.1.1/S2mfc 
+0000018 230  CC      and                      Z5 
+0000018 240  NN2     retailers                I2.2/S2mf 
+0000018 250  PNQS    who                      Z8 
+0000018 260  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000018 270  XX      not                      Z6 
+0000018 280  VVI     comply                   A6.1+ S7.1- 
+0000018 290  VM      may                      A7+ 
+0000018 300  VBI     be                       A3+ Z5 
+0000018 310  II21    subject                  S7.1-[i25.2.1 Z5[i26.2.1 
+0000018 320  II22    to                       S7.1-[i25.2.2 Z5 Z5[i26.2.2 
+0000018 330  JJ      legal                    G2.1 G2.1+ 
+0000018 340  NN1     action                   A1.1.1 G3 
+0000018 341  .       .                        
+0000019 001  -----   -----                    
+0000020 010  NP1     David                    Z1mf[i27.2.1 Z3c[i27.2.1 Z1m 
+0000020 020  NP1     Howard                   Z1mf[i27.2.2 Z3c[i27.2.2 Z1mf 
+0000020 021  ,       ,                        
+0000020 030  NN1     spokesman                Q2.2/S2.2m 
+0000020 040  IF      for                      Z5 
+0000020 050  NP1     Starbucks                Z2[i29.2.1 Z3c[i29.2.1 Z1mf[i29.2.1 Z1mf[i28.2.1 Z3c[i28.2.1 
+0000020 060  NP1     Co.                      Z2[i29.2.2 Z3c[i29.2.2 Z1mf[i29.2.2 Z1mf[i28.2.2 Z3c[i28.2.2 
+0000020 061  ,       ,                        
+0000020 070  AT      the                      Z5 
+0000020 080  JJT     largest                  N3.2+++ N5+++ A11.1+++ 
+0000020 090  JJ      retail                   I2.2 
+0000020 100  NN1     coffee                   F2 
+0000020 110  NN1     distributor              I2.2/I2.1c[i30.2.1 I2.2/S2mf O3/M3 
+0000020 120  NN1     company                  I2.2/I2.1c[i30.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000020 130  II      in                       Z5 
+0000020 140  AT      the                      Z5 
+0000020 150  NP1     U.S.                     Z8 
+0000020 151  ,       ,                        
+0000020 160  VVD     said                     Q2.1 
+0000020 170  AT      the                      Z5 
+0000020 180  JJ      new                      T3- 
+0000020 190  NN1     ruling                   S7.1+ Q1.2 X6+ 
+0000020 200  VVZ     comes                    M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000020 210  II      as                       Z5 
+0000020 220  AT      no                       Z6 
+0000020 230  NN1     surprise                 X2.6- 
+0000020 231  .       .                        
+0000022 001  NULL    <quote>                  
+0000022 002  -----   -----                    
+0000022 003  "       "                        
+0000022 010  RR      Virtually                A13.4 
+0000022 020  PN1     everything               Z8/N5.1+ 
+0000022 030  II      in                       Z5 
+0000022 040  DD1     this                     M6 Z5 Z8 
+0000022 050  NN1     announcement             Q2.2 
+0000022 060  VBDZ    was                      Z5 A3+ 
+0000022 070  RR      already                  T1.1.1 
+0000022 080  VVN     argued                   Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 
+0000022 090  RP      out                      M6 
+0000022 100  II      on                       Z5 
+0000022 110  AT      the                      Z5 
+0000022 120  NN1     Senate                   S7.1+ 
+0000022 130  NN1     floor                    H2 S5+ 
+0000022 140  NNT2    months                   T1.1.1[i31.2.1 T1.3 
+0000022 150  RA      ago                      T1.1.1[i31.2.2 T1.1.1 
+0000022 151  ,       ,                        
+0000022 152  "       "                        
+0000022 153  NULL    </quote>                 
+0000022 154  -----   -----                    
+0000022 160  NP1     Howard                   Z1mf 
+0000022 170  VVD     said                     Q2.1 
+0000022 171  .       .                        
+0000022 172  NULL    <quote>                  
+0000022 173  -----   -----                    
+0000022 174  "       "                        
+0000022 180  PPH1    It                       Z8 
+0000022 181  VBZ     's                       A3+ Z5 
+0000022 190  AT1     a                        Z5 
+0000022 200  NN1     shock                    E5- B2- O3 
+0000022 201  ,       ,                        
+0000022 210  CCB     but                      Z5 
+0000022 220  PPIS2   we                       Z8 
+0000022 230  VM      will                     T1.1.3 
+0000022 240  VBI     be                       Z5 A3+ 
+0000022 250  VVG     closing                  T2-[i32.2.1 A1.1.1 A10- T2- 
+0000022 260  RP      down                     T2-[i32.2.2 
+0000022 270  CC      and                      Z5 
+0000022 280  VVG     removing                 M2 
+0000022 290  PPX2    ourselves                Z8 
+0000022 300  II      from                     Z5 
+0000022 310  AT      the                      Z5 
+0000022 320  NP1     U.S.                     Z3c[i33.2.1 
+0000022 330  NN1     market                   Z3c[i33.2.2 I2.2 I2.2/H1 
+0000022 331  .       .                        
+0000022 332  "       "                        
+0000022 333  NULL    </quote>                 
+0000022 334  -----   -----                    
+0000022 340  JJ      Other                    A6.1- 
+0000022 350  NN2     retailers                I2.2/S2mf 
+0000022 360  CC      and                      Z5 
+0000022 370  NN2     manufacturers            A1.1.1/S2mfc 
+0000022 371  ,       ,                        
+0000022 380  II      including                A1.8+ 
+0000022 390  NP1     Folgers                  Z99 
+0000022 391  ,       ,                        
+0000022 400  JJ      Inc.                     I2.1 
+0000022 401  ,       ,                        
+0000022 410  NP1     Maxwell                  Z3c[i34.2.1 Z2[i34.2.1 Z1mf 
+0000022 420  NN1     House                    Z3c[i34.2.2 Z2[i34.2.2 H1 P1/S5+c G1.1c 
+0000022 421  ,       ,                        
+0000022 430  JJ      Inc.                     I2.1 
+0000022 431  ,       ,                        
+0000022 440  NP1     Coca-Cola                Z3 
+0000022 450  NN1     Company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000022 460  CC      and                      Z5 
+0000022 470  NP1     Pepsico                  Z99 
+0000022 471  ,       ,                        
+0000022 480  NP1     Lipton                   Z99 
+0000022 490  JJ      LTD                      I2.1 
+0000022 491  ,       ,                        
+0000022 500  CC      and                      Z5 
+0000022 510  NN1     grocery                  F1 
+0000022 520  NN2     chains                   S5+/I2.1c O2 N4 B5 S7.1 
+0000022 530  RL      nationwide               M7/N5.1+ 
+0000022 540  VVD     echoed                   X3.2 
+0000022 550  JJ      similar                  A6.1+ 
+0000022 560  NN2     sentiments               E1 X4.1 
+0000022 561  .       .                        
+0000023 001  -----   -----                    
+0000024 010  AT      The                      Z5 
+0000024 020  NN1     rule                     G2.1 X4.2 A6.2+ S7.1+ Q3 
+0000024 030  VBDZ    was                      Z5 A3+ 
+0000024 040  VVN     included                 A1.8+ 
+0000024 050  II      as                       Z5 
+0000024 060  AT1     a                        Z5 
+0000024 070  JJ      key                      A11.1+ 
+0000024 080  NN1     provision                A9- A9+ N4 G2.1 
+0000024 090  IO      of                       Z5 
+0000024 100  AT      the                      Z5 
+0000024 110  MC      2010                     N1 T1.2 T3 T1.3 N3.2 
+0000024 120  JJ      Patient                  E3+ 
+0000024 130  NN1     Protection               S8+/A15+ A10- 
+0000024 140  CC      and                      Z5 
+0000024 150  JJ      Affordable               I1.3- 
+0000024 160  NN1     Care                     S8+ G1.1/S8+ B3 A1.3 E6- 
+0000024 170  NN1     Act                      A1.1.1 K4 A5.4- G2.1 P1% 
+0000024 171  ,       ,                        
+0000024 180  VVN     signed                   Q1.2 Q1.1 G2.1 I3.1 S9 
+0000024 190  II      by                       Z5 
+0000024 200  NNB     President                G1.1/S7.1+/S2mf 
+0000024 210  NP1     Obama                    Z99 
+0000024 220  II      in                       Z5 
+0000024 230  NPM1    March                    T1.3 
+0000024 231  .       .                        
+0000027 001  NULL    **8;7;text               

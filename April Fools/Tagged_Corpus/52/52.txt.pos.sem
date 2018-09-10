@@ -1,0 +1,256 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     BDD                      Z99 
+0000002 020  VHZ     Has                      Z5 A9+ A2.2 S4 
+0000002 030  VVN     Learned                  X2.3+ P1 
+0000002 040  NP1     Manny                    Z1mf[i2.3.1 Z3c[i2.3.1 Z1mf[i1.2.1 Z3c[i1.2.1 
+0000002 050  NP1     Ramirez                  Z1mf[i2.3.2 Z3c[i2.3.2 Z1mf[i1.2.2 Z3c[i1.2.2 Z1mf[i3.2.1 Z3c[i3.2.1 
+0000002 060  NP1     Will                     Z3c[i2.3.3 Z1mf[i2.3.3 Z1m Z1mf[i3.2.2 Z3c[i3.2.2 
+0000002 070  VV0     Retire                   I3.1- M1 
+0000002 080  II      to                       Z5 
+0000002 090  NP1     Brazil                   Z2 
+0000002 100  II      Before                   Z5 
+0000002 110  AT      the                      Z5 
+0000003 010  MC      2006                     N1 T1.2 T3 T1.3 N3.2 
+0000003 020  NNT1    Season                   T1.3 
+0000003 030  II21    Rather                   Z5[i5.2.1 Z5[i4.2.1 
+0000003 040  II22    Than                     Z5[i5.2.2 Z5[i4.2.2 
+0000003 050  VV0     Suffer                   E4.1- B2- X3 A5.1-/A2.1 S7.4+ 
+0000003 060  DD      Any                      N5.1+ N5 
+0000003 070  DAR     More                     N5++ 
+0000003 080  NN1     Hardship                 A12- 
+0000003 090  II      in                       Z5 
+0000003 100  NP1     Boston                   Z2 
+0000005 010  JJ      Renowned                 S7.2+ 
+0000005 020  JJ      Red                      O4.3 G1.2 
+0000005 030  NN2     Sox                      Z3c 
+0000005 040  VVG     slugging                 E3- 
+0000005 050  NN1     savant                   Z99 
+0000005 060  NP1     Manny                    Z1mf[i6.2.1 Z3c[i6.2.1 
+0000005 070  NP1     Ramirez                  Z1mf[i6.2.2 Z3c[i6.2.2 
+0000005 080  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000005 090  AT1     a                        Z5 
+0000005 100  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000005 110  RR      close                    A13.4[i7.2.1 
+0000005 120  II      to                       A13.4[i7.2.2 Z5 
+0000005 130  NP1     BDD                      Z99 
+0000005 140  CST     that                     Z8 Z5 
+0000005 150  PPHS1   he                       Z8m 
+0000005 160  VM      will                     T1.1.3 
+0000005 170  VVI     retire                   I3.1- M1 
+0000005 180  II      from                     Z5 
+0000005 190  AT      the                      Z5 
+0000005 200  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000005 210  IO      of                       Z5 
+0000005 220  NN1     baseball                 K5.2 
+0000005 221  ,       ,                        
+0000005 230  JJ      effective                X9.2+ 
+0000005 240  RR      immediately              N3.8+ T1.1.2/A11.1+ N4 
+0000005 241  ,       ,                        
+0000005 250  II      in                       Z5 
+0000005 260  AT1     an                       Z5 
+0000005 270  NN1     attempt                  X8+ 
+0000005 280  TO      to                       Z5 
+0000005 290  VVI     avoid                    A1.9 M1 
+0000005 300  AT      the                      Z5 
+0000005 310  NN1     publicity                Q2.2 
+0000005 320  CC      and                      Z5 
+0000005 330  NN1     restaurant               F1/H1 
+0000005 340  NN1     harrassment              Z99 
+0000005 350  CST     that                     Z8 Z5 
+0000005 360  VVZ     comes                    M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000005 370  IW      with                     Z5 
+0000005 380  VVG     playing                  K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000005 390  CC      and                      Z5 
+0000005 400  VVG     living                   H4 L1+ 
+0000005 410  II      in                       Z5 
+0000005 420  NP1     Boston                   Z2 
+0000005 421  .       .                        
+0000005 422  -----   -----                    
+0000005 430  JJ      Red                      O4.3 G1.2 
+0000005 440  NN2     Sox                      Z1mf[i9.3.1 Z3c[i9.3.1 Z3c Z1mf[i8.2.1 Z3c[i8.2.1 
+0000005 450  NP1     GM                       Z1mf[i9.3.2 Z3c[i9.3.2 Z1mf[i11.3.1 Z3c[i11.3.1 Z1mf[i8.2.2 Z3c[i8.2.2 Z1mf[i10.2.1 Z3c[i10.2.1 
+0000005 460  NP1     Theo                     Z3c[i9.3.3 Z1mf[i9.3.3 Z1mf[i11.3.2 Z3c[i11.3.2 Z1mf[i10.2.2 Z3c[i10.2.2 Z1mf[i12.2.1 Z3c[i12.2.1 
+0000005 470  NP1     Epstein                  Z3c[i11.3.3 Z1mf[i11.3.3 Z1mf[i12.2.2 Z3c[i12.2.2 
+0000005 471  ,       ,                        
+0000005 480  PNQS    who                      Z8 
+0000005 490  VVD@    called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000005 500  DD1     this                     M6 Z5 Z8 
+0000005 510  NN1     move                     M1 M2 A2.1+ H4/A2.1 K5.2 
+0000005 520  AT1     a                        Z5 
+0000005 530  JJ      minor                    A11.1- N3.2- 
+0000005 540  NN1     setback                  S8- 
+0000005 541  ,       ,                        
+0000005 550  VBZ     is                       Z5 A3+ 
+0000005 560  VVN     expected                 X2.6+ B1 
+0000005 570  TO      to                       Z5 
+0000005 580  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000005 590  AT1     an                       Z5 
+0000005 600  JJ      official                 G1.1 S7.4+ 
+0000005 610  NN1     announcement             Q2.2 
+0000005 620  DD1     this                     M6 Z5 Z8 
+0000005 630  NNT1    afternoon                T1.3 
+0000005 631  .       .                        
+0000006 001  -----   -----                    
+0000007 010  VV0     Ramirez                  Z99 
+0000007 011  ,       ,                        
+0000007 020  PNQS    who                      Z8 
+0000007 030  NN2     sources                  T2+ Q1.1 X2.2 W3/M4 
+0000007 040  VV0     say                      Q2.1 Z4% 
+0000007 050  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000007 060  AT      the                      Z5 
+0000007 070  NN1     decision                 X6+ 
+0000007 080  RT      yesterday                T1.1.1 
+0000007 090  CS      while                    Z5 
+0000007 100  VVG     deciding                 X6+ 
+0000007 110  PPHS1   he                       Z8m 
+0000007 120  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000007 121  XX      n't                      Z6 
+0000007 130  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
+0000007 140  TO      to                       Z5 
+0000007 150  VVI     fly                      M5 M1 N3.8+ E3- 
+0000007 160  II      to                       Z5 
+0000007 170  NP1     Texas                    Z2 Z3c 
+0000007 180  II      via                      Z5 
+0000007 190  NP1     Philadelphia             Z2 Z3 
+0000007 191  ,       ,                        
+0000007 200  VBZ     is                       Z5 A3+ 
+0000007 210  VVN     expected                 X2.6+ B1 
+0000007 220  TO      to                       Z5 
+0000007 230  VVI     spend                    I1.2 A1.5.1 T1.3 
+0000007 240  AT1     a                        Z5 
+0000007 250  NNT1    year                     T1.3 P1c 
+0000007 260  IW      with                     Z5 
+0000007 270  APPGE   his                      Z8m 
+0000007 280  NN1     family                   S4c A4.1c 
+0000007 290  II      in                       Z5 
+0000007 300  NP1     Brazil                   Z2 
+0000007 310  II      before                   Z5 
+0000007 320  VVG     coming                   M1/N6+[i13.2.1 X2.2+[i13.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 A4.1[i14.2.1 M1[i14.2.1 B1[i14.2.1 N5[i14.2.1 X6+[i14.2.1 X2.1[i14.2.1 
+0000007 330  RP      back                     M1/N6+[i13.2.2 X2.2+[i13.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000007 340  II      to                       Z5 A4.1[i14.2.2 M1[i14.2.2 B1[i14.2.2 N5[i14.2.2 X6+[i14.2.2 X2.1[i14.2.2 
+0000007 350  AT      the                      Z5 
+0000007 360  NP1     States                   Z2 
+0000007 370  TO      to                       Z5 
+0000007 380  VVI     become                   A2.1+ O4.2+ 
+0000007 390  AT1     a                        Z5 
+0000007 400  NN1     commentator              Q2.2/S2mf 
+0000007 410  II      on                       Z5 
+0000007 420  NP1     ESPN                     Z99 
+0000007 421  GE      's                       Z5 
+0000007 430  NN1     Baseball                 K5.2 
+0000007 440  RT      Tonight                  T1.1.2 
+0000007 441  .       .                        
+0000007 442  -----   -----                    
+0000007 450  JJ      Wily                     X9.1+ 
+0000007 460  NP1     Mo                       Z1mf[i15.2.1 Z3c[i15.2.1 
+0000007 470  NP1     Pena                     Z1mf[i15.2.2 Z3c[i15.2.2 
+0000007 480  VBZ     is                       Z5 A3+ 
+0000007 490  VVN     expected                 X2.6+ B1 
+0000007 500  TO      to                       Z5 
+0000007 510  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000007 520  NP1     Manny                    Z99 
+0000007 521  GE      's                       Z5 
+0000007 530  NN1     spot                     O4.4 O2 B2- M7 N5- Q4.3 
+0000007 540  II      as                       Z5 
+0000007 550  AT      the                      Z5 
+0000007 560  NN1     starting                 T2+ E5- E3- 
+0000007 570  JJ      left                     M6 G1.2 N5.2+ 
+0000007 580  NN1     fielder                  Z99 
+0000007 581  .       .                        
+0000008 001  -----   -----                    
+0000009 010  CS      While                    Z5 
+0000009 020  DAT     most                     N5+++ 
+0000009 030  JJ      Red                      O4.3 G1.2 
+0000009 040  NN2     Sox                      Z3c 
+0000009 050  VM      will                     T1.1.3 
+0000009 060  VVI     miss                     A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3- 
+0000009 070  NP1     Manny                    Z99 
+0000009 071  GE      's                       Z5 
+0000009 080  NN1     presence                 M6 A3+ S1.1.3+ S1.2 S9 
+0000009 090  CC      and                      Z5 
+0000009 100  JJ      right-handed             Z99 
+0000009 110  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000009 111  ,       ,                        
+0000009 120  DD      some                     N5 Z5 
+0000009 130  NN2     players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000009 140  RR      privately                A10- 
+0000009 150  VVD     said                     Q2.1 
+0000009 160  PPHS2   they                     Z8mfn 
+0000009 170  VHD     had                      Z5 A9+ A2.2 S4 
+0000009 180  VHN     had                      E4.2-[i16.3.1 A9+ Z5 A2.2 S4 
+0000009 190  DD      enough                   E4.2-[i16.3.2 N5+ N6+ 
+0000009 200  IO      of                       E4.2-[i16.3.3 Z5 
+0000009 210  AT      the                      Z5 
+0000009 211  NULL    <quote>                  
+0000009 212  -----   -----                    
+0000009 213  "       "                        
+0000009 220  NP1     Manny                    Z99 
+0000009 230  VBG     being                    A3+ Z5 
+0000009 240  JJ      Manny                    Z99 
+0000009 241  "       "                        
+0000009 242  NULL    </quote>                 
+0000009 243  -----   -----                    
+0000009 250  NN1     phenomenon               A3 X3.4 A1.1.1 
+0000009 260  CST     that                     Z5 Z8 
+0000009 270  AT      the                      Z5 
+0000009 280  NN      media                    Q4c 
+0000009 290  VVD     ate                      F1 
+0000009 300  RP      up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
+0000009 310  NN1     hook                     O2 O4.4 K5.1 
+0000009 311  ,       ,                        
+0000009 320  NN1     line                     O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000009 321  ,       ,                        
+0000009 330  CC      and                      Z5 
+0000009 340  NN1     sinker                   Z99 
+0000009 341  .       .                        
+0000009 342  -----   -----                    
+0000009 350  NP1     David                    Z1mf[i17.2.1 Z3c[i17.2.1 Z1m 
+0000009 360  NP1     Ortiz                    Z1mf[i17.2.2 Z3c[i17.2.2 
+0000009 361  ,       ,                        
+0000009 370  PNQS    who                      Z8 
+0000009 380  VM      will                     T1.1.3 
+0000009 390  VVI     miss                     A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3- 
+0000009 400  NP1     Manny                    Z99 
+0000009 401  GE      's                       Z5 
+0000009 410  NN1     lineup                   Z99 
+0000009 420  NN1     protection               S8+/A15+ A10- 
+0000009 430  AT      the                      Z5 
+0000009 440  RRT@    most                     N5+++ 
+0000009 441  ,       ,                        
+0000009 450  RR      reportedly               A8 
+0000009 460  VBZ     is                       A3+ Z5 
+0000009 470  XX      not                      Z6 
+0000009 480  JJ      happy                    E4.1+ E4.2+ 
+0000009 490  IW      with                     Z5 
+0000009 500  AT      the                      Z5 
+0000009 510  NN1     possibility              A7+ 
+0000009 520  IO      of                       Z5 
+0000009 530  VBG     being                    Z5 A3+ 
+0000009 540  VVN@    walked                   M1 L2 X9.2+/A12+ 
+0000009 550  MC      200                      N6+[i18.2.1 A13.3[i18.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000009 560  NNT2    times                    N6+[i18.2.2 A13.3[i18.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 
+0000009 570  DD1     this                     M6 Z5 Z8 
+0000009 580  NNT1    season                   T1.3 
+0000009 581  .       .                        
+0000009 582  -----   -----                    
+0000009 583  ...     ...                      
+0000009 590  UH      Oh                       Z4 
+0000009 591  ,       ,                        
+0000009 600  CC      and                      Z5 
+0000009 610  CS      while                    Z5 
+0000009 620  PPY     you                      Z8mf 
+0000009 630  VBR     are                      Z5 A3+ 
+0000009 640  VVG     digesting                F1/B1 X2.3+ 
+0000009 650  DD1     this                     M6 Z5 Z8 
+0000009 660  NN1     story                    Q2.1 X4.1 Q4 
+0000009 661  ,       ,                        
+0000009 670  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000009 671  XX      n't                      Z6 
+0000009 680  VVI     forget                   X2.2- 
+0000009 690  TO      to                       Z5 
+0000009 700  VVI     check                    X2.4/A5.3 A15 Q1.2 T2- M5 
+0000009 710  AT      the                      Z5 
+0000009 720  NN1     calendar                 O2/T1.3 T1.1 Q1.2 
+0000009 721  .       .                        
+0000012 001  NULL    **8;7;text               

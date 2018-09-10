@@ -1,0 +1,794 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VBR     Are                      A3+ Z5 
+0000002 020  PPY     you                      Z8mf 
+0000002 030  JJ      afraid                   E5- E4.1- 
+0000002 040  IO      of                       Z5 
+0000002 050  AT      the                      Z5 
+0000002 060  NN1     uprising                 G3 
+0000002 070  IO      of                       Z5 
+0000002 080  JJ      Artificial               Y2[i1.2.1 A5.4- 
+0000002 090  NN1     Intelligence             Y2[i1.2.2 X9.1+ X2.2+ S1.2.6+ 
+0000002 091  (       (                        
+0000002 100  NN1     AI                       B3 Y2 
+0000002 101  )       )                        
+0000002 102  ?       ?                        
+0000002 103  -----   -----                    
+0000002 110  RR      Well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000002 111  ,       ,                        
+0000002 120  VV0     fear                     E5- 
+0000002 130  AT      no                       Z6 
+0000002 140  RRR     more                     A13.3 N6++ 
+0000002 141  .       .                        
+0000003 001  -----   -----                    
+0000004 010  NP1     IEEE                     Z99 
+0000004 020  RR      recently                 T3--- 
+0000004 030  VVD     announced                Q2.2 
+0000004 040  AT      the                      Z5 
+0000004 050  NN1     launch                   M4fn M5 T2+ 
+0000004 060  IO      of                       Z5 
+0000004 070  AT1     a                        Z5 
+0000004 080  JJ      new                      T3- 
+0000004 090  NP1     IEEE                     Z99 
+0000004 100  NN2     Standards                Z3c 
+0000004 110  NN1     Association              S5+c A6.1+/X2.1 
+0000004 111  (       (                        
+0000004 120  NP1     IEEE-SA                  Z99 
+0000004 121  )       )                        
+0000004 130  NN1     Industry                 I4c I2.1c 
+0000004 140  NN2     Connections              A2.2 S5+ M3 O3 A1.1.1 
+0000004 150  VV0@    program                  Y2 P1 
+0000004 151  :       :                        
+0000004 160  AT      The                      Z5 
+0000004 170  JJ      Global                   Z3c 
+0000004 180  NN1     Initiative               A1.1.1 X5.2+ 
+0000004 190  IF      for                      Z5 
+0000004 200  JJ      Ethical                  G2.2+ 
+0000004 210  NN1     Consideration            X2.1 X2.4 S1.2.3- 
+0000004 220  II      in                       Z5 
+0000004 230  AT      the                      Z5 
+0000004 240  NN1     Design                   C1 X7+ B5 
+0000004 250  IO      of                       Z5 
+0000004 260  JJ      Autonomous               S5- 
+0000004 270  NN2     Systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000004 271  .       .                        
+0000005 001  -----   -----                    
+0000006 010  CSA     As                       Z5 
+0000006 020  VVN     stated                   Q2.1 
+0000006 030  II      in                       Z5 
+0000006 040  AT1     a                        Z5 
+0000006 050  NN1     document                 Q1.2 X2.2+ Y2 
+0000006 060  VVN     released                 A1.7- A9- 
+0000006 070  II      by                       Z5 
+0000006 080  NP1     IEEE                     Z99 
+0000006 081  ,       ,                        
+0000006 090  II21    up                       Z5[i2.2.1 Z5 
+0000006 100  II22    until                    Z5[i2.2.2 Z5 
+0000006 110  RT      now                      T1.1.2 Z4 
+0000006 111  NULL    <quote>                  
+0000006 112  -----   -----                    
+0000006 120  NN      ethics                   G2.2c 
+0000006 121  NULL    </quote>                 
+0000006 122  -----   -----                    
+0000006 130  VHZ     has                      Z5 A9+ A2.2 S4 
+0000006 140  RR      usually                  A6.2+ 
+0000006 150  VVN     referred                 Q2.2 Q1.2 
+0000006 160  II      to                       Z5 
+0000006 170  JJ      professional             I3.2+ I3.1 X9.1+ A5.1+ 
+0000006 180  NN1     conduct                  S1.1.1 
+0000006 181  ,       ,                        
+0000006 190  NN1     privacy                  A10- 
+0000006 191  ,       ,                        
+0000006 200  NN1     safety                   A15+ 
+0000006 210  RR31    and                      Z4[i3.3.1 
+0000006 220  RR32    so                       Z4[i3.3.2 Z5 A13.3 
+0000006 230  RR33    on                       Z4[i3.3.3 
+0000006 231  .       .                        
+0000006 232  -----   -----                    
+0000006 240  RR      However                  Z4 
+0000006 241  ,       ,                        
+0000006 250  JJ      autonomous               S5- 
+0000006 260  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000006 270  VH0     have                     Z5 A9+ A2.2 S4 
+0000006 280  RT      now                      T1.1.2 Z4 
+0000006 290  VVN     changed                  A2.1+ I1 B5 
+0000006 300  RRQ     how                      Z5 A13.3 
+0000006 310  PPIS2   we                       Z8 
+0000006 320  VM      should                   S6+ A7+ 
+0000006 330  VVI     define                   Q2.2 A2.2 
+0000006 340  NN      ethics                   G2.2c 
+0000006 341  .       .                        
+0000007 001  -----   -----                    
+0000008 010  CCB     But                      Z5 
+0000008 020  CS      before                   Z5 
+0000008 030  PN1     anyone                   Z8mfc 
+0000008 040  VVZ     brings                   M2[i4.2.1 S4[i4.2.1 Q2.1[i4.2.1 A2.2[i4.2.1 B1[i4.2.1 M2 A2.2 
+0000008 050  RP      up                       M2[i4.2.2 S4[i4.2.2 Q2.1[i4.2.2 A2.2[i4.2.2 B1[i4.2.2 
+0000008 060  NP1     Isaac                    Z1m 
+0000008 070  NP2     Asimovs                  Z99 
+0000008 080  MC      three                    N1 T1.2 T3 
+0000008 090  NN2     laws                     G2.1 S6+ 
+0000008 100  IO      of                       Z5 
+0000008 110  NN2     robotics                 Y2 
+0000008 111  ,       ,                        
+0000008 120  VBDR    were                     A3+ Z5 
+0000008 130  XX      not                      Z6 
+0000008 140  RG      that                     Z8 
+0000008 150  RR      far                      A13.3 N3.3+ X9.2+ 
+0000008 160  RP      along                    M6 
+0000008 170  RR      yet                      T1.1.2 
+0000008 171  .       .                        
+0000009 001  -----   -----                    
+0000014 010  AT      The                      Z5 
+0000014 020  JJ      Global                   Z3c 
+0000014 030  NN1     Initiative               A1.1.1 X5.2+ 
+0000014 040  IF      for                      Z5 
+0000014 050  JJ      Ethical                  G2.2+ 
+0000014 060  NN1     Consideration            X2.1 X2.4 S1.2.3- 
+0000014 070  II      in                       Z5 
+0000014 080  AT      the                      Z5 
+0000014 090  NN1     Design                   C1 X7+ B5 
+0000014 100  IO      of                       Z5 
+0000014 110  JJ      Autonomous               S5- 
+0000014 120  NN2     Systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000016 010  NP1     IEEE                     Z99 
+0000016 020  VVZ     cites                    Q2.2 Q1.2 G2.1 
+0000016 030  AT      the                      Z5 
+0000016 040  NN1     rise                     N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 O4.4 
+0000016 050  IO      of                       Z5 
+0000016 060  NN1     personalization          A1.2/S5- 
+0000016 061  ,       ,                        
+0000016 070  JJ      tracking                 X2.4 
+0000016 080  CC      and                      Z5 
+0000016 090  NN1     surveillance             X2.4 
+0000016 100  CSA     as                       Z5 
+0000016 110  RR      only                     A14 
+0000016 120  DD      some                     N5 Z5 
+0000016 130  IO      of                       Z5 
+0000016 140  AT      the                      Z5 
+0000016 150  JJ      modern                   T3- 
+0000016 160  NN2     technologies             Y1 
+0000016 170  CST     that                     Z8 Z5 
+0000016 180  VBR     are                      Z5 A3+ 
+0000016 190  VVN     designed                 C1 X7+ 
+0000016 200  TO      to                       Z5 
+0000016 210  VVI     help                     S8+ 
+0000016 220  NN1     humanity                 S1.2.1+ S2 P1% 
+0000016 230  CCB     but                      Z5 
+0000016 240  VBR     are                      A3+ Z5 
+0000016 250  JJ      prone                    A8 M6@ 
+0000016 260  TO      to                       Z5 
+0000016 270  VVI     abuse                    E3- Q2.2 G2.2- A1.5.1/A5.1- 
+0000016 271  .       .                        
+0000016 272  -----   -----                    
+0000016 280  CS21    Rather                   Z5[i5.2.1 
+0000016 290  CS22    than                     Z5[i5.2.2 Z5 
+0000016 300  VVI     dictate                  Q2.2 S7.1+ X6+ 
+0000016 310  CSW     whether                  Z5 
+0000016 320  DA      such                     Z5 Z8 
+0000016 330  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000016 340  VBR     are                      A3+ Z5 
+0000016 350  JJ      ethical                  G2.2+ 
+0000016 360  TO      to                       Z5 
+0000016 370  VVI     use                      A1.5.1 S7.1+ 
+0000016 371  ,       ,                        
+0000016 380  NP1     IEEE                     Z99 
+0000016 390  VVZ     asks                     Q2.2 
+0000016 391  ,       ,                        
+0000016 392  NULL    <quote>                  
+0000016 393  -----   -----                    
+0000016 400  RRQ     How                      Z5 A13.3 
+0000016 410  VM      can                      A7+ 
+0000016 420  PPIS2   we                       Z8 
+0000016 430  RR      pragmatically            S1.2.6+ 
+0000016 440  VVI     implement                A1.1.1 A9-/O2 
+0000016 450  JJ      ethical                  G2.2+ 
+0000016 460  NN1     design                   C1 X7+ B5 
+0000016 470  CC      and                      Z5 
+0000016 480  NN2     methodologies            X4.2 
+0000016 490  IW      without                  Z5 
+0000016 500  VVG     hindering                S8- 
+0000016 510  NN1     innovation               T3- 
+0000016 511  ?       ?                        
+0000016 512  -----   -----                    
+0000016 520  NN2     Thats                    Z5 Z8 A13.3 A6.1+ 
+0000016 530  DDQ     what                     Z8 Z5 
+0000016 540  VBDR    were                     A3+ Z5 
+0000016 550  RL      here                     M6 T1.1.2 T1.2 
+0000016 560  TO      to                       Z5 
+0000016 570  VVI     figure                   X2.5+[i6.2.1 N2[i6.2.1 X2.1 X2.5+ 
+0000016 580  RP      out                      X2.5+[i6.2.2 N2[i6.2.2 M6 
+0000016 581  .       .                        
+0000016 582  NULL    </quote>                 
+0000016 583  -----   -----                    
+0000018 010  AT      The                      Z5 
+0000018 020  JJ      new                      T3- 
+0000018 030  JJ      Global                   Z3c 
+0000018 040  NN1     Initiative               A1.1.1 X5.2+ 
+0000018 050  VVZ     summarizes               Q2.2 
+0000018 060  CST     that                     Z5 Z8 
+0000018 070  APPGE   its                      Z8 
+0000018 080  NN1     mission                  X7+ G3 S9 S9/H1 
+0000018 090  VBZ     is                       A3+ Z5 
+0000018 091  :       :                        
+0000018 092  NULL    <quote>                  
+0000018 093  -----   -----                    
+0000018 100  TO      To                       Z5 
+0000018 110  VVI     ensure                   A7+ 
+0000018 120  AT1     every                    N5.1+ 
+0000018 130  NN1     technologist             Y1/S2mf 
+0000018 140  VBZ     is                       Z5 A3+ 
+0000018 150  VVN     educated                 P1 
+0000018 151  ,       ,                        
+0000018 160  VVN     trained                  P1 K5.1 
+0000018 170  CC      and                      Z5 
+0000018 180  VVN     empowered                S7.1+ 
+0000018 190  TO      to                       Z5 
+0000018 200  VVI     prioritize               A11.1+/A2.1 
+0000018 210  JJ      ethical                  G2.2+ 
+0000018 220  NN2     considerations           X4.1 
+0000018 230  II      in                       Z5 
+0000018 240  AT      the                      Z5 
+0000018 250  NN1     design                   C1 X7+ B5 
+0000018 260  CC      and                      Z5 
+0000018 270  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000018 280  IO      of                       Z5 
+0000018 290  JJ      autonomous               S5- 
+0000018 300  CC      and                      Z5 
+0000018 310  JJ      intelligent              X9.1+ S1.2.6+ 
+0000018 320  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000018 321  .       .                        
+0000018 322  NULL    </quote>                 
+0000018 323  -----   -----                    
+0000020 010  AT      The                      Z5 
+0000020 020  NN1     initiative               A1.1.1 X5.2+ 
+0000020 030  VVZ     defines                  Q2.2 A2.2 
+0000020 040  DD2     these                    Z5 Z8 
+0000020 050  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000020 060  II@     as                       Z5 
+0000020 061  :       :                        
+0000022 010  NP1     Robotics                 Y2 
+0000024 010  NN1     AI                       B3 Y2 
+0000026 010  JJ      Computational            Z99 
+0000026 020  NN1     Intelligence             X9.1+ X2.2+ S1.2.6+ 
+0000028 010  VV0     Machine                  A1.1.1 
+0000028 020  VVG     Learning                 X2.3+ P1 
+0000030 010  RR      Deep                     N3.7+ N5+ O4.3 A4.2+ E4.1- X3.2 W3/M4 
+0000030 020  VVG     Learning                 X2.3+ P1 
+0000032 010  JJ      Cognitive                X2.1 
+0000032 020  NN1     Computing                Y2 N2 
+0000034 010  JJ      Affective                Z99 
+0000034 020  NN1     Computing                Y2 N2 
+0000036 010  NN1     Algorithmically-based    Z99 
+0000036 020  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000042 010  JJ      Algorithm-based          Z99 
+0000042 020  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000042 030  VBR     are                      A3+ Z5 
+0000042 040  JJ      key                      A11.1+ 
+0000042 050  TO      to                       Z5 
+0000042 060  VVI     machine                  A1.1.1 
+0000042 070  NN1     learning                 X2.3+ P1 
+0000042 071  .       .                        
+0000042 072  -----   -----                    
+0000042 080  VV0     Google                   Z3c/Y2 
+0000042 090  RR      recently                 T3--- 
+0000042 100  VVN     taught                   P1 
+0000042 110  JJ      robotic                  O3 
+0000042 120  NN2     arms                     B1 S5+ G3 O2 B5 
+0000042 130  RRQ     how                      Z5 A13.3 
+0000042 140  TO      to                       Z5 
+0000042 150  VVI     identify                 X2.2+ A10+ X2.5+ 
+0000042 160  CC      and                      Z5 
+0000042 170  VVI     interact                 S1.1.2+ A1.1.1 
+0000042 180  IW      with                     Z5 
+0000042 190  NN2     objects                  O2 X7+ 
+0000042 200  JJ      independent              S5- 
+0000042 210  IO      of                       Z5 
+0000042 220  NN2     humans                   S2mf 
+0000042 221  .       .                        
+0000048 001  NULL    <quote>                  
+0000048 002  -----   -----                    
+0000048 010  NN2     Technologies             Y1 
+0000048 011  ,       ,                        
+0000048 020  NN2     methodologies            X4.2 
+0000048 030  CC      and                      Z5 
+0000048 040  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000048 050  CST     that                     Z8 Z5 
+0000048 060  VBR     are                      Z5 A3+ 
+0000048 070  VVN     intended                 X7+ 
+0000048 080  TO      to                       Z5 
+0000048 090  VVI     reduce                   N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000048 100  JJ      human                    S2 S1.2.1+ 
+0000048 110  NN1     intervention             S1.1.3+ N4 
+0000048 120  VBR     are                      Z5 A3+ 
+0000048 130  VVN     poised                   M2 X7+ 
+0000048 140  TO      to                       Z5 
+0000048 150  VVI     transform                A2.1+ 
+0000048 160  AT      the                      Z5 
+0000048 170  NN2     lives                    L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000048 180  IO      of                       Z5 
+0000048 190  NN2     individuals              S2mf 
+0000048 200  II      in                       Z5 
+0000048 210  AT1     a                        Z5 
+0000048 220  NN1     multitude                N5+ 
+0000048 230  IO      of                       Z5 
+0000048 240  JJ      unique                   N5--- 
+0000048 250  CC      and                      Z5 
+0000048 260  JJ      beneficial               S8+ 
+0000048 270  NN2     ways                     X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000048 271  ,       ,                        
+0000048 272  NULL    </quote>                 
+0000048 273  -----   -----                    
+0000048 280  VVD     said                     Q2.1 
+0000048 290  NP1     Konstantinos             Z99 
+0000048 300  NP2     Karachalios              Z99 
+0000048 301  ,       ,                        
+0000048 310  JJ      managing                 S7.1+/S2mf[i8.2.1 S7.1+ A1.1.1 X9.2+ S7.1+/S2mf[i7.2.1 
+0000048 320  NN1     director                 S7.1+/S2mf[i8.2.2 S7.1+/S2mf K4/S2mf S7.1+/S2mf[i7.2.2 
+0000048 330  IF      for                      Z5 
+0000048 340  NP1     IEEE-SA                  Z99 
+0000048 341  .       .                        
+0000050 001  NULL    <quote>                  
+0000050 002  -----   -----                    
+0000050 010  CSA     As                       Z5 
+0000050 020  NN2     machines                 O2 Y2 
+0000050 030  RR      increasingly             A13.3 
+0000050 040  VV0     assist                   S8+ 
+0000050 050  NN2     humans                   S2mf 
+0000050 060  II      in                       Z5 
+0000050 070  AT1     a                        Z5 
+0000050 080  NN1     multitude                N5+ 
+0000050 090  IO      of                       Z5 
+0000050 100  JJ      critical                 Q2.2/E2- X2.4 A11.1+ A15- 
+0000050 110  CC      and                      Z5 
+0000050 120  JJ      sensitive                X2.5+/E1 E6- O4.1 B1 A4.2+ 
+0000050 130  NN2     tasks                    A1.1.1 P1 
+0000050 131  ,       ,                        
+0000050 140  PPH1    it                       Z8 
+0000050 150  VBZ     is                       A3+ Z5 
+0000050 160  JJ      important                A11.1+ 
+0000050 170  TO      to                       Z5 
+0000050 180  VVI     prioritize               A11.1+/A2.1 
+0000050 190  AT      the                      Z5 
+0000050 200  NN1     use                      A1.5.1 
+0000050 210  IO      of                       Z5 
+0000050 220  JJ      ethical                  G2.2+ 
+0000050 230  NN2     considerations           X4.1 
+0000050 240  II      in                       Z5 
+0000050 250  AT      the                      Z5 
+0000050 260  NN1     design                   C1 X7+ B5 
+0000050 270  IO      of                       Z5 
+0000050 280  DD2     these                    Z5 Z8 
+0000050 290  JJ      emergent                 A10+ 
+0000050 300  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000050 301  ,       ,                        
+0000050 302  NULL    </quote>                 
+0000050 303  -----   -----                    
+0000050 310  NN2     Karachalios              Z99 
+0000050 320  VVD     continued                T2++ 
+0000050 321  .       .                        
+0000050 322  NULL    <quote>                  
+0000050 323  -----   -----                    
+0000050 330  DD1     This                     M6 Z5 Z8 
+0000050 340  JJ      new                      T3- 
+0000050 350  NN1     initiative               A1.1.1 X5.2+ 
+0000050 360  VM      will                     T1.1.3 
+0000050 370  VVI     help                     S8+ 
+0000050 380  VVI     ensure                   A7+ 
+0000050 390  CST     that                     Z8 Z5 
+0000050 400  PPIS2   we                       Z8 
+0000050 410  VBR     are                      Z5 A3+ 
+0000050 420  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000050 430  TO      to                       Z5 
+0000050 440  VVI     advance                  M1 A5.1+/A2.1+ I1.1 T4+ S8+ X2.1 
+0000050 450  NN1     technology               Y1 
+0000050 460  IF      for                      Z5 
+0000050 470  NN1     humanity                 S1.2.1+ S2 P1% 
+0000050 480  II      under                    Z5 
+0000050 490  JJ@     principled               G2.2+ 
+0000050 500  NN2     disciplines              G2.1 A1.7+ P1 
+0000050 501  .       .                        
+0000050 502  NULL    </quote>                 
+0000050 503  -----   -----                    
+0000056 010  VVG     Tackling                 A1.1.1 K5.1 Q2.2 
+0000056 020  JJ      Ethical                  G2.2+ 
+0000056 030  NN2     Issues                   X4.1 Q4.2 S4 A9- 
+0000056 040  JJ      Inherent                 A6.2+ 
+0000056 050  II      to                       Z5 
+0000056 060  JJ      Autonomous               S5- 
+0000056 070  NN2     Systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000058 010  AT      The                      Z5 
+0000058 020  NN1     initiative               A1.1.1 X5.2+ 
+0000058 030  VVZ     hopes                    X2.6+ E4.1+ X9.2+ A5.1+ 
+0000058 040  TO      to                       Z5 
+0000058 050  VVI     attract                  O4.2+ S3.2 O3 
+0000058 060  NN2     members                  S5+/S2mf B1 
+0000058 070  II      across                   Z5 
+0000058 080  AT      the                      Z5 
+0000058 090  NN2     fields                   F4 W3 M7 K5.1/M7 G3@ A4.1 
+0000058 100  IO      of                       Z5 
+0000058 110  NN1     engineering              Y1 S7.1+ A1.1.1 
+0000058 111  ,       ,                        
+0000058 120  NN1     law                      G2.1 S6+ Y1 
+0000058 121  ,       ,                        
+0000058 130  NN1     science                  Y1 
+0000058 131  ,       ,                        
+0000058 140  NN1     economics                I1c 
+0000058 141  ,       ,                        
+0000058 150  NN1     philosophy               P1 X2.1 
+0000058 151  ,       ,                        
+0000058 160  NN1     politics                 G1.2c 
+0000058 170  CC      and                      Z5 
+0000058 180  NN1     health                   B2 X9.2 
+0000058 181  .       .                        
+0000059 001  -----   -----                    
+0000060 010  DA2     Several                  N5 
+0000060 020  NN2     committees               S7.1+/S5+c 
+0000060 030  VM      will                     T1.1.3 
+0000060 040  VVI     provide                  A9- S6+ 
+0000060 050  JJ      potential                A7+ 
+0000060 060  NN1     standardization          Z99 
+0000060 070  NN2     projects                 A1.1.1 P1 
+0000060 080  CC      and                      Z5 
+0000060 090  NN1     language                 Q3 Y2 
+0000060 100  IF      for                      Z5 
+0000060 110  NN2     codes                    G2.1 A10-/Q1.1 G2.2 A4.1 Y2@ B3% B1% 
+0000060 120  IO      of                       Z5 
+0000060 130  NN1     conduct                  S1.1.1 
+0000060 140  II      regarding                Z5 
+0000060 150  NN      ethics                   G2.2c 
+0000060 160  CC      and                      Z5 
+0000060 170  JJ      autonomous               S5- 
+0000060 180  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000060 190  IF      for                      Z5 
+0000060 200  NN1     discussion               Q2.1 Q2.2 
+0000060 210  II      in                       Z5 
+0000060 220  JJ      open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000060 230  JJ@     working                  I3.1 A1.1.1 X9.2+ 
+0000060 240  NN2     groups                   S5+ A4.1 B3% 
+0000060 241  .       .                        
+0000060 242  -----   -----                    
+0000060 250  RR21    In                       N5++[i9.2.1 
+0000060 260  RR22    addition                 N5++[i9.2.2 
+0000060 261  ,       ,                        
+0000060 270  AT1     an                       Z5 
+0000060 280  NN1     executive                S7.1+ I2.1/S2mf G1.1c S7.1+/S5+c 
+0000060 290  NN1     committee                S7.1+/S5+c 
+0000060 300  VBZ     is                       Z5 A3+ 
+0000060 310  VVN     comprised                A1.8+ 
+0000060 320  IO      of                       Z5 
+0000060 330  NN2     experts                  X2.2+/S2mf X9.1+/S2mf 
+0000060 340  II      in                       Z5 
+0000060 350  JJ      autonomous               S5- 
+0000060 360  NN2     technologies             Y1 
+0000060 370  CC      and                      Z5 
+0000060 380  NN      ethics                   G2.2c 
+0000060 381  .       .                        
+0000060 382  -----   -----                    
+0000060 390  DD1     This                     M6 Z5 Z8 
+0000060 400  NN1     committee                S7.1+/S5+c 
+0000060 410  VM      will                     T1.1.3 
+0000060 420  VVI     provide                  A9- S6+ 
+0000060 430  JJ      strategic                X7+ G3 
+0000060 440  NN1     guidance                 S8+ 
+0000060 450  IF      for                      Z5 
+0000060 460  NN2     activities               A1.1.1 
+0000060 470  CC      and                      Z5 
+0000060 480  IF      for                      Z5 
+0000060 490  AT      the                      Z5 
+0000060 500  NN2     initiatives              A1.1.1 
+0000060 510  RR      overall                  A14 
+0000060 520  VV0     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000060 521  .       .                        
+0000061 001  -----   -----                    
+0000062 010  AT      The                      Z5 
+0000062 020  NN2     initiatives              A1.1.1 
+0000062 030  NN2     committees               S7.1+/S5+c 
+0000062 040  RR      already                  T1.1.1 
+0000062 050  VV0     include                  A1.8+ 
+0000062 060  NN2     representatives          Q2.1/S2mf G1.1/S2mf I2.2/S2mf A4.1 
+0000062 070  II      from                     Z5 
+0000062 080  AT      the                      Z5 
+0000062 090  NP1     UN                       Z3c 
+0000062 091  ,       ,                        
+0000062 100  AT      the                      Z5 
+0000062 110  NN1     World                    W1 S5+c A4.1 N5+ 
+0000062 120  JJ      Economic                 I1.3- I2.1 
+0000062 130  NN1     Forum                    S1.1.3+c M7 
+0000062 140  CC      and                      Z5 
+0000062 150  AT      the                      Z5 
+0000062 160  NN1     Association              S5+c A6.1+/X2.1 
+0000062 170  IF      for                      Z5 
+0000062 180  AT      the                      Z5 
+0000062 190  NN1     Advancement              A5.1+/A2.1+ S8+ 
+0000062 200  IO      of                       Z5 
+0000062 210  JJ      Artificial               Y2[i10.2.1 A5.4- 
+0000062 220  NN1     Intelligence             Y2[i10.2.2 X9.1+ X2.2+ S1.2.6+ 
+0000062 221  (       (                        
+0000062 230  NP1     AAAI                     Z99 
+0000062 231  )       )                        
+0000062 240  II      among                    Z5 
+0000062 250  JJ      other                    A6.1- 
+0000062 260  NN2     organizations            S5+c S7.1+ 
+0000062 270  CC      and                      Z5 
+0000062 280  NN2     universities             P1/H1c 
+0000062 281  .       .                        
+0000063 001  -----   -----                    
+0000064 010  JJ      Aspiring                 X7+ 
+0000064 020  NN2     innovators               T3-/S2mf T3- 
+0000064 030  NN1     shouldnt                 Z99 
+0000064 040  VBI     be                       Z5 A3+ 
+0000064 050  VVN     discouraged              S8- 
+0000064 060  II      from                     Z5 
+0000064 070  VVG     joining                  A2.2 S5+ A1.8+ A1.1.1 
+0000064 071  ,       ,                        
+0000064 080  RR      however                  Z4 
+0000064 081  .       .                        
+0000064 082  -----   -----                    
+0000064 090  AT      The                      Z5 
+0000064 100  NN1     initiative               A1.1.1 X5.2+ 
+0000064 110  VVZ     aims                     X7+ M6 
+0000064 120  TO      to                       Z5 
+0000064 130  VBI     be                       A3+ Z5 
+0000064 140  JJ      open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000064 150  CC      and                      Z5 
+0000064 160  JJ      inclusive                A1.8+ 
+0000064 161  ,       ,                        
+0000064 162  NULL    <quote>                  
+0000064 163  -----   -----                    
+0000064 170  VVG     welcoming                Q2.2 S1.1.1 
+0000064 180  DB      all                      N5.1+ 
+0000064 190  NN2     individuals              S2mf 
+0000064 200  CC      or                       Z5 
+0000064 210  NN2     representatives          Q2.1/S2mf G1.1/S2mf I2.2/S2mf A4.1 
+0000064 220  IO      of                       Z5 
+0000064 230  NN2     organizations            S5+c S7.1+ 
+0000064 240  VVN     dedicated                Q2.2 A9- 
+0000064 250  II      to                       Z5 
+0000064 260  JJ      ethical                  G2.2+ 
+0000064 270  NN2     considerations           X4.1 
+0000064 280  II      in                       Z5 
+0000064 290  AT      the                      Z5 
+0000064 300  NN1     design                   C1 X7+ B5 
+0000064 310  IO      of                       Z5 
+0000064 320  JJ      autonomous               S5- 
+0000064 330  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000064 331  .       .                        
+0000064 332  NULL    </quote>                 
+0000064 333  -----   -----                    
+0000070 010  EX      There                    Z5 
+0000070 020  VBR     are                      A3+ Z5 
+0000070 030  DA2     many                     N5+ 
+0000070 040  JJ      ethical                  G2.2+ 
+0000070 050  NN2     debates                  Q2.2 
+0000070 060  II      behind                   Z5 
+0000070 070  JJ      self-driving             Z99 
+0000070 080  NN2     vehicles                 M3fn X4.2 
+0000070 090  CC      and                      Z5 
+0000070 100  RRQ     how                      Z5 A13.3 
+0000070 110  PPHS2   they                     Z8mfn 
+0000070 120  VM      may                      A7+ 
+0000070 130  VVI     change                   A2.1+ I1 B5 
+0000070 140  AT      the                      Z5 
+0000070 150  NN2     rules                    G2.1 X4.2 A6.2+ Q3 
+0000070 160  IO      of                       Z5 
+0000070 170  AT      the                      Z5 
+0000070 180  NN1     road                     M3 X4.2 
+0000070 190  CC      and                      Z5 
+0000070 200  VV0     shift                    M2 M1 A2.1+ I2.2 
+0000070 210  NN1     responsibility           S6+ S7.1+ X6+ 
+0000070 220  IF      for                      Z5 
+0000070 230  NN2     accidents                A1.1.2 A1.4 
+0000070 231  ,       ,                        
+0000070 240  II21    along                    Z5[i11.2.1 Z5 
+0000070 250  II22    with                     Z5[i11.2.2 
+0000070 260  JJ      other                    A6.1- 
+0000070 270  NN2     effects                  A2.2 A8 
+0000070 280  II      on                       Z5 
+0000070 290  AT      the                      Z5 
+0000070 300  JJ      automotive               M3 
+0000070 310  NN1     industry                 I4c I2.1c 
+0000070 311  .       .                        
+0000071 001  -----   -----                    
+0000072 010  RR      Currently                T1.1.2 
+0000072 011  ,       ,                        
+0000072 020  AT      the                      Z5 
+0000072 030  NN1     initiative               A1.1.1 X5.2+ 
+0000072 040  VBZ     is                       A3+ Z5 
+0000072 050  II      in                       A1.1.1[i12.4.1 Z5 
+0000072 060  AT      the                      A1.1.1[i12.4.2 Z5 
+0000072 070  NN1     process                  A1.1.1[i12.4.3 A1.1.1 X4.2 
+0000072 080  IO      of                       A1.1.1[i12.4.4 Z5 
+0000072 090  VVG     creating                 A1.1.1 A2.2 E1 
+0000072 100  AT1     a                        Z5 
+0000072 110  NN1     charter                  Q1.2 
+0000072 111  ,       ,                        
+0000072 120  DDQ     which                    Z8 Z5 
+0000072 130  VVZ@    features                 A10+ 
+0000072 140  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
+0000072 150  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000072 160  VVN     related                  A2.2 S3.1 X2.5+ Q2.1 
+0000072 170  II      to                       Z5 
+0000072 180  JJ      autonomous               S5- 
+0000072 190  NN1     technology               Y1 
+0000072 200  CC      and                      Z5 
+0000072 210  VBZ     is                       Z5 A3+ 
+0000072 220  VVN     designed                 C1 X7+ 
+0000072 230  II      as                       Z5 
+0000072 240  AT1     a                        Z5 
+0000072 250  NN1     code                     G2.1 A10-/Q1.1 G2.2 A4.1 Y2@ B3% B1% 
+0000072 260  IO      of                       Z5 
+0000072 270  NN1     conduct                  S1.1.1 
+0000072 271  .       .                        
+0000072 272  -----   -----                    
+0000072 280  AT1     An                       Z5 
+0000072 281  NULL    <quote>                  
+0000072 282  -----   -----                    
+0000072 290  NN1     Alliance                 S5+c 
+0000072 291  ,       ,                        
+0000072 292  NULL    </quote>                 
+0000072 293  -----   -----                    
+0000072 300  RR      currently                T1.1.2 
+0000072 310  II      in                       Z5 
+0000072 320  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000072 321  ,       ,                        
+0000072 330  VM      will                     T1.1.3 
+0000072 340  VVI     act                      A1.1.1 T1.1.2 A8 K4 
+0000072 350  II      as                       Z5 
+0000072 360  AT1     a                        Z5 
+0000072 370  JJ      member-based             Z99 
+0000072 380  NN1     organization             S5+c S7.1+ 
+0000072 390  TO      to                       Z5 
+0000072 400  VVI     house                    H4 
+0000072 410  AT      the                      Z5 
+0000072 420  NN1     charter                  Q1.2 
+0000072 430  CC      and                      S2mf[i13.2.1 Z5 
+0000072 440  JJ      other                    S2mf[i13.2.2 A6.1- 
+0000072 450  NN      works                    I4/H1c H1c A1.1.1 N5.1+ Q4 
+0000072 451  .       .                        
+0000073 001  -----   -----                    
+0000074 010  NN1     Certification            Q2.2/I3.2 
+0000074 020  CC      and                      Z5 
+0000074 030  NN1     training                 P1 K5.1 
+0000074 040  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000074 050  VM      will                     T1.1.3 
+0000074 060  VBI     be                       Z5 A3+ 
+0000074 070  VVN     developed                A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000074 080  TO      to                       Z5 
+0000074 090  VVI     demonstrate              A10+ G1.2 
+0000074 100  RRQ     how                      Z5 A13.3 
+0000074 110  NN1     innovation               T3- 
+0000074 120  VM      can                      A7+ 
+0000074 130  VBI     be                       Z5 A3+ 
+0000074 140  VVN     increased                N5+/A2.1 
+0000074 150  II      by                       Z5 
+0000074 160  AT      the                      Z5 
+0000074 170  NN1     adoption                 A9+ S4 
+0000074 180  IO      of                       Z5 
+0000074 190  JJ      values-based             Z99 
+0000074 200  NN1     AI                       B3 Y2 
+0000074 210  II      in                       Z5 
+0000074 220  NN2     governments              G1.1c 
+0000074 221  ,       ,                        
+0000074 230  NN2     corporations             I2.1/S5c G1.1c 
+0000074 240  CC      and                      Z5 
+0000074 250  NN2     communities              S5+ 
+0000074 251  .       .                        
+0000075 001  -----   -----                    
+0000076 010  AT      The                      Z5 
+0000076 020  NN1     initiative               A1.1.1 X5.2+ 
+0000076 030  VM      will                     T1.1.3 
+0000076 040  RR      also                     N5++ 
+0000076 050  VVI     operate                  A1.1.1 B3 
+0000076 060  II      under                    Z5 
+0000076 070  AT      the                      Z5 
+0000076 080  NN1     Industry                 I4c I2.1c 
+0000076 090  NN2     Connections              A2.2 S5+ M3 O3 A1.1.1 
+0000076 091  (       (                        
+0000076 100  NP1     IC                       Z99 
+0000076 101  )       )                        
+0000076 110  VV0@    program                  Y2 P1 
+0000076 120  TO      to                       Z5 
+0000076 130  VVI     form                     T2+ A2.1+ A1.8+ A3+ A1.1.1 
+0000076 140  JJ      new                      T3- 
+0000076 150  NN2     standards                A5.1 G2.2 Q1.1 O2@ 
+0000076 160  CC      and                      Z5 
+0000076 170  JJ      related                  A2.2 S4 
+0000076 180  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000076 190  CC      and                      Z5 
+0000076 200  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000076 201  .       .                        
+0000077 001  -----   -----                    
+0000078 010  NN      Ethics                   G2.2c 
+0000078 011  ,       ,                        
+0000078 020  NN1     Society                  S5+c 
+0000078 021  NULL    &;                       
+0000078 030  NN1     Technology               Y1 
+0000078 040  NN1     Program                  Y2 X7+ Q4.3 Q1.2 P1 
+0000080 010  AT      The                      Z5 
+0000080 020  JJ      Global                   Z3c 
+0000080 030  NN1     Initiative               A1.1.1 X5.2+ 
+0000080 040  VBZ     is                       A3+ Z5 
+0000080 050  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000080 060  IO      of                       Z5 
+0000080 070  AT1     a                        Z5 
+0000080 080  JJR     broader                  A4.2-- N3.7++ N5++ 
+0000080 090  NP1     IEEE                     Z99 
+0000080 100  NN1     effort                   X8+ O2 
+0000080 110  II      on                       Z5 
+0000080 120  NN      ethics                   G2.2c 
+0000080 130  II      in                       Z5 
+0000080 140  NN1     technology               Y1 
+0000080 141  ,       ,                        
+0000080 150  DDQ     which                    Z8 Z5 
+0000080 160  VVZ     includes                 A1.8+ 
+0000080 170  AT1     a                        Z5 
+0000080 180  JJ      new                      T3- 
+0000080 190  NN      Ethics                   G2.2c 
+0000080 191  ,       ,                        
+0000080 200  NN1     Society                  S5+c 
+0000080 210  CC      and                      Z5 
+0000080 220  NN1     Technology               Y1 
+0000080 230  NN1     Program                  Y2 X7+ Q4.3 Q1.2 P1 
+0000080 240  VVN     focused                  X5.1+ X3.4 A4.2+ 
+0000080 250  II      on                       Z5 
+0000080 260  VVG     creating                 A1.1.1 A2.2 E1 
+0000080 270  CC      and                      Z5 
+0000080 280  JJ      expanding                N3.2+/A2.1 
+0000080 290  NN2     debates                  Q2.2 
+0000080 291  ,       ,                        
+0000080 300  NN1     dialog                   Q2.1 
+0000080 310  CC      and                      Z5 
+0000080 320  NN1     conversation             Q2.1 
+0000080 330  CS21    so                       Z5[i14.2.1 Z5 
+0000080 340  CS22    that                     Z5[i14.2.2 Z5 Z8 
+0000080 350  DB      all                      N5.1+ 
+0000080 360  NN2     aspects                  A4.1 A8 M6 
+0000080 370  IO      of                       Z5 
+0000080 380  AT1     an                       Z5 
+0000080 390  NN      ethics                   G2.2c 
+0000080 400  VV0     issue                    A9- 
+0000080 410  VBR     are                      Z5 A3+ 
+0000080 420  VVN     examined                 X2.4 B3 P1 
+0000080 421  .       .                        
+0000081 001  -----   -----                    
+0000082 010  NN1     Initiative               A1.1.1 X5.2+ 
+0000082 020  NN2     participants             S1.1.3+mfn 
+0000082 030  VM      will                     T1.1.3 
+0000082 040  VHI     have                     A9+ Z5 A2.2 S4 
+0000082 050  APPGE   their                    Z8 
+0000082 060  MD      first                    N4 
+0000082 070  JJ      face-to-face             S1.1.3+ 
+0000082 080  NN1     meeting                  S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+ 
+0000082 090  II      at                       Z5 
+0000082 100  AT      the                      Z5 
+0000082 110  JJ      European                 Z3 
+0000082 120  NN1     Conference               S1.1.3+ 
+0000082 130  II      on                       Z5 
+0000082 140  JJ      Artificial               Y2[i15.2.1 A5.4- 
+0000082 150  NN1     Intelligence             Y2[i15.2.2 X9.1+ X2.2+ S1.2.6+ 
+0000082 151  (       (                        
+0000082 160  NP1     ECAI                     Z99 
+0000082 161  )       )                        
+0000082 162  ,       ,                        
+0000082 170  TO      to                       Z5 
+0000082 180  VBI     be                       Z5 A3+ 
+0000082 190  VVN     held                     M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+ 
+0000082 200  II      in                       Z5 
+0000082 210  NPM1    August                   T1.3[i16.2.1 T1.3 
+0000082 220  MC      2016                     T1.3[i16.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000082 230  II      in                       Z5 
+0000082 240  AT      The                      Z2[i17.2.1 Z5 
+0000082 250  NP1     Hague                    Z2[i17.2.2 Z2 Z1mf 
+0000082 251  ,       ,                        
+0000082 260  NP1     Netherlands              Z2 Z3c 
+0000082 261  .       .                        
+0000083 001  -----   -----                    
+0000084 010  IF      For                      Z5 
+0000084 020  DAR     more                     N5++ 
+0000084 030  NN1     information              X2.2+ 
+0000084 031  ,       ,                        
+0000084 040  VV0     visit                    S1.1.1 M1 
+0000084 050  NNU     standards.ieee.org       Z99 
+0000084 051  .       .                        
+0000086 001  NULL    **8;7;text               

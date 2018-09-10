@@ -1,0 +1,477 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN1     Trump                    Z1mf K5.2 
+0000002 020  VVD     said                     Q2.1 
+0000002 030  CST     that                     Z5 Z8 
+0000002 040  NP1     Obama                    Z99 
+0000002 050  VHD     had                      S1.1.3+[i1.4.1 A9+ Z5 A2.2 S4 
+0000002 060  AT1     a                        S1.1.3+[i1.4.2 Z5 
+0000002 070  NN1     hand                     S1.1.3+[i1.4.3 B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000002 080  II      in                       S1.1.3+[i1.4.4 Z5 
+0000002 090  VVG     creating                 A1.1.1 A2.2 E1 
+0000002 100  NP1     ISIS                     Z3c 
+0000002 101  .       .                        
+0000002 102  -----   -----                    
+0000002 110  CS21    Now                      Z5[i2.2.1 Z5 
+0000002 120  CS22    that                     Z5[i2.2.2 Z5 Z8 
+0000002 130  NP1     Donald                   Z1mf[i3.2.1 Z3c[i3.2.1 Z1mf 
+0000002 140  NN1     Trump                    Z1mf[i3.2.2 Z3c[i3.2.2 Z1mf 
+0000002 150  VBZ     is                       A3+ Z5 
+0000002 160  AT      the                      Z5 
+0000002 170  NNB     president-elect          G1.1/S7.1+/S2mf 
+0000002 171  ,       ,                        
+0000002 180  NP1     Vladimir                 Z1mf[i4.2.1 Z3c[i4.2.1 
+0000002 190  NP1     Putin                    Z1mf[i4.2.2 Z3c[i4.2.2 
+0000002 191  ,       ,                        
+0000002 200  IO      of                       Z5 
+0000002 210  DB      all                      N5.1+ 
+0000002 220  NN      people                   S2mfc 
+0000002 221  ,       ,                        
+0000002 230  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 240  VVN     confirmed                A7+ Q2.2 S9@ 
+0000002 250  DD1     this                     Z8 M6 Z5 
+0000002 251  .       .                        
+0000003 001  -----   -----                    
+0000004 010  NP1@    Putin                    Z99 
+0000004 020  VVD     said                     Q2.1 
+0000004 030  AT      the                      Z5 
+0000004 040  JJ      Syrian                   Z2/S2mf 
+0000004 050  NN2     rebels                   G3/S2mf G1.2/A6.1-/S2mf A6.1-/S2mf 
+0000004 060  VBR     are                      A3+ Z5 
+0000004 070  NN2     mercenaries              G3/S2mf 
+0000004 080  PNQS    who                      Z8 
+0000004 090  RR      only                     A14 
+0000004 100  VV0     fight                    S8- X8+ E3- G1.2 
+0000004 110  IF      for                      Z5 
+0000004 120  PNQV    whomever                 Z8 
+0000004 130  VVZ     pays                     I1.2 A9- I1.1/I3.1 
+0000004 140  PPHO2   them                     Z8mfn 
+0000004 150  RRR     more                     A13.3 N6++ 
+0000004 151  .       .                        
+0000004 152  -----   -----                    
+0000004 160  CS      While                    Z5 
+0000004 170  AT      the                      Z5 
+0000004 180  NN1     president                G1.1/S7.1+/S2mf 
+0000004 190  IO      of                       Z5 
+0000004 200  NP1     Russia                   Z2 
+0000004 210  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000004 220  XX      not                      Z6 
+0000004 230  VVI     come                     M1[i5.2.1 A10-[i5.2.1 A10+[i5.2.1 A1.1.1[i5.2.1 T2-[i5.2.1 S3.2/B1@[i5.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000004 240  RP      out                      M1[i5.2.2 A10-[i5.2.2 A10+[i5.2.2 A1.1.1[i5.2.2 T2-[i5.2.2 S3.2/B1@[i5.2.2 M6 
+0000004 250  CC      and                      Z5 
+0000004 260  VVI     say                      Q2.1 Z4% 
+0000004 270  PPH1    it                       Z8 
+0000004 280  VBZ     is                       Z5 A3+ 
+0000004 290  NP1     America                  Z2 
+0000004 300  VVG     arming                   G3 
+0000004 310  PPHO2   them                     Z8mfn 
+0000004 311  ,       ,                        
+0000004 320  PPHS1   he                       Z8m 
+0000004 330  RR      definitely               A7+++ 
+0000004 331  ,       ,                        
+0000004 340  RR      strongly                 A13.3 A5.1+ 
+0000004 350  VVN     hinted                   Q2.2 
+0000004 360  II      at                       A1.1.1[i6.2.1 Z5 
+0000004 370  PPH1    it                       A1.1.1[i6.2.2 Z8 
+0000004 371  .       .                        
+0000005 001  -----   -----                    
+0000008 010  RR21    Of                       Z4[i7.2.1 
+0000008 020  RR22    course                   Z4[i7.2.2 Z4 
+0000008 021  ,       ,                        
+0000008 030  DD1     this                     Z8 M6 Z5 
+0000008 040  VBZ     is                       A3+ Z5 
+0000008 050  AT      the                      Z5 
+0000008 060  NN1     type                     A4.1 A6.2+ S1.2 Q1.2 
+0000008 070  IO      of                       Z5 
+0000008 080  JJ      flawed                   A5.1- A1.1.2 
+0000008 090  NN1     leadership               S7.1+ 
+0000008 100  PPIS2   we                       Z8 
+0000008 110  VH0     have                     Z5 A9+ A2.2 S4 
+0000008 120  VVN     come                     A1.1.1 
+0000008 130  TO      to                       Z5 
+0000008 140  VVI     expect                   X2.6+ B1 
+0000008 150  II      under                    Z5 
+0000008 160  AT      the                      Z5 
+0000008 170  NP1     Obama                    Z99 
+0000008 180  NN1     administration           S7.1+c A9- 
+0000008 181  .       .                        
+0000008 182  -----   -----                    
+0000008 190  NN2     Putins                   Z99 
+0000008 200  JJ      strong                   S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+ 
+0000008 210  NN2     words                    Q3 
+0000008 220  VH0     have                     A9+ Z5 A2.2 S4 
+0000008 230  RR      also                     N5++ 
+0000008 231  ,       ,                        
+0000008 240  RR      sadly                    E4.1- 
+0000008 241  ,       ,                        
+0000008 250  VBN     been                     Z5 A3+ 
+0000008 260  VVN     confirmed                A7+ Q2.2 S9@ 
+0000008 270  II      by                       Z5 
+0000008 280  JJ      other                    A6.1- 
+0000008 290  NN2     sources                  T2+ Q1.1 X2.2 W3/M4 
+0000008 291  .       .                        
+0000009 001  -----   -----                    
+0000010 010  ZZ1     A                        Z5 
+0000010 020  NN2     Wikileaks                Z99 
+0000010 030  VV0@    report                   Q2.2 S7.1- 
+0000010 040  MD      last                     T1.1.1[i9.2.1 N4 T1.3[i8.2.1 
+0000010 050  NPM1    August                   T1.1.1[i9.2.2 T1.3 T1.3[i8.2.2 
+0000010 060  VVD     proved                   A5.2+ X2.4 
+0000010 070  CST     that                     Z5 Z8 
+0000010 080  NP1     Hillary                  Z99 
+0000010 090  RR      actually                 A5.4+ A14 
+0000010 100  VVD     lied                     A5.2- 
+0000010 110  II      under                    Z5 
+0000010 120  NN1     oath                     Q2.2 
+0000010 130  CS      when                     Z5 
+0000010 140  PPHS1   she                      Z8f 
+0000010 150  VBDZ    was                      Z5 A3+ 
+0000010 160  VVN@    asked                    Q2.2 
+0000010 170  II      about                    Z5 
+0000010 180  AT      the                      Z5 
+0000010 190  NN2     weapons                  G3 X4.1 
+0000010 200  VV0@    trade                    I2.2 
+0000010 210  NN1     program                  Y2 X7+ Q4.3 Q1.2 P1 
+0000010 220  CST     that                     Z8 Z5 
+0000010 230  VVD     occurred                 A2.1+ A3+ X2.1 
+0000010 240  IW      with                     Z5 
+0000010 250  NP1     Syria                    Z2 
+0000010 260  VVG     starting                 T2+ E5- E3- 
+0000010 270  AT1     a                        Z5 
+0000010 280  NNT1    year                     T1.3 P1c 
+0000010 290  II      before                   Z5 
+0000010 300  AT      the                      Z5 
+0000010 310  JJ      Benghazi                 Z99 
+0000010 320  NN2     attacks                  E3- G3 B2- A1.1.2 Q2.2 
+0000010 321  .       .                        
+0000010 322  -----   -----                    
+0000010 330  II      In                       Z5 
+0000010 340  AT      the                      Z5 
+0000010 350  NN1     batch                    N5 
+0000010 360  IO      of                       Z5 
+0000010 370  JJ      leaked                   A1.7- A1.1.2 A10+/Q2.2 
+0000010 380  NN2     emails                   Q1.3/Y2 
+0000010 381  ,       ,                        
+0000010 390  AT1     an                       Z5 
+0000010 400  JJ      astonishing              X2.6- A6.2- 
+0000010 410  MC      17,000                   N1 T1.2 T3 T1.3 N3.2 
+0000010 420  IO      of                       Z5 
+0000010 430  PPHO2   them                     Z8mfn 
+0000010 440  VBDR    were                     A3+ Z5 
+0000010 450  II      about                    Z5 
+0000010 460  NP1     Syria                    Z2 
+0000010 470  RR      alone                    S5- A14 
+0000010 471  ,       ,                        
+0000010 480  CSA     as                       Z5 
+0000010 490  II      per                      Z5 
+0000010 500  AT      The                      Z5 
+0000010 510  JJ      National                 Z3c 
+0000010 520  NN1     Review                   X2.4 Q4 
+0000010 521  .       .                        
+0000011 001  -----   -----                    
+0000012 010  PN1     Something                Z8 
+0000012 020  VVZ     tells                    Q2.2 Q2.1 X3 A10+ 
+0000012 030  PPIO1   me                       Z8mf 
+0000012 040  DD1     this                     M6 Z5 Z8 
+0000012 050  NN1     isnt                     Z99 
+0000012 060  AT      the                      Z5 
+0000012 070  NN1     type                     A4.1 A6.2+ S1.2 Q1.2 
+0000012 080  IO      of                       Z5 
+0000012 090  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
+0000012 100  CST     that                     Z5 Z8 
+0000012 110  AT      the                      Z5 
+0000012 120  NP1     Clinton                  Z1mf 
+0000012 130  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000012 140  VBDZ    was                      Z5 A3+ 
+0000012 150  VVG     going                    E2+[i10.2.1 X7+[i10.2.1 E3-[i10.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000012 160  IF      for                      E2+[i10.2.2 X7+[i10.2.2 E3-[i10.2.2 Z5 
+0000012 170  RRQ     when                     Z5 
+0000012 180  PPHS2   they                     Z8mfn 
+0000012 190  VBDR    were                     Z5 A3+ 
+0000012 200  VVG     squaring                 O4.4 A6.1+ N2 S7.4 
+0000012 210  RP      off                      M6 K1 A1.1.1 A1.9 
+0000012 220  II      against                  Z5 
+0000012 230  NN1     Trump                    Z1mf 
+0000012 231  ,       ,                        
+0000012 240  CCB     but                      Z5 
+0000012 250  DD1     this                     Z8 M6 Z5 
+0000012 260  VBZ     is                       A3+ Z5 
+0000012 270  RR      also                     N5++ 
+0000012 280  JJ      solid                    O1.1 O4.5 A5.1+ A5.3+ T2++ 
+0000012 290  NN1     verification             A10+ 
+0000012 300  IO      of                       Z5 
+0000012 310  NP2     Putins                   Z99 
+0000012 320  NN1     statement                Q2.1 I1/Q1.2 
+0000012 321  .       .                        
+0000013 001  -----   -----                    
+0000014 010  II      In                       Z5 
+0000014 020  NP2     Clintons                 Z1mf 
+0000014 030  VVZ@    attempts                 X8+ 
+0000014 040  TO      to                       Z5 
+0000014 050  VVI     win                      X9.2+/S7.3 X9.2+/G3 A9+ 
+0000014 060  DDQ     what                     Z8 Z5 
+0000014 070  VM      would                    A7+ 
+0000014 080  RR      essentially              S6+ A13.2 Z4 
+0000014 090  VHI     have                     Z5 A9+ A2.2 S4 
+0000014 100  VBN     been                     A3+ Z5 
+0000014 110  AT1     a                        Z5 
+0000014 120  MD      third                    N4 N5 N1 
+0000014 130  NN1     term                     Q3 T1.3 S6+ 
+0000014 140  IF      for                      Z5 
+0000014 150  NP1     Obama                    Z99 
+0000014 151  ,       ,                        
+0000014 160  PPHS1   she                      Z8f 
+0000014 170  VM      would                    A7+ 
+0000014 180  VHI     have                     Z5 A9+ A2.2 S4 
+0000014 190  VVN     contributed              A9- A2.2 S1.1.3+ 
+0000014 200  II      to                       Z5 
+0000014 210  AT      the                      Z5 
+0000014 220  JJ      international            M7 
+0000014 230  NN1     discord                  A6.1- E3- 
+0000014 240  CC      and                      Z5 
+0000014 250  NN1     unrest                   E3- E6- 
+0000014 260  PPIS2   we                       Z8 
+0000014 270  VH0     have                     A9+ Z5 A2.2 S4 
+0000014 280  DB      all                      N5.1+ 
+0000014 290  VVI     become                   A2.1+ O4.2+ 
+0000014 300  RR      painfully                B2- E4.1- 
+0000014 310  JJ      aware                    X2.2+ 
+0000014 320  IO      of                       Z5 
+0000014 321  .       .                        
+0000015 001  -----   -----                    
+0000016 010  VVZ     Lets                     S7.4+ I2.2/H1 T2- 
+0000016 020  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000016 030  PN1     something                Z8 
+0000016 040  RR      absolutely               A13.2 Z4 
+0000016 050  JJ      clear                    A7+ A10+ O4.3 O4.1 N5.1+ W4 
+0000016 051  :       :                        
+0000016 060  II      in                       Z5 
+0000016 070  AT1     a                        Z5 
+0000016 080  NN1     world                    W1 S5+c A4.1 N5+ 
+0000016 090  RRQ     where                    M6 
+0000016 100  NP1     America                  Z2 
+0000016 110  VBZ     is                       A3+ Z5 
+0000016 120  XX      not                      Z6 
+0000016 130  JJ      dominant                 S7.1+ A11.1+ A11.2+ 
+0000016 140  II      on                       Z5 
+0000016 150  AT      the                      Z5 
+0000016 160  NN1     world                    W1 S5+c A4.1 N5+ 
+0000016 170  NN1     stage                    T1.2 N5.1- H2/K4 K4 A4.1 
+0000016 180  CC      and                      Z5 
+0000016 190  RRQ     where                    M6 
+0000016 200  NP1     ISIS                     Z3c 
+0000016 210  VBZ     is                       Z5 A3+ 
+0000016 220  VVN     allowed                  S7.4+ S8+ X2.1 
+0000016 230  TO      to                       Z5 
+0000016 240  VVI     grow                     N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000016 250  JJR     stronger                 S1.2.5++ N5++ A5.1++ X5.2++ S7.1++ X9.1++ O4.1 S1.2.3++ 
+0000016 251  ,       ,                        
+0000016 260  DD2     those                    Z5 Z8 
+0000016 270  PNQS    who                      Z8 
+0000016 280  VV0     love                     E2+ 
+0000016 290  NN1     freedom                  A1.7- 
+0000016 300  VV0     lose                     X9.2- A9- M6/A5.3- L1- 
+0000016 301  .       .                        
+0000016 302  -----   -----                    
+0000016 310  DD2     Those                    Z5 Z8 
+0000016 320  PNQS    who                      Z8 
+0000016 330  VV0     believe                  X2.1 S9% 
+0000016 340  II      in                       Z5 
+0000016 350  DB      all                      N5.1+ 
+0000016 360  APPGE   our                      Z8 
+0000016 370  NN2     countrys                 G1.1c W3 F4/M7 K2 
+0000016 380  JJ      wonderful                A5.1+ 
+0000016 390  NN2     principles               G2.2 X4.1 
+0000016 400  VM      would                    A7+ 
+0000016 410  RR      soon                     T1.1.3/N3.8+ 
+0000016 420  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000016 430  PPHO2   them                     Z8mfn 
+0000016 440  VVI     slip                     M1 A9- A2.1+ A5.1-/A2.1 
+0000016 450  RL      away                     M6 A1.1.1% 
+0000016 451  .       .                        
+0000017 001  -----   -----                    
+0000018 010  AT      The                      Z5 
+0000018 020  NP1     United                   Z2c[i13.2.1 Z2c[i12.2.1 Z3c Z1mf[i11.2.1 Z3c[i11.2.1 
+0000018 030  NP1     States                   Z2c[i13.2.2 Z2c[i12.2.2 Z2 Z1mf[i11.2.2 Z3c[i11.2.2 
+0000018 040  IO      of                       Z5 
+0000018 050  NP1     America                  Z2 
+0000018 060  RR      simply                   A13.6 A14 A12+ 
+0000018 070  VM      could                    A7+ 
+0000018 080  XX      not                      Z6 
+0000018 090  VVI     afford                   I1.1 A9+ 
+0000018 100  TO      to                       Z5 
+0000018 110  VHI     have                     A9+ Z5 A2.2 S4 
+0000018 120  DAR     more                     N5++ 
+0000018 130  IO      of                       Z5 
+0000018 140  AT      the                      Z5 
+0000018 150  DA      same                     A6.1+++ 
+0000018 151  .       .                        
+0000018 152  -----   -----                    
+0000018 160  PPIS2   We                       Z8 
+0000018 161  ,       ,                        
+0000018 170  CC      and                      Z5 
+0000018 180  AT      the                      Z5 
+0000018 190  NN1     rest                     E3+ K1 T2-/T1.3 O2 N5.1- 
+0000018 200  IO      of                       Z5 
+0000018 210  AT      the                      Z5 
+0000018 220  NN1     world                    W1 S5+c A4.1 N5+ 
+0000018 221  ,       ,                        
+0000018 230  VM      could                    A7+ 
+0000018 240  XX      not                      Z6 
+0000018 250  VVI     afford                   I1.1 A9+ 
+0000018 260  TO      to                       Z5 
+0000018 270  VHI     have                     A9+ Z5 A2.2 S4 
+0000018 280  AT      the                      Z5 
+0000018 290  NP1     ISIS                     Z3c 
+0000018 300  NN2     rebels                   G3/S2mf G1.2/A6.1-/S2mf A6.1-/S2mf 
+0000018 310  VV0     grow                     N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000018 320  JJR     stronger                 S1.2.5++ N5++ A5.1++ X5.2++ S7.1++ X9.1++ O4.1 S1.2.3++ 
+0000018 330  CC      and                      Z5 
+0000018 340  RRR     more                     A13.3 N6++ 
+0000018 350  VVN     organized                S7.1+ O4.1 S5+@ 
+0000018 351  .       .                        
+0000018 352  -----   -----                    
+0000018 360  II      In                       Z5 
+0000018 370  AT      the                      Z5 
+0000018 380  NN1     midst                    M6 N4 T1.2 
+0000018 390  IO      of                       Z5 
+0000018 400  DB      all                      N5.1+ 
+0000018 410  DD1     this                     Z8 M6 Z5 
+0000018 411  ,       ,                        
+0000018 420  NP1     Donald                   Z1mf[i14.2.1 Z3c[i14.2.1 Z1mf 
+0000018 430  NN1     Trump                    Z1mf[i14.2.2 Z3c[i14.2.2 Z1mf 
+0000018 440  VVD     began                    T2+ 
+0000018 450  TO      to                       Z5 
+0000018 460  VVI     throw                    M2[i15.2.1 X7-[i15.2.1 K5.1@[i15.2.1 M2 A2.2 Q2.2 A1.1.1 X2.5- 
+0000018 470  RP      out                      M2[i15.2.2 X7-[i15.2.2 K5.1@[i15.2.2 M6 
+0000018 480  JJ      massive                  N3.2+ 
+0000018 490  NN1     truth                    A5.2+ 
+0000018 500  NN2     bombs                    G3 N5+ 
+0000018 501  ,       ,                        
+0000018 510  II      including                A1.8+ 
+0000018 520  DD1     that                     Z5 Z8 
+0000018 530  NN1@    Obama                    Z99 
+0000018 540  CC      and                      Z5 
+0000018 550  NP1     Clinton                  Z1mf 
+0000018 560  VVD     created                  A1.1.1 A2.2 E1 
+0000018 570  NP1     ISIS                     Z3c 
+0000018 580  II      by                       A2.2[i16.3.1 Z5 
+0000018 590  NN1     virtue                   A2.2[i16.3.2 G2.2+ 
+0000018 600  IO      of                       A2.2[i16.3.3 Z5 
+0000018 610  APPGE   their                    Z8 
+0000018 620  NN2     policies                 X7+ Q1.2 
+0000018 621  .       .                        
+0000018 622  -----   -----                    
+0000018 630  DD1     This                     Z8 M6 Z5 
+0000018 640  VVD     seemed                   A8 
+0000018 650  RR      incredibly               A13.3 A6.2- 
+0000018 660  JJ      outrageous               N5.2+ S1.2.4- 
+0000018 670  II      to                       Z5 
+0000018 680  NN2     liberals                 G1.2/S2mf 
+0000018 681  .       .                        
+0000019 001  -----   -----                    
+0000020 010  RR      However                  Z4 
+0000020 011  ,       ,                        
+0000020 020  NN1     credit                   I1.1 A5.1+ X2.1 P1 
+0000020 030  NN1     Trump                    Z1mf 
+0000020 040  IF      for                      Z5 
+0000020 050  VBG     being                    A3+ Z5 
+0000020 060  JJ      bold                     O4.1 E5+ 
+0000020 070  RR      enough                   N5+ N6+ 
+0000020 080  TO      to                       Z5 
+0000020 090  VVI     say                      Q2.1 Z4% 
+0000020 100  PPH1    it                       Z8 
+0000020 101  .       .                        
+0000020 102  -----   -----                    
+0000020 110  DD1     This                     Z8 M6 Z5 
+0000020 120  VBZ     is                       A3+ Z5 
+0000020 130  RR      definitely               A7+++ 
+0000020 140  AT      the                      Z5 
+0000020 150  NN1     type                     A4.1 A6.2+ S1.2 Q1.2 
+0000020 160  IO      of                       Z5 
+0000020 170  NN1     leadership               S7.1+ 
+0000020 180  PPIS2   we                       Z8 
+0000020 190  VV0     need                     S6+ 
+0000020 191  .       .                        
+0000020 192  -----   -----                    
+0000020 200  EX      There                    Z5 
+0000020 210  VBZ     is                       A3+ Z5 
+0000020 220  AT      no                       Z6 
+0000020 230  NN1     question                 Q2.2 X4.1 
+0000020 240  PPH1    it                       Z8 
+0000020 250  VBZ     is                       A3+ Z5 
+0000020 260  AT1     a                        Z5 
+0000020 270  JJ      sad                      E4.1- A5.1- 
+0000020 280  NNT1    day                      T1.3 
+0000020 290  II      in                       Z5 
+0000020 300  NP1     America                  Z2 
+0000020 310  RRQ     when                     Z5 
+0000020 320  PPH1    it                       Z8 
+0000020 330  VBZ     is                       A3+ Z5 
+0000020 340  NP1     Vladimir                 Z1mf[i17.2.1 Z3c[i17.2.1 
+0000020 350  NP1     Putin                    Z1mf[i17.2.2 Z3c[i17.2.2 
+0000020 360  PNQS    who                      Z8 
+0000020 370  VVZ     sounds                   A6.1+[i18.2.1 X3.2 Q2.2 A8 N3.1% 
+0000020 380  RRR     more                     A13.3 N6++ 
+0000020 390  II      like                     A6.1+[i18.2.2 Z5 
+0000020 400  AT1     an                       Z5 
+0000020 410  JJ      American                 Z2 
+0000020 420  CSN     than                     Z5 
+0000020 430  RR      even                     A13.1 
+0000020 440  APPGE   our                      Z8[i19.2.1 Z8 
+0000020 450  DA      own                      Z8[i19.2.2 A9+ S5- 
+0000020 460  NN1     sitting                  M8 C1 P1 G1.1 G2.1 M6 A9+ 
+0000020 470  NN1     president                G1.1/S7.1+/S2mf 
+0000020 471  .       .                        
+0000020 472  -----   -----                    
+0000020 480  RR      Thankfully               E4.2+ 
+0000020 481  ,       ,                        
+0000020 490  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000020 500  RR      soon                     T1.1.3/N3.8+ 
+0000020 510  VH0     have                     A9+ Z5 A2.2 S4 
+0000020 520  AT1     a                        Z5 
+0000020 530  JJ      true                     A5.2+ A5.4+ 
+0000020 540  NN1     leader                   S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000020 550  II      in                       Z5 
+0000020 560  AT      the                      Z5 
+0000020 570  NP1     White                    Z3c[i20.2.1 Z2[i20.2.1 Z1mf 
+0000020 580  NN1     House                    Z3c[i20.2.2 Z2[i20.2.2 H1 P1/S5+c G1.1c 
+0000020 581  .       .                        
+0000021 001  -----   -----                    
+0000022 010  RR      Seriously                A13.3 Z4 E4.1- 
+0000022 011  ,       ,                        
+0000022 020  NP1     Obama                    Z99 
+0000022 021  ,       ,                        
+0000022 030  DD1     this                     M6 Z5 Z8 
+0000022 040  NN1     isnt                     Z99 
+0000022 050  AT1     a                        Z5 
+0000022 060  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000022 061  .       .                        
+0000022 062  -----   -----                    
+0000022 070  DD1     This                     Z8 M6 Z5 
+0000022 080  VBZ     is                       Z5 A3+ 
+0000022 090  VBG     being                    A3+ Z5 
+0000022 100  AT      the                      Z5 
+0000022 110  NN1     leader                   S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000022 120  IO      of                       Z5 
+0000022 130  AT      the                      Z5 
+0000022 140  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000022 150  NN1     world                    W1 S5+c A4.1 N5+ 
+0000022 151  .       .                        
+0000022 152  -----   -----                    
+0000022 160  VV0     Go                       M1[i21.2.1 A2.1+[i21.2.1 T1.1.1[i21.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000022 170  RP      back                     M1[i21.2.2 A2.1+[i21.2.2 T1.1.1[i21.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000022 180  II      to                       Z5 
+0000022 190  APPGE   your                     Z8 
+0000022 200  NN2     looney-tunes             Z99 
+0000022 210  NN1     professor                P1/S2mf 
+0000022 220  NN1     job                      I3.1 A1.1.1 A12- 
+0000022 230  CC      and                      Z5 
+0000022 240  NN1     community                S5+c 
+0000022 250  VVG     organizing               S7.1+ O4.1 S5+@ 
+0000022 260  CC      and                      Z5 
+0000022 270  VV0     quit                     T2- I3.1- M1 
+0000022 280  VVG     playing                  K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000022 290  NN1     leader                   S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000022 291  !       !                        
+0000024 001  NULL    **8;7;text               

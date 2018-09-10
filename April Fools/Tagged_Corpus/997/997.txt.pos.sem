@@ -1,0 +1,194 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     WAYNE                    Z1mf 
+0000002 011  GE      'S                       Z5 
+0000002 020  NN1     World                    W1 S5+c A4.1 N5+ 
+0000002 030  CC      and                      Z5 
+0000002 040  NP1     Wayne                    Z1mf 
+0000002 041  GE      's                       Z5 
+0000002 050  NN1     World                    W1 S5+c A4.1 N5+ 
+0000002 051  GE      's                       Z5 
+0000002 060  MC      2                        A5.1[i1.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000002 070  NN1     star                     A5.1[i1.2.2 W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 Z2[i2.2.1 Z3c[i2.2.1 Z1mf[i2.2.1 
+0000002 080  NP1     Tia                      Z99 Z2[i2.2.2 Z3c[i2.2.2 Z1mf[i2.2.2 Z1mf[i3.2.1 Z3c[i3.2.1 
+0000002 090  NP1     Carrere                  Z99 Z1mf[i3.2.2 Z3c[i3.2.2 
+0000002 100  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 110  VVN     filed                    Q1.2 A1.1.1 
+0000002 120  IF      for                      Z5 
+0000002 130  NN1     divorce                  S4 A6.1- 
+0000002 131  -       -                        
+0000002 140  APPGE   her                      Z8f 
+0000002 150  MD      second                   N4 
+0000002 160  JJ@     busted                   Z99 
+0000002 170  NN1     marriage                 S4 
+0000002 171  -       -                        
+0000002 180  CC      and                      Z5 
+0000002 190  VVZ     says                     Q2.1 
+0000002 200  PPHS1   she                      Z8f 
+0000002 201  VBZ     's                       A3+ Z5 
+0000002 210  II      in                       Z5 
+0000002 220  AT      the                      Z5 
+0000002 221  NULL    <quote>                  
+0000002 222  -----   -----                    
+0000002 223  "       "                        
+0000002 230  JJT     happiest                 E4.1+++ 
+0000002 240  NN1     place                    M7 H1 A1.2 P1 
+0000002 250  II      in                       Z5 
+0000002 260  AT      the                      Z5 
+0000002 270  NN1     world                    W1 S5+c A4.1 N5+ 
+0000002 271  "       "                        
+0000002 272  NULL    </quote>                 
+0000002 273  -----   -----                    
+0000002 274  .       .                        
+0000003 001  -----   -----                    
+0000004 010  NN1     Carrere                  Z99 
+0000004 011  ,       ,                        
+0000004 020  MC      43                       N1 T1.2 T3 T1.3 N3.2 
+0000004 021  ,       ,                        
+0000004 030  IO      of                       Z5 
+0000004 040  AT      The                      Z5 
+0000004 050  NN1     Relic                    O2/T3++ S9 
+0000004 060  NP1     Hunter                   Z1mf 
+0000004 070  CC      and                      Z5 
+0000004 080  RR      fondly                   E2+ 
+0000004 090  VVN     remembered               X2.2+ 
+0000004 100  IF      for                      Z5 
+0000004 110  APPGE   her                      Z8f 
+0000004 120  JJ      sexy                     S3.2 
+0000004 130  NN1     dance                    K1 
+0000004 140  II      in                       Z5 
+0000004 150  MC      1994                     N1 T1.2 T3 T1.3 N3.2 
+0000004 160  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000004 170  JJ      True                     A5.2+ A5.4+ 
+0000004 180  NN2     Lies                     A5.2- 
+0000004 181  ,       ,                        
+0000004 190  VVD     started                  T2+ E5- E3- 
+0000004 200  NN2     proceedings              A1.1.1 T2++ M1 
+0000004 210  II      in                       Z5 
+0000004 220  NP1     Los                      Z2[i7.2.1 Z2[i5.2.1 Z1 Z2[i6.2.1 Z1mf[i4.2.1 Z3c[i4.2.1 
+0000004 230  NP1     Angeles                  Z2[i7.2.2 Z2[i5.2.2 Z2 Z2[i6.2.2 Z1mf[i4.2.2 Z3c[i4.2.2 
+0000004 240  JJ      Superior                 A5.1++ S7.1++ 
+0000004 250  NN1     Court                    G2.1 H3 M7/K5.2 
+0000004 260  TO      to                       Z5 
+0000004 270  VVI     end                      T2- 
+0000004 280  APPGE   her                      Z8f 
+0000004 290  JJ      seven-year               Z99 
+0000004 300  NN1     marriage                 S4 
+0000004 310  II      to                       Z5 
+0000004 320  AT1     a                        Z5 
+0000004 330  JJ      British                  Z2 Z2/S2mfnc 
+0000004 340  NN1     photojournalist          Z99 
+0000004 341  .       .                        
+0000005 001  -----   -----                    
+0000006 010  II21    According                Z5[i8.2.1 Z5 
+0000006 020  II22    to                       Z5[i8.2.2 Z5 
+0000006 030  NN1     court                    G2.1 H3 M7/K5.2 
+0000006 040  NN2     documents                Q1.2 X2.2+ Y2 
+0000006 041  ,       ,                        
+0000006 050  DDQ     which                    Z8 Z5 
+0000006 060  NP1     Tia                      Z99 
+0000006 070  VVD     filed                    Q1.2 A1.1.1 
+0000006 080  PPX1    herself                  Z8f 
+0000006 081  ,       ,                        
+0000006 090  PPHS1   she                      Z8f 
+0000006 100  VHZ     has                      Z5 A9+ A2.2 S4 
+0000006 110  VVN     cited                    Q2.2 Q1.2 G2.1 
+0000006 120  JJ      irreconcilable           S3.1-/A6.1-[i9.2.1 A6.1- E3- 
+0000006 130  NN2     differences              S3.1-/A6.1-[i9.2.2 A6.1- 
+0000006 140  IW      with                     Z5 
+0000006 150  APPGE   her                      Z8f 
+0000006 160  NN1     husband                  S4m 
+0000006 161  ,       ,                        
+0000006 170  NP1     Simon                    Z1mf[i10.2.1 Z3c[i10.2.1 Z1m 
+0000006 180  NP1     Wakelin                  Z1mf[i10.2.2 Z3c[i10.2.2 
+0000006 181  .       .                        
+0000008 001  NULL    <quote>                  
+0000008 002  -----   -----                    
+0000008 003  "       "                        
+0000008 010  II      At                       Z5 
+0000008 011  "       "                        
+0000008 012  NULL    </quote>                 
+0000008 013  -----   -----                    
+0000008 020  AT      the                      Z5 
+0000008 030  JJT     Happiest                 E4.1+++ 
+0000008 040  NN1     Place                    M7 H1 A1.2 P1 
+0000008 050  II      on                       Z5 
+0000008 060  NN1     Earth                    W3 W1 O1.1 O3 N5++ 
+0000008 061  NULL    <quote>                  
+0000008 062  -----   -----                    
+0000008 063  "       "                        
+0000008 070  CS      when                     Z5 
+0000008 080  AT      the                      Z5 
+0000008 090  JJT     saddest                  E4.1--- A5.1--- 
+0000008 091  ,       ,                        
+0000008 100  RGT     most                     A13.2 
+0000008 110  JJ      personal                 S5- S1.2.1+ 
+0000008 120  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000008 130  II      about                    Z5 
+0000008 140  APPGE   my                       Z8 
+0000008 150  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000008 160  VVZ     pours                    M2[i11.2.1 M1[i11.2.1 Q2.1[i11.2.1 A1.1.1/O1.2 W4 M1/N5+ 
+0000008 170  RP      out                      M2[i11.2.2 M1[i11.2.2 Q2.1[i11.2.2 M6 
+0000008 180  II      on                       Z5 
+0000008 190  AT      the                      Z5 
+0000008 200  NN1     internet                 Y2 
+0000008 201  ...     ...                      
+0000008 202  -----   -----                    
+0000008 210  JJ      Twisted                  O4.4 G2.2- B2-/X1 
+0000008 211  ,       ,                        
+0000008 212  "       "                        
+0000008 213  NULL    </quote>                 
+0000008 214  -----   -----                    
+0000008 220  NP1@    Carrere                  Z99 
+0000008 230  VVD     wrote                    Q1.2 I2.1 
+0000008 240  II      on                       Z5 
+0000008 250  NN1     Twitter                  Z99 
+0000008 251  .       .                        
+0000009 001  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  NN1     couple                   N5+ S4c 
+0000010 030  VH0     have                     A9+ Z5 A2.2 S4 
+0000010 040  AT1     a                        Z5 
+0000010 050  JJ      four-year-old            T3 
+0000010 060  NN1     daughter                 S4f 
+0000010 061  ,       ,                        
+0000010 070  NP1     Bianca                   Z1f 
+0000010 071  ,       ,                        
+0000010 080  RL      together                 S5+ T1.1.2 M6 
+0000010 090  CC      and                      Z5 
+0000010 100  AT      the                      Z5 
+0000010 110  JJ      43-year-old              Z99 
+0000010 120  NN1     actress                  K4/S2.1f 
+0000010 130  VBZ     is                       Z5 A3+ 
+0000010 140  VVG     asking                   Q2.2 I1.3 
+0000010 150  IF      for                      Z5 
+0000010 160  JJ      sole                     N5--- 
+0000010 170  JJ      physical                 B1 A1.6 E3- Y1 
+0000010 180  NN1     custody                  G2.1 A9+ 
+0000010 190  IO      of                       Z5 
+0000010 200  AT      the                      Z5 
+0000010 210  NN1     child                    S2mf/T3- S4mf 
+0000010 211  .       .                        
+0000011 001  -----   -----                    
+0000012 010  DD1     This                     Z8 M6 Z5 
+0000012 020  VBZ     is                       A3+ Z5 
+0000012 030  AT      the                      Z5 
+0000012 040  MD      second                   N4 
+0000012 050  NN1     marriage                 S4 
+0000012 060  TO      to                       Z5 
+0000012 070  VVI     end                      T2- 
+0000012 080  II      in                       Z5 
+0000012 090  NN1     divorce                  S4 A6.1- 
+0000012 100  IF      for                      Z5 
+0000012 110  NP1     Carrere                  Z99 
+0000012 111  ,       ,                        
+0000012 120  PNQS    who                      Z8 
+0000012 130  VVD     split                    A6.1- A1.1.2 S1.1.2- 
+0000012 140  II      from                     Z5 
+0000012 150  NN1     producer                 K4/S7.1+/S2mf A1.1.1/S2mf 
+0000012 160  NP1     Elie                     Z1mf[i12.2.1 Z3c[i12.2.1 
+0000012 170  NP1     Samaha                   Z1mf[i12.2.2 Z3c[i12.2.2 
+0000012 180  II      in                       Z5 
+0000012 190  MC      2000                     N1 T1.2 T3 T1.3 N3.2 
+0000012 191  .       .                        
+0000015 001  NULL    **8;7;text               

@@ -1,0 +1,1025 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVG     Matchmaking              Z99 
+0000002 020  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000002 030  NN1     eHarmony                 Z99 
+0000002 040  VVD     announced                Q2.2 
+0000002 050  RT      today                    T1.1.2 
+0000002 060  CST     that                     Z8 Z5 
+0000002 070  PPH1    it                       Z8 
+0000002 080  VM      will                     T1.1.3 
+0000002 090  RR      soon                     T1.1.3/N3.8+ 
+0000002 100  VBI     be                       Z5 A3+ 
+0000002 110  VVG     opening                  A1.1.1 T2+ 
+0000002 120  AT1     a                        Z5 
+0000002 130  JJ@     matchmaking              Z99 
+0000002 140  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000002 150  IF      for                      Z5 
+0000002 160  NN2     pets                     L2mfn E2+ 
+0000002 170  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000002 171  NULL    <quote>                  
+0000002 172  -----   -----                    
+0000002 173  "       "                        
+0000002 180  NN1     eHarmony                 Z99 
+0000002 190  NN2     Pets                     E2+ L2mfn S3.2 
+0000002 191  "       "                        
+0000002 192  NULL    </quote>                 
+0000002 193  -----   -----                    
+0000002 194  .       .                        
+0000002 195  -----   -----                    
+0000002 200  AT      The                      Z5 
+0000002 210  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000002 220  VM      will                     T1.1.3 
+0000002 230  VVI     allow                    S7.4+ S8+ X2.1 
+0000002 240  NN2     owners                   A9+/S2mf 
+0000002 250  IO      of                       Z5 
+0000002 260  NN2     cats                     L2mfn 
+0000002 261  ,       ,                        
+0000002 270  NN2     dogs                     L2mfn 
+0000002 271  ,       ,                        
+0000002 280  CC      and                      Z5 
+0000002 290  NN1     boa                      L2[i1.2.1 L2 B5 
+0000002 300  NN2     constrictors             L2[i1.2.2 
+0000002 310  TO      to                       Z5 
+0000002 320  VVI     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000002 330  APPGE   their                    Z8 
+0000002 340  NN1     pet                      L2mfn E2+ 
+0000002 350  II      on                       Z5 
+0000002 360  AT      the                      Z5 
+0000002 370  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000002 380  CC      and                      Z5 
+0000002 390  VV0     try                      X8+ X2.4 Q2.2 G2.1 A12- 
+0000002 400  TO      to                       Z5 
+0000002 410  VVI     find                     A10+ X2.1 X6+ 
+0000002 420  AT1     a                        Z5 
+0000002 430  NN1     match                    K5.1 O2 A6.1+ 
+0000002 431  ,       ,                        
+0000002 440  CSW     whether                  Z5 
+0000002 450  IF      for                      Z5 
+0000002 460  NN1     love                     S3.2 E2+ E2+/S2mf 
+0000002 470  CC      or                       Z5 
+0000002 480  IF      for                      Z5 
+0000002 490  NN1     compatibility            A6.1+ 
+0000002 491  .       .                        
+0000004 001  NULL    <quote>                  
+0000004 002  -----   -----                    
+0000004 003  "       "                        
+0000004 010  PPIS2   We                       Z8 
+0000004 011  VH0     've                      Z5 A9+ A2.2 
+0000004 020  VVN     found                    A10+ X2.1 X6+.1 
+0000004 030  CST     that                     Z8 Z5 
+0000004 031  ,       ,                        
+0000004 040  VV0@    like                     E2+ 
+0000004 050  IW      with                     Z5 
+0000004 060  NN2     humans                   S2mf 
+0000004 061  ,       ,                        
+0000004 070  EX      there                    Z5 
+0000004 080  VBR     are                      A3+ Z5 
+0000004 090  MC      99                       N1 T1.2 T3 T1.3 N3.2 
+0000004 100  NN2     dimensions               A4.1 N3.2 
+0000004 110  IO      of                       Z5 
+0000004 120  VVG     matchmaking              Z99 
+0000004 130  II      among                    Z5 
+0000004 140  NN2     pets                     L2mfn E2+ 
+0000004 141  ,       ,                        
+0000004 142  "       "                        
+0000004 143  NULL    </quote>                 
+0000004 144  -----   -----                    
+0000004 150  VVD     said                     Q2.1 
+0000004 160  NNB     Dr.                      B3/S2mf P1/S2mf 
+0000004 170  NP1     Neil                     Z1mf[i3.3.1 Z3c[i3.3.1 Z1mf Z1mf[i2.2.1 Z3c[i2.2.1 
+0000004 180  NP1     Clark                    Z1mf[i3.3.2 Z3c[i3.3.2 Z1mf Z1mf[i2.2.2 Z3c[i2.2.2 Z1mf[i4.2.1 Z3c[i4.2.1 
+0000004 190  NP1     Warren                   Z3c[i3.3.3 Z1mf[i3.3.3 Z1mf Z1mf[i4.2.2 Z3c[i4.2.2 
+0000004 191  ,       ,                        
+0000004 200  NN1     founder                  T2+/S2mf 
+0000004 210  CC      and                      Z5 
+0000004 220  AT      the                      Z5 
+0000004 230  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000004 240  IO      of                       Z5 
+0000004 250  NN1     eHarmony                 Z99 
+0000004 251  .       .                        
+0000004 252  NULL    <quote>                  
+0000004 253  -----   -----                    
+0000004 254  "       "                        
+0000004 260  REX21   For                      Z5[i5.2.1 
+0000004 270  REX22   example                  Z5[i5.2.2 
+0000004 271  ,       ,                        
+0000004 280  MC1     one                      N1 T3 T1.2 
+0000004 290  IO      of                       Z5 
+0000004 300  AT      the                      Z5 
+0000004 310  NN1     compatibility            A6.1+[i6.2.1 A6.1+ 
+0000004 320  NN2     factors                  A6.1+[i6.2.2 A2.2 A4.1 N2 I2.1/S2mf@ 
+0000004 330  II      among                    Z5 
+0000004 340  NN2     dogs                     L2mfn 
+0000004 350  VBZ     is                       A3+ Z5 
+0000004 360  RRQ     how                      Z5 A13.3 
+0000004 370  RR      long                     T1.3+ 
+0000004 380  PPHS2   they                     Z8mfn 
+0000004 390  VV0     sniff                    B1 X3.5 Q2.2/E2- F3 
+0000004 400  AT      the                      Z5 
+0000004 410  CCB     but                      Z5 
+0000004 420  IO      of                       Z5 
+0000004 430  DD1     another                  A6.1- N5++ 
+0000004 440  NN1     dog                      L2mfn 
+0000004 450  CS      when                     Z5 
+0000004 460  RP      out                      M6 
+0000004 470  II      on                       Z5 
+0000004 480  AT1     a                        Z5 
+0000004 490  NN1     walk                     M1 
+0000004 491  .       .                        
+0000004 492  -----   -----                    
+0000004 500  DD1     This                     Z8 M6 Z5 
+0000004 510  VBZ     is                       A3+ Z5 
+0000004 520  JJ      important                A11.1+ 
+0000004 521  .       .                        
+0000004 522  -----   -----                    
+0000004 530  CS      If                       Z7 
+0000004 540  PPHS2   they                     Z8mfn 
+0000004 550  VV0     sniff                    B1 X3.5 Q2.2/E2- F3 
+0000004 560  IF      for                      Z5 
+0000004 570  DAR     more                     N5++ 
+0000004 580  CSN     than                     Z5 
+0000004 590  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000004 600  NNT2    seconds                  T1.3 T1.2 
+0000004 610  RT      then                     N4 Z5 T1.2 
+0000004 620  PPH1    it                       Z8 
+0000004 630  VM      could                    A7+ 
+0000004 640  VBI     be                       A3+ Z5 
+0000004 650  AT1     an                       Z5 
+0000004 660  NN1     indicator                A10+ O2 M3/O4.3 
+0000004 670  IO      of                       Z5 
+0000004 680  JJ      possible                 A7+ 
+0000004 690  JJ      addictive                F3 X5.2++ 
+0000004 700  NN1     behaviour                S1.1.1 A1.1.1 
+0000004 710  CC      and                      Z5 
+0000004 720  DD1     that                     Z8 Z5 
+0000004 721  VBZ     's                       A3+ Z5 
+0000004 730  JJ      important                A11.1+ 
+0000004 740  II      in                       Z5 
+0000004 750  VVG     creating                 A1.1.1 A2.2 E1 
+0000004 760  AT1     a                        Z5 
+0000004 770  JJ      compatible               A6.1+ 
+0000004 780  NN1     match                    K5.1 O2 A6.1+ 
+0000004 781  .       .                        
+0000004 782  -----   -----                    
+0000004 790  II      In                       Z4[i7.3.1 Z5 
+0000004 800  DD1     this                     Z4[i7.3.2 M6 Z5 Z8 
+0000004 810  NN1     case                     Z4[i7.3.3 A4.1 O2 G2.1 B3 X4.1 Q3 
+0000004 811  ,       ,                        
+0000004 820  AT1     a                        Z5 
+0000004 830  JJ      perfect                  A6.1+++[i8.2.1 A5.1+++ A1.2+++ Q3 
+0000004 840  NN1     match                    A6.1+++[i8.2.2 K5.1 O2 A6.1+ 
+0000004 850  VM      would                    A7+ 
+0000004 860  VBI     be                       A3+ Z5 
+0000004 870  AT1     a                        Z5 
+0000004 880  NN1     dog                      L2mfn 
+0000004 890  CST     that                     Z8 Z5 
+0000004 900  VVZ     likes                    E2+ 
+0000004 910  TO      to                       Z5 
+0000004 920  VHI     have                     A9+ Z5 A2.2 S4 
+0000004 930  APPGE   its                      Z8 
+0000004 940  CCB     but                      Z5 
+0000004 950  VVD     sniffed                  B1 X3.5 Q2.2/E2- F3 
+0000004 960  IF      for                      Z5 
+0000004 970  DAR     more                     N5++ 
+0000004 980  CSN     than                     Z5 
+0000004 990  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000004 000  NNT2    seconds                  T1.3 T1.2 
+0000004 010  II      at                       T1.1.2[i9.3.1 Z5 
+0000004 020  AT1     a                        T1.1.2[i9.3.2 Z5 
+0000004 030  NNT1    time                     T1.1.2[i9.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000004 040  II      by                       Z5 
+0000004 050  AT      the                      Z5 
+0000004 060  DA      same                     A6.1+++ 
+0000004 070  NN1     dog                      L2mfn 
+0000004 071  .       .                        
+0000004 072  "       "                        
+0000004 073  NULL    </quote>                 
+0000004 074  -----   -----                    
+0000006 010  AT      The                      Z5 
+0000006 020  NN2     tests                    P1 B3 X2.4 K5.1@ 
+0000006 030  CST     that                     Z5 Z8 
+0000006 040  NN2     cats                     L2mfn 
+0000006 041  ,       ,                        
+0000006 050  NN2     dogs                     L2mfn 
+0000006 051  ,       ,                        
+0000006 060  CC      and                      Z5 
+0000006 070  NN1     boa                      L2[i10.2.1 L2 B5 
+0000006 080  NN2     constrictors             L2[i10.2.2 
+0000006 090  VV0     take                     A9+[i11.2.1 S7.3+[i11.2.1 M2[i11.2.1 I3.1[i11.2.1 A1.1.1[i11.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000006 100  RP      on                       A9+[i11.2.2 S7.3+[i11.2.2 M2[i11.2.2 I3.1[i11.2.2 A1.1.1[i11.2.2 M6 A1.1.1 
+0000006 110  AT      the                      Z5 
+0000006 120  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000006 130  VBR     are                      A3+ Z5 
+0000006 140  DB      all                      N5.1+ 
+0000006 150  JJ      different                A6.1- 
+0000006 160  CC      and                      Z5 
+0000006 170  DB      all                      N5.1+ 
+0000006 180  VVN     tailored                 B5 A1.2+/A2.1 
+0000006 190  II      to                       Z5 
+0000006 200  AT      the                      Z5 
+0000006 210  JJ      specific                 A4.2+ 
+0000006 220  NN      species                  A4.1c L2c 
+0000006 221  .       .                        
+0000006 222  -----   -----                    
+0000006 230  REX21   For                      Z5[i12.2.1 
+0000006 240  REX22   example                  Z5[i12.2.2 
+0000006 241  ,       ,                        
+0000006 250  NN2     cats                     L2mfn 
+0000006 260  VH0     have                     A9+ Z5 A2.2 S4 
+0000006 270  AT1     a                        Z5 
+0000006 271  NULL    <quote>                  
+0000006 272  -----   -----                    
+0000006 273  "       "                        
+0000006 280  NN1     laser                    O4.3[i13.2.1 W2 O2/Y1 B3 
+0000006 290  NN1     light                    O4.3[i13.2.2 W2 O3/W2 M3 O4.6+ X4.1 E1 
+0000006 300  II      on                       Z5 
+0000006 310  AT      the                      Z5 
+0000006 320  NN1     screen                   Y2 Q4.3 H5 A10- 
+0000006 321  "       "                        
+0000006 322  NULL    </quote>                 
+0000006 323  -----   -----                    
+0000006 330  VV0     test                     P1 B3 X2.4 A12- 
+0000006 340  TO      to                       Z5 
+0000006 350  VVI     determine                A2.2 A7+ X6+ 
+0000006 360  NN2     reflexes                 B1 
+0000006 370  CC      and                      Z5 
+0000006 380  NN1     ability                  X9.1+ 
+0000006 390  TO      to                       Z5 
+0000006 400  VVI     focus                    X5.1+ X3.4 A4.2+ 
+0000006 410  CC      or                       Z5 
+0000006 420  VVI     concentrate              X5.1+ I2.2% M6 N5+ O1.2 W3/I4 
+0000006 430  II      on                       Z5 
+0000006 440  MC1     one                      N1 T3 T1.2 
+0000006 450  NN1     item                     O2 Q4 X4.1 
+0000006 460  IF      for                      Z5 
+0000006 470  AT1     an                       Z5 
+0000006 480  JJ@     extended                 T1.3+ N3.2+/A2.1 N5+/A2.1 
+0000006 490  NN1     period                   T1.3[i14.3.1 T1.3 B1 Q3 P1/T1.3 
+0000006 500  IO      of                       T1.3[i14.3.2 Z5 
+0000006 510  NNT1    time                     T1.3[i14.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000006 511  .       .                        
+0000006 512  -----   -----                    
+0000006 520  DD1     Another                  A6.1- N5++ 
+0000006 530  JJ      important                A11.1+ 
+0000006 540  NN1     dimension                A4.1 N3.2 
+0000006 550  IO      of                       Z5 
+0000006 560  NN1     compatibility            A6.1+ 
+0000006 570  IF      for                      Z5 
+0000006 580  NN2     cats                     L2mfn 
+0000006 590  VBZ     is                       A3+ Z5 
+0000006 600  CSW     whether                  Z5 
+0000006 610  PPHS2   they                     Z8mfn 
+0000006 620  VV0@    like                     E2+ 
+0000006 630  TO      to                       Z5 
+0000006 640  VVI     keep                     A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000006 650  AT1     a                        Z5 
+0000006 660  JJ      clean                    O4.2+ G2.2+ 
+0000006 670  NN1     litter                   O4.2- N5 O1.1 L2c M3%fn 
+0000006 680  NN1     box                      O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ 
+0000006 690  CC      or                       Z5 
+0000006 700  CS      if                       Z7 
+0000006 710  PPHS2   they                     Z8mfn 
+0000006 720  VBR     are                      A3+ Z5 
+0000006 730  DAR     more                     N5++ 
+0000006 740  IO      of                       Z5 
+0000006 750  AT1     a                        Z5 
+0000006 760  JJ      messy                    O4.2- 
+0000006 770  NN1     litterbox                Z99 
+0000006 780  NN1     style                    X4.2 O4.1 O4.2+ A4.1 Q3 
+0000006 781  .       .                        
+0000008 001  NULL    <quote>                  
+0000008 002  -----   -----                    
+0000008 003  "       "                        
+0000008 010  NN2     Cats                     L2mfn 
+0000008 020  VBR     are                      A3+ Z5 
+0000008 030  AT1     a                        Z5 
+0000008 040  JJ      fun                      E4.1+ 
+0000008 050  NN1     breed                    A4.1/L2 
+0000008 060  TO      to                       Z5 
+0000008 070  VVI     match                    A6.1+ 
+0000008 080  II21    because                  A2.2[i15.2.1 
+0000008 090  II22    of                       A2.2[i15.2.2 
+0000008 100  APPGE   their                    Z8 
+0000008 110  NN1     character                S2mf K4/S2mf S1.2 S2mf/A6.2- Q1.2 A4.1 O4.2+ 
+0000008 111  ,       ,                        
+0000008 112  "       "                        
+0000008 113  NULL    </quote>                 
+0000008 114  -----   -----                    
+0000008 120  VVD     said                     Q2.1 
+0000008 130  NP1     Warren                   Z1mf 
+0000008 131  .       .                        
+0000008 132  NULL    <quote>                  
+0000008 133  -----   -----                    
+0000008 134  "       "                        
+0000008 140  APPGE   Our                      Z8 
+0000008 150  NN1     motto                    Q2.1 
+0000008 160  IF      for                      Z5 
+0000008 170  NN1     match                    K5.1 O2 A6.1+ 
+0000008 180  NN1     catch                    A9+ O2 A12- T1.2 
+0000008 190  VBZ     is                       A3+ Z5 
+0000008 200  MC      '9                       T3 N1 T1.2 T1.3 N3.2 
+0000008 210  NN2     lives                    L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000008 220  CC      and                      Z5 
+0000008 230  MC      99                       N1 T1.2 T3 T1.3 N3.2 
+0000008 240  NN2     dimensions               A4.1 N3.2 
+0000008 241  GE      '                        Z5 
+0000008 242  .       .                        
+0000008 243  -----   -----                    
+0000008 250  AT      The                      Z5 
+0000008 260  NN1     whole                    N5.1+ 
+0000008 270  MC      nine                     N1 T1.2 T3 T1.3 N3.2 
+0000008 280  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
+0000008 290  RR      really                   A13.3 A5.2+ 
+0000008 300  VVZ     works                    N2[i16.2.1 X9.2+[i16.2.1 X2.5+[i16.2.1 A1.1.1[i16.2.1 K5.1[i16.2.1 X2.1[i16.2.1 I3.1 A1.1.1 X9.2+ A2.2 
+0000008 310  RP      out                      N2[i16.2.2 X9.2+[i16.2.2 X2.5+[i16.2.2 A1.1.1[i16.2.2 K5.1[i16.2.2 X2.1[i16.2.2 M6 
+0000008 320  JJ      nice                     O4.2+ S1.2.1+ 
+0000008 330  IW      with                     Z5 
+0000008 340  DD1     that                     Z8 Z5 
+0000008 341  .       .                        
+0000008 342  -----   -----                    
+0000008 350  CCB     But                      Z5 
+0000008 360  RR      anyway                   Z4 A13.7 
+0000008 361  ,       ,                        
+0000008 370  CS      when                     Z5 
+0000008 380  PPH1    it                       Z8 
+0000008 390  VVZ     comes                    A4.1[i17.2.1 M1[i17.2.1 B1[i17.2.1 N5[i17.2.1 X6+[i17.2.1 X2.1[i17.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000008 400  II      to                       A4.1[i17.2.2 M1[i17.2.2 B1[i17.2.2 N5[i17.2.2 X6+[i17.2.2 X2.1[i17.2.2 Z5 
+0000008 410  NN2     cats                     L2mfn 
+0000008 420  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000008 430  PPGE    yours                    Z8 
+0000008 440  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
+0000008 450  TO      to                       Z5 
+0000008 460  VBI     be                       Z5 A3+ 
+0000008 470  VVN     matched                  A6.1+ 
+0000008 480  IW      with                     Z5 
+0000008 490  AT1     an                       Z5 
+0000008 500  JJ      independent              S5- 
+0000008 510  NN1     thinker                  S2/X2.1mf 
+0000008 511  ,       ,                        
+0000008 520  AT1     a                        Z5 
+0000008 530  NN1     food                     F1/X5.2++mfn[i18.2.1 F1 
+0000008 540  NN1     addict                   F1/X5.2++mfn[i18.2.2 X5.2++/S2mf F3/S2mf 
+0000008 541  ,       ,                        
+0000008 550  CC      or                       Z5 
+0000008 560  AT1     a                        Z5 
+0000008 570  NN1     cat                      L2 M3 
+0000008 580  CST     that                     Z8 Z5 
+0000008 590  RR      only                     A14 
+0000008 600  VVZ     stands                   M6 M2 M8 M1 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+ 
+0000008 610  TO      to                       Z5 
+0000008 620  VVI     eat                      F1/B1 A1.5.1/N5+ 
+0000008 621  ,       ,                        
+0000008 630  VV0     use                      A1.5.1 S7.1+ 
+0000008 640  AT      the                      Z5 
+0000008 650  NN1     litterbox                Z99 
+0000008 651  ,       ,                        
+0000008 660  CC      or                       Z5 
+0000008 670  VV0     crawl                    M1 N3.8- S7.1- 
+0000008 680  II      under                    Z5 
+0000008 690  AT1     a                        Z5 
+0000008 700  JJ      human                    S2 S1.2.1+ 
+0000008 710  NN1     hand                     B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000008 711  ?       ?                        
+0000008 712  -----   -----                    
+0000008 720  II      At                       Z5 
+0000008 730  APPGE   our                      Z8 
+0000008 740  JJ      new                      T3- 
+0000008 750  NN1     eHarmony                 Z99 
+0000008 760  NN2     Pets                     E2+ L2mfn S3.2 
+0000008 770  NN1     Lab                      Y1/H1 
+0000008 780  PPIS2   we                       Z8 
+0000008 781  VH0     've                      Z5 A9+ A2.2 
+0000008 790  VVN     discovered               A10+ 
+0000008 800  DB      all                      N5.1+ 
+0000008 810  AT      the                      Z5 
+0000008 820  NN2     secrets                  A10- 
+0000008 830  II      to                       Z5 
+0000008 840  JJ      successful               X9.2+ 
+0000008 850  NN1     compatibility            A6.1+ 
+0000008 851  .       .                        
+0000009 001  NULL    </quote>                 
+0000009 002  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  NN1     launch                   M4fn M5 T2+ 
+0000010 030  IO      of                       Z5 
+0000010 040  AT      the                      Z5 
+0000010 050  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000010 060  VBZ     is                       A3+ Z5 
+0000010 061  XX      n't                      Z6 
+0000010 070  IW      without                  Z5 
+0000010 080  NN1     controversy              Q2.2 
+0000010 081  .       .                        
+0000010 082  -----   -----                    
+0000010 090  PPH1    It                       Z8 
+0000010 091  VBZ     's                       Z5 A3+ 
+0000010 100  VVN@    rumored                  Z99 
+0000010 110  CST     that                     Z8 Z5 
+0000010 120  CS      when                     Z5 
+0000010 130  VVG     filming                  Q4.3 
+0000010 140  AT1     a                        Z5 
+0000010 150  JJ      commercial               I2.1 
+0000010 160  IF      for                      Z5 
+0000010 170  AT      the                      Z5 
+0000010 180  JJ      new                      T3- 
+0000010 190  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000010 191  (       (                        
+0000010 200  VVG     featuring                A10+ 
+0000010 210  AT1     a                        Z5 
+0000010 220  NN1     chihuahua                Z99 
+0000010 221  ,       ,                        
+0000010 230  JJ      Siberian                 Z99 
+0000010 240  NN1     cat                      L2 M3 
+0000010 241  ,       ,                        
+0000010 250  CC      and                      Z5 
+0000010 260  NN1     boa                      L2[i19.2.1 L2 B5 
+0000010 270  NN1     constrictor              L2[i19.2.2 
+0000010 271  )       )                        
+0000010 272  ,       ,                        
+0000010 280  AT      the                      Z5 
+0000010 290  NN1     boa                      L2[i20.2.1 L2 B5 
+0000010 300  NN1     constrictor              L2[i20.2.2 
+0000010 310  VVD     ate                      F1 
+0000010 320  AT      the                      Z5 
+0000010 330  NP1     Chihuahua                Z99 
+0000010 340  II      after                    Z5 
+0000010 350  AT      the                      Z5 
+0000010 360  NP1     Chihuahua                Z99 
+0000010 370  VM      would                    A7+ 
+0000010 371  XX      n't                      Z6 
+0000010 380  VVI     stop                     T2- S8- M8 H4 A1.1.1@ 
+0000010 390  VVG     barking                  L2/X3.2 
+0000010 400  II      at                       Z5 
+0000010 410  AT      the                      Z5 
+0000010 420  NN1     snake                    L2mfn 
+0000010 421  .       .                        
+0000010 422  -----   -----                    
+0000010 430  NN1     eHarmony                 Z99 
+0000010 440  VHZ     has                      Z5 A9+ A2.2 S4 
+0000010 450  VVN     refused                  Q2.2/Z6 S7.4- X7- 
+0000010 460  TO      to                       Z5 
+0000010 470  VVI     comment                  Q2.1 
+0000010 480  II      on                       Z5 
+0000010 490  AT      the                      Z5 
+0000010 500  NN1     incident                 A3+/A5.1- 
+0000010 501  ,       ,                        
+0000010 510  CS      although                 Z5 
+0000010 520  MC1     one                      N1 T3 T1.2 
+0000010 530  NN1     employee                 I3.1/S2mf 
+0000010 540  VVG     wishing                  X7+ 
+0000010 550  TO      to                       Z5 
+0000010 560  VVI     remain                   T2++ M8 N5.2+ 
+0000010 570  JJ      anonymous                A10- 
+0000010 580  VVD     said                     Q2.1 
+0000010 590  CST     that                     Z8 Z5 
+0000010 600  VVG     creating                 A1.1.1 A2.2 E1 
+0000010 610  JJ@     matchmaking              Z99 
+0000010 620  NN1     compatibility            A6.1+ 
+0000010 630  NN2     tests                    P1 B3 X2.4 K5.1@ 
+0000010 640  II      among                    Z5 
+0000010 650  JJ      different                A6.1- 
+0000010 660  NN      species                  A4.1c L2c 
+0000010 670  VM      could                    A7+ 
+0000010 680  VVI     solve                    X9.2+ 
+0000010 690  AT1     a                        N5+[i21.2.1 N6+[i21.2.1 A13.3[i21.2.1 Z5 
+0000010 700  NN1     lot                      N5+[i21.2.2 N6+[i21.2.2 A13.3[i21.2.2 
+0000010 710  IO      of                       Z5 
+0000010 720  NN2     problems                 A12- X4.1 N2 B2- 
+0000010 730  CC      and                      Z5 
+0000010 740  VVI     prevent                  S8- 
+0000010 750  DA      such                     Z5 Z8 
+0000010 760  NN2     incidents                A3+/A5.1- 
+0000010 770  II      in                       Z5 
+0000010 780  AT      the                      Z5 
+0000010 790  NN1     future                   T1.1.3 
+0000010 791  .       .                        
+0000011 001  -----   -----                    
+0000012 010  AT      The                      Z5 
+0000012 020  NN1     employee                 I3.1/S2mf 
+0000012 021  ,       ,                        
+0000012 030  VVN     named                    Q2.2 
+0000012 040  NP1     Jeff                     Z1m 
+0000012 041  ,       ,                        
+0000012 050  VVD     emphasized               A11.1+ 
+0000012 060  AT      the                      Z5 
+0000012 070  NN1     importance               A11.1+ 
+0000012 080  IO      of                       Z5 
+0000012 090  JJ      remaining                T2++ M8 N5.2+ 
+0000012 100  JJ      anonymous                A10- 
+0000012 110  CS      because                  Z5/A2.2 
+0000012 120  PPHS1   he                       Z8m 
+0000012 130  VM      could                    A7+ 
+0000012 140  VVI     lose                     X9.2- A9- M6/A5.3- L1- 
+0000012 150  APPGE   his                      Z8m 
+0000012 160  NN1     job                      I3.1 A1.1.1 A12- 
+0000012 170  IF      for                      Z5 
+0000012 180  VVG     talking                  Q2.1 
+0000012 190  II      to                       Z5 
+0000012 200  AT      the                      Z5 
+0000012 210  NN      media                    Q4c 
+0000012 220  IW      without                  Z5 
+0000012 230  NNB     Dr.                      B3/S2mf P1/S2mf 
+0000012 240  NN2     credentials              X9.1+ X9.1+/Q1.2 
+0000012 241  .       .                        
+0000012 242  NULL    <quote>                  
+0000012 243  -----   -----                    
+0000012 244  "       "                        
+0000012 250  RR      Only                     A14 
+0000012 260  NNB     Dr.                      B3/S2mf P1/S2mf 
+0000012 270  NP1     Warren                   Z1mf 
+0000012 280  VBZ     is                       Z5 A3+ 
+0000012 290  VVN     allowed                  S7.4+ S8+ X2.1 
+0000012 300  TO      to                       Z5 
+0000012 310  VVI     speak                    Q2.1 
+0000012 320  II      to                       Z5 
+0000012 330  AT      the                      Z5 
+0000012 340  NN      media                    Q4c 
+0000012 341  ,       ,                        
+0000012 342  "       "                        
+0000012 343  NULL    </quote>                 
+0000012 344  -----   -----                    
+0000012 350  VVD     said                     Q2.1 
+0000012 360  NP1     Jeff                     Z1m 
+0000012 370  PNQS    who                      Z8 
+0000012 380  RR      personally               S5- 
+0000012 390  VVN     designed                 C1 X7+ 
+0000012 400  AT      the                      Z5 
+0000012 410  NN1     home                     H4/H1c M6 
+0000012 420  NN1     page                     Q1.2 T1.3 S7.1-/S2.2m 
+0000012 430  IF      for                      Z5 
+0000012 440  AT      the                      Z5 
+0000012 450  JJ      new                      T3- 
+0000012 460  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000012 470  CC      and                      Z5 
+0000012 480  DDQGE   whose                    Z8 
+0000012 490  NN1     cat                      L2 M3 
+0000012 500  VBZ     is                       Z5 A3+ 
+0000012 510  VVN     featured                 A10+ 
+0000012 520  II      on                       Z5 
+0000012 530  AT      the                      Z5 
+0000012 540  NN1     home                     H4/H1c M6 
+0000012 550  NN1     page                     Q1.2 T1.3 S7.1-/S2.2m 
+0000012 551  .       .                        
+0000013 001  -----   -----                    
+0000014 010  NN1     eHarmony                 Z99 
+0000014 020  VM      would                    A7+ 
+0000014 021  XX      n't                      Z6 
+0000014 030  VVI     confirm                  A7+ Q2.2 S9@ 
+0000014 040  CC      or                       Z5 
+0000014 050  VVI     deny                     Q2.2/Z6 S7.4- 
+0000014 060  CST     that                     Z5 Z8 
+0000014 070  AT      the                      Z5 
+0000014 080  NP1     Chihuahua                Z99 
+0000014 090  VVN     eaten                    F1/B1 A1.5.1/N5+ 
+0000014 100  II      by                       Z5 
+0000014 110  AT      the                      Z5 
+0000014 120  NN1     snake                    L2mfn 
+0000014 130  VBDZ    was                      A3+ Z5 
+0000014 140  AT      the                      Z5 
+0000014 150  NP1     Taco                     Z1mf[i23.3.1 Z3c[i23.3.1 Z1mf[i22.2.1 Z3c[i22.2.1 
+0000014 160  NP1     Bell                     Z1mf[i23.3.2 Z3c[i23.3.2 Z3c Z1mf[i22.2.2 Z3c[i22.2.2 Z1mf[i24.2.1 Z3c[i24.2.1 
+0000014 170  NP1     Chihuahua                Z3c[i23.3.3 Z1mf[i23.3.3 Z1mf[i24.2.2 Z3c[i24.2.2 
+0000014 180  VVD     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000014 190  JJ      famous                   X2.2+ 
+0000014 200  IF      for                      Z5 
+0000014 210  VVG     talking                  Q2.1 
+0000014 220  II      in                       Z5 
+0000014 230  NP1     Taco                     Z1mf[i25.2.1 Z3c[i25.2.1 
+0000014 240  NP1     Bell                     Z1mf[i25.2.2 Z3c[i25.2.2 Z3c 
+0000014 250  NN2     commercials              I2.2/Q2.2 
+0000014 260  IW      without                  Z5 
+0000014 270  VVG     farting                  B1 
+0000014 271  .       .                        
+0000014 272  -----   -----                    
+0000014 280  NN2     Calls                    Q2.2 S1.1.1 Q1.3 X7+ S9% 
+0000014 290  II      to                       Z5 
+0000014 300  NP1     Taco                     Z1mf[i26.2.1 Z3c[i26.2.1 
+0000014 310  NP1     Bell                     Z1mf[i26.2.2 Z3c[i26.2.2 Z3c 
+0000014 320  NN1     customer                 I2.2/S2mf 
+0000014 330  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000014 340  VBDR    were                     Z5 A3+ 
+0000014 350  VVN     put                      T2-[i27.3.1 M2 Q2.1 Q2.2 A1.1.1 
+0000014 360  II      on                       T2-[i27.3.2 Z5 T2-[i28.2.1 
+0000014 370  NN1     hold                     T2-[i27.3.3 A9+ X3.3 H2/M4 H2/M5 S7.1+ T2-[i28.2.2 
+0000014 380  CC      and                      Z5 
+0000014 390  PPIS2   we                       Z8 
+0000014 400  VBDR    were                     A3+ Z5 
+0000014 410  JK      unable                   X9.1- 
+0000014 420  TO      to                       Z5 
+0000014 430  VVI     confirm                  A7+ Q2.2 S9@ 
+0000014 440  DD1     this                     Z8 M6 Z5 
+0000014 450  II      at                       Z5 
+0000014 460  NN1     press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
+0000014 470  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000014 471  .       .                        
+0000015 001  -----   -----                    
+0000016 010  NN1     eHarmony                 Z99 
+0000016 020  VVD     said                     Q2.1 
+0000016 030  AT      the                      Z5 
+0000016 040  NN1     idea                     X4.1 X7+ 
+0000016 050  IF      for                      Z5 
+0000016 060  AT1     a                        Z5 
+0000016 070  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000016 080  CST     that                     Z8 Z5 
+0000016 090  VVD     created                  A1.1.1 A2.2 E1 
+0000016 100  VVG     matchmaking              Z99 
+0000016 110  IF      for                      Z5 
+0000016 120  NN2     pets                     L2mfn E2+ 
+0000016 130  VVD     came                     M6[i29.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000016 140  II      from                     M6[i29.2.2 Z5 
+0000016 150  NN1     eHarmony                 Z99 
+0000016 160  NN2     users                    A1.5.1/S2mf 
+0000016 170  IW      with                     Z5 
+0000016 180  NN2     pets                     L2mfn E2+ 
+0000016 190  PNQS    who                      Z8 
+0000016 200  VVD     emailed                  Q1.3/Y2 
+0000016 210  NN1     eHarmony                 Z99 
+0000016 220  II      about                    Z5 
+0000016 230  VVG     matching                 A6.1+ 
+0000016 240  APPGE   their                    Z8 
+0000016 250  NN2     pets                     L2mfn E2+ 
+0000016 260  RR@     too                      N5++ 
+0000016 261  .       .                        
+0000018 001  NULL    <quote>                  
+0000018 002  -----   -----                    
+0000018 003  "       "                        
+0000018 010  RG      Pretty                   A13.5 
+0000018 020  JJ      cool                     O4.6- S1.2.1- O4.2+ E6+ 
+0000018 021  ,       ,                        
+0000018 030  UH      huh                      Z4 
+0000018 031  ?       ?                        
+0000018 032  "       "                        
+0000018 033  NULL    </quote>                 
+0000018 034  -----   -----                    
+0000018 040  VVD     said                     Q2.1 
+0000018 050  NNB     Dr.                      B3/S2mf P1/S2mf 
+0000018 060  NP1     Warren                   Z1mf 
+0000018 061  .       .                        
+0000018 062  NULL    <quote>                  
+0000018 063  -----   -----                    
+0000018 064  "       "                        
+0000018 070  PPIS2   We                       Z8 
+0000018 080  VVD     established              T2+ X6+ 
+0000018 090  DD1     this                     M6 Z5 Z8 
+0000018 100  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000018 110  AT      the                      Z5 
+0000018 120  DA      same                     A6.1+++ 
+0000018 130  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000018 140  NP1     Ben                      Z1m 
+0000018 150  CC      and                      Z5 
+0000018 160  NP1     Jerry                    Z1mf 
+0000018 161  GE      's                       Z5 
+0000018 170  JJ%     discovered               A10+ 
+0000018 180  NN1     Chocolate                F1 
+0000018 190  NN1     Chip                     F1 Y2 O2 A1.1.2 K5.2/I1 
+0000018 200  NN1     Cookie                   F1 
+0000018 210  NN1     Dough                    F1 I1 
+0000018 220  NN1     ice                      F1[i30.2.1 O1.1 
+0000018 230  NN1     cream                    F1[i30.2.2 F1 B3 O1.2 O4.3 A5.1+++ 
+0000018 231  -       -                        
+0000018 240  II      from                     Z5 
+0000018 250  AT1     a                        Z5 
+0000018 260  NN1     user                     A1.5.1/S2mf 
+0000018 270  NN1     suggestion               Q2.2 Q1.1 
+0000018 271  .       .                        
+0000018 272  "       "                        
+0000018 273  NULL    </quote>                 
+0000018 274  -----   -----                    
+0000020 010  CS      When                     Z5 
+0000020 020  VVN@    asked                    Q2.2 
+0000020 030  RRQ     why                      A2.2 
+0000020 040  NP1     Boa                      L2[i31.2.1 
+0000020 050  NN2     constrictors             L2[i31.2.2 
+0000020 060  VBDR    were                     A3+ Z5 
+0000020 070  MC1     one                      T3 N1 T1.2 
+0000020 080  IO      of                       Z5 
+0000020 090  AT      the                      Z5 
+0000020 100  MC      three                    N1 T1.2 T3 
+0000020 110  JJ      main                     A11.1+ N5+++ 
+0000020 120  JJ      intitial                 Z99 
+0000020 130  NN2     pets                     L2mfn E2+ 
+0000020 140  VBG     being                    Z5 A3+ 
+0000020 150  VVN     matched                  A6.1+ 
+0000020 151  ,       ,                        
+0000020 160  NN1     eHarmony                 Z99 
+0000020 170  VVD     said                     Q2.1 
+0000020 180  PPH1    it                       Z8 
+0000020 190  VBDZ    was                      A3+ Z5 
+0000020 200  II21    because                  A2.2[i32.2.1 
+0000020 210  II22    of                       A2.2[i32.2.2 
+0000020 220  AT      the                      Z5 
+0000020 230  NN1     challenge                A12- A6.1- S7.3+ E3- 
+0000020 231  .       .                        
+0000022 001  NULL    <quote>                  
+0000022 002  -----   -----                    
+0000022 003  "       "                        
+0000022 010  NP1     Boa                      L2[i33.2.1 
+0000022 020  NN2     constrictors             L2[i33.2.2 
+0000022 030  VBR     are                      A3+ Z5 
+0000022 040  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
+0000022 050  TO      to                       Z5 
+0000022 060  VVI     match                    A6.1+ 
+0000022 070  IW      with                     Z5 
+0000022 080  DD      any                      N5.1+ N5 
+0000022 090  NN      species                  A4.1c L2c 
+0000022 091  ,       ,                        
+0000022 100  II      including                A1.8+ 
+0000022 110  PPX1    itself                   Z8 
+0000022 111  ,       ,                        
+0000022 112  "       "                        
+0000022 113  NULL    </quote>                 
+0000022 114  -----   -----                    
+0000022 120  VVD     said                     Q2.1 
+0000022 130  NNB     Dr.                      B3/S2mf P1/S2mf 
+0000022 140  NP1     Andrew                   Z1mf[i34.2.1 Z3c[i34.2.1 Z1m 
+0000022 150  NP1     Adams                    Z1mf[i34.2.2 Z3c[i34.2.2 Z1m 
+0000022 151  ,       ,                        
+0000022 160  VVG     substituing              Z99 
+0000022 170  II      in                       Z5 
+0000022 180  APPGE   our                      Z8 
+0000022 190  NN1     interview                Q2.1 
+0000022 200  IF      for                      Z5 
+0000022 210  NNB     Dr.                      B3/S2mf P1/S2mf 
+0000022 220  NP1     Warren                   Z1mf 
+0000022 230  CS      while                    Z5 
+0000022 240  PPHS1   he                       Z8m 
+0000022 250  VBDZ    was                      A3+ Z5 
+0000022 260  II      on                       Z5 
+0000022 270  AT1     a                        Z5 
+0000022 280  NN1     bathroom                 B4/H2 
+0000022 290  NN1     break                    K1/T1.3 T2- O2 A1.4 A1.1.2 
+0000022 291  .       .                        
+0000022 292  NULL    <quote>                  
+0000022 293  -----   -----                    
+0000022 294  "       "                        
+0000022 300  PPIS2   We                       Z8 
+0000022 310  VVD     spent                    I1.2 A1.5.1 T1.3 
+0000022 320  MC      two                      N1 T3 T1.2 
+0000022 330  NNT2    years                    T1.3 
+0000022 340  VVG     working                  N2[i35.2.1 X9.2+[i35.2.1 X2.5+[i35.2.1 A1.1.1[i35.2.1 K5.1[i35.2.1 X2.1[i35.2.1 I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000022 350  RP      out                      N2[i35.2.2 X9.2+[i35.2.2 X2.5+[i35.2.2 A1.1.1[i35.2.2 K5.1[i35.2.2 X2.1[i35.2.2 M6 
+0000022 360  RRQ     why                      A2.2 
+0000022 370  MC      99                       N6+[i37.5.1 N1 T1.2 T3 T1.3 N3.2 N6+[i36.2.1 A13.3[i36.2.1 
+0000022 380  NNT2    times                    N6+[i37.5.2 T1 T1.2 T1.3 T1.1.2 N6 N1 N6+[i36.2.2 A13.3[i36.2.2 
+0000022 390  II21    out                      N6+[i37.5.3 Z5 Z5[i38.2.1 Z5[i39.2.1 A9-[i39.2.1 
+0000022 400  II22    of                       N6+[i37.5.4 Z5[i38.2.2 Z5[i39.2.2 A9-[i39.2.2 
+0000022 410  MC      100                      N6+[i37.5.5 N1 T1.2 T3 T1.3 N3.2 
+0000022 420  AT1     a                        Z5 
+0000022 430  NN1@    Boa                      L2[i40.2.1 L2 B5 
+0000022 440  NN1     constrictor              L2[i40.2.2 
+0000022 450  VM      will                     T1.1.3 
+0000022 460  VVI     eat                      F1/B1 A1.5.1/N5+ 
+0000022 470  AT1     a                        Z5 
+0000022 480  JJ      live                     L1+ A3+ Q4.3 K2/K3 K1 O3 G3 
+0000022 490  NN1     rat                      L2mfn G2.2-/S2mf Q2.2 
+0000022 500  CS      when                     Z5 
+0000022 510  VVN     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000022 520  II      in                       Z5 
+0000022 530  APPGE   its                      Z8 
+0000022 540  NN1     cage                     H1/L2 
+0000022 541  ,       ,                        
+0000022 550  CCB     but                      Z5 
+0000022 560  AT1     every                    N5.1+ 
+0000022 570  RR      once                     N6- T1.1.1 
+0000022 580  II      in                       Z5 
+0000022 590  RR      awhile                   T1.3 
+0000022 600  VM      will                     T1.1.3 
+0000022 610  VVI     befriend                 S1.2.1+ 
+0000022 620  PPH1    it                       Z8 
+0000022 621  .       .                        
+0000022 622  -----   -----                    
+0000022 630  PPIS2   We                       Z8 
+0000022 640  RT      then                     N4 Z5 T1.2 
+0000022 650  VVD     used                     A1.5.1 S7.1+ 
+0000022 660  APPGE   our                      Z8 
+0000022 670  NN2     findings                 A10+ X2.1 X6+ 
+0000022 680  TO      to                       Z5 
+0000022 690  VVI     develop                  A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000022 700  AT1     a                        Z5 
+0000022 710  NN      series                   N4c Q4.3c 
+0000022 720  IO      of                       Z5 
+0000022 730  NN1     compatibility            A6.1+ 
+0000022 740  NN2     questions                Q2.2 X4.1 
+0000022 750  CST     that                     Z8 Z5 
+0000022 760  VM      would                    A7+ 
+0000022 770  VVI     help                     S8+ 
+0000022 780  PPIO2   us                       Z8 
+0000022 790  VVI     match                    A6.1+ 
+0000022 800  NP1     Boa                      L2[i41.2.1 
+0000022 810  NN2     constrictors             L2[i41.2.2 
+0000022 820  IW      with                     Z5 
+0000022 830  JJ      other                    A6.1- 
+0000022 840  NN1@    Boa                      L2[i42.2.1 L2 B5 
+0000022 850  NN2     constrictors             L2[i42.2.2 
+0000022 851  .       .                        
+0000022 852  -----   -----                    
+0000022 860  NN2     Questions                Q2.2 X4.1 
+0000022 870  VV0@    like                     E2+ 
+0000022 871  ,       ,                        
+0000022 880  VHZ     Has                      A9+ Z5 A2.2 S4 
+0000022 890  APPGE   Your                     Z8 
+0000022 900  NP1     Boa                      Z1mf[i43.2.1 Z3c[i43.2.1 
+0000022 910  NP1     Constrictor              Z1mf[i43.2.2 Z3c[i43.2.2 
+0000022 920  RR      Ever                     T1.1 N6+++ A13 
+0000022 930  VVN     Eaten                    F1/B1 A1.5.1/N5+ 
+0000022 940  DD1     Another                  A6.1- N5++ 
+0000022 950  NN1@    Boa                      L2 B5 
+0000022 960  NN1     Constrictor              Z99 
+0000022 961  ?       ?                        
+0000022 970  CC      and                      Z5 
+0000022 980  VHZ     Has                      A9+ Z5 A2.2 S4 
+0000022 990  APPGE   Your                     Z8 
+0000022 000  NP1     Boa                      Z1mf[i44.2.1 Z3c[i44.2.1 
+0000022 010  NP1     Constrictor              Z1mf[i44.2.2 Z3c[i44.2.2 
+0000022 020  RR      Ever                     T1.1 N6+++ A13 
+0000022 030  VVN     Eaten                    F1/B1 A1.5.1/N5+ 
+0000022 040  DD1     Another                  A6.1- N5++ 
+0000022 050  NN1     Pet                      L2mfn E2+ 
+0000022 060  CC      or                       Z5 
+0000022 070  NN1     Member                   S5+/S2mf B1 
+0000022 080  IO      of                       Z5 
+0000022 090  APPGE   Your                     Z8 
+0000022 100  NN1     Family                   S4c A4.1c 
+0000022 101  ?       ?                        
+0000022 102  "       "                        
+0000022 103  NULL    </quote>                 
+0000022 104  -----   -----                    
+0000024 010  DD      Some                     N5 Z5 
+0000024 020  NN1@    Boa                      L2[i45.2.1 L2 B5 
+0000024 030  NN2     constrictors             L2[i45.2.2 
+0000024 040  VV0@    like                     E2+ 
+0000024 050  TO      to                       Z5 
+0000024 060  VVI     ambush                   G3 
+0000024 070  APPGE   their                    Z8 
+0000024 080  NN1     prey                     L2 S7.1- 
+0000024 090  II      before                   Z5 
+0000024 100  VVG     eating                   F1/B1 A1.5.1/N5+ 
+0000024 110  PPH1    it                       Z8 
+0000024 111  .       .                        
+0000024 112  -----   -----                    
+0000024 120  NN1     eHarmony                 Z99 
+0000024 130  VVZ     says                     Q2.1 
+0000024 140  PPH1    it                       Z8 
+0000024 141  VBZ     's                       A3+ Z5 
+0000024 150  JJ      important                A11.1+ 
+0000024 160  CST     that                     Z5 Z8 
+0000024 170  NN2     snakes                   L2mfn 
+0000024 180  CST     that                     Z8 Z5 
+0000024 190  VV0@    like                     E2+ 
+0000024 200  TO      to                       Z5 
+0000024 210  VVI     ambush                   G3 
+0000024 220  NN1     prey                     L2 S7.1- 
+0000024 230  VBR     are                      Z5 A3+ 
+0000024 231  XX      n't                      Z6 
+0000024 240  VVN     matched                  A6.1+ 
+0000024 250  IW      with                     Z5 
+0000024 260  NP1     Boa                      L2[i46.2.1 
+0000024 270  NN2     constrictors             L2[i46.2.2 
+0000024 280  CST     that                     Z8 Z5 
+0000024 290  VV0@    like                     E2+ 
+0000024 300  TO      to                       Z5 
+0000024 310  VVI     play                     K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000024 320  IW      with                     Z5 
+0000024 330  APPGE   their                    Z8 
+0000024 340  NN1     prey                     L2 S7.1- 
+0000024 341  .       .                        
+0000026 001  NULL    <quote>                  
+0000026 002  -----   -----                    
+0000026 003  "       "                        
+0000026 010  PPH1    It                       Z8 
+0000026 020  VM      could                    A7+ 
+0000026 030  VVI     create                   A1.1.1 A2.2 E1 
+0000026 040  JJ      internal                 M6 A10- G1.1 
+0000026 050  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000026 060  II      to                       Z5 
+0000026 070  JJ      long-term                T1.3+ 
+0000026 080  NN1     compatibility            A6.1+ 
+0000026 081  ,       ,                        
+0000026 082  "       "                        
+0000026 083  NULL    </quote>                 
+0000026 084  -----   -----                    
+0000026 090  VVD     said                     Q2.1 
+0000026 100  NNB     Dr.                      B3/S2mf P1/S2mf 
+0000026 110  NP1     Warren                   Z1mf 
+0000026 111  ,       ,                        
+0000026 120  PNQS    who                      Z8 
+0000026 130  VVD     returned                 M1 A9- N6 
+0000026 140  II      from                     Z5 
+0000026 150  APPGE   his                      Z8m 
+0000026 160  NN1     bathroom                 B4/H2 
+0000026 170  NN1     break                    K1/T1.3 T2- O2 A1.4 A1.1.2 
+0000026 171  .       .                        
+0000027 001  -----   -----                    
+0000028 010  NN1     eHarmony                 Z99 
+0000028 020  VVZ     says                     Q2.1 
+0000028 030  AT      the                      Z5 
+0000028 040  JJ      new                      T3- 
+0000028 050  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000028 060  VM      will                     T1.1.3 
+0000028 070  RR      officially               G1.1 S7.4+ 
+0000028 080  VVI     launch                   M4 M5 T2+ 
+0000028 081  NULL    <quote>                  
+0000028 082  -----   -----                    
+0000028 083  "       "                        
+0000028 090  RR      soon                     T1.1.3/N3.8+ 
+0000028 091  "       "                        
+0000028 092  NULL    </quote>                 
+0000028 093  -----   -----                    
+0000028 100  CS      after                    Z5 
+0000028 110  AT1     a                        Z5 
+0000028 120  DA2     few                      N5- 
+0000028 130  NN2     kinks                    O4.4 A6.2- 
+0000028 140  VBR     are                      Z5 A3+ 
+0000028 150  VVN     ironed                   A1.1.1[i47.2.1 X9.2+[i47.2.1 B4 
+0000028 160  RP      out                      A1.1.1[i47.2.2 X9.2+[i47.2.2 M6 
+0000028 161  .       .                        
+0000028 162  -----   -----                    
+0000028 170  VV0@    Like                     E2+ 
+0000028 180  IW      with                     Z5 
+0000028 190  NN1     eHarmony                 Z99 
+0000028 191  ,       ,                        
+0000028 200  AT      the                      Z5 
+0000028 210  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000028 220  VM      will                     T1.1.3 
+0000028 230  VHI     have                     A9+ Z5 A2.2 S4 
+0000028 240  NN1     monthy                   Z99 
+0000028 241  NULL    <quote>                  
+0000028 242  -----   -----                    
+0000028 243  "       "                        
+0000028 250  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000028 260  NN1     communication            Q2.1 Q1.2 Q1.3 Q4.3 
+0000028 270  NNT2    weekends                 T1.3 
+0000028 271  "       "                        
+0000028 272  NULL    </quote>                 
+0000028 273  -----   -----                    
+0000028 280  RRQ     where                    M6 
+0000028 290  NN2     pets                     L2mfn E2+ 
+0000028 300  VM      can                      A7+ 
+0000028 310  VVI     communicate              Q2.1 Q1.2 Q1.3 X2.2+ 
+0000028 320  IW      with                     Z5 
+0000028 330  JJ      other                    A6.1- 
+0000028 340  NN2     pets                     L2mfn E2+ 
+0000028 350  PPHS2   they                     Z8mfn 
+0000028 360  VBR     are                      A3+ Z5 
+0000028 370  NN1     match                    K5.1 O2 A6.1+ 
+0000028 380  IW      with                     Z5 
+0000028 390  IF      for                      Z5 
+0000028 400  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000028 410  IW      without                  Z5 
+0000028 420  FO      paying*                  Z99 
+0000028 421  .       .                        
+0000029 001  -----   -----                    
+0000030 010  II      As                       Z5 
+0000030 020  AT1     a                        Z5 
+0000030 030  NN1     precursor                N4 
+0000030 040  TO      to                       Z5 
+0000030 050  VVI     thwart                   S8- 
+0000030 060  DD      any                      N5 N5.1+ 
+0000030 070  JJ      possible                 A7+ 
+0000030 080  JJ      future                   T1.1.3 
+0000030 090  NN2     lawsuits                 G2.1 
+0000030 100  CC      or                       Z5 
+0000030 110  NN2     protests                 Q2.2 A10+ G1.2 
+0000030 111  ,       ,                        
+0000030 120  NN1     eHarmony                 Z99 
+0000030 130  RR      also                     N5++ 
+0000030 140  VVN     announced                Q2.2 
+0000030 150  CST     that                     Z8 Z5 
+0000030 160  PPH1    it                       Z8 
+0000030 170  VM      will                     T1.1.3 
+0000030 180  VVI     open                     A10+[i48.2.1 S1.2.1+[i48.2.1 T2+[i48.2.1 A1.1.1[i48.2.1 A10+ T2+ 
+0000030 190  RP      up                       A10+[i48.2.2 S1.2.1+[i48.2.2 T2+[i48.2.2 A1.1.1[i48.2.2 
+0000030 200  AT1     a                        Z5 
+0000030 210  JJ      separate                 A6.1- 
+0000030 220  JJ@     matchmaking              Z99 
+0000030 230  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000030 240  IF      for                      Z5 
+0000030 250  JJ      gay                      S3.2/B1 O4.2+ E4.1+ 
+0000030 260  NN2     pets                     L2mfn E2+ 
+0000030 261  ,       ,                        
+0000030 270  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000030 271  NULL    <quote>                  
+0000030 272  -----   -----                    
+0000030 273  "       "                        
+0000030 280  NN1     Compatibility            A6.1+ 
+0000030 290  NN1     Pet                      L2mfn E2+ 
+0000030 300  NN2     Partners                 S3.1/S2mf S3.2/S2mf S4mf 
+0000030 301  "       "                        
+0000030 302  NULL    </quote>                 
+0000030 303  -----   -----                    
+0000030 304  .       .                        
+0000031 001  -----   -----                    
+0000032 010  FU      *                        Z5 
+0000032 020  VM      must                     S6+ A7+ 
+0000032 030  VVI     pay                      I1.2 A9- I1.1/I3.1 
+0000032 040  TO      to                       Z5 
+0000032 050  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000032 060  NN1     photo                    C1 
+0000032 070  IO      of                       Z5 
+0000032 080  NN2     pets                     L2mfn E2+ 
+0000032 090  PPY     you                      Z8mf 
+0000032 100  VBR     are                      Z5 A3+ 
+0000032 110  VVN     matched                  A6.1+ 
+0000032 120  IW      with                     Z5 
+0000032 121  .       .                        
+0000035 001  NULL    **8;7;text               

@@ -1,0 +1,1274 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  JJ      Elementary               A12+ 
+0000002 020  JJ      propositional            Z99 
+0000002 030  NN1     logic                    X2.1 S1.2.6+ N2 
+0000002 031  (       (                        
+0000002 040  AT      the                      Z5 
+0000002 050  NN1     logic                    X2.1 S1.2.6+ N2 
+0000002 060  IO      of                       Z5 
+0000002 061  NULL    <quote>                  
+0000002 062  -----   -----                    
+0000002 063  "       "                        
+0000002 070  CC      and                      Z5 
+0000002 071  ,       ,                        
+0000002 072  "       "                        
+0000002 073  NULL    </quote>                 
+0000002 074  NULL    <quote>                  
+0000002 075  -----   -----                    
+0000002 076  "       "                        
+0000002 080  CC      or                       Z5 
+0000002 081  ,       ,                        
+0000002 082  "       "                        
+0000002 083  NULL    </quote>                 
+0000002 084  NULL    <quote>                  
+0000002 085  -----   -----                    
+0000002 086  "       "                        
+0000002 090  XX      not                      Z6 
+0000002 091  ,       ,                        
+0000002 092  "       "                        
+0000002 093  NULL    </quote>                 
+0000002 094  -----   -----                    
+0000002 100  CC      and                      Z5 
+0000002 101  NULL    <quote>                  
+0000002 102  -----   -----                    
+0000002 103  "       "                        
+0000002 110  CS      if                       Z7 
+0000002 111  ...     ...                      
+0000002 120  RT      then                     N4 Z5 T1.2 
+0000002 121  ...     ...                      
+0000002 122  "       "                        
+0000002 123  NULL    </quote>                 
+0000002 124  -----   -----                    
+0000002 125  )       )                        
+0000002 130  VM      can                      A7+ 
+0000002 140  RT      sometimes                N6 
+0000002 150  VVI     give                     A2.2[i1.3.1 A9- A1.1.1 
+0000002 160  NN1     rise                     A2.2[i1.3.2 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 O4.4 
+0000002 170  II      to                       A2.2[i1.3.3 Z5 
+0000002 180  VVG     vexing                   E3- 
+0000002 190  NN2     puzzles                  X2.5- K5.2/X4.1 
+0000002 191  .       .                        
+0000002 192  -----   -----                    
+0000002 200  RL      Here                     M6 T1.1.2 T1.2 
+0000002 210  VBZ     is                       A3+ Z5 
+0000002 220  MC1     one                      N1 T3 T1.2 
+0000002 230  RG      rather                   A13.5 
+0000002 240  JJ      whimsical                Z99 
+0000002 250  NN1     example                  A4.1 
+0000002 260  CST     that                     Z8 Z5 
+0000002 270  VVD     occurred                 A2.1+ A3+ X2.1 
+0000002 280  II      to                       Z5 
+0000002 290  PPIO1   me                       Z8mf 
+0000002 300  II      after                    Z5 
+0000002 310  VVG     reading                  Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000002 320  II      about                    Z5 
+0000002 330  NP1     Bernard                  Z1mf[i2.2.1 Z3c[i2.2.1 Z1mf 
+0000002 340  NP1     Madoff                   Z1mf[i2.2.2 Z3c[i2.2.2 
+0000002 341  GE      's                       Z5 
+0000002 350  JJ      Ponzi                    Z99 
+0000002 360  NN1     scheme                   X7+ X4.2 
+0000002 361  (       (                        
+0000002 370  CC      and                      Z5 
+0000002 380  NN2     others                   A6.1-/Z8 
+0000002 381  )       )                        
+0000002 390  CC      and                      Z5 
+0000002 400  VBG     being                    Z5 A3+ 
+0000002 410  VVN     struck                   I3.1 E3- A1.1.1 A11.2+ A8 E2+ X3.2 A9+ 
+0000002 420  II      by                       Z5 
+0000002 430  AT      the                      Z5 
+0000002 440  NN1     word                     Q3 Q2.1 S9@ 
+0000002 441  NULL    <quote>                  
+0000002 442  -----   -----                    
+0000002 443  "       "                        
+0000002 450  JJ      seductive                S3.2 O4.2+ 
+0000002 451  "       "                        
+0000002 452  NULL    </quote>                 
+0000002 453  -----   -----                    
+0000002 460  VVG     appearing                A8 A10+ A3+ G2.1 K4 Q4 
+0000002 470  II      in                       Z5 
+0000002 480  DD      some                     N5 Z5 
+0000002 490  IO      of                       Z5 
+0000002 500  AT      the                      Z5 
+0000002 510  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000002 520  NN2     accounts                 I1 I1.3 I2.1 Q2.2 Y2 
+0000002 521  .       .                        
+0000003 001  -----   -----                    
+0000004 010  VBG     Being                    A3+ Z5 
+0000004 020  AT1     a                        Z5 
+0000004 030  NN1     logician                 Z99 
+0000004 031  ,       ,                        
+0000004 040  PPIS1   I                        Z8mf 
+0000004 050  VVD     thought                  X2.1 
+0000004 060  IO      of                       Z5 
+0000004 070  AT1     a                        Z5 
+0000004 080  NN1     kind                     A4.1 
+0000004 090  IO      of                       Z5 
+0000004 100  NN1     seduction                S3.2 S1.2.2+ 
+0000004 110  CST     that                     Z8 Z5 
+0000004 120  VVZ     relies                   S7.1- 
+0000004 130  II      on                       Z5 
+0000004 140  NN1     logic                    X2.1 S1.2.6+ N2 
+0000004 150  II21    rather                   Z5[i4.2.1 Z5[i3.2.1 
+0000004 160  II22    than                     Z5[i4.2.2 Z5[i3.2.2 
+0000004 170  NN1     psychology               Y1/X1 
+0000004 180  TO      to                       Z5 
+0000004 190  VVI     ensnare                  S7.1+/G2.2- A1.7+ 
+0000004 200  CC      and                      Z5 
+0000004 210  VVI     entangle                 S1.1.3+ A9+ A1.7+ 
+0000004 220  APPGE   its                      Z8 
+0000004 230  NN2     targets                  X7+ G3 K5.1 
+0000004 231  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NN1     Seduction                S3.2 S1.2.2+ 
+0000006 020  II      by                       Z5 
+0000006 030  AT1     a                        Z5 
+0000006 040  NN1     Logician                 Z99 
+0000008 010  VV0     Let                      S7.4+ I2.2/H1 T2- 
+0000008 020  PPIO1   me                       Z8mf 
+0000008 030  MD      first                    N4 
+0000008 040  VVI     state                    Q2.1 
+0000008 050  AT      the                      Z5 
+0000008 060  NN1     puzzle                   X2.5- K5.2/X4.1 
+0000008 070  II31    in                       Z5[i5.3.1 Z5 
+0000008 080  II32    terms                    Z5[i5.3.2 
+0000008 090  II33    of                       Z5[i5.3.3 
+0000008 100  AT1     a                        Z5 
+0000008 110  RGR     more                     A13.3 
+0000008 120  JJ      standard                 A6.2+ 
+0000008 130  NN1     sort                     A4.1 S1.2 Y2 
+0000008 140  IO      of                       Z5 
+0000008 150  NN1     seduction                S3.2 S1.2.2+ 
+0000008 151  .       .                        
+0000009 001  -----   -----                    
+0000010 010  VV0     Suppose                  X2.1 X7+ 
+0000010 020  AT1     a                        Z5 
+0000010 030  NN1     man                      S2.2m 
+0000010 040  VVZ     flirts                   S3.2 
+0000010 050  IW      with                     Z5 
+0000010 060  AT1     a                        Z5 
+0000010 070  NN1     woman                    S2.1f 
+0000010 080  CC      and                      Z5 
+0000010 090  RT      then                     N4 Z5 T1.2 
+0000010 100  VVZ     asks                     Q2.2 
+0000010 110  PPHO1   her                      Z8f 
+0000010 111  ,       ,                        
+0000010 112  NULL    <quote>                  
+0000010 113  -----   -----                    
+0000010 114  "       "                        
+0000010 120  VM      Will                     T1.1.3 
+0000010 130  PPY     you                      Z8mf 
+0000010 140  RR      solemnly                 O4.2 A5.2+ 
+0000010 150  VVI     promise                  S6+ A7+ 
+0000010 160  TO      to                       Z5 
+0000010 170  VVI     give                     A9- A1.1.1 
+0000010 180  PPIO1   me                       Z8mf 
+0000010 190  RR      right                    T1.1.2[i6.2.1 Z4 A5.3+ A4.2+ M6 A13.3 A13.2 
+0000010 200  RT      now                      T1.1.2[i6.2.2 T1.1.2 Z4 
+0000010 210  APPGE   your                     Z8 
+0000010 220  NN1     telephone                Q1.3[i7.2.1 Q1.3 
+0000010 230  NN1     number                   Q1.3[i7.2.2 N5 N1 Q1.3 K2 Q4.2 
+0000010 240  CS      if                       Z7 
+0000010 250  PPIS1   I                        Z8mf 
+0000010 260  VV0     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000010 270  AT1     a                        Z5 
+0000010 280  JJ      true                     A5.2+ A5.4+ 
+0000010 290  NN1     statement                Q2.1 I1/Q1.2 
+0000010 300  CC      and                      Z5 
+0000010 301  ,       ,                        
+0000010 310  RR      conversely               A6.1- 
+0000010 311  ,       ,                        
+0000010 320  XX      not                      Z6 
+0000010 330  VV0     give                     A9- A1.1.1 
+0000010 340  PPIO1   me                       Z8mf 
+0000010 350  APPGE   your                     Z8 
+0000010 360  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000010 370  CS      if                       Z7 
+0000010 380  PPIS1   I                        Z8mf 
+0000010 390  VV0     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000010 400  AT1     a                        Z5 
+0000010 410  JJ      false                    A5.2- A5.4- G2.2- 
+0000010 420  NN1     statement                Q2.1 I1/Q1.2 
+0000010 421  ?       ?                        
+0000010 422  "       "                        
+0000010 423  NULL    </quote>                 
+0000010 424  -----   -----                    
+0000012 010  RR      Maybe                    A7 
+0000012 020  PPHS1   he                       Z8m 
+0000012 030  VM      can                      A7+ 
+0000012 040  VVI     soften                   O4.5 A2.1+ S1.2.5- S1.2.1+ O4.1 
+0000012 050  AT      the                      Z5 
+0000012 060  NN1     statement                Q2.1 I1/Q1.2 
+0000012 070  RR21    a                        A13.6[i8.2.1 A13.7[i8.2.1 
+0000012 080  RR22    bit                      A13.6[i8.2.2 A13.7[i8.2.2 
+0000012 081  ,       ,                        
+0000012 090  CCB     but                      Z5 
+0000012 100  VM21    let                      Z5[i9.2.1 
+0000012 101  VM22    's                       Z5[i9.2.2 
+0000012 110  VVI     assume                   X2.1 A5.4-/A8 
+0000012 120  CST     that                     Z5 Z8 
+0000012 130  DD1     this                     Z8 M6 Z5 
+0000012 140  VBZ     is                       A3+ Z5 
+0000012 150  APPGE   its                      Z8 
+0000012 160  NN1     gist                     Q1.1 
+0000012 161  .       .                        
+0000013 001  -----   -----                    
+0000014 010  VVG     Feeling                  X2.1 E1 X3 
+0000014 020  CST     that                     Z5 Z8 
+0000014 030  DD1     this                     Z8 M6 Z5 
+0000014 040  VBZ     is                       A3+ Z5 
+0000014 050  AT1     a                        Z5 
+0000014 060  JJ      flattering               O4.2+ 
+0000014 070  CC      and                      Z5 
+0000014 080  JJ      benign                   S1.2.1+ B2+ E3+ 
+0000014 090  NN1     request                  Q2.1 Q2.2 
+0000014 091  ,       ,                        
+0000014 100  AT      the                      Z5 
+0000014 110  NN1     woman                    S2.1f 
+0000014 120  VVZ     promises                 S6+ A7+ 
+0000014 130  TO      to                       Z5 
+0000014 140  VVI     give                     A9- A1.1.1 
+0000014 150  PPHO1   him                      Z8m 
+0000014 160  APPGE   her                      Z8f 
+0000014 170  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000014 180  CS      if                       Z7 
+0000014 190  CC      and                      Z5 
+0000014 200  RR      only                     A14 
+0000014 210  CS      if                       Z7 
+0000014 220  PPHS1   he                       Z8m 
+0000014 230  VVZ     makes                    A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000014 240  AT1     a                        Z5 
+0000014 250  JJ      true                     A5.2+ A5.4+ 
+0000014 260  NN1     statement                Q2.1 I1/Q1.2 
+0000014 261  .       .                        
+0000015 001  -----   -----                    
+0000016 010  AT      The                      Z5 
+0000016 020  NN1     man                      S2.2m 
+0000016 030  RT      then                     N4 Z5 T1.2 
+0000016 040  VVZ     makes                    A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000016 050  APPGE   his                      Z8m 
+0000016 060  NN1     statement                Q2.1 I1/Q1.2 
+0000016 061  :       :                        
+0000016 062  NULL    <quote>                  
+0000016 063  -----   -----                    
+0000016 064  "       "                        
+0000016 070  PPY     You                      Z8mf 
+0000016 080  VM      will                     T1.1.3 
+0000016 090  RR      neither                  Z6 
+0000016 100  VVI     give                     A9- A1.1.1 
+0000016 110  PPIO1   me                       Z8mf 
+0000016 120  APPGE   your                     Z8 
+0000016 130  NN1     telephone                Q1.3[i10.2.1 Q1.3 
+0000016 140  NN1     number                   Q1.3[i10.2.2 N5 N1 Q1.3 K2 Q4.2 
+0000016 150  RT      now                      T1.1.2 Z4 
+0000016 160  CC      nor                      Z6 
+0000016 170  VM      will                     T1.1.3 
+0000016 180  PPY     you                      Z8mf 
+0000016 190  VVI     sleep                    S3.2[i11.2.1 B1 H4/N5 
+0000016 200  IW      with                     S3.2[i11.2.2 Z5 
+0000016 210  PPIO1   me                       Z8mf 
+0000016 220  RT      tonight                  T1.1.2 
+0000016 221  .       .                        
+0000016 222  "       "                        
+0000016 223  NULL    </quote>                 
+0000016 224  -----   -----                    
+0000018 010  DDQ     What                     Z8 Z5 
+0000018 011  VBZ     's                       A3+ Z5 
+0000018 020  AT      the                      Z5 
+0000018 030  NN1     trick                    G2.2- A1.1.1 X4.2 A6.2+ K5.2 
+0000018 031  ?       ?                        
+0000018 032  -----   -----                    
+0000018 040  VV0     Note                     Q2.1 Q1.2 
+0000018 050  CST     that                     Z8 Z5 
+0000018 060  PPHS1   she                      Z8f 
+0000018 070  VM      ca                       A7+ 
+0000018 071  XX      n't                      Z6 
+0000018 080  VVI     give                     A9- A1.1.1 
+0000018 090  PPHO1   him                      Z8m 
+0000018 100  APPGE   her                      Z8f 
+0000018 110  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000018 120  CS      since                    Z5 
+0000018 121  ,       ,                        
+0000018 130  CS      if                       Z7 
+0000018 140  PPHS1   she                      Z8f 
+0000018 150  VBDR    were                     A3+ Z5 
+0000018 160  TO      to                       Z5 
+0000018 170  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000018 180  RR      so                       Z5 A13.3 
+0000018 181  ,       ,                        
+0000018 190  APPGE   his                      Z8m 
+0000018 200  NN1     statement                Q2.1 I1/Q1.2 
+0000018 210  VM      would                    A7+ 
+0000018 220  VBI     be                       Z5 A3+ 
+0000018 230  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000018 240  JJ      false                    A5.2- A5.4- G2.2- 
+0000018 241  ,       ,                        
+0000018 250  CC      and                      Z5 
+0000018 260  RR      so                       Z5 A13.3 
+0000018 270  PPHS1   she                      Z8f 
+0000018 280  VM      would                    A7+ 
+0000018 290  VHI     have                     Z5 A9+ A2.2 S4 
+0000018 300  VVN     broken                   A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000018 310  APPGE   her                      Z8f 
+0000018 320  NN1     promise                  S6+ A7+ X9.1+ 
+0000018 330  TO      to                       Z5 
+0000018 340  VVI     give                     A9- A1.1.1 
+0000018 350  PPHO1   him                      Z8m 
+0000018 360  APPGE   her                      Z8f 
+0000018 370  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000018 380  RR      only                     A14 
+0000018 390  CS      if                       Z7 
+0000018 400  PPHS1   he                       Z8m 
+0000018 410  VVD     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000018 420  AT1     a                        Z5 
+0000018 430  JJ      true                     A5.2+ A5.4+ 
+0000018 440  NN1     statement                Q2.1 I1/Q1.2 
+0000018 441  .       .                        
+0000018 442  -----   -----                    
+0000018 443  (       (                        
+0000018 450  DD1     This                     Z8 M6 Z5 
+0000018 460  VBZ     is                       A3+ Z5 
+0000018 470  AT      the                      Z5 
+0000018 480  NN1     crux                     A11.1+ 
+0000018 490  IO      of                       Z5 
+0000018 500  PPH1    it                       Z8 
+0000018 501  .       .                        
+0000018 502  )       )                        
+0000018 503  -----   -----                    
+0000018 510  RR      Therefore                Z5 
+0000018 511  ,       ,                        
+0000018 520  PPHS1   she                      Z8f 
+0000018 530  VM      must                     S6+ A7+ 
+0000018 540  XX      not                      Z6 
+0000018 550  VVI     give                     A9- A1.1.1 
+0000018 560  PPHO1   him                      Z8m 
+0000018 570  APPGE   her                      Z8f 
+0000018 580  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000018 590  II      under                    Z5 
+0000018 600  DD      any                      N5 N5.1+ 
+0000018 610  NN2     circumstances            O4.1 
+0000018 611  .       .                        
+0000019 001  -----   -----                    
+0000020 010  CCB     But                      Z5 
+0000020 020  CS      if                       Z7 
+0000020 030  PPHS1   she                      Z8f 
+0000020 040  RR      also                     N5++ 
+0000020 050  VVZ     refuses                  Q2.2/Z6 S7.4- X7- 
+0000020 060  TO      to                       Z5 
+0000020 070  VVI     sleep                    S3.2[i12.2.1 B1 H4/N5 
+0000020 080  IW      with                     S3.2[i12.2.2 Z5 
+0000020 090  PPHO1   him                      Z8m 
+0000020 091  ,       ,                        
+0000020 100  APPGE   his                      Z8m 
+0000020 110  NN1     statement                Q2.1 I1/Q1.2 
+0000020 120  VVZ     becomes                  A2.1+ O4.2+ 
+0000020 130  JJ      true                     A5.2+ A5.4+ 
+0000020 131  ,       ,                        
+0000020 140  CC      and                      Z5 
+0000020 150  DD1     this                     Z8 M6 Z5 
+0000020 160  VM      would                    A7+ 
+0000020 170  VVI     require                  X7+ S6+ 
+0000020 180  PPHO1   her                      Z8f 
+0000020 190  TO      to                       Z5 
+0000020 200  VVI     give                     A9- A1.1.1 
+0000020 210  PPHO1   him                      Z8m 
+0000020 220  APPGE   her                      Z8f 
+0000020 230  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000020 231  .       .                        
+0000021 001  -----   -----                    
+0000022 010  AT      The                      Z5 
+0000022 020  JJ      only                     A14 
+0000022 030  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000022 040  PPHS1   she                      Z8f 
+0000022 050  VM      can                      A7+ 
+0000022 060  VVI     keep                     A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000022 070  APPGE   her                      Z8f 
+0000022 080  NN1     promise                  S6+ A7+ X9.1+ 
+0000022 090  VBZ     is                       A3+ Z5 
+0000022 100  TO      to                       Z5 
+0000022 110  VVI     sleep                    S3.2[i13.2.1 B1 H4/N5 
+0000022 120  IW      with                     S3.2[i13.2.2 Z5 
+0000022 130  PPHO1   him                      Z8m 
+0000022 140  CS21    so                       Z5[i14.2.1 Z5 
+0000022 150  CS22    that                     Z5[i14.2.2 Z5 Z8 
+0000022 160  APPGE   his                      Z8m 
+0000022 170  NN1     statement                Q2.1 I1/Q1.2 
+0000022 180  VVZ     becomes                  A2.1+ O4.2+ 
+0000022 190  JJ      false                    A5.2- A5.4- G2.2- 
+0000022 191  .       .                        
+0000022 192  -----   -----                    
+0000022 200  AT      The                      Z5 
+0000022 210  NN1     woman                    S2.1f 
+0000022 211  GE      's                       Z5 
+0000022 220  RR      seemingly                A8 
+0000022 230  JJ      innocuous                E3+ 
+0000022 240  NN1     promise                  S6+ A7+ X9.1+ 
+0000022 250  VVZ     ensnares                 S7.1+/G2.2- A1.7+ 
+0000022 260  PPHO1   her                      Z8f 
+0000022 261  .       .                        
+0000023 001  -----   -----                    
+0000024 010  RR      Fortunately              A1.4+ A5.1+ E4.1+ 
+0000024 020  CC      or                       Z5 
+0000024 030  RR      unfortunately            A1.4- A5.1- E4.1- 
+0000024 031  ,       ,                        
+0000024 040  PPIS1   I                        Z4[i15.2.1 Z8mf 
+0000024 050  VV0     suspect                  Z4[i15.2.2 X2.1/A5.1- A7 
+0000024 060  CST     that                     Z5 Z8 
+0000024 070  AT      the                      Z5 
+0000024 080  NN1     class                    P1c A4.1 S5+c O4.2+ 
+0000024 090  IO      of                       Z5 
+0000024 100  NN      people                   S2mfc 
+0000024 110  IF      for                      Z5 
+0000024 120  PNQO    whom                     Z8 
+0000024 130  DD1     this                     M6 Z5 Z8 
+0000024 140  NN1     seduction                S3.2 S1.2.2+ 
+0000024 150  NN1     technique                X4.2 
+0000024 160  VM      would                    A7+ 
+0000024 170  VVI     prove                    A5.2+ X2.4 
+0000024 180  JJ      effective                X9.2+ 
+0000024 190  VBZ     is                       A3+ Z5 
+0000024 200  RR      probably                 A7+ 
+0000024 210  RG      rather                   A13.5 
+0000024 220  JJ      small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
+0000024 221  .       .                        
+0000024 222  -----   -----                    
+0000024 230  RR      Nevertheless             Z4 
+0000024 231  ,       ,                        
+0000024 240  PPH1    it                       Z8 
+0000024 250  VM      might                    A7+ 
+0000024 260  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000024 270  AT1     an                       Z5 
+0000024 280  JJ      interesting              X5.2+ 
+0000024 290  NN1     premise                  X4.1 
+0000024 300  IF      for                      Z5 
+0000024 310  AT1     a                        Z5 
+0000024 320  NN1     Star                     Z3c[i18.2.1 Z3c Z2[i17.2.1 Z3c[i17.2.1 Z1mf[i17.2.1 Z1mf[i16.2.1 Z3c[i16.2.1 
+0000024 330  NP1     Trek                     Z3c[i18.2.2 Z2[i17.2.2 Z3c[i17.2.2 Z1mf[i17.2.2 Z1mf[i16.2.2 Z3c[i16.2.2 
+0000024 340  NN1     episode                  A3+/A11.1+ A6.2- Q4 B2- 
+0000024 350  CC      or                       Z5 
+0000024 360  RR      perhaps                  A7 
+0000024 370  VV0     form                     T2+ A2.1+ A1.8+ A3+ A1.1.1 
+0000024 380  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000024 390  IO      of                       Z5 
+0000024 400  AT1     a                        Z5 
+0000024 410  NN2     logicians                Z99 
+0000024 411  GE      '                        Z5 
+0000024 420  NN1     dating                   T3 S3.2 
+0000024 430  NN1     manual                   Q4.1/P1 M3fn 
+0000024 431  .       .                        
+0000025 001  -----   -----                    
+0000026 010  AT1     A                        Z5 
+0000026 020  JJ      Similar                  A6.1+ 
+0000026 030  JJ      Financial                I1 
+0000026 040  NN1     Con                      G2.2-/A5.2- G2.1-/S2mf S8- 
+0000026 050  NN1     Game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000028 010  VV0     Consider                 X2.1 X2.4 X6 
+0000028 020  RT      now                      T1.1.2 Z4 
+0000028 030  AT1     a                        Z5 
+0000028 040  JJ      slight                   N5- B1 A11.1- N3.2- 
+0000028 050  NN1     variant                  A6.1- 
+0000028 060  IO      of                       Z5 
+0000028 070  AT      the                      Z5 
+0000028 080  JJ@     above                    Z5 M6 A5.1++ 
+0000028 090  NN1     story                    Q2.1 X4.1 Q4 
+0000028 091  .       .                        
+0000028 092  -----   -----                    
+0000028 100  VV0     Suppose                  X2.1 X7+ 
+0000028 110  AT1     an                       Z5 
+0000028 120  NN1     investment               I1.1 
+0000028 130  NN1     con                      G2.2-/S2.2m[i19.2.1 G2.2-/A5.2- G2.1-/S2mf S8- 
+0000028 140  NN1     man                      G2.2-/S2.2m[i19.2.2 S2.2m 
+0000028 150  VBZ     is                       Z5 A3+ 
+0000028 160  VVG     talking                  Q2.1 
+0000028 170  II      to                       Z5 
+0000028 180  AT1     a                        Z5 
+0000028 190  JJ      prospective              X7+ A7+ 
+0000028 200  NN1     client                   I2.2/S2mf 
+0000028 201  .       .                        
+0000029 001  -----   -----                    
+0000030 010  PPHS1   He                       Z8m 
+0000030 020  VVZ     flatters                 S7.2+/Q2.2 O4.2+ 
+0000030 030  AT      the                      Z5 
+0000030 040  NN1     client                   I2.2/S2mf 
+0000030 041  ,       ,                        
+0000030 050  VVZ     tells                    Q2.2 Q2.1 X3 A10+ 
+0000030 060  PPHO1   him                      Z8m 
+0000030 070  II      about                    Z5 
+0000030 080  AT      the                      Z5 
+0000030 090  NN1     stock                    A9+ F1 S4 O2 I1.1 
+0000030 100  NN1     newsletter               Q4.2 
+0000030 110  PPHS1   he                       Z8m 
+0000030 120  VVZ@    e-mails                  Q1.3/Y2 
+0000030 130  II      to                       Z5 
+0000030 140  APPGE   his                      Z8m 
+0000030 150  NN2     clients                  I2.2/S2mf 
+0000030 151  ,       ,                        
+0000030 160  CC      and                      Z5 
+0000030 170  VVZ     asks                     Q2.2 
+0000030 171  ,       ,                        
+0000030 172  NULL    <quote>                  
+0000030 173  -----   -----                    
+0000030 174  "       "                        
+0000030 180  VM      Will                     T1.1.3 
+0000030 190  PPY     you                      Z8mf 
+0000030 200  RR      right                    T1.1.2[i20.2.1 Z4 A5.3+ A4.2+ M6 A13.3 A13.2 
+0000030 210  RT      now                      T1.1.2[i20.2.2 T1.1.2 Z4 
+0000030 220  RR      solemnly                 O4.2 A5.2+ 
+0000030 230  VVI     promise                  S6+ A7+ 
+0000030 240  TO      to                       Z5 
+0000030 250  VVI     give                     A9- A1.1.1 
+0000030 260  PPIO1   me                       Z8mf 
+0000030 270  APPGE   your                     Z8 
+0000030 280  NN1     e-mail                   Y2/Q1.2[i21.2.1 Y2 
+0000030 290  NN1     address                  Y2/Q1.2[i21.2.2 H4 Q2.2 
+0000030 300  CS      if                       Z7 
+0000030 310  PPIS1   I                        Z8mf 
+0000030 320  VV0     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000030 330  AT1     a                        Z5 
+0000030 340  JJ      true                     A5.2+ A5.4+ 
+0000030 350  NN1     statement                Q2.1 I1/Q1.2 
+0000030 360  CC      and                      Z5 
+0000030 361  ,       ,                        
+0000030 370  RR      conversely               A6.1- 
+0000030 371  ,       ,                        
+0000030 380  XX      not                      Z6 
+0000030 390  VV0     give                     A9- A1.1.1 
+0000030 400  PPH1    it                       Z8 
+0000030 410  II      to                       Z5 
+0000030 420  PPIO1   me                       Z8mf 
+0000030 430  PPH1    it                       Z8 
+0000030 440  CS      if                       Z7 
+0000030 450  PPIS1   I                        Z8mf 
+0000030 460  VV0     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000030 470  AT1     a                        Z5 
+0000030 480  JJ      false                    A5.2- A5.4- G2.2- 
+0000030 490  NN1     statement                Q2.1 I1/Q1.2 
+0000030 491  ?       ?                        
+0000030 492  "       "                        
+0000030 493  NULL    </quote>                 
+0000030 494  -----   -----                    
+0000032 010  VVG     Feeling                  X2.1 E1 X3 
+0000032 020  CST     that                     Z5 Z8 
+0000032 030  DD1     this                     Z8 M6 Z5 
+0000032 040  VBZ     is                       A3+ Z5 
+0000032 050  AT1     a                        Z5 
+0000032 060  JJ      harmless                 E3+ 
+0000032 070  NN1     request                  Q2.1 Q2.2 
+0000032 080  TO      to                       Z5 
+0000032 090  VVI     consider                 X2.1 X2.4 X6 
+0000032 100  APPGE   his                      Z8m 
+0000032 110  NN1     newsletter               Q4.2 
+0000032 111  ,       ,                        
+0000032 120  AT      the                      Z5 
+0000032 130  JJ      prospective              X7+ A7+ 
+0000032 140  NN1     client                   I2.2/S2mf 
+0000032 150  NN2     promises                 S6+ A7+ X9.1+ 
+0000032 151  .       .                        
+0000032 152  -----   -----                    
+0000032 160  AT      The                      Z5 
+0000032 170  NN1     con                      G2.2-/S2.2m[i22.2.1 G2.2-/A5.2- G2.1-/S2mf S8- 
+0000032 180  NN1     man                      G2.2-/S2.2m[i22.2.2 S2.2m 
+0000032 190  RT      then                     N4 Z5 T1.2 
+0000032 200  VVZ     makes                    A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000032 210  AT      the                      Z5 
+0000032 220  NN1     statement                Q2.1 I1/Q1.2 
+0000032 221  :       :                        
+0000032 222  NULL    <quote>                  
+0000032 223  -----   -----                    
+0000032 224  "       "                        
+0000032 230  PPY     You                      Z8mf 
+0000032 240  VM      will                     T1.1.3 
+0000032 250  RR      neither                  Z6 
+0000032 260  VVI     invest                   I1.1 
+0000032 270  DB      all                      N5.1+ 
+0000032 280  APPGE   your                     Z8 
+0000032 290  NN1     money                    I1 
+0000032 300  IW      with                     Z5 
+0000032 310  PPIO1   me                       Z8mf 
+0000032 320  RT      today                    T1.1.2 
+0000032 330  CC      nor                      Z6 
+0000032 340  VV0     give                     A9- A1.1.1 
+0000032 350  PPIO1   me                       Z8mf 
+0000032 360  APPGE   your                     Z8 
+0000032 370  NN1     e-mail                   Y2/Q1.2[i23.2.1 Y2 
+0000032 380  NN1     address                  Y2/Q1.2[i23.2.2 H4 Q2.2 
+0000032 381  .       .                        
+0000032 382  "       "                        
+0000032 383  NULL    </quote>                 
+0000032 384  -----   -----                    
+0000034 010  CSA     As                       Z5 
+0000034 020  IW      with                     Z5 
+0000034 030  AT      the                      Z5 
+0000034 040  NN1     seduction                S3.2 S1.2.2+ 
+0000034 050  RL      above                    M6 A5.1++ 
+0000034 051  ,       ,                        
+0000034 060  VV0     note                     Q2.1 Q1.2 
+0000034 070  CST     that                     Z5 Z8 
+0000034 080  AT      the                      Z5 
+0000034 090  JJ      prospective              X7+ A7+ 
+0000034 100  NN1     client                   I2.2/S2mf 
+0000034 110  VM      ca                       A7+ 
+0000034 111  XX      n't                      Z6 
+0000034 120  VVI     give                     A9- A1.1.1 
+0000034 130  AT      the                      Z5 
+0000034 140  NN1     con                      G2.2-/S2.2m[i24.2.1 G2.2-/A5.2- G2.1-/S2mf S8- 
+0000034 150  NN1     man                      G2.2-/S2.2m[i24.2.2 S2.2m 
+0000034 160  APPGE   his                      Z8m 
+0000034 170  NN1     e-mail                   Y2/Q1.2[i25.2.1 Y2 
+0000034 180  NN1     address                  Y2/Q1.2[i25.2.2 H4 Q2.2 
+0000034 190  CS      since                    Z5 
+0000034 200  CS      if                       Z7 
+0000034 210  PPHS1   he                       Z8m 
+0000034 220  VBDR    were                     A3+ Z5 
+0000034 230  TO      to                       Z5 
+0000034 240  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000034 250  RR      so                       Z5 A13.3 
+0000034 251  ,       ,                        
+0000034 260  AT      the                      Z5 
+0000034 270  NN1     con                      G2.2-/S2.2m[i26.2.1 G2.2-/A5.2- G2.1-/S2mf S8- 
+0000034 280  NN1     man                      G2.2-/S2.2m[i26.2.2 S2.2m 
+0000034 281  GE      's                       Z5 
+0000034 290  NN1     statement                Q2.1 I1/Q1.2 
+0000034 300  VM      would                    A7+ 
+0000034 310  VBI     be                       Z5 A3+ 
+0000034 320  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000034 330  JJ      false                    A5.2- A5.4- G2.2- 
+0000034 331  ,       ,                        
+0000034 340  CC      and                      Z5 
+0000034 350  RR      so                       Z5 A13.3 
+0000034 360  PPHS1   he                       Z8m 
+0000034 370  VM      would                    A7+ 
+0000034 380  VHI     have                     Z5 A9+ A2.2 S4 
+0000034 390  VVN     broken                   A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000034 400  APPGE   his                      Z8m 
+0000034 410  NN1     promise                  S6+ A7+ X9.1+ 
+0000034 420  TO      to                       Z5 
+0000034 430  VVI     give                     A9- A1.1.1 
+0000034 440  PPHO1   him                      Z8m 
+0000034 450  APPGE   his                      Z8m 
+0000034 460  NN1     e-mail                   Y2/Q1.2[i27.2.1 Y2 
+0000034 470  NN1     address                  Y2/Q1.2[i27.2.2 H4 Q2.2 
+0000034 480  RR      only                     A14 
+0000034 490  CS      if                       Z7 
+0000034 500  AT      the                      Z5 
+0000034 510  NN1     con                      G2.2-/S2.2m[i28.2.1 G2.2-/A5.2- G2.1-/S2mf S8- 
+0000034 520  NN1     man                      G2.2-/S2.2m[i28.2.2 S2.2m O4.1[i29.2.1 
+0000034 530  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ O4.1[i29.2.2 
+0000034 540  AT1     a                        Z5 
+0000034 550  JJ      true                     A5.2+ A5.4+ 
+0000034 560  NN1     statement                Q2.1 I1/Q1.2 
+0000034 561  .       .                        
+0000034 562  -----   -----                    
+0000034 570  RR      Therefore                Z5 
+0000034 571  ,       ,                        
+0000034 580  PPHS1   he                       Z8m 
+0000034 590  VM      must                     S6+ A7+ 
+0000034 600  XX      not                      Z6 
+0000034 610  VVI     give                     A9- A1.1.1 
+0000034 620  AT      the                      Z5 
+0000034 630  NN1     man                      S2.2m 
+0000034 640  APPGE   his                      Z8m 
+0000034 650  NN1     e-mail                   Y2/Q1.2[i30.2.1 Y2 
+0000034 660  NN1     address                  Y2/Q1.2[i30.2.2 H4 Q2.2 
+0000034 670  II      under                    Z5 
+0000034 680  DD      any                      N5 N5.1+ 
+0000034 690  NN2     circumstances            O4.1 
+0000034 691  .       .                        
+0000035 001  -----   -----                    
+0000036 010  CCB     But                      Z5 
+0000036 020  CS      if                       Z7 
+0000036 030  PPHS1   he                       Z8m 
+0000036 040  RR      also                     N5++ 
+0000036 050  VVZ     refuses                  Q2.2/Z6 S7.4- X7- 
+0000036 060  TO      to                       Z5 
+0000036 070  VVI     invest                   I1.1 
+0000036 080  DB      all                      N5.1+ 
+0000036 090  APPGE   his                      Z8m 
+0000036 100  NN1     money                    I1 
+0000036 110  IW      with                     Z5 
+0000036 120  AT      the                      Z5 
+0000036 130  NN1     con                      G2.2-/S2.2m[i31.2.1 G2.2-/A5.2- G2.1-/S2mf S8- 
+0000036 140  NN1     man                      G2.2-/S2.2m[i31.2.2 S2.2m 
+0000036 141  ,       ,                        
+0000036 150  AT      the                      Z5 
+0000036 160  DA      latter                   N4 
+0000036 161  GE      's                       Z5 
+0000036 170  NN1     statement                Q2.1 I1/Q1.2 
+0000036 180  VVZ     becomes                  A2.1+ O4.2+ 
+0000036 190  JJ      true                     A5.2+ A5.4+ 
+0000036 191  ,       ,                        
+0000036 200  CC      and                      Z5 
+0000036 210  DD1     this                     Z8 M6 Z5 
+0000036 220  VM      would                    A7+ 
+0000036 230  VVI     require                  X7+ S6+ 
+0000036 240  PPHO1   him                      Z8m 
+0000036 250  TO      to                       Z5 
+0000036 260  VVI     give                     A9- A1.1.1 
+0000036 270  APPGE   his                      Z8m 
+0000036 280  NN1     e-mail                   Y2/Q1.2[i32.2.1 Y2 
+0000036 290  NN1     address                  Y2/Q1.2[i32.2.2 H4 Q2.2 
+0000036 291  .       .                        
+0000036 292  -----   -----                    
+0000036 300  AT      The                      Z5 
+0000036 310  JJ      only                     A14 
+0000036 320  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000036 330  AT      the                      Z5 
+0000036 340  JJ      prospective              X7+ A7+ 
+0000036 350  NN1     client                   I2.2/S2mf 
+0000036 360  VM      can                      A7+ 
+0000036 370  VVI     keep                     A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000036 380  APPGE   his                      Z8m 
+0000036 390  NN1     promise                  S6+ A7+ X9.1+ 
+0000036 400  VBZ     is                       A3+ Z5 
+0000036 410  TO      to                       Z5 
+0000036 420  VVI     invest                   I1.1 
+0000036 430  DB      all                      N5.1+ 
+0000036 440  APPGE   his                      Z8m 
+0000036 450  NN1     money                    I1 
+0000036 460  IW      with                     Z5 
+0000036 470  AT      the                      Z5 
+0000036 480  NN1     con                      G2.2-/S2.2m[i33.2.1 G2.2-/A5.2- G2.1-/S2mf S8- 
+0000036 490  NN1     man                      G2.2-/S2.2m[i33.2.2 S2.2m 
+0000036 500  CS21    so                       Z5[i34.2.1 Z5 
+0000036 510  CS22    that                     Z5[i34.2.2 Z5 Z8 
+0000036 520  AT      the                      Z5 
+0000036 530  DA      latter                   N4 
+0000036 531  GE      's                       Z5 
+0000036 540  NN1     statement                Q2.1 I1/Q1.2 
+0000036 550  VVZ     becomes                  A2.1+ O4.2+ 
+0000036 560  JJ      false                    A5.2- A5.4- G2.2- 
+0000036 561  .       .                        
+0000036 562  -----   -----                    
+0000036 570  RT      Again                    N6+ Z4 
+0000036 571  ,       ,                        
+0000036 580  AT1     a                        Z5 
+0000036 590  RR      seemingly                A8 
+0000036 600  JJ      innocuous                E3+ 
+0000036 610  NN1     promise                  S6+ A7+ X9.1+ 
+0000036 620  VVZ     ensnares                 S7.1+/G2.2- A1.7+ 
+0000036 630  PN1     somebody                 Z8mfc 
+0000036 631  .       .                        
+0000037 001  -----   -----                    
+0000038 010  NN1     Seduction                S3.2 S1.2.2+ 
+0000038 011  ,       ,                        
+0000038 020  CSW     whether                  Z5 
+0000038 030  IW      with                     Z5 
+0000038 040  AT1     an                       Z5 
+0000038 050  JJ      amorous                  E2+ 
+0000038 060  CC      or                       Z5 
+0000038 070  AT1     an                       Z5 
+0000038 080  JJ      acquisitive              A9+ 
+0000038 090  NN1     intent                   X7+ 
+0000038 091  ,       ,                        
+0000038 100  RR      often                    N6+ 
+0000038 110  VVZ     follows                  M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 
+0000038 120  AT      the                      Z5 
+0000038 130  DA      same                     A6.1+++ 
+0000038 140  JJ      interactive              S1.1.2+ A1.1.1 
+0000038 150  NN1     pattern                  X4.2 O4.1 O4.3 B5/Q1.2 
+0000038 151  ,       ,                        
+0000038 160  AT      the                      Z5 
+0000038 170  NN1     hook                     O2 O4.4 K5.1 
+0000038 180  RT      sometimes                N6 
+0000038 190  VBG     being                    A3+ Z5 
+0000038 200  JJ      logical                  X2.1 S1.2.6+ A1.6 
+0000038 201  ,       ,                        
+0000038 210  RT      sometimes                N6 
+0000038 220  JJ      psychological            X1 
+0000038 221  .       .                        
+0000039 001  -----   -----                    
+0000040 010  JJ      Propositional            Z99 
+0000040 020  NN1     Logic                    X2.1 S1.2.6+ N2 
+0000042 010  PN1     One                      Z8 
+0000042 020  VM      might                    A7+ 
+0000042 030  VVI     think                    X2.1 
+0000042 040  DD1     this                     M6 Z5 Z8 
+0000042 050  NN1     example                  A4.1 
+0000042 060  RR      absurdly                 S1.2.6- X2.5- 
+0000042 070  JJ      unrealistic              S1.2.6- A5.4- 
+0000042 071  ,       ,                        
+0000042 080  CCB     but                      Z5 
+0000042 090  VV0     consider                 X2.1 X2.4 X6 
+0000042 100  AT      the                      Z5 
+0000042 110  NN1     opaqueness               Z99 
+0000042 120  IO      of                       Z5 
+0000042 130  NN2     derivatives              A2.2 Q3 
+0000042 140  CC      and                      S2mf[i35.2.1 Z5 
+0000042 150  JJ      other                    S2mf[i35.2.2 A6.1- 
+0000042 160  JJ      complicated              A12- 
+0000042 170  JJ      financial                I1 
+0000042 180  NN2     instruments              O2 K2 X4.2 B3 Y1 
+0000042 181  .       .                        
+0000042 182  -----   -----                    
+0000042 190  RL      There                    M6 T1.2 
+0000042 200  RR@     too                      N5++ 
+0000042 201  ,       ,                        
+0000042 210  AT      the                      Z5 
+0000042 220  NN2     commitments              S6+ A1.7+/G2.1 
+0000042 230  PN1     one                      Z8 
+0000042 240  RR      unknowingly              Z99 
+0000042 250  VVZ     takes                    A9+[i36.2.1 S7.3+[i36.2.1 M2[i36.2.1 I3.1[i36.2.1 A1.1.1[i36.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000042 260  RP      on                       A9+[i36.2.2 S7.3+[i36.2.2 M2[i36.2.2 I3.1[i36.2.2 A1.1.1[i36.2.2 M6 A1.1.1 
+0000042 270  VBR     are                      A3+ Z5 
+0000042 280  JJ      invisible                X3.4- A11.2- 
+0000042 290  CC      and                      Z5 
+0000042 300  JJ      substantial              N3.2+ O4.1% 
+0000042 301  .       .                        
+0000042 302  -----   -----                    
+0000042 310  AT      The                      Z5 
+0000042 320  NN1     seduction                S3.2 S1.2.2+ 
+0000042 330  NN1     scam                     G2.2- 
+0000042 340  VBZ     is                       A3+ Z5 
+0000042 350  NN1     child                    Z3c[i37.3.1 S2mf/T3- S4mf 
+0000042 351  GE      's                       Z3c[i37.3.2 Z5 
+0000042 360  NN1     play                     Z3c[i37.3.3 K4 K5.1 
+0000042 370  VVN     compared                 A6.1 A5.1 Q3 
+0000042 380  II      to                       Z5 
+0000042 390  JJ@     securitized              Z99 
+0000042 400  NN2     mortgages                I1.2/H1 
+0000042 401  .       .                        
+0000043 001  -----   -----                    
+0000044 010  RR      Nevertheless             Z4 
+0000044 011  ,       ,                        
+0000044 020  RR      perhaps                  A7 
+0000044 030  RGR     more                     A13.3 
+0000044 040  JJ      typical                  A4.2+ A6.2+ 
+0000044 050  CSN     than                     Z5 
+0000044 060  AT      the                      Z5 
+0000044 070  NN1     seduction                S3.2 S1.2.2+ 
+0000044 080  NN1     question                 Q2.2 X4.1 
+0000044 090  VBZ     is                       A3+ Z5 
+0000044 100  AT      the                      Z5 
+0000044 110  JJ      following                N4 
+0000044 111  ,       ,                        
+0000044 120  DDQ     which                    Z8 Z5 
+0000044 130  VBZ     is                       A3+ Z5 
+0000044 140  RR      still                    T2++ Z4 E3+ 
+0000044 150  AT1     a                        Z5 
+0000044 160  NN1     matter                   X4.1 O1 
+0000044 170  IO      of                       Z5 
+0000044 180  JJ      elementary               A12+ 
+0000044 190  JJ      propositional            Z99 
+0000044 200  NN1     logic                    X2.1 S1.2.6+ N2 
+0000044 201  .       .                        
+0000044 202  -----   -----                    
+0000044 210  AT      The                      Z5 
+0000044 220  NN1     question                 Q2.2 X4.1 
+0000044 221  :       :                        
+0000044 230  IF      For                      Z5 
+0000044 240  AT      the                      Z5 
+0000044 250  JJ      following                N4 
+0000044 260  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
+0000044 270  IO      of                       Z5 
+0000044 280  NN2     premises                 H1 X4.1 
+0000044 281  ,       ,                        
+0000044 290  VV0     determine                A2.2 A7+ X6+ 
+0000044 300  CSW     whether                  Z5 
+0000044 310  AT      the                      Z5 
+0000044 320  NN1     conclusion               X6+ T2- 
+0000044 330  RL      below                    M6 
+0000044 331  (       (                        
+0000044 340  AT      the                      Z5 
+0000044 350  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000044 360  II      after                    Z5 
+0000044 361  NULL    <quote>                  
+0000044 362  -----   -----                    
+0000044 363  "       "                        
+0000044 370  RR      Hence                    A2.2 
+0000044 371  "       "                        
+0000044 372  NULL    </quote>                 
+0000044 373  -----   -----                    
+0000044 374  )       )                        
+0000044 380  VVZ     follows                  M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 
+0000044 390  II      from                     Z5 
+0000044 400  PPHO2   them                     Z8mfn 
+0000044 401  .       .                        
+0000044 402  -----   -----                    
+0000044 403  (       (                        
+0000044 410  VD0     Do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000044 411  XX      n't                      Z6 
+0000044 420  VVI     worry                    E6- 
+0000044 430  II      about                    Z5 
+0000044 440  CSW     whether                  Z5 
+0000044 450  AT      the                      Z5 
+0000044 460  NN2     premises                 H1 X4.1 
+0000044 470  VBR     are                      A3+ Z5 
+0000044 480  JJ      true                     A5.2+ A5.4+ 
+0000044 490  CC      or                       Z5 
+0000044 500  JJ      false                    A5.2- A5.4- G2.2- 
+0000044 501  .       .                        
+0000044 502  )       )                        
+0000045 001  -----   -----                    
+0000046 010  CS      If                       Z7 
+0000046 020  JJ      private                  G1.1-c[i38.2.1 A10- S5- G1.1- 
+0000046 030  NN1     sector                   G1.1-c[i38.2.2 A4.1 S5+ M7 N2@ 
+0000046 040  NN1     investment               I1.1 
+0000046 050  VVZ     stays                    M8 T2++ H4 
+0000046 060  AT      the                      Z5 
+0000046 070  DA      same                     A6.1+++ 
+0000046 071  ,       ,                        
+0000046 080  RT      then                     N4 Z5 T1.2 
+0000046 090  NN1     government               G1.1c 
+0000046 100  NN1     spending                 I1.2 A1.5.1 T1.3 
+0000046 110  VM      will                     T1.1.3 
+0000046 120  VVI     increase                 N5+/A2.1 
+0000046 130  CC      or                       Z5 
+0000046 140  DAR     more                     N5++ 
+0000046 150  NN1     unemployment             I3.1- 
+0000046 160  VM      will                     T1.1.3 
+0000046 170  VVI     result                   A2.2 
+0000046 171  .       .                        
+0000046 172  -----   -----                    
+0000046 180  CS      If                       Z7 
+0000046 190  NN1     government               G1.1c 
+0000046 200  NN1     spending                 I1.2 A1.5.1 T1.3 
+0000046 210  VM      will                     T1.1.3 
+0000046 220  XX      not                      Z6 
+0000046 230  VVI     increase                 N5+/A2.1 
+0000046 231  ,       ,                        
+0000046 240  NN2     taxes                    I1.1/G1.1 
+0000046 250  VM      can                      A7+ 
+0000046 260  VBI     be                       Z5 A3+ 
+0000046 270  VVN     cut                      A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3 
+0000046 271  .       .                        
+0000046 272  -----   -----                    
+0000046 280  CS      If                       Z7 
+0000046 290  NN2     taxes                    I1.1/G1.1 
+0000046 300  VM      can                      A7+ 
+0000046 310  VBI     be                       Z5 A3+ 
+0000046 320  VVN     cut                      A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3 
+0000046 330  CC      and                      Z5 
+0000046 340  JJ      private                  G1.1-c[i39.2.1 A10- S5- G1.1- 
+0000046 350  NN1     sector                   G1.1-c[i39.2.2 A4.1 S5+ M7 N2@ 
+0000046 360  NN1     investment               I1.1 
+0000046 370  VVZ     stays                    M8 T2++ H4 
+0000046 380  AT      the                      Z5 
+0000046 390  DA      same                     A6.1+++ 
+0000046 391  ,       ,                        
+0000046 400  RT      then                     N4 Z5 T1.2 
+0000046 410  DAR     more                     N5++ 
+0000046 420  NN1     unemployment             I3.1- 
+0000046 430  VM      will                     T1.1.3 
+0000046 440  XX      not                      Z6 
+0000046 450  VVI     result                   A2.2 
+0000046 451  .       .                        
+0000046 452  -----   -----                    
+0000046 460  RR      Hence                    A2.2 
+0000046 470  NN1     government               G1.1c 
+0000046 480  NN1     spending                 I1.2 A1.5.1 T1.3 
+0000046 490  VM      will                     T1.1.3 
+0000046 500  VVI     increase                 N5+/A2.1 
+0000046 501  .       .                        
+0000047 001  -----   -----                    
+0000048 010  EX      There                    Z5 
+0000048 020  VBR     are                      A3+ Z5 
+0000048 021  ,       ,                        
+0000048 030  RR21    of                       Z4[i40.2.1 
+0000048 040  RR22    course                   Z4[i40.2.2 Z4 
+0000048 041  ,       ,                        
+0000048 050  JJ      simple                   A12+ A6.2+ O4.1 X9.1- 
+0000048 060  NN2     techniques               X4.2 
+0000048 070  IF      for                      Z5 
+0000048 080  VVG     deciding                 X6+ 
+0000048 090  CSW@    if                       Z7 
+0000048 100  AT      the                      Z5 
+0000048 110  NN1     conclusion               X6+ T2- 
+0000048 120  VVZ     follows                  M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 
+0000048 130  II      from                     Z5 
+0000048 140  AT      the                      Z5 
+0000048 150  NN2     premises                 H1 X4.1 
+0000048 160  II      in                       Z5 
+0000048 170  JJ      propositional            Z99 
+0000048 180  NN1     logic                    X2.1 S1.2.6+ N2 
+0000048 190  CC      or                       Z5 
+0000048 200  CSW     whether                  Z5 
+0000048 210  AT1     a                        Z5 
+0000048 220  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
+0000048 230  IO      of                       Z5 
+0000048 240  DA      such                     Z5 Z8 
+0000048 250  NN2     statements               Q2.1 I1/Q1.2 
+0000048 260  VBZ     is                       A3+ Z5 
+0000048 270  JJ      consistent               A6.1+ 
+0000048 271  ,       ,                        
+0000048 280  CCB     but                      Z5 
+0000048 290  II      from                     Z5 
+0000048 300  JJ      sad                      E4.1- A5.1- 
+0000048 310  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
+0000048 320  CC      and                      Z5 
+0000048 330  JJ      casual                   S1.2.1+ N6- O4.1 
+0000048 340  NN1     observation              X3.4 Q2.1/X2.4 X2.1 
+0000048 341  ,       ,                        
+0000048 350  PPIS1   I                        Z4[i41.2.1 Z8mf 
+0000048 360  VV0     suspect                  Z4[i41.2.2 X2.1/A5.1- A7 
+0000048 370  CST     that                     Z5 Z8 
+0000048 380  RR      only                     A14 
+0000048 390  AT1     a                        Z5 
+0000048 400  NN1@    sprinkling               N5- 
+0000048 410  IO      of                       Z5 
+0000048 420  NN2     policy-makers            G1.2/S2mf 
+0000048 430  VV0     know                     X2.2+ S3.2/B1% 
+0000048 440  PPHO2   them                     Z8mfn 
+0000048 441  .       .                        
+0000049 001  -----   -----                    
+0000050 010  II      In                       Z5 
+0000050 020  DD      any                      N5.1+ N5 
+0000050 030  NN1     case                     A4.1 O2 G2.1 B3 X4.1 Q3 
+0000050 031  ,       ,                        
+0000050 040  AT      the                      Z5 
+0000050 050  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
+0000050 060  NN1     economy                  I2.1 I1.3- 
+0000050 070  VBZ     is                       A3+ Z5 
+0000050 080  JJ      complex                  A12- 
+0000050 081  ,       ,                        
+0000050 090  JJ      interactive              S1.1.2+ A1.1.1 
+0000050 091  ,       ,                        
+0000050 100  VVD     convoluted               A12- 
+0000050 110  CC      and                      Z5 
+0000050 120  JJ      impossible               A7- A12- 
+0000050 130  TO      to                       Z5 
+0000050 140  VVI     describe                 Q2.2 
+0000050 150  IW      with                     Z5 
+0000050 160  JJ      elementary               A12+ 
+0000050 170  JJ      propositional            Z99 
+0000050 180  NN1     logic                    X2.1 S1.2.6+ N2 
+0000050 181  .       .                        
+0000050 182  -----   -----                    
+0000050 190  AT      The                      Z5 
+0000050 200  NN1     logic                    X2.1 S1.2.6+ N2 
+0000050 210  VVN     required                 X7+ S6+ 
+0000050 220  VBZ     is                       A3+ Z5 
+0000050 230  RGR     more                     A13.3 
+0000050 240  JJ      extensive                N5+ N3.6+ 
+0000050 241  ,       ,                        
+0000050 250  VVG     involving                A1.8+ 
+0000050 260  NN2     quantifiers              Z99 
+0000050 270  JJ      --                       Z99 
+0000050 280  NN2     words                    Q3 
+0000050 290  VV0@    like                     E2+ 
+0000050 291  NULL    <quote>                  
+0000050 292  -----   -----                    
+0000050 293  "       "                        
+0000050 300  DB      all                      N5.1+ 
+0000050 301  ,       ,                        
+0000050 302  "       "                        
+0000050 303  NULL    </quote>                 
+0000050 304  -----   -----                    
+0000050 310  CC      and                      Z5 
+0000050 311  NULL    <quote>                  
+0000050 312  -----   -----                    
+0000050 313  "       "                        
+0000050 320  DD      some                     N5 Z5 
+0000050 321  "       "                        
+0000050 322  NULL    </quote>                 
+0000050 323  -----   -----                    
+0000050 330  CC      and                      Z5 
+0000050 331  NULL    <quote>                  
+0000050 332  -----   -----                    
+0000050 333  "       "                        
+0000050 340  PN      none                     Z6/Z8c 
+0000050 341  .       .                        
+0000050 342  "       "                        
+0000050 343  NULL    </quote>                 
+0000050 344  -----   -----                    
+0000052 010  AT1     An                       Z5 
+0000052 020  JJ      adequate                 N5+ A1.2+ A5.1+ 
+0000052 030  NN1     description              Q2.2 A4.1 
+0000052 040  RR      also                     N5++ 
+0000052 050  VVZ     calls                    S1.1.1[i42.2.1 Q2.2[i42.2.1 Q2.2 S1.1.1 Q1.3 S9% 
+0000052 060  II      on                       S1.1.1[i42.2.2 Q2.2[i42.2.2 Z5 
+0000052 070  NN1     arithmetic               N2 
+0000052 071  ,       ,                        
+0000052 080  NN1     probability              A7 N1 
+0000052 081  ,       ,                        
+0000052 090  CC      and                      Z5 
+0000052 100  NN      statistics               N3.1c N2c 
+0000052 101  ,       ,                        
+0000052 110  NN1     calculus                 N2 
+0000052 111  ,       ,                        
+0000052 120  CC      and                      Z5 
+0000052 130  JJ      differential             A6.1- 
+0000052 140  NN2     equations                N2 
+0000052 141  ,       ,                        
+0000052 150  JJ      non-linear               Z99 
+0000052 160  NN      dynamics                 X4.2 M1 Y1 
+0000052 161  ,       ,                        
+0000052 170  RA      etc                      Z4 
+0000052 171  .       .                        
+0000052 172  -----   -----                    
+0000052 180  PPH1    It                       Z8 
+0000052 181  VBZ     's                       A3+ Z5 
+0000052 190  XX      not                      Z6 
+0000052 200  RG      too                      N5.2+ A13.3 
+0000052 210  JJ      surprising               X2.6- A6.2- 
+0000052 220  CST     that                     Z5 Z8 
+0000052 230  DA2     few                      N5- 
+0000052 240  CS      if                       Z7 
+0000052 250  DD      any                      N5.1+ N5 
+0000052 260  NN      people                   S2mfc 
+0000052 270  VM      can                      A7+ 
+0000052 280  VVI     assert                   Q2.2 S1.2.3+ 
+0000052 290  IW      with                     Z5 
+0000052 300  DA1     much                     N5+ I1.3+ 
+0000052 310  NN1     confidence               E6+ A10- 
+0000052 320  CST     that                     Z8 Z5 
+0000052 330  PPIS2   we                       Z8 
+0000052 340  VM      should                   S6+ A7+ 
+0000052 350  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000052 360  DD1     this                     M6 Z5 Z8 
+0000052 370  JJ      economic                 I1.3- I2.1 
+0000052 380  NN1     course                   M6 X7+ P1 B3 F1 M7/K5.1 T1.3 
+0000052 390  II21    rather                   Z5[i44.2.1 Z5[i43.2.1 
+0000052 400  II22    than                     Z5[i44.2.2 Z5[i43.2.2 
+0000052 410  DD1     that                     Z8 Z5 
+0000052 420  CC      and                      Z5 
+0000052 430  VV0     come                     A4.1[i45.2.1 M1[i45.2.1 B1[i45.2.1 N5[i45.2.1 X6+[i45.2.1 X2.1[i45.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000052 440  II      to                       A4.1[i45.2.2 M1[i45.2.2 B1[i45.2.2 N5[i45.2.2 X6+[i45.2.2 X2.1[i45.2.2 Z5 
+0000052 450  DD1     this                     M6 Z5 Z8 
+0000052 460  NN1     conclusion               X6+ T2- 
+0000052 470  II21    rather                   Z5[i47.2.1 Z5[i46.2.1 
+0000052 480  II22    than                     Z5[i47.2.2 Z5[i46.2.2 
+0000052 490  DD1     another                  A6.1- N5++ 
+0000052 491  .       .                        
+0000053 001  -----   -----                    
+0000054 010  EX      There                    Z5 
+0000054 020  VBR     are                      A3+ Z5 
+0000054 021  ,       ,                        
+0000054 030  RR      however                  Z4 
+0000054 031  ,       ,                        
+0000054 040  DD      some                     N5 Z5 
+0000054 050  NN2     conclusions              X6+ T2- 
+0000054 060  VVG     using                    A1.5.1 S7.1+ 
+0000054 070  JJ      propositional            Z99 
+0000054 080  NN1     logic                    X2.1 S1.2.6+ N2 
+0000054 090  CST     that                     Z8 Z5 
+0000054 100  VM      can                      A7+ 
+0000054 110  VBI     be                       Z5 A3+ 
+0000054 120  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000054 130  IW      with                     Z5 
+0000054 140  AT      the                      Z5 
+0000054 150  JJ      utmost                   N5.1+++ 
+0000054 160  NN1     confidence               E6+ A10- 
+0000054 161  .       .                        
+0000055 001  -----   -----                    
+0000056 010  VV0     Recall                   X2.2+ I3.1-/G1.2 I2.2/T2- K5.2 A6.1+ 
+0000056 020  AT      the                      Z5 
+0000056 030  NN1     logician/economist       Z99 
+0000056 040  VVG     riding                   K5.1/L2 M1 
+0000056 050  AT1     an                       Z5 
+0000056 060  NN1     elevator                 H2 B3 
+0000056 070  PNQS    who                      Z8 
+0000056 071  ,       ,                        
+0000056 080  CS      when                     Z5 
+0000056 090  AT      the                      Z3c[i48.2.1 Z5 
+0000056 100  NN2     doors                    Z3c[i48.2.2 H2 
+0000056 110  VV0     open                     A10+ T2+ 
+0000056 111  ,       ,                        
+0000056 120  VBZ     is                       Z5 A3+ 
+0000056 130  VVN@    asked                    Q2.2 
+0000056 140  CSW     whether                  Z5 
+0000056 150  AT      the                      Z5 
+0000056 160  NN1     elevator                 H2 B3 
+0000056 170  VBZ     is                       Z5 A3+ 
+0000056 180  VVG     going                    M1[i49.2.1 N5+/A2.1[i49.2.1 I1.3/N5+[i49.2.1 S7.1+/A2.1[i49.2.1 P1%[i49.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000056 190  RP      up                       M1[i49.2.2 N5+/A2.1[i49.2.2 I1.3/N5+[i49.2.2 S7.1+/A2.1[i49.2.2 P1%[i49.2.2 
+0000056 200  CC      or                       Z5 
+0000056 210  RP      down                     Z5 M6 N4 N5-- E4.1- S7.1- N3.1 Q1.2 O1.1 L2 Z1mf F1/B1 A1.1.1 
+0000056 211  .       .                        
+0000057 001  -----   -----                    
+0000058 010  PPHS1   He                       Z8m 
+0000058 020  VVZ     replies                  Q2.2 
+0000058 021  ,       ,                        
+0000058 022  NULL    <quote>                  
+0000058 023  -----   -----                    
+0000058 024  "       "                        
+0000058 030  UH      Yes                      Z4 
+0000058 031  .       .                        
+0000058 032  "       "                        
+0000058 033  NULL    </quote>                 
+0000058 034  -----   -----                    
+0000060 010  NP1     John                     Z1mf[i50.2.1 Z3c[i50.2.1 Z1m S9/O1.2 
+0000060 020  NP1     Allen                    Z1mf[i50.2.2 Z3c[i50.2.2 Z1mf 
+0000060 030  NP2     Paulos                   Z1m 
+0000060 031  ,       ,                        
+0000060 040  AT1     a                        Z5 
+0000060 050  NN1     professor                P1/S2mf 
+0000060 060  IO      of                       Z5 
+0000060 070  NN1     mathematics              N2 
+0000060 080  II      at                       Z5 
+0000060 090  NP1     Temple                   Z3c[i51.2.1 Z2 Z1mf 
+0000060 100  NN1     University               Z3c[i51.2.2 P1/H1c 
+0000060 101  ,       ,                        
+0000060 110  VBZ     is                       A3+ Z5 
+0000060 120  AT      the                      Z5 
+0000060 130  NN1     author                   Q4.1/S2mf 
+0000060 140  IO      of                       Z5 
+0000060 150  AT      the                      Z5 
+0000060 160  NN2     best-sellers             X9.2++ 
+0000060 161  NULL    <quote>                  
+0000060 162  -----   -----                    
+0000060 163  "       "                        
+0000060 170  NP1     Innumeracy               Z99 
+0000060 171  "       "                        
+0000060 172  NULL    </quote>                 
+0000060 173  -----   -----                    
+0000060 180  CC      and                      Z5 
+0000060 181  NULL    <quote>                  
+0000060 182  -----   -----                    
+0000060 183  "       "                        
+0000060 190  AT1@    A                        Z5 
+0000060 200  NN1     Mathematician            N2/S2mf 
+0000060 210  VVZ     Reads                    Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000060 220  AT      the                      Z5 
+0000060 230  NN1     Newspaper                Q4.2 
+0000060 231  ,       ,                        
+0000060 232  "       "                        
+0000060 233  NULL    </quote>                 
+0000060 234  -----   -----                    
+0000060 240  II31    as                       N5++[i52.2.1 Z5 
+0000060 250  II32    well                     N5++[i52.2.2 
+0000060 260  II33    as                       Z5 
+0000060 261  NULL    <quote>                  
+0000060 262  -----   -----                    
+0000060 263  "       "                        
+0000060 270  NP1     Irreligion               Z99 
+0000060 271  :       :                        
+0000060 280  AT1@    A                        Z5 
+0000060 290  NN1     Mathematician            N2/S2mf 
+0000060 300  VVZ     Explains                 Q2.2/A7+ A2.2 
+0000060 310  RRQ     Why                      A2.2 
+0000060 320  AT      The                      Z5 
+0000060 330  NN2     Arguments                Q2.1 Q2.1/A6.1- Q2.1/E3- 
+0000060 340  IF      for                      Z5 
+0000060 350  NP1     God                      S9m Z4 
+0000060 360  RR      Just                     A14 T3--- T1.3- N3.3--- 
+0000060 370  VD0     Do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000060 371  XX      n't                      Z6 
+0000060 380  VV0     Add                      N2[i53.2.1 A2.2[i53.2.1 X2.5+[i53.2.1 N5+/A2.1 N2 A1.8+ 
+0000060 390  RP      Up                       N2[i53.2.2 A2.2[i53.2.2 X2.5+[i53.2.2 
+0000060 391  .       .                        
+0000060 392  "       "                        
+0000060 393  NULL    </quote>                 
+0000060 394  -----   -----                    
+0000060 400  PPGE@   His                      Z8m 
+0000060 401  NULL    <quote>                  
+0000060 402  -----   -----                    
+0000060 403  "       "                        
+0000060 410  PNQS    Who                      Z8 
+0000060 411  VBZ     's                       Z5 A3+ 
+0000060 420  VVG     Counting                 N2 A1.8+ 
+0000060 421  ?       ?                        
+0000060 422  "       "                        
+0000060 423  NULL    </quote>                 
+0000060 424  -----   -----                    
+0000060 430  NN1     column                   O2 S5+c Q4.2 
+0000060 440  II      on                       Z5 
+0000060 450  NP1     ABCNews.com              Z99 
+0000060 460  VVZ     appears                  A8 A10+ A3+ G2.1 K4 Q4 
+0000060 470  AT      the                      Z5 
+0000060 480  MD      first                    N4 
+0000060 490  NNT1    weekend                  T1.3 
+0000060 500  IO      of                       Z5 
+0000060 510  AT1     every                    N6+[i54.2.1 N5.1+ 
+0000060 520  NNT1    month                    N6+[i54.2.2 T1.3 
+0000060 521  .       .                        
+0000062 001  NULL    **8;7;text               

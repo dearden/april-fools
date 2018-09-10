@@ -1,0 +1,372 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN1     Trainer                  P1/S2mf K5.1/S2mf B5 
+0000002 020  NP1     Tony                     Z1mf[i1.2.1 Z3c[i1.2.1 Z1mf 
+0000002 030  NP1     Martin                   Z1mf[i1.2.2 Z3c[i1.2.2 Z1mf 
+0000002 040  VVD     won                      S7.1+ A9+ 
+0000002 050  IW      with                     Z5 
+0000002 060  NP2     Davids                   Z1m 
+0000002 070  NN1     Lad                      S2.2m 
+0000002 080  II      in                       Z5 
+0000002 090  MC      2001                     N1 T1.2 T3 T1.3 N3.2 
+0000004 010  NN1     Trainer                  P1/S2mf K5.1/S2mf B5 
+0000004 020  NP1     Tony                     Z1mf[i2.2.1 Z3c[i2.2.1 Z1mf 
+0000004 030  NP1     Martin                   Z1mf[i2.2.2 Z3c[i2.2.2 Z1mf 
+0000004 040  VHZ     has                      Z5 A9+ A2.2 S4 
+0000004 050  VVN     reported                 Q2.2 S7.1- 
+0000004 060  JJ      favourite                E2+++ 
+0000004 070  NP2     Saddlers                 B5/L2/S2mf 
+0000004 080  NN1     Storm                    W4 E3- A12- 
+0000004 090  II      in                       Z5 
+0000004 100  JJ      perfect                  A5.1+++ A1.2+++ Q3 
+0000004 110  NN1     shape                    O4.4 
+0000004 120  II21    ahead                    N4[i3.2.1 N4[i4.2.1 A5.1++[i4.2.1 
+0000004 130  II22    of                       N4[i3.2.2 N4[i4.2.2 A5.1++[i4.2.2 
+0000004 140  NPD1    Monday                   T1.3 
+0000004 141  GE      's                       Z5 
+0000004 150  NP1     Powers                   S7.1+ O3 S1.2.5+ N2@ A1.1.1 
+0000004 160  NN1     Whiskey                  F2 
+0000004 170  JJ      Irish                    Z2 Z2/Q3 Z2/S2mfnc 
+0000004 180  JJ      Grand                    Z3[i5.2.1 O4.2+ A11.1+ A5.1+ N3.2+ S1.2.3+ 
+0000004 190  JJ      National                 Z3[i5.2.2 Z3c 
+0000004 200  II      at                       Z5 
+0000004 210  NP1     Fairyhouse               Z99 
+0000004 211  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NP1     Martin                   Z1mf 
+0000006 020  VVD     won                      S7.1+ A9+ 
+0000006 030  AT      the                      Z5 
+0000006 040  JJ      valuable                 I1.3+ A1.5.2+ 
+0000006 050  NN1     handicap                 B2- S8- K5.1 
+0000006 060  NN1     chase                    M1 
+0000006 070  IW      with                     Z5 
+0000006 080  NP2     Davids                   Z1m 
+0000006 090  NN1     Lad                      S2.2m 
+0000006 100  MC      nine                     T1.1.1[i6.3.1 N1 T1.2 T3 T1.3 N3.2 
+0000006 110  NNT2    years                    T1.1.1[i6.3.2 T1.3 T1.1.1[i7.2.1 
+0000006 120  RA      ago                      T1.1.1[i6.3.3 T1.1.1 T1.1.1[i7.2.2 
+0000006 130  CC      and                      Z5 
+0000006 140  VBZ     is                       Z5 A3+ 
+0000006 150  VVN     fancied                  E2+ X2.6 X7+ 
+0000006 160  TO      to                       Z5 
+0000006 170  VVI     land                     M1 M2 M5 M4 A9+ A2.2 
+0000006 180  AT1     a                        Z5 
+0000006 190  MD      second                   N4 
+0000006 200  NN1     triumph                  X9.2+ 
+0000006 201  .       .                        
+0000008 001  NULL    <quote>                  
+0000008 002  -----   -----                    
+0000008 003  "       "                        
+0000008 010  AT      The                      Z5 
+0000008 020  NN1     ground                   M6 W3 M7 O3 X2.1 
+0000008 030  VBZ     is                       A3+ Z5 
+0000008 040  JJ      supposed                 S6+ X7+ 
+0000008 050  TO      to                       Z5 
+0000008 060  VBI     be                       A3+ Z5 
+0000008 070  RG      very                     A13.3 
+0000008 080  JJ@     testing                  P1 B3 X2.4 A12- 
+0000008 090  CCB     but                      Z5 
+0000008 100  PPH1    it                       Z8 
+0000008 110  VM      will                     T1.1.3 
+0000008 120  VBI     be                       A3+ Z5 
+0000008 130  AT      the                      Z5 
+0000008 140  DA      same                     A6.1+++ 
+0000008 150  IF      for                      Z5 
+0000008 160  PN1     everybody                Z8/N5.1+c 
+0000008 161  ,       ,                        
+0000008 162  "       "                        
+0000008 163  NULL    </quote>                 
+0000008 164  -----   -----                    
+0000008 170  VVD     said                     Q2.1 
+0000008 180  NP1     Martin                   Z1mf 
+0000008 181  .       .                        
+0000009 001  -----   -----                    
+0000010 010  MC      Four                     N1 T3 T1.2 
+0000010 020  NN2     horses                   L2mfn 
+0000010 030  VBDR    were                     Z5 A3+ 
+0000010 040  VVN     withdrawn                M2 M1 S1.1.3- A2.1+ 
+0000010 050  II      on                       Z5 
+0000010 060  NPD1    Monday                   T1.3 
+0000010 061  -       -                        
+0000010 070  NP1     Church                   Z2[i8.2.1 Z2 Z1mf 
+0000010 080  NNL1    Island                   Z2[i8.2.2 W3 
+0000010 081  ,       ,                        
+0000010 090  NP1     Pomme                    Z1mf[i9.2.1 Z3c[i9.2.1 
+0000010 100  NP1     Tiepy                    Z1mf[i9.2.2 Z3c[i9.2.2 
+0000010 101  ,       ,                        
+0000010 110  NP2     Stewarts                 Z3c[i10.2.1 Z2[i10.2.1 Z1mf 
+0000010 120  NN1     House                    Z3c[i10.2.2 Z2[i10.2.2 H1 P1/S5+c G1.1c 
+0000010 130  CC      and                      Z5 
+0000010 140  NP1     Flintoff                 Z99 
+0000010 141  .       .                        
+0000011 001  -----   -----                    
+0000012 010  JJ      Eight-year-old           Z99 
+0000012 020  NP2     Saddlers                 B5/L2/S2mf 
+0000012 030  NN1     Storm                    W4 E3- A12- 
+0000012 040  VHZ     has                      Z5 A9+ A2.2 S4 
+0000012 050  VVN     won                      S7.1+ A9+ 
+0000012 060  APPGE   his                      Z8m 
+0000012 070  MD      last                     N4 
+0000012 080  MC      three                    N1 T1.2 T3 
+0000012 090  VVZ     starts                   T2+ E5- E3- 
+0000012 091  ,       ,                        
+0000012 100  MC      two                      N1 T3 T1.2 
+0000012 110  IO      of                       Z5 
+0000012 120  DDQ     which                    Z8 Z5 
+0000012 130  VBDR    were                     A3+ Z5 
+0000012 140  II      at                       Z5 
+0000012 150  NP1     Fairyhouse               Z99 
+0000012 151  .       .                        
+0000014 001  NULL    <quote>                  
+0000014 002  -----   -----                    
+0000014 003  "       "                        
+0000014 010  NP2     Saddlers                 B5/L2/S2mf 
+0000014 020  NN1     Storm                    W4 E3- A12- 
+0000014 030  VBZ     is                       A3+ Z5 
+0000014 040  II      at                       Z5 
+0000014 050  AT      the                      Z5 
+0000014 060  JJ      right                    A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 
+0000014 070  NN1     end                      M6 T2- O2 X7+ N4 
+0000014 080  IO      of                       Z5 
+0000014 090  AT      the                      Z5 
+0000014 100  NN1     handicap                 B2- S8- K5.1 
+0000014 110  RR21    all                      Z4[i11.2.1 A5.1+[i11.2.1 A13.2 
+0000014 120  RR22    right                    Z4[i11.2.2 A5.1+[i11.2.2 Z4 A5.3+ A4.2+ M6 A13.3 A13.2 
+0000014 121  ,       ,                        
+0000014 130  CC      and                      Z5 
+0000014 140  PPHS1   he                       Z8m 
+0000014 150  VBZ     is                       A3+ Z5 
+0000014 160  II      in                       Z5 
+0000014 170  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000014 180  NN1     form                     A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@ 
+0000014 181  .       .                        
+0000014 182  -----   -----                    
+0000014 190  DB      All                      N5.1+ 
+0000014 200  PPIS2   we                       Z8 
+0000014 210  VM      can                      A7+ 
+0000014 220  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000014 230  VBZ     is                       A3+ Z5 
+0000014 240  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000014 250  APPGE   our                      Z8 
+0000014 260  NN1     chance                   A1.4 A7+ 
+0000014 270  CC      and                      Z5 
+0000014 280  VV0     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000014 290  II      from                     Z5 
+0000014 300  RL      there                    M6 T1.2 
+0000014 301  ,       ,                        
+0000014 302  "       "                        
+0000014 303  NULL    </quote>                 
+0000014 304  -----   -----                    
+0000014 310  JJ      added                    N5+/A2.1 A1.8+ 
+0000014 320  NP1     Martin                   Z1mf 
+0000014 321  .       .                        
+0000016 001  NULL    <quote>                  
+0000016 002  -----   -----                    
+0000016 003  "       "                        
+0000016 010  AT      The                      Z5 
+0000016 020  NN1     trip                     M1 F3% 
+0000016 030  VM      will                     T1.1.3 
+0000016 040  VBI     be                       A3+ Z5 
+0000016 050  AT      no                       Z6 
+0000016 060  NN1@    bother                   E6- E3- G2.2- A12- 
+0000016 070  II      to                       Z5 
+0000016 080  PPHO1   him                      Z8m 
+0000016 081  .       .                        
+0000016 082  -----   -----                    
+0000016 090  PPIS2   We                       Z8 
+0000016 100  VM      would                    A7+ 
+0000016 110  VVI     like                     E2+ 
+0000016 120  RR21    a                        A13.6[i12.2.1 A13.7[i12.2.1 
+0000016 130  RR22    bit                      A13.6[i12.2.2 A13.7[i12.2.2 
+0000016 140  JJR     better                   A5.1++ G2.2++ O4.2++ 
+0000016 150  NN1     ground                   M6 W3 M7 O3 X2.1 
+0000016 160  CCB     but                      Z5 
+0000016 170  PPIS1   I                        Z8mf 
+0000016 180  VBM     am                       A3+ Z5 
+0000016 190  JJ      sure                     A7+ Z4 
+0000016 200  AT1     a                        N5+[i13.2.1 N6+[i13.2.1 A13.3[i13.2.1 Z5 
+0000016 210  NN1     lot                      N5+[i13.2.2 N6+[i13.2.2 A13.3[i13.2.2 
+0000016 220  IO      of                       Z5 
+0000016 230  NN2     others                   A6.1-/Z8 
+0000016 240  VM      would                    A7+ 
+0000016 250  RR@     too                      N5++ 
+0000016 251  .       .                        
+0000016 252  "       "                        
+0000016 253  NULL    </quote>                 
+0000016 254  -----   -----                    
+0000018 010  AT1     A                        Z5 
+0000018 020  NN1     field                    F4 W3 M7 K5.1/M7 G3@ A4.1 
+0000018 030  IO      of                       Z5 
+0000018 040  MC      26                       N1 T1.2 T3 T1.3 N3.2 
+0000018 050  NN2     horses                   L2mfn 
+0000018 060  VBR     are                      Z5 A3+ 
+0000018 070  VVN     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000018 080  TO      to                       Z5 
+0000018 090  VVI     line                     A1.1.1[i14.2.1 M2[i14.2.1 M1[i14.2.1 A1.1.1 
+0000018 100  RP      up                       A1.1.1[i14.2.2 M2[i14.2.2 M1[i14.2.2 
+0000018 110  IF      for                      Z5 
+0000018 120  AT      the                      Z5 
+0000018 130  NN1     race                     K5.1 S7.3+ S5+c 
+0000018 131  ,       ,                        
+0000018 140  DDQ     which                    Z8 Z5 
+0000018 150  VVZ     takes                    A1.1.1[i15.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ A1.1.1[i16.2.1 
+0000018 160  NN1     place                    A1.1.1[i15.2.2 M7 H1 A1.2 P1 A1.1.1[i16.2.2 
+0000018 170  MC      five                     N1 T3 T1.2 
+0000018 180  NNT2    days                     T1.3 
+0000018 190  II      before                   Z5 
+0000018 200  AT      the                      Z5 
+0000018 210  JJ      Grand                    Z3[i17.2.1 O4.2+ A11.1+ A5.1+ N3.2+ S1.2.3+ 
+0000018 220  JJ      National                 Z3[i17.2.2 Z3c 
+0000018 230  II      at                       Z5 
+0000018 240  NP1     Aintree                  Z1m 
+0000018 241  .       .                        
+0000019 001  -----   -----                    
+0000020 010  MD      Last                     T1.1.1[i19.2.1 N4 T1.3[i18.2.1 P1/S2mf[i18.2.1 
+0000020 020  NNT1    year                     T1.1.1[i19.2.2 T1.3 P1c T1.3[i18.2.2 P1/S2mf[i18.2.2 
+0000020 021  GE      's                       Z5 
+0000020 030  NN1     runner-up                K5.1 K1 
+0000020 040  NP1     Church                   Z2[i20.2.1 Z2 Z1mf 
+0000020 050  NNL1    Island                   Z2[i20.2.2 W3 
+0000020 060  VVZ     misses                   A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3- 
+0000020 070  AT      the                      Z5 
+0000020 080  NN1     contest                  S7.3 
+0000020 090  II31    in                       S8+[i21.3.1 Z5 
+0000020 100  II32    favour                   S8+[i21.3.2 
+0000020 110  II33    of                       S8+[i21.3.3 
+0000020 120  AT1     a                        Z5 
+0000020 130  NN1     tilt                     M1 
+0000020 140  II      at                       Z5 
+0000020 150  NP1     Sandown                  Z2 
+0000020 151  GE      's                       Z5 
+0000020 160  FO      Bet365                   Z99 
+0000020 170  NN1     Gold                     Z3 
+0000020 180  NN1     Cup                      O2 S7.3+ A5.1+/O2 
+0000020 190  II      on                       Z5 
+0000020 200  MC      24                       N1 T1.2 T3 T1.3 N3.2 
+0000020 210  NPM1    April                    T1.3 
+0000020 211  ,       ,                        
+0000020 220  CS      while                    Z5 
+0000020 230  NN1     trainer                  P1/S2mf K5.1/S2mf B5 
+0000020 240  NP1     Willie                   Z1mf[i22.2.1 Z3c[i22.2.1 Z1m 
+0000020 250  NP1     Mullins                  Z1mf[i22.2.2 Z3c[i22.2.2 
+0000020 260  VBDZ    was                      A3+ Z5 
+0000020 270  JJ      concerned                E6- A1.8+ A2.2 S1.1.3+ 
+0000020 280  II      about                    Z5 
+0000020 290  AT      the                      Z5 
+0000020 300  JJ      deteriorating            A5.1-/A2.1 
+0000020 310  NN1     ground                   M6 W3 M7 O3 X2.1 
+0000020 320  IF      for                      Z5 
+0000020 330  NP1     Pomme                    Z1mf[i23.2.1 Z3c[i23.2.1 
+0000020 340  NP1     Tiepy                    Z1mf[i23.2.2 Z3c[i23.2.2 
+0000020 341  .       .                        
+0000021 001  -----   -----                    
+0000022 010  NN1     Trainer                  P1/S2mf K5.1/S2mf B5 
+0000022 020  NP1     Venetia                  Z1mf[i24.2.1 Z3c[i24.2.1 
+0000022 030  NP1     Williams                 Z1mf[i24.2.2 Z3c[i24.2.2 Z1mf 
+0000022 040  NN2     saddles                  B5/L2 O2/M3 F1 S7.1+ 
+0000022 050  NPD1    Mon                      T1.3 
+0000022 060  NP1     Mome                     Z99 
+0000022 061  ,       ,                        
+0000022 070  AT      the                      Z5 
+0000022 080  MCMC    100-1                    N1 T1.2 T3 T1.3 N3.2 
+0000022 090  NN1     winner                   X9.2+/S7.3/S2mf X9.2+/G3/S2mf 
+0000022 100  II      in                       Z5 
+0000022 110  MC      2009                     N1 T1.2 T3 T1.3 N3.2 
+0000022 111  ,       ,                        
+0000022 120  II      in                       Z5 
+0000022 130  AT      the                      Z5 
+0000022 140  JJ      famous                   X2.2+ 
+0000022 150  NN1     marathon                 K5.1 T1.3+ 
+0000022 160  II      on                       Z5 
+0000022 170  NPD1    Saturday                 T1.3 
+0000022 171  .       .                        
+0000023 001  -----   -----                    
+0000024 010  PPHS1   She                      Z8f 
+0000024 020  VHZ     has                      A9+ Z5 A2.2 S4 
+0000024 030  MC1     one                      N1 T3 T1.2 
+0000024 040  NN1     runner                   M1/N3.8+/S2mf K5.1/S2mf K5.1/L2mf I3.1/S2mf O2 L3 
+0000024 050  II      in                       Z5 
+0000024 060  AT      the                      Z5 
+0000024 070  JJ      Irish                    Z2 Z2/Q3 Z2/S2mfnc 
+0000024 080  NN1     version                  A4.1 Q2.1 
+0000024 081  -       -                        
+0000024 090  NP1     Officier                 Z1mf[i25.2.1 Z3c[i25.2.1 
+0000024 100  NP1     De                       Z1mf[i25.2.2 Z3c[i25.2.2 
+0000024 110  NN1     Reserve                  A9+ K5.1/S2mf I1.1 M7 S1.2.1- G3/S2mf I1.3@ 
+0000024 111  -       -                        
+0000024 120  II      after                    Z5 
+0000024 130  VVG     pulling                  M2[i26.2.1 M3[i26.2.1 S1.1.3-[i26.2.1 Q4.2[i26.2.1 M2 A9+ M1 
+0000024 140  RP      out                      M2[i26.2.2 M3[i26.2.2 S1.1.3-[i26.2.2 Q4.2[i26.2.2 M6 
+0000024 150  NN1     Flintoff                 Z99 
+0000024 151  .       .                        
+0000025 001  -----   -----                    
+0000026 010  AT      The                      Z5 
+0000026 020  NN1     horse                    L2mfn 
+0000026 021  ,       ,                        
+0000026 030  VVN     part-owned               Z99 
+0000026 040  II      by                       Z5 
+0000026 050  NP1     England                  Z2 
+0000026 060  NN1     cricketer                K5.1/S2mf 
+0000026 070  NP1     Andrew                   Z1mf[i27.2.1 Z3c[i27.2.1 Z1m 
+0000026 080  NP1     Flintoff                 Z1mf[i27.2.2 Z3c[i27.2.2 
+0000026 081  ,       ,                        
+0000026 090  VBZ     Is                       Z5 A3+ 
+0000026 100  RT      now                      T1.1.2 Z4 
+0000026 110  VVN     guaranteed               A7+/Q2.2 
+0000026 120  AT1     a                        Z5 
+0000026 130  NN1     run                      M1/N3.8+ M1 B5 X8+ T1.3 X7/N5+ N5 K4 K5.1% 
+0000026 140  II      in                       Z5 
+0000026 150  AT      the                      Z5 
+0000026 160  JJ      National                 Z3c 
+0000026 170  II      at                       Z5 
+0000026 180  NP1     Aintree                  Z1m 
+0000026 190  II      after                    Z5 
+0000026 200  MC      10                       N1 T1.2 T3 T1.3 N3.2 
+0000026 210  NN2     withdrawals              M2 M1 S1.1.3- A2.1+ 
+0000026 220  II      from                     Z5 
+0000026 230  AT      the                      Z5 
+0000026 240  JJ      famous                   X2.2+ 
+0000026 250  NN1     race                     K5.1 S7.3+ S5+c 
+0000026 260  II      on                       Z5 
+0000026 270  NPD1    Monday                   T1.3 
+0000026 271  .       .                        
+0000027 001  -----   -----                    
+0000028 010  NN1     Siegemaster              Z99 
+0000028 011  ,       ,                        
+0000028 020  IW      with                     Z5 
+0000028 030  MD      11st                     N4 T1.3 
+0000028 040  NNU     7lb                      N3.5 
+0000028 041  ,       ,                        
+0000028 050  VVZ     carries                  M2 A9+ Q4 S7.4+ B1% B2-% 
+0000028 060  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
+0000028 070  NN1     weight                   N3.5 A11.1 O2/K5.1 
+0000028 080  II      at                       Z5 
+0000028 090  NN1     Fairyhouse               Z99 
+0000028 100  IF      for                      Z5 
+0000028 110  NN1     trainer                  P1/S2mf K5.1/S2mf B5 
+0000028 120  NP1     Dessie                   Z1mf[i28.2.1 Z3c[i28.2.1 
+0000028 130  NP1     Hughes                   Z1mf[i28.2.2 Z3c[i28.2.2 Z1mf 
+0000028 131  .       .                        
+0000029 001  -----   -----                    
+0000030 010  JJ      Other                    A6.1- 
+0000030 020  JJ      interesting              X5.2+ 
+0000030 030  NN2     contenders               S7.3+/S2mf 
+0000030 040  VV0     include                  A1.8+ 
+0000030 050  AT      the                      Z5 
+0000030 060  JJ      Mullins-trained          Z99 
+0000030 070  NN1     duo                      S5+c K2 
+0000030 080  IO      of                       Z5 
+0000030 090  NP1     Equus                    Z99 
+0000030 100  NN1     Maximum                  N5.1+ 
+0000030 110  CC      and                      Z5 
+0000030 120  NP1     Ballytrim                Z99 
+0000030 121  ,       ,                        
+0000030 130  CC      and                      Z5 
+0000030 140  NP1     Cheltenham               Z3c[i29.2.1 Z2 
+0000030 150  NN1     Festival                 Z3c[i29.2.2 K1/S1.1.3+ S9 
+0000030 160  NN1     winner                   X9.2+/S7.3/S2mf X9.2+/G3/S2mf 
+0000030 170  ZZ1     A                        Z5 
+0000030 180  JJ      New                      T3- 
+0000030 190  NN1     Story                    Q2.1 X4.1 Q4 
+0000030 191  .       .                        
+0000033 001  NULL    **8;7;text               

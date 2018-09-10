@@ -1,0 +1,626 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     ISTANBUL                 Z2 
+0000002 011  -       -                        
+0000002 020  NP1     U.S.                     Z8 
+0000002 030  NNB     President                G1.1/S7.1+/S2mf 
+0000002 040  NP1     Barack                   Z1mf[i1.2.1 Z3c[i1.2.1 
+0000002 050  NP1     Obama                    Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 060  VVD     gave                     A9- A1.1.1 
+0000002 070  APPGE   his                      Z8m 
+0000002 080  NN1     backing                  S8+ K5.1/I1 M1 M6 O2 
+0000002 090  NPD1    Sunday                   T1.3 
+0000002 100  II      to                       Z5 
+0000002 110  NP1     Turkey                   Z2 
+0000002 111  GE      's                       Z5 
+0000002 120  NN1     bid                      I2.2 
+0000002 130  TO      to                       Z5 
+0000002 140  VVI     join                     A2.2 S5+ A1.8+ A1.1.1 
+0000002 150  AT      the                      Z5 
+0000002 160  NP1     EU                       Z3c Z2 
+0000002 161  ,       ,                        
+0000002 170  CC      and                      Z5 
+0000002 180  VVD     urged                    Q2.2 
+0000002 190  AT      the                      Z5 
+0000002 200  JJ      European                 Z1mf[i2.2.1 Z3c[i2.2.1 Z3 
+0000002 210  NN1     Union                    Z1mf[i2.2.2 Z3c[i2.2.2 Z3c 
+0000002 220  TO      to                       Z5 
+0000002 230  VVI     accept                   A9+ X2.5+ S1.2.1+ S7.4+ 
+0000002 240  NP1     Turkey                   Z2 
+0000002 250  II      as                       Z5 
+0000002 260  AT1     a                        Z5 
+0000002 270  NN1     member                   S5+/S2mf B1 
+0000002 271  ,       ,                        
+0000002 280  VVG     saying                   Q2.1 Z4% 
+0000002 290  PPH1    it                       Z8 
+0000002 300  VM      would                    A7+ 
+0000002 310  VBI     be                       A3+ Z5 
+0000002 320  AT1     a                        Z5 
+0000002 330  JJ      positive                 A5.1+ A7+ N2 
+0000002 340  NN1     sign                     Q1.1 A6.2+ X4.1 Q1.2 O4.1 S9 B2 M2 K2 
+0000002 350  II      to                       Z5 
+0000002 360  AT      the                      Z5 
+0000002 370  JJ      Muslim                   S9 
+0000002 380  NN1     world                    W1 S5+c A4.1 N5+ 
+0000002 381  .       .                        
+0000002 382  -----   -----                    
+0000002 390  AT      The                      Z5 
+0000002 400  JJ      French                   Z2 
+0000002 410  NN1     president                G1.1/S7.1+/S2mf 
+0000002 420  RR      however                  Z4 
+0000002 430  VVD     reiterated               Q2.1/N6 
+0000002 440  NP1@    Sunday                   T1.3 
+0000002 450  APPGE   his                      Z8m 
+0000002 460  NN1     country                  G1.1c W3 F4/M7 K2 
+0000002 461  GE      's                       Z5 
+0000002 470  NN1     opposition               S8-/E2- S7.3+ A6.1- 
+0000002 480  II      to                       Z5 
+0000002 490  NP1     Turkey                   Z2 
+0000002 491  GE      's                       Z5 
+0000002 500  NN1     accession                T2+/S7.1+ A1.8+ 
+0000002 501  .       .                        
+0000003 001  -----   -----                    
+0000004 010  APPGE   Its                      Z8 
+0000004 020  NN1     accession                T2+/S7.1+ A1.8+ 
+0000004 030  II      to                       Z5 
+0000004 040  AT      the                      Z5 
+0000004 050  NN1     bloc                     G1.1/S5+c 
+0000004 051  ,       ,                        
+0000004 060  DDQ     which                    Z8 Z5 
+0000004 070  RR      currently                T1.1.2 
+0000004 080  VHZ     has                      A9+ Z5 A2.2 S4 
+0000004 090  MC      27                       N1 T1.2 T3 T1.3 N3.2 
+0000004 100  NN2     members                  S5+/S2mf B1 
+0000004 101  ,       ,                        
+0000004 110  VM      would                    A7+ 
+0000004 120  VBI     be                       A3+ Z5 
+0000004 121  NULL    <quote>                  
+0000004 122  -----   -----                    
+0000004 123  "       "                        
+0000004 130  AT1     an                       Z5 
+0000004 140  JJ      important                A11.1+ 
+0000004 150  NN1     signal                   Q1.1 X2.2 X4.1 O2 Y1 
+0000004 151  "       "                        
+0000004 152  NULL    </quote>                 
+0000004 153  -----   -----                    
+0000004 160  DDQ     which                    Z5 Z8 
+0000004 170  VM      would                    A7+ 
+0000004 171  NULL    <quote>                  
+0000004 172  -----   -----                    
+0000004 173  "       "                        
+0000004 180  RR      firmly                   A1.7+ S1.2.5+ A7+ 
+0000004 190  VV0@    anchor                   A1.7+ M4 
+0000004 191  "       "                        
+0000004 192  NULL    </quote>                 
+0000004 193  -----   -----                    
+0000004 200  NP1     Turkey                   Z2[i3.3.1 Z2 Z2[i4.3.1 
+0000004 210  II      in                       Z2[i3.3.2 Z5 Z2[i4.3.2 
+0000004 220  NP1     Europe                   Z2[i3.3.3 Z2 Z2[i4.3.3 
+0000004 221  ,       ,                        
+0000004 230  VVD     said                     Q2.1 
+0000004 240  NP1     Obama                    Z99 
+0000004 250  II      in                       Z5 
+0000004 260  AT1     an                       Z5 
+0000004 270  NN1     address                  H4 Q2.2 
+0000004 280  II      to                       Z5 
+0000004 290  JJ      European                 Z1mf[i5.2.1 Z3c[i5.2.1 Z3 
+0000004 300  NN1     Union                    Z1mf[i5.2.2 Z3c[i5.2.2 Z3c 
+0000004 310  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000004 320  II      at                       Z5 
+0000004 330  AT1     a                        Z5 
+0000004 340  NN1     summit                   W3 N5.1+ S1.1.3+ 
+0000004 350  II      in                       Z5 
+0000004 360  AT      the                      Z5 
+0000004 370  JJ      Czech                    Z2 Z2/Q3 
+0000004 380  NN1     capital                  I1.1 M7/G1.1 Q1.2 
+0000004 390  NP1     Prague                   Z2 
+0000004 391  .       .                        
+0000005 001  -----   -----                    
+0000008 010  NP1@    Obama                    Z99 
+0000008 020  VVD     said                     Q2.1 
+0000008 030  AT      the                      Z5 
+0000008 040  ND1     West                     Z2 Z1mf 
+0000008 050  VM      should                   S6+ A7+ 
+0000008 060  VVI     seek                     X2.4 
+0000008 070  JJR     greater                  A5.1++ A11.1++ N3.2++ N5++ X5.2++ 
+0000008 080  NN1     cooperation              S8+ 
+0000008 090  CC      and                      Z5 
+0000008 100  JJR     closer                   N3.3-- A4.2++ S5++ S1.1.3++ A6.1++ E2++ W4 
+0000008 110  NN2     ties                     B5 O2 S5+ S6+ A1.7+ K5.1/S7.3+ 
+0000008 120  IW      with                     Z5 
+0000008 130  JJ      Islamic                  S9 
+0000008 140  NN2     nations                  G1.1c S5+c 
+0000008 150  CC      and                      Z5 
+0000008 160  CST     that                     Z8 Z5 
+0000008 170  VVG     allowing                 S7.4+ S8+ X2.1 
+0000008 180  NP1     Turkey                   Z2 
+0000008 190  II      into                     Z5 
+0000008 200  AT      the                      Z5 
+0000008 210  NP1     EU                       Z3c Z2 
+0000008 220  VM      would                    A7+ 
+0000008 230  VBI     be                       A3+ Z5 
+0000008 240  AT1     an                       Z5 
+0000008 250  JJ      important                A11.1+ 
+0000008 260  NN1     sign                     Q1.1 A6.2+ X4.1 Q1.2 O4.1 S9 B2 M2 K2 
+0000008 270  IO      of                       Z5 
+0000008 280  DD2     those                    Z5 Z8 
+0000008 290  NN2     efforts                  X8+ O2 
+0000008 291  .       .                        
+0000009 001  -----   -----                    
+0000012 010  NP1     France                   Z2 Z1mf 
+0000012 020  VVZ     renews                   T2+/A2.1 
+0000012 030  NN1     opposition               S8-/E2- S7.3+ A6.1- 
+0000016 010  NP1     France                   Z2 Z1mf 
+0000016 020  VVD     renewed                  T2+/A2.1 
+0000016 030  APPGE   its                      Z8 
+0000016 040  NN1     opposition               S8-/E2- S7.3+ A6.1- 
+0000016 050  II      to                       Z5 
+0000016 060  NP1     Turkey                   Z2 
+0000016 061  GE      's                       Z5 
+0000016 070  NP1     EU                       Z3c Z2 
+0000016 080  NN1     bid                      I2.2 
+0000016 090  II      on                       Z5 
+0000016 100  NPD1    Sunday                   T1.3 
+0000016 101  ,       ,                        
+0000016 110  CSA     as                       Z5 
+0000016 120  JJ      French                   Z2 
+0000016 130  NNB     President                G1.1/S7.1+/S2mf 
+0000016 140  NP1     Nicolas                  Z1mf[i6.2.1 Z3c[i6.2.1 Z1f 
+0000016 150  NP1     Sarkozy                  Z1mf[i6.2.2 Z3c[i6.2.2 
+0000016 160  VVD     said                     Q2.1 
+0000016 170  CST     that                     Z8 Z5 
+0000016 180  PPHS1   he                       Z8m 
+0000016 190  VVD     remained                 T2++ M8 N5.2+ 
+0000016 200  VVN     opposed                  S8-/E2- A6.1- 
+0000016 210  II      to                       Z5 
+0000016 220  AT      the                      Z5 
+0000016 230  NN1     country                  G1.1c W3 F4/M7 K2 
+0000016 231  GE      's                       Z5 
+0000016 240  NN1     entry                    M7 Q1.2 S7.3 M1 T2+ 
+0000016 250  II      into                     Z5 
+0000016 260  AT      the                      Z5 
+0000016 270  NN1     Union                    Z3c 
+0000016 271  ,       ,                        
+0000016 280  NP1     AFP                      Z99 
+0000016 290  VVD     reported                 Q2.2 S7.1- 
+0000016 291  .       .                        
+0000020 001  NULL    <quote>                  
+0000020 002  -----   -----                    
+0000020 003  "       "                        
+0000020 010  CS      When                     Z5 
+0000020 020  PPH1    it                       Z8 
+0000020 030  VVZ     comes                    A4.1[i7.2.1 M1[i7.2.1 B1[i7.2.1 N5[i7.2.1 X6+[i7.2.1 X2.1[i7.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000020 040  II      to                       A4.1[i7.2.2 M1[i7.2.2 B1[i7.2.2 N5[i7.2.2 X6+[i7.2.2 X2.1[i7.2.2 Z5 
+0000020 050  AT      the                      Z5 
+0000020 060  JJ      European                 Z1mf[i8.2.1 Z3c[i8.2.1 Z3 
+0000020 070  NN1     Union                    Z1mf[i8.2.2 Z3c[i8.2.2 Z3c 
+0000020 071  ,       ,                        
+0000020 080  APPGE   its                      Z8 
+0000020 090  II21    up                       Z5[i9.2.1 Z5 Z5[i10.2.1 X6+[i10.2.1 
+0000020 100  II22    to                       Z5[i9.2.2 Z5 Z5[i10.2.2 X6+[i10.2.2 
+0000020 110  NN2     member-states            S5+/G1.2 
+0000020 120  IO      of                       Z5 
+0000020 130  AT      the                      Z5 
+0000020 140  JJ      European                 Z1mf[i11.2.1 Z3c[i11.2.1 Z3 
+0000020 150  NN1     Union                    Z1mf[i11.2.2 Z3c[i11.2.2 Z3c 
+0000020 160  TO      to                       Z5 
+0000020 170  VVI     decide                   X6+ 
+0000020 171  "       "                        
+0000020 172  NULL    </quote>                 
+0000020 173  -----   -----                    
+0000020 180  II      on                       Z5 
+0000020 190  NN1     membership               S5+c P1 
+0000020 191  ,       ,                        
+0000020 200  NP1     Sarkozy                  Z99 
+0000020 210  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000020 220  AT1     a                        Z5 
+0000020 230  JJ      French                   Z2 
+0000020 240  NN1     television               Q4.3 
+0000020 250  NN1     interview                Q2.1 
+0000020 260  II      from                     Z5 
+0000020 270  NP1     Prague                   Z2 
+0000020 280  RRQ     where                    M6 
+0000020 290  PPHS1   he                       Z8m 
+0000020 300  VBDZ    was                      Z5 A3+ 
+0000020 310  VVG     attending                S1.1.3+ 
+0000020 320  AT      the                      Z5 
+0000020 330  NP1     EU-US                    Z99 
+0000020 340  NN1     summit                   W3 N5.1+ S1.1.3+ 
+0000020 341  .       .                        
+0000021 001  -----   -----                    
+0000024 010  II      Despite                  Z5 
+0000024 020  NP2     Obamas                   Z99 
+0000024 030  NN1     plea                     Q2.2 
+0000024 031  ,       ,                        
+0000024 040  NP1     Sarkozy                  Z99 
+0000024 050  VVD     said                     Q2.1 
+0000024 051  NULL    <quote>                  
+0000024 052  -----   -----                    
+0000024 053  "       "                        
+0000024 060  VHZ     has                      Z5 A9+ A2.2 S4 
+0000024 070  XX      not                      Z6 
+0000024 080  VVN     changed                  A2.1+ I1 B5 
+0000024 090  CC      and                      Z5 
+0000024 100  VM      will                     T1.1.3 
+0000024 110  XX      not                      Z6 
+0000024 120  VVI     change                   A2.1+ I1 B5 
+0000024 121  "       "                        
+0000024 122  NULL    </quote>                 
+0000024 123  -----   -----                    
+0000024 130  APPGE   his                      Z8m 
+0000024 140  JJ      longtime                 T1.3++ 
+0000024 150  NN1     opposition               S8-/E2- S7.3+ A6.1- 
+0000024 160  II      to                       Z5 
+0000024 170  VVG     granting                 A9- Q2.2 
+0000024 180  NP1     EU                       Z3c Z2 
+0000024 190  NN1     membership               S5+c P1 
+0000024 200  II      to                       Z5 
+0000024 210  NP1     Turkey                   Z2 
+0000024 211  .       .                        
+0000024 212  NULL    <quote>                  
+0000024 213  -----   -----                    
+0000024 214  "       "                        
+0000024 220  PPIS1   I                        Z8mf 
+0000024 230  VH0     have                     Z5 A9+ A2.2 S4 
+0000024 240  RR      always                   N6+++ 
+0000024 250  VBN     been                     Z5 A3+ 
+0000024 260  VVN     opposed                  S8-/E2- A6.1- 
+0000024 270  II      to                       Z5 
+0000024 280  DD1     this                     M6 Z5 Z8 
+0000024 290  NN1     entry                    M7 Q1.2 S7.3 M1 T2+ 
+0000024 300  CC      and                      Z5 
+0000024 310  PPIS1   I                        Z8mf 
+0000024 320  VV0     remain                   T2++ M8 N5.2+ 
+0000024 330  VVN     opposed                  S8-/E2- A6.1- 
+0000024 331  ,       ,                        
+0000024 332  "       "                        
+0000024 333  NULL    </quote>                 
+0000024 334  -----   -----                    
+0000024 340  PPHS1   he                       Z8m 
+0000024 350  VVD     said                     Q2.1 
+0000024 360  II      during                   Z5 
+0000024 370  NN1     television               Q4.3 
+0000024 380  NN1     interview                Q2.1 
+0000024 381  .       .                        
+0000025 001  -----   -----                    
+0000028 010  JJ      Sarkozy                  Z99 
+0000028 020  RR      also                     N5++ 
+0000028 030  VVD     said                     Q2.1 
+0000028 040  APPGE   his                      Z8m 
+0000028 050  NN1     opposition               S8-/E2- S7.3+ A6.1- 
+0000028 060  II      to                       Z5 
+0000028 070  JJ      Turkish                  Z2 Z2/Q3 Z2/S2mfnc 
+0000028 080  NN1     membership               S5+c P1 
+0000028 090  VBZ     is                       Z5 A3+ 
+0000028 100  VVN     shared                   S1.1.2+ 
+0000028 110  II      by                       Z5 
+0000028 120  AT      the                      Z5 
+0000028 121  NULL    <quote>                  
+0000028 122  -----   -----                    
+0000028 123  "       "                        
+0000028 130  JJ      immense                  N3.2++ 
+0000028 140  NN1     majority                 N5+++c 
+0000028 141  "       "                        
+0000028 142  NULL    </quote>                 
+0000028 143  -----   -----                    
+0000028 150  IO      of                       Z5 
+0000028 160  JJ      European                 Z3 
+0000028 170  NN2     countries                M7 
+0000028 171  .       .                        
+0000029 001  -----   -----                    
+0000030 010  JJ      German                   Z2 Z2/Q3 
+0000030 020  NNB     Chancellor               G1.1/S2mf P1/S2mf S7.1+/S2mf 
+0000030 030  NP1     Angela                   Z1mf[i12.2.1 Z3c[i12.2.1 Z1f 
+0000030 040  NP1     Merkel                   Z1mf[i12.2.2 Z3c[i12.2.2 
+0000030 050  RR      however                  Z4 
+0000030 060  VVD     said                     Q2.1 
+0000030 070  CST     that                     Z5 Z8 
+0000030 080  AT      the                      Z5 
+0000030 090  NN1     future                   T1.1.3 
+0000030 100  IO      of                       Z5 
+0000030 110  JJ      European                 Z3 
+0000030 120  NN2     Unions                   I3.1/S5+ S5+ S4 
+0000030 130  VVZ     ties                     A2.2 A1.1.1 S5+ S6+ A1.7+ 
+0000030 140  II      to                       Z5 
+0000030 150  NP1     Turkey                   Z2 
+0000030 160  VVZ     remains                  T2++ M8 N5.2+ 
+0000030 170  AT1     an                       Z5 
+0000030 180  JJ      open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000030 190  NN1     question                 Q2.2 X4.1 
+0000030 191  .       .                        
+0000034 001  NULL    <quote>                  
+0000034 002  -----   -----                    
+0000034 003  "       "                        
+0000034 010  PPIS1   I                        Z8mf 
+0000034 020  VV0     believe                  X2.1 S9% 
+0000034 030  CST     that                     Z5 Z8 
+0000034 040  AT1     a                        Z5 
+0000034 050  JJ      close                    N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4 
+0000034 060  NN1     link                     A2.2 S5+ M3 Q1.3 F1 K5.1/M7% 
+0000034 070  II      between                  Z5 
+0000034 080  AT      the                      Z5 
+0000034 090  JJ      Muslim                   S9 
+0000034 100  NN1     world                    W1 S5+c A4.1 N5+ 
+0000034 110  CC      and                      Z5 
+0000034 120  RR21    in                       A4.2+[i13.2.1 
+0000034 130  RR22    particular               A4.2+[i13.2.2 A9-[i14.2.1 
+0000034 140  IW      with                     Z5 A9-[i14.2.2 
+0000034 150  NP1     Turkey                   Z2 
+0000034 160  VBZ     is                       A3+ Z5 
+0000034 170  JJ      interesting              X5.2+ 
+0000034 180  IF      for                      Z5 
+0000034 190  PPIO2   us                       Z8 
+0000034 200  DB      all                      N5.1+ 
+0000034 201  ,       ,                        
+0000034 202  "       "                        
+0000034 203  NULL    </quote>                 
+0000034 204  -----   -----                    
+0000034 210  PPHS1   she                      Z8f 
+0000034 220  VVD     said                     Q2.1 
+0000034 230  II      after                    Z5 
+0000034 240  NN2@    Obamas                   Z99 
+0000034 250  MD      first                    N4 
+0000034 260  NN1     summit                   W3 N5.1+ S1.1.3+ 
+0000034 270  IW      with                     Z5 
+0000034 280  NP1     EU                       Z3c Z2 
+0000034 290  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000034 291  .       .                        
+0000038 001  NULL    <quote>                  
+0000038 002  -----   -----                    
+0000038 003  "       "                        
+0000038 010  II      In                       Z5 
+0000038 020  DDQ     which                    Z5 Z8 
+0000038 030  NN1     manner                   S1.1.1 X4.2 
+0000038 040  CC      and                      Z5 
+0000038 050  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000038 060  CST     that                     Z8 Z5 
+0000038 070  VVZ     occurs                   A2.1+ A3+ X2.1 
+0000038 071  ,       ,                        
+0000038 080  CSW     whether                  Z5 
+0000038 090  II      as                       Z5 
+0000038 100  AT1     a                        Z5 
+0000038 110  JJ      privileged               A5.1+ A10- 
+0000038 120  NN1     partnership              S5+c S4 S3.2 
+0000038 130  CC      or                       Z5 
+0000038 140  AT1     a                        Z5 
+0000038 150  JJ      full                     N5.1+ I3.2+ 
+0000038 151  (       (                        
+0000038 160  NP1     EU                       Z3c Z2 
+0000038 161  )       )                        
+0000038 170  NN1     member                   S5+/S2mf B1 
+0000038 180  NN1     state                    G1.1c O4.1 
+0000038 181  ,       ,                        
+0000038 190  VBDR    were                     Z5 A3+ 
+0000038 200  RR      still                    T2++ Z4 E3+ 
+0000038 210  VVG     talking                  Q2.1 
+0000038 220  II      about                    Z5 
+0000038 230  DD1     that                     Z8 Z5 
+0000038 231  ,       ,                        
+0000038 232  "       "                        
+0000038 233  NULL    </quote>                 
+0000038 234  -----   -----                    
+0000038 240  PPHS1   she                      Z8f 
+0000038 250  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000038 260  NN2     journalists              Q4.2/I3.2/S2mf 
+0000038 261  .       .                        
+0000039 001  -----   -----                    
+0000042 010  NP1     Germany                  Z2 
+0000042 011  ,       ,                        
+0000042 020  NP1     France                   Z2 Z1mf 
+0000042 030  CC      and                      Z5 
+0000042 040  NP1     Austria                  Z2 Z1 
+0000042 050  VH0     have                     Z5 A9+ A2.2 S4 
+0000042 060  VVN     voiced                   Q2.1 
+0000042 070  AT      the                      Z5 
+0000042 080  JJT     loudest                  X3.2+ O4.3 
+0000042 090  NN1     opposition               S8-/E2- S7.3+ A6.1- 
+0000042 100  II      to                       Z5 
+0000042 110  NP2     Turkeys                  Z2 
+0000042 120  JJ      long-running             T1.3+ 
+0000042 130  NN2     efforts                  X8+ O2 
+0000042 140  TO      to                       Z5 
+0000042 150  VVI     join                     A2.2 S5+ A1.8+ A1.1.1 
+0000042 160  AT      the                      Z5 
+0000042 170  JJ      European                 Z1mf[i15.2.1 Z3c[i15.2.1 Z3 
+0000042 180  NN1     Union                    Z1mf[i15.2.2 Z3c[i15.2.2 Z3c 
+0000042 181  ,       ,                        
+0000042 190  DDQ     which                    Z8 Z5 
+0000042 200  VVD     began                    T2+ 
+0000042 210  II      in                       Z5 
+0000042 220  MC      2005                     N1 T1.2 T3 T1.3 N3.2 
+0000042 221  ,       ,                        
+0000042 230  CC      and                      Z5 
+0000042 240  NN2     negotiations             Q2.2 
+0000042 250  II      on                       Z5 
+0000042 260  VH0     have                     Z5 A9+ A2.2 S4 
+0000042 270  VVN     moved                    M2 M1 A2.1+ E1 H4/A2.1 
+0000042 280  RR      slowly                   N3.8- 
+0000042 290  RR21    in                       Z5 O4.2+ M6 
+0000042 300  RR22    part                     N5.1- 
+0000042 310  II      over                     Z5 
+0000042 320  DD      some                     N5 Z5 
+0000042 330  NN2     members                  S5+/S2mf B1 
+0000042 340  NN2     doubts                   A7- E6- 
+0000042 350  II      about                    Z5 
+0000042 360  CSW     whether                  Z5 
+0000042 370  AT      the                      Z5 
+0000042 380  NN2     countrys                 G1.1c W3 F4/M7 K2 
+0000042 390  VV0     place                    M2 X2.2+ I3.1 Q2.2 
+0000042 400  II      in                       Z5 
+0000042 410  AT      the                      Z5 
+0000042 420  JJ      European                 Z3 
+0000042 430  NN1     bloc                     G1.1/S5+c 
+0000042 431  .       .                        
+0000042 432  -----   -----                    
+0000042 440  NP1     EU                       Z3c Z2 
+0000042 450  NN2     members                  S5+/S2mf B1 
+0000042 460  VH0     have                     Z5 A9+ A2.2 S4 
+0000042 470  RR      also                     N5++ 
+0000042 480  VVN     urged                    Q2.2 
+0000042 490  NP1     Turkey                   Z2 
+0000042 500  TO      to                       Z5 
+0000042 510  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000042 520  RRR     more                     A13.3 N6++ 
+0000042 530  TO      to                       Z5 
+0000042 540  VVI     guarantee                A7+/Q2.2 
+0000042 550  NN1     minority                 N5- 
+0000042 560  NN2     rights                   S7.4+ G2.2+ M6 G1.2 
+0000042 561  ,       ,                        
+0000042 570  VV0     curb                     A1.7+ 
+0000042 580  AT      the                      Z5 
+0000042 590  NN2     powers                   S7.1+ O3 S1.2.5+ N2@ 
+0000042 600  IO      of                       Z5 
+0000042 610  APPGE   its                      Z8 
+0000042 620  JJ      military                 G3 
+0000042 630  CC      and                      Z5 
+0000042 640  VV0     pass                     M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
+0000042 650  JJ      new                      T3- 
+0000042 660  NN2     rights                   S7.4+ G2.2+ M6 G1.2 
+0000042 670  IF      for                      Z5 
+0000042 680  NN1     trade                    I3.1/S5+c[i16.2.1 I2.2 I2.1 I3.1 I2.2/N5 
+0000042 690  NN2     unions                   I3.1/S5+c[i16.2.2 I3.1/S5+ S5+ S4 
+0000042 691  .       .                        
+0000043 001  -----   -----                    
+0000046 010  CS      Although                 Z5 
+0000046 020  NP1     Berlin                   Z2 Z1mf Z3c 
+0000046 030  RR      officially               G1.1 S7.4+ 
+0000046 040  VVZ     accepts                  A9+ X2.5+ S1.2.1+ S7.4+ 
+0000046 050  AT      the                      Z5 
+0000046 060  NN1     start                    T2+ E5- 
+0000046 070  IO      of                       Z5 
+0000046 080  NN1     accession                T2+/S7.1+ A1.8+ 
+0000046 090  NN2     talks                    Q2.1 
+0000046 091  ,       ,                        
+0000046 100  JJ      senior                   S7.1++ T3++ 
+0000046 110  NN2     members                  S5+/S2mf B1 
+0000046 120  IO      of                       Z5 
+0000046 130  NP2     Merkels                  Z99 
+0000046 140  NN2     conservatives            G1.2/S2mf A2.1-/S2mf 
+0000046 150  VH0     have                     Z5 A9+ A2.2 S4 
+0000046 160  VVN     expressed                Q1.1 B1% 
+0000046 170  NN2     misgivings               A7- E6- 
+0000046 180  CS      while                    Z5 
+0000046 190  JJ      other                    A6.1- 
+0000046 200  NP1     EU                       Z3c Z2 
+0000046 210  NN2     countries                M7 
+0000046 211  ,       ,                        
+0000046 220  II21    such                     Z5[i17.2.1 
+0000046 230  II22    as                       Z5[i17.2.2 Z5 
+0000046 240  NP1     France                   Z2 Z1mf 
+0000046 241  ,       ,                        
+0000046 250  VBR     are                      Z5 A3+ 
+0000046 260  RR      outright                 A13.2 
+0000046 270  VVN     opposed                  S8-/E2- A6.1- 
+0000046 280  II      to                       Z5 
+0000046 290  NP1     Turkey                   Z2 
+0000046 291  GE      's                       Z5 
+0000046 300  JJ      full                     N5.1+ I3.2+ 
+0000046 310  NN1     membership               S5+c P1 
+0000046 311  .       .                        
+0000047 001  -----   -----                    
+0000050 010  NP1     EC                       Z2c 
+0000050 020  VVZ     welcomes                 Q2.2 S1.1.1 
+0000050 030  NP1     Obama                    Z99 
+0000050 031  VBZ     's                       Z5 A3+ 
+0000050 040  VVG     backing                  S8+ K5.1/I1 M1 M6 
+0000054 010  AT      The                      Z5 
+0000054 020  JJ      European                 Z3 
+0000054 030  NN1     Commission               A1.1.1 I1.1/I2.2 G1.1 G3/S7.1+ 
+0000054 040  VVD     welcomed                 Q2.2 S1.1.1 
+0000054 050  NP1     Obama                    Z99 
+0000054 051  GE      's                       Z5 
+0000054 060  JJ      strong                   S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+ 
+0000054 070  NN1     backing                  S8+ K5.1/I1 M1 M6 O2 
+0000054 080  IF      for                      Z5 
+0000054 090  NP1     Turkey                   Z2 
+0000054 091  GE      's                       Z5 
+0000054 100  NN1     drive                    M3 X5.2+ X8+ M3/H3 Y2 
+0000054 110  TO      to                       Z5 
+0000054 120  VVI     enter                    M1 S5+ Q1.2 T2+ A1.8+ Y2 
+0000054 130  AT      the                      Z5 
+0000054 140  JJ      European                 Z1mf[i18.2.1 Z3c[i18.2.1 Z3 
+0000054 150  NN1     Union                    Z1mf[i18.2.2 Z3c[i18.2.2 Z3c 
+0000054 151  .       .                        
+0000058 001  NULL    <quote>                  
+0000058 002  -----   -----                    
+0000058 003  "       "                        
+0000058 010  PPIS1   I                        Z8mf 
+0000058 020  RG      very                     A13.3[i19.2.1 A13.3 
+0000058 030  RR      much                     A13.3[i19.2.2 A13.3 N6+ 
+0000058 040  VV0     welcome                  Q2.2 S1.1.1 
+0000058 050  AT      the                      Z5 
+0000058 060  JJ      clear                    A7+ A10+ O4.3 O4.1 N5.1+ W4 
+0000058 070  NN2     statements               Q2.1 I1/Q1.2 
+0000058 080  IO      of                       Z5 
+0000058 090  NNB     President                G1.1/S7.1+/S2mf 
+0000058 100  NP1     Obama                    Z99 
+0000058 110  II      on                       Z5 
+0000058 120  DD1     that                     Z5 Z8 
+0000058 130  NN1     matter                   X4.1 O1 
+0000058 131  ,       ,                        
+0000058 132  "       "                        
+0000058 133  NULL    </quote>                 
+0000058 134  -----   -----                    
+0000058 140  JJ      European                 Z3c[i20.2.1 Z2 
+0000058 150  NN1     Commission               Z3c[i20.2.2 A1.1.1 I1.1/I2.2 G1.1 G3/S7.1+ 
+0000058 160  NN1     President                G1.1/S7.1+/S2mf 
+0000058 170  NP1     Jose                     Z1mf[i22.3.1 Z3c[i22.3.1 Z1mf[i21.2.1 Z3c[i21.2.1 
+0000058 180  NP1     Manuel                   Z1mf[i22.3.2 Z3c[i22.3.2 Z1mf[i21.2.2 Z3c[i21.2.2 Z1mf[i23.2.1 Z3c[i23.2.1 
+0000058 190  NP1     Barroso                  Z3c[i22.3.3 Z1mf[i22.3.3 Z1mf[i23.2.2 Z3c[i23.2.2 
+0000058 200  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000058 210  AT1     a                        Z5 
+0000058 220  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000058 230  NN1     conference               S1.1.3+ 
+0000058 240  II      after                    Z5 
+0000058 250  VVG     attending                S1.1.3+ 
+0000058 260  NP1@    Sunday                   T1.3 
+0000058 261  GE      's                       Z5 
+0000058 270  NN1     summit                   W3 N5.1+ S1.1.3+ 
+0000058 280  II      in                       Z5 
+0000058 290  NP1     Prague                   Z2 
+0000058 291  .       .                        
+0000062 001  NULL    <quote>                  
+0000062 002  -----   -----                    
+0000062 003  "       "                        
+0000062 010  PPIS2   We                       Z8 
+0000062 020  VH0     have                     Z5 A9+ A2.2 S4 
+0000062 030  VVN     started                  T2+ E5- E3- 
+0000062 040  AT1     a                        Z5 
+0000062 050  NN1     process                  A1.1.1 X4.2 
+0000062 060  IO      of                       Z5 
+0000062 070  NN2     negotiations             Q2.2 
+0000062 080  IW      with                     Z5 
+0000062 090  NP1     Turkey                   Z2 
+0000062 100  IF      for                      Z5 
+0000062 110  NN1     membership               S5+c P1 
+0000062 111  ,       ,                        
+0000062 112  "       "                        
+0000062 113  NULL    </quote>                 
+0000062 114  -----   -----                    
+0000062 120  PPHS1   he                       Z8m 
+0000062 130  VVD     said                     Q2.1 
+0000062 131  ,       ,                        
+0000062 140  AT1     a                        Z5 
+0000062 150  NN1     reference                Q2.2 Q1.2 
+0000062 160  II      to                       Z5 
+0000062 170  NN2     calls                    Q2.2 S1.1.1 Q1.3 X7+ S9% 
+0000062 180  II      by                       Z5 
+0000062 190  JJ      ruling                   S7.1+ 
+0000062 200  NN2     conservatives            G1.2/S2mf A2.1-/S2mf 
+0000062 210  II      in                       Z5 
+0000062 220  NP1     France                   Z2 Z1mf 
+0000062 230  CC      and                      Z5 
+0000062 240  NP1     Germany                  Z2 
+0000062 250  CST     that                     Z5 Z8 
+0000062 260  NP1     Ankara                   Z2 
+0000062 270  VM      should                   S6+ A7+ 
+0000062 280  VBI     be                       Z5 A3+ 
+0000062 290  VVN     offered                  A9- Q2.2 
+0000062 300  JJ      privileged               A5.1+ A10- 
+0000062 310  NN2     ties                     B5 O2 S5+ S6+ A1.7+ K5.1/S7.3+ 
+0000062 320  JJ      short                    N5-[i24.2.1 T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
+0000062 330  IO      of                       N5-[i24.2.2 Z5 
+0000062 340  JJ      actual                   A5.4+ A14 
+0000062 350  NN1     membership               S5+c P1 
+0000062 351  .       .                        
+0000065 001  NULL    **8;7;text               

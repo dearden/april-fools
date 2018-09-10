@@ -1,0 +1,783 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN1     Draxis                   Z99 
+0000002 020  NN1     Health                   B2 X9.2 
+0000002 030  JJ      Inc.                     I2.1 
+0000002 040  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 050  VVN     struck                   I3.1 E3- A1.1.1 A11.2+ A8 E2+ X3.2 A9+ 
+0000002 060  AT1     a                        Z5 
+0000002 070  FO      US$255-million           Z99 
+0000002 080  JJ      friendly                 S1.2.1+ S7.3-/K5.2 
+0000002 090  NN1     deal                     N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
+0000002 100  TO      to                       Z5 
+0000002 110  VBI     be                       Z5 A3+ 
+0000002 120  VVN     taken                    S7.1+/A2.1[i1.2.1 M2[i1.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000002 130  RP      over                     S7.1+/A2.1[i1.2.2 M2[i1.2.2 T2- M6 
+0000002 140  II      by                       Z5 
+0000002 150  JJ      Jubilant                 E4.1+++ 
+0000002 160  NN2     Organosys                Z99 
+0000002 170  JJ      Ltd.                     I2.1 
+0000002 171  ,       ,                        
+0000002 180  AT1     a                        Z5 
+0000002 190  RR      publicly                 A10+ 
+0000002 200  VVN     traded                   I2.2 
+0000002 210  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000002 220  II      from                     Z5 
+0000002 230  NP1     India                    Z2 
+0000002 240  DD1     that                     Z8 Z5 
+0000002 250  VBZ     is                       Z5 A3+ 
+0000002 260  VVG     offering                 A9- Q2.2 
+0000002 270  FO      US$6                     Z99 
+0000002 280  II      per                      Z5 
+0000002 290  NN1     share                    S1.1.2+ I1.1 
+0000002 300  IF      for                      Z5 
+0000002 310  AT      the                      Z5 
+0000002 320  JJ      Canadian                 Z2 
+0000002 330  NN1     drug                     B3 F3 
+0000002 340  NN1     producer                 K4/S7.1+/S2mf A1.1.1/S2mf 
+0000002 341  .       .                        
+0000002 342  -----   -----                    
+0000002 350  AT      The                      Z5 
+0000002 360  NN1     deal                     N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
+0000002 361  ,       ,                        
+0000002 370  VVD     announced                Q2.2 
+0000002 380  NPD1    Friday                   T1.3 
+0000002 381  ,       ,                        
+0000002 390  VBZ     is                       A3+ Z5 
+0000002 400  AT      the                      Z5 
+0000002 410  MD      second                   N4 
+0000002 420  NN1     takeover                 S7.1+ 
+0000002 430  IO      of                       Z5 
+0000002 440  AT1     a                        Z5 
+0000002 450  JJ      well-known               X2.2+ A11.1+ 
+0000002 460  JJ      Canadian                 Z2 
+0000002 470  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000002 480  II      by                       Z5 
+0000002 490  AT1     an                       Z5 
+0000002 500  JJ      Indian                   Z2 
+0000002 510  NN1     firm                     I2.1/S5+c 
+0000002 520  CSA     as                       Z5 
+0000002 530  NN2     corporations             I2.1/S5c G1.1c 
+0000002 540  II      in                       Z5 
+0000002 550  AT      the                      Z5 
+0000002 560  JJ      fast-growing             N3.2+/A2.1/N3.8+ A5.1+/A2.1/N3.8+ 
+0000002 570  JJ      Indian                   Z2 
+0000002 580  NN1     economy                  I2.1 I1.3- 
+0000002 590  NN1     flex                     O3 M1 
+0000002 600  APPGE   their                    Z8 
+0000002 610  NN1     expansion                B1[i2.2.1 N3.2+/A2.1 A4.2-/A2.1 
+0000002 620  NN2     muscles                  B1[i2.2.2 B1 
+0000002 630  CC      and                      Z5 
+0000002 640  VV0     look                     A8 X3.4 X2.4 X7+ Z4 
+0000002 650  II      beyond                   Z5 
+0000002 660  NP1     Asia                     Z2 
+0000002 670  TO      to                       Z5 
+0000002 680  VVI     grow                     N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000002 690  APPGE   their                    Z8 
+0000002 700  JJ      international            M7 
+0000002 710  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000002 711  .       .                        
+0000002 712  -----   -----                    
+0000002 720  MD      Last                     T1.1.1[i4.2.1 N4 T1.3[i3.2.1 P1/S2mf[i3.2.1 
+0000002 730  NNT1    year                     T1.1.1[i4.2.2 T1.3 P1c T1.3[i3.2.2 P1/S2mf[i3.2.2 
+0000002 731  ,       ,                        
+0000002 740  NP1     Algoma                   Z1mf[i5.2.1 Z3c[i5.2.1 
+0000002 750  NP1     Steel                    Z1mf[i5.2.2 Z3c[i5.2.2 
+0000002 760  VBDZ    was                      Z5 A3+ 
+0000002 770  VVN     bought                   I2.2 
+0000002 780  II      by                       Z5 
+0000002 790  NP1     India                    Z2 
+0000002 791  GE      's                       Z5 
+0000002 800  NN1     Essar                    Z99 
+0000002 810  NN1     Steel                    O1.1 O2 S1.2.5+ O4.3 
+0000002 820  IF      for                      Z5 
+0000002 830  NNU     $1.85                    I1.2/Z99[i6.2.1 
+0000002 840  NNO     billion                  I1.2/Z99[i6.2.2 N1 I1 
+0000002 841  ,       ,                        
+0000002 850  VVG     continuing               T2++ 
+0000002 860  AT1     a                        Z5 
+0000002 870  NN1     wave                     W3/M4 O4.4 Q1.1 Y1 N5 
+0000002 880  IO      of                       Z5 
+0000002 890  NN1     consolidation            A7+/A2.1 S5+ 
+0000002 900  CST     that                     Z8 Z5 
+0000002 910  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 920  VVN     left                     M1 M2 A1.1.1 A1.9 A9- N5.2+ T2- 
+0000002 930  AT      the                      Z5 
+0000002 940  JJ      Canadian                 Z2 
+0000002 950  NN1     steel                    O1.1c[i7.2.1 O1.1 O2 S1.2.5+ O4.3 
+0000002 960  NN1     sector                   O1.1c[i7.2.2 A4.1 S5+ M7 N2@ 
+0000002 970  II      in                       Z5 
+0000002 980  JJ      foreign                  M7 
+0000002 990  NN2     hands                    B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000002 991  .       .                        
+0000002 992  -----   -----                    
+0000002 000  JJ      Indian                   Z2 
+0000002 010  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000002 020  VH0     have                     Z5 A9+ A2.2 S4 
+0000002 030  RR      also                     N5++ 
+0000002 040  VBN     been                     Z5 A3+ 
+0000002 050  VVN@    said                     Q2.1 
+0000002 060  TO      to                       Z5 
+0000002 070  VBI     be                       Z5 A3+ 
+0000002 080  VVG     examining                X2.4 B3 P1 
+0000002 090  CSW     whether                  Z5 
+0000002 100  TO      to                       Z5 
+0000002 110  VVI     invest                   I1.1 
+0000002 120  II      in                       Z5 
+0000002 130  NN2     oilsands                 Z99 
+0000002 140  NN2     properties               H1 O4.1 
+0000002 150  II      in                       Z5 
+0000002 160  JJ      northern                 Z2[i8.2.1 M6 
+0000002 170  NP1     Alberta                  Z2[i8.2.2 
+0000002 171  .       .                        
+0000002 172  -----   -----                    
+0000002 180  AT      The                      Z5 
+0000002 190  JJ      proposed                 Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
+0000002 200  NN1     acquisition              A9+ 
+0000002 210  IO      of                       Z5 
+0000002 220  NP1     Draxis                   Z99 
+0000002 221  (       (                        
+0000002 230  NP1     TSX                      Z99 
+0000002 231  :       :                        
+0000002 240  NN1     DAX                      Z99 
+0000002 241  )       )                        
+0000002 250  VVZ     represents               Q1.1 A6.2+ S1.1.3 A5.4- K4 
+0000002 260  AT1     a                        Z5 
+0000002 270  MC      22.4                     N5[i9.3.1 N1 T1.2 T3 T1.3 N3.2 
+0000002 280  NNU21   per                      N5[i9.3.2 N5[i10.2.1 
+0000002 290  NNU22   cent                     N5[i9.3.3 I1 N5[i10.2.2 
+0000002 300  NN1     premium                  I1.1 I1.3 A11.1+ 
+0000002 310  II      over                     Z5 
+0000002 320  NPD1    Thursday                 T1.3 
+0000002 321  GE      's                       Z5 
+0000002 330  JJ      closing                  A1.1.1 A10- T2- 
+0000002 340  NN1     price                    I1.3 
+0000002 350  IF      for                      Z5 
+0000002 360  AT      the                      Z5 
+0000002 370  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000002 371  ,       ,                        
+0000002 380  DDQ     which                    Z8 Z5 
+0000002 390  VHZ     has                      A9+ Z5 A2.2 S4 
+0000002 400  AT1     a                        Z5 
+0000002 410  JJ      generic                  A4.2- 
+0000002 420  NN1     version                  A4.1 Q2.1 
+0000002 430  IO      of                       Z5 
+0000002 440  NN1     Cardiolite               Z99 
+0000002 441  ,       ,                        
+0000002 450  AT1     a                        Z5 
+0000002 460  RR      commonly                 A6.2+ 
+0000002 470  JJ      used                     A1.5.1 T3+ 
+0000002 480  NN1     drug                     B3 F3 
+0000002 490  IF      for                      Z5 
+0000002 500  JJ      nuclear                  Y1 B1 S5+% 
+0000002 510  NN1     medicine                 B3 
+0000002 520  NN1     imaging                  C1/Y2 X2.1/B3 
+0000002 521  .       .                        
+0000002 522  -----   -----                    
+0000002 530  PPH1    It                       Z8 
+0000002 540  VHD     had                      Z5 A9+ A2.2 S4 
+0000002 550  VVN     acknowledged             Q2.2 
+0000002 560  MD      last                     T1.1.1[i11.2.1 N4 
+0000002 570  NNT1    month                    T1.1.1[i11.2.2 T1.3 
+0000002 580  CST     that                     Z8 Z5 
+0000002 590  PPH1    it                       Z8 
+0000002 600  VBDZ    was                      A3+ Z5 
+0000002 610  II      in                       Z5 
+0000002 620  NN2     talks                    Q2.1 
+0000002 630  IW      with                     Z5 
+0000002 640  AT1     a                        Z5 
+0000002 650  JJ      potential                A7+ 
+0000002 660  NN1     buyer                    I2.2/S2mf 
+0000002 661  .       .                        
+0000002 662  NULL    <quote>                  
+0000002 663  -----   -----                    
+0000002 664  "       "                        
+0000002 670  NP1     Draxis                   Z99 
+0000002 680  VVZ     represents               Q1.1 A6.2+ S1.1.3 A5.4- K4 
+0000002 690  AT1     a                        Z5 
+0000002 700  JJ      unique                   N5--- 
+0000002 710  NN1     opportunity              A1.4 
+0000002 720  II      in                       Z5 
+0000002 730  AT      the                      Z5 
+0000002 740  NP1     North                    M6 
+0000002 750  JJ      American                 Z2 
+0000002 760  NN1     market                   I2.2 I2.2/H1 
+0000002 761  ,       ,                        
+0000002 770  VVG     offering                 A9- Q2.2 
+0000002 780  JJ      Jubilant                 E4.1+++ 
+0000002 790  NN1     entry                    M7 Q1.2 S7.3 M1 T2+ 
+0000002 800  II      into                     Z5 
+0000002 810  AT      the                      Z5 
+0000002 820  JJ      attractive               O4.2+ S3.2 
+0000002 821  ,       ,                        
+0000002 830  VVD     regulated                A1.7+/G1.1 A1.1.1 
+0000002 831  ,       ,                        
+0000002 840  JJ      high                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000002 850  NN1     growth                   N3.2+/A2.1 A5.1+/A2.1 L3 B2- 
+0000002 860  CC      and                      Z5 
+0000002 870  JJ      high                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000002 880  NN1     margin                   N5 Q1.2 N5.2+ M7 A6.2- 
+0000002 890  JJ      radiopharmaceutical      Z99 
+0000002 900  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000002 901  ,       ,                        
+0000002 902  "       "                        
+0000002 903  NULL    </quote>                 
+0000002 904  -----   -----                    
+0000002 910  VV0     Shyam                    Z99 
+0000002 920  NP1     Bhartia                  Z99 
+0000002 921  ,       ,                        
+0000002 930  NN1     chairman                 S7.1+/S2mf 
+0000002 940  CC      and                      Z5 
+0000002 950  JJ      managing                 S7.1+/S2mf[i13.2.1 S7.1+ A1.1.1 X9.2+ S7.1+/S2mf[i12.2.1 
+0000002 960  NN1     director                 S7.1+/S2mf[i13.2.2 S7.1+/S2mf K4/S2mf S7.1+/S2mf[i12.2.2 
+0000002 970  IO      of                       Z5 
+0000002 980  AT      the                      Z5 
+0000002 990  JJ      Indian                   Z2 
+0000002 000  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000002 001  ,       ,                        
+0000002 010  VVD     said                     Q2.1 
+0000002 020  II      in                       Z5 
+0000002 030  AT1     a                        Z5 
+0000002 040  NN1     release                  A1.7- A9- I2.2 K3 Q4 E6+ 
+0000002 041  .       .                        
+0000004 001  NULL    <quote>                  
+0000004 002  -----   -----                    
+0000004 003  "       "                        
+0000004 010  PPH1    It                       Z8 
+0000004 020  RR      also                     N5++ 
+0000004 030  VVZ     enables                  S8+ 
+0000004 040  JJ      Jubilant                 E4.1+++ 
+0000004 050  TO      to                       Z5 
+0000004 060  VVI     consolidate              A7+/A2.1 S5+ 
+0000004 070  APPGE   its                      Z8 
+0000004 080  NN1     position                 M6 M7 S7.1 I3.1 N4 S1.1.1 A1.1.1 K5.1% 
+0000004 090  II      in                       Z5 
+0000004 100  AT      the                      Z5 
+0000004 110  JJ      sterile                  B4 B2-/S4 X5.2- 
+0000004 120  CC      and                      Z5 
+0000004 130  JJ      non-sterile              Z99 
+0000004 140  NN1     contract                 I2.1 G2.1 
+0000004 150  NN1     manufacturing            A1.1.1 
+0000004 160  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000004 161  .       .                        
+0000004 162  -----   -----                    
+0000004 170  IW      With                     Z5 
+0000004 180  DD1     this                     M6 Z5 Z8 
+0000004 190  NN1     acquisition              A9+ 
+0000004 200  JJ      Jubilant                 E4.1+++ 
+0000004 210  VM      will                     T1.1.3 
+0000004 220  VVI     become                   A2.1+ O4.2+ 
+0000004 230  MC1     one                      N1 T3 T1.2 
+0000004 240  IO      of                       Z5 
+0000004 250  AT      the                      Z5 
+0000004 260  JJ      leading                  S7.1+ A11.1+ A2.2 M2 A1.1.1 
+0000004 270  NN2     providers                A9-/S2mf 
+0000004 280  IO      of                       Z5 
+0000004 290  NN1     contract                 I2.1 G2.1 
+0000004 300  NN1     manufacturing            A1.1.1 
+0000004 310  IO      of                       Z5 
+0000004 320  JJ      small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
+0000004 330  NN1     volume                   N3.4 N5 Q4.1 Q4.2 X3.2 
+0000004 340  NN2     parenterals              B1 
+0000004 350  II      to                       Z5 
+0000004 360  JJ      large                    N3.2+ N5+ A11.1+ 
+0000004 370  NN2     pharmaceuticals          B3 
+0000004 380  CC      and                      Z5 
+0000004 390  VV0     biotech                  Y1/L1 Y1/B3 
+0000004 400  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000004 410  II      in                       Z5 
+0000004 420  ND1     North                    Z2[i15.2.1 M6 Z2[i14.2.1 
+0000004 430  NP1     America                  Z2[i15.2.2 Z2 Z2[i14.2.2 
+0000004 431  .       .                        
+0000004 432  -----   -----                    
+0000004 440  NN1     Draxis                   Z99 
+0000004 450  VHZ     has                      A9+ Z5 A2.2 S4 
+0000004 460  AT1     an                       Z5 
+0000004 470  JJ      excellent                A5.1+++ 
+0000004 480  JJ      regulatory               A1.7-/G1.1 
+0000004 490  NN1     track                    X9.2+/T1.1.1[i16.2.1 M3 O2 K3 A4.1 X4.1 K5.1/M7 
+0000004 500  NN1     record                   X9.2+/T1.1.1[i16.2.2 Q1.2 K3 T1.1.1 A5.1+++ 
+0000004 501  ,       ,                        
+0000004 510  IW      with                     Z5 
+0000004 520  APPGE   its                      Z8 
+0000004 530  NN1     management               S7.1+c 
+0000004 540  CC      and                      Z5 
+0000004 550  NN2     employees                I3.1/S2mf 
+0000004 560  VHG     having                   A9+ Z5 A2.2 S4 
+0000004 570  AT1     a                        Z5 
+0000004 580  NN1     wealth                   I1.1+ 
+0000004 590  IO      of                       Z5 
+0000004 600  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
+0000004 610  CC      and                      Z5 
+0000004 620  NN1     expertise                X2.2+ X9.1+ 
+0000004 630  II      in                       Z5 
+0000004 640  NN2     radiopharmaceuticals     Z99 
+0000004 650  CC      and                      Z5 
+0000004 660  NN1     contract                 I2.1 G2.1 
+0000004 670  NN1     manufacturing            A1.1.1 
+0000004 671  .       .                        
+0000004 672  "       "                        
+0000004 673  NULL    </quote>                 
+0000004 674  -----   -----                    
+0000004 680  JJ      Jubilant                 E4.1+++ 
+0000004 690  VBZ     is                       Z5 A3+ 
+0000004 700  VVN     committed                A1.1.1 S6+ A1.7+/G2.1 
+0000004 710  TO      to                       Z5 
+0000004 720  VVI     grow                     N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000004 730  NN1     Draxis                   Z99 
+0000004 740  II      by                       Z5 
+0000004 750  JJ      supporting               S8+ A1.1.1 K5.1 I1.1 A10+ 
+0000004 760  NN1     management               S7.1+c 
+0000004 770  CC      and                      Z5 
+0000004 780  NN2     employees                I3.1/S2mf 
+0000004 790  II      through                  Z5 
+0000004 800  JJ      new                      T3- 
+0000004 810  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000004 820  NN2     launches                 M4fn M5 T2+ 
+0000004 821  ,       ,                        
+0000004 830  NN1     entry                    M7 Q1.2 S7.3 M1 T2+ 
+0000004 840  II      into                     Z5 
+0000004 850  JJ      new                      T3- 
+0000004 860  NN2     markets                  I2.2 I2.2/H1 
+0000004 870  CC      and                      Z5 
+0000004 880  NN1     expansion                N3.2+/A2.1 A4.2-/A2.1 
+0000004 890  IO      of                       Z5 
+0000004 900  NN1     customer                 I2.2/S5+c[i17.2.1 I2.2/S2mf 
+0000004 910  NN1     base                     I2.2/S5+c[i17.2.2 M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000004 911  .       .                        
+0000004 912  NULL    <quote>                  
+0000004 913  -----   -----                    
+0000004 914  "       "                        
+0000004 920  JJ      Jubilant                 E4.1+++ 
+0000004 930  NN2     Organosys                Z99 
+0000004 940  VBZ     is                       A3+ Z5 
+0000004 950  AT1     an                       Z5 
+0000004 960  JJ      integrated               A1.8+ S5+ A2.2 N2% 
+0000004 970  JJ      pharmaceutical           B3 
+0000004 980  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000004 981  ,       ,                        
+0000004 990  JJ      involved                 A1.8+ A12- X5.2+ 
+0000004 000  II      in                       Z5 
+0000004 010  NN1     research                 X2.4 
+0000004 011  ,       ,                        
+0000004 020  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000004 030  CC      and                      Z5 
+0000004 040  NN1     manufacturing            A1.1.1 
+0000004 041  .       .                        
+0000004 042  -----   -----                    
+0000004 050  II31    In                       N5++[i18.3.1 Z5 
+0000004 060  II32    addition                 N5++[i18.3.2 
+0000004 070  II33    to                       N5++[i18.3.3 Z5 
+0000004 080  DA2     several                  N5 
+0000004 090  NN2     locations                M7 
+0000004 100  II      in                       Z5 
+0000004 110  NP1     India                    Z2 
+0000004 111  ,       ,                        
+0000004 120  PPH1    it                       Z8 
+0000004 130  VHZ     has                      A9+ Z5 A2.2 S4 
+0000004 140  MC      two                      N1 T3 T1.2 
+0000004 150  II      in                       Z5 
+0000004 160  AT      the                      Z5 
+0000004 170  NP1     United                   Z2c[i20.2.1 Z3c Z2c[i21.2.1 Z1mf[i19.2.1 Z3c[i19.2.1 
+0000004 180  NP1     States                   Z2[i23.3.1 Z2[i22.3.1 Z2c[i20.2.2 Z2 Z2c[i21.2.2 Z1mf[i19.2.2 Z3c[i19.2.2 
+0000004 190  II      in                       Z2[i23.3.2 Z2[i22.3.2 Z5 
+0000004 200  NP1     Maryland                 Z2[i23.3.3 Z2[i22.3.3 Z2 Z3c 
+0000004 210  CC      and                      Z5 
+0000004 220  NP1     Washington               Z2[i24.2.1 Z3c[i24.2.1 Z2 Z1mf 
+0000004 230  NN1     state                    Z2[i24.2.2 Z3c[i24.2.2 G1.1c O4.1 
+0000004 231  .       .                        
+0000005 001  NULL    </quote>                 
+0000005 002  -----   -----                    
+0000006 010  AT      The                      Z5 
+0000006 020  NN1     Draxis                   Z99 
+0000006 030  NN1     board                    S7.1+/S5+c[i26.3.1 S7.1+/S5+c O2 O1.1 H4 P1 K5.1 S7.1+/S5+c[i25.3.1 
+0000006 040  IO      of                       S7.1+/S5+c[i26.3.2 Z5 S7.1+/S5+c[i25.3.2 
+0000006 050  NN2     directors                S7.1+/S5+c[i26.3.3 S7.1+/S2mf K4/S2mf S7.1+/S5+c[i25.3.3 
+0000006 060  VBZ     is                       Z5 A3+ 
+0000006 070  VVG     recommending             Q2.2 
+0000006 080  CST     that                     Z5 Z8 
+0000006 090  NN2     shareholders             I1.1/S2mf 
+0000006 100  VV0     accept                   A9+ X2.5+ S1.2.1+ S7.4+ 
+0000006 110  AT      the                      Z5 
+0000006 120  NN1     offer                    A9- Q2.2 I1.3- 
+0000006 121  .       .                        
+0000006 122  -----   -----                    
+0000006 130  NN2     Analysts                 Y2/S2mf I2.1/S2mf Y1/S2mf B3/S2mf 
+0000006 140  VBDR    were                     A3+ Z5 
+0000006 150  JJ      quick                    N3.8+ X9.1+ L1+% 
+0000006 160  TO      to                       Z5 
+0000006 170  VVI     say                      Q2.1 Z4% 
+0000006 180  AT      the                      Z5 
+0000006 190  NN1     offering                 A9- Q2.2 
+0000006 200  NN1     price                    I1.3 
+0000006 210  VBDZ    was                      A3+ Z5 
+0000006 220  RR      somewhat                 A13.6 
+0000006 230  II      below                    Z5 
+0000006 240  APPGE   their                    Z8 
+0000006 250  NN1     target                   X7+ G3 K5.1 
+0000006 260  NN2     prices                   I1.3 
+0000006 270  IF      for                      Z5 
+0000006 280  AT1     a                        Z5 
+0000006 290  NN1     takeover                 S7.1+ 
+0000006 300  IO      of                       Z5 
+0000006 310  NP1     Draxis                   Z99 
+0000006 311  ,       ,                        
+0000006 320  CCB     but                      Z5 
+0000006 330  DD1     that                     Z8 Z5 
+0000006 340  PPHS2   they                     Z8mfn 
+0000006 350  VVD     saw                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000006 360  AT1     a                        Z5 
+0000006 370  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000006 380  NN1@    fit                      B2- N3.2/A5.1+ E6- 
+0000006 390  II      between                  Z5 
+0000006 400  AT      the                      Z5 
+0000006 410  MC      two                      N1 T3 T1.2 
+0000006 420  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000006 421  .       .                        
+0000006 422  -----   -----                    
+0000006 430  NP1@    Desjardins               Z99 
+0000006 440  NN2     Securities               G2.1 A15+ E6+ I1.1 
+0000006 450  NN1     analyst                  Y2/S2mf I2.1/S2mf Y1/S2mf B3/S2mf 
+0000006 460  NP1     Maher                    Z1mf[i27.2.1 Z3c[i27.2.1 
+0000006 470  NP1     Yaghi                    Z1mf[i27.2.2 Z3c[i27.2.2 
+0000006 480  VVD     wrote                    Q1.2 I2.1 
+0000006 490  NPD1    Friday                   T1.3 
+0000006 500  CST     that                     Z5 Z8 
+0000006 510  DD1     that                     Z8 Z5 
+0000006 511  ,       ,                        
+0000006 520  II      by                       Z5 
+0000006 530  APPGE   his                      Z8m 
+0000006 540  NN2     calculations             N2 X2.4 
+0000006 541  ,       ,                        
+0000006 550  NP1     Draxis                   Z99 
+0000006 560  VM      could                    A7+ 
+0000006 570  VBI     be                       Z5 A3+ 
+0000006 580  VVN     valued                   A11.1+ I1.3 
+0000006 590  II      at                       Z5 
+0000006 600  II      about                    Z5 
+0000006 610  FO      US$6.60                  Z99 
+0000006 620  II      per                      Z5 
+0000006 630  NN1     share                    S1.1.2+ I1.1 
+0000006 640  CS      if                       Z7 
+0000006 650  AT      the                      Z5 
+0000006 660  JJ      various                  A6.3+ 
+0000006 670  NN2     parts                    N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000006 680  IO      of                       Z5 
+0000006 690  APPGE   its                      Z8 
+0000006 700  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000006 710  VBDR    were                     Z5 A3+ 
+0000006 720  VVN     considered               X2.1 X2.4 X6 
+0000006 730  RR      separately               A6.1- 
+0000006 731  .       .                        
+0000006 732  NULL    <quote>                  
+0000006 733  -----   -----                    
+0000006 734  "       "                        
+0000006 740  CS      While                    Z5 
+0000006 750  JJ      Jubilant                 E4.1+++ 
+0000006 751  GE      's                       Z5 
+0000006 760  NN1     offer                    A9- Q2.2 I1.3- 
+0000006 770  VBZ     is                       A3+ Z5 
+0000006 780  MC      nine                     T3 N1 T1.2 T1.3 N3.2 
+0000006 790  NNU21   per                      N5[i28.2.1 
+0000006 800  NNU22   cent                     N5[i28.2.2 I1 
+0000006 810  II      below                    Z5 
+0000006 820  APPGE   our                      Z8 
+0000006 830  JJ%     assessed                 X2.4/A5 P1 I1.3 
+0000006 840  NN1     takeout                  Z99 
+0000006 850  NN1     valuation                I1.3 
+0000006 851  ,       ,                        
+0000006 860  PPIS2   we                       Z8 
+0000006 870  VV0     believe                  X2.1 S9% 
+0000006 880  DD1     this                     M6 Z5 Z8 
+0000006 890  NN1     opportunity              A1.4 
+0000006 900  VVZ     provides                 A9- S6+ 
+0000006 910  JJ      fair                     G2.2+ A5.1+ O4.2+ O4.3 W4 N5 
+0000006 920  NN1     value                    A11.1+ I1.3 G2.2 A4.1 N1 
+0000006 930  II      to                       Z5 
+0000006 940  JJ      current                  T1.1.2 
+0000006 950  NN2     investors                I1.1/S2mf 
+0000006 960  RR      regardless               A11.1- E6+ 
+0000006 961  ,       ,                        
+0000006 970  VVN     given                    A9- A1.1.1 
+0000006 980  AT      the                      Z5 
+0000006 990  NN2     risks                    A15- A1.4 
+0000006 000  JJ      involved                 A1.8+ A12- X5.2+ 
+0000006 010  IW      with                     Z5 
+0000006 020  AT      the                      Z5 
+0000006 030  NN1     approval                 S7.4+ E2+ G1.1 
+0000006 040  CC      and                      Z5 
+0000006 050  NN1     launch                   M4fn M5 T2+ 
+0000006 060  IO      of                       Z5 
+0000006 070  JJ      generic                  A4.2- 
+0000006 080  NN2     sestamibi                Z99 
+0000006 081  (       (                        
+0000006 090  NN1     Cardiolite               Z99 
+0000006 091  )       )                        
+0000006 100  II      in                       Z5 
+0000006 110  AT      the                      Z5 
+0000006 120  NP1     U.S.                     Z8 
+0000006 130  CC      and                      Z5 
+0000006 140  AT      the                      Z5 
+0000006 150  JJ      potential                A7+ 
+0000006 160  NN1     volatility               A2.1+ S1.2 O4.1 
+0000006 170  II      in                       Z5 
+0000006 180  NP1     Draxis                   Z1mf[i29.2.1 Z3c[i29.2.1 
+0000006 190  NP1     Pharma                   Z1mf[i29.2.2 Z3c[i29.2.2 
+0000006 191  GE      's                       Z5 
+0000006 200  NN1     base                     M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000006 210  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000006 220  II      considering              Z5 
+0000006 230  AT1     a                        Z5 
+0000006 240  JJ      possible                 A7+ 
+0000006 250  NN1     phase-out                Z99 
+0000006 260  II      in                       Z5 
+0000006 270  MC      2009                     N1 T1.2 T3 T1.3 N3.2 
+0000006 280  IO      of                       Z5 
+0000006 290  NP1     Hectorol                 Z99 
+0000006 291  ,       ,                        
+0000006 300  RR      currently                T1.1.2 
+0000006 310  AT      the                      Z5 
+0000006 320  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000006 321  GE      's                       Z5 
+0000006 330  JJT     greatest                 A5.1+++ A11.1+++ N3.2+++ N5+++ X5.2+++ 
+0000006 340  NN1     revenue                  G1.1/I1 I1.1+ Z3c 
+0000006 350  NN1     contributor              A9-/S2mf Q4.1/S2mf 
+0000006 351  .       .                        
+0000006 352  "       "                        
+0000006 353  NULL    </quote>                 
+0000006 354  -----   -----                    
+0000006 360  NN1     Hectorol                 Z99 
+0000006 370  VBZ     is                       Z5 A3+ 
+0000006 380  VVN     used                     T1.1.1[i30.2.1 A6.2+[i30.2.1 A1.5.1 S7.1+ 
+0000006 390  TO      to                       T1.1.1[i30.2.2 A6.2+[i30.2.2 Z5 
+0000006 400  VVI     treat                    S1.1.1 A9- X4.2 X2.1 B3 A1.1.1 
+0000006 410  NN2     patients                 B2-/S2mf 
+0000006 420  IW      with                     Z5 
+0000006 430  NN1     kidney                   B2-[i31.2.1 B1 F1 
+0000006 440  NN1     disease                  B2-[i31.2.2 B2- 
+0000006 441  .       .                        
+0000006 442  -----   -----                    
+0000006 450  II      In                       Z5 
+0000006 460  APPGE   its                      Z8 
+0000006 470  RGT     most                     A13.2 
+0000006 480  JJ      recent                   T3- 
+0000006 490  JJ      financial                I1 
+0000006 500  NN1     report                   Q2.2 X3.2 
+0000006 501  ,       ,                        
+0000006 510  NP1     Draxis                   Z99 
+0000006 520  VVD     said                     Q2.1 
+0000006 530  NP1     Hectorol                 Z99 
+0000006 540  NN1     production               A1.1.1 A10+ K4 K3 Q4.3 
+0000006 550  NN2     volumes                  N3.4 N5 Q4.1 Q4.2 X3.2 
+0000006 560  II      in                       Z5 
+0000006 570  MD      last                     T1.1.1[i33.2.1 N4 T1.3[i32.2.1 P1/S2mf[i32.2.1 
+0000006 580  NNT1    year                     T1.1.1[i33.2.2 T1.3 P1c T1.3[i32.2.2 P1/S2mf[i32.2.2 
+0000006 590  VBDR    were                     A3+ Z5 
+0000006 600  NNU     $9                       Z99/H1c[i34.2.1 
+0000006 610  NNO     million                  Z99/H1c[i34.2.2 N1 I1 
+0000006 620  JJR     lower                    M6 N3.7-- N5-- I1.3-- A5.1-- A11.1-- E4.1-- X3.2-- G2.2-- S7.1-- 
+0000006 630  CSN     than                     Z5 
+0000006 640  PPHS2   they                     Z8mfn 
+0000006 650  VBDR    were                     A3+ Z5 
+0000006 660  II      in                       Z5 
+0000006 670  MC      2006                     N1 T1.2 T3 T1.3 N3.2 
+0000006 680  CC      and                      Z5 
+0000006 690  RR      significantly            A11.1+ 
+0000006 700  JJR     lower                    M6 N3.7-- N5-- I1.3-- A5.1-- A11.1-- E4.1-- X3.2-- G2.2-- S7.1-- 
+0000006 710  CSN     than                     Z5 
+0000006 720  DDQ     what                     Z8 Z5 
+0000006 730  VBDZ    was                      Z5 A3+ 
+0000006 740  RR      originally               T1.1.1 
+0000006 750  VVN     forecasted               Q2.2/T1.1.3 X2.6+ 
+0000006 760  IF      for                      Z5 
+0000006 770  MC      2007                     N1 T1.2 T3 T1.3 N3.2 
+0000006 771  .       .                        
+0000006 772  -----   -----                    
+0000006 780  NN2     Yaghi                    Z99 
+0000006 790  VVD     wrote                    Q1.2 I2.1 
+0000006 800  DD1     that                     Z5 Z8 
+0000006 810  NN1     Draxis                   Z99 
+0000006 820  VM      could                    A7+ 
+0000006 830  VVI     opt                      S1.1.3-[i35.2.1 X7+ 
+0000006 840  II21    out                      S1.1.3-[i35.2.2 Z5 Z5[i36.2.1 Z5[i37.2.1 A9-[i37.2.1 
+0000006 850  II22    of                       Z5 Z5[i36.2.2 Z5[i37.2.2 A9-[i37.2.2 
+0000006 860  APPGE   its                      Z8 
+0000006 870  NN1     agreement                A6.1+ Q2.2 
+0000006 880  IW      with                     Z5 
+0000006 890  JJ      Jubilant                 E4.1+++ 
+0000006 900  II      after                    Z5 
+0000006 910  VVG     paying                   I1.2 A9- I1.1/I3.1 
+0000006 920  AT1     a                        Z5 
+0000006 930  NN1     break                    K1/T1.3 T2- O2 A1.4 A1.1.2 
+0000006 940  NN1     fee                      I1.3 I1 
+0000006 950  IO      of                       Z5 
+0000006 960  FO      US$10.5                  Z99 
+0000006 970  NNO     million                  N1 I1 
+0000006 980  CCB     but                      Z5 
+0000006 981  NULL    <quote>                  
+0000006 982  -----   -----                    
+0000006 983  "       "                        
+0000006 990  PPIS2   we                       Z8 
+0000006 000  VV0     believe                  X2.1 S9% 
+0000006 010  PPH1    it                       Z8 
+0000006 020  VBZ     is                       A3+ Z5 
+0000006 030  JJ      unlikely                 A7- 
+0000006 040  CST     that                     Z5 Z8 
+0000006 050  DD1     another                  A6.1- N5++ 
+0000006 060  JJ      potential                A7+ 
+0000006 070  NN1     buyer                    I2.2/S2mf 
+0000006 080  VM      would                    A7+ 
+0000006 090  VVI     emerge                   M1 A10+ A1.1.1 
+0000006 100  RR      immediately              N3.8+ T1.1.2/A11.1+ N4 
+0000006 110  TO      to                       Z5 
+0000006 120  VVI     provide                  A9- S6+ 
+0000006 130  AT1     a                        Z5 
+0000006 140  JJ      superior                 A5.1++ S7.1++ 
+0000006 150  NN1     counter                  H5/I2.2 H5 N2/O2 
+0000006 160  NN1     bid                      I2.2 
+0000006 161  .       .                        
+0000006 162  "       "                        
+0000006 163  NULL    </quote>                 
+0000006 164  -----   -----                    
+0000006 170  NP1     Doug                     Z1mf[i38.2.1 Z3c[i38.2.1 Z1m 
+0000006 180  NP1     Loe                      Z1mf[i38.2.2 Z3c[i38.2.2 
+0000006 181  ,       ,                        
+0000006 190  AT1     an                       Z5 
+0000006 200  NN1     analyst                  Y2/S2mf I2.1/S2mf Y1/S2mf B3/S2mf 
+0000006 210  IW      with                     Z5 
+0000006 220  NP1     Versant                  Z99 
+0000006 230  NN2     Partners                 S3.1/S2mf S3.2/S2mf S4mf 
+0000006 240  JJ      Inc.                     I2.1 
+0000006 241  ,       ,                        
+0000006 250  VVD     said                     Q2.1 
+0000006 260  CST     that                     Z8 Z5 
+0000006 270  CS      while                    Z5 
+0000006 280  AT      the                      Z5 
+0000006 290  NN1     bid                      I2.2 
+0000006 300  IF      for                      Z5 
+0000006 310  NN1     Draxis                   Z99 
+0000006 320  VBZ     is                       A3+ Z5 
+0000006 330  JJ      attractive               O4.2+ S3.2 
+0000006 331  ,       ,                        
+0000006 340  PPH1    it                       Z8 
+0000006 350  VBZ     is                       A3+ Z5 
+0000006 360  II      below                    Z5 
+0000006 370  AT      the                      Z5 
+0000006 380  NN1     broker                   I2.2/S2mf S8+/S2mf 
+0000006 381  GE      's                       Z5 
+0000006 390  MC1     one                      N1 T3 T1.2 
+0000006 400  NNT1    year                     T1.3 P1c 
+0000006 410  NN1     target                   X7+ G3 K5.1 
+0000006 420  IO      of                       Z5 
+0000006 430  NNU     $7.50                    Z99 
+0000006 440  II      per                      Z5 
+0000006 450  NN1     share                    S1.1.2+ I1.1 
+0000006 460  IF      for                      Z5 
+0000006 470  AT      the                      Z5 
+0000006 480  NP1     Toronto                  Z2 
+0000006 490  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000006 491  .       .                        
+0000006 492  NULL    <quote>                  
+0000006 493  -----   -----                    
+0000006 494  "       "                        
+0000006 500  DDQ     What                     Z8 Z5 
+0000006 510  PPIS2   we                       Z8 
+0000006 520  VV0     know                     X2.2+ S3.2/B1% 
+0000006 530  II      about                    Z5 
+0000006 540  JJ      Jubilant                 E4.1+++ 
+0000006 550  II      to                       Z5 
+0000006 560  DD1     this                     M6 Z5 Z8 
+0000006 570  NN1     point                    Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
+0000006 580  VBZ     is                       A3+ Z5 
+0000006 590  CST     that                     Z8 Z5 
+0000006 600  PPH1    it                       Z8 
+0000006 610  VVZ     looks                    A8 X3.4 X2.4 X7+ Z4 
+0000006 620  CS21    as                       Z5[i39.2.1 Z5 
+0000006 630  CS22    though                   Z5[i39.2.2 Z5 
+0000006 640  PPH1    it                       Z8 
+0000006 641  VBZ     's                       A3+ Z5 
+0000006 650  AT1     a                        Z5 
+0000006 660  JJ      pharmaceutical           B3 
+0000006 670  CC      and                      Z5 
+0000006 680  NN2     drugs                    B3 F3 
+0000006 690  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000006 700  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000006 710  CC      and                      Z5 
+0000006 720  JJ      industrial               I4 
+0000006 730  NN2     chemicals                O1 
+0000006 740  VV0%    conglomerate             S5+ N5+ 
+0000006 750  CST     that                     Z8 Z5 
+0000006 760  VM      could                    A7+ 
+0000006 770  RR      effectively              A5.4+ X9.2+ 
+0000006 780  VVI     integrate                A1.8+ S5+ A2.2 N2% 
+0000006 790  NP1     Draxis                   Z99 
+0000006 791  GE      's                       Z5 
+0000006 800  NN2     capabilities             X9.1+ 
+0000006 810  II      in                       Z5 
+0000006 820  NN1     contract                 I2.1 G2.1 
+0000006 830  NN1     manufacturing            A1.1.1 
+0000006 840  CC      and                      Z5 
+0000006 850  JJ      nuclear                  Y1 B1 S5+% 
+0000006 860  NN1     medicine                 B3 
+0000006 861  ,       ,                        
+0000006 862  "       "                        
+0000006 863  NULL    </quote>                 
+0000006 864  -----   -----                    
+0000006 870  NP1@    Loe                      Z99 
+0000006 880  VVD     said                     Q2.1 
+0000006 881  .       .                        
+0000006 882  NULL    <quote>                  
+0000006 883  -----   -----                    
+0000006 884  "       "                        
+0000006 890  DD2     These                    Z8 Z5 
+0000006 900  VBR     are                      A3+ Z5 
+0000006 910  NN2     areas                    M7 A4.1 N3.6 
+0000006 920  IO      of                       Z5 
+0000006 930  APPGE   their                    Z8 
+0000006 940  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000006 950  CST     that                     Z8 Z5 
+0000006 960  VV0     seem                     A8 
+0000006 970  TO      to                       Z5 
+0000006 980  VBI     be                       A3+ Z5 
+0000006 990  JJ      underdeveloped           A5.1- A2.1- I1.1- I4- N3.2- 
+0000006 000  II      in                       A6[i40.3.1 Z5 
+0000006 010  NN1     comparison               A6[i40.3.2 A6.1 
+0000006 020  II      to                       A6[i40.3.3 Z5 
+0000006 030  JJ      other                    A6.1- 
+0000006 040  NN2     parts                    N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000006 050  IO      of                       Z5 
+0000006 060  APPGE   its                      Z8 
+0000006 070  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000006 071  .       .                        
+0000006 072  "       "                        
+0000006 073  NULL    </quote>                 
+0000006 074  -----   -----                    
+0000006 080  II      In                       Z5 
+0000006 090  VVG     trading                  I2.2 
+0000006 100  RT      today                    T1.1.2 
+0000006 110  II      on                       Z5 
+0000006 120  AT      the                      Z5 
+0000006 130  NP1     TSX                      Z99 
+0000006 131  ,       ,                        
+0000006 140  NP1     Draxis                   Z99 
+0000006 150  NN2     shares                   N5.1- I1.1 
+0000006 160  VVD     rose                     M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 
+0000006 170  NNU     $1.01                    Z99 
+0000006 180  II      to                       Z5 
+0000006 190  NNU     $5.95                    Z99 
+0000006 191  ,       ,                        
+0000006 200  AT1     a                        Z5 
+0000006 210  NN1     gain                     A9+ N5+/A2.1 
+0000006 220  IO      of                       Z5 
+0000006 230  MC      20.5                     N5[i41.3.1 N1 T1.2 T3 T1.3 N3.2 
+0000006 240  NNU21   per                      N5[i41.3.2 N5[i42.2.1 
+0000006 250  NNU22   cent                     N5[i41.3.3 I1 N5[i42.2.2 
+0000006 260  II      in                       Z5 
+0000006 270  NN1     trading                  I2.2 
+0000006 280  IO      of                       Z5 
+0000006 290  DAR     more                     N5++ 
+0000006 300  CSN     than                     Z5 
+0000006 310  MC      822,000                  N1 T1.2 T3 T1.3 N3.2 
+0000006 320  NN2     shares                   N5.1- I1.1 
+0000006 321  .       .                        
+0000009 001  NULL    **8;7;text               

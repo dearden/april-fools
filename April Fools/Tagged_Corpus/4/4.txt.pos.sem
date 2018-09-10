@@ -1,0 +1,252 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     Berkshire                Z1mf[i1.2.1 Z3c[i1.2.1 Z2 Z3c 
+0000002 020  NP1     Hathaway                 Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 021  (       (                        
+0000002 030  NN1     NYSE                     Z99 
+0000002 031  :       :                        
+0000002 040  NP1     BRK.A                    Z99 
+0000002 041  )       )                        
+0000002 050  NN1     Chairman                 S7.1+/S2mf 
+0000002 060  NP1     Warren                   Z1mf[i2.2.1 Z3c[i2.2.1 Z1mf 
+0000002 070  NP1     Buffett                  Z1mf[i2.2.2 Z3c[i2.2.2 
+0000002 080  VBZ     is                       M6[i3.2.1 A3+ Z5 
+0000002 090  RP      back                     M6[i3.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000002 100  II      in                       Z5 
+0000002 110  AT1     a                        Z5 
+0000002 120  NN1     buying                   I2.2 
+0000002 130  NN1     mood                     E1 E3- 
+0000002 131  ,       ,                        
+0000002 140  CC      and                      Z5 
+0000002 150  RR      apparently               A8 
+0000002 160  VVZ     prefers                  E2++ 
+0000002 170  NP1     Krispy                   Z1mf[i4.2.1 Z3c[i4.2.1 
+0000002 180  NP1     Kreme                    Z1mf[i4.2.2 Z3c[i4.2.2 
+0000002 181  (       (                        
+0000002 190  NN1     NYSE                     Z99 
+0000002 191  :       :                        
+0000002 200  NP1     KKD                      Z99 
+0000002 201  )       )                        
+0000002 202  .       .                        
+0000003 001  -----   -----                    
+0000004 010  AT      The                      Z5 
+0000004 020  JJ      legendary                X2.2+++ S9/Q2.1 
+0000004 030  NN1     superinvestor            Z99 
+0000004 031  ,       ,                        
+0000004 040  VVN     known                    X2.2+ S3.2/B1% 
+0000004 050  IF      for                      Z5 
+0000004 060  VVG     generating               A2.2 O3 
+0000004 070  JJ      outstanding              A5.1++ A11.2+ I1.2 A1.9 
+0000004 080  NN2     returns                  M1 A9- S1.1.2+ N6+ I1.1 G1.1/Q1.2 M3 G1.2 K5.1 
+0000004 090  II      over                     Z5 
+0000004 100  AT      the                      Z5 
+0000004 110  NNT2    decades                  T1.3 
+0000004 111  ,       ,                        
+0000004 120  VBDZ    was                      Z5 A3+ 
+0000004 130  VVN     spotted                  X3.4 
+0000004 140  MD      last                     T1.1.1[i5.2.1 N4 
+0000004 150  NPD1    Friday                   T1.1.1[i5.2.2 T1.3 
+0000004 160  II      in                       Z5 
+0000004 170  AT      the                      Z5 
+0000004 180  JJ      Krispy                   Z99 
+0000004 190  JJ      Kreme                    Z99 
+0000004 200  NN1     store                    I2.2/H1c A9+ A9+/H1 
+0000004 210  II      on                       Z5 
+0000004 220  MD      120th                    Z2[i6.2.1 N4 T1.3 
+0000004 230  NN1     Street                   Z2[i6.2.2 Z2 
+0000004 240  II      in                       Z5 
+0000004 250  APPGE   his                      Z8m 
+0000004 260  NN1     hometown                 Z99 
+0000004 270  IO      of                       Z5 
+0000004 280  NP1     Omaha                    Z2 
+0000004 281  ,       ,                        
+0000004 290  NP1     Neb                      Z3c 
+0000004 291  .       .                        
+0000004 292  -----   -----                    
+0000004 300  II21    According                Z5[i7.2.1 Z5 
+0000004 310  II22    to                       Z5[i7.2.2 Z5 
+0000004 320  AT1     a                        Z5 
+0000004 330  JJ      Motley                   O4.2- 
+0000004 340  NN1     Fool                     E4.1+/S2mf F1 
+0000004 350  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000004 351  ,       ,                        
+0000004 360  NP1     Buffett                  Z99 
+0000004 370  VVD     ordered                  S7.1+/Q2.2 I2.2/Q2.2 
+0000004 380  MC1     one                      N1 T3 T1.2 
+0000004 390  JJ      hot-glazed               Z99 
+0000004 400  NN1     donut                    Z99 
+0000004 410  IW      with                     Z5 
+0000004 420  NN1     rainbow                  W2/W4 O4.3 
+0000004 430  VVZ     sprinkles                A1.1.1 
+0000004 440  CC      and                      Z5 
+0000004 450  AT1     a                        Z5 
+0000004 460  JJ      small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
+0000004 470  NN1     coffee                   F2 
+0000004 471  ,       ,                        
+0000004 480  RT      then                     N4 Z5 T1.2 
+0000004 490  VVD     took                     A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000004 500  AT1     a                        Z5 
+0000004 510  NN1     load                     N5+ 
+0000004 520  RP      off                      M6 K1 A1.1.1 A1.9 
+0000004 530  II      in                       Z5 
+0000004 540  MC1     one                      N1 T3 T1.2 
+0000004 550  IO      of                       Z5 
+0000004 560  AT      the                      Z5 
+0000004 570  JJ      nearby                   N3.3- 
+0000004 580  NN2     booths                   H1 
+0000004 581  .       .                        
+0000005 001  -----   -----                    
+0000006 010  AT      The                      Z5 
+0000006 020  NN1     purchase                 I2.2 
+0000006 030  VVZ     comes                    M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000006 040  II      as                       Z5 
+0000006 050  AT1     a                        Z5 
+0000006 060  NN1     surprise                 X2.6- 
+0000006 070  II      to                       Z5 
+0000006 080  DA2     many                     N5+ 
+0000006 090  NP1     Buffett                  Z99 
+0000006 100  NN2     watchers                 X2.4/S2mf 
+0000006 101  ,       ,                        
+0000006 110  CSA     as                       Z5 
+0000006 120  AT      the                      Z5 
+0000006 130  NN1     Oracle                   Z3 
+0000006 140  IO      of                       Z5 
+0000006 150  NP1     Omaha                    Z2 
+0000006 160  VHZ     has                      Z5 A9+ A2.2 S4 
+0000006 170  VVN     stated                   Q2.1 
+0000006 180  II      on                       Z5 
+0000006 190  DA2     many                     N5+ 
+0000006 200  NN2     occasions                T1.2 S1.1.1 
+0000006 210  CST     that                     Z5 Z8 
+0000006 220  EX      there                    Z5 
+0000006 230  VBR     are                      A3+ Z5 
+0000006 240  AT      no                       Z6 
+0000006 250  JJ      compelling               A5.2+/A8 
+0000006 260  NN2     values                   A11.1+ I1.3 G2.2 A4.1 N1 
+0000006 270  II      in                       Z5 
+0000006 280  AT      the                      Z5 
+0000006 290  NN1     marketplace              I2.2/M7 I2.2 
+0000006 300  RT      today                    T1.1.2 
+0000006 301  .       .                        
+0000006 302  -----   -----                    
+0000006 310  CC      And                      Z5 
+0000006 320  II      at                       Z5 
+0000006 330  NNU     $0.75                    Z99 
+0000006 340  CC      and                      Z5 
+0000006 350  MC      12                       N1 T1.2 T3 T1.3 N3.2 
+0000006 360  NNU2    grams                    N3.7 
+0000006 370  IO      of                       Z5 
+0000006 380  NN1     fat                      O1 
+0000006 390  II      per                      Z5 
+0000006 400  NN1     donut                    Z99 
+0000006 401  ,       ,                        
+0000006 410  NP1     Krispy                   Z1mf[i8.2.1 Z3c[i8.2.1 
+0000006 420  NP1     Kremes                   Z1mf[i8.2.2 Z3c[i8.2.2 
+0000006 430  VBR     are                      Z5 A3+ 
+0000006 440  VVN     considered               X2.1 X2.4 X6 
+0000006 450  RG      too                      N5.2+ A13.3 
+0000006 460  JJ      rich                     I1.1+ O4.1 N5+ X5.2+ E4.1+ 
+0000006 470  II      by                       Z5 
+0000006 480  DA2     many                     N5+ 
+0000006 490  NN2     experts                  X2.2+/S2mf X9.1+/S2mf 
+0000006 491  .       .                        
+0000007 001  -----   -----                    
+0000008 010  RR      However                  Z4 
+0000008 011  ,       ,                        
+0000008 020  VVG     assuming                 X2.1 A5.4-/A8 
+0000008 030  NN1     inflation                I1.3+ 
+0000008 040  VVZ     continues                T2++ 
+0000008 050  II      at                       Z5 
+0000008 060  APPGE   its                      Z8 
+0000008 070  JJ      current                  T1.1.2 
+0000008 080  JJ      modest                   N3.2- S1.2.3- 
+0000008 090  NN1     pace                     N3.8 N3.3 
+0000008 091  ,       ,                        
+0000008 100  NP1     Krispy                   Z1mf[i9.2.1 Z3c[i9.2.1 
+0000008 110  NP1     Kremes                   Z1mf[i9.2.2 Z3c[i9.2.2 
+0000008 120  VBR     are                      Z5 A3+ 
+0000008 130  VVN     priced                   I1.3 
+0000008 140  II      at                       Z5 
+0000008 150  RR      only                     A14 
+0000008 160  NNU     $0.47                    Z99 
+0000008 170  II      per                      Z5 
+0000008 180  NN1     donut                    Z99 
+0000008 190  II      in                       Z5 
+0000008 200  MC      2021                     I1[i10.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000008 210  NNU2    dollars                  I1[i10.2.2 I1 
+0000008 211  .       .                        
+0000008 212  -----   -----                    
+0000008 220  RR      Therefore                Z5 
+0000008 221  ,       ,                        
+0000008 230  IW      with                     Z5 
+0000008 240  AT1     a                        Z5 
+0000008 250  JJ@     forward                  M6 A5.1+/A2.1 S1.2.3+ T4+ 
+0000008 260  NNU2    dollars-to-donuts        Z99 
+0000008 270  NN1     multiple                 N2 
+0000008 280  IO      of                       Z5 
+0000008 290  MC      15.5                     N1 T1.2 T3 T1.3 N3.2 
+0000008 291  ,       ,                        
+0000008 300  PPH1    it                       Z8 
+0000008 310  VVZ     appears                  A8 A10+ A3+ G2.1 K4 Q4 
+0000008 320  CST     that                     Z5 Z8 
+0000008 330  NP1     Buffett                  Z99 
+0000008 340  RR21    once                     Z4[i11.2.1 N6+[i11.2.1 N6- T1.1.1 
+0000008 350  RR22    again                    Z4[i11.2.2 N6+[i11.2.2 
+0000008 360  VHZ     has                      A9+ Z5 A2.2 S4 
+0000008 370  APPGE   his                      Z8m 
+0000008 380  NN2     shareholders             I1.1/S2mf 
+0000008 381  GE      '                        Z5 
+0000008 390  NN2     eyes                     B1 X3.4 
+0000008 391  NULL    <quote>                  
+0000008 392  -----   -----                    
+0000008 393  "       "                        
+0000008 400  NN1     glazing                  O4.1 F1 H2 
+0000008 401  "       "                        
+0000008 402  NULL    </quote>                 
+0000008 403  -----   -----                    
+0000008 410  RP      over                     T2- M6 
+0000008 420  IW      with                     Z5 
+0000008 430  DD1     another                  A6.1- N5++ 
+0000008 440  JJ      tasty                    X3.1+ X7+/S3.2 
+0000008 450  NN1%    buy                      I2.2 
+0000008 451  .       .                        
+0000009 001  -----   -----                    
+0000010 010  VVN     Asked                    Q2.2 
+0000010 020  II      by                       Z5 
+0000010 030  AT1     a                        Z5 
+0000010 040  NN1     passerby                 Z99 
+0000010 050  DDQ     what                     Z8 Z5 
+0000010 060  VVD     prompted                 A2.2 K4/Q2.2 Q2.2 
+0000010 070  PPHO1   him                      Z8m 
+0000010 080  TO      to                       Z5 
+0000010 090  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000010 100  AT      the                      Z5 
+0000010 110  NN1     purchase                 I2.2 
+0000010 111  ,       ,                        
+0000010 120  NP1     Buffett                  Z99 
+0000010 130  VVD     winked                   O4.1 
+0000010 140  CC      and                      Z5 
+0000010 150  VVD     smiled                   E4.1+ 
+0000010 160  RR      wryly                    Q2.2/S1.2.4- O4.4 
+0000010 161  .       .                        
+0000010 162  NULL    <quote>                  
+0000010 163  -----   -----                    
+0000010 164  "       "                        
+0000010 170  AT1@    A                        Z5 
+0000010 180  NN1     man                      S2.2m 
+0000010 190  VM      can                      A7+ 
+0000010 191  XX      not                      Z6 
+0000010 200  VVI     live                     H4 L1+ A3 
+0000010 210  II      on                       Z5 
+0000010 220  NP1     DQ                       Z99 
+0000010 230  NN2     Blizzards                W4 
+0000010 240  RR      alone                    S5- A14 
+0000010 241  .       .                        
+0000010 242  "       "                        
+0000010 243  NULL    </quote>                 
+0000010 244  -----   -----                    
+0000012 010  NP1     Mmmmmm                   Z4 
+0000012 011  ...     ....                     
+0000012 020  NN2     donuts                   Z99 
+0000012 021  .       .                        
+0000015 001  NULL    **8;7;text               

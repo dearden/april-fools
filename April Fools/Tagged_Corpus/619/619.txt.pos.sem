@@ -1,0 +1,818 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     Murray                   Z1 
+0000002 011  (       (                        
+0000002 020  ZZ1     r                        Z5 
+0000002 021  )       )                        
+0000002 030  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 040  RT      now                      T1.1.2 Z4 
+0000002 050  VVN     won                      S7.1+ A9+ 
+0000002 060  APPGE   his                      Z8m 
+0000002 070  MD      last                     N4 
+0000002 080  MC      three                    N1[i1.2.1 N1 T1.2 T3 
+0000002 090  MD      last                     N1[i1.2.2 N4 
+0000002 100  NN2     matches                  K5.1 O2 A6.1+ 
+0000002 110  II      against                  Z5 
+0000002 120  JJ      Djokovic                 Z99 
+0000004 010  NP1     Andy                     Z1mf[i2.2.1 Z3c[i2.2.1 Z1m 
+0000004 020  NP1     Murray                   Z1mf[i2.2.2 Z3c[i2.2.2 Z1 
+0000004 030  VVD     captured                 A9+ 
+0000004 040  RR      arguably                 Q2.1/A5 
+0000004 050  AT      the                      Z5 
+0000004 060  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
+0000004 070  NN1     title                    Q4 S7.1+ A9+ Q2.2 
+0000004 080  IO      of                       Z5 
+0000004 090  APPGE   his                      Z8m 
+0000004 100  NN1     career                   I3.1 
+0000004 110  II      to                       T1.1.2[i3.2.1 Z5 
+0000004 120  NN1     date                     T1.1.2[i3.2.2 T1.2 S3.2 S3.2/S2mf 
+0000004 130  IW      with                     Z5 
+0000004 140  AT1     a                        Z5 
+0000004 150  NN2     straight-sets            Z99 
+0000004 160  NN1     defeat                   X9.2- 
+0000004 170  IO      of                       Z5 
+0000004 180  NP1     Novak                    Z99 
+0000004 190  NN1     Djokovic                 Z99 
+0000004 200  II      at                       Z5 
+0000004 210  AT      the                      Z5 
+0000004 220  NP1     Sony                     Z1mf[i4.2.1 Z3c[i4.2.1 Z3c 
+0000004 230  NP1     Ericsson                 Z1mf[i4.2.2 Z3c[i4.2.2 Z3c 
+0000004 240  JJ      Open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000004 241  .       .                        
+0000004 242  -----   -----                    
+0000004 250  AT      The                      Z5 
+0000004 260  JJ      British                  Z2 Z2/S2mfnc 
+0000004 270  NN1     number                   A11.1+++[i5.2.1 N5 N1 Q1.3 K2 Q4.2 
+0000004 280  MC1     one                      A11.1+++[i5.2.2 N1 T3 T1.2 
+0000004 290  NN1     beat                     X3.2 K2 M6 M7 
+0000004 300  MD      third                    N4 N5 N1 
+0000004 310  NN1     seed                     L3 T2+ K5.1/S2mf 
+0000004 320  NN1     Djokovic                 Z99 
+0000004 330  MCMC    6-2                      N1 T1.2 T3 T1.3 N3.2 
+0000004 340  MCMC    7-5                      N1 T1.2 T3 T1.3 N3.2 
+0000004 350  II      in                       Z5 
+0000004 360  NP1     Miami                    Z2 Z3c 
+0000004 370  IF      for                      Z5 
+0000004 380  APPGE   his                      Z8m 
+0000004 390  MD      third                    N4 N5 N1 
+0000004 400  NN2     Masters                  S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m X9.1+ 
+0000004 410  VV0@    title                    Q2.2 
+0000004 411  ,       ,                        
+0000004 420  VVG     following                M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4 
+0000004 430  NN2     wins                     X9.2+/S7.3 X9.2+/G3 A9+ 
+0000004 440  II      in                       Z5 
+0000004 450  NP1     Cincinnati               Z99 
+0000004 460  CC      and                      Z5 
+0000004 470  NP1     Madrid                   Z1mf[i6.2.1 Z2 
+0000004 480  MD      last                     Z1mf[i6.2.2 T1.1.1[i8.2.1 N4 T1.3[i7.2.1 P1/S2mf[i7.2.1 
+0000004 490  NNT1    year                     T1.1.1[i8.2.2 T1.3 P1c T1.3[i7.2.2 P1/S2mf[i7.2.2 
+0000004 491  .       .                        
+0000004 492  -----   -----                    
+0000004 500  II      After                    Z5 
+0000004 510  VVG     dominating               S7.1+ A11.1+ A11.2+ 
+0000004 520  AT      the                      Z5 
+0000004 530  MD      first                    N4 
+0000004 540  NN1     set                      T2+[i9.2.1 N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
+0000004 550  II      in                       T2+[i9.2.2 Z5 
+0000004 560  JJ      searing                  N5+ A13.3 
+0000004 570  NN1     heat                     O4.6+ E1 A1.1.1 S7.3 
+0000004 571  ,       ,                        
+0000004 580  NP1     Murray                   Z1 
+0000004 590  VVD     fought                   S8- X8+ E3- G1.2 
+0000004 600  RP      back                     M6 N6+ T1.1.1 S1.1.2+ 
+0000004 610  II      from                     Z5 
+0000004 620  MCMC    5-2                      N1 T1.2 T3 T1.3 N3.2 
+0000004 630  RP      down                     X6+[i10.2.1 A2.2[i10.2.1 M6[i10.2.1 N5.1+[i10.2.1 
+0000004 640  TO      to                       X6+[i10.2.2 A2.2[i10.2.2 M6[i10.2.2 N5.1+[i10.2.2 Z5 
+0000004 650  VVI     clinch                   X6+ 
+0000004 660  AT      the                      Z5 
+0000004 670  NNT1    second                   T1.3 T1.2 
+0000004 671  .       .                        
+0000004 672  -----   -----                    
+0000004 680  AT      The                      Z5 
+0000004 690  NN1     Scot                     Z2/S2mf 
+0000004 700  RT      now                      T1.1.2 Z4 
+0000004 710  VVZ@    heads                    M1[i11.2.1 S7.1+ K5.1 M1 N5 A2.1+ A11.1+ Q1.2 T1.1.3 
+0000004 720  RP      back                     M1[i11.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000004 730  II      to                       Z5 
+0000004 740  NP1     Europe                   Z2 
+0000004 750  IF      for                      Z5 
+0000004 760  AT      the                      Z5 
+0000004 770  NN1     start                    T2+ E5- 
+0000004 780  IO      of                       Z5 
+0000004 790  AT      the                      Z5 
+0000004 800  JJ      clay-court               Z99 
+0000004 810  NNT1    season                   T1.3 
+0000004 811  .       .                        
+0000004 812  NULL    <quote>                  
+0000004 813  -----   -----                    
+0000004 814  "       "                        
+0000004 820  AT      The                      Z5 
+0000004 830  NN2     conditions               O4.1 S6+ B2- B2+ Z7 
+0000004 840  RL      here                     M6 T1.1.2 T1.2 
+0000004 850  VBR     are                      A3+ Z5 
+0000004 860  RG      so                       A13.3 
+0000004 870  JJ      tough                    S1.2.5+ E3- O4.5 A12- Z4 
+0000004 871  -       -                        
+0000004 880  PPIS1   I                        Z8mf 
+0000004 890  VV0     know                     X2.2+ S3.2/B1% 
+0000004 900  VVG     sitting                  M8 C1 P1 G1.1 G2.1 M6 A9+ 
+0000004 910  EX      there                    Z5 
+0000004 920  VBZ     is                       A3+ Z5 
+0000004 930  JJ      difficult                A12- 
+0000004 940  CCB     but                      Z5 
+0000004 950  VVG     running                  M1[i12.2.1 M2[i12.2.1 M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000004 960  RP      around                   M1[i12.2.2 M2[i12.2.2 M6 
+0000004 970  VBZ     is                       A3+ Z5 
+0000004 980  RG      pretty                   A13.5 
+0000004 990  JJ      tricky                   A12- G2.2- 
+0000004 000  RR@     too                      N5++ 
+0000004 001  ,       ,                        
+0000004 002  "       "                        
+0000004 003  NULL    </quote>                 
+0000004 004  -----   -----                    
+0000004 010  VVD     said                     Q2.1 
+0000004 020  NP1     Murray                   Z1 
+0000004 030  RT      afterwards               N4 
+0000004 031  .       .                        
+0000004 032  NULL    <quote>                  
+0000004 033  -----   -----                    
+0000004 034  "       "                        
+0000004 040  PPHS1   He                       Z8m 
+0000004 050  VVD     started                  T2+ E5- E3- 
+0000004 060  TO      to                       Z5 
+0000004 070  VVI     come                     A4.1[i13.2.1 M1[i13.2.1 B1[i13.2.1 N5[i13.2.1 X6+[i13.2.1 X2.1[i13.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000004 080  II      to                       A4.1[i13.2.2 M1[i13.2.2 B1[i13.2.2 N5[i13.2.2 X6+[i13.2.2 X2.1[i13.2.2 Z5 
+0000004 090  AT      the                      Z5 
+0000004 100  NN1     net                      O2 S5+ A1.3+ 
+0000004 110  RR21@   a                        A13.3[i14.2.1 N6+[i14.2.1 
+0000004 120  RR22    lot                      A13.3[i14.2.2 N6+[i14.2.2 
+0000004 130  RRR     more                     A13.3 N6++ 
+0000004 140  CC      and                      Z5 
+0000004 150  PPIS1   I                        Z8mf 
+0000004 160  VVD     lost                     X9.2- A9- M6/A5.3- L1- 
+0000004 170  APPGE   my                       Z8 
+0000004 180  NN1     timing                   A1.2 T1.3 
+0000004 190  AT1     a                        N5-[i15.3.1 Z5 
+0000004 200  JJ      little                   N5-[i15.3.2 N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000004 210  NN1     bit                      N5-[i15.3.3 N5- N5.1- O2 Y2 
+0000004 220  CC      and                      Z5 
+0000004 230  PPIS1   I                        Z8mf 
+0000004 240  VVD     started                  T2+ E5- E3- 
+0000004 250  TO      to                       Z5 
+0000004 260  VVI     find                     X2.1 A10+ X6+ 
+0000004 270  PPH1    it                       Z8 
+0000004 280  RR31    a                        A13.6[i17.3.1 A13.6[i16.2.1 N6-[i16.2.1 
+0000004 290  RR32    little                   A13.6[i17.3.2 A13.7 A13.6[i16.2.2 N6-[i16.2.2 
+0000004 300  RR33    bit                      A13.6[i17.3.3 
+0000004 310  JJ      difficult                A12- 
+0000004 320  II      towards                  Z5 
+0000004 330  AT      the                      Z5 
+0000004 340  NN1     end                      M6 T2- O2 X7+ N4 
+0000004 350  IO      of                       Z5 
+0000004 360  AT      the                      Z5 
+0000004 370  MD      second                   N4 
+0000004 380  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
+0000004 381  .       .                        
+0000004 382  NULL    </quote>                 
+0000004 383  -----   -----                    
+0000006 010  NP1@    Djokovic                 Z99 
+0000006 020  VVD     said                     Q2.1 
+0000006 021  :       :                        
+0000006 022  NULL    <quote>                  
+0000006 023  -----   -----                    
+0000006 024  "       "                        
+0000006 030  PPHS1   He                       Z8m 
+0000006 031  VHZ     's                       Z5 A9+ A2.2 
+0000006 040  VBN     been                     Z5 A3+ 
+0000006 050  VVG     playing                  K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000006 060  JJ      terrific                 A5.1+ N3.2+ 
+0000006 070  NN1     tennis                   K5.1 
+0000006 080  II      in                       Z5 
+0000006 090  AT      the                      Z5 
+0000006 100  MD      last                     T1.1.1[i19.2.1 N4 T1.3[i18.2.1 P1/S2mf[i18.2.1 
+0000006 110  NNT1    year                     T1.1.1[i19.2.2 T1.3 P1c T1.3[i18.2.2 P1/S2mf[i18.2.2 
+0000006 120  CC      or                       A13.4[i20.2.1 Z5 
+0000006 130  RR      so                       A13.4[i20.2.2 Z5 A13.3 
+0000006 131  .       .                        
+0000006 132  -----   -----                    
+0000006 140  PPHS1   He                       Z8m 
+0000006 150  VBDZ    was                      Z5 A3+ 
+0000006 160  VVG     playing                  K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000006 170  JJR     better                   A5.1++ G2.2++ O4.2++ 
+0000006 180  NN1     tennis                   K5.1 
+0000006 190  CSN     than                     Z5 
+0000006 200  PPIO1   me                       Z8mf 
+0000006 210  II      in                       Z5 
+0000006 220  AT      the                      Z5 
+0000006 230  MD      first                    N4 
+0000006 240  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
+0000006 241  .       .                        
+0000006 242  NULL    </quote>                 
+0000008 001  NULL    <quote>                  
+0000008 002  -----   -----                    
+0000008 003  "       "                        
+0000008 010  PPIS1   I                        Z8mf 
+0000008 020  VHD     had                      A9+ Z5 A2.2 S4 
+0000008 030  DD      some                     N5 Z5 
+0000008 040  NN2     chances                  A1.4 A7+ 
+0000008 050  TO      to                       Z5 
+0000008 060  VVI     win                      X9.2+/S7.3 X9.2+/G3 A9+ 
+0000008 070  AT      the                      Z5 
+0000008 080  MD      second                   N4 
+0000008 090  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
+0000008 100  CCB     but                      Z5 
+0000008 110  RR      unfortunately            A1.4- A5.1- E4.1- 
+0000008 120  PPIS1   I                        Z8mf 
+0000008 130  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000008 131  XX      n't                      Z6 
+0000008 132  .       .                        
+0000008 133  "       "                        
+0000008 134  NULL    </quote>                 
+0000008 135  -----   -----                    
+0000008 140  NP1     Murray                   Z1 
+0000008 141  ,       ,                        
+0000008 150  MC      21                       N1 T1.2 T3 T1.3 N3.2 
+0000008 151  ,       ,                        
+0000008 160  VHZ     has                      Z5 A9+ A2.2 S4 
+0000008 170  RR      also                     N5++ 
+0000008 180  VVN     won                      S7.1+ A9+ 
+0000008 190  NN2     tournaments              S7.3 
+0000008 200  II      in                       Z5 
+0000008 210  NP1     Dubai                    Z2 
+0000008 220  CC      and                      Z5 
+0000008 230  NP1     Rotterdam                Z2 
+0000008 240  II      in                       Z5 
+0000008 250  AT1     a                        Z5 
+0000008 260  JJ      magnificent              A5.1+ 
+0000008 270  NN1     start                    T2+ E5- 
+0000008 280  II      to                       Z5 
+0000008 290  MC      2009                     N1 T1.2 T3 T1.3 N3.2 
+0000008 291  ,       ,                        
+0000008 300  CC      and                      Z5 
+0000008 310  RT      now                      T1.1.2 Z4 
+0000008 320  VHZ     has                      A9+ Z5 A2.2 S4 
+0000008 330  MC      11                       N1 T1.2 T3 T1.3 N3.2 
+0000008 340  NN1     ATP                      P1 
+0000008 350  NN2     titles                   Q4 S7.1+ A9+ Q2.2 
+0000008 351  ,       ,                        
+0000008 360  VVG     bringing                 M2 A2.2 
+0000008 370  PPHO1   him                      Z8m 
+0000008 380  II      alongside                Z5 
+0000008 390  AT      the                      Z5 
+0000008 400  NN1     career                   I3.1 
+0000008 410  NN1     total                    N5.1+ 
+0000008 420  IO      of                       Z5 
+0000008 430  DA      former                   T2- N4 
+0000008 440  JJ      British                  Z2 Z2/S2mfnc 
+0000008 450  NN1     number                   A11.1+++[i21.2.1 N5 N1 Q1.3 K2 Q4.2 
+0000008 460  MC1     one                      A11.1+++[i21.2.2 N1 T3 T1.2 
+0000008 470  NP1     Tim                      Z1mf[i22.2.1 Z3c[i22.2.1 Z1m 
+0000008 480  NP1     Henman                   Z1mf[i22.2.2 Z3c[i22.2.2 
+0000008 490  CC      and                      Z5 
+0000008 500  RRR     closer                   N3.3-- A4.2++ S5++ S1.1.3++ A6.1++ E2++ W4 
+0000008 510  II      to                       Z5 
+0000008 520  NP1     Greg                     Z1mf[i23.2.1 Z3c[i23.2.1 Z1m 
+0000008 530  NP1     Rusedski                 Z1mf[i23.2.2 Z3c[i23.2.2 
+0000008 531  GE      's                       Z5 
+0000008 540  MC      15                       N1 T1.2 T3 T1.3 N3.2 
+0000008 541  .       .                        
+0000008 542  -----   -----                    
+0000008 550  CC      And                      Z5 
+0000008 560  NN1     victory                  X9.2+ 
+0000008 570  II      in                       Z5 
+0000008 580  NP1     Miami                    Z2 Z3c 
+0000008 590  VBZ     is                       A3+ Z5 
+0000008 600  AT1     a                        Z5 
+0000008 610  JJ      considerable             N5+ 
+0000008 620  NN1     addition                 N5++ N2 
+0000008 630  II      to                       Z5 
+0000008 640  AT      the                      Z5 
+0000008 650  NN1     CV                       Q1.2 
+0000008 660  CSA     as                       Z4[i24.3.1 A2.1-[i24.3.1 Z5 
+0000008 670  PPH1    it                       Z4[i24.3.2 A2.1-[i24.3.2 Z8 
+0000008 680  VBZ     is                       Z4[i24.3.3 A2.1-[i24.3.3 Z5 A3+ 
+0000008 690  VVN     regarded                 X2.1 
+0000008 700  II      by                       Z5 
+0000008 710  DA2     many                     N5+ 
+0000008 720  II      as                       Z5 
+0000008 730  AT      the                      Z5 
+0000008 740  NN1     'fifth                   Z99 
+0000008 750  NN1     major'                   Z99 
+0000008 751  ,       ,                        
+0000008 760  II      despite                  Z5 
+0000008 770  VVG     carrying                 M2 A9+ Q4 S7.4+ B1% B2-% 
+0000008 780  AT      no                       Z6 
+0000008 790  DAR     more                     N5++ 
+0000008 800  NN1     ranking                  A5.1 
+0000008 810  NN2     points                   Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
+0000008 820  CSN     than                     Z5 
+0000008 830  AT      the                      Z5 
+0000008 840  JJ      other                    A6.1- 
+0000008 850  NN2     Masters                  S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m X9.1+ 
+0000008 860  MC      1000                     N1 T1.2 T3 T1.3 N3.2 
+0000008 870  NN2     tournaments              S7.3 
+0000008 871  .       .                        
+0000008 872  -----   -----                    
+0000008 880  PPHS1   He                       Z8m 
+0000008 890  VHD     had                      Z5 A9+ A2.2 S4 
+0000008 900  VVN     started                  T2+ E5- E3- 
+0000008 910  AT      the                      Z5 
+0000008 920  NNT1    week                     T1.3 
+0000008 930  II      in                       A11.2+[i25.2.1 Z5 
+0000008 940  NN1     sight                    A11.2+[i25.2.2 X3.4 A8 G3 
+0000008 950  IO      of                       Z5 
+0000008 960  VVG     overhauling              A1.1.1 S7.1+ 
+0000008 970  NN1     Djokovic                 Z99 
+0000008 980  II      in                       Z5 
+0000008 990  AT      the                      Z5 
+0000008 000  NN2     rankings                 A5.1 
+0000008 001  ,       ,                        
+0000008 010  CCB     but                      Z5 
+0000008 020  NN1     Djokovic                 Z99 
+0000008 021  GE      's                       Z5 
+0000008 030  NN1     defeat                   X9.2- 
+0000008 040  IO      of                       Z5 
+0000008 050  NP1     Roger                    Z1mf[i26.2.1 Z3c[i26.2.1 Z1m 
+0000008 060  NP1     Federer                  Z1mf[i26.2.2 Z3c[i26.2.2 
+0000008 070  II      in                       Z5 
+0000008 080  AT      the                      Z5 
+0000008 090  NN2     semi-finals              K5.1 
+0000008 100  VVD     ensured                  A7+ 
+0000008 110  AT      the                      Z5 
+0000008 120  NP1     Serb                     Z2/S2mf 
+0000008 130  VM      will                     T1.1.3 
+0000008 140  VVI     hang                     Z4[i27.2.1 M8[i27.2.1 T1[i27.2.1 A9+[i27.2.1 A1.1.1[i27.2.1 M2 M1 M8 G2.1 S7.1- 
+0000008 150  RP      on                       Z4[i27.2.2 M8[i27.2.2 T1[i27.2.2 A9+[i27.2.2 A1.1.1[i27.2.2 M6 A1.1.1 
+0000008 160  IF      for                      Z5 
+0000008 170  RR21    at                       A13.7[i28.2.1 
+0000008 180  RR22    least                    A13.7[i28.2.2 A13.7 
+0000008 190  AT1     a                        Z5 
+0000008 200  NNT1@   while                    T1.3 
+0000008 210  RRR     longer                   T1.3++ 
+0000008 211  .       .                        
+0000008 212  -----   -----                    
+0000008 220  NPD1    Sunday                   T1.3 
+0000008 221  GE      's                       Z5 
+0000008 230  NN1     final                    K5.1 
+0000008 240  VBDZ    was                      Z5 A3+ 
+0000008 250  VVN     played                   K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000008 260  II      in                       Z5 
+0000008 270  AT      the                      Z5 
+0000008 280  NNT1    mid-afternoon            Z99 
+0000008 290  NN1     heat                     O4.6+ E1 A1.1.1 S7.3 
+0000008 300  II      in                       Z5 
+0000008 310  JJ      Key                      A11.1+ 
+0000008 320  NP1     Biscayne                 Z99 
+0000008 330  CC      and                      Z5 
+0000008 340  DB2     both                     N5 
+0000008 350  NN2     players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000008 360  VBDR    were                     Z5 A3+ 
+0000008 370  RR      quickly                  N3.8+ 
+0000008 380  VVN     drenched                 N5.2+/O1.2 
+0000008 390  II      in                       Z5 
+0000008 400  NN1     sweat                    B1 
+0000008 410  CC      and                      Z5 
+0000008 420  VVG     wrapping                 A1.1.1 
+0000008 430  PPX2    themselves               Z8 
+0000008 440  II      in                       Z5 
+0000008 450  NN1     ice                      O1.1 
+0000008 460  NN2     towels                   B5 
+0000008 470  II      at                       Z5 
+0000008 480  AT1     every                    N5.1+ 
+0000008 490  NN1     changeover               A2.1+ 
+0000008 491  .       .                        
+0000008 492  -----   -----                    
+0000010 010  NP1     Murray                   Z1 
+0000010 020  VVD     looked                   A8 X3.4 X2.4 X7+ 
+0000010 030  AT      the                      Z5 
+0000010 040  JJR     stronger                 S1.2.5++ N5++ A5.1++ X5.2++ S7.1++ X9.1++ O4.1 S1.2.3++ 
+0000010 050  II      from                     Z5 
+0000010 060  AT      the                      Z5 
+0000010 070  NN1     outset                   T2+ 
+0000010 080  CS      though                   Z5 
+0000010 081  ,       ,                        
+0000010 090  VVG     moving                   T2+[i29.2.1 M2 M1 A2.1+ E1 H4/A2.1 
+0000010 100  II      into                     T2+[i29.2.2 Z5 
+0000010 110  AT1     a                        Z5 
+0000010 120  MCMC    4-0                      N1 T1.2 T3 T1.3 N3.2 
+0000010 130  NN1     lead                     S7.1+ O2/L2 O3 S8+ O1.1 K4/S2mf 
+0000010 140  CSA     as                       Z5 
+0000010 150  PPHS1   he                       Z8m 
+0000010 160  VVD     broke                    A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000010 170  AT      the                      Z5 
+0000010 180  NN1     Djokovic                 Z99 
+0000010 190  VV0     serve                    S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
+0000010 200  RR      twice                    N6 
+0000010 201  .       .                        
+0000010 202  -----   -----                    
+0000010 210  CS      While                    Z5 
+0000010 220  NN1     Djokovic                 Z99 
+0000010 230  VBDZ    was                      Z5 A3+ 
+0000010 240  VVG     making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000010 250  JJ      numerous                 N5+ 
+0000010 260  JJ      unforced                 Z99 
+0000010 270  NN2     errors                   A5.3- 
+0000010 271  ,       ,                        
+0000010 280  AT      the                      Z5 
+0000010 290  NN1     Briton                   Z2 
+0000010 300  VBDZ    was                      Z5 A3+ 
+0000010 310  VVG     playing                  K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000010 320  II      at                       Z5 
+0000010 330  AT      the                      Z5 
+0000010 340  NN1     top                      M6 N4 N5.1+ O2 B5 K6 N5.1- 
+0000010 350  IO      of                       Z5 
+0000010 360  APPGE   his                      Z8m 
+0000010 370  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000010 371  ,       ,                        
+0000010 380  AT1     a                        Z5 
+0000010 390  JJ      slam-dunk                Z99 
+0000010 400  NN1     smash                    X3.2 X9.2+ A1.1.2 K5.1 
+0000010 410  VVN     followed                 M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 
+0000010 420  II      by                       Z5 
+0000010 430  AT1     a                        Z5 
+0000010 440  JJ      breathtaking             O4.2+ 
+0000010 450  JJ      backhand                 K5.1 
+0000010 460  JJ      cross-court              Z99 
+0000010 470  NN1     pass                     K5.1 X9.2+ Q1.2 W3 S3.2 
+0000010 480  VVG     helping                  S8+ 
+0000010 490  PPHO1   him                      Z8m 
+0000010 500  II      to                       Z5 
+0000010 510  MCMC    5-1                      N1 T1.2 T3 T1.3 N3.2 
+0000010 511  .       .                        
+0000010 512  -----   -----                    
+0000010 520  NP1     Murray                   Z1 
+0000010 530  VVD     missed                   A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3- 
+0000010 540  APPGE   his                      Z8m 
+0000010 550  MD      first                    N4 
+0000010 560  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
+0000010 570  NN1     point                    Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
+0000010 580  II      in                       Z5 
+0000010 590  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000010 600  MC      seven                    N1 T3 T1.2 
+0000010 610  RRQ     when                     Z5 
+0000010 620  PPHS1   he                       Z8m 
+0000010 630  VVD     went                     A6.1+[i30.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000010 640  RR      long                     T1.3+ 
+0000010 650  IW      with                     A6.1+[i30.2.2 Z5 
+0000010 660  AT1     a                        Z5 
+0000010 670  NN1     return                   M1 A9- S1.1.2+ N6 I1.1 G1.1/Q1.2 M3 K5.1 Y2% 
+0000010 671  ,       ,                        
+0000010 680  CCB     but                      Z5 
+0000010 690  AT      the                      Z5 
+0000010 700  JJ      struggling               A12- 
+0000010 710  NN1     Djokovic                 Z99 
+0000010 720  VVD     handed                   A9-[i31.2.1 A9- 
+0000010 730  RP      over                     A9-[i31.2.2 T2- M6 
+0000010 740  AT      the                      Z5 
+0000010 750  NN1     initiative               A1.1.1 X5.2+ 
+0000010 760  II      in                       Z5 
+0000010 770  AT      the                      Z5 
+0000010 780  JJ      following                N4 
+0000010 790  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000010 800  IW      with                     Z5 
+0000010 810  JJ      successive               N4 
+0000010 820  JJ      unforced                 Z99 
+0000010 830  NN2     errors                   A5.3- 
+0000010 840  II      at                       Z5 
+0000010 850  MCMC    15-30                    N1 T1.2 T3 T1.3 N3.2 
+0000010 860  CC      and                      Z5 
+0000010 870  AT      the                      Z5 
+0000010 880  NP1     Scot                     Z2/S2mf 
+0000010 890  VVD     sealed                   A1.7+ X6+ F1 
+0000010 900  PPH1    it                       Z8 
+0000010 910  IW      with                     Z5 
+0000010 920  AT1     a                        Z5 
+0000010 930  NN1     smash                    X3.2 X9.2+ A1.1.2 K5.1 
+0000010 931  .       .                        
+0000010 932  -----   -----                    
+0000010 940  CS      When                     Z5 
+0000010 950  NP1     Murray                   Z1 
+0000010 960  VVD     grabbed                  A9+ 
+0000010 970  AT1     a                        Z5 
+0000010 980  NN1     break                    K1/T1.3 T2- O2 A1.4 A1.1.2 
+0000010 990  II      at                       Z5 
+0000010 000  AT      the                      Z5 
+0000010 010  NN1     start                    T2+ E5- 
+0000010 020  IO      of                       Z5 
+0000010 030  AT      the                      N4/T1.3[i32.3.1 Z5 
+0000010 040  NNT1    second                   N4/T1.3[i32.3.2 T1.3 T1.2 
+0000010 050  II      after                    N4/T1.3[i32.3.3 Z5 
+0000010 060  VVG     edging                   A1.1.1 M1 
+0000010 070  AT1     a                        Z5 
+0000010 080  JJ      lengthy                  T1.3+ N3.7+ 
+0000010 090  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000010 100  IW      with                     Z5 
+0000010 110  AT1     a                        Z5 
+0000010 120  JJ      forehand                 K5.1 
+0000010 130  NN1     pass                     K5.1 X9.2+ Q1.2 W3 S3.2 
+0000010 131  ,       ,                        
+0000010 140  AT      the                      Z5 
+0000010 150  NN1     world                    W1 S5+c A4.1 N5+ 
+0000010 160  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000010 170  MC      four                     N1 T3 T1.2 
+0000010 180  VV0     let                      A1.7-[i33.2.1 Q2.2[i33.2.1 N3.2+/A2.1[i33.2.1 S7.4+ I2.2/H1 T2- 
+0000010 190  RP      out                      A1.7-[i33.2.2 Q2.2[i33.2.2 N3.2+/A2.1[i33.2.2 M6 
+0000010 200  AT1     a                        Z5 
+0000010 210  NN1     scream                   Q2.2 E4.1+ 
+0000010 220  IO      of                       Z5 
+0000010 230  NN1     delight                  E4.1+ 
+0000010 240  CST     that                     Z8 Z5 
+0000010 250  VVD     signalled                Q1.1 X4.1 A10+ 
+0000010 260  PPHS1   he                       Z8m 
+0000010 270  VBDZ    was                      A3+ Z5 
+0000010 280  II      on                       M6[i34.3.1 A1.1.1[i34.3.1 T1.1.3[i34.3.1 Z5 
+0000010 290  APPGE   his                      M6[i34.3.2 A1.1.1[i34.3.2 T1.1.3[i34.3.2 Z8m 
+0000010 300  NN1     way                      M6[i34.3.3 A1.1.1[i34.3.3 T1.1.3[i34.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000010 310  II      to                       Z5 
+0000010 320  AT      the                      Z5 
+0000010 330  NN1     title                    Q4 S7.1+ A9+ Q2.2 
+0000010 331  .       .                        
+0000010 332  -----   -----                    
+0000010 340  RT      Then                     N4 Z5 T1.2 
+0000010 350  VVD     came                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000010 360  AT1     a                        Z5 
+0000010 370  NN1     moment                   T1.2 T1.1.2 N3 
+0000010 380  IO      of                       Z5 
+0000010 390  JJ      mild                     S1.2.5- O4.6+ O4.1 X3.1 N3.2- N5- 
+0000010 400  NN1     controversy              Q2.2 
+0000010 401  ,       ,                        
+0000010 410  CSA     as                       Z5 
+0000010 420  NN1     Djokovic                 Z99 
+0000010 430  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000010 440  IF      for                      Z5 
+0000010 450  AT      the                      Z5 
+0000010 460  NN1     trainer                  P1/S2mf K5.1/S2mf B5 
+0000010 470  CCB     but                      Z5 
+0000010 480  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000010 490  XX      not                      Z6 
+0000010 500  VVI     require                  X7+ S6+ 
+0000010 510  AT1     a                        Z5 
+0000010 520  JJ      medical                  B3 
+0000010 530  NN1     timeout                  Z99 
+0000010 531  .       .                        
+0000010 532  -----   -----                    
+0000010 540  AT      The                      Z5 
+0000010 550  JJ      brief                    T1.3- N3.7-% 
+0000010 560  NN1     delay                    T4- 
+0000010 570  VBDZ    was                      A3+ Z5 
+0000010 580  DD      enough                   N5+ N6+ 
+0000010 590  TO      to                       Z5 
+0000010 600  VVI     rouse                    B1 X5.2+ A2.2 
+0000010 610  AT      the                      Z5 
+0000010 620  NP1     Serb                     Z2/S2mf 
+0000010 621  ,       ,                        
+0000010 630  CC      and                      Z5 
+0000010 640  PPH1    it                       Z8 
+0000010 650  RR      certainly                A7+ 
+0000010 660  VVD     seemed                   A8 
+0000010 670  TO      to                       Z5 
+0000010 680  VVI     disrupt                  S8- 
+0000010 690  AT      the                      Z5 
+0000010 700  NP1     Murray                   Z1 
+0000010 710  NN1     rhythm                   K2 Q3 T1.1 
+0000010 720  CSA     as                       Z5 
+0000010 730  APPGE   his                      Z8m 
+0000010 740  NN1     form                     A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@ 
+0000010 750  RR      completely               A13.2 
+0000010 760  VVD     disappeared              A10- M1 A3- 
+0000010 761  .       .                        
+0000010 762  -----   -----                    
+0000010 770  NN2     Errors                   A5.3- 
+0000010 780  VVD     began                    T2+ 
+0000010 790  TO      to                       Z5 
+0000010 800  VVI     flow                     M4 M1 
+0000010 810  CC      and                      Z5 
+0000010 820  AT1     a                        Z5 
+0000010 830  JJ      rejuvenated              Z99 
+0000010 840  NN1     Djokovic                 Z99 
+0000010 850  VVD     attacked                 E3- G3 B2- A1.1.2 Q2.2 
+0000010 860  AT      the                      Z5 
+0000010 870  NN1     net                      O2 S5+ A1.3+ 
+0000010 880  RRR     more                     A13.3[i35.3.1 N5++[i35.3.1 A13.3 N6++ 
+0000010 890  CC      and                      A13.3[i35.3.2 N5++[i35.3.2 Z5 
+0000010 900  RRR     more                     A13.3[i35.3.3 N5++[i35.3.3 A13.3 N6++ 
+0000010 901  ,       ,                        
+0000010 910  RR      often                    N6+ 
+0000010 920  JJ      serve-volleying          Z99 
+0000010 930  CSA     as                       Z5 
+0000010 940  PPHS1   he                       Z8m 
+0000010 950  VVD     reeled                   M1/E3- E4.1- 
+0000010 960  II      off                      Z5 E2- 
+0000010 970  MC      four                     N1 T3 T1.2 
+0000010 980  JJ      straight                 O4.4 A5.2+ N4 A7+ A6.2+ S3.2 F2 
+0000010 990  NN2     games                    K5.1 K5.2 A1.1.1 
+0000010 000  CC      and                      Z5 
+0000010 010  RR      soon                     T1.1.3/N3.8+ 
+0000010 020  VVD     stood                    M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+ 
+0000010 030  II      on                       Z5 
+0000010 040  AT      the                      Z5 
+0000010 050  NN1     brink                    T1.2 
+0000010 060  IO      of                       Z5 
+0000010 070  VVG     levelling                O4.4 Q2.2 M2 
+0000010 080  AT      the                      Z3[i36.2.1 Z5 
+0000010 090  NN1     match                    Z3[i36.2.2 K5.1 O2 A6.1+ 
+0000010 100  II      at                       Z5 
+0000010 110  MCMC    5-2                      N1 T1.2 T3 T1.3 N3.2 
+0000010 111  .       .                        
+0000010 112  -----   -----                    
+0000010 120  CCB     But                      Z5 
+0000010 130  NP1     Murray                   Z1 
+0000010 140  VVD     held                     M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+ 
+0000010 150  VV0     serve                    S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
+0000010 160  TO      to                       Z5 
+0000010 170  VVI     love                     E2+ 
+0000010 180  TO      to                       Z5 
+0000010 190  VVI     heap                     A1.1.1/N5+ 
+0000010 200  AT      the                      Z5 
+0000010 210  NN1     pressure                 N3.5 S7.1+ E6- 
+0000010 220  II      on                       Z5 
+0000010 230  NN1     Djokovic                 Z99 
+0000010 240  CC      and                      Z5 
+0000010 250  AT      the                      Z5 
+0000010 260  NP1     Serb                     Z2/S2mf 
+0000010 270  VVD     buckled                  B5 O4.4 
+0000010 280  II      after                    Z5 
+0000010 290  VVG     letting                  S7.4+ I2.2/H1 
+0000010 300  MC      two                      N1 T3 T1.2 
+0000010 310  JJ@     set                      X6+ O4.5 
+0000010 320  NN2     points                   Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
+0000010 330  VV0     slip                     M1 A9- A2.1+ A5.1-/A2.1 
+0000010 340  RL      away                     M6 A1.1.1% 
+0000010 350  NN2     thanks                   S1.2.4+ 
+0000010 360  II      to                       Z5 
+0000010 370  DD      some                     N5 Z5 
+0000010 380  JJ      heavy                    N3.5+ S1.2.5+ N5+ O4.1 E4.1- W4 A12- A1.1.1 N3.2+ A1.1.2@ 
+0000010 390  NP1     Murray                   Z1 
+0000010 400  VVG     returning                M1 A9- N6 
+0000010 401  .       .                        
+0000011 001  -----   -----                    
+0000012 010  CC      And                      Z5 
+0000012 020  RRQ     when                     Z5 
+0000012 030  NN1     Djokvic                  Z99 
+0000012 040  VVD     sent                     M2 A2.2 
+0000012 050  AT1     a                        Z5 
+0000012 060  JJ      forehand                 K5.1 
+0000012 070  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000012 080  JJ      wide                     N3.7+ N5+ A4.2- A6.3+ X9.2-@ K5.1@ 
+0000012 090  II      to                       A9+[i37.2.1 Z5 
+0000012 100  NN1     hand                     A9+[i37.2.2 B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf A9-[i38.2.1 
+0000012 110  RP      back                     M6 N6+ T1.1.1 S1.1.2+ A9-[i38.2.2 
+0000012 120  AT      the                      Z5 
+0000012 130  NN1     break                    K1/T1.3 T2- O2 A1.4 A1.1.2 
+0000012 131  ,       ,                        
+0000012 140  APPGE   his                      Z8m 
+0000012 150  NN1     belief                   X2.1 S9% 
+0000012 160  CC      and                      Z5 
+0000012 170  NN1     form                     A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@ 
+0000012 180  VVD     evaporated               O1.3 A10- 
+0000012 181  .       .                        
+0000012 182  -----   -----                    
+0000012 190  MC      Three                    N1 T1.2 T3 
+0000012 200  NN2     aces                     K5.2 M5/S2mf 
+0000012 201  ,       ,                        
+0000012 210  II      including                A1.8+ 
+0000012 220  MC1     one                      N1 T3 T1.2 
+0000012 230  II      on                       Z5 
+0000012 240  AT      the                      Z5 
+0000012 250  MD      second                   N4 
+0000012 260  VV0     serve                    S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
+0000012 261  ,       ,                        
+0000012 270  VVD     helped                   S8+ 
+0000012 280  NP1     Murray                   Z1 
+0000012 290  II      to                       Z5 
+0000012 300  MCMC    5-5                      N1 T1.2 T3 T1.3 N3.2 
+0000012 310  CC      and                      Z5 
+0000012 320  RRQ     when                     Z5 
+0000012 330  PPHS1   he                       Z8m 
+0000012 340  VVD     broke                    A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000012 350  RT      again                    N6+ Z4 
+0000012 351  ,       ,                        
+0000012 360  DD1     this                     M6 Z5 Z8 
+0000012 370  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000012 380  TO      to                       Z5 
+0000012 390  VVI     love                     E2+ 
+0000012 391  ,       ,                        
+0000012 400  AT      the                      Z5 
+0000012 410  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000012 420  VBDZ    was                      A3+ Z5 
+0000012 430  JJ      well                     B2+ 
+0000012 440  CC      and                      Z5 
+0000012 450  RR      truly                    A5.2+ A5.4+ 
+0000012 460  RP      up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
+0000012 461  .       .                        
+0000012 462  -----   -----                    
+0000012 470  NP1     Murray                   Z1 
+0000012 480  VVD     served                   S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
+0000012 490  RP      out                      M6 
+0000012 500  RR      comfortably              O4.2+ 
+0000012 510  TO      to                       Z5 
+0000012 520  VVI     secure                   A9+ A15+ A1.7+ 
+0000012 530  AT      the                      Z5 
+0000012 540  FO      US$590,000               Z99 
+0000012 550  NN1     winner                   X9.2+/S7.3/S2mf X9.2+/G3/S2mf 
+0000012 551  GE      's                       Z5 
+0000012 560  NN1     cheque                   I1 
+0000012 561  ,       ,                        
+0000012 570  VV0     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000012 580  DAR     more                     N5++ 
+0000012 590  NN1     ground                   M6 W3 M7 O3 X2.1 
+0000012 600  II      in                       Z5 
+0000012 610  APPGE   his                      Z8m 
+0000012 620  NN1     quest                    X2.4 
+0000012 630  TO      to                       Z5 
+0000012 640  VVI     break                    G2.1-[i39.2.1 A1.1.1[i39.2.1 T2+[i39.2.1 A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000012 650  II      into                     G2.1-[i39.2.2 A1.1.1[i39.2.2 T2+[i39.2.2 Z5 
+0000012 660  AT      the                      Z5 
+0000012 670  NN1     world                    W1 S5+c A4.1 N5+ 
+0000012 671  GE      's                       Z5 
+0000012 680  NN1     top                      A5.1+++[i40.2.1 M6 N4 N5.1+ O2 B5 K6 N5.1- 
+0000012 690  MC      three                    A5.1+++[i40.2.2 N1 T1.2 T3 
+0000012 691  ,       ,                        
+0000012 700  CC      and                      Z5 
+0000012 710  VV0     give                     A9- A1.1.1 
+0000012 720  JJR@    further                  N5++ N3.3++ T2++ 
+0000012 730  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000012 740  CST     that                     Z8 Z5 
+0000012 750  PPHS1   he                       Z8m 
+0000012 760  VBZ     is                       A3+ Z5 
+0000012 770  JJ      ready                    O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+ 
+0000012 780  TO      to                       Z5 
+0000012 790  VVI     win                      X9.2+/S7.3 X9.2+/G3 A9+ 
+0000012 800  AT1     a                        Z5 
+0000012 810  JJ      Grand                    Z3c[i41.2.1 O4.2+ A11.1+ A5.1+ N3.2+ S1.2.3+ 
+0000012 820  NN1     Slam                     Z3c[i41.2.2 
+0000012 830  NN1     title                    Q4 S7.1+ A9+ Q2.2 
+0000012 831  .       .                        
+0000012 832  NULL    <quote>                  
+0000012 833  -----   -----                    
+0000012 834  "       "                        
+0000012 840  PPIS1   I                        Z8mf 
+0000012 841  VBM     'm                       Z5 A3+ 
+0000012 850  VVG@    training                 P1 K5.1 
+0000012 860  RG      very                     A13.3 
+0000012 870  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
+0000012 880  TO      to                       Z5 
+0000012 890  VVI     try                      X8+ X2.4 Q2.2 G2.1 A12- 
+0000012 900  CC      and                      Z5 
+0000012 910  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000012 920  DD1     that                     Z5 Z8 
+0000012 930  CCB     but                      Z5 
+0000012 940  EX      there                    Z5 
+0000012 950  VBR     are                      A3+ Z5 
+0000012 960  RG      so                       N5[i42.2.1 A13.3 
+0000012 970  DA2     many                     N5[i42.2.2 N5+ 
+0000012 980  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000012 990  NN2     players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000012 000  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000012 010  RT      now                      T1.1.2 Z4 
+0000012 011  -       -                        
+0000012 020  NP1     Novak                    Z99 
+0000012 021  ,       ,                        
+0000012 030  NP1     Rafa                     Z99 
+0000012 031  (       (                        
+0000012 040  NP1     Nadal                    Z99 
+0000012 041  )       )                        
+0000012 042  ,       ,                        
+0000012 050  NP1     Roger                    Z1m 
+0000012 051  (       (                        
+0000012 060  NP1     Federer                  Z99 
+0000012 061  )       )                        
+0000012 062  -       -                        
+0000012 070  CC      and                      Z5 
+0000012 080  PPHS2   they                     Z8mfn 
+0000012 081  VH0     've                      Z5 A9+ A2.2 
+0000012 090  VBN     been                     Z5 A3+ 
+0000012 100  VVG     dominating               S7.1+ A11.1+ A11.2+ 
+0000012 110  AT      the                      Z5 
+0000012 120  VVZ     Slams                    A1.1.1 Q2.2 
+0000012 130  IF      for                      Z5 
+0000012 140  AT      the                      Z5 
+0000012 150  MD      last                     T1.1.1[i43.3.1 N4 
+0000012 160  DA2     few                      T1.1.1[i43.3.2 N5- 
+0000012 170  NNT2    years                    T1.1.1[i43.3.3 T1.3 
+0000012 171  ,       ,                        
+0000012 172  "       "                        
+0000012 173  NULL    </quote>                 
+0000012 174  -----   -----                    
+0000012 180  PPHS1   he                       Z8m 
+0000012 190  VVD     said                     Q2.1 
+0000012 191  .       .                        
+0000012 192  NULL    <quote>                  
+0000012 193  -----   -----                    
+0000012 194  "       "                        
+0000012 200  PPH1    It                       Z8 
+0000012 210  VM      would                    A7+ 
+0000012 220  VBI     be                       A3+ Z5 
+0000012 230  JJ      nice                     O4.2+ S1.2.1+ 
+0000012 240  TO      to                       Z5 
+0000012 250  VVI     get                      M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1- 
+0000012 260  II      in                       Z5 
+0000012 270  RL      there                    M6 T1.2 
+0000012 280  CC      and                      Z5 
+0000012 290  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000012 300  PN1     one                      Z8 
+0000012 301  .       .                        
+0000012 302  "       "                        
+0000012 303  NULL    </quote>                 
+0000016 001  NULL    **8;7;text               

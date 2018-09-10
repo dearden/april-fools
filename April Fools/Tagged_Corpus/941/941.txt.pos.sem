@@ -1,0 +1,1081 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VV0     Get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000002 020  RR      daily                    T1.1.2 N6+ Q4.2 B4/S2mf 
+0000002 030  VVZ     updates                  T1.1.2 
+0000002 040  RR      directly                 M6 N3.8+ S1.1.1 
+0000002 050  II      to                       Z5 
+0000002 060  APPGE   your                     Z8 
+0000002 070  NN1     inbox                    Q1.3/Y2 
+0000002 080  FO      +                        Z5 
+0000002 090  VV0     Subscribe                X2.1/A6.1+ Q4.2/I2.2 A9-/I1 I2.2/I1 
+0000002 100  VV0     Thank                    Z4[i1.2.1 S1.2.4+[i1.2.1 S1.2.4+ 
+0000002 110  PPY     you                      Z4[i1.2.2 S1.2.4+[i1.2.2 Z8mf 
+0000002 120  IF      for                      Z5 
+0000002 130  VVG     subscribing              X2.1/A6.1+ Q4.2/I2.2 A9-/I1 I2.2/I1 
+0000002 131  !       !                        
+0000002 132  -----   -----                    
+0000002 140  VM      Could                    A7+ 
+0000002 150  XX      not                      Z6 
+0000002 160  VVI     subscribe                X2.1/A6.1+ Q4.2/I2.2 A9-/I1 I2.2/I1 
+0000002 161  ,       ,                        
+0000002 170  VV0     try                      X8+ X2.4 Q2.2 G2.1 A12- 
+0000002 180  RT      again                    N6+ Z4 
+0000002 190  RRR     later                    T4-- T1.1.3 N4 
+0000002 200  JJ      Invalid                  A5.2- B2- 
+0000002 210  NN1     Email                    Q1.3/Y2 
+0000004 010  JJ      STUNNING                 Z2[i2.2.1 Z3c[i2.2.1 Z1mf[i2.2.1 O4.2+ A6.2- 
+0000004 020  NP1     Ferena                   Z2[i2.2.2 Z3c[i2.2.2 Z1mf[i2.2.2 Z1mf[i3.2.1 Z3c[i3.2.1 
+0000004 030  NP1     Wazeir                   Z99 Z1mf[i3.2.2 Z3c[i3.2.2 
+0000004 040  VBZ     is                       A3+ Z5 
+0000004 050  AT      the                      Z5 
+0000004 060  NN1     Scot                     Z2/S2mf 
+0000004 070  VVG     taking                   A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000004 080  NP1     Bollywood                Z99 
+0000004 090  II      by                       Z5 
+0000004 100  NN1     storm                    W4 E3- A12- 
+0000006 010  AT      The                      Z5 
+0000006 020  JJ      24-year-old              Z99 
+0000006 030  NN1     singer-turned-actress    Z99 
+0000006 040  VHZ     has                      A9+ Z5 A2.2 S4 
+0000006 050  RG      so                       N5[i4.2.1 A13.3 
+0000006 060  DA2     many                     N5[i4.2.2 N5+ 
+0000006 070  NN2     fans                     S2/E2+mf O2 
+0000006 080  CST     that                     Z8 Z5 
+0000006 090  PPHS1   she                      Z8f 
+0000006 100  VVZ     needs                    S6+ 
+0000006 110  II      round                    T2+++[i5.3.1 Z5 
+0000006 120  AT      the                      T2+++[i5.3.2 Z5 
+0000006 130  NN1     clock                    T2+++[i5.3.3 O2/T1 
+0000006 140  NN1     security                 G2.1 A15+ E6+ I1.1 
+0000006 150  TO      to                       Z5 
+0000006 160  VVI     stop                     T2- S8- M8 H4 A1.1.1@ 
+0000006 170  PPHO1   her                      Z8f 
+0000006 180  VBG     being                    Z5 A3+ 
+0000006 190  VVN@    mobbed                   S1.1.1 
+0000006 200  II      on                       Z5 
+0000006 210  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
+0000006 211  .       .                        
+0000007 001  -----   -----                    
+0000008 010  NN1     Ferena                   Z99 
+0000008 011  ,       ,                        
+0000008 020  PNQS    who                      Z8 
+0000008 030  VBZ     is                       A3+ Z5 
+0000008 040  NP1     Bollywood                Z99 
+0000008 041  GE      's                       Z5 
+0000008 050  NN1     answer                   Q2.2 X4.1 X9.2+ 
+0000008 060  II      to                       Z5 
+0000008 070  NP1     Angelina                 Z1mf[i6.2.1 Z3c[i6.2.1 
+0000008 080  NP1     Jolie                    Z1mf[i6.2.2 Z3c[i6.2.2 
+0000008 090  CC      and                      Z5 
+0000008 100  NP1     Cameron                  Z1mf[i7.2.1 Z3c[i7.2.1 Z1mf 
+0000008 110  NP1     Diaz                     Z1mf[i7.2.2 Z3c[i7.2.2 
+0000008 111  ,       ,                        
+0000008 120  VVZ     insists                  S7.1+/Q2.2 
+0000008 130  PPHS1   she                      Z8f 
+0000008 140  VM      could                    A7+ 
+0000008 150  RR      never                    T1/Z6 
+0000008 160  VHI     have                     Z5 A9+ A2.2 S4 
+0000008 170  VVN     dreamed                  X2 X2.1 X7++ 
+0000008 180  IO      of                       Z5 
+0000008 190  VVG     becoming                 A2.1+ O4.2+ 
+0000008 200  AT      the                      Z5 
+0000008 210  NN1     sweetheart               S3.2/S2mf 
+0000008 220  IO      of                       Z5 
+0000008 230  AT      the                      Z5 
+0000008 240  JJ      Asian                    Z2 
+0000008 250  NN1     silver                   O1.1 I1 O2 
+0000008 260  NN1     screen                   Y2 Q4.3 H5 A10- 
+0000008 261  .       .                        
+0000009 001  -----   -----                    
+0000010 010  PPHS1   She                      Z8f 
+0000010 020  VVD     said                     Q2.1 
+0000010 021  :       :                        
+0000010 022  NULL    <quote>                  
+0000010 023  -----   -----                    
+0000010 024  "       "                        
+0000010 030  PPIS1   I                        Z8mf 
+0000010 031  VBM     'm                       Z5 A3+ 
+0000010 040  RR      still                    T2++ Z4 E3+ 
+0000010 050  VVG     taking                   A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000010 060  PPH1    it                       Z8 
+0000010 070  DB      all                      N5.1+ 
+0000010 080  RP@     in                       M6 
+0000010 090  CSA     as                       Z5 
+0000010 100  PPH1    it                       Z8 
+0000010 110  VHZ     has                      Z5 A9+ A2.2 S4 
+0000010 120  VVN     happened                 A2.1+ A3+ X7- 
+0000010 130  RG      so                       A13.3 
+0000010 140  RR      fast                     N3.8+ 
+0000010 141  .       .                        
+0000010 142  -----   -----                    
+0000010 150  MC1     One                      N1 T3 T1.2 
+0000010 160  NNT1    minute                   T1.3 
+0000010 170  PPIS1   I                        Z8mf 
+0000010 180  VBDZ    was                      Z5 A3+ 
+0000010 190  VVG     living                   H4 L1+ 
+0000010 200  II      in                       Z5 
+0000010 210  NP1     Glasgow                  Z2 
+0000010 220  CC      and                      Z5 
+0000010 230  AT      the                      Z5 
+0000010 240  MD      next                     N4 
+0000010 250  PPIS1   I                        Z8mf 
+0000010 260  VBDZ    was                      Z5 A3+ 
+0000010 270  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000010 280  II      alongside                Z5 
+0000010 290  DD      some                     N5 Z5 
+0000010 300  IO      of                       Z5 
+0000010 310  AT      the                      Z5 
+0000010 320  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
+0000010 330  NN2     names                    Q2.2 
+0000010 340  II      in                       Z5 
+0000010 350  NP1     Bollywood                Z99 
+0000010 351  .       .                        
+0000011 001  NULL    </quote>                 
+0000012 001  NULL    <quote>                  
+0000012 002  -----   -----                    
+0000012 003  "       "                        
+0000012 010  PPIS1   I                        Z8mf 
+0000012 020  VV0     know                     X2.2+ S3.2/B1% 
+0000012 030  NP1     Hollywood                Z2 
+0000012 040  NN2     stars                    W1 O4.4 A5.1 A11.1+/S2mf S9 
+0000012 050  VV0     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000012 060  VVN     mobbed                   S1.1.1 
+0000012 070  II      by                       Z5 
+0000012 080  NN2     fans                     S2/E2+mf O2 
+0000012 090  CC      and                      Z5 
+0000012 100  VVN     followed                 M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 
+0000012 110  II      by                       Z5 
+0000012 120  AT      the                      Z5 
+0000012 130  NN2     paparazzi                Z99 
+0000012 140  II21    but                      Z5[i8.2.1 Z5 
+0000012 150  II22    for                      Z5[i8.2.2 
+0000012 160  AT      the                      Z5 
+0000012 170  NN2     stars                    W1 O4.4 A5.1 A11.1+/S2mf S9 
+0000012 180  IO      of                       Z5 
+0000012 190  JJ      Indian                   Z2 
+0000012 200  NN1     cinema                   Q4.3/H1 Q4.3 
+0000012 210  PPH1    it                       Z8 
+0000012 211  VBZ     's                       A3+ Z5 
+0000012 220  RR      even                     A13.1 
+0000012 230  JJR     crazier                  B2-/X1 S1.2.6- X5.2++ A1.1.1/N5+++ 
+0000012 240  CSA     as                       Z5 
+0000012 250  APPGE   our                      Z8 
+0000012 260  NN2     movies                   Q4.3 
+0000012 270  VBR     are                      Z5 A3+ 
+0000012 280  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000012 290  II      by                       Z5 
+0000012 300  NNO2    millions                 N1 N5+ I1 
+0000012 310  IO      of                       Z5 
+0000012 320  NN      people                   S2mfc 
+0000012 330  II      across                   Z5 
+0000012 340  AT      the                      Z5 
+0000012 350  NN1     world                    W1 S5+c A4.1 N5+ 
+0000012 351  .       .                        
+0000013 001  NULL    </quote>                 
+0000014 001  NULL    <quote>                  
+0000014 002  -----   -----                    
+0000014 003  "       "                        
+0000014 010  II      On                       Z5 
+0000014 020  AT1     a                        Z5 
+0000014 030  DA2     few                      N5- 
+0000014 040  NN2     occasions                T1.2 S1.1.1 
+0000014 050  PPIS1   I                        Z8mf 
+0000014 051  VH0     've                      Z5 A9+ A2.2 
+0000014 060  VVN     got                      A2.1+ A9+ Z5 X9.2+ A2.2 M1 M2 X2.5+ E4.1- 
+0000014 070  RR21    a                        A13.6[i9.2.1 A13.7[i9.2.1 
+0000014 080  RR22    bit                      A13.6[i9.2.2 A13.7[i9.2.2 
+0000014 090  JJ      scared                   E5- E6- 
+0000014 100  II      by                       Z5 
+0000014 110  AT      the                      Z5 
+0000014 120  NN2     fans                     S2/E2+mf O2 
+0000014 130  CC      and                      Z5 
+0000014 140  PPIS1   I                        Z8mf 
+0000014 150  VH0     have                     A9+ Z5 A2.2 S4 
+0000014 160  NN1     security                 G2.1 A15+ E6+ I1.1 
+0000014 170  II      on                       Z5 
+0000014 180  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
+0000014 181  .       .                        
+0000014 182  -----   -----                    
+0000014 190  CS      When                     Z5 
+0000014 200  PPIS1   I                        Z8mf 
+0000014 201  VBM     'm                       Z5 A3+ 
+0000014 210  VVG     finishing                T2- A1.5.1/N5.1+ A1.1.1 X9.2- 
+0000014 220  APPGE   my                       Z8 
+0000014 230  JJ      final                    N4 T2- 
+0000014 240  NN2     scenes                   K4 C1 A8 A1.1.1 M7 S1.1.1 E3- E2+ 
+0000014 250  PPIS2   we                       Z8 
+0000014 260  VH0     have                     S6+[i10.2.1 A9+ Z5 A2.2 S4 
+0000014 270  TO      to                       S6+[i10.2.2 Z5 
+0000014 280  VVI     pretend                  A5.4- 
+0000014 290  RL      there                    Z5 
+0000014 300  VBR     are                      A3+ Z5 
+0000014 310  RR      still                    T2++ Z4 E3+ 
+0000014 320  RRR     more                     A13.3 N6++ 
+0000014 330  TO      to                       Z5 
+0000014 340  VVI     come                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000014 350  RR      so                       Z5 A13.3 
+0000014 360  PPIS1   I                        Z8mf 
+0000014 370  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000014 371  XX      n't                      Z6 
+0000014 380  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000014 390  VVN     trampled                 E3- S7.1+ 
+0000014 400  RP@     on                       M6 A1.1.1 
+0000014 401  .       .                        
+0000014 402  -----   -----                    
+0000014 410  PPH1    It                       Z8 
+0000014 411  VBZ     's                       A3+ Z5 
+0000014 420  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000014 430  JJ      mad                      B2-/X1 S1.2.6- X5.2+ E4.1+ 
+0000014 431  .       .                        
+0000014 432  -----   -----                    
+0000014 440  EX      There                    Z5 
+0000014 450  VBR     are                      A3+ Z5 
+0000014 460  NNO2    hundreds                 N5+ 
+0000014 470  IO      of                       Z5 
+0000014 480  NN      people                   S2mfc 
+0000014 490  VVG     screaming                Q2.2 
+0000014 500  APPGE   my                       Z8 
+0000014 510  NN1     name                     Q2.2 
+0000014 511  .       .                        
+0000014 512  "       "                        
+0000014 513  NULL    </quote>                 
+0000014 514  -----   -----                    
+0000016 010  NN1     Ferena                   Z99 
+0000016 011  ,       ,                        
+0000016 020  PNQS    who                      Z8 
+0000016 030  VVD     attended                 S1.1.3+ X5.1+ 
+0000016 040  NP1     Glasgow                  Z2 
+0000016 041  GE      's                       Z5 
+0000016 050  NP1     Laurel                   Z2[i11.2.1 Z1mf 
+0000016 060  NN1     Park                     Z2[i11.2.2 M7/L3 
+0000016 070  NN1     School                   P1/H1c S5+c L2%c 
+0000016 071  ,       ,                        
+0000016 080  VVZ     plays                    K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000016 090  AT      the                      Z5 
+0000016 100  NN1     lead                     S7.1+ O2/L2 O3 S8+ O1.1 K4/S2mf 
+0000016 110  II      in                       Z5 
+0000016 120  NP1     Sadiyaan                 Z99 
+0000016 121  ,       ,                        
+0000016 130  DDQ     which                    Z8 Z5 
+0000016 140  VVD     premiered                A11.1+ G1.1/S2mf Z3c 
+0000016 150  II      in                       Z5 
+0000016 160  NP1     Mumbai                   Z2[i12.3.1 
+0000016 170  II      on                       Z2[i12.3.2 Z5 
+0000016 180  NPD1    Friday                   Z2[i12.3.3 T1.3 
+0000016 190  CC      and                      Z5 
+0000016 200  RR      also                     N5++ 
+0000016 210  VVZ%    stars                    Q1.2 K4/A11.1+ 
+0000016 220  JJ      Rishi                    Z99 
+0000016 230  NN1     Kapoor                   Z99 
+0000016 240  CC      and                      Z5 
+0000016 250  NN1     Luv                      E2+ 
+0000016 260  NP1     Sinha                    Z99 
+0000016 261  .       .                        
+0000017 001  -----   -----                    
+0000018 010  AT      The                      Z5 
+0000018 020  NN1     movie                    Q4.3 
+0000018 021  ,       ,                        
+0000018 030  RT      now                      T1.1.2 Z4 
+0000018 040  VBG     being                    Z5 A3+ 
+0000018 050  VVN     shown                    A10+ S1.1.1 
+0000018 060  II      at                       Z5 
+0000018 070  JJ      selected                 X7+ 
+0000018 080  NN2     cinemas                  Q4.3/H1 
+0000018 090  II      across                   Z5 
+0000018 100  AT      the                      Z5 
+0000018 110  NP1     UK                       Z2 
+0000018 111  ,       ,                        
+0000018 120  VBZ     is                       A3+ Z5 
+0000018 130  AT      the                      Z5 
+0000018 140  JJ      part-time                T1.3 
+0000018 150  NN1     model                    O2/A5.4- A4.1 X4.2 A5.1+++ C1/S2mf B5/I3.2/S2mf 
+0000018 151  GE      's                       Z5 
+0000018 160  NNT1    second                   T1.3 T1.2 
+0000018 161  .       .                        
+0000018 162  -----   -----                    
+0000018 170  APPGE   Her                      Z8f 
+0000018 180  MD      first                    N4 
+0000018 181  ,       ,                        
+0000018 190  VVD     Rang                     Q1.3 X3.2 A1.7+ 
+0000018 200  NP1     Rasia                    Z99 
+0000018 201  ,       ,                        
+0000018 210  VBZ     is                       A3+ Z5 
+0000018 220  RP      out                      M6 
+0000018 230  II      in                       Z5 
+0000018 240  NP1     Europe                   Z2 
+0000018 250  II      in                       Z5 
+0000018 260  NPM1    May                      T1.3 
+0000018 261  .       .                        
+0000019 001  -----   -----                    
+0000020 010  NN1     Ferena                   Z99 
+0000020 020  VVZ     admits                   Q2.2 B3 A1.8+ S7.4+/M1 
+0000020 030  PPHS1   she                      Z8f 
+0000020 040  RR      never                    T1/Z6 
+0000020 050  VVN     set                      O4.1[i13.2.1 Q2.2[i13.2.1 T2+[i13.2.1 X7+[i13.2.1 M1[i13.2.1 M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000020 060  RP      out                      O4.1[i13.2.2 Q2.2[i13.2.2 T2+[i13.2.2 X7+[i13.2.2 M1[i13.2.2 M6 
+0000020 070  TO      to                       Z5 
+0000020 080  VVI     become                   A2.1+ O4.2+ 
+0000020 090  AT1     a                        Z5 
+0000020 100  NN1@    Bollywood                Z99 
+0000020 110  NN1     star                     W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 
+0000020 120  CC      and                      Z5 
+0000020 130  II      as                       Z5 
+0000020 140  AT1     a                        Z5 
+0000020 150  NN1     child                    S2mf/T3- S4mf 
+0000020 160  PPHS1   she                      Z8f 
+0000020 170  VVD     dreamed                  X2 X2.1 X7++ 
+0000020 180  IO      of                       Z5 
+0000020 190  VBG     being                    A3+ Z5 
+0000020 200  AT1     a                        Z5 
+0000020 210  NN1     politician               G1.2/S2mf 
+0000020 220  CC      or                       Z5 
+0000020 230  AT1     a                        Z5 
+0000020 240  NN1     journalist               Q4.2/I3.2/S2mf 
+0000020 241  .       .                        
+0000021 001  -----   -----                    
+0000022 010  AT      The                      Z5 
+0000022 020  NN1     star                     W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 
+0000022 021  ,       ,                        
+0000022 030  DDQGE   whose                    Z8 
+0000022 040  NN1     family                   S4c A4.1c 
+0000022 050  NN1     hail                     W4 
+0000022 060  II      from                     Z5 
+0000022 070  NP1     Kashmir                  Z2 
+0000022 071  ,       ,                        
+0000022 080  VVD     said                     Q2.1 
+0000022 081  :       :                        
+0000022 082  NULL    <quote>                  
+0000022 083  -----   -----                    
+0000022 084  "       "                        
+0000022 090  PPIS1   I                        Z8mf 
+0000022 100  VVD     worked                   I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000022 110  RR      really                   A13.3 A5.2+ 
+0000022 120  RR      hard                     O4.1 X8+ X5.2+ N5+ A12- 
+0000022 130  II      at                       Z5 
+0000022 140  NN1     school                   P1/H1c S5+c L2%c 
+0000022 150  CC      and                      Z5 
+0000022 160  RR      always                   N6+++ 
+0000022 170  VVD     thought                  X2.1 
+0000022 180  PPIS1   I                        Z8mf 
+0000022 190  VM      would                    A7+ 
+0000022 200  VVI     end                      T2-[i14.2.1 T2- 
+0000022 210  RP      up                       T2-[i14.2.2 
+0000022 220  II      in                       Z5 
+0000022 230  NN1     academia                 P1 
+0000022 240  II      like                     Z5 
+0000022 250  AT      the                      Z5 
+0000022 260  NN1     rest                     E3+ K1 T2-/T1.3 O2 N5.1- 
+0000022 270  IO      of                       Z5 
+0000022 280  APPGE   my                       Z8 
+0000022 290  NN1     family                   S4c A4.1c 
+0000022 291  .       .                        
+0000022 292  -----   -----                    
+0000022 300  PPH1    It                       Z8 
+0000022 310  VBDZ    was                      A3+ Z5 
+0000022 320  RR      only                     A14 
+0000022 330  CS      when                     Z5 
+0000022 340  PPIS1   I                        Z8mf 
+0000022 350  VVD     went                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000022 360  II      to                       Z5 
+0000022 370  NP1     India                    Z2 
+0000022 380  AT1     a                        Z5 
+0000022 390  DA2     few                      T1.1.1[i15.3.1 N5- 
+0000022 400  NNT2    years                    T1.1.1[i15.3.2 T1.3 T1.1.1[i16.2.1 
+0000022 410  RA      ago                      T1.1.1[i15.3.3 T1.1.1 T1.1.1[i16.2.2 
+0000022 420  CST     that                     Z8 Z5 
+0000022 430  PPIS1   I                        Z8mf 
+0000022 440  VVD     took                     A9+[i17.2.1 T2+[i17.2.1 A1.5.1[i17.2.1 M2[i17.2.1 N3.7-/A2.1[i17.2.1 A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000022 450  RP      up                       A9+[i17.2.2 T2+[i17.2.2 A1.5.1[i17.2.2 M2[i17.2.2 N3.7-/A2.1[i17.2.2 
+0000022 460  JJ      Indian                   Z2 
+0000022 470  NN1     dancing                  K1 
+0000022 480  CC      and                      Z5 
+0000022 490  VVG     singing                  K2 
+0000022 500  NN2     lessons                  P1 S9/Q4.1 
+0000022 501  .       .                        
+0000022 502  "       "                        
+0000022 503  NULL    </quote>                 
+0000022 504  -----   -----                    
+0000024 010  AT      The                      Z5 
+0000024 020  NN1     beauty                   O4.2+ B4 
+0000024 021  ,       ,                        
+0000024 030  PNQS    who                      Z8 
+0000024 040  VBDZ    was                      Z5 A3+ 
+0000024 050  VVN@    discovered               A10+ 
+0000024 060  II      at                       Z5 
+0000024 070  AT1     a                        Z5 
+0000024 080  NN1     camel                    L2mfn 
+0000024 090  JJ      fair                     G2.2+ A5.1+ O4.2+ O4.3 W4 N5 
+0000024 091  ,       ,                        
+0000024 100  VVD     thought                  X2.1 
+0000024 110  AT      the                      Z5 
+0000024 120  NN1     photographer             C1/S2mf 
+0000024 130  PNQS    who                      Z8 
+0000024 140  VVD     approached               M1 A1.1.1 Q2.2 
+0000024 150  PPHO1   her                      Z8f 
+0000024 160  VBDZ    was                      Z5 A3+ 
+0000024 170  VHG     having                   E4.1+[i18.3.1 A9+ Z5 A2.2 S4 
+0000024 180  AT1     a                        E4.1+[i18.3.2 Z5 
+0000024 190  NN1@    laugh                    E4.1+[i18.3.3 E4.1+/X3.2 
+0000024 191  .       .                        
+0000025 001  -----   -----                    
+0000026 010  CCB     But                      Z5 
+0000026 020  RR      soon                     T1.1.3/N3.8+ 
+0000026 030  CS      after                    Z5 
+0000026 040  PPHS1   she                      Z8f 
+0000026 050  VBDZ    was                      Z5 A3+ 
+0000026 060  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000026 070  NN2     shoots                   K5.1 L3 Q4.3 G3 
+0000026 080  IF      for                      Z5 
+0000026 090  FW      Elle                     Z3c Z1f 
+0000026 100  NN1     magazine                 Q4.2 Q4.3 G3 O2 
+0000026 110  CC      and                      Z5 
+0000026 120  VBDZ    was                      Z5 A3+ 
+0000026 130  VVN     chosen                   X7+ 
+0000026 140  II      as                       Z5 
+0000026 150  AT      the                      Z5 
+0000026 160  NN1     face                     B1 W3 O2 A8 S1.2.3+ 
+0000026 170  IO      of                       Z5 
+0000026 180  JJ      Indian                   Z2 
+0000026 190  NN1     jewellery                B5 
+0000026 200  NN1     giant                    S2/N3.2+mf N3.2+/S5 
+0000026 210  NNU     P.C.                     Y2 
+0000026 220  NP1     Chandra                  Z99 
+0000026 221  .       .                        
+0000027 001  -----   -----                    
+0000028 010  NN1     Ferena                   Z99 
+0000028 011  ,       ,                        
+0000028 020  PNQS    who                      Z8 
+0000028 030  VVD@    trained                  P1 K5.1 
+0000028 040  II      at                       Z5 
+0000028 050  NP1     RADA                     Z2[i19.3.1 Z3c Z2[i20.3.1 
+0000028 060  II      in                       Z2[i19.3.2 Z5 Z2[i20.3.2 
+0000028 070  NP1     London                   Z2[i19.3.3 Z2 Z2[i20.3.3 
+0000028 071  ,       ,                        
+0000028 080  VVD     said                     Q2.1 
+0000028 081  :       :                        
+0000028 082  NULL    <quote>                  
+0000028 083  -----   -----                    
+0000028 084  "       "                        
+0000028 090  PPIS1   I                        Z8mf 
+0000028 100  VBDZ    was                      Z5 A3+ 
+0000028 110  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000028 120  VVG     walking                  M1[i21.2.1 M1 L2 X9.2+/A12+ 
+0000028 130  II      about                    M1[i21.2.2 Z5 
+0000028 140  VVG     looking                  X3.4[i22.2.1 X2.4[i22.2.1 X2.1[i22.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000028 150  II      at                       X3.4[i22.2.2 X2.4[i22.2.2 X2.1[i22.2.2 Z5 
+0000028 160  NN2     camels                   L2mfn 
+0000028 170  RRQ     when                     Z5 
+0000028 180  AT1     a                        Z5 
+0000028 190  NN1     guy                      S2.2m O2 
+0000028 200  VVD     asked                    Q2.2 
+0000028 210  CS      if                       Z7 
+0000028 220  PPHS1   he                       Z8m 
+0000028 230  VM      could                    A7+ 
+0000028 240  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000028 250  APPGE   my                       Z8 
+0000028 260  NN1     picture                  C1 Q4.3 X4.1 
+0000028 261  .       .                        
+0000029 001  NULL    </quote>                 
+0000030 001  NULL    <quote>                  
+0000030 002  -----   -----                    
+0000030 003  "       "                        
+0000030 010  CS      After                    Z5 
+0000030 020  DD1     that                     Z5 Z8 
+0000030 030  EX      there                    Z5 
+0000030 040  VBDZ    was                      Z5 A3+ 
+0000030 050  RR%     no                       Z6 
+0000030 060  VVG     looking                  X2.2+[i23.2.1 X3.4/M6[i23.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000030 070  RP      back                     X2.2+[i23.2.2 X3.4/M6[i23.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000030 071  .       .                        
+0000030 072  -----   -----                    
+0000030 080  PPIS1   I                        Z8mf 
+0000030 090  VDD     did                      G2.1 
+0000030 100  NN2     shoots                   K5.1 L3 Q4.3 G3 
+0000030 110  IF      for                      Z5 
+0000030 120  NN1     clothing                 B5 
+0000030 130  NN2     brands                   A4.1 Q1.1 
+0000030 140  CC      and                      Z5 
+0000030 150  NN2     magazines                Q4.2 Q4.3 G3 O2 
+0000030 160  CC      and                      Z5 
+0000030 170  VVD     ended                    T2-[i24.2.1 T2- 
+0000030 180  RP      up                       T2-[i24.2.2 
+0000030 190  II      on                       Z5 
+0000030 200  AT1     a                        Z5 
+0000030 210  NNU     20ft                     I1.2/N3.3[i25.2.1 N3.3 N3.7 
+0000030 220  NN1     billboard                I1.2/N3.3[i25.2.2 Q1.2 
+0000030 230  II      as                       Z5 
+0000030 240  AT      the                      Z5 
+0000030 250  NN1     face                     B1 W3 O2 A8 S1.2.3+ 
+0000030 260  IO      of                       Z5 
+0000030 270  NP1     India                    Z2 
+0000030 271  GE      's                       Z5 
+0000030 280  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
+0000030 290  NN1     jeweller                 C1/S2mf 
+0000030 291  .       .                        
+0000030 292  -----   -----                    
+0000030 300  PPH1    It                       Z8 
+0000030 310  VBDZ    was                      A3+ Z5 
+0000030 320  JJ      crazy                    B2-/X1 S1.2.6- X5.2++ A1.1.1/N5+++ 
+0000030 321  .       .                        
+0000031 001  NULL    </quote>                 
+0000032 001  NULL    <quote>                  
+0000032 002  -----   -----                    
+0000032 003  "       "                        
+0000032 010  RT      Then                     N4 Z5 T1.2 
+0000032 020  PPIS1   I                        Z8mf 
+0000032 030  VBDZ    was                      Z5 A3+ 
+0000032 040  VVN     invited                  Q2.2 
+0000032 050  TO      to                       Z5 
+0000032 060  VVI     audition                 K4 
+0000032 070  IF      for                      Z5 
+0000032 080  NN1     theatre                  K4/H1 K4 B3/H2 M7 
+0000032 090  CC      and                      Z5 
+0000032 100  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000032 110  NN2     roles                    I3.1 K4 S1.1.1 A1.1.1 
+0000032 120  CC      and                      Z5 
+0000032 130  PPIS1   I                        Z8mf 
+0000032 140  VH0     have                     Z5 A9+ A2.2 S4 
+0000032 141  XX      n't                      Z6 
+0000032 150  VVN     looked                   X2.2+[i26.2.1 X3.4/M6[i26.2.1 A8 X3.4 X2.4 X7+ 
+0000032 160  RP      back                     X2.2+[i26.2.2 X3.4/M6[i26.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000032 170  RR@     since                    N4 
+0000032 171  .       .                        
+0000032 172  -----   -----                    
+0000032 180  PPIS1   I                        Z8mf 
+0000032 190  VM      ca                       A7+ 
+0000032 191  XX      n't                      Z6 
+0000032 200  RR@     quite                    A13.5 A13.6 A13.2 
+0000032 210  VVI     believe                  X2.1 S9% 
+0000032 220  PPIS1   I                        Z8mf 
+0000032 221  VBM     'm                       Z5 A3+ 
+0000032 230  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000032 240  II      alongside                Z5 
+0000032 250  NN2     stars                    W1 O4.4 A5.1 A11.1+/S2mf S9 
+0000032 260  II      like                     Z5 
+0000032 270  NP1     Rishi                    Z1mf[i27.2.1 Z3c[i27.2.1 
+0000032 280  NP1     Kapoor                   Z1mf[i27.2.2 Z3c[i27.2.2 
+0000032 290  CC      and                      Z5 
+0000032 300  NP1     Hema                     Z1mf[i28.2.1 Z3c[i28.2.1 
+0000032 310  NP1     Malini                   Z1mf[i28.2.2 Z3c[i28.2.2 
+0000032 320  PNQS    who                      Z8 
+0000032 330  PPIS1   I                        Z8mf 
+0000032 340  VVD     idolised                 S7.2+ 
+0000032 350  II      as                       Z5 
+0000032 360  AT1     a                        Z5 
+0000032 370  NN1     child                    S2mf/T3- S4mf 
+0000032 371  .       .                        
+0000032 372  -----   -----                    
+0000032 380  PPH1    It                       Z8 
+0000032 381  VBZ     's                       A3+ Z5 
+0000032 390  AT1     a                        Z5 
+0000032 400  NN1     dream                    X4.1 X7+ A5.2- 
+0000032 410  VV0     come                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000032 420  JJ      true                     A5.2+ A5.4+ 
+0000032 421  .       .                        
+0000032 422  "       "                        
+0000032 423  NULL    </quote>                 
+0000032 424  -----   -----                    
+0000034 010  AT      The                      Z5 
+0000034 020  JJ      sultry                   O4.6+ 
+0000034 030  NN1     beauty                   O4.2+ B4 
+0000034 040  VVZ     admits                   Q2.2 B3 A1.8+ S7.4+/M1 
+0000034 050  APPGE   her                      Z8f 
+0000034 060  NN1     dad                      S4m 
+0000034 070  VBDZ    was                      Z5 A3+ 
+0000034 080  XX      not                      Z6 
+0000034 090  VVN     impressed                X5.2+ A11.1+ A1.1.1 
+0000034 100  CST     that                     Z8 Z5 
+0000034 110  PPHS1   she                      Z8f 
+0000034 120  VVD     chose                    X7+ 
+0000034 130  NN2     movies                   Q4.3 
+0000034 140  II      over                     Z5 
+0000034 150  NN1     politics                 G1.2c 
+0000034 151  -       -                        
+0000034 160  CS      until                    Z5 
+0000034 170  MD      first                    N4 
+0000034 180  NN1     minister                 G1.1/S2mf S9/S2mf 
+0000034 190  NP1     Alex                     Z1mf[i29.2.1 Z3c[i29.2.1 Z1mf 
+0000034 200  NP1     Salmond                  Z1mf[i29.2.2 Z3c[i29.2.2 
+0000034 210  VVD     admitted                 Q2.2 B3 A1.8+ S7.4+/M1 
+0000034 220  PPHS1   he                       Z8m 
+0000034 230  VBDZ    was                      A3+ Z5 
+0000034 240  AT1     a                        Z5 
+0000034 250  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000034 260  NN1     fan                      E2+/S2mf O2 O4.4 
+0000034 261  .       .                        
+0000035 001  -----   -----                    
+0000036 010  NP1@    Ferena                   Z99 
+0000036 020  VVD     said                     Q2.1 
+0000036 021  :       :                        
+0000036 022  NULL    <quote>                  
+0000036 023  -----   -----                    
+0000036 024  "       "                        
+0000036 030  APPGE   My                       Z8 
+0000036 040  NN1     dad                      S4m 
+0000036 050  VVD     gave                     A9- A1.1.1 
+0000036 060  PPIO2   us                       Z8 
+0000036 070  DB      all                      N5.1+ 
+0000036 080  AT      the                      Z5 
+0000036 090  JJT     best                     A5.1+++ G2.2+++ O4.2+++ 
+0000036 100  NN1     education                P1 X2.3+ 
+0000036 110  PPHS1   he                       Z8m 
+0000036 120  VM      could                    A7+ 
+0000036 130  RR      so                       Z5 A13.3 
+0000036 140  PPH1    it                       Z8 
+0000036 150  VVD     came                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000036 160  II      as                       Z5 
+0000036 170  AT1     a                        Z5 
+0000036 180  NN1     shock                    E5- B2- O3 
+0000036 190  II      to                       Z5 
+0000036 200  PPHO1   him                      Z8m 
+0000036 210  CS      when                     Z5 
+0000036 220  PPIS1   I                        Z8mf 
+0000036 230  VVD     chose                    X7+ 
+0000036 240  NP1     Bollywood                Z99 
+0000036 250  II      over                     Z5 
+0000036 260  NN1     politics                 G1.2c 
+0000036 261  .       .                        
+0000036 262  -----   -----                    
+0000036 270  PPIS1   I                        Z8mf 
+0000036 280  VV0     think                    X2.1 
+0000036 290  PPHS1   he                       Z8m 
+0000036 300  VM      would                    A7+ 
+0000036 310  VHI     have                     Z5 A9+ A2.2 S4 
+0000036 320  VVN     liked                    E2+ 
+0000036 330  PPIO1   me                       Z8mf 
+0000036 340  TO      to                       Z5 
+0000036 350  VVI     become                   A2.1+ O4.2+ 
+0000036 360  AT      the                      Z5 
+0000036 370  MD      next                     N4 
+0000036 380  JJ      female                   S2.1 
+0000036 390  JJ      prime                    G1.1/S2mf[i30.2.1 A11.1+++ A5.1+++ A4.2+ 
+0000036 400  NN1     minister                 G1.1/S2mf[i30.2.2 G1.1/S2mf S9/S2mf 
+0000036 410  XX      not                      Z6 
+0000036 420  AT      the                      Z5 
+0000036 430  MD      next                     N4 
+0000036 440  NP1     Jodie                    Z1mf[i31.2.1 Z3c[i31.2.1 Z1f 
+0000036 450  NP1     Foster                   Z1mf[i31.2.2 Z3c[i31.2.2 
+0000036 451  .       .                        
+0000037 001  NULL    </quote>                 
+0000038 001  NULL    <quote>                  
+0000038 002  -----   -----                    
+0000038 003  "       "                        
+0000038 010  PPHS1   He                       Z8m 
+0000038 020  VVD     changed                  A2.1+ I1 B5 
+0000038 030  APPGE   his                      Z8m 
+0000038 040  NN1     tune                     K2 I1.3@ 
+0000038 050  CS      when                     Z5 
+0000038 060  PPIS2   we                       Z8 
+0000038 070  VVD     met                      S3.1 M6 A1.1.1 A6.1+ 
+0000038 080  NP1     Alex                     Z1mf[i32.2.1 Z3c[i32.2.1 Z1mf 
+0000038 090  NP1     Salmond                  Z1mf[i32.2.2 Z3c[i32.2.2 
+0000038 100  II      at                       Z5 
+0000038 110  AT1     a                        Z5 
+0000038 120  NN1     wedding                  S4 
+0000038 130  CC      and                      Z5 
+0000038 140  PPHS1   he                       Z8m 
+0000038 150  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000038 160  APPGE   my                       Z8 
+0000038 170  NN1     dad                      S4m 
+0000038 180  PPHS1   he                       Z8m 
+0000038 190  VBDZ    was                      A3+ Z5 
+0000038 200  AT1     a                        Z5 
+0000038 210  JJ      massive                  N3.2+ 
+0000038 220  NN1     fan                      E2+/S2mf O2 O4.4 
+0000038 230  IO      of                       Z5 
+0000038 240  JJ      Asian                    Z2 
+0000038 250  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000038 260  CC      and                      Z5 
+0000038 270  VVD     knew                     X2.2+ S3.2/B1% 
+0000038 280  PNQS    who                      Z8 
+0000038 290  PPIS1   I                        Z8mf 
+0000038 300  VBDZ    was                      A3+ Z5 
+0000038 301  .       .                        
+0000039 001  NULL    </quote>                 
+0000040 001  NULL    <quote>                  
+0000040 002  -----   -----                    
+0000040 003  "       "                        
+0000040 010  PPH1    It                       Z8 
+0000040 011  VBZ     's                       A3+ Z5 
+0000040 020  RR      only                     A14 
+0000040 030  II      since                    Z5 
+0000040 040  RT      then                     N4 Z5 T1.2 
+0000040 050  CST     that                     Z5 Z8 
+0000040 060  APPGE   my                       Z8 
+0000040 070  NN1     family                   S4c A4.1c 
+0000040 080  VH0     have                     Z5 A9+ A2.2 S4 
+0000040 090  VVN     realised                 X2.5+ X9.2+ 
+0000040 100  DDQ     what                     Z8 Z5 
+0000040 110  AT1     a                        Z5 
+0000040 120  RR      really                   A13.3 A5.2+ 
+0000040 130  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000040 140  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000040 150  NP1     Bollywood                Z99 
+0000040 160  VBZ     is                       A3+ Z5 
+0000040 161  .       .                        
+0000041 001  NULL    </quote>                 
+0000042 001  NULL    <quote>                  
+0000042 002  -----   -----                    
+0000042 003  "       "                        
+0000042 010  II      In                       A13.4[i33.3.1 Z5 
+0000042 020  AT1     a                        A13.4[i33.3.2 Z5 
+0000042 030  NN1     way                      A13.4[i33.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000042 040  PPH1    it                       Z8 
+0000042 041  VBZ     's                       A3+ Z5 
+0000042 050  APPGE   my                       Z8 
+0000042 060  NN1     dad                      S4m 
+0000042 061  GE      's                       Z5 
+0000042 070  NN1     fault                    A5.3- A2.2 W3% 
+0000042 080  PPIS1   I                        Z8mf 
+0000042 090  VVD     went                     M1[i34.2.1 E2[i34.2.1 N5-/A2.1[i34.2.1 S7.1-/A2.1[i34.2.1 A1.1.1[i34.2.1 B2-[i34.2.1 P1%[i34.2.1 G2.1%[i34.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000042 100  RP      down                     M1[i34.2.2 E2[i34.2.2 N5-/A2.1[i34.2.2 S7.1-/A2.1[i34.2.2 A1.1.1[i34.2.2 B2-[i34.2.2 P1%[i34.2.2 G2.1%[i34.2.2 
+0000042 110  AT      the                      Z5 
+0000042 120  JJ@     acting                   T1.2 
+0000042 130  NN1     route                    M6 X4.2 
+0000042 140  II      as                       Z5 
+0000042 150  AT      the                      Z5 
+0000042 160  NN      pair                     N5c 
+0000042 170  IO      of                       Z5 
+0000042 180  PPIO2   us                       Z8 
+0000042 190  VVN     used                     T1.1.1[i35.2.1 A6.2+[i35.2.1 A1.5.1 S7.1+ 
+0000042 200  TO      to                       T1.1.1[i35.2.2 A6.2+[i35.2.2 Z5 
+0000042 210  VVI     sit                      M1[i36.2.1 M2[i36.2.1 M8 C1 P1 G1.1 G2.1 M6 A9+ M1[i37.2.1 M2[i37.2.1 M8[i37.2.1 
+0000042 220  RP      up                       M1[i36.2.2 M2[i36.2.2 M1[i37.2.2 M2[i37.2.2 M8[i37.2.2 
+0000042 230  II      into                     Z5 
+0000042 240  AT      the                      Z5 
+0000042 250  JJ      wee                      N3.2- 
+0000042 260  JJ      small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
+0000042 270  NNT2    hours                    T1.3 
+0000042 280  VVG     watching                 X3.4 S7.1 X2.4 A1.3+ 
+0000042 290  JJ      Indian                   Z2 
+0000042 300  NN2     movies                   Q4.3 
+0000042 301  .       .                        
+0000042 302  "       "                        
+0000042 303  NULL    </quote>                 
+0000042 304  -----   -----                    
+0000044 010  NN1     Ferena                   Z99 
+0000044 011  ,       ,                        
+0000044 020  PNQS    who                      Z8 
+0000044 030  VVZ     splits                   A6.1- A1.1.2 S1.1.2- 
+0000044 040  APPGE   her                      Z8f 
+0000044 050  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000044 060  II      between                  Z5 
+0000044 070  NP1     Glasgow                  Z2 
+0000044 071  ,       ,                        
+0000044 080  NP1     Mumbai                   Z99 
+0000044 090  CC      and                      Z5 
+0000044 100  NP1     London                   Z2 
+0000044 101  ,       ,                        
+0000044 110  VVZ     reveals                  A10+ 
+0000044 120  AT      the                      Z5 
+0000044 130  JJ@     acting                   T1.2 
+0000044 140  NN1     lifestyle                S1.1.1 
+0000044 150  VBZ     is                       A3+ Z5 
+0000044 160  XX      not                      Z6 
+0000044 170  RG      as                       A13 
+0000044 180  JJ      glamorous                O4.2+ 
+0000044 190  CSA     as                       Z5 
+0000044 200  PPH1    it                       Z8 
+0000044 210  VVZ     looks                    A8 X3.4 X2.4 X7+ Z4 
+0000044 211  .       .                        
+0000044 212  -----   -----                    
+0000044 220  PPHS1   She                      Z8f 
+0000044 230  VVD     said                     Q2.1 
+0000044 231  :       :                        
+0000044 232  NULL    <quote>                  
+0000044 233  -----   -----                    
+0000044 234  "       "                        
+0000044 240  CS      When                     Z5 
+0000044 250  PPIS1   I                        Z8mf 
+0000044 251  VBM     'm                       Z5 A3+ 
+0000044 260  VVG     filming                  Q4.3 
+0000044 270  PPIS1   I                        Z8mf 
+0000044 280  VM      can                      A7+ 
+0000044 290  VBI     be                       A3+ Z5 
+0000044 300  II      on                       Z5 
+0000044 310  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
+0000044 320  II      from                     Z5 
+0000044 330  RA      3.30am                   T1.2 
+0000044 340  II      to                       Z5 
+0000044 350  NNT1    midnight                 T1.2 
+0000044 360  IW      without                  Z5 
+0000044 370  DA1     much                     N5+ I1.3+ 
+0000044 380  IO      of                       Z5 
+0000044 390  AT1     a                        Z5 
+0000044 400  NN1     break                    K1/T1.3 T2- O2 A1.4 A1.1.2 
+0000044 410  CC      and                      Z5 
+0000044 420  AT      the                      Z5 
+0000044 430  NN1     dance                    K1 
+0000044 440  NN2     numbers                  N5 N1 Q1.3 K2 Q4.2 
+0000044 450  VV0     leave                    M1 M2 A1.1.1 A1.9 A9- T2- 
+0000044 460  PPY     you                      Z8mf 
+0000044 470  VVN     exhausted                B2- A1.5.1/N5.1+ 
+0000044 471  .       .                        
+0000045 001  NULL    </quote>                 
+0000046 001  NULL    <quote>                  
+0000046 002  -----   -----                    
+0000046 003  "       "                        
+0000046 010  PPIS1   I                        Z8mf 
+0000046 020  RR      regularly                N6+ 
+0000046 030  VV0     end                      T2-[i38.2.1 T2- 
+0000046 040  RP      up                       T2-[i38.2.2 
+0000046 050  II      in                       E4.1-[i39.2.1 Z5 
+0000046 060  NN2     tears                    E4.1-[i39.2.2 B1 O4.2- 
+0000046 070  II      at                       Z5 
+0000046 080  AT      the                      Z5 
+0000046 090  NN1     end                      T2- M6 O2 X7+ N4 
+0000046 100  IO      of                       T1.1.2[i40.3.1 Z5 
+0000046 110  AT      the                      T1.1.2[i40.3.2 Z5 
+0000046 120  NNT1    day                      T1.1.2[i40.3.3 T1.3 
+0000046 130  CSA     as                       Z5 
+0000046 140  DB      all                      N5.1+ 
+0000046 150  APPGE   my                       Z8 
+0000046 160  NN2     limbs                    B1 L3 
+0000046 170  VBR     are                      A3+ Z5 
+0000046 180  JJ      numb                     B1 E5- 
+0000046 190  CC      and                      Z5 
+0000046 200  EX      there                    Z5 
+0000046 210  VBZ     is                       Z5 A3+ 
+0000046 220  NN1     blood                    B1 
+0000046 230  VVG     running                  O4.2-[i41.2.1 Q2.2[i41.2.1 E3-[i41.2.1 T2-[i41.2.1 M1[i41.2.1 M2[i41.2.1 B2-[i41.2.1 M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000046 240  RP      down                     O4.2-[i41.2.2 Q2.2[i41.2.2 E3-[i41.2.2 T2-[i41.2.2 M1[i41.2.2 M2[i41.2.2 B2-[i41.2.2 
+0000046 250  APPGE   my                       Z8 
+0000046 260  NN2     arms                     B1 S5+ G3 O2 B5 
+0000046 270  CC      and                      Z5 
+0000046 280  NN2     legs                     B1 O2 N3.3 
+0000046 290  II      from                     Z5 
+0000046 300  AT      the                      Z5 
+0000046 310  JJ      heavy                    N3.5+ S1.2.5+ N5+ O4.1 E4.1- W4 A12- A1.1.1 N3.2+ A1.1.2@ 
+0000046 320  NN2     bangles                  B5 
+0000046 330  II      on                       Z5 
+0000046 340  APPGE   my                       Z8 
+0000046 350  NN2     ankles                   B1 
+0000046 360  CC      and                      Z5 
+0000046 370  NN2     wrists                   B1 
+0000046 371  .       .                        
+0000047 001  NULL    </quote>                 
+0000048 001  NULL    <quote>                  
+0000048 002  -----   -----                    
+0000048 003  "       "                        
+0000048 010  PPY     You                      Z8mf 
+0000048 020  VV0     end                      T2-[i42.2.1 T2- 
+0000048 030  RP      up                       T2-[i42.2.2 
+0000048 040  VVD     covered                  A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1 
+0000048 050  II      in                       Z5 
+0000048 060  NN2     bruises                  B2- 
+0000048 061  .       .                        
+0000048 062  -----   -----                    
+0000048 070  PPIS1   I                        Z8mf 
+0000048 080  VH0     have                     A9+ Z5 A2.2 S4 
+0000048 090  AT      the                      Z5 
+0000048 100  JJ      utmost                   N5.1+++ 
+0000048 110  NN1     respect                  S7.2+ A4.1 
+0000048 120  IF      for                      Z5 
+0000048 130  NN2     actors                   K4/S2.2m A1.1.1/S2mf@ 
+0000048 140  CC      and                      Z5 
+0000048 150  NN2     actresses                K4/S2.1f 
+0000048 160  PNQS    who                      Z8 
+0000048 170  VH0     have                     Z5 A9+ A2.2 S4 
+0000048 180  VBN     been                     Z5 A3+ 
+0000048 190  VVG     dancing                  K1 
+0000048 200  IF      for                      Z5 
+0000048 210  NNT2    years                    T1.3 
+0000048 211  .       .                        
+0000048 212  -----   -----                    
+0000048 220  PPH1    It                       Z8 
+0000048 221  VBZ     's                       A3+ Z5 
+0000048 230  AT      no                       Z6 
+0000048 240  JJ      easy                     A12+ 
+0000048 250  NN1     feat                     A1.1.1 
+0000048 251  .       .                        
+0000048 252  "       "                        
+0000048 253  NULL    </quote>                 
+0000048 254  -----   -----                    
+0000050 010  NN1     Ferena                   Z99 
+0000050 011  ,       ,                        
+0000050 020  PNQS    who                      Z8 
+0000050 030  VVZ     loves                    E2+ 
+0000050 040  VVG     coming                   M1[i43.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 A4.1[i44.2.1 M1[i44.2.1 B1[i44.2.1 N5[i44.2.1 X6+[i44.2.1 X2.1[i44.2.1 
+0000050 050  RL      home                     M1[i43.2.2 H4 M6 
+0000050 060  TO      to                       Z5 A4.1[i44.2.2 M1[i44.2.2 B1[i44.2.2 N5[i44.2.2 X6+[i44.2.2 X2.1[i44.2.2 
+0000050 070  VVI     shop                     I2.2 G2.1@ 
+0000050 080  II      in                       Z5 
+0000050 090  NP1     Buchanan                 Z2[i45.2.1 Z1mf Z1mf[i46.2.1 Z3c[i46.2.1 
+0000050 100  NNL1    Street                   Z2[i45.2.2 Z2 Z1mf[i46.2.2 Z3c[i46.2.2 
+0000050 110  CC      and                      Z5 
+0000050 120  NP1     Princes                  Z2[i47.2.1 Z1mf Z3m 
+0000050 130  NNL1    Square                   Z2[i47.2.2 
+0000050 131  ,       ,                        
+0000050 140  VVZ     insists                  S7.1+/Q2.2 
+0000050 150  PPHS1   she                      Z8f 
+0000050 160  VBZ     is                       Z5 A3+ 
+0000050 170  VVGK    going                    T1.1.3[i48.2.1 
+0000050 180  TO      to                       T1.1.3[i48.2.2 Z5 
+0000050 190  VVI     make                     X9.2+[i49.2.1 M1[i49.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000050 200  PPH1    it                       X9.2+[i49.2.2 M1[i49.2.2 Z8 
+0000050 210  APPGE   her                      Z8f 
+0000050 220  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000050 221  GE      's                       Z5 
+0000050 230  NN1     ambition                 X7+ 
+0000050 240  TO      to                       Z5 
+0000050 250  VVI     bring                    M2 A2.2 
+0000050 260  DAR     more                     N5++ 
+0000050 270  NN1@    Bollywood                Z99 
+0000050 280  NN2     movies                   Q4.3 
+0000050 290  II      to                       Z5 
+0000050 300  NP1     Scotland                 Z2 Z3c 
+0000050 301  .       .                        
+0000051 001  -----   -----                    
+0000052 010  PPHS1   She                      Z8f 
+0000052 020  VVD     said                     Q2.1 
+0000052 021  :       :                        
+0000052 022  NULL    <quote>                  
+0000052 023  -----   -----                    
+0000052 024  "       "                        
+0000052 030  PPIS1   I                        Z8mf 
+0000052 040  VV0     know                     X2.2+ S3.2/B1% 
+0000052 050  JJ      Scottish                 Z2 Z2/S2mfnc 
+0000052 060  NN1     Screen                   Y2 Q4.3 H5 A10- 
+0000052 070  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000052 080  TO      to                       Z5 
+0000052 090  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000052 100  RGR     more                     A13.3 
+0000052 110  JJ      Indian                   Z2 
+0000052 120  NN2     movies                   Q4.3 
+0000052 130  II      in                       Z5 
+0000052 140  NP1     Scotland                 Z2 Z3c 
+0000052 150  CC      and                      Z5 
+0000052 160  PPIS1   I                        Z8mf 
+0000052 170  VM      would                    A7+ 
+0000052 180  VVI     like                     E2+ 
+0000052 190  TO      to                       Z5 
+0000052 200  VVI     become                   A2.1+ O4.2+ 
+0000052 210  AT1     an                       Z5 
+0000052 220  NN1     ambassador               G1.1/S2mf S1.1.1/S2mf 
+0000052 230  IF      for                      Z5 
+0000052 240  PPHO2   them                     Z8mfn 
+0000052 241  .       .                        
+0000053 001  NULL    </quote>                 
+0000054 001  NULL    <quote>                  
+0000054 002  -----   -----                    
+0000054 003  "       "                        
+0000054 010  NP1     Scotland                 Z2 Z3c 
+0000054 020  RR      really                   A13.3 A5.2+ 
+0000054 030  VHZ     has                      A9+ Z5 A2.2 S4 
+0000054 040  DD      some                     N5 Z5 
+0000054 050  JJ      amazing                  O4.2+ X2.6- A6.2- 
+0000054 060  NN2     backdrops                M6 
+0000054 070  CC      and                      Z5 
+0000054 080  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000054 090  VV0     imagine                  X2.1 A5.2- 
+0000054 100  AT      the                      Z5 
+0000054 110  NN1     tourism                  M1 
+0000054 120  CST     that                     Z5 Z8 
+0000054 130  AT1     a                        Z5 
+0000054 140  NN1@    Bollywood                Z99 
+0000054 150  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000054 160  VM      would                    A7+ 
+0000054 170  VVI     generate                 A2.2 O3 
+0000054 171  .       .                        
+0000054 172  -----   -----                    
+0000054 180  NNO2    Thousands                N1 N5+ I1 
+0000054 190  VVD     flocked                  M1/N5+ 
+0000054 200  RL      here                     M6 T1.1.2 T1.2 
+0000054 210  II      after                    Z5 
+0000054 220  VVG     watching                 X3.4 S7.1 X2.4 A1.3+ 
+0000054 230  NP1     Kuch                     Z1mf[i51.3.1 Z3c[i51.3.1 Z1mf[i50.2.1 Z3c[i50.2.1 
+0000054 240  NP1     Kuch                     Z1mf[i51.3.2 Z3c[i51.3.2 Z1mf[i53.3.1 Z3c[i53.3.1 Z1mf[i50.2.2 Z3c[i50.2.2 Z1mf[i52.2.1 Z3c[i52.2.1 
+0000054 250  NP1     Hota                     Z3c[i51.3.3 Z1mf[i51.3.3 Z1mf[i53.3.2 Z3c[i53.3.2 Z1mf[i52.2.2 Z3c[i52.2.2 Z1mf[i54.2.1 Z3c[i54.2.1 
+0000054 260  NP1     Hai                      Z3c[i53.3.3 Z1mf[i53.3.3 Z1mf[i54.2.2 Z3c[i54.2.2 
+0000054 261  .       .                        
+0000054 262  "       "                        
+0000054 263  NULL    </quote>                 
+0000054 264  -----   -----                    
+0000056 010  CC      And                      Z5 
+0000056 020  AT      the                      Z5 
+0000056 030  NN1     star                     W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 
+0000056 031  ,       ,                        
+0000056 040  PNQS    who                      Z8 
+0000056 050  VDZ     does                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000056 060  NN121   kung                     K5.1[i55.2.1 
+0000056 070  NN122   fu                       K5.1[i55.2.2 
+0000056 080  II      in                       Z5 
+0000056 090  APPGE   her                      Z8f 
+0000056 100  JJ      spare                    K1/T1.3[i56.2.1 N5.2+ O4.1 
+0000056 110  NNT1    time                     K1/T1.3[i56.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000056 111  ,       ,                        
+0000056 120  VVZ     says                     Q2.1 
+0000056 130  CST     that                     Z5 Z8 
+0000056 140  RRQV31  no                       A7+++[i57.3.1 
+0000056 150  RRQV32  matter                   A7+++[i57.3.2 
+0000056 160  RRQV33  how                      A7+++[i57.3.3 
+0000056 170  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000056 180  PPHS1   she                      Z8f 
+0000056 190  VVZ     becomes                  A2.1+ O4.2+ 
+0000056 200  II      in                       Z5 
+0000056 210  NP1     India                    Z2 
+0000056 211  ,       ,                        
+0000056 220  PPHS1   she                      Z8f 
+0000056 230  VM      will                     T1.1.3 
+0000056 240  RR      always                   N6+++ 
+0000056 250  VVI     consider                 X2.1 X2.4 X6 
+0000056 260  PPX1    herself                  Z8f 
+0000056 270  AT1     a                        Z5 
+0000056 280  NN1     Scot                     Z2/S2mf 
+0000056 281  .       .                        
+0000057 001  -----   -----                    
+0000058 010  PPHS1   She                      Z8f 
+0000058 020  VVD     said                     Q2.1 
+0000058 021  :       :                        
+0000058 022  NULL    <quote>                  
+0000058 023  -----   -----                    
+0000058 024  "       "                        
+0000058 030  PPHS2   They                     Z8mfn 
+0000058 040  VH0     have                     Z5 A9+ A2.2 S4 
+0000058 050  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000058 060  PPIO1   me                       Z8mf 
+0000058 070  NN1     tone                     E1 X3.2 K2 A4.1 O4.3 B1 
+0000058 080  RP      down                     Z5 M6 N4 N5-- E4.1- S7.1- N3.1 Q1.2 O1.1 L2 Z1mf F1/B1 A1.1.1 
+0000058 090  APPGE   my                       Z8 
+0000058 100  JJ      Scots                    Z2 Z2/Q3 
+0000058 110  NN1     accent                   Q3 A11.1+ A4.2+ 
+0000058 120  IF      for                      Z5 
+0000058 130  AT      the                      Z5 
+0000058 140  NN2     movies                   Q4.3 
+0000058 150  CCB     but                      Z5 
+0000058 160  AT      the                      Z5 
+0000058 170  NNT1    minute                   T1.3 
+0000058 180  PPIS1   I                        Z8mf 
+0000058 190  VV0     speak                    Q2.1 
+0000058 200  II      to                       Z5 
+0000058 210  APPGE   my                       Z8 
+0000058 220  NN2     friends                  S3.1/S2mf 
+0000058 230  CC      and                      Z5 
+0000058 240  NN1     family                   S4c A4.1c 
+0000058 250  PPH1    it                       Z8 
+0000058 260  VVZ     comes                    M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000058 270  VVG@    flooding                 W4 N5+ 
+0000058 280  RP      back                     M6 N6+ T1.1.1 S1.1.2+ 
+0000058 281  .       .                        
+0000059 001  NULL    </quote>                 
+0000060 001  NULL    <quote>                  
+0000060 002  -----   -----                    
+0000060 003  "       "                        
+0000060 010  NP1     Scotland                 Z2 Z3c 
+0000060 020  VBZ     is                       A3+ Z5 
+0000060 030  AT1     a                        Z5 
+0000060 040  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000060 050  NN1     country                  G1.1c W3 F4/M7 K2 
+0000060 060  CC      and                      Z5 
+0000060 070  PPIS1   I                        Z8mf 
+0000060 080  VM      will                     T1.1.3 
+0000060 090  VVI     continue                 T2++ 
+0000060 100  TO      to                       Z5 
+0000060 110  VVI     make                     X9.2+[i58.2.1 M1[i58.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000060 120  PPH1    it                       X9.2+[i58.2.2 M1[i58.2.2 Z8 
+0000060 130  JJ      proud                    E4.2+/S1.2 S1.2.3+ 
+0000060 131  .       .                        
+0000060 132  "       "                        
+0000060 133  NULL    </quote>                 
+0000062 001  NULL    **8;7;text               

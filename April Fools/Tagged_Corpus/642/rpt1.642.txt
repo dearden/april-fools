@@ -1,0 +1,48 @@
+Start time = Wed Jul 25 11:02:03 2018
+
+Options used:
+OFF +@        add @ to tags on units matched on word only
+OFF -adrare   always demote rarity marked tags
+ON  -aux      Apply auxiliary / content rules
+OFF -disam    domain of discourse disambiguation
+OFF -disco    don't use intervening (discontinuous) info in idioms
+OFF -id       don't check for semantic idioms
+X=0 -interX   set no of intervening words for idioms
+OFF -internal Show internal syntax tags instead of CLAWS tags
+OFF -pprare   prevent promotion of rarity marked tags
+OFF -sdb      research option to mark disambiguated tag
+OFF -showidno show each idiom's position in the idiom list
+OFF -split XX split output files into XX line blocks
+OFF +vvci     don't replace VVC and VVI with VV0
+
+Defaults used:
+qforwardcontext = 20
+qbackwardcontext = 30
+proximitywrt = 0.0
+proximitydvw = 
+
+Lemmings Word rules ... Number of tags: 61; Number of rules: 1420
+Lemmings Suffix rules ... Number of tags: 17 Number of rules: 209
+Lemmings Default rules ... Number of Default rules: 139
+
+Infile = file27797.pos
+Outfile = file27797.pos.sem
+55674 entries in lexicon 'lexicon.c7'
+18954 entries in idiom list 'idioms.c7'
+297 entries in auxiliary file 'auxrule'
+
+No. sentences                 = 9
+No. entries (incl. punc.)     = 235
+No. entries (excl. punc.)     = 199
+-------------------------------------
+No. unmatched entries         = 1 (not matching on word and CLAWS tag)
+No. proper nouns identified   = 8 (identified as 'proper nouns' internally)
+No. ambiguous entries         = 87
+No. unambiguous entries       = 108
+-------------------------------------
+Ambiguity ratio               = 43.72 %
+-------------------------------------
+No. idioms                    = 19
+
+Finish time = Wed Jul 25 11:02:03 2018
+

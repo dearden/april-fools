@@ -1,0 +1,744 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  JJ      Corporate                S5+ I2.1/S5+ 
+0000002 020  NP1     America                  Z2 
+0000002 021  GE      's                       Z5 
+0000002 030  NN1     ability                  X9.1+ 
+0000002 040  TO      to                       Z5 
+0000002 050  VVI     create                   A1.1.1 A2.2 E1 
+0000002 060  NN1     value                    A11.1+ I1.3 G2.2 A4.1 N1 
+0000002 070  AT      the                      Z5 
+0000002 080  JJ      past                     T1.1.1 
+0000002 090  DA2     few                      N5- 
+0000002 100  NNT2    years                    T1.3 
+0000002 110  VHZ     has                      A9+ Z5 A2.2 S4 
+0000002 120  JJ      underwhelmed             Z99 
+0000002 130  PPIO2   us                       Z8 
+0000002 131  .       .                        
+0000002 132  -----   -----                    
+0000002 140  DD1     That                     Z8 Z5 
+0000002 141  ,       ,                        
+0000002 150  VVN     coupled                  N5+ 
+0000002 160  IW      with                     Z5 
+0000002 170  DA2     many                     N5+ 
+0000002 180  JJ      other                    A6.1- 
+0000002 190  JJ      environmental            W5 W3 
+0000002 200  NN2     effects                  A2.2 A8 
+0000002 201  ,       ,                        
+0000002 210  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 220  VVN     led                      S7.1+ A2.2 M2 A1.1.1 
+0000002 230  II      to                       Z5 
+0000002 240  DA2     many                     N5+ 
+0000002 250  JJ      new                      T3- 
+0000002 260  NN2     players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000002 270  VVG     entering                 M1 S5+ Q1.2 T2+ A1.8+ 
+0000002 280  APPGE   our                      Z8 
+0000002 290  NN1     consumer                 I2.2/S2mf 
+0000002 300  NN1     technology               Y1 
+0000002 310  NN1     community                S5+c 
+0000002 311  .       .                        
+0000003 001  -----   -----                    
+0000004 010  VVG@    Building                 H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000004 020  AT1     a                        Z5 
+0000004 030  NN1     startup                  T2+ 
+0000004 040  VBZ     is                       A3+ Z5 
+0000004 050  RR@     cool                     O4.6- S1.2.1- O4.2+ E6+ O4.6-/A2.1 X5.2-/A2.1 
+0000004 060  RT      again                    N6+ Z4 
+0000004 061  .       .                        
+0000004 062  -----   -----                    
+0000004 070  DD1     That                     Z8 Z5 
+0000004 071  VBZ     's                       A3+ Z5 
+0000004 080  RG      pretty                   A13.5 
+0000004 090  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000004 100  IF      for                      Z5 
+0000004 110  DAT     most                     N5+++ 
+0000004 120  IO      of                       Z5 
+0000004 130  PPIO2   us                       Z8 
+0000004 140  JJ      --                       Z99 
+0000004 150  JJ      new                      T3- 
+0000004 160  NN1     wealth                   I1.1+ 
+0000004 170  VBZ     is                       Z5 A3+ 
+0000004 180  VBG     being                    Z5 A3+ 
+0000004 190  VVN     created                  A1.1.1 A2.2 E1 
+0000004 191  (       (                        
+0000004 200  DB2     both                     N5 
+0000004 210  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
+0000004 220  CC      and                      Z5 
+0000004 230  JJ      imagined                 X2.1 A5.2- 
+0000004 231  )       )                        
+0000004 232  ,       ,                        
+0000004 240  NN2     valuations               I1.3 
+0000004 250  VBR     are                      Z5 A3+ 
+0000004 260  VVG     skyrocketing             Z99 
+0000004 270  IF      for                      Z5 
+0000004 280  NN2     startups                 T2+ 
+0000004 281  ,       ,                        
+0000004 290  CC      and                      Z5 
+0000004 300  NN      people                   S2mfc 
+0000004 310  IO      of                       Z5 
+0000004 320  DB      all                      N5.1+ 
+0000004 330  NN2     skill-sets               Z99 
+0000004 340  VBR     are                      Z5 A3+ 
+0000004 350  VVG     flocking                 M1/N5+ 
+0000004 360  TO      to                       Z5 
+0000004 370  VVI     startup                  T2+ 
+0000004 380  NN1     town                     M7 
+0000004 390  TO      to                       Z5 
+0000004 400  VVI     claim                    Q2.2 A9+ 
+0000004 410  APPGE   their                    Z8 
+0000004 420  NN1     stake                    I1/A1.4 S1.1.2+ O2 
+0000004 421  .       .                        
+0000005 001  -----   -----                    
+0000006 010  DD1     This                     Z8 M6 Z5 
+0000006 020  VBZ     is                       A3+ Z5 
+0000006 030  RR      generally                A6.2+ A4.2- A13.2 
+0000006 040  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000006 041  ,       ,                        
+0000006 050  CCB     but                      Z5 
+0000006 060  AT      the                      Z5 
+0000006 070  NN2     hordes                   S5+c 
+0000006 080  IO      of                       Z5 
+0000006 090  JJ      new                      T3- 
+0000006 100  NN2     actors                   K4/S2.2m A1.1.1/S2mf@ 
+0000006 110  VH0     have                     Z5 A9+ A2.2 S4 
+0000006 120  VVN     exacerbated              A5.1--/A2.2 
+0000006 130  AT1     a                        Z5 
+0000006 140  JJ      long-standing            T2++ 
+0000006 150  NN1     problem                  A12- X4.1 N2 B2- 
+0000006 160  II      within                   Z5 
+0000006 170  APPGE   our                      Z8 
+0000006 180  NN1     community                S5+c 
+0000006 181  ;       ;                        
+0000006 190  JJ      Non-technical            Z99 
+0000006 200  NN2     founders                 T2+/S2mf 
+0000006 210  PNQS    who                      Z8 
+0000006 220  VV0     overvalue                Z99 
+0000006 230  APPGE   their                    Z8 
+0000006 240  NN2     ideas                    X4.1 
+0000006 250  CC      and                      Z5 
+0000006 260  VV0     devalue                  A11.1-/A2.1 I1.1-/A2.1 
+0000006 270  AT      the                      Z5 
+0000006 280  JJ      technical                Y1 I4 X9.1 
+0000006 290  NN1     contribution             A9- A2.2 S1.1.3+ 
+0000006 300  IO      of                       Z5 
+0000006 310  AT      the                      Z5 
+0000006 320  NN      people                   S2mfc 
+0000006 330  PPHS2   they                     Z4[i1.2.1 Z8mfn 
+0000006 340  VV0     say                      Z4[i1.2.2 Q2.1 Z4% 
+0000006 350  PPHS2   they                     Z8mfn 
+0000006 360  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000006 370  TO      to                       Z5 
+0000006 380  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000006 390  IW      with                     Z5 
+0000006 391  .       .                        
+0000007 001  -----   -----                    
+0000008 010  EX      There                    Z5 
+0000008 011  VBZ     's                       A3+ Z5 
+0000008 020  AT1     a                        Z5 
+0000008 030  NN1     litmus                   Z99 
+0000008 040  VV0     test                     P1 B3 X2.4 A12- 
+0000008 050  PPIS1   I                        Z8mf 
+0000008 051  VH0     've                      Z5 A9+ A2.2 
+0000008 060  VVN     developed                A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000008 070  TO      to                       Z5 
+0000008 080  VVI     judge                    G2.1 X6 
+0000008 090  NN1     co-founder               T2+/S2mf 
+0000008 100  NN2     relationships            S3.1 S3.2 A2.2 S4 
+0000008 101  :       :                        
+0000008 110  CS      If                       Z7 
+0000008 120  AT      the                      Z5 
+0000008 130  NN1     idea                     X4.1 X7+ 
+0000008 140  VBZ     is                       A3+ Z5 
+0000008 150  RGR     more                     A13.3 
+0000008 160  JJ      important                A11.1+ 
+0000008 170  II      to                       Z5 
+0000008 180  PPY     you                      Z8mf 
+0000008 190  CSN     than                     Z5 
+0000008 200  AT      the                      Z5 
+0000008 210  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000008 220  CST     that                     Z8 Z5 
+0000008 230  VVZ     implements               A1.1.1 A9-/O2 
+0000008 240  PPH1    it                       Z8 
+0000008 241  ,       ,                        
+0000008 250  PPY     you                      Z8mf 
+0000008 260  VBR     are                      Z5 A3+ 
+0000008 261  XX      n't                      Z6 
+0000008 270  VVG     looking                  X2.4[i2.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000008 280  IF      for                      X2.4[i2.2.2 Z5 
+0000008 290  NN2     co-founders              T2+/S2mf 
+0000008 291  .       .                        
+0000010 001  NULL    <quote>                  
+0000010 002  -----   -----                    
+0000010 003  "       "                        
+0000010 010  DD1     This                     M6 Z5 Z8 
+0000010 020  NN1     kind                     A4.1 
+0000010 030  IO      of                       Z5 
+0000010 040  RR      intuitively              X2 
+0000010 050  VVZ     makes                    X2.5+[i3.2.1 S1.2.6+[i3.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000010 060  NN1     sense                    X2.5+[i3.2.2 S1.2.6+[i3.2.2 A4.1 Q3 X3 S1.2.6+ E1 X2.1 X9.1+ A8 
+0000010 061  ;       ;                        
+0000010 070  NN1     co-founder               T2+/S2mf 
+0000010 080  NN2     relationships            S3.1 S3.2 A2.2 S4 
+0000010 090  VBR     are                      A3+ Z5 
+0000010 100  RR21@   a                        A13.3[i4.2.1 N6+[i4.2.1 
+0000010 110  RR22    lot                      A13.3[i4.2.2 N6+[i4.2.2 
+0000010 120  II      like                     Z5 
+0000010 130  NN2     marriages                S4 
+0000010 140  NN1     --                       Z99 
+0000010 150  CC      and                      Z5 
+0000010 160  PPHS2   they                     Z8mfn 
+0000010 170  VV0     need                     S6+ 
+0000010 180  TO      to                       Z5 
+0000010 190  VVI     evolve                   A2.1+ 
+0000010 200  RR      similarly                A6.1+ 
+0000010 201  .       .                        
+0000010 202  -----   -----                    
+0000010 210  VV0     Think                    X2.1 
+0000010 220  IO      of                       Z5 
+0000010 230  VHG     having                   S4[i5.2.1 A9+ Z5 A2.2 S4 
+0000010 240  NN2     kids                     S4[i5.2.2 S2mf/T3- S4mf L2 
+0000010 250  II      as                       Z5 
+0000010 260  AT1     an                       Z5 
+0000010 270  NN1     analogy                  A6.1+ 
+0000010 271  ;       ;                        
+0000010 280  JJ      married                  S4 A2.2 
+0000010 290  NN2     couples                  S3.2/S2mf 
+0000010 300  RR      often                    N6+ 
+0000010 310  VV0     produce                  A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000010 320  NN2     children                 S2mf/T3- S4mf 
+0000010 330  RL      together                 S5+ T1.1.2 M6 
+0000010 331  ,       ,                        
+0000010 340  NN2     co-founders              T2+/S2mf 
+0000010 350  VV0     produce                  A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000010 360  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000010 370  RL      together                 S5+ T1.1.2 M6 
+0000010 371  ,       ,                        
+0000010 380  DB2     both                     N5 
+0000010 390  VBR     are                      A3+ Z5 
+0000010 400  NN2     activities               A1.1.1 
+0000010 410  CST     that                     Z8 Z5 
+0000010 420  VBR     are                      A3+ Z5 
+0000010 430  RR      extremely                A13.3 
+0000010 440  RR      emotionally              E1 
+0000010 450  CC      and                      Z5 
+0000010 460  RR      financially              I1 
+0000010 470  JJ      stressful                E6- 
+0000010 471  .       .                        
+0000011 001  NULL    </quote>                 
+0000011 002  -----   -----                    
+0000012 010  RR      So                       Z5 A13.3 
+0000012 011  ,       ,                        
+0000012 020  VV0     assume                   X2.1 A5.4-/A8 
+0000012 030  IF      for                      T1.3[i6.3.1 Z5 
+0000012 040  AT1     a                        T1.3[i6.3.2 Z5 
+0000012 050  NNT1    minute                   T1.3[i6.3.3 T1.3 
+0000012 060  CST     that                     Z8 Z5 
+0000012 070  PPY     you                      Z8mf 
+0000012 080  VM      would                    A7+ 
+0000012 090  VVI     like                     E2+ 
+0000012 100  TO      to                       Z5 
+0000012 110  VHI     have                     A9+ Z5 A2.2 S4 
+0000012 120  AT1     a                        Z5 
+0000012 130  NN1     child                    S2mf/T3- S4mf 
+0000012 131  .       .                        
+0000012 132  -----   -----                    
+0000012 140  VM      Would                    A7+ 
+0000012 150  PPY     you                      Z8mf 
+0000012 160  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
+0000012 170  TO      to                       Z5 
+0000012 180  VHI     have                     A9+ Z5 A2.2 S4 
+0000012 190  AT1     a                        Z5 
+0000012 200  NN1     kid                      S2mf/T3- S4mf L2 
+0000012 210  IW      with                     Z5 
+0000012 220  PN1     someone                  Z8mfc 
+0000012 230  CS      before                   Z5 
+0000012 240  PPY     you                      Z8mf 
+0000012 250  VVD     knew                     X2.2+ S3.2/B1% 
+0000012 260  PPHO2   them                     Z8mfn 
+0000012 270  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000012 280  CC      and                      Z5 
+0000012 290  VV0     build                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000012 300  AT1     a                        Z5 
+0000012 310  NN1     marriage                 S4 
+0000012 320  II      on                       M6[i7.3.1 A1.1.1[i7.3.1 Z5 
+0000012 330  AT      the                      M6[i7.3.2 A1.1.1[i7.3.2 Z5 
+0000012 340  JJ      common                   A6.2+ N5++ S5+ O4.2- A6.1+[i8.2.1 
+0000012 350  NN1     ground                   M6[i7.3.3 A1.1.1[i7.3.3 M6 W3 M7 O3 X2.1 A6.1+[i8.2.2 
+0000012 360  IO      of                       Z5 
+0000012 370  JJ      shared                   S1.1.2+ 
+0000012 380  NN1     parenthood               S4 
+0000012 390  NN1     --                       Z99 
+0000012 400  CC      or                       Z5 
+0000012 410  VM      would                    A7+ 
+0000012 420  PPY     you                      Z8mf 
+0000012 430  RR@     rather                   Z4 E2++ 
+0000012 440  VVI     build                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000012 450  AT1     a                        Z5 
+0000012 460  NN1     relationship             S3.1 S3.2 A2.2 S4 
+0000012 470  CST     that                     Z8 Z5 
+0000012 480  VM      could                    A7+ 
+0000012 490  VVI     support                  S8+ A1.1.1 K5.1 I1.1 A10+ 
+0000012 500  AT      the                      Z5 
+0000012 510  JJ      healthy                  B2+ X9.2+ A5.1+ 
+0000012 520  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000012 530  IO      of                       Z5 
+0000012 540  AT      the                      Z5 
+0000012 550  NN1     child                    S2mf/T3- S4mf 
+0000012 560  II21    prior                    N4[i9.2.1 
+0000012 570  II22    to                       N4[i9.2.2 Z5 
+0000012 580  VVG     embarking                T2+[i10.2.1 M1 T2+ 
+0000012 590  II      on                       T2+[i10.2.2 Z5 
+0000012 600  AT      the                      Z5 
+0000012 610  JJ      stressful                E6- 
+0000012 620  NN1     journey                  M1 
+0000012 621  ?       ?                        
+0000013 001  -----   -----                    
+0000014 010  NP1@    Spoiler                  Z99 
+0000014 011  :       :                        
+0000014 020  AT      the                      Z5 
+0000014 030  DA      latter                   N4 
+0000014 040  NN1     method                   X4.2 
+0000014 050  VVZ     works                    I3.1 A1.1.1 X9.2+ A2.2 
+0000014 060  RR      much                     A13.3 N6+ 
+0000014 070  RRR     better                   A5.1++ G2.2++ O4.2++ 
+0000014 071  .       .                        
+0000015 001  -----   -----                    
+0000016 010  NN2     Products                 O2 A1.1.1 A2.2 N2% 
+0000016 011  ,       ,                        
+0000016 020  II      like                     Z5 
+0000016 030  NN2     children                 S2mf/T3- S4mf 
+0000016 031  ,       ,                        
+0000016 040  VBR     are                      A3+ Z5 
+0000016 050  VV0     build                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000016 060  II      through                  Z5 
+0000016 070  AT1     a                        Z5 
+0000016 080  NN1     process                  A1.1.1 X4.2 
+0000016 090  IO      of                       Z5 
+0000016 100  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000016 101  .       .                        
+0000016 102  -----   -----                    
+0000016 110  PPHS2   They                     Z8mfn 
+0000016 120  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000016 121  XX      n't                      Z6 
+0000016 130  VVI     come                     M1[i11.2.1 A10-[i11.2.1 A10+[i11.2.1 A1.1.1[i11.2.1 T2-[i11.2.1 S3.2/B1@[i11.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000016 140  RP      out                      M1[i11.2.2 A10-[i11.2.2 A10+[i11.2.2 A1.1.1[i11.2.2 T2-[i11.2.2 S3.2/B1@[i11.2.2 M6 
+0000016 150  II      like                     Z5 
+0000016 160  PPY     you                      Z8mf 
+0000016 170  VV0     expect                   X2.6+ B1 
+0000016 180  PPHO2   them                     Z8mfn 
+0000016 190  II      to                       Z5 
+0000016 200  II      at                       Z5 
+0000016 210  AT      the                      Z5 
+0000016 220  NN1     beginning                T2+ 
+0000016 221  ,       ,                        
+0000016 230  CC      and                      Z5 
+0000016 240  APPGE   your                     Z8 
+0000016 250  JJT     best                     A5.1+++ G2.2+++ O4.2+++ 
+0000016 260  JJ@     laid                     M2 M1 L2 T2+ A1.1.1 
+0000016 270  NN2     plans                    X7+ C1/H1 
+0000016 280  VV0     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000016 290  RR      completely               A13.2 
+0000016 300  VVN     altered                  A2.1+ 
+0000016 310  II      by                       Z5 
+0000016 320  JJ      unpredictable            X2.6- 
+0000016 330  NN2     circumstances            O4.1 
+0000016 331  .       .                        
+0000016 332  -----   -----                    
+0000016 340  DDQ     What                     Z8 Z5 
+0000016 350  VVZ     determines               A2.2 A7+ X6+ 
+0000016 360  APPGE   your                     Z8 
+0000016 370  NN1     success                  X9.2+ 
+0000016 380  VBZ     is                       A3+ Z5 
+0000016 390  RRQ     how                      Z5 A13.3 
+0000016 400  PPY     you                      Z8mf 
+0000016 401  ,       ,                        
+0000016 410  CC      and                      Z5 
+0000016 420  APPGE   your                     Z8 
+0000016 430  NN1     partner                  S3.1/S2mf S3.2/S2mf S4mf 
+0000016 431  ,       ,                        
+0000016 440  VV0     react                    A1.1.1 A6.1- B2- Y1 
+0000016 450  II      to                       Z5 
+0000016 460  AT      the                      Z5 
+0000016 470  NNU     curveballs.              Z99 
+0000016 471  (       &lsqb;                   
+0000016 480  MC      2                        N1 T1.2 T3 T1.3 N3.2 
+0000016 481  )       &rsqb;                   
+0000018 010  APPGE   Your                     Z8 
+0000018 020  NN1     average                  A6.2+ A5.1 N2 
+0000018 021  NULL    <quote>                  
+0000018 022  -----   -----                    
+0000018 023  "       "                        
+0000018 030  NN1     Business                 I2.1 A1.1.1 A5.1+++ 
+0000018 040  NP1     Guy                      Z1mf 
+0000018 050  VVG     Seeking                  X2.4 
+0000018 060  NN1     Co-Founder               T2+/S2mf 
+0000018 061  "       "                        
+0000018 062  NULL    </quote>                 
+0000018 063  -----   -----                    
+0000018 070  PNQS    who                      Z8 
+0000018 071  VBZ     's                       A3+ Z5 
+0000018 080  RP      out                      M6 
+0000018 090  VVG     cruising                 M4 M1 
+0000018 100  NN1     tech                     Y1/P1 Y1 
+0000018 110  NN2     events                   A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
+0000018 120  VBZ     is                       Z5 A3+ 
+0000018 121  XX      n't                      Z6 
+0000018 130  RR      actually                 A5.4+ A14 
+0000018 140  VVG     looking                  X2.4[i12.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000018 150  IF      for                      X2.4[i12.2.2 Z5 
+0000018 160  AT1     a                        Z5 
+0000018 170  NN1     co-founder               T2+/S2mf 
+0000018 171  ,       ,                        
+0000018 180  PPHS2   they                     Z8mfn 
+0000018 190  VBR     are                      Z5 A3+ 
+0000018 200  VVG     looking                  X2.4[i13.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000018 210  IF      for                      X2.4[i13.2.2 Z5 
+0000018 220  AT1     a                        Z5 
+0000018 230  JJ      hired                    I2.2 I3.1 
+0000018 240  NN1     hand                     B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000018 250  TO      to                       Z5 
+0000018 260  VVI     build                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000018 270  AT      the                      Z5 
+0000018 280  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000018 290  II      to                       Z5 
+0000018 300  APPGE   their                    Z8 
+0000018 310  NN2     specs                    B3/X3.4 
+0000018 311  ,       ,                        
+0000018 320  CCB     but                      Z5 
+0000018 330  TO      to                       Z5 
+0000018 340  VDI     do                       G2.1 
+0000018 350  PPH1    it                       Z8 
+0000018 360  IF      for                      Z5 
+0000018 370  NN1     equity                   G2.2+ G2.1 I1.1 
+0000018 380  II21    instead                  A6.1-[i14.2.1 
+0000018 390  II22    of                       A6.1-[i14.2.2 
+0000018 400  NN1     cash                     I1 
+0000018 401  .       .                        
+0000019 001  -----   -----                    
+0000020 010  NN2     Couples                  S3.2/S2mf 
+0000020 020  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000020 021  XX      n't                      Z6 
+0000020 030  VVI     become                   A2.1+ O4.2+ 
+0000020 040  JJ      ready                    O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+ 
+0000020 050  TO      to                       Z5 
+0000020 060  VHI     have                     A9+ Z5 A2.2 S4 
+0000020 070  NN2     children                 S2mf/T3- S4mf 
+0000020 080  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000020 090  CS      because                  Z5/A2.2 
+0000020 100  PPHS2   they                     Z8mfn 
+0000020 110  VBR     are                      A3+ Z5 
+0000020 111  NULL    <quote>                  
+0000020 112  -----   -----                    
+0000020 113  "       "                        
+0000020 120  NN1     man                      S2.2m 
+0000020 121  "       "                        
+0000020 122  NULL    </quote>                 
+0000020 123  -----   -----                    
+0000020 130  CC      and                      Z5 
+0000020 131  NULL    <quote>                  
+0000020 132  -----   -----                    
+0000020 133  "       "                        
+0000020 140  NN1     woman                    S2.1f 
+0000020 141  "       "                        
+0000020 142  NULL    </quote>                 
+0000020 143  -----   -----                    
+0000020 150  NN1     --                       Z99 
+0000020 160  RR      similarly                A6.1+ 
+0000020 161  ,       ,                        
+0000020 170  NN2     teams                    S5+ K5.1/S5+ 
+0000020 180  VBR     are                      A3+ Z5 
+0000020 181  XX      n't                      Z6 
+0000020 190  JJ      ready                    O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+ 
+0000020 200  TO      to                       Z5 
+0000020 210  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000020 220  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000020 230  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000020 240  CS      because                  Z5/A2.2 
+0000020 250  PPHS2   they                     Z8mfn 
+0000020 260  VH0     have                     A9+ Z5 A2.2 S4 
+0000020 261  NULL    <quote>                  
+0000020 262  -----   -----                    
+0000020 263  "       "                        
+0000020 270  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000020 271  "       "                        
+0000020 272  NULL    </quote>                 
+0000020 273  -----   -----                    
+0000020 280  CC      and                      Z5 
+0000020 281  NULL    <quote>                  
+0000020 282  -----   -----                    
+0000020 283  "       "                        
+0000020 290  NN1     developer                H1/S2mf C1/O1.2@@ 
+0000020 291  .       .                        
+0000020 292  "       "                        
+0000020 293  NULL    </quote>                 
+0000020 294  -----   -----                    
+0000022 010  II21    Instead                  A6.1-[i15.2.1 
+0000022 020  II22    of                       A6.1-[i15.2.2 
+0000022 030  VVG     running                  M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000022 040  II      from                     Z5 
+0000022 050  NN1     event                    A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
+0000022 060  II      to                       Z5 
+0000022 070  NN1     event                    A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
+0000022 080  VVG     trying                   X8+ X2.4 Q2.2 G2.1 A12- 
+0000022 090  TO      to                       Z5 
+0000022 100  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000022 110  NN2     developers               H1/S2mf C1/O1.2 
+0000022 120  VVN@    excited                  X5.2+ 
+0000022 130  II      about                    Z5 
+0000022 140  APPGE   your                     Z8 
+0000022 150  NN1     idea                     X4.1 X7+ 
+0000022 151  ,       ,                        
+0000022 160  VV0     think                    X2.1 
+0000022 170  II      about                    Z5 
+0000022 180  AT      the                      Z5 
+0000022 190  NN2     types                    A4.1 A6.2+ S1.2 Q1.2 
+0000022 200  IO      of                       Z5 
+0000022 210  NN      people                   S2mfc 
+0000022 220  PPY     you                      Z8mf 
+0000022 230  VV0     need                     S6+ 
+0000022 240  TO      to                       Z5 
+0000022 250  VVI     give                     A9- A1.1.1 
+0000022 260  APPGE   your                     Z8 
+0000022 270  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000022 280  AT      the                      Z5 
+0000022 290  RRT     best                     A5.1+++ A13.2 G2.2+++ O4.2+++ 
+0000022 300  VVN     shot                     G3 K5.1 M1 M2 Q4.3 A1.1.2 Q1.2 S1.2.6-% 
+0000022 310  II      at                       Z5 
+0000022 320  AT1     a                        Z5 
+0000022 330  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000022 340  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000022 341  .       .                        
+0000022 342  -----   -----                    
+0000022 350  XX      Not                      Z6 
+0000022 360  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000022 370  NN2     skill-sets               Z99 
+0000022 371  ,       ,                        
+0000022 380  CCB     but                      Z5 
+0000022 390  NN2     personalities            S1.2 S2mf 
+0000022 391  ,       ,                        
+0000022 400  NN2     codes                    G2.1 A10-/Q1.1 G2.2 A4.1 Y2@ B3% B1% 
+0000022 410  IO      of                       Z5 
+0000022 420  NN1     conduct                  S1.1.1 
+0000022 421  ,       ,                        
+0000022 430  NN2     theories                 X4.1 
+0000022 440  CC      and                      Z5 
+0000022 450  NN2     principles               G2.2 X4.1 
+0000022 451  .       .                        
+0000023 001  -----   -----                    
+0000024 010  RR      Finally                  N4 
+0000024 011  ,       ,                        
+0000024 020  VV0     think                    X2.1 
+0000024 030  II      about                    Z5 
+0000024 040  RRQ     why                      A2.2 
+0000024 050  DD2     these                    Z5 Z8 
+0000024 060  NN2     folks                    S2mf S4mf 
+0000024 070  VM      would                    A7+ 
+0000024 080  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
+0000024 090  TO      to                       Z5 
+0000024 100  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000024 110  IW      with                     Z5 
+0000024 120  PPY     you                      Z8mf 
+0000024 121  ,       ,                        
+0000024 130  CC      and                      Z5 
+0000024 140  VVI     know                     X2.2+ S3.2/B1% 
+0000024 150  CST     that                     Z8 Z5 
+0000024 160  VVG     improving                A5.1+/A2.1 
+0000024 170  PPX1    yourself                 Z8 
+0000024 171  ,       ,                        
+0000024 180  CC      and                      Z5 
+0000024 190  DDQ     what                     Z8 Z5 
+0000024 200  PPY     you                      Z8mf 
+0000024 210  VV0     bring                    M2 A2.2 
+0000024 220  II      to                       Z5 
+0000024 230  AT      the                      Z5 
+0000024 240  NN1     table                    H5 Q1.2 N2 
+0000024 241  ,       ,                        
+0000024 250  VM      will                     T1.1.3 
+0000024 260  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000024 270  PPY     you                      Z8mf 
+0000024 280  RGR     more                     A13.3 
+0000024 290  JJ      successful               X9.2+ 
+0000024 291  .       .                        
+0000024 292  -----   -----                    
+0000024 293  (       &lsqb;                   
+0000024 300  MC      3                        N1 T1.2 T3 T1.3 N3.2 
+0000024 301  )       &rsqb;                   
+0000026 010  NN2     Footnotes                Q1.2 
+0000026 011  :       :                        
+0000028 001  (       &lsqb;                   
+0000028 010  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000028 011  )       &rsqb;                   
+0000028 020  JJ      Important                A11.1+ 
+0000028 030  NN1     Point                    Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
+0000028 031  ,       ,                        
+0000028 040  PPIS1   I                        Z8mf 
+0000028 041  VBM     'm                       Z5 A3+ 
+0000028 050  XX      not                      Z6 
+0000028 060  VVG     speaking                 Q2.1 
+0000028 070  IF      for                      Z5 
+0000028 080  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
+0000028 090  RL      here                     M6 T1.1.2 T1.2 
+0000028 091  .       .                        
+0000028 092  -----   -----                    
+0000028 100  PPIS1   I                        Z8mf 
+0000028 110  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000028 111  XX      n't                      Z6 
+0000028 120  VHI     have                     S4[i16.2.1 A9+ Z5 A2.2 S4 
+0000028 130  NN2     kids                     S4[i16.2.2 S2mf/T3- S4mf L2 
+0000028 131  .       .                        
+0000028 132  -----   -----                    
+0000028 140  DD1     That                     Z8 Z5 
+0000028 150  VVD     said                     Q2.1 
+0000028 151  ,       ,                        
+0000028 160  PPIS1   I                        Z8mf 
+0000028 161  VBM     'm                       A3+ Z5 
+0000028 170  RG      pretty                   A13.5 
+0000028 180  JJ      sure                     A7+ Z4 
+0000028 190  PPHS2   they                     Z8mfn 
+0000028 200  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000028 201  XX      n't                      Z6 
+0000028 210  VVI     come                     M1[i17.2.1 A10-[i17.2.1 A10+[i17.2.1 A1.1.1[i17.2.1 T2-[i17.2.1 S3.2/B1@[i17.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000028 220  RP      out                      M1[i17.2.2 A10-[i17.2.2 A10+[i17.2.2 A1.1.1[i17.2.2 T2-[i17.2.2 S3.2/B1@[i17.2.2 M6 
+0000028 230  RR      fully                    A13.2 N5.1+ 
+0000028 240  VVN     developed                A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000028 241  ,       ,                        
+0000028 250  CS      if                       Z7 
+0000028 260  PPHS2   they                     Z8mfn 
+0000028 270  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000028 271  ,       ,                        
+0000028 280  APPGE   my                       Z8 
+0000028 290  NN2     parents                  S4mf A9+ 
+0000028 300  VVN@    worried                  E6- 
+0000028 310  II      about                    Z5 
+0000028 320  PPIO1   me                       Z8mf 
+0000028 330  IF      for                      Z5 
+0000028 340  DA2     several                  N5 
+0000028 350  NNT2    decades                  T1.3 
+0000028 360  IF      for                      Z5 
+0000028 370  AT      no                       X9.2-[i18.2.1 A5.1-[i18.2.1 Z6 
+0000028 380  JJ      good                     X9.2-[i18.2.2 A5.1-[i18.2.2 A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000028 390  NN1     reason                   A2.2 X2.1 
+0000028 391  .       .                        
+0000029 001  -----   -----                    
+0000030 001  (       &lsqb;                   
+0000030 010  MC      2                        N1 T1.2 T3 T1.3 N3.2 
+0000030 011  )       &rsqb;                   
+0000030 020  DD1     This                     Z8 M6 Z5 
+0000030 030  VM      could                    A7+ 
+0000030 040  VVI     make                     X2.5+[i19.2.1 S1.2.6+[i19.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000030 050  NN1     sense                    X2.5+[i19.2.2 S1.2.6+[i19.2.2 A4.1 Q3 X3 S1.2.6+ E1 X2.1 X9.1+ A8 
+0000030 060  CS      if                       Z7 
+0000030 070  NNB     Mr.                      Z1m[i21.3.1 S2.2m Z1m[i20.2.1 
+0000030 080  NP1     Business                 Z1m[i21.3.2 Z1m[i20.2.2 Z1mf[i22.2.1 Z3c[i22.2.1 
+0000030 090  NP1     Guy                      Z1m[i21.3.3 Z1mf Z1mf[i22.2.2 Z3c[i22.2.2 
+0000030 100  VHD     had                      A9+ Z5 A2.2 S4 
+0000030 110  AT1     a                        Z5 
+0000030 120  RR      MUCH                     A13.3 N6+ 
+0000030 130  JJR     better                   A5.1++ G2.2++ O4.2++ 
+0000030 140  NN1     understanding            X2.5+ 
+0000030 150  IO      of                       Z5 
+0000030 160  AT      the                      Z5 
+0000030 170  NN1     market                   I2.2 I2.2/H1 
+0000030 180  NN2     needs                    S6+ 
+0000030 181  ,       ,                        
+0000030 190  AT      the                      Z5 
+0000030 200  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000030 210  NN2     capabilities             X9.1+ 
+0000030 211  ,       ,                        
+0000030 220  CC      and                      Z5 
+0000030 230  AT      the                      Z5 
+0000030 240  NN1     process                  A1.1.1 X4.2 
+0000030 250  VVN     required                 X7+ S6+ 
+0000030 260  TO      to                       Z5 
+0000030 270  VVI     build                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000030 280  AT1     a                        Z5 
+0000030 290  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000030 300  CST     that                     Z8 Z5 
+0000030 310  VVD     evolved                  A2.1+ 
+0000030 320  II      over                     T1.3+[i23.2.1 Z5 
+0000030 330  NNT1    time                     T1.3+[i23.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000030 331  .       .                        
+0000030 332  -----   -----                    
+0000030 340  VVG     Developing               A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000030 350  DD1     this                     M6 Z5 Z8 
+0000030 360  NN1     skillset                 Z99 
+0000030 370  VVZ     turns                    M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000030 380  NNB     Mr.                      Z1m[i25.3.1 S2.2m Z1m[i24.2.1 
+0000030 390  NP1     Business                 Z1m[i25.3.2 Z1m[i24.2.2 Z1mf[i26.2.1 Z3c[i26.2.1 
+0000030 400  NP1     Guy                      Z1m[i25.3.3 Z1mf Z1mf[i26.2.2 Z3c[i26.2.2 
+0000030 410  II      into                     Z5 
+0000030 420  NNB     Mr.                      Z1m[i28.3.1 S2.2m Z1m[i27.2.1 
+0000030 430  NP1     Product                  Z1m[i28.3.2 Z1m[i27.2.2 Z1mf[i29.2.1 Z3c[i29.2.1 
+0000030 440  NP1     Guy                      Z1m[i28.3.3 Z1mf Z1mf[i29.2.2 Z3c[i29.2.2 
+0000030 441  ,       ,                        
+0000030 450  CC      and                      Z5 
+0000030 460  VVZ     makes                    A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000030 470  PPHO1   him                      Z8m 
+0000030 480  AT1     a                        Z5 
+0000030 490  RR      much                     A13.3 N6+ 
+0000030 500  RGR     more                     A13.3 
+0000030 510  JJ      attractive               O4.2+ S3.2 
+0000030 520  NNU     cofounder.               T2+/S2mf 
+0000032 001  (       &lsqb;                   
+0000032 010  MC      3                        N1 T1.2 T3 T1.3 N3.2 
+0000032 011  )       &rsqb;                   
+0000032 020  RR      Seriously                A13.3 Z4 E4.1- 
+0000032 021  ,       ,                        
+0000032 030  VV0     stop                     T2- S8- M8 H4 A1.1.1@ 
+0000032 040  VBG     being                    A3+ Z5 
+0000032 050  RG      so                       A13.3 
+0000032 060  JJ      amazed                   X2.6- 
+0000032 070  II      at                       Z5 
+0000032 080  APPGE   your                     Z8 
+0000032 090  NN1     ability                  X9.1+ 
+0000032 100  TO      to                       Z5 
+0000032 110  VVI     think                    X2.1 
+0000032 120  IO      of                       Z5 
+0000032 130  AT1     an                       Z5 
+0000032 140  JJ      interesting              X5.2+ 
+0000032 150  NN1     idea                     X4.1 X7+ 
+0000032 151  .       .                        
+0000032 152  -----   -----                    
+0000032 160  VV0     Learn                    X2.3+ P1 
+0000032 170  RRQ     how                      Z5 A13.3 
+0000032 180  TO      to                       Z5 
+0000032 190  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000032 200  NN1     market                   I2.2 I2.2/H1 
+0000032 210  NN1     feedback                 X2.4/A5 
+0000032 211  .       .                        
+0000032 212  -----   -----                    
+0000032 220  VV0     Take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000032 230  AT1     a                        Z5 
+0000032 240  NN1     job                      I3.1 A1.1.1 A12- 
+0000032 250  II      at                       Z5 
+0000032 260  AT1     a                        Z5 
+0000032 270  NN1     startup                  T2+ 
+0000032 280  CC      and                      Z5 
+0000032 290  VV0     learn                    X2.3+ P1 
+0000032 300  RRQ     how                      Z5 A13.3 
+0000032 310  TO      to                       Z5 
+0000032 320  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000032 330  NN1     inbound                  Z99/I2.2[i30.2.1 
+0000032 340  NN1     marketing                Z99/I2.2[i30.2.2 I2.2 
+0000032 341  ,       ,                        
+0000032 350  CC      or                       Z5 
+0000032 360  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000032 370  NN1     management               S7.1+c 
+0000032 371  .       .                        
+0000032 372  -----   -----                    
+0000032 380  VV0     Learn                    X2.3+ P1 
+0000032 390  DD      some                     N5 Z5 
+0000032 400  NN1     design                   C1 X7+ B5 
+0000032 410  CC      or                       Z5 
+0000032 420  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000032 430  NN2     skills                   X9.1+ 
+0000032 440  II      in                       Z5 
+0000032 450  APPGE   your                     Z8 
+0000032 460  JJ      spare                    K1/T1.3[i31.2.1 N5.2+ O4.1 
+0000032 470  NNT1    time                     K1/T1.3[i31.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000032 471  .       .                        
+0000032 472  -----   -----                    
+0000032 480  VV0%    Better                   A5.1+/A2.1[i32.2.1 A5.1++ 
+0000032 490  PPX1    thyself                  A5.1+/A2.1[i32.2.2 
+0000032 491  .       .                        
+0000034 001  NULL    **8;7;text               

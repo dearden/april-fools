@@ -1,0 +1,423 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  IF      For                      Z5 
+0000002 020  JJ      Immediate                N3.8+ T1.1.2/A11.1+ N4 N3.3- S4 
+0000002 030  NN1     Release                  A1.7- A9- I2.2 K3 Q4 E6+ 
+0000002 031  !       !                        
+0000003 001  -----   -----                    
+0000003 010  NP1     Madonna                  Z1f 
+0000003 020  NN2     Inks                     O1.2 Q1.2 
+0000003 030  VV0     Deal                     Z2c 
+0000003 040  IW      With                     Z5 
+0000003 050  NN1     Lucasfilm                Z99 
+0000003 060  IF      For                      Z5 
+0000003 070  NN1     Star                     Z3c 
+0000003 080  NN2     Wars                     G3 S7.3 
+0000003 090  NN1     Television               Q4.3 
+0000003 100  NN1     Show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000004 010  NPD1    Friday                   T1.3 
+0000004 011  ,       ,                        
+0000004 020  NPM1    March                    T1.3[i1.2.1 T1.3 
+0000004 030  MD      31st                     T1.3[i1.2.2 N4 T1.3 
+0000004 031  ,       ,                        
+0000004 040  MC      5:35                     N1 T1.2 T3 T1.3 N3.2 
+0000004 050  NP1     PM                       Z1mf[i3.3.1 Z3c[i3.3.1 Z1mf[i2.2.1 Z3c[i2.2.1 
+0000006 010  NP1     Liz                      Z1mf[i3.3.2 Z3c[i3.3.2 Z1f Z1mf[i2.2.2 Z3c[i2.2.2 Z1mf[i4.2.1 Z3c[i4.2.1 
+0000006 020  NP1     Rosenburg                Z3c[i3.3.3 Z1mf[i3.3.3 Z1mf[i4.2.2 Z3c[i4.2.2 
+0000006 030  CC      and                      Z5 
+0000006 040  AT1     a                        Z5 
+0000006 050  NN1     spokesperson             Q2.2/S2mf 
+0000006 060  IF      for                      Z5 
+0000006 070  NP1     Lucasfilm                Z99 
+0000006 080  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000006 090  VVN     confirmed                A7+ Q2.2 S9@ 
+0000006 100  CST     that                     Z5 Z8 
+0000006 110  AT      the                      Z5 
+0000006 120  JJ      reigning                 S7.1+ 
+0000006 130  NN1     Queen                    Z3c 
+0000006 140  IO      of                       Z5 
+0000006 150  NN1     Pop                      K2 X3.2 F2 S4m 
+0000006 160  CC      and                      Z5 
+0000006 170  AT      the                      Z5 
+0000006 180  NN1     father                   S4m S9/S2.2m 
+0000006 190  IO      of                       Z5 
+0000006 200  NN1     Star                     Z3c 
+0000006 210  NN2     Wars                     G3 S7.3 
+0000006 220  VM      may                      A7+ 
+0000006 221  ,       ,                        
+0000006 230  II      in                       A5.2+[i5.2.1 Z5 
+0000006 240  NN1     fact                     A5.2+[i5.2.2 A5.2+ X2.2 
+0000006 241  ,       ,                        
+0000006 250  RR      soon                     T1.1.3/N3.8+ 
+0000006 260  VBI     be                       Z5 A3+ 
+0000006 270  VVG     working                  A1.1.1/S5+[i6.2.1 I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000006 280  RL      together                 A1.1.1/S5+[i6.2.2 S5+ T1.1.2 M6 
+0000006 281  .       .                        
+0000006 282  -----   -----                    
+0000006 290  DD1     This                     Z8 M6 Z5 
+0000006 300  VVZ     comes                    M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000006 310  II      after                    Z5 
+0000006 320  AT1     a                        Z5 
+0000006 330  NN1     photo                    C1 
+0000006 340  VBDZ    was                      Z5 A3+ 
+0000006 350  VVN     leaked                   A1.7- A1.1.2 A10+/Q2.2 
+0000006 360  II      to                       Z5 
+0000006 370  AT      the                      Z5 
+0000006 380  NN1     internet                 Y2 
+0000006 390  IO      of                       Z5 
+0000006 400  NP1     Madonna                  Z1f 
+0000006 401  GE      's                       Z5 
+0000006 410  NN1     audition                 K4 
+0000006 420  IF      for                      Z5 
+0000006 430  AT      the                      Z5 
+0000006 440  JJ      forthcoming              T1.1.3 S1.2.3+ 
+0000006 450  NN1     Star                     Z3c 
+0000006 460  NN2     Wars                     G3 S7.3 
+0000006 470  NN1     television               Q4.3 
+0000006 480  NN1     project                  A1.1.1 P1 
+0000006 481  .       .                        
+0000007 001  -----   -----                    
+0000009 010  RR      Sith                     Z99 
+0000009 020  NP1     Diva                     Z99 
+0000011 001  NULL    <quote>                  
+0000011 002  -----   -----                    
+0000011 003  "       "                        
+0000011 010  NP1     Madonna                  Z1f 
+0000011 020  VBZ     is                       A3+ Z5 
+0000011 030  AT1     an                       Z5 
+0000011 040  RR      admittedly               Z4 
+0000011 050  JJ      unusual                  A6.2- 
+0000011 060  NN1     choice                   X7+ A6.3+ 
+0000011 070  IF      for                      Z5 
+0000011 080  PPIO2   us                       Z8 
+0000011 081  ,       ,                        
+0000011 090  CCB     but                      Z5 
+0000011 100  NP1     George                   Z1m 
+0000011 110  VHZ     has                      Z5 A9+ A2.2 S4 
+0000011 120  RR      always                   N6+++ 
+0000011 130  VBN     been                     A3+ Z5 
+0000011 140  AT1     a                        Z5 
+0000011 150  NN1     fan                      E2+/S2mf O2 O4.4 
+0000011 160  CC      and                      Z5 
+0000011 170  PPHS1   he                       Z8m 
+0000011 180  RR      really                   A13.3 A5.2+ 
+0000011 190  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
+0000011 200  TO      to                       Z5 
+0000011 210  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000011 220  AT      the                      Z5 
+0000011 230  NN1     saga                     Q2.1 
+0000011 240  II      in                       Z5 
+0000011 250  AT1     a                        Z5 
+0000011 260  JJ      bold                     O4.1 E5+ 
+0000011 270  JJ      new                      T3- 
+0000011 280  NN1     direction                M6 Q2.2 S7.1+ X4.2 K4 
+0000011 281  .       .                        
+0000011 282  "       "                        
+0000011 283  NULL    </quote>                 
+0000011 284  -----   -----                    
+0000011 290  VVD     Said                     Q2.1 
+0000011 300  AT      the                      Z5 
+0000011 310  NN1     Lucasfilm                Z99 
+0000011 320  NN1     rep                      I2.2/S2mf K4c 
+0000011 321  .       .                        
+0000011 322  NULL    <quote>                  
+0000011 323  -----   -----                    
+0000011 324  "       "                        
+0000011 330  RR      Seriously                A13.3 Z4 E4.1- 
+0000011 331  ,       ,                        
+0000011 340  DDQ     what                     Z8 Z5 
+0000011 350  VM      could                    A7+ 
+0000011 360  RR      possibly                 A7+ 
+0000011 370  VBI     be                       A3+ Z5 
+0000011 380  RGR     more                     A13.3 
+0000011 390  JJ      unexpected               X2.6- 
+0000011 391  ?       ?                        
+0000011 392  "       "                        
+0000011 393  NULL    </quote>                 
+0000011 394  -----   -----                    
+0000013 010  NP1     Rosenberg                Z99 
+0000013 020  VVZ     concurs                  A6.1+ Q2.2 
+0000013 021  .       .                        
+0000013 022  NULL    <quote>                  
+0000013 023  -----   -----                    
+0000013 024  "       "                        
+0000013 030  VVZ     Turns                    A1.1.1[i7.2.1 A8[i7.2.1 N5+/S1.1.3[i7.2.1 M1[i7.2.1 M2[i7.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000013 040  RP      out                      A1.1.1[i7.2.2 A8[i7.2.2 N5+/S1.1.3[i7.2.2 M1[i7.2.2 M2[i7.2.2 M6 
+0000013 050  NP1     Rocco                    Z1 
+0000013 060  VBZ     is                       A3+ Z5 
+0000013 070  AT1     a                        Z5 
+0000013 080  JJ      huge                     N3.2+++ 
+0000013 081  ,       ,                        
+0000013 090  JJ      huge                     N3.2+++ 
+0000013 100  NN1     fan                      E2+/S2mf O2 O4.4 
+0000013 101  (       (                        
+0000013 110  IO      of                       Z5 
+0000013 120  ND1     SW                       Z99 
+0000013 121  )       )                        
+0000013 122  ,       ,                        
+0000013 130  CC      and                      Z5 
+0000013 140  NP1     Madge                    Z99 
+0000013 150  RR      initially                N4 
+0000013 160  VVD     went                     M1[i8.2.1 T2+[i8.2.1 X2.4[i8.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000013 170  RP@     in                       M1[i8.2.2 T2+[i8.2.2 X2.4[i8.2.2 M6 
+0000013 180  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000013 190  CS@     so                       Z5 
+0000013 200  PPHS1   he                       Z8m 
+0000013 210  VM      could                    A7+ 
+0000013 220  NN1     tour                     M1 G3@ 
+0000013 230  AT      the                      Z5 
+0000013 240  NN1     ranch                    M7/F4 
+0000013 241  .       .                        
+0000013 242  "       "                        
+0000013 243  NULL    </quote>                 
+0000013 244  -----   -----                    
+0000013 250  CCB     But                      Z5 
+0000013 251  ,       ,                        
+0000013 260  CS      after                    Z5 
+0000013 270  AT1     a                        Z5 
+0000013 280  JJ      lengthy                  T1.3+ N3.7+ 
+0000013 290  MC      two                      N1 T3 T1.2 
+0000013 300  NNT1    hour                     T1.3 
+0000013 310  VVG     meeting                  S3.1 M6 A1.1.1 X9.2+ A6.1+ 
+0000013 320  II      in                       Z5 
+0000013 330  DDQ     which                    Z8 Z5 
+0000013 340  NP1     Lucas                    Z3c Z1mf 
+0000013 350  VVD     outlined                 Q2.1 O4.4 
+0000013 360  APPGE   his                      Z8m 
+0000013 370  NN1     vision                   X4.1 X3.4 X7+ S9@ 
+0000013 380  IF      for                      Z5 
+0000013 390  AT      the                      Z5 
+0000013 400  JJ      top                      A10---[i9.2.1 M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
+0000013 410  JJ      secret                   A10---[i9.2.2 A10- 
+0000013 420  NN1     project                  A1.1.1 P1 
+0000013 421  ,       ,                        
+0000013 430  PPHS1   she                      Z8f 
+0000013 440  VBDZ    was                      Z5 A3+ 
+0000013 450  RR      completely               A13.2 
+0000013 460  VVN     sold                     I2.2 
+0000013 470  II      on                       Z5 
+0000013 480  DB2     both                     N5 
+0000013 490  APPGE   her                      Z8f 
+0000013 500  JJ      possible                 A7+ 
+0000013 510  NN1     role                     I3.1 K4 S1.1.1 A1.1.1 
+0000013 520  CC      and                      Z5 
+0000013 530  AT      the                      Z5 
+0000013 540  NN1     story                    Q2.1 X4.1 Q4 
+0000013 541  .       .                        
+0000013 542  NULL    <quote>                  
+0000013 543  -----   -----                    
+0000013 544  "       "                        
+0000013 550  NP1     Madonna                  Z1f 
+0000013 560  VBDZ    was                      A3+ Z5 
+0000013 570  JJ      surprised                X2.6- 
+0000013 580  II      by                       Z5 
+0000013 590  RGQ@    how                      Z5 A13.3 
+0000013 600  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000013 610  DD1     this                     Z8 M6 Z5 
+0000013 620  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000013 630  VM      might                    A7+ 
+0000013 640  VVI     suit                     A1.2+ 
+0000013 650  PPHO1   her                      Z8f 
+0000013 651  .       .                        
+0000013 652  "       "                        
+0000013 653  NULL    </quote>                 
+0000013 654  -----   -----                    
+0000015 010  RR      Even                     A13.1 
+0000015 020  RGR     more                     A13.3 
+0000015 030  JJ      compelling               A5.2+/A8 
+0000015 040  VBZ     is                       A3+ Z5 
+0000015 050  AT      the                      Z5 
+0000015 060  JJ      long                     N3.7+ T1.3+ N3.3+ N3.2+ 
+0000015 070  JJ@     delayed                  T4- 
+0000015 080  NN1     start                    T2+ E5- 
+0000015 090  NN1     date                     T1.2 S3.2 S3.2/S2mf 
+0000015 100  IO      of                       Z5 
+0000015 110  MC      2008                     N1 T1.2 T3 T1.3 N3.2 
+0000015 111  .       .                        
+0000015 112  -----   -----                    
+0000015 120  DD1     This                     Z8 M6 Z5 
+0000015 130  VVZ     gives                    A9- A1.1.1 
+0000015 140  AT      the                      Z5 
+0000015 150  RR      recently                 T3--- 
+0000015 160  JJ@     recrowned                Z99 
+0000015 170  NN1     disco                    K1/H1 K1 
+0000015 180  NN1     queen                    S7.1+/S2.1f S3.2/S2.2m K5.2 
+0000015 190  PN      plenty                   N5+ 
+0000015 200  IO      of                       Z5 
+0000015 210  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000015 220  TO      to                       Z5 
+0000015 230  VVI     conduct                  A1.1.1 S1.1.1 K2 O4.1 
+0000015 240  APPGE   her                      Z8f 
+0000015 250  NNT1    summer                   T1.3 
+0000015 260  NN1     tour                     M1 G3@ 
+0000015 270  CC      and                      Z5 
+0000015 280  RR      even                     A13.1 
+0000015 290  VV0     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000015 300  II      on                       Z5 
+0000015 310  AT1     an                       Z5 
+0000015 320  NN1     album                    K2 Q4.1 
+0000015 330  CC      or                       Z5 
+0000015 340  MC      two                      N1 T3 T1.2 
+0000015 350  II      before                   Z5 
+0000015 360  VVG     turning                  M1[i10.2.1 M2[i10.2.1 A10+[i10.2.1 X3.2+/A2.1[i10.2.1 B5@[i10.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000015 370  RP      up                       M1[i10.2.2 M2[i10.2.2 A10+[i10.2.2 X3.2+/A2.1[i10.2.2 B5@[i10.2.2 
+0000015 380  II      in                       Z5 
+0000015 390  AT      the                      Z5 
+0000015 400  NN1     bay                      W3/M4 H2 M5 O4.4 L3 
+0000015 410  NN1     area                     M7 A4.1 N3.6 
+0000015 420  IF      for                      Z5 
+0000015 430  DDQ     what                     Z8 Z5 
+0000015 440  VM      would                    A7+ 
+0000015 450  RR      undoubtedly              A7+ 
+0000015 460  VBI     be                       A3+ Z5 
+0000015 470  AT1     a                        Z5 
+0000015 480  JJ      lengthy                  T1.3+ N3.7+ 
+0000015 490  NN1@    stay                     M8 T4- H4 
+0000015 500  CS      until                    Z5 
+0000015 510  AT      the                      Z5 
+0000015 520  NN1     production               A1.1.1 A10+ K4 K3 Q4.3 
+0000015 530  VVZ     moves                    M2 M1 A2.1+ E1 H4/A2.1 
+0000015 540  II      to                       Z5 
+0000015 550  NP1     Australia                Z2 
+0000015 560  RRQ     where                    M6 
+0000015 570  NN1     principle                X4.1 G2.2+ 
+0000015 580  NN1     photography              C1 
+0000015 590  VBZ     is                       Z5 A3+ 
+0000015 600  VVN     rumoured                 Q2.2 
+0000015 610  TO      to                       Z5 
+0000015 620  VVI     take                     A1.1.1[i11.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ A1.1.1[i12.2.1 
+0000015 630  NN1     place                    A1.1.1[i11.2.2 M7 H1 A1.2 P1 A1.1.1[i12.2.2 
+0000015 631  .       .                        
+0000017 001  NULL    <quote>                  
+0000017 002  -----   -----                    
+0000017 003  "       "                        
+0000017 010  NP1     Madonna                  Z1f 
+0000017 020  RR      obviously                Z4 A11.2+ 
+0000017 030  VVZ     knows                    X2.2+ S3.2/B1% 
+0000017 040  DD1     this                     Z8 M6 Z5 
+0000017 050  VBZ     is                       A3+ Z5 
+0000017 060  AT1     a                        Z5 
+0000017 070  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
+0000017 080  NN1     risk                     A15- A1.4 
+0000017 081  ,       ,                        
+0000017 082  "       "                        
+0000017 083  NULL    </quote>                 
+0000017 084  -----   -----                    
+0000017 090  VVD     explained                Q2.2/A7+ A2.2 
+0000017 100  NP1     Rosenburg                Z99 
+0000017 101  .       .                        
+0000017 102  NULL    <quote>                  
+0000017 103  -----   -----                    
+0000017 104  "       "                        
+0000017 110  CC      And                      Z5 
+0000017 120  RR      definitely               A7+++ 
+0000017 130  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
+0000017 140  TO      to                       Z5 
+0000017 150  VBI     be                       A3+ Z5 
+0000017 160  RP      around                   M6 
+0000017 170  IF      for                      Z5 
+0000017 180  AT      the                      Z5 
+0000017 190  JJ      prelimenary              Z99 
+0000017 200  NN1     planning                 X7+ 
+0000017 210  NN2     stages                   T1.2 N5.1- H2/K4 K4 A4.1 
+0000017 220  CS      if                       Z7 
+0000017 230  RR21    at                       A13.7[i13.2.1 Z4[i13.2.1 N5.1+[i13.2.1 
+0000017 240  RR22    all                      A13.7[i13.2.2 Z4[i13.2.2 N5.1+[i13.2.2 A13.2 
+0000017 250  JJ      possible                 A7+ 
+0000017 251  .       .                        
+0000017 252  "       "                        
+0000017 253  NULL    </quote>                 
+0000017 254  -----   -----                    
+0000019 010  RR      Just                     A14 T3--- T1.3- N3.3--- 
+0000019 020  RRQ     how                      Z5 A13.3 
+0000019 030  VVN     sold                     I2.2 
+0000019 040  VBZ     is                       A3+ Z5 
+0000019 050  NP1     Madonna                  Z1f 
+0000019 060  II      on                       Z5 
+0000019 070  APPGE   her                      Z8f 
+0000019 080  NN1     participation            S1.1.3+ 
+0000019 090  II      in                       Z5 
+0000019 100  AT      the                      Z5 
+0000019 110  NN      series                   N4c Q4.3c 
+0000019 111  ?       ?                        
+0000019 112  -----   -----                    
+0000019 120  PPHS1   She                      Z8f 
+0000019 121  VBZ     's                       Z5 A3+ 
+0000019 130  RR      already                  T1.1.1 
+0000019 140  VVN     sent                     M2[i14.2.1 Q2.2[i14.2.1 M2 A2.2 
+0000019 150  RP      out                      M2[i14.2.2 Q2.2[i14.2.2 M6 
+0000019 160  MC      two                      N1 T3 T1.2 
+0000019 170  NN2     assistants               S8+/S2mf I2.2/S2mf 
+0000019 180  IW      with                     Z5 
+0000019 190  NN2     camcorders               Q4.3 
+0000019 200  TO      to                       Z5 
+0000019 210  VVI     scout                    X2.4 
+0000019 220  JJ      possible                 A7+ 
+0000019 230  NN2     residences               H1 H4 
+0000019 240  IF      for                      Z5 
+0000019 250  NP1     Guy                      Z1mf 
+0000019 260  CC      and                      Z5 
+0000019 270  AT      the                      Z5 
+0000019 280  NN1     family                   S4c A4.1c 
+0000019 281  .       .                        
+0000019 282  -----   -----                    
+0000019 290  RR      Moreover                 Z5 
+0000019 291  ,       ,                        
+0000019 300  PPHS1   she                      Z8f 
+0000019 310  VHZ     has                      Z5 A9+ A2.2 S4 
+0000019 320  RR      even                     A13.1 
+0000019 330  VVN     turned                   M1[i15.2.1 S1.1.1[i15.2.1 T2+[i15.2.1 A2.1+[i15.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000019 340  II      to                       M1[i15.2.2 S1.1.1[i15.2.2 T2+[i15.2.2 A2.1+[i15.2.2 Z5 
+0000019 350  NP1     Lucas                    Z3c Z1mf 
+0000019 360  II      on                       Z5 
+0000019 370  NN1     school                   P1/H1c S5+c L2%c 
+0000019 380  NN1     advice                   Q2.2/S8+ 
+0000019 390  IF      for                      Z5 
+0000019 400  AT      the                      Z5 
+0000019 410  NN2     kiddies                  S2mf/T3- S4mf 
+0000019 411  .       .                        
+0000019 412  -----   -----                    
+0000019 420  RR      So                       Z5 A13.3 
+0000019 430  PPH1    it                       Z8 
+0000019 440  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000019 450  VVI     appear                   A8 A10+ A3+ G2.1 K4 Q4 
+0000019 460  CST     that                     Z5 Z8 
+0000019 470  AT      the                      Z5 
+0000019 471  NULL    <quote>                  
+0000019 472  -----   -----                    
+0000019 473  "       "                        
+0000019 480  NN2     stars                    W1 O4.4 A5.1 A11.1+/S2mf S9 
+0000019 481  "       "                        
+0000019 482  NULL    </quote>                 
+0000019 483  -----   -----                    
+0000019 490  VM      may                      A7+ 
+0000019 500  RR      already                  T1.1.1 
+0000019 510  VBI     be                       A3+ Z5 
+0000019 520  RG      very                     A13.3[i16.2.1 A13.3 
+0000019 530  RR      much                     A13.3[i16.2.2 A13.3 N6+ 
+0000019 540  VVN     aligned                  S5+ O4.4 M2 A6.1+/A2.1 
+0000019 550  IF      for                      Z5 
+0000019 560  DD1     this                     Z8 M6 Z5 
+0000019 570  PN1     one                      Z8 
+0000019 571  .       .                        
+0000020 001  -----   -----                    
+0000021 010  PPY     You                      Z8mf 
+0000021 020  VVD     heard                    X3.2 X2.3+ G2.1@ 
+0000021 030  PPH1    it                       Z8 
+0000021 040  RL      here                     M6 T1.1.2 T1.2 
+0000021 050  MD      FIRST                    N4 
+0000021 051  !       !                        
+0000021 052  -----   -----                    
+0000021 060  VV0     Stay                     M8 T2++ H4 
+0000021 070  VVN     tuned                    K2 A1.1.1 Q4.3 A2.1+ 
+0000021 080  II      to                       Z5 
+0000021 090  NP1     TheForce.net             Z99 
+0000021 100  IF      for                      Z5 
+0000021 110  DAR     more                     N5++ 
+0000021 120  II      on                       Z5 
+0000021 130  DD1     this                     Z8 M6 Z5 
+0000021 140  CSA     as                       Z5 
+0000021 150  PPH1    it                       Z8 
+0000021 160  VVZ     developes                Z99 
+0000021 161  !       !                        
+0000024 001  NULL    **8;7;text               

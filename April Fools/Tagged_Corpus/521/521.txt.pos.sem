@@ -1,0 +1,235 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     Manchester               Z2[i1.2.1 Z3c[i1.2.1 Z2 Z3c Z1mf[i2.2.1 Z3c[i2.2.1 
+0000002 020  NN1     City                     Z2[i1.2.2 Z3c[i1.2.2 M7/I2.1c Z3c Z1mf[i2.2.2 Z3c[i2.2.2 
+0000002 030  NN1     chairman                 S7.1+/S2mf 
+0000002 040  NP1     Khaldoon                 Z1mf[i4.3.1 Z3c[i4.3.1 Z1mf[i3.2.1 Z3c[i3.2.1 
+0000002 050  NP1     al                       Z1mf[i4.3.2 Z3c[i4.3.2 Z1m Z1mf[i3.2.2 Z3c[i3.2.2 Z1mf[i5.2.1 Z3c[i5.2.1 
+0000002 060  NP1     Mubarak                  Z3c[i4.3.3 Z1mf[i4.3.3 Z1mf[i5.2.2 Z3c[i5.2.2 
+0000002 061  ,       ,                        
+0000002 070  VVD     left                     M1 M2 A1.1.1 A1.9 A9- T2- 
+0000002 071  ,       ,                        
+0000002 080  IW      with                     Z5 
+0000002 090  NP1     CFG                      Z99 
+0000002 100  JJ      chief                    S7.1+/S2mf[i6.2.1 S7.1+ 
+0000002 110  NN1     executive                S7.1+/S2mf[i6.2.2 
+0000002 120  NP1     Ferran                   Z1mf[i7.2.1 Z3c[i7.2.1 
+0000002 130  NP1     Soriano                  Z1mf[i7.2.2 Z3c[i7.2.2 
+0000002 131  ,       ,                        
+0000002 140  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 150  RR      previously               N4 
+0000002 160  VVN     talked                   Q2.1 
+0000002 170  IO      of                       Z5 
+0000002 180  AT      the                      Z5 
+0000002 190  NN1     group                    S5+c A4.1c B3% 
+0000002 191  GE      's                       Z5 
+0000002 200  NN1     ambition                 X7+ 
+0000002 210  TO      to                       Z5 
+0000002 220  VVI     add                      N5+/A2.1 N2 A1.8+ 
+0000002 230  II      to                       Z5 
+0000002 240  APPGE   its                      Z8 
+0000002 250  NN1@    stable                   L2/H1 
+0000002 260  IO      of                       Z5 
+0000002 270  NN2     clubs                    S5+ O2 K5.2@ 
+0000004 010  NP1     Manchester               Z2[i8.2.1 Z3c[i8.2.1 Z2 Z3c Z1mf[i9.2.1 Z3c[i9.2.1 
+0000004 020  NN1     City                     Z2[i8.2.2 Z3c[i8.2.2 M7/I2.1c Z3c Z1mf[i9.2.2 Z3c[i9.2.2 
+0000004 021  GE      's                       Z5 
+0000004 030  NN2     owners                   A9+/S2mf 
+0000004 040  VH0     have                     Z5 A9+ A2.2 S4 
+0000004 050  VVN     bought                   I2.2 
+0000004 060  JJ      Uruguayan                Z99 
+0000004 070  NN1     side                     A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
+0000004 080  NP1     Atletico                 Z99 
+0000004 090  NN1     Torque                   Z99 
+0000004 091  .       .                        
+0000005 001  -----   -----                    
+0000006 010  AT      The                      Z5 
+0000006 020  NN1     club                     S5+c O2 
+0000006 030  NN1     play                     K4 K5.1 
+0000006 040  II      in                       Z5 
+0000006 050  AT      the                      Z5 
+0000006 060  MD      Second                   K5.1/S5+c[i10.2.1 A5.1-[i10.2.1 N4 
+0000006 070  NN1     Division                 K5.1/S5+c[i10.2.2 A5.1-[i10.2.2 A6.1- N2 G2.1/S5+c G3/S5+c G1.2 K5.2/S5+c 
+0000006 080  IO      of                       Z5 
+0000006 090  AT      the                      Z5 
+0000006 100  JJ      Uruguayan                Z3c[i11.2.1 
+0000006 110  NN1     league                   Z3c[i11.2.2 S5+c K5.1/S5+c S7.3+ N3.3% 
+0000006 120  CC      and                      Z5 
+0000006 130  VH0     have                     Z5 A9+ A2.2 S4 
+0000006 140  VHN     had                      A9+ Z5 A2.2 S4 
+0000006 150  MC      two                      N1[i12.2.1 T3[i12.2.1 T1.2[i12.2.1 T1.3[i12.2.1 N3.3[i12.2.1 N3.5[i12.2.1 I1[i12.2.1 N1 T3 T1.2 
+0000006 160  MC      top-six                  N1[i12.2.2 T3[i12.2.2 T1.2[i12.2.2 T1.3[i12.2.2 N3.3[i12.2.2 N3.5[i12.2.2 I1[i12.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000006 170  NN2     finishes                 T2- O4.1 
+0000006 180  II      in                       A2.1+[i13.2.1 Z5 
+0000006 190  MC      two                      A2.1+[i13.2.2 N1 T3 T1.2 
+0000006 200  NNT2    years                    T1.3 
+0000006 201  .       .                        
+0000007 001  -----   -----                    
+0000008 010  AT      The                      Z5 
+0000008 020  NN1     City                     M7/I2.1c Z3c 
+0000008 030  NN1     Football                 K5.2 
+0000008 040  NN1     Group                    S5+c A4.1c B3% 
+0000008 050  RR      already                  T1.1.1 
+0000008 060  VVZ     owns                     A9+ 
+0000008 070  NN2     clubs                    S5+ O2 K5.2@ 
+0000008 080  II      in                       Z5 
+0000008 090  NP1     Australia                Z2 
+0000008 091  ,       ,                        
+0000008 100  NP1     Japan                    Z2 
+0000008 110  CC      and                      Z5 
+0000008 120  AT      the                      Z5 
+0000008 130  NP1     United                   Z2c[i16.2.1 Z2c[i15.2.1 Z3c Z1mf[i14.2.1 Z3c[i14.2.1 
+0000008 140  NP1     States                   Z2c[i16.2.2 Z2c[i15.2.2 Z2 Z1mf[i14.2.2 Z3c[i14.2.2 
+0000008 150  CC      and                      Z5 
+0000008 160  AT      the                      Z5 
+0000008 170  NN1     purchase                 I2.2 
+0000008 180  IO      of                       Z5 
+0000008 190  NP1     Atletico                 Z99 
+0000008 200  NN1     Torque                   Z99 
+0000008 210  VBZ     is                       Z5 A3+ 
+0000008 220  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000008 230  II      as                       Z5 
+0000008 240  AT1     a                        Z5 
+0000008 250  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000008 260  IO      of                       Z5 
+0000008 270  JJ      increasing               N5+/A2.1 
+0000008 280  NN1@    scouting                 X2.4 K1/S5+ 
+0000008 290  II      in                       Z5 
+0000008 300  ND1     South                    Z2[i18.2.1 M6 Z2[i17.2.1 Z3c[i17.2.1 
+0000008 310  NP1     America                  Z2[i18.2.2 Z2 Z2[i17.2.2 Z3c[i17.2.2 
+0000008 311  .       .                        
+0000009 001  -----   -----                    
+0000010 010  NN1     City                     M7c M7/I2.1c 
+0000010 020  VH0     have                     Z5 A9+ A2.2 S4 
+0000010 030  RR      also                     N5++ 
+0000010 040  VVN     entered                  M1 S5+ Q1.2 T2+ A1.8+ 
+0000010 050  AT1     a                        Z5 
+0000010 060  NN1     collaboration            S1.1.3+ S8+ 
+0000010 070  NN1     agreement                A6.1+ Q2.2 
+0000010 080  IW      with                     Z5 
+0000010 090  NP1     Atletico                 Z1mf[i19.2.1 Z3c[i19.2.1 
+0000010 100  NP1     Venezuela                Z1mf[i19.2.2 Z3c[i19.2.2 Z2 
+0000010 110  IO      of                       Z5 
+0000010 120  AT      the                      Z5 
+0000010 130  NP1     Primera                  Z99 
+0000010 140  NN1     Division                 A6.1- N2 G2.1/S5+c G3/S5+c G1.2 K5.2/S5+c 
+0000010 150  IO      of                       Z5 
+0000010 160  NP1     Venezuela                Z2 
+0000010 161  .       .                        
+0000011 001  -----   -----                    
+0000012 010  NP1     CFG                      Z99 
+0000012 020  JJ      chief                    S7.1+/S2mf[i20.2.1 S7.1+ 
+0000012 030  NN1     executive                S7.1+/S2mf[i20.2.2 
+0000012 040  NP1     Ferran                   Z1mf[i21.2.1 Z3c[i21.2.1 
+0000012 050  NP1     Soriano                  Z1mf[i21.2.2 Z3c[i21.2.2 
+0000012 060  VVD     said                     Q2.1 
+0000012 061  :       :                        
+0000012 062  NULL    <quote>                  
+0000012 063  -----   -----                    
+0000012 064  "       "                        
+0000012 070  PPIS2   We                       Z8 
+0000012 080  VBR     are                      A3+ Z5 
+0000012 090  JJ      pleased                  E4.2+ E2+ 
+0000012 100  TO      to                       Z5 
+0000012 110  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000012 120  DD1     this                     M6 Z5 Z8 
+0000012 130  MD      next                     N4 
+0000012 140  NN1     step                     M1 T1.2 H5 O2 A2.1+ A1.1.1 K1@ K5.1@ 
+0000012 150  II      in                       Z5 
+0000012 160  APPGE   our                      Z8 
+0000012 170  NN1     football                 K5.2 
+0000012 180  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000012 190  NN2     operations               A1.1.1 B3 G3 
+0000012 191  .       .                        
+0000013 001  NULL    </quote>                 
+0000014 001  NULL    <quote>                  
+0000014 002  -----   -----                    
+0000014 003  "       "                        
+0000014 010  AT      The                      Z5 
+0000014 020  NN1     investment               I1.1 
+0000014 030  II      in                       Z5 
+0000014 040  NP1@    CA                       A7+ 
+0000014 050  NN1     Torque                   Z99 
+0000014 060  VVZ     enables                  S8+ 
+0000014 070  APPGE   our                      Z8 
+0000014 080  NN1     organization             S5+c S7.1+ 
+0000014 090  TO      to                       Z5 
+0000014 100  VVI     build                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000014 110  II      on                       Z5 
+0000014 120  JJ      existing                 A3+ 
+0000014 130  NN1     connectivity             Y2 O3 
+0000014 140  II      in                       Z5 
+0000014 150  NP1     Uruguay                  Z2 
+0000014 160  CC      and                      Z5 
+0000014 170  VVZ     helps                    S8+ 
+0000014 180  TO      to                       Z5 
+0000014 190  VVI     expand                   N3.2+/A2.1 Q2.2/N5++ A4.2-/A2.1 
+0000014 200  AT      the                      Z5 
+0000014 210  NN2     options                  X7+ I2.1 P1 
+0000014 220  IF      for                      Z5 
+0000014 230  VVG     identifying              X2.2+ A10+ X2.5+ 
+0000014 240  CC      and                      Z5 
+0000014 250  JJ      developing               A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000014 260  JJ      local                    M7 
+0000014 270  CC      and                      Z5 
+0000014 280  NP1     South                    M6 
+0000014 290  JJ      American                 Z2 
+0000014 300  NN1     talent                   X9.1+ 
+0000014 301  .       .                        
+0000015 001  NULL    </quote>                 
+0000016 001  NULL    <quote>                  
+0000016 002  -----   -----                    
+0000016 003  "       "                        
+0000016 010  DD1     This                     M6 Z5 Z8 
+0000016 020  NN1     move                     M1 M2 A2.1+ H4/A2.1 K5.2 
+0000016 030  RR      also                     N5++ 
+0000016 040  VVZ     provides                 A9- S6+ 
+0000016 050  PPIO2   us                       Z8 
+0000016 060  IW      with                     Z5 
+0000016 070  AT1     an                       Z5 
+0000016 080  JJ      administrative           S7.1+ 
+0000016 090  NN1     hub                      O2 A11.1+/M7 
+0000016 100  IF      for                      Z5 
+0000016 110  APPGE   our                      Z8 
+0000016 120  NN1     pre-existing             Z99 
+0000016 130  VVG     scouting                 X2.4 
+0000016 140  NN2     operations               A1.1.1 B3 G3 
+0000016 150  II      in                       Z5 
+0000016 160  AT      the                      Z5 
+0000016 170  NN1     region                   M7 B1 
+0000016 180  CC      and                      Z5 
+0000016 190  VVZ     provides                 A9- S6+ 
+0000016 200  AT1     a                        Z5 
+0000016 210  NN1     footprint                O4.4 Q1.1 
+0000016 220  IF      for                      Z5 
+0000016 230  NN1     City                     M7/I2.1c Z3c 
+0000016 240  NN1     Football                 K5.2 
+0000016 250  NN1     Group                    S5+c A4.1c B3% 
+0000016 260  II      in                       Z5 
+0000016 270  ND1     South                    Z2[i23.2.1 M6 Z2[i22.2.1 Z3c[i22.2.1 
+0000016 280  NP1     America                  Z2[i23.2.2 Z2 Z2[i22.2.2 Z3c[i22.2.2 
+0000016 281  .       .                        
+0000016 282  "       "                        
+0000016 283  NULL    </quote>                 
+0000016 284  -----   -----                    
+0000018 010  NP1     CFG                      Z99 
+0000018 020  VVZ     owns                     A9+ 
+0000018 030  NNU2    MLS                      N3.4 
+0000018 040  NN1     outfit                   B5 S5+c O2 
+0000018 050  NP1     New                      Z1mf[i25.3.1 Z3c[i25.3.1 Z1mf[i24.2.1 Z3c[i24.2.1 Z2[i26.2.1 
+0000018 060  NP1     York                     Z1mf[i25.3.2 Z3c[i25.3.2 Z2 Z1mf Z1mf[i24.2.2 Z3c[i24.2.2 Z2[i26.2.2 Z2[i27.2.1 Z3c[i27.2.1 Z1mf[i28.2.1 Z3c[i28.2.1 
+0000018 070  NN1     City                     Z3c[i25.3.3 Z1mf[i25.3.3 M7/I2.1c Z3c Z2[i27.2.2 Z3c[i27.2.2 Z1mf[i28.2.2 Z3c[i28.2.2 
+0000018 071  ,       ,                        
+0000018 080  ZZ1     A                        Z5 
+0000018 090  NN1     League                   S5+c K5.1/S5+c S7.3+ N3.3% 
+0000018 100  NP1     Melbourne                Z2[i29.2.1 Z3c[i29.2.1 Z2 Z3c Z1mf[i30.2.1 Z3c[i30.2.1 
+0000018 110  NN1     City                     Z2[i29.2.2 Z3c[i29.2.2 M7/I2.1c Z3c Z1mf[i30.2.2 Z3c[i30.2.2 
+0000018 111  ,       ,                        
+0000018 120  CC      and                      Z5 
+0000018 130  ZZ1     J                        Z5 
+0000018 140  NN1     League                   S5+c K5.1/S5+c S7.3+ N3.3% 
+0000018 150  NP1     Yokohama                 Z1mf[i31.2.1 Z3c[i31.2.1 
+0000018 160  NP1@    F                        Z1mf[i31.2.2 Z3c[i31.2.2 
+0000018 170  NP2     Marinos                  Z99 
+0000018 171  .       .                        
+0000020 001  NULL    **8;7;text               

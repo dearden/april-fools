@@ -1,0 +1,295 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1@    Goma                     Z99 
+0000002 011  (       (                        
+0000002 020  NP1     CNN                      Z99 
+0000002 021  )       )                        
+0000002 030  JJ      --                       Z99 
+0000002 040  NN2     Authorities              G1.1 S7.1+ S7.4+ X2.2+ 
+0000002 050  II      in                       Z5 
+0000002 060  AT      the                      Z5 
+0000002 070  JJ      Democratic               Z2[i1.5.1 G1.2 
+0000002 080  NN1     Republic                 Z2[i1.5.2 G1.2 S5+/M7 
+0000002 090  IO      of                       Z2[i1.5.3 Z5 
+0000002 100  AT      the                      Z2[i1.5.4 Z5 
+0000002 110  NP1     Congo                    Z2[i1.5.5 Z2 
+0000002 120  VH0     have                     Z5 A9+ A2.2 S4 
+0000002 130  VVN     arrested                 G2.1 
+0000002 140  NP1     Joseph                   Z1mf[i3.3.1 Z3c[i3.3.1 Z1m Z1mf[i2.2.1 Z3c[i2.2.1 
+0000002 150  NP1     Rao                      Z1mf[i3.3.2 Z3c[i3.3.2 Z1mf[i2.2.2 Z3c[i2.2.2 Z1mf[i4.2.1 Z3c[i4.2.1 
+0000002 160  NP1     Kony                     Z3c[i3.3.3 Z1mf[i3.3.3 Z1mf[i4.2.2 Z3c[i4.2.2 
+0000002 161  ,       ,                        
+0000002 170  NN1     head                     B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
+0000002 180  IO      of                       Z5 
+0000002 190  AT      the                      Z5 
+0000002 200  NP1     Lord                     S7.1+/S2.2m S9/S2.2m Z4 S7.1+ 
+0000002 201  GE      's                       Z5 
+0000002 210  NN1     Resistance               S8- S1.2.5+ 
+0000002 220  NN1     Army                     G3c N5+ 
+0000002 221  (       (                        
+0000002 230  NP1     LRA                      Z99 
+0000002 231  )       )                        
+0000002 240  NN1     guerilla                 L2 G3/S2mf 
+0000002 250  NN1     group--                  Z99 
+0000002 260  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000002 270  VVD     said                     Q2.1 
+0000002 280  NPD1    Friday                   T1.3 
+0000002 281  .       .                        
+0000003 001  -----   -----                    
+0000004 010  NN1     Kony                     Z99 
+0000004 011  ,       ,                        
+0000004 020  PNQS    who                      Z8 
+0000004 030  VBZ     is                       A3+ Z5 
+0000004 040  JJ      responsible              A2.2 S6+ S7.1 S1.2.6+ X6+ 
+0000004 050  IF      for                      Z5 
+0000004 060  VVG     ordering                 S7.1+/Q2.2 I2.2/Q2.2 
+0000004 070  AT1     an                       Z5 
+0000004 080  JJ@     estimated                X6/A7- N2/A7- 
+0000004 090  MC      66,000                   N1 T1.2 T3 T1.3 N3.2 
+0000004 100  NN2     children                 S2mf/T3- S4mf 
+0000004 110  TO      to                       Z5 
+0000004 120  VVI     become                   A2.1+ O4.2+ 
+0000004 130  NN1     child                    S2mf/T3- S4mf 
+0000004 140  NN2     soldiers                 G3/S2mf 
+0000004 141  ,       ,                        
+0000004 150  VVN     surrendered              S7.1- A9- 
+0000004 160  II      in                       Z5 
+0000004 170  AT1     a                        Z5 
+0000004 180  NN1     forest                   W3/L3 
+0000004 190  II      near                     Z5 
+0000004 200  NP1     Garamba                  Z1mf[i5.2.1 Z3c[i5.2.1 
+0000004 210  JJ      National                 Z1mf[i5.2.2 Z3c[i5.2.2 Z3c Z2[i6.2.1 
+0000004 220  NN1     Park                     M7/L3 Z2[i6.2.2 
+0000004 230  II      in                       Z5 
+0000004 240  AT      the                      Z5 
+0000004 250  ND1     northeast                Z99 
+0000004 260  NN1     section                  N5.1- S5+c B3 Y1 C1/H1@ 
+0000004 270  IO      of                       Z5 
+0000004 280  AT      the                      Z5 
+0000004 290  JJ      Democratic               Z2[i7.5.1 G1.2 
+0000004 300  NN1     Republic                 Z2[i7.5.2 G1.2 S5+/M7 
+0000004 310  IO      of                       Z2[i7.5.3 Z5 
+0000004 320  AT      the                      Z2[i7.5.4 Z5 
+0000004 330  NP1     Congo                    Z2[i7.5.5 Z2 
+0000004 331  ,       ,                        
+0000004 340  II21    according                Z5[i8.2.1 Z5 
+0000004 350  II22    to                       Z5[i8.2.2 Z5 
+0000004 360  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000004 361  .       .                        
+0000004 362  -----   -----                    
+0000004 370  PPHS1   He                       Z8m 
+0000004 380  VBDZ    was                      A3+ Z5 
+0000004 390  JJ      unarmed                  G3- 
+0000004 400  CC      and                      Z5 
+0000004 410  JJ      unaccompanied            S5- 
+0000004 411  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NN2     Details                  A4.2+ S5+c B5 
+0000006 020  IO      of                       Z5 
+0000006 030  AT      the                      Z5 
+0000006 040  NN1     surrender                S7.1- A9- 
+0000006 050  VBR     are                      A3+ Z5 
+0000006 060  JJ      unclear                  A7- A10- O4.3 O4.1 
+0000006 061  ,       ,                        
+0000006 070  CCB     but                      Z5 
+0000006 080  NP1     UN                       Z3c 
+0000006 090  NN1     spokesperson             Q2.2/S2mf 
+0000006 100  NP1     Clifford                 Z1mf[i9.2.1 Z3c[i9.2.1 Z1m 
+0000006 110  NP1     Daniels                  Z1mf[i9.2.2 Z3c[i9.2.2 Z1mf 
+0000006 120  VVZ     reports                  Q2.2 S7.1- 
+0000006 130  CST     that                     Z5 Z8 
+0000006 140  NP1     Kony                     Z99 
+0000006 141  GE      's                       Z5 
+0000006 150  NN1     request                  Q2.1 Q2.2 
+0000006 160  VBDZ    was                      A3+ Z5 
+0000006 170  TO      to                       Z5 
+0000006 180  VVI     speak                    Q2.1 
+0000006 190  II      to                       Z5 
+0000006 200  NP1     Jason                    Z1mf[i10.2.1 Z3c[i10.2.1 Z1mf 
+0000006 210  NP1     Russell                  Z1mf[i10.2.2 Z3c[i10.2.2 Z1mf 
+0000006 211  ,       ,                        
+0000006 220  NN1     director                 S7.1+/S2mf K4/S2mf 
+0000006 230  IO      of                       Z5 
+0000006 240  AT      the                      Z5 
+0000006 250  JJ      Invisible                X3.4- A11.2- 
+0000006 260  NN2     Children                 S2mf/T3- S4mf 
+0000006 270  JJ      Inc.                     I2.1 
+0000006 280  NN1     documentary              Q4.3 
+0000006 290  NN1     KONY                     Z99 
+0000006 300  MC      2012                     N1 T1.2 T3 T1.3 N3.2 
+0000006 301  ,       ,                        
+0000006 310  AT1     a                        Z5 
+0000006 320  NN1     call                     Q2.2 S1.1.1 Q1.3 X7+ S9% 
+0000006 330  IF      for                      Z5 
+0000006 340  JJ      American                 Z2 
+0000006 350  NN2     citizens                 G1.1/S2mf S5+/S2mf 
+0000006 360  TO      to                       Z5 
+0000006 370  VVI     demand                   Q2.2 S6+ X7+ 
+0000006 380  NP1     Kony                     Z99 
+0000006 381  GE      's                       Z5 
+0000006 390  NN1     capture                  A9+ 
+0000006 400  CC      and                      Z5 
+0000006 410  NN1     arrest                   G2.1 
+0000006 411  .       .                        
+0000008 001  NULL    <quote>                  
+0000008 002  -----   -----                    
+0000008 003  "       "                        
+0000008 010  PPH1    It                       Z8 
+0000008 011  VBZ     's                       A3+ Z5 
+0000008 020  RG      too                      N5.2+[i11.2.1 N5.2+ A13.3 
+0000008 030  DA1     much                     N5.2+[i11.2.2 N5+ I1.3+ 
+0000008 031  ,       ,                        
+0000008 032  "       "                        
+0000008 033  NULL    </quote>                 
+0000008 034  -----   -----                    
+0000008 040  NP1@    Kony                     Z99 
+0000008 050  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000008 060  NN2     officers                 G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
+0000008 070  CSA     as                       Z5 
+0000008 080  PPHS2   they                     Z8mfn 
+0000008 090  VVD     searched                 X2.4 
+0000008 100  PPHO1   him                      Z8m 
+0000008 110  IF      for                      Z5 
+0000008 120  NN2     weapons                  G3 X4.1 
+0000008 130  CC      and                      Z5 
+0000008 140  VVD@    arrested                 G2.1 S8- 
+0000008 150  PPHO1   him                      Z8m 
+0000008 151  .       .                        
+0000008 152  NULL    <quote>                  
+0000008 153  -----   -----                    
+0000008 154  "       "                        
+0000008 160  CS21    Now                      Z5[i12.2.1 Z5 
+0000008 170  CS22    that                     Z5[i12.2.2 Z5 Z8 
+0000008 180  AT      the                      Z5 
+0000008 190  NN1     youth                    T3-/S2mf T3- 
+0000008 200  II      in                       Z5 
+0000008 210  NP1     America                  Z2 
+0000008 220  VV0     know                     X2.2+ S3.2/B1% 
+0000008 230  PNQS    who                      Z8 
+0000008 240  PPIS1   I                        Z8mf 
+0000008 250  VBM     am                       A3+ Z5 
+0000008 251  ,       ,                        
+0000008 260  PPIS1   I                        Z8mf 
+0000008 270  VBM     am                       A3+ Z5 
+0000008 280  XX      not                      Z6 
+0000008 290  JJ      safe                     A15+ A7+ 
+0000008 291  .       .                        
+0000008 292  -----   -----                    
+0000008 300  APPGE   My                       Z8 
+0000008 310  NN1     army                     G3c N5+ 
+0000008 320  VM      can                      A7+ 
+0000008 330  VVI     protect                  S8+/A15+ A10- 
+0000008 340  PPIO1   me                       Z8mf 
+0000008 350  II      from                     Z5 
+0000008 360  JJ      United                   Z3c[i13.2.1 Z3c 
+0000008 370  NN2     Nations                  Z3c[i13.2.2 
+0000008 380  NN2     forces                   G3 G2.1 E3- S7.1+ N3 S5+ 
+0000008 390  CC      and                      Z5 
+0000008 400  AT      the                      Z5 
+0000008 410  NP1     United                   Z2c[i16.2.1 Z2c[i15.2.1 Z3c Z1mf[i14.2.1 Z3c[i14.2.1 
+0000008 420  NP1     States                   Z2c[i16.2.2 Z2c[i15.2.2 Z2 Z1mf[i14.2.2 Z3c[i14.2.2 
+0000008 430  NN1     government               G1.1c 
+0000008 431  ,       ,                        
+0000008 440  CCB     but                      Z5 
+0000008 450  II      from                     Z5 
+0000008 460  AT      the                      Z5 
+0000008 470  NN2     postings                 Q1.2 M2 I3.1 
+0000008 480  IO      of                       Z5 
+0000008 490  JJ      American                 Z2 
+0000008 500  NN2     celebrities              A11.1+/S2mf 
+0000008 510  EX      there                    Z5 
+0000008 520  VBZ     is                       A3+ Z5 
+0000008 530  AT      no                       Z6 
+0000008 540  NN1     escape                   A1.7- O2 
+0000008 541  .       .                        
+0000008 542  -----   -----                    
+0000008 550  RG      Too                      N5.2+ A13.3 
+0000008 560  RR      late                     T4- T1.1 
+0000008 570  PPIS1   I                        Z8mf 
+0000008 580  VVD     realized                 X2.5+ X9.2+ 
+0000008 590  CST     that                     Z5 Z8 
+0000008 600  AT1     an                       Z5 
+0000008 610  NN1     army                     G3c N5+ 
+0000008 620  IO      of                       Z5 
+0000008 630  NN1     child                    S2mf/T3- S4mf 
+0000008 640  NN2     soldiers                 G3/S2mf 
+0000008 650  II      in                       Z5 
+0000008 660  NP1     Congo                    Z2 
+0000008 670  VBR     are                      A3+ Z5 
+0000008 680  AT      no                       Z6 
+0000008 690  NN1     match                    K5.1 O2 A6.1+ 
+0000008 700  IF      for                      Z5 
+0000008 710  AT1     an                       Z5 
+0000008 720  NN1     army                     G3c N5+ 
+0000008 730  IO      of                       Z5 
+0000008 740  NN1     youth                    T3-/S2mf T3- 
+0000008 750  NN2     soldiers                 G3/S2mf 
+0000008 760  II      in                       Z5 
+0000008 770  NP1     America                  Z2 
+0000008 771  ,       ,                        
+0000008 780  VVN     armed                    G3 
+0000008 790  XX      not                      Z6 
+0000008 800  IW      with                     Z5 
+0000008 810  NN2     guns                     G3 O2 
+0000008 820  CCB     but                      Z5 
+0000008 830  IW      with                     Z5 
+0000008 840  NN2     computers                Y2 
+0000008 841  .       .                        
+0000008 842  "       "                        
+0000008 843  NULL    </quote>                 
+0000010 001  NULL    <quote>                  
+0000010 002  -----   -----                    
+0000010 003  "       "                        
+0000010 010  PN1     Nothing                  A6.1-[i17.2.1 Z6/Z8 
+0000010 020  II      like                     A6.1-[i17.2.2 Z5 
+0000010 030  DD1     this                     Z8 M6 Z5 
+0000010 040  VHZ     has                      Z5 A9+ A2.2 S4 
+0000010 050  RR      ever                     T1.1 N6+++ A13 
+0000010 060  VVN     happened                 A2.1+ A3+ X7- 
+0000010 070  RT      before                   N4 
+0000010 080  II      in                       Z5 
+0000010 090  AT      the                      Z5 
+0000010 100  NN1     history                  T1.1.1 P1/T1.1.1 Q2.1 B2 
+0000010 110  IO      of                       Z5 
+0000010 120  JJ      international            G1.1[i18.2.1 M7 
+0000010 130  NN2     relations                G1.1[i18.2.2 A2.2 S1.1.1 S4 S3.2 
+0000010 131  .       .                        
+0000010 132  -----   -----                    
+0000010 140  IF      For                      Z5 
+0000010 150  PN1     anyone                   Z8mfc 
+0000010 160  PNQS    who                      Z8 
+0000010 170  VVD     doubted                  A7- 
+0000010 180  AT      the                      Z5 
+0000010 190  NN2     motivations              A2.2 X5.2+ 
+0000010 200  IO      of                       Z5 
+0000010 210  JJ      Invisible                X3.4- A11.2- 
+0000010 220  NN2     Children                 S2mf/T3- S4mf 
+0000010 230  JJ      Inc.                     I2.1 
+0000010 231  ,       ,                        
+0000010 240  DD1     this                     Z8 M6 Z5 
+0000010 250  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000010 260  VVZ     goes                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000010 270  TO      to                       Z5 
+0000010 280  VVI     show                     A10+ S1.1.1 
+0000010 290  RGQ@    how                      Z5 A13.3 
+0000010 300  JJ      far                      N3.3+ 
+0000010 310  NN2     tweets                   Z99 
+0000010 320  CC      and                      Z5 
+0000010 330  NN2     shares                   N5.1- I1.1 
+0000010 340  VM      can                      A7+ 
+0000010 350  RR      really                   A13.3 A5.2+ 
+0000010 360  VVI     extend                   N3.3 T1.3 A1.7- N3.2+/A2.1 N5+/A2.1 T1.3+/A2.1 A9- 
+0000010 361  ,       ,                        
+0000010 362  "       "                        
+0000010 363  NULL    </quote>                 
+0000010 364  -----   -----                    
+0000010 370  VVD     said                     Q2.1 
+0000010 380  NP1     Joseph                   Z1mf[i19.2.1 Z3c[i19.2.1 Z1m 
+0000010 390  NP1     Kabila                   Z1mf[i19.2.2 Z3c[i19.2.2 
+0000010 391  ,       ,                        
+0000010 400  NN1     president                G1.1/S7.1+/S2mf 
+0000010 410  IO      of                       Z5 
+0000010 420  AT      the                      Z5 
+0000010 430  NP1     DRC                      Z99 
+0000010 431  .       .                        
+0000013 001  NULL    **8;7;text               

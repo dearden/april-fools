@@ -1,0 +1,349 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  II      Among                    Z5 
+0000002 020  AT      the                      Z5 
+0000002 030  JJ      new                      T3- 
+0000002 040  JJ      semantic                 Q3 
+0000002 050  NN2     elements                 A4.1 N5 S5+c O1 O3 O2 W4 
+0000002 060  IF      for                      Z5 
+0000002 070  NN1     section                  N5.1- S5+c B3 Y1 C1/H1@ 
+0000002 071  ,       ,                        
+0000002 080  NN1     footer                   Q1.2/Y2 
+0000002 081  ,       ,                        
+0000002 090  NN1     header                   K5.1 Q1.2 M1 
+0000002 091  ,       ,                        
+0000002 100  CC      and                      Z5 
+0000002 110  AT      the                      Z5 
+0000002 120  JJ      like                     Z5 A6.1+ Z4 E2+ 
+0000002 121  ,       ,                        
+0000002 130  FO      HTML5                    Z99 
+0000002 140  RR      also                     N5++ 
+0000002 150  VVZ     adds                     N5+/A2.1 N2 
+0000002 160  AT1     an                       Z5 
+0000002 170  NN1     element                  A4.1 N5 S5+c O1 O3 O2 W4 
+0000002 180  CST     that                     Z8 Z5 
+0000002 190  VM      can                      A7+ 
+0000002 200  VVI     contain                  A1.8+ A1.7+ 
+0000002 210  DD      any                      N5.1+ N5 
+0000002 220  JJ      other                    A6.1- 
+0000002 230  NN1     element                  A4.1 N5 S5+c O1 O3 O2 W4 
+0000002 240  CC      and                      Z5 
+0000002 250  VVZ     describes                Q2.2 
+0000002 260  PPH1    it                       Z8 
+0000002 270  II      as                       Z5 
+0000002 280  XX      Not                      Z6 
+0000002 290  JJ      Safe                     A15+ A7+ 
+0000002 300  IF      For                      Z5 
+0000002 310  NN1     Work                     I3.1 A1.1.1 Q4 K2 C1 
+0000002 311  (       (                        
+0000002 320  RR      commonly                 A6.2+ 
+0000002 330  VVN     abbreviated              N3.7-/A2.1 Q1.2 Q2.2 
+0000002 340  II      to                       Z5 
+0000002 341  NULL    <quote>                  
+0000002 342  -----   -----                    
+0000002 350  NNU     nsfw                     Z99 
+0000002 351  NULL    </quote>                 
+0000002 352  -----   -----                    
+0000002 353  )       )                        
+0000002 354  .       .                        
+0000003 001  -----   -----                    
+0000004 010  NN2     Browsers                 X2.4/S2mf Y2% 
+0000004 020  VM      can                      A7+ 
+0000004 030  VBI     be                       Z5 A3+ 
+0000004 040  VVN     configured               O4.1 
+0000004 050  II      by                       Z5 
+0000004 060  NN2     parents                  S4mf A9+ 
+0000004 070  CC      or                       Z5 
+0000004 080  NN1     workplace                I3.1/M7 
+0000004 090  NN2     sysadmins                Z99 
+0000004 100  RR      never                    T1/Z6 
+0000004 110  TO      to                       Z5 
+0000004 120  VVI     show                     A10+ S1.1.1 
+0000004 130  JJ      content                  E4.2+ 
+0000004 140  JJ      marked                   A11.2+ A15- 
+0000004 150  CSA     as                       Z5 
+0000004 151  NULL    <nsfw>                   
+0000004 152  ,       ,                        
+0000004 160  RR      thereby                  Z5 
+0000004 170  VVG     shielding                S8+/A15+ A10- 
+0000004 180  JJ      faint-hearted            S1.2.5- 
+0000004 190  NN      people                   S2mfc 
+0000004 200  II      from                     Z5 
+0000004 210  NN1     obscenity                S1.2.4- G2.2- 
+0000004 220  CC      and                      Z5 
+0000004 230  VVG     protecting               S8+/A15+ A10- 
+0000004 240  NN2     employers                I3.1/S2mf 
+0000004 250  II      from                     Z5 
+0000004 260  NN2     employees                I3.1/S2mf 
+0000004 270  VVG     downloading              M2 
+0000004 280  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000004 290  PPHS2   they                     Z8mfn 
+0000004 300  VV0     shouldnt                 Z99 
+0000004 301  .       .                        
+0000005 001  -----   -----                    
+0000006 010  APPGE   Its                      Z8 
+0000006 020  XX      not                      Z6 
+0000006 030  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000006 040  AT1     a                        Z5 
+0000006 050  JJ      presentational           O4.1 Q2.2 S1.1.1 K4 
+0000006 060  NN1     element                  A4.1 N5 S5+c O1 O3 O2 W4 
+0000006 061  ,       ,                        
+0000006 070  CS      although                 Z5 
+0000006 080  PPH1    it                       Z8 
+0000006 090  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000006 100  VVI     carry                    M2 A9+ Q4 S7.4+ B1% B2-% 
+0000006 110  IW      with                     Z5 
+0000006 120  PPH1    it                       Z8 
+0000006 130  AT      the                      Z5 
+0000006 140  NN1     default                  A1.9 A6.2+ 
+0000006 150  NP1     CSS                      Z99 
+0000006 151  :       :                        
+0000008 010  NNU     nsfw                     Z99 
+0000008 020  NN1     display                  A10+ Y2 
+0000008 021  :       :                        
+0000008 030  PN      none                     Z6/Z8c 
+0000008 031  ;       ;                        
+0000010 010  AT      The                      Z5 
+0000010 020  NN1     user                     A1.5.1/S2mf 
+0000010 030  NN1     agent                    I2.1/S2mf G3/S2mf K4/S2mf 
+0000010 040  VBZ     is                       Z5 A3+ 
+0000010 050  VVN     forbidden                S7.4- 
+0000010 060  II      from                     Z5 
+0000010 070  VVG     downloading              M2 
+0000010 080  DD      any                      N5.1+ N5 
+0000010 090  IO      of                       Z5 
+0000010 100  AT      the                      Z5 
+0000010 110  NN2     resources                A9+ W3 
+0000010 120  VVN     contained                A1.8+ A1.7+ 
+0000010 130  II      within                   Z5 
+0000010 140  AT      the                      Z5 
+0000010 150  NN1     element                  A4.1 N5 S5+c O1 O3 O2 W4 
+0000010 160  CS      if                       Z7 
+0000010 170  AT      the                      Z5 
+0000010 180  NN2     browsers                 X2.4/S2mf Y2% 
+0000010 181  NULL    <nsfw>                   
+0000010 190  VVG     setting                  M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000010 200  VBZ     is                       A3+ Z5 
+0000010 201  NULL    <quote>                  
+0000010 202  -----   -----                    
+0000010 210  II      on                       Z5 
+0000010 211  NULL    </quote>                 
+0000010 212  -----   -----                    
+0000010 213  .       .                        
+0000011 001  -----   -----                    
+0000012 010  PPH1    It                       Z8 
+0000012 020  VVZ     works                    I3.1 A1.1.1 X9.2+ A2.2 
+0000012 030  II      like                     Z5 
+0000012 040  DD1     this                     M6 Z5 Z8 
+0000012 041  :       :                        
+0000014 001  NULL    <nsfw>                   
+0000015 001  NULL    <figure>                 
+0000016 001  NULL    **19;7;video             
+0000016 002  "       "                        
+0000016 010  NNU     chickens.ogv             Z99 
+0000016 011  "       "                        
+0000016 012  NULL    </quote>                 
+0000016 013  -----   -----                    
+0000016 020  VV0     autoplay                 Z99 
+0000017 001  NULL    </video>                 
+0000018 001  NULL    <figcaption>             
+0000018 010  JJ      Huge                     N3.2+++ 
+0000018 020  NN1     cockerel                 L2 
+0000018 021  :       :                        
+0000018 030  MC      two                      N1 T3 T1.2 
+0000018 040  NN2     chicks                   L2mfn S2.1f 
+0000018 041  ,       ,                        
+0000018 050  MC1     one                      N1 T3 T1.2 
+0000018 060  NN1     coop                     H1/L2 
+0000018 061  .       .                        
+0000018 062  NULL    </figcaption>            
+0000019 001  -----   -----                    
+0000019 002  NULL    </figure>                
+0000020 001  NULL    </nsfw>                  
+0000022 010  AT      The                      Z5 
+0000022 020  JJ      entire                   N5.1+ 
+0000022 030  NN1     figure                   N5 N1 B1 S2mf C1 O4.4 O2 
+0000022 040  VBZ     is                       Z5 A3+ 
+0000022 050  VVN     taken                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000022 060  II21    out                      Z5[i1.2.1 Z5 Z5[i2.2.1 A9-[i2.2.1 
+0000022 070  II22    of                       Z5[i1.2.2 Z5[i2.2.2 A9-[i2.2.2 
+0000022 080  AT      the                      Z5 
+0000022 090  NN1     document                 Q1.2 X2.2+ Y2 
+0000022 100  NN1     flow                     M4 M1 N5 
+0000022 110  IW      with                     Z5 
+0000022 120  AT      no                       Z6 
+0000022 130  NN1     indication               A10+ Q1.1 
+0000022 140  II      to                       Z5 
+0000022 150  AT      the                      Z5 
+0000022 160  NN1     user                     A1.5.1/S2mf 
+0000022 170  CST     that                     Z8 Z5 
+0000022 180  PN1     something                Z8 
+0000022 190  VBZ     is                       A3+ Z5 
+0000022 200  JJ      missing                  A3- A10- A9- 
+0000022 201  (       (                        
+0000022 210  DDQ     which                    Z8 Z5 
+0000022 220  VM      could                    A7+ 
+0000022 230  VVI     tempt                    O4.2+ S3.2 
+0000022 240  NN2     teenagers                T3-/S2mf 
+0000022 250  TO      to                       Z5 
+0000022 260  VVI     circumvent               A1.9 S8- A1.7+ 
+0000022 270  AT      the                      Z5 
+0000022 280  NN1     browser                  X2.4/S2mf Y2% 
+0000022 290  NN1     setting                  M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000022 291  )       )                        
+0000022 292  .       .                        
+0000022 293  -----   -----                    
+0000022 300  CS      Although                 Z5 
+0000022 310  AT      the                      Z5 
+0000022 320  NN1     video                    Q4.3 
+0000022 330  VBZ     is                       Z5 A3+ 
+0000022 340  VVN     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000022 350  TO      to                       Z5 
+0000022 360  VVI     autoplay                 Z99 
+0000022 361  ,       ,                        
+0000022 370  PPH1    it                       Z8 
+0000022 380  VM      will                     T1.1.3 
+0000022 390  RR      never                    T1/Z6 
+0000022 400  RR      even                     A13.1 
+0000022 410  VBI     be                       Z5 A3+ 
+0000022 420  VVN@    downloaded               Y2 
+0000022 421  ,       ,                        
+0000022 430  VVG     meaning                  Q1.1 X7+ 
+0000022 440  PN1     nothing                  Z6/Z8 
+0000022 450  VVG     compromising             A6.1+/S1.1.2+ G2.2- 
+0000022 460  VM      will                     T1.1.3 
+0000022 470  VBI     be                       A3+ Z5 
+0000022 480  II      in                       Z5 
+0000022 490  AT      the                      Z5 
+0000022 500  NN2     users                    A1.5.1/S2mf 
+0000022 510  NN1     cache                    A9+/A10- Y2 
+0000022 511  .       .                        
+0000023 001  -----   -----                    
+0000024 010  AT      The                      Z5 
+0000024 020  JJ      new                      T3- 
+0000024 030  NN1     element                  A4.1 N5 S5+c O1 O3 O2 W4 
+0000024 040  VBDZ    was                      Z5 A3+ 
+0000024 050  VVN     suggested                Q2.2 Q1.1 
+0000024 060  II      by                       Z5 
+0000024 070  NP1     Ian                      Z1mf[i3.2.1 Z3c[i3.2.1 Z1m 
+0000024 080  NP1     Hickson                  Z1mf[i3.2.2 Z3c[i3.2.2 
+0000024 081  ,       ,                        
+0000024 090  AT      the                      Z5 
+0000024 100  NN1     editor                   Q4/I3.2/S2mf Y2 
+0000024 110  IO      of                       Z5 
+0000024 120  AT      the                      Z5 
+0000024 130  FO      HTML5                    Z99 
+0000024 140  NN1     spec                     A4.2+/Q2.2 
+0000024 150  CC      and                      Z5 
+0000024 160  NP1     Google                   Z3c/Y2 
+0000024 170  NN1     employee                 I3.1/S2mf 
+0000024 171  :       :                        
+0000024 172  NULL    <quote>                  
+0000024 173  -----   -----                    
+0000024 180  NN1     Google                   Z3c/Y2 
+0000024 190  VVZ     builds                   H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000024 200  AT1     a                        Z5 
+0000024 210  JJ      separate                 A6.1- 
+0000024 220  NN1     index                    Q4.1 N2 Q1.1 I1.3 
+0000024 230  IF      for                      Z5 
+0000024 240  DD2     those                    Z5 Z8 
+0000024 250  PNQS    who                      Z8 
+0000024 260  VV0@    search                   X2.4 
+0000024 270  VVG     using                    A1.5.1 S7.1+ 
+0000024 280  NP1     Google                   Z1mf[i4.2.1 Z3c[i4.2.1 Z3c/Y2 
+0000024 290  NP1     SafeSearch               Z1mf[i4.2.2 Z3c[i4.2.2 
+0000024 291  .       .                        
+0000024 292  -----   -----                    
+0000024 300  CS21    Given                    Z5 A4.2+ A9- A1.1.1 
+0000024 310  CS22    that                     Z5 Z8 
+0000024 320  FO      72.3%                    Z99 
+0000024 330  IO      of                       Z5 
+0000024 340  AT      the                      Z5 
+0000024 350  NN1     Web                      Y2 L2 O2 
+0000024 360  VBZ     is                       A3+ Z5 
+0000024 370  XX      not                      Z6 
+0000024 380  JJ      safe                     A15+ A7+ 
+0000024 390  IF      for                      Z5 
+0000024 400  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
+0000024 410  CCB     but                      Z5 
+0000024 420  PPIS2   we                       Z8 
+0000024 430  RR      currently                T1.1.2 
+0000024 440  VH0     have                     S6+[i5.2.1 A9+ Z5 A2.2 S4 
+0000024 450  TO      to                       S6+[i5.2.2 Z5 
+0000024 460  VVI     analyse                  X2.4 Y1 
+0000024 470  CST     that                     Z8 Z5 
+0000024 480  VVG     using                    A1.5.1 S7.1+ 
+0000024 490  NN2     machines                 O2 Y2 
+0000024 491  ,       ,                        
+0000024 500  RR      semantically             Q3 
+0000024 510  JJ      marked-up                Z99 
+0000024 520  NN1     porn                     S3.2/Q4 
+0000024 530  CC      and                      Z5 
+0000024 540  JJ      foul                     O4.2- G2.2- S1.2.4- 
+0000024 550  NN1     language                 Q3 Y2 
+0000024 560  VM      will                     T1.1.3 
+0000024 570  RR      dramatically             K4 E1/N5.2+ N3.8++ 
+0000024 580  VVI     reduce                   N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000024 590  AT      the                      Z5 
+0000024 600  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000024 610  PPH1    it                       Z8 
+0000024 620  VVZ     takes                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000024 630  TO      to                       Z5 
+0000024 640  VVI     build                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000024 650  APPGE   our                      Z8 
+0000024 660  NN1     index                    Q4.1 N2 Q1.1 I1.3 
+0000024 661  ,       ,                        
+0000024 670  VV0     enhance                  A5.1+/A2.1 
+0000024 680  APPGE   its                      Z8 
+0000024 690  NN1     accuracy                 A5.3+ 
+0000024 700  CC      and                      Z5 
+0000024 701  ,       ,                        
+0000024 710  RGT     most                     A13.2 
+0000024 720  RR      importantly              A11.1+ 
+0000024 721  ,       ,                        
+0000024 730  VV0     protect                  S8+/A15+ A10- 
+0000024 740  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000024 750  NN2     children                 S2mf/T3- S4mf 
+0000024 751  .       .                        
+0000024 752  NULL    </quote>                 
+0000024 753  -----   -----                    
+0000026 010  RG      So                       T1.1.2[i6.2.1 M6[i6.2.1 N5[i6.2.1 A13.3 
+0000026 020  RR      far                      T1.1.2[i6.2.2 M6[i6.2.2 N5[i6.2.2 A13.3 N3.3+ X9.2+ 
+0000026 021  ,       ,                        
+0000026 030  PPH1    it                       Z8 
+0000026 040  VBZ     is                       Z5 A3+ 
+0000026 050  XX      not                      Z6 
+0000026 060  VVN     implemented              A1.1.1 A9-/O2 
+0000026 070  II      in                       Z5 
+0000026 080  DD      any                      N5.1+ N5 
+0000026 090  NN1     browser                  X2.4/S2mf Y2% 
+0000026 091  ,       ,                        
+0000026 100  CS      although                 Z5 
+0000026 110  II      in                       Z5 
+0000026 120  APPGE   its                      Z8 
+0000026 130  JJ      recent                   T3- 
+0000026 140  FO      IE9                      Z99 
+0000026 150  NN1     announcement             Q2.2 
+0000026 151  ,       ,                        
+0000026 160  NP1     Microsoft                Z3c 
+0000026 170  VVD     confirmed                A7+ Q2.2 S9@ 
+0000026 180  CST     that                     Z5 Z8 
+0000026 190  FO      IE9                      Z99 
+0000026 200  CC      and                      Z5 
+0000026 210  APPGE   its                      Z8 
+0000026 220  JJ@     Bing                     Z1m 
+0000026 230  NN1     search                   X2.4 
+0000026 240  NN1     engine                   O2 Y2@ 
+0000026 250  VM      will                     T1.1.3 
+0000026 260  VVI     use                      A1.5.1 S7.1+ 
+0000026 270  AT1     a                        Z5 
+0000026 280  JJ      Microsoft-only           Z99 
+0000026 290  NN1     extension                H1 T1.3+/A2.1 N3.2+/A2.1 N5+/A2.1 Q1.3 B4 
+0000026 291  NULL    <xxx>                    
+0000026 300  II21    instead                  A6.1-[i7.2.1 
+0000026 310  II22    of                       A6.1-[i7.2.2 
+0000026 320  AT      the                      Z5 
+0000026 330  NN1     standard                 A5.1 G2.2 Q1.1 O2@ 
+0000026 331  NULL    <nsfw>                   
+0000026 332  .       .                        
+0000029 001  NULL    **8;27;text              

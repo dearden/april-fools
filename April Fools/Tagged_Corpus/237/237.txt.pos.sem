@@ -1,0 +1,355 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000004 010  II      In                       Z5 
+0000004 020  AT1     a                        Z5 
+0000004 030  NN1     move                     M1 M2 A2.1+ H4/A2.1 K5.2 
+0000004 040  JJ      certain                  A4.2+ A7+ 
+0000004 050  TO      to                       Z5 
+0000004 060  VVI     surprise                 X2.6- 
+0000004 061  ,       ,                        
+0000004 070  NN1     shock                    E5- B2- O3 
+0000004 080  CC      and                      Z5 
+0000004 090  RR      even                     A13.1 
+0000004 100  VV0     anger                    E3- 
+0000004 110  DA2     many                     N5+ 
+0000004 111  ,       ,                        
+0000004 120  AT      the                      Z5 
+0000004 130  NN1     creator                  A1.1.1/S2mf A2.2/S2mf 
+0000004 140  IO      of                       Z5 
+0000004 150  AT      the                      Z5 
+0000004 160  NN1     Linux                    Y2 
+0000004 170  NN1     kernel                   L3 A11.1+++ 
+0000004 171  ,       ,                        
+0000004 180  NP1     Linus                    Z1mf[i1.2.1 Z3c[i1.2.1 
+0000004 190  NP1     Torvalds                 Z1mf[i1.2.2 Z3c[i1.2.2 
+0000004 191  ,       ,                        
+0000004 200  RT      today                    T1.1.2 
+0000004 210  VVD     signed                   Q2.2[i2.2.1 Q1.2 Q1.1 G2.1 I3.1 S9 
+0000004 220  RP      up                       Q2.2[i2.2.2 
+0000004 230  RG@     as                       A13 
+0000004 240  JJ      Chief                    S7.1+ 
+0000004 250  NN1     Software                 Y2 
+0000004 260  NN1     Architect                H1/I3.2/S2mf X7+/S2mf T2+/S2mf 
+0000004 270  IW      with                     Z5 
+0000004 280  NP1     Microsoft                Z3c 
+0000004 290  TO@     to                       Z5 
+0000004 300  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000004 310  II      on                       Z5 
+0000004 320  AT      the                      Z5 
+0000004 330  NP1     Redmond                  Z99 
+0000004 340  NN1     Giant                    S2/N3.2+mf N3.2+/S5 
+0000004 341  GE      's                       Z5 
+0000004 350  JJ      next-generation          Z99 
+0000004 360  NN1     operating                Y2[i3.2.1 A1.1.1 B3 
+0000004 370  NN1     system                   Y2[i3.2.2 X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000004 380  IW      with                     Z5 
+0000004 390  NP1     Dave                     Z1mf[i4.2.1 Z3c[i4.2.1 Z1m 
+0000004 400  NP1     Cutler                   Z1mf[i4.2.2 Z3c[i4.2.2 
+0000004 401  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NP1     Microsoft                Z3c 
+0000006 020  JJ      human                    S2/I3.1mf[i5.2.1 S2 S1.2.1+ 
+0000006 030  NN1     resource                 S2/I3.1mf[i5.2.2 A9+ W3 
+0000006 040  NN1     officer                  G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
+0000006 050  NP1%    April                    Z1mf[i6.2.1 Z3c[i6.2.1 Z1f 
+0000006 060  NP1     Foley                    Z1mf[i6.2.2 Z3c[i6.2.2 
+0000006 070  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000006 080  NN1     iTWire                   Z99 
+0000006 081  ,       ,                        
+0000006 090  VVN     'it                      Z99 
+0000006 091  VBZ     's                       A3+ Z5 
+0000006 100  RR      certainly                A7+ 
+0000006 110  AT1     a                        Z5 
+0000006 120  NN1     coup                     G1.2 
+0000006 130  IF      for                      Z5 
+0000006 140  NP1     Microsoft                Z3c 
+0000006 141  .       .                        
+0000006 142  -----   -----                    
+0000006 150  PPIS2   We                       Z8 
+0000006 151  VH0     've                      Z5 A9+ A2.2 
+0000006 160  VBN     been                     A3+ Z5 
+0000006 170  II      in                       Z5 
+0000006 180  NN2     discussions              Q2.1 Q2.2 
+0000006 190  IW      with                     Z5 
+0000006 200  NN1     Linus                    Z99 
+0000006 210  IF      for                      Z5 
+0000006 220  DA2     several                  N5 
+0000006 230  NNT2    months                   T1.3 
+0000006 240  VVG     negotiating              Q2.2 
+0000006 250  AT      the                      Z5 
+0000006 260  JJ      fine                     A5.1+ A4.2+ O4.5 O4.1 W4 N3.2- 
+0000006 270  NN2     terms                    Q3 T1.3 A4.1 S6+ 
+0000006 280  IO      of                       Z5 
+0000006 290  APPGE   his                      Z8m 
+0000006 300  NN1     contract                 I2.1 G2.1 
+0000006 310  VVG     leading                  S7.1+ A2.2 M2 A1.1.1 
+0000006 320  II21    up                       Z5[i7.2.1 Z5 Z5[i8.2.1 X6+[i8.2.1 
+0000006 330  II22    to                       Z5[i7.2.2 Z5 Z5[i8.2.2 X6+[i8.2.2 
+0000006 340  RT      today                    T1.1.2 
+0000006 341  GE      's                       Z5 
+0000006 350  NN1     signing                  Q1.2 I3.1/K5 I3.1/K2 Q1.1 
+0000006 351  .       .                        
+0000006 352  "@      '                        
+0000007 001  -----   -----                    
+0000008 010  NN2     Torvalds                 Z99 
+0000008 020  VBZ     is                       Z5 A3+ 
+0000008 030  RRT     best                     A5.1+++ A13.2 G2.2+++ O4.2+++ 
+0000008 040  VVN     known                    X2.2+ S3.2/B1% 
+0000008 050  IF      for                      Z5 
+0000008 060  VVG     creating                 A1.1.1 A2.2 E1 
+0000008 070  AT      the                      Z5 
+0000008 080  NN1     Linux                    Y2 
+0000008 090  NN1     kernel                   L3 A11.1+++ 
+0000008 100  II      in                       Z5 
+0000008 110  MC      1991                     N1 T1.2 T3 T1.3 N3.2 
+0000008 111  ,       ,                        
+0000008 120  DDQ     which                    Z5 Z8 
+0000008 130  II21    along                    Z5[i9.2.1 Z5 
+0000008 140  II22    with                     Z5[i9.2.2 
+0000008 150  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000008 160  NN1     software                 Y2 
+0000008 170  VVN     produced                 A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000008 180  II      by                       Z5 
+0000008 190  AT      the                      Z5 
+0000008 200  NN1     GNU                      L2 
+0000008 210  NN1     foundation               T2+ H2 S5+c A5.2+ B4 
+0000008 211  ,       ,                        
+0000008 220  VVD     became                   A2.1+ O4.2+ 
+0000008 230  AT      the                      Z5 
+0000008 240  NN1     Linux                    Y2 
+0000008 250  NN1     operating                Y2[i10.2.1 A1.1.1 B3 
+0000008 260  NN1     system                   Y2[i10.2.2 X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000008 270  PPIS2   we                       Z8 
+0000008 280  VV0     know                     X2.2+ S3.2/B1% 
+0000008 290  RT      today                    T1.1.2 
+0000008 291  .       .                        
+0000009 001  -----   -----                    
+0000010 010  IF      For                      Z5 
+0000010 020  RR      almost                   A13.4 
+0000010 030  MC      two                      N1 T3 T1.2 
+0000010 040  NNT2    decades                  T1.3 
+0000010 050  NP1     Torvalds                 Z99 
+0000010 060  VHZ     has                      Z5 A9+ A2.2 S4 
+0000010 070  VVN     maintained               A9+ T2++ S8+ A1.1.1 Q2.2 
+0000010 080  AT      the                      Z5 
+0000010 090  NN1     Linux                    Y2 
+0000010 100  NN1     kernel                   L3 A11.1+++ 
+0000010 101  ,       ,                        
+0000010 110  VVN     sponsored                A9-/I1.1 S8+ 
+0000010 120  II      by                       Z5 
+0000010 130  AT      the                      Z5 
+0000010 140  NN1     Linux                    Z3c[i11.2.1 Y2 
+0000010 150  NN1     Foundation               Z3c[i11.2.2 T2+ H2 S5+c A5.2+ B4 
+0000010 151  ,       ,                        
+0000010 160  CC      and                      Z5 
+0000010 170  JJ      managing                 S7.1+ A1.1.1 X9.2+ 
+0000010 180  NN2     contributions            A9- A2.2 S1.1.3+ 
+0000010 190  II      from                     Z5 
+0000010 200  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000010 210  CC      and                      Z5 
+0000010 220  NN2     developers               H1/S2mf C1/O1.2 
+0000010 230  RL      worldwide                W3 M7 A1.8+ 
+0000010 231  .       .                        
+0000011 001  -----   -----                    
+0000012 010  NN1@    'It                      Z99 
+0000012 020  VBDZ    was                      A3+ Z5 
+0000012 030  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000012 040  TO      to                       Z5 
+0000012 050  VVI     grow                     T3+/A2.1[i12.2.1 N3.2+/A2.1[i12.2.1 S1.2.6+/A2.1[i12.2.1 N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000012 060  RP      up                       T3+/A2.1[i12.2.2 N3.2+/A2.1[i12.2.2 S1.2.6+/A2.1[i12.2.2 
+0000012 070  CC      and                      Z5 
+0000012 080  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000012 090  AT1     a                        Z5 
+0000012 100  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
+0000012 110  NN1     job                      I3.1 A1.1.1 A12- 
+0000012 111  ,       ,                        
+0000012 112  GE      '                        Z5 
+0000012 120  NN2     Torvalds                 Z99 
+0000012 130  VVD     said                     Q2.1 
+0000012 131  .       .                        
+0000012 132  -----   -----                    
+0000012 140  UH      'I                       Z99 
+0000012 141  VBM     'm                       A3+ Z5 
+0000012 150  JJ      excited                  X5.2+ 
+0000012 160  II      about                    Z5 
+0000012 170  AT      the                      Z5 
+0000012 180  NN1     chance                   A1.4 A7+ 
+0000012 190  TO      to                       Z5 
+0000012 200  RR      really                   A13.3 A5.2+ 
+0000012 210  VVI     innovate                 T3- 
+0000012 220  CC      and                      Z5 
+0000012 230  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000012 240  AT1     an                       Z5 
+0000012 250  NN1     operating                Y2[i13.2.1 A1.1.1 B3 
+0000012 260  NN1     system                   Y2[i13.2.2 X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000012 270  IW      with                     Z5 
+0000012 280  NP1     Microsoft                Z3c 
+0000012 281  .       .                        
+0000012 282  -----   -----                    
+0000012 290  PPIS1   I                        Z8mf 
+0000012 300  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000012 310  TO      to                       Z5 
+0000012 320  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000012 330  APPGE   my                       Z8 
+0000012 340  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
+0000012 350  II      in                       Z5 
+0000012 360  AT      the                      Z5 
+0000012 370  NN2     hands                    B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000012 380  IO      of                       Z5 
+0000012 390  AT      the                      Z5 
+0000012 400  NN1     majority                 N5+++c 
+0000012 410  DD1     this                     M6 Z5 Z8 
+0000012 420  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000012 430  RP      around                   M6 
+0000012 431  .       .                        
+0000012 432  "@      '                        
+0000013 001  -----   -----                    
+0000014 010  NN2     Torvalds                 Z99 
+0000014 020  VM      will                     T1.1.3 
+0000014 030  VBI     be                       Z5 A3+ 
+0000014 040  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000014 050  IW      with                     Z5 
+0000014 060  NP1     Dave                     Z1mf[i14.2.1 Z3c[i14.2.1 Z1m 
+0000014 070  NP1     Cutler                   Z1mf[i14.2.2 Z3c[i14.2.2 
+0000014 071  ,       ,                        
+0000014 080  AT      the                      Z5 
+0000014 090  JJ      chief                    S7.1+ 
+0000014 100  NN1     architect                H1/I3.2/S2mf X7+/S2mf T2+/S2mf 
+0000014 110  II      behind                   Z5 
+0000014 120  NP1     Windows                  Z1mf[i15.2.1 Z3c[i15.2.1 
+0000014 130  NP1     NT                       Z1mf[i15.2.2 Z3c[i15.2.2 
+0000014 140  PNQS    who                      Z8 
+0000014 150  NP1     Microsoft                Z3c 
+0000014 160  RR      similarly                A6.1+ 
+0000014 170  VVN     poached                  G2.1- G2.2- A9+ F1 
+0000014 180  II      from                     Z5 
+0000014 190  JJ      Digital                  Z3c 
+0000014 200  NN1     Equipment                O2 
+0000014 210  NN1     Corporation              I2.1/S5c G1.1c 
+0000014 211  (       (                        
+0000014 220  NP1     DEC                      Z3c 
+0000014 221  )       )                        
+0000014 230  CC      and                      Z5 
+0000014 240  PNQS    who                      Z8 
+0000014 250  VBDZ    was                      A3+ Z5 
+0000014 260  II      behind                   Z5 
+0000014 270  AT      the                      Z5 
+0000014 280  NP1     VAX/VMS                  Z99 
+0000014 290  NN1     operating                Y2[i16.2.1 A1.1.1 B3 
+0000014 300  NN1     system                   Y2[i16.2.2 X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000014 301  .       .                        
+0000015 001  -----   -----                    
+0000016 010  VVN     Asked                    Q2.2 
+0000016 020  RRQ     how                      Z5 A13.3 
+0000016 030  PPHS1   he                       Z8m 
+0000016 040  VM      could                    A7+ 
+0000016 050  VVI     reconcile                A6.1 S1.2.1+/E3+ X2.5+ 
+0000016 060  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000016 070  IW      with                     Z5 
+0000016 080  NP1     Microsoft                Z3c 
+0000016 090  CS      after                    Z5 
+0000016 100  RR      long                     T1.3+ 
+0000016 110  VBG     being                    A3+ Z5 
+0000016 120  AT1     a                        Z5 
+0000016 130  JJ      staunch                  S6+ 
+0000016 140  JJ      open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000016 150  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000016 160  NN1     advocate                 Q2.2/S2mf G2.1/S2mf 
+0000016 170  NN2     Torvalds                 Z99 
+0000016 180  VVD     said                     Q2.1 
+0000016 190  PPHS1   he                       Z8m 
+0000016 200  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000016 210  XX      not                      Z6 
+0000016 220  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000016 230  DD      any                      N5.1+ N5 
+0000016 240  NN1     conflict                 A6.1- G3 E3- 
+0000016 250  IO      of                       Z5 
+0000016 260  NN1     interest                 X5.2+ I1.1 S8+ S1.1.3+ 
+0000016 261  .       .                        
+0000016 262  -----   -----                    
+0000016 270  NN1     'Linux                   Z99 
+0000016 280  VM      will                     T1.1.3 
+0000016 290  VVI     continue                 T2++ 
+0000016 300  TO      to                       Z5 
+0000016 310  VVI     exist                    A3+ 
+0000016 320  IW      without                  Z5 
+0000016 330  PPIO1   me                       Z8mf 
+0000016 331  ,       ,                        
+0000016 340  CC      and                      Z5 
+0000016 350  DD1     that                     Z8 Z5 
+0000016 351  VBZ     's                       A3+ Z5 
+0000016 360  AT      the                      Z5 
+0000016 370  NN1     beauty                   O4.2+ B4 
+0000016 380  IO      of                       Z5 
+0000016 390  JJ      open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000016 400  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000016 401  .       .                        
+0000016 402  -----   -----                    
+0000016 410  RR      Meanwhile                T1.1.2 
+0000016 411  ,       ,                        
+0000016 420  PPIS1   I                        Z8mf 
+0000016 430  VV0     hope                     X2.6+ E4.1+ X9.2+ A5.1+ 
+0000016 440  TO      to                       Z5 
+0000016 450  VVI     push                     M2 M1 S7.1+ X8+ I2.2 F3 I3.1- 
+0000016 460  NP1     Microsoft                Z3c 
+0000016 470  II      from                     Z5 
+0000016 480  AT      the                      Z5 
+0000016 490  JJ@     inside                   Z5 M6 S1.1.3+ G2.1@ 
+0000016 500  TO      to                       Z5 
+0000016 510  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000016 520  AT1     a                        Z5 
+0000016 530  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000016 540  JJ      entry-level              Z99 
+0000016 550  NN1     version                  A4.1 Q2.1 
+0000016 560  IO      of                       Z5 
+0000016 570  AT      the                      Z5 
+0000016 580  JJ      new                      T3- 
+0000016 590  NP2     OS                       Z5 
+0000016 600  PPIS2   we                       Z8 
+0000016 601  VBR     're                      Z5 A3+ 
+0000016 610  VVG     creating                 A1.1.1 A2.2 E1 
+0000016 611  .       .                        
+0000016 612  -----   -----                    
+0000016 620  PPIS1   I                        Z4[i17.2.1 Z8mf 
+0000016 630  VV0     think                    Z4[i17.2.2 X2.1 
+0000016 640  JJ      open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000016 650  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000016 660  VBZ     is                       A3+ Z5 
+0000016 670  II21    out                      A7-[i20.4.1 Z5 Z5[i18.2.1 Z5[i19.2.1 A9-[i19.2.1 
+0000016 680  II22    of                       A7-[i20.4.2 Z5[i18.2.2 Z5[i19.2.2 A9-[i19.2.2 
+0000016 690  AT      the                      A7-[i20.4.3 Z5 
+0000016 700  NN1     question                 A7-[i20.4.4 Q2.2 X4.1 
+0000016 710  RR@     though                   Z5 
+0000016 711  .       .                        
+0000016 712  "@      '                        
+0000017 001  -----   -----                    
+0000018 010  AT      No                       Z6 
+0000018 020  NN2     details                  A4.2+ S5+c B5 
+0000018 030  II      about                    Z5 
+0000018 040  AT      the                      Z5 
+0000018 050  NN1     project                  A1.1.1 P1 
+0000018 060  VBR     are                      A3+ Z5 
+0000018 070  RR      yet                      T1.1.2 
+0000018 080  JJ      available                A3+ A9+ A1.2+/G1.2 S4 
+0000018 081  ,       ,                        
+0000018 090  CCB     but                      Z5 
+0000018 100  VVN     given                    A9- A1.1.1 
+0000018 110  NP1     Cutler                   Z99 
+0000018 111  GE      's                       Z5 
+0000018 120  JJ      recent                   T3- 
+0000018 130  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
+0000018 140  II      on                       Z5 
+0000018 150  NP1     Windows                  H2 T1.3 Y2 
+0000018 160  NN1     Azure                    O4.3 
+0000018 170  PPH1    it                       Z8 
+0000018 171  VBZ     's                       A3+ Z5 
+0000018 180  JJ      possible                 A7+ 
+0000018 190  PPH1    it                       Z8 
+0000018 200  VM      will                     T1.1.3 
+0000018 210  VBI     be                       A3+ Z5 
+0000018 220  AT1     a                        Z5 
+0000018 230  JJ      cloud-centric            Z99 
+0000018 240  NN1     operating                Y2[i21.2.1 A1.1.1 B3 
+0000018 250  NN1     system                   Y2[i21.2.2 X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000018 251  .       .                        
+0000021 001  NULL    **8;7;text               

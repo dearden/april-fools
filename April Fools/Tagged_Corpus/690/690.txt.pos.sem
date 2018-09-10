@@ -1,0 +1,792 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  DAR     Fewer                    N5-- 
+0000002 020  NN2     teens                    T3- N1 T3-/S2mf 
+0000002 030  VBR     are                      Z5 A3+ 
+0000002 040  VHG     having                   A9+ Z5 A2.2 S4 
+0000002 050  NN2     babies                   T3--/S2mf E2+mfn 
+0000002 060  II      in                       Z5 
+0000002 070  AT      the                      Z5 
+0000002 080  NP1     United                   Z2c[i3.2.1 Z2c[i2.2.1 Z3c Z1mf[i1.2.1 Z3c[i1.2.1 
+0000002 090  NP1     States                   Z2c[i3.2.2 Z2c[i2.2.2 Z2 Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 100  NN1     --                       Z99 
+0000002 110  CCB     but                      Z5 
+0000002 120  XX      not                      Z6 
+0000002 130  DA2     few                      N5- 
+0000002 140  RR      enough                   N5+ N6+ 
+0000002 141  ,       ,                        
+0000002 150  II21    according                Z5[i4.2.1 Z5 
+0000002 160  II22    to                       Z5[i4.2.2 Z5 
+0000002 170  AT1     a                        Z5 
+0000002 180  NN1     report                   Q2.2 X3.2 
+0000002 190  II      from                     Z5 
+0000002 200  AT      the                      Z5 
+0000002 210  NN2     Centers                  M6 H1c M7c G1.2c K5.1mfn 
+0000002 220  IF      for                      Z5 
+0000002 230  NN1     Disease                  B2- 
+0000002 240  NN1     Control                  S7.1+ A1.7+ O2 
+0000002 250  CC      and                      Z5 
+0000002 260  NN1     Prevention               S8- 
+0000002 261  .       .                        
+0000002 262  -----   -----                    
+0000002 270  CS      Although                 Z5 
+0000002 280  NN1     teen                     T3 
+0000002 290  NN2     births                   B1 T2+ 
+0000002 300  VVD     dropped                  M2 M1 N5-/A2.1 O1.2/M1 B2- T2- A9- A1.8- X9.2-/K5 X3.2 
+0000002 310  MC      37                       N5[i5.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000002 320  NNU     percent                  N5[i5.2.2 N5 
+0000002 330  RL      nationwide               M7/N5.1+ 
+0000002 340  II      over                     T1.1.1[i6.5.1 Z5 
+0000002 350  AT      the                      T1.1.1[i6.5.2 Z5 
+0000002 360  MD      last                     T1.1.1[i6.5.3 N4 T1.1.1[i7.3.1 
+0000002 370  MC      two                      T1.1.1[i6.5.4 N1 T3 T1.2 T1.1.1[i7.3.2 
+0000002 380  NNT2    decades                  T1.1.1[i6.5.5 T1.3 T1.1.1[i7.3.3 
+0000002 390  II      to                       Z5 
+0000002 400  AT1     an                       Z5 
+0000002 410  JJ      all-time                 A13.2 
+0000002 420  JJ      low                      N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1- 
+0000002 430  II      in                       Z5 
+0000002 440  MC      2009                     N1 T1.2 T3 T1.3 N3.2 
+0000002 441  ,       ,                        
+0000002 450  AT      the                      Z5 
+0000002 460  NN1     rate                     N3.8 N5 I1.3 
+0000002 470  VBZ     is                       A3+ Z5 
+0000002 480  RR      still                    T2++ Z4 E3+ 
+0000002 490  MC      9                        T3 N1 T1.2 T1.3 N3.2 
+0000002 500  NNT2    times                    T1 T1.2 T1.3 T1.1.2 N6 N1 
+0000002 510  RRR@    higher                   N3.7++ N5++ 
+0000002 520  CSN     than                     Z5 
+0000002 530  II      in                       Z5 
+0000002 540  JJ      other                    A6.1- 
+0000002 550  JJ      developed                A5.1+/A2.1 
+0000002 560  NN2     countries                M7 
+0000002 561  .       .                        
+0000004 001  NULL    <quote>                  
+0000004 002  -----   -----                    
+0000004 003  "       "                        
+0000004 010  CS      Though                   Z5 
+0000004 020  PPIS2   we                       Z8 
+0000004 030  VH0     have                     Z5 A9+ A2.2 S4 
+0000004 040  VVN     made                     X9.2+[i8.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000004 050  NN1     progress                 X9.2+[i8.2.2 A5.1+/A2.1 T2++ A2.1+ M1% 
+0000004 060  II      in                       Z5 
+0000004 070  VVG     reducing                 N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000004 080  NN1     teen                     T3 
+0000004 090  NN1     pregnancy                B1 
+0000004 100  II      over                     T1.1.1[i9.5.1 Z5 
+0000004 110  AT      the                      T1.1.1[i9.5.2 Z5 
+0000004 120  JJ      past                     T1.1.1[i9.5.3 T1.1.1 
+0000004 130  MC      20                       T1.1.1[i9.5.4 N1 T1.2 T3 T1.3 N3.2 
+0000004 140  NNT2    years                    T1.1.1[i9.5.5 T1.3 
+0000004 141  ,       ,                        
+0000004 150  RR      still                    T2++ Z4 E3+ 
+0000004 160  RR      far                      N5.2+[i10.2.1 A13.3 N3.3+ X9.2+ 
+0000004 170  RG      too                      N5.2+[i10.2.2 N5.2+ A13.3 N5.2+[i11.2.1 
+0000004 180  DA2     many                     N5+ N5.2+[i11.2.2 
+0000004 190  NN2     teens                    T3- N1 T3-/S2mf 
+0000004 200  VBR     are                      Z5 A3+ 
+0000004 210  VHG     having                   A9+ Z5 A2.2 S4 
+0000004 220  NN2     babies                   T3--/S2mf E2+mfn 
+0000004 221  ,       ,                        
+0000004 222  "       "                        
+0000004 223  NULL    </quote>                 
+0000004 224  -----   -----                    
+0000004 230  NP1     CDC                      Z3c 
+0000004 240  NN1     director                 S7.1+/S2mf K4/S2mf 
+0000004 250  NNB     Dr.                      B3/S2mf P1/S2mf 
+0000004 260  NP1     Thomas                   Z1mf[i13.3.1 Z3c[i13.3.1 Z1mf Z1mf[i12.2.1 Z3c[i12.2.1 
+0000004 270  NP1     R.                       Z1mf[i13.3.2 Z3c[i13.3.2 Z1mf[i12.2.2 Z3c[i12.2.2 Z1mf[i14.2.1 Z3c[i14.2.1 
+0000004 280  NP1     Frieden                  Z3c[i13.3.3 Z1mf[i13.3.3 Z1mf[i14.2.2 Z3c[i14.2.2 
+0000004 290  VVD     said                     Q2.1 
+0000004 300  II      in                       Z5 
+0000004 310  AT1     a                        Z5 
+0000004 320  NN1     statement                Q2.1 I1/Q1.2 
+0000004 321  .       .                        
+0000004 322  NULL    <quote>                  
+0000004 323  -----   -----                    
+0000004 324  "       "                        
+0000004 330  VVG     Preventing               S8- 
+0000004 340  NN1     teen                     T3 
+0000004 350  NN1     pregnancy                B1 
+0000004 360  VM      can                      A7+ 
+0000004 370  VVI     protect                  S8+/A15+ A10- 
+0000004 380  AT      the                      Z5 
+0000004 390  NN1     health                   B2 X9.2 
+0000004 400  CC      and                      Z5 
+0000004 410  NN1     quality                  A5.1 A5.1+ O4.1 
+0000004 420  IO      of                       Z5 
+0000004 430  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000004 440  IO      of                       Z5 
+0000004 450  NN2     teenagers                T3-/S2mf 
+0000004 451  ,       ,                        
+0000004 460  APPGE   their                    Z8 
+0000004 470  NN2     children                 S2mf/T3- S4mf 
+0000004 471  ,       ,                        
+0000004 480  CC      and                      Z5 
+0000004 490  APPGE   their                    Z8 
+0000004 500  NN2     families                 S4 A4.1 
+0000004 510  II      throughout               Z5 
+0000004 520  AT      the                      Z5 
+0000004 530  NP1     United                   Z2c[i17.2.1 Z2c[i16.2.1 Z3c Z1mf[i15.2.1 Z3c[i15.2.1 
+0000004 540  NP1     States                   Z2c[i17.2.2 Z2c[i16.2.2 Z2 Z1mf[i15.2.2 Z3c[i15.2.2 
+0000004 541  .       .                        
+0000004 542  "       "                        
+0000004 543  NULL    </quote>                 
+0000004 544  -----   -----                    
+0000006 010  II      Despite                  Z5 
+0000006 020  AT      the                      Z5 
+0000006 030  NN1     plunge                   M1 N5-/A2.1 
+0000006 031  ,       ,                        
+0000006 040  RR      roughly                  A13.4 E3- A4.2- 
+0000006 050  MC      410,000                  N1 T1.2 T3 T1.3 N3.2 
+0000006 060  NN1     teen                     T3 
+0000006 070  NN2     girls                    S2.1f L2f@ 
+0000006 080  VVD     gave                     B1[i18.2.1 A2.2[i18.2.1 A9- A1.1.1 
+0000006 090  NN1     birth                    B1[i18.2.2 A2.2[i18.2.2 B1 T2+ 
+0000006 100  II      in                       Z5 
+0000006 110  MC      2009                     N1 T1.2 T3 T1.3 N3.2 
+0000006 120  II      at                       Z5 
+0000006 130  AT1     an                       Z5 
+0000006 140  JJ@     estimated                X6/A7- N2/A7- 
+0000006 150  NN1     cost                     I1.3 
+0000006 160  IO      of                       Z5 
+0000006 170  NNU     $9                       I1.2/Z99[i19.2.1 
+0000006 180  NNO     billion                  I1.2/Z99[i19.2.2 N1 I1 
+0000006 190  II      to                       Z5 
+0000006 200  NP1     U.S.                     Z8 
+0000006 210  NN2     taxpayers                I1.1/S2mf 
+0000006 211  ,       ,                        
+0000006 220  II21    according                Z5[i20.2.1 Z5 
+0000006 230  II22    to                       Z5[i20.2.2 Z5 
+0000006 240  AT      the                      Z5 
+0000006 250  NN1     report                   Q2.2 X3.2 
+0000006 251  .       .                        
+0000008 001  NULL    <quote>                  
+0000008 002  -----   -----                    
+0000008 003  "       "                        
+0000008 010  PPIS1   I                        Z8mf 
+0000008 020  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000008 021  XX      n't                      Z6 
+0000008 030  VVI     think                    X2.1 
+0000008 040  NN2     teens                    T3- N1 T3-/S2mf 
+0000008 050  RR      really                   A13.3 A5.2+ 
+0000008 060  VV0     understand               X2.5+ 
+0000008 070  AT      the                      Z5 
+0000008 080  NN1     cost                     I1.3 
+0000008 081  ,       ,                        
+0000008 082  "       "                        
+0000008 083  NULL    </quote>                 
+0000008 084  -----   -----                    
+0000008 090  VVD     said                     Q2.1 
+0000008 100  NNB     Dr.                      B3/S2mf P1/S2mf 
+0000008 110  NP1     Amy                      Z1mf[i21.2.1 Z3c[i21.2.1 Z1f 
+0000008 120  NP1     Thompson                 Z1mf[i21.2.2 Z3c[i21.2.2 Z1mf 
+0000008 121  ,       ,                        
+0000008 130  AT1     an                       Z5 
+0000008 140  JJ      assistant                S8+ 
+0000008 150  NN1     professor                P1/S2mf 
+0000008 160  IO      of                       Z5 
+0000008 170  NN1     obstetrics               B3 
+0000008 180  CC      and                      Z5 
+0000008 190  NN1     gynecology               Z99 
+0000008 200  VVG     specializing             A4.2+ 
+0000008 210  II      in                       Z5 
+0000008 220  NN1     teen                     T3 
+0000008 230  NN1     pregnancy                B1 
+0000008 240  II      at                       Z5 
+0000008 250  AT      the                      Z5 
+0000008 260  NN1     University               Z3c[i22.3.1 P1/H1c 
+0000008 270  IO      of                       Z3c[i22.3.2 Z5 
+0000008 280  NP1     Cincinnati               Z3c[i22.3.3 
+0000008 281  .       .                        
+0000008 282  NULL    <quote>                  
+0000008 283  -----   -----                    
+0000008 284  "       "                        
+0000008 290  DA2     Many                     N5+ 
+0000008 300  VBR     are                      Z5 A3+ 
+0000008 310  VVN     enrolled                 Q2.2 
+0000008 320  II      in                       Z5 
+0000008 330  AT      the                      Z5 
+0000008 340  NP1     Medicaid                 Z99 
+0000008 350  CC      and                      Z5 
+0000008 360  NP1     WIC                      Z99 
+0000008 361  (       &lsqb;                   
+0000008 370  NN2     Women                    S2.1f 
+0000008 371  ,       ,                        
+0000008 380  NN2     Infants                  T3--/S2mf 
+0000008 390  CC      and                      Z5 
+0000008 400  NN2     Children                 S2mf/T3- S4mf 
+0000008 401  )       &rsqb;                   
+0000008 410  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000008 420  TO      to                       Z5 
+0000008 430  VVI     help                     S8+ 
+0000008 440  PPHO2   them                     Z8mfn 
+0000008 450  II      during                   Z5 
+0000008 460  NN1     pregnancy                B1 
+0000008 461  .       .                        
+0000008 462  -----   -----                    
+0000008 470  CCB     But                      Z5 
+0000008 480  NN1     teen                     T3 
+0000008 490  NN1     pregnancy                B1 
+0000008 500  VBZ     is                       Z5 A3+ 
+0000008 510  VVN     associated               A6.1+/X2.1 S3.1 
+0000008 520  IW      with                     Z5 
+0000008 530  JJ      poor                     I1.1- A5.1- N5- E4.1- X9.1- 
+0000008 540  JJ      high                     P1/H1c[i23.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000008 550  NN1     school                   P1/H1c[i23.2.2 P1/H1c S5+c L2%c 
+0000008 560  NN1     performance              K4 X9.2 A1.1.1 A12- 
+0000008 570  CC      or                       Z5 
+0000008 580  NN1     dropout                  X9.2-/S2mf 
+0000008 590  CC      and                      Z5 
+0000008 600  VVD     decreased                N5-/A2.1 
+0000008 610  NN2     earnings                 I1.1 
+0000008 620  RRR     later                    N4[i24.2.1 T4-- T1.1.3 N4 
+0000008 630  RP      on                       N4[i24.2.2 M6 A1.1.1 
+0000008 640  II      in                       Z5 
+0000008 650  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000008 651  .       .                        
+0000008 652  "       "                        
+0000008 653  NULL    </quote>                 
+0000008 654  -----   -----                    
+0000010 010  RR      Only                     A14 
+0000010 020  DB      half                     N5 
+0000010 030  IO      of                       Z5 
+0000010 040  NN1     teen                     T3 
+0000010 050  NN2     moms                     S4/S2.1f 
+0000010 060  VV0     earn                     A9+/I1 S1.1.4+ 
+0000010 070  AT1     a                        Z5 
+0000010 080  JJ      high                     P1/H1c[i25.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000010 090  NN1     school                   P1/H1c[i25.2.2 P1/H1c S5+c L2%c 
+0000010 100  NN1     diploma                  P1 Q1.2 
+0000010 110  II      by                       Z5 
+0000010 120  NN1     age                      T3 T1.3 
+0000010 130  MC      22                       N1 T1.2 T3 T1.3 N3.2 
+0000010 140  VVN     compared                 A6.1 A5.1 Q3 
+0000010 150  IW      with                     Z5 
+0000010 160  MC      90                       N5[i26.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000010 170  NNU     percent                  N5[i26.2.2 N5 
+0000010 180  IO      of                       Z5 
+0000010 190  NN2     teens                    T3- N1 T3-/S2mf 
+0000010 200  PNQS    who                      Z8 
+0000010 210  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000010 211  XX      n't                      Z6 
+0000010 220  VHI     have                     A9+ Z5 A2.2 S4 
+0000010 230  NN2     children                 S2mf/T3- S4mf 
+0000010 231  ,       ,                        
+0000010 240  II21    according                Z5[i27.2.1 Z5 
+0000010 250  II22    to                       Z5[i27.2.2 Z5 
+0000010 260  AT      the                      Z5 
+0000010 270  NN1     report                   Q2.2 X3.2 
+0000010 271  .       .                        
+0000011 001  -----   -----                    
+0000012 010  JJ      Black                    O4.3 G2.2- A5.1- E4.1- S5+ 
+0000012 020  CC      and                      Z5 
+0000012 030  JJ      Hispanic                 Z2 
+0000012 040  NN2     teens                    T3- N1 T3-/S2mf 
+0000012 050  VBR     are                      A3+ Z5 
+0000012 060  MC      2                        T3 N1 T1.2 T1.3 N3.2 
+0000012 070  II      to                       Z5 
+0000012 080  MC      3                        N6+[i28.2.1 A13.3[i28.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000012 090  NNT2    times                    N6+[i28.2.2 A13.3[i28.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 
+0000012 100  RRR     more                     A13.3 N6++ 
+0000012 110  JJ      likely                   A7+ A1.2+ 
+0000012 120  TO      to                       Z5 
+0000012 130  VVI     give                     B1[i29.2.1 A2.2[i29.2.1 A9- A1.1.1 
+0000012 140  NN1     birth                    B1[i29.2.2 A2.2[i29.2.2 B1 T2+ 
+0000012 150  CSN     than                     Z5 
+0000012 160  JJ      white                    O4.3 G2.2+ 
+0000012 170  NN2     teens                    T3- N1 T3-/S2mf 
+0000012 171  ,       ,                        
+0000012 180  II21    according                Z5[i30.2.1 Z5 
+0000012 190  II22    to                       Z5[i30.2.2 Z5 
+0000012 200  AT      the                      Z5 
+0000012 210  NN1     report                   Q2.2 X3.2 
+0000012 211  .       .                        
+0000012 212  -----   -----                    
+0000012 220  CC      And                      Z5 
+0000012 230  NN2     girls                    S2.1f L2f@ 
+0000012 240  VVN     born                     B1 
+0000012 250  II      to                       Z5 
+0000012 260  NN1     teen                     T3 
+0000012 270  NN2     parents                  S4mf A9+ 
+0000012 280  VBR     are                      A3+ Z5 
+0000012 290  RR      nearly                   A13.4 
+0000012 300  MC      33                       T3 N1 T1.2 T1.3 N3.2 
+0000012 310  NNU     percent                  N5 
+0000012 320  DAR     more                     N5++ 
+0000012 330  JJ      likely                   A7+ A1.2+ 
+0000012 340  TO      to                       Z5 
+0000012 350  VVI     become                   A2.1+ O4.2+ 
+0000012 360  NN1     teen                     T3 
+0000012 370  NN2     moms                     S4/S2.1f 
+0000012 380  PPX2    themselves               Z8 
+0000012 381  .       .                        
+0000013 001  -----   -----                    
+0000014 010  NP1     Thompson                 Z1mf 
+0000014 020  VVD     said                     Q2.1 
+0000014 030  AT      the                      Z5 
+0000014 040  JJR     higher                   N3.7++ N5++ A11.1++ S7.1++ A5.1++ T3-- X3.2 G2.2++ E4.1++ I1.3++ O4.2-- O4.6++ S9 
+0000014 050  NN2     rates                    N3.8 N5 I1.3 
+0000014 060  IF      for                      Z5 
+0000014 070  NN2     blacks                   O4.3/S2mf O4.3 
+0000014 080  CC      and                      Z5 
+0000014 090  NN2     Hispanics                Z2 
+0000014 100  VM      could                    A7+ 
+0000014 110  VVI     reflect                  A10+ Y1/M2 X3.4 X2.1 A5.1 
+0000014 120  NN1     lack                     A9- 
+0000014 130  IO      of                       Z5 
+0000014 140  NN1     access                   M1 A9+ A1.1.1 
+0000014 150  TO      to                       Z5 
+0000014 160  VVI     care                     E6- E2+ S8+ B3 X7+ 
+0000014 170  CC      or                       Z5 
+0000014 180  JJ      cultural                 C1 S1.1.1 S5+ 
+0000014 190  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000014 191  .       .                        
+0000016 001  NULL    <quote>                  
+0000016 002  -----   -----                    
+0000016 003  "       "                        
+0000016 010  PPIS2   We                       Z8 
+0000016 020  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000016 021  XX      n't                      Z6 
+0000016 030  VVI     know                     X2.2+ S3.2/B1% 
+0000016 040  CSW@    if                       Z7 
+0000016 050  EX      there                    Z5 
+0000016 060  VBR     are                      A3+ Z5 
+0000016 070  JJ      other                    A6.1- 
+0000016 080  JJ      socioeconomic            S1.1.1/I2.1 
+0000016 090  NN2     factors                  A2.2 A4.1 N2 I2.1/S2mf@ 
+0000016 100  II      at                       Z5 
+0000016 110  NN1     play                     K4 K5.1 
+0000016 120  RL      here                     M6 T1.1.2 T1.2 
+0000016 121  .       .                        
+0000016 122  -----   -----                    
+0000016 130  VBR     Are                      A3+ Z5 
+0000016 140  PPHS2   they                     Z8mfn 
+0000016 150  RGR     less                     A13.6 
+0000016 160  JJ      likely                   A7+ A1.2+ 
+0000016 170  TO      to                       Z5 
+0000016 180  VVI     talk                     Q2.1 
+0000016 190  II      to                       Z5 
+0000016 200  APPGE   their                    Z8 
+0000016 210  NN2     parents                  S4mf A9+ 
+0000016 220  II      about                    Z5 
+0000016 230  NN1     sex                      S2 S3.2 
+0000016 231  ?       ?                        
+0000016 232  -----   -----                    
+0000016 240  CC      Or                       Z5 
+0000016 250  CS      if                       Z7 
+0000016 260  PPHS2   they                     Z8mfn 
+0000016 270  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000016 271  ,       ,                        
+0000016 280  VBR     are                      A3+ Z5 
+0000016 290  AT      the                      Z5 
+0000016 300  MD      next                     N4 
+0000016 310  NN2     steps                    M1 T1.2 H5 A1.1.1 K1@ 
+0000016 320  VVN     taken                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000016 321  ?       ?                        
+0000016 322  -----   -----                    
+0000016 330  VD0     Do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000016 340  AT      the                      Z5 
+0000016 350  NN2     parents                  S4mf A9+ 
+0000016 360  VVI     say                      Q2.1 Z4% 
+0000016 361  ,       ,                        
+0000016 370  NP1     'OK                      Z99 
+0000016 371  ,       ,                        
+0000016 380  VM21    let                      Z5[i31.2.1 
+0000016 381  VM22    's                       Z5[i31.2.2 
+0000016 390  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000016 400  PPY     you                      Z8mf 
+0000016 410  II      on                       Z5 
+0000016 420  NN1     birth                    B1 T2+ 
+0000016 430  NN1     control'                 Z99 
+0000016 431  ?       ?                        
+0000016 432  "       "                        
+0000016 433  NULL    </quote>                 
+0000016 434  -----   -----                    
+0000018 010  NN2     Numbers                  N5 N1 Q1.3 K2 Q4.2 
+0000018 020  VVG     Moving                   M2 M1 A2.1+ E1 H4/A2.1 
+0000018 030  II      in                       Z5 
+0000018 040  JJ      Right                    A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 
+0000018 050  NN1     Direction                M6 Q2.2 S7.1+ X4.2 K4 
+0000020 010  AT      The                      Z5 
+0000020 020  NN1     report                   Q2.2 X3.2 
+0000020 030  VVZ     suggests                 Q2.2 Q1.1 
+0000020 040  DAR     fewer                    N5-- 
+0000020 050  JJ      high                     P1/H1c[i32.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000020 060  NN1     school                   P1/H1c[i32.2.2 P1/H1c S5+c L2%c 
+0000020 070  NN2     students                 P1/S2mf 
+0000020 080  VBR     are                      Z5 A3+ 
+0000020 090  VHG     having                   A9+ Z5 A2.2 S4 
+0000020 100  NN1     sex                      S2 S3.2 
+0000020 101  (       (                        
+0000020 110  MC      46                       N5[i33.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000020 120  NNU     percent                  N5[i33.2.2 N5 
+0000020 130  VVN     compared                 A6.1 A5.1 Q3 
+0000020 140  IW      with                     Z5 
+0000020 150  MC      54                       N5[i34.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000020 160  NNU     percent                  N5[i34.2.2 N5 
+0000020 170  II      in                       Z5 
+0000020 180  MC      1991                     N1 T1.2 T3 T1.3 N3.2 
+0000020 181  )       )                        
+0000020 182  ,       ,                        
+0000020 190  CC      and                      Z5 
+0000020 200  DAR     more                     N5++ 
+0000020 210  IO      of                       Z5 
+0000020 220  PPHO2   them                     Z8mfn 
+0000020 230  VBR     are                      Z5 A3+ 
+0000020 240  VVG     using                    A1.5.1 S7.1+ 
+0000020 250  RR21    at                       A13.7[i35.2.1 
+0000020 260  RR22    least                    A13.7[i35.2.2 A13.7 
+0000020 270  MC1     one                      N1 T3 T1.2 
+0000020 280  NN1     method                   X4.2 
+0000020 290  IO      of                       Z5 
+0000020 300  NN1     birth                    B3/S4[i36.2.1 B1 T2+ 
+0000020 310  NN1     control                  B3/S4[i36.2.2 S7.1+ A1.7+ O2 
+0000020 311  (       (                        
+0000020 320  MC      12                       N5[i37.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000020 330  NNU     percent                  N5[i37.2.2 N5 
+0000020 340  VVN     reported                 Q2.2 S7.1- 
+0000020 350  XX      not                      Z6 
+0000020 360  VVG     using                    A1.5.1 S7.1+ 
+0000020 370  NN1     contraception            B3/S3.2 
+0000020 380  VVN     compared                 A6.1 A5.1 Q3 
+0000020 390  IW      with                     Z5 
+0000020 400  MC      16                       N5[i38.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000020 410  NNU     percent                  N5[i38.2.2 N5 
+0000020 420  II      in                       Z5 
+0000020 430  MC      1991                     N1 T1.2 T3 T1.3 N3.2 
+0000020 431  )       )                        
+0000020 432  .       .                        
+0000021 001  -----   -----                    
+0000022 010  AT      The                      Z5 
+0000022 020  NN1     proportion               N5.1- N5 A2.2 N3.2 
+0000022 030  IO      of                       Z5 
+0000022 040  NN2     students                 P1/S2mf 
+0000022 050  PNQS    who                      Z8 
+0000022 060  VVD     reported                 Q2.2 S7.1- 
+0000022 070  VVG     using                    A1.5.1 S7.1+ 
+0000022 080  MC      two                      N1 T3 T1.2 
+0000022 090  NN2     methods                  X4.2 
+0000022 100  IO      of                       Z5 
+0000022 110  NN1     contraception            B3/S3.2 
+0000022 111  ,       ,                        
+0000022 120  II21    such                     Z5[i39.2.1 
+0000022 130  II22    as                       Z5[i39.2.2 Z5 
+0000022 140  NN2     condoms                  B3/O2 
+0000022 150  CC      and                      Z5 
+0000022 160  AT      the                      Z5 
+0000022 170  NN1     birth                    B3/S4[i41.3.1 B1 T2+ B3/S4[i40.2.1 
+0000022 180  NN1     control                  B3/S4[i41.3.2 S7.1+ A1.7+ O2 B3/S4[i40.2.2 
+0000022 190  NN1     pill                     B3/S4[i41.3.3 B3 
+0000022 191  ,       ,                        
+0000022 200  RR      almost                   A13.4 
+0000022 210  VVN     doubled                  N5+/A2.1 
+0000022 220  II      from                     Z5 
+0000022 230  MC      5                        N5[i42.2.1 N1 
+0000022 240  NNU     percent                  N5[i42.2.2 N5 
+0000022 250  II      in                       Z5 
+0000022 260  MC      1991                     T1.2[i43.3.1 N3.2[i43.3.1 T1.3[i43.3.1 N1 T1.2 T3 T1.3 N3.2 
+0000022 270  II      to                       T1.2[i43.3.2 N3.2[i43.3.2 T1.3[i43.3.2 Z5 
+0000022 280  MC      9                        T1.2[i43.3.3 N3.2[i43.3.3 T1.3[i43.3.3 N1 T1.2 T3 T1.3 N3.2 N5[i44.2.1 
+0000022 290  NNU     percent                  N5 N5[i44.2.2 
+0000022 300  II      in                       Z5 
+0000022 310  MC      2009                     N1 T1.2 T3 T1.3 N3.2 
+0000022 311  .       .                        
+0000024 001  NULL    <quote>                  
+0000024 002  -----   -----                    
+0000024 003  "       "                        
+0000024 010  CS21    Even                     Z5[i45.2.1 
+0000024 020  CS22    though                   Z5[i45.2.2 Z5 
+0000024 030  PPIS2   we                       Z8 
+0000024 040  VBR     are                      Z5 A3+ 
+0000024 050  VVG     making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000024 060  NN1     process                  A1.1.1 X4.2 
+0000024 061  ,       ,                        
+0000024 070  EX      there                    Z5 
+0000024 071  VBZ     's                       A3+ Z5 
+0000024 080  RR      still                    T2++ Z4 E3+ 
+0000024 090  VV0     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000024 100  TO      to                       Z5 
+0000024 110  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000024 111  ,       ,                        
+0000024 112  "       "                        
+0000024 113  NULL    </quote>                 
+0000024 114  -----   -----                    
+0000024 120  NP1     Thompson                 Z1mf 
+0000024 130  VVD     said                     Q2.1 
+0000024 131  .       .                        
+0000025 001  -----   -----                    
+0000026 010  NP1     Thompson                 Z1mf 
+0000026 020  VVD     said                     Q2.1 
+0000026 030  PPHS1   she                      Z8f 
+0000026 040  RR      often                    N6+ 
+0000026 050  VVZ     sees                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000026 060  NN1     teen                     T3 
+0000026 070  NN2     moms                     S4/S2.1f 
+0000026 080  PNQS    who                      Z8 
+0000026 090  VBR     are                      A3+ Z5 
+0000026 100  JJ      pregnant                 B1 A11.1+% 
+0000026 110  RT      again                    N6+ Z4 
+0000026 111  ,       ,                        
+0000026 120  DDQ     which                    Z8 Z5 
+0000026 130  VVZ     means                    Q1.1 X7+ 
+0000026 140  PPHS2   they                     Z8mfn 
+0000026 150  VH0     have                     Z5 A9+ A2.2 S4 
+0000026 160  VHN     had                      A9+ Z5 A2.2 S4 
+0000026 170  NN1     access                   M1 A9+ A1.1.1 
+0000026 180  II      to                       Z5 
+0000026 190  AT1     a                        Z5 
+0000026 200  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000026 210  CC      and                      Z5 
+0000026 220  RR@     likely                   A7+ 
+0000026 230  VHD     had                      Z5 A9+ A2.2 S4 
+0000026 240  VBN     been                     Z5 A3+ 
+0000026 250  VVN     educated                 P1 
+0000026 260  II      about                    Z5 
+0000026 270  NN1     birth                    B3/S4[i46.2.1 B1 T2+ 
+0000026 280  NN1     control                  B3/S4[i46.2.2 S7.1+ A1.7+ O2 
+0000026 281  .       .                        
+0000028 001  NULL    <quote>                  
+0000028 002  -----   -----                    
+0000028 003  "       "                        
+0000028 010  PPIS1   I                        Z8mf 
+0000028 020  VV0     think                    X2.1 
+0000028 030  CST     that                     Z8 Z5 
+0000028 040  VVZ     speaks                   Q2.1 
+0000028 050  RRR     more                     A13.3 N6++ 
+0000028 060  II      to                       Z5 
+0000028 070  VHG     having                   A9+ Z5 A2.2 S4 
+0000028 080  PPHO2   them                     Z8mfn 
+0000028 090  VV0     use                      A1.5.1 S7.1+ 
+0000028 091  (       &lsqb;                   
+0000028 100  JJ      long-acting              Z99 
+0000028 110  JJ      reversible               A2.1+/A6.1- 
+0000028 120  NN2     contraceptives           B3/S3.2 
+0000028 121  )       &rsqb;                   
+0000028 122  ,       ,                        
+0000028 123  "       "                        
+0000028 124  NULL    </quote>                 
+0000028 125  -----   -----                    
+0000028 130  NP1     Thompson                 Z1mf 
+0000028 140  VVD     said                     Q2.1 
+0000028 141  ,       ,                        
+0000028 150  VVG     referring                Q2.2 Q1.2 
+0000028 160  II      to                       Z5 
+0000028 170  JJ      contraceptive            B3/S3.2 
+0000028 180  NN2     implants                 B3 
+0000028 190  II      like                     Z5 
+0000028 200  JJ      intrauterine             Z99 
+0000028 210  NN2     devices                  O2 X4.2 Q1.1 
+0000028 211  .       .                        
+0000028 212  NULL    <quote>                  
+0000028 213  -----   -----                    
+0000028 214  "       "                        
+0000028 220  DD2     Those                    Z8 Z5 
+0000028 230  VM      would                    A7+ 
+0000028 240  VVI     provide                  A9- S6+ 
+0000028 250  RR      really                   A13.3 A5.2+ 
+0000028 260  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000028 270  NN1     birth                    B3/S4[i47.2.1 B1 T2+ 
+0000028 280  NN1     control                  B3/S4[i47.2.2 S7.1+ A1.7+ O2 
+0000028 290  II31    as                       A6.1-[i48.3.1 Z5 
+0000028 300  II32    opposed                  A6.1-[i48.3.2 
+0000028 310  II33    to                       A6.1-[i48.3.3 Z5 
+0000028 320  NN1     birth                    B3/S4[i50.3.1 B1 T2+ B3/S4[i49.2.1 
+0000028 330  NN1     control                  B3/S4[i50.3.2 S7.1+ A1.7+ O2 B3/S4[i49.2.2 
+0000028 340  NN2     pills                    B3/S4[i50.3.3 B3 
+0000028 341  .       .                        
+0000028 342  "       "                        
+0000028 343  NULL    </quote>                 
+0000028 344  -----   -----                    
+0000030 010  NN1     Education                P1 X2.3+ 
+0000030 020  VBZ     is                       A3+ Z5 
+0000030 030  JJ      Key                      A11.1+ 
+0000032 010  AT      The                      Z5 
+0000032 020  NN1     report                   Q2.2 X3.2 
+0000032 030  VVZ     highlights               X5.1+ 
+0000032 040  AT      the                      Z5 
+0000032 050  NN1     importance               A11.1+ 
+0000032 060  IO      of                       Z5 
+0000032 070  NN1     sex                      S2 S3.2 
+0000032 080  CC      and                      Z5 
+0000032 090  NN1     birth                    B3/S4[i51.2.1 B1 T2+ 
+0000032 100  NN1     control                  B3/S4[i51.2.2 S7.1+ A1.7+ O2 
+0000032 110  NN1     education                P1 X2.3+ 
+0000032 120  NN1     --                       Z99 
+0000032 130  AT1     a                        Z5 
+0000032 140  NN1     curriculum               P1 
+0000032 150  CST     that                     Z8 Z5 
+0000032 160  VVZ     varies                   A6.3+ 
+0000032 170  RR      widely                   N5+ A4.2- 
+0000032 180  II      between                  Z5 
+0000032 190  NN2     states                   G1.1c O4.1 
+0000032 191  .       .                        
+0000034 001  NULL    <quote>                  
+0000034 002  -----   -----                    
+0000034 003  "       "                        
+0000034 010  PPIS1   I                        Z8mf 
+0000034 020  VV0     think                    X2.1 
+0000034 030  PPIS2   we                       Z8 
+0000034 040  RR      definitely               A7+++ 
+0000034 050  VV0     need                     S6+ 
+0000034 060  AT1     a                        Z5 
+0000034 070  RGR     more                     A13.3 
+0000034 080  JJ      formal                   S1.2.1- G1.1 A6.2+ O4.2 
+0000034 090  NN1     approach                 X4.2 M1 E1 S1.1.1 
+0000034 100  II      to                       Z5 
+0000034 110  RRQ     how                      Z5 A13.3 
+0000034 120  PPIS2   we                       Z8 
+0000034 130  VV0     implement                A1.1.1 A9-/O2 
+0000034 140  NN1     education                P1 X2.3+ 
+0000034 150  NN2     strategies               X7+ 
+0000034 151  ,       ,                        
+0000034 160  CSW     whether                  Z5 
+0000034 170  PPHS2   they                     Z8mfn 
+0000034 171  VBR     're                      A3+ Z5 
+0000034 180  IF      for                      Z5 
+0000034 190  NN2     parents                  S4mf A9+ 
+0000034 200  CC      or                       Z5 
+0000034 210  II      in                       Z5 
+0000034 220  AT      the                      Z5 
+0000034 230  NN1     school                   P1/H1c S5+c L2%c 
+0000034 240  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000034 241  ,       ,                        
+0000034 242  "       "                        
+0000034 243  NULL    </quote>                 
+0000034 244  -----   -----                    
+0000034 250  NP1     Thompson                 Z1mf 
+0000034 260  VVD     said                     Q2.1 
+0000034 261  .       .                        
+0000035 001  -----   -----                    
+0000036 010  II      Between                  Z5 
+0000036 020  MC      2006                     N1 T1.2 T3 T1.3 N3.2 
+0000036 030  CC      and                      Z5 
+0000036 040  MC      2008                     N1 T1.2 T3 T1.3 N3.2 
+0000036 041  ,       ,                        
+0000036 050  MC      65                       N5[i52.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000036 060  NNU     percent                  N5[i52.2.2 N5 
+0000036 070  IO      of                       Z5 
+0000036 080  NN1     teen                     T3 
+0000036 090  NN2     girls                    S2.1f L2f@ 
+0000036 100  CC      and                      Z5 
+0000036 110  MC      53                       N5[i53.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000036 120  NNU     percent                  N5[i53.2.2 N5 
+0000036 130  IO      of                       Z5 
+0000036 140  NN1     teen                     T3 
+0000036 150  NN2     boys                     S2.2m 
+0000036 160  VVN     learned                  X2.3+ P1 
+0000036 170  II      about                    Z5 
+0000036 180  NN1     abstinence               A9-/G2.2+ 
+0000036 190  CC      and                      Z5 
+0000036 200  NN1     birth                    B3/S4[i54.2.1 B1 T2+ 
+0000036 210  NN1     control                  B3/S4[i54.2.2 S7.1+ A1.7+ O2 
+0000036 220  II      during                   Z5 
+0000036 230  JJ      formal                   S1.2.1- G1.1 A6.2+ O4.2 
+0000036 240  NN1     sex                      S2 S3.2 
+0000036 250  NN1     education                P1 X2.3+ 
+0000036 251  .       .                        
+0000036 252  -----   -----                    
+0000036 260  DAR     Fewer                    N5-- 
+0000036 270  VHD     had                      Z5 A9+ A2.2 S4 
+0000036 280  VVN     spoken                   Q2.1 
+0000036 290  II      to                       Z5 
+0000036 300  APPGE   their                    Z8 
+0000036 310  NN2     parents                  S4mf A9+ 
+0000036 320  II      about                    Z5 
+0000036 330  NN1     sex                      S2 S3.2 
+0000036 331  .       .                        
+0000037 001  -----   -----                    
+0000038 010  VVN     Based                    A2.2[i55.2.1 T2+ M6 A2.2 
+0000038 020  II      on                       A2.2[i55.2.2 Z5 
+0000038 030  NN1     teen                     T3 
+0000038 040  NN1     birth                    B1 T2+ 
+0000038 050  NN2     rates                    N3.8 N5 I1.3 
+0000038 060  II      in                       Z5 
+0000038 070  JJ      individual               N5- 
+0000038 080  NN2     states                   G1.1c O4.1 
+0000038 081  ,       ,                        
+0000038 090  NN1     school                   P1/H1c S5+c L2%c 
+0000038 100  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000038 110  II      in                       Z5 
+0000038 120  AT      the                      Z5 
+0000038 130  ND1     Northeast                Z99 
+0000038 140  CC      and                      Z5 
+0000038 150  JJ      upper                    M6 A11.1++ 
+0000038 160  NN1@    Midwest                  Z2 
+0000038 170  VM      may                      A7+ 
+0000038 180  VBI     be                       Z5 A3+ 
+0000038 190  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000038 200  AT1     a                        Z5 
+0000038 210  JJR     better                   A5.1++ G2.2++ O4.2++ 
+0000038 220  NN1     job                      I3.1 A1.1.1 A12- 
+0000038 230  II      at                       Z5 
+0000038 240  VVG     educating                P1 
+0000038 250  CSN     than                     Z5 
+0000038 260  DD2     those                    Z8 Z5 
+0000038 270  II      in                       Z5 
+0000038 280  AT      the                      Z5 
+0000038 290  ND1     South                    M6 
+0000038 291  ,       ,                        
+0000038 300  NP1     Thompson                 Z1mf 
+0000038 310  VVD     said                     Q2.1 
+0000038 311  .       .                        
+0000040 001  NULL    <quote>                  
+0000040 002  -----   -----                    
+0000040 010  PPIS2   We                       Z8 
+0000040 020  VV0     need                     S6+ 
+0000040 030  TO      to                       Z5 
+0000040 040  VVI     look                     X3.4[i56.2.1 X2.4[i56.2.1 X2.1[i56.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000040 050  II      at                       X3.4[i56.2.2 X2.4[i56.2.2 X2.1[i56.2.2 Z5 
+0000040 060  DDQ     what                     Z8 Z5 
+0000040 070  PPHS2   they                     Z8mfn 
+0000040 071  VBR     're                      Z5 A3+ 
+0000040 080  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000040 090  RL      there                    M6 T1.2 
+0000040 100  CC      and                      Z5 
+0000040 110  VV0     implement                A1.1.1 A9-/O2 
+0000040 120  DD2     those                    Z5 Z8 
+0000040 130  NN2     strategies               X7+ 
+0000040 140  II      in                       Z5 
+0000040 150  JJ      other                    A6.1- 
+0000040 160  NN2     states                   G1.1c O4.1 
+0000040 161  ,       ,                        
+0000040 162  "       "                        
+0000040 163  NULL    </quote>                 
+0000040 164  -----   -----                    
+0000040 170  NP1     Thompson                 Z1mf 
+0000040 180  VVD     said                     Q2.1 
+0000040 181  .       .                        
+0000040 182  NULL    <quote>                  
+0000040 183  -----   -----                    
+0000040 184  "       "                        
+0000040 190  RR      However                  Z4 
+0000040 191  ,       ,                        
+0000040 200  DD1     this                     Z8 M6 Z5 
+0000040 210  VBZ     is                       A3+ Z5 
+0000040 220  AT1     a                        Z5 
+0000040 230  RG      very                     A13.3 
+0000040 240  JJ@     charged                  I1.3 
+0000040 250  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000040 251  .       .                        
+0000040 252  -----   -----                    
+0000040 260  CC      And                      Z5 
+0000040 270  II      in                       Z5 
+0000040 280  AT      the                      Z5 
+0000040 290  NN1     face                     B1 W3 O2 A8 S1.2.3+ 
+0000040 300  IO      of                       Z5 
+0000040 310  NN1     school                   P1/H1c S5+c L2%c 
+0000040 320  NN1     budget                   I1 G1.1/I1 I1.3- 
+0000040 330  NN2     cuts                     A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
+0000040 331  ,       ,                        
+0000040 340  PPH1    it                       Z8 
+0000040 341  VBZ     's                       A3+ Z5 
+0000040 350  AT1     a                        Z5 
+0000040 360  NN1     challenge                A12- A6.1- S7.3+ E3- 
+0000040 370  IF      for                      Z5 
+0000040 380  DA2     many                     N5+ 
+0000040 390  NN1     school                   P1/H1c S5+c L2%c 
+0000040 400  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000040 401  .       .                        
+0000040 402  "       "                        
+0000040 403  NULL    </quote>                 
+0000043 001  NULL    **8;7;text               

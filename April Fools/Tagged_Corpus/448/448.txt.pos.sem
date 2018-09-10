@@ -1,0 +1,157 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000004 010  VV0     Forget                   X2.2- 
+0000004 020  VHG     having                   A9+ Z5 A2.2 S4 
+0000004 030  AT1     a                        Z5 
+0000004 040  JJ      single                   N5--- S5- S3.2- M3 
+0000004 050  NN1     paint                    C1 
+0000004 060  NN1     color                    O4.3 
+0000004 070  IF      for                      Z5 
+0000004 080  APPGE   your                     Z8 
+0000004 090  MD      next                     N4 
+0000004 100  NN1     vehicle                  M3fn X4.2 
+0000004 110  NN1     purchase                 I2.2 
+0000004 120  CC      and                      Z5 
+0000004 130  RR      instead                  A6.1- 
+0000004 140  VV0     go                       A6.1+[i1.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000004 150  IW      with                     A6.1+[i1.2.2 Z5 
+0000004 160  JJ      Colorful                 O4.3 
+0000004 170  NN1     Fluid                    O1.2 
+0000004 180  JJ      Dynamic                  X5.2+ A2.1+ 
+0000004 190  NN1     paint                    C1 
+0000004 200  CST     that                     Z5 Z8 
+0000004 210  NN2     changes                  A2.1+ I1 B1 
+0000004 220  VV0@    color                    O4.3 
+0000004 230  II21    according                Z5[i2.2.1 Z5 
+0000004 240  II22    to                       Z5[i2.2.2 Z5 
+0000004 250  AT      the                      Z5 
+0000004 260  NN1     airflow                  Z99 
+0000004 270  II      around                   Z5 
+0000004 280  APPGE   your                     Z8 
+0000004 290  NN1     vehicle                  M3fn X4.2 
+0000004 291  .       .                        
+0000004 292  -----   -----                    
+0000004 300  RR      Once                     N6- T1.1.1 
+0000004 310  RR      only                     A14 
+0000004 320  AT      the                      Z5 
+0000004 330  NN1     domain                   X4.1 A9+ Y2 
+0000004 340  IO      of                       Z5 
+0000004 350  NN1     wind                     W4 B1 
+0000004 360  NN2     tunnels                  O2 M7 
+0000004 361  ,       ,                        
+0000004 370  NN1     pressure                 N3.5 S7.1+ E6- 
+0000004 380  JJ      sensitive                X2.5+/E1 E6- O4.1 B1 A4.2+ 
+0000004 390  NN1     paint                    C1 
+0000004 400  CC      and                      Z5 
+0000004 410  AT      the                      Z5 
+0000004 420  RR      newly                    T3- 
+0000004 430  JJ      available                A3+ A9+ A1.2+/G1.2 S4 
+0000004 440  NN1     air                      M5/N3.8+[i3.2.1 O1.3 A8 W1 Q4.3 M1 
+0000004 450  NN1     speed                    M5/N3.8+[i3.2.2 N3.8+ F3% 
+0000004 460  NN1     paint                    C1 
+0000004 470  VM      can                      A7+ 
+0000004 480  VVI     produce                  A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000004 490  JJ      stunning                 O4.2+ A6.2- 
+0000004 500  JJ      dynamic                  X5.2+ A2.1+ 
+0000004 510  NN1     surface                  M6 O2 A10+ 
+0000004 520  NN2     contours                 O4.4 
+0000004 530  CSA     as                       Z5 
+0000004 540  PPY     you                      Z8mf 
+0000004 550  VV0     drive                    M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000004 551  .       .                        
+0000005 001  -----   -----                    
+0000006 010  JJ      Colorful                 O4.3 
+0000006 020  NN1     Fluid                    O1.2 
+0000006 030  JJ      Dynamic                  X5.2+ A2.1+ 
+0000006 040  NN1     Paint                    C1 
+0000006 050  IF      for                      Z5 
+0000006 060  NN1     Air                      O1.3 A8 W1 Q4.3 M1 
+0000006 070  JJ      SpeedColorful            Z99 
+0000006 080  NN1     Fluid                    O1.2 
+0000006 090  JJ      Dynamic                  X5.2+ A2.1+ 
+0000006 100  NN1     Paint                    C1 
+0000006 110  IF      for                      Z5 
+0000006 120  NN1     Air                      M5/N3.8+[i4.2.1 O1.3 A8 W1 Q4.3 M1 
+0000006 130  NN1     Speed                    M5/N3.8+[i4.2.2 N3.8+ F3% 
+0000008 010  AT      The                      Z5 
+0000008 020  MC      two                      N1 T3 T1.2 
+0000008 030  JJ      new                      T3- 
+0000008 040  NN2     paints                   C1 
+0000008 050  VM      will                     T1.1.3 
+0000008 060  VBI     be                       A3+ Z5 
+0000008 070  JJ      available                A3+ A9+ A1.2+/G1.2 S4 
+0000008 080  CSA     as                       Z5 
+0000008 090  NN2     options                  X7+ I2.1 P1 
+0000008 100  II      on                       Z5 
+0000008 110  MC      2017                     N1 T1.2 T3 T1.3 N3.2 
+0000008 120  NN1     model                    O2/A5.4- A4.1 X4.2 A5.1+++ C1/S2mf B5/I3.2/S2mf 
+0000008 130  NNT1    year                     T1.3 P1c 
+0000008 140  NN2     vehicles                 M3fn X4.2 
+0000008 141  .       .                        
+0000008 142  -----   -----                    
+0000008 150  DD2     These                    Z5 Z8 
+0000008 160  JJ      amazing                  O4.2+ X2.6- A6.2- 
+0000008 170  NN1     paint                    C1 
+0000008 180  NN2     options                  X7+ I2.1 P1 
+0000008 190  VM      will                     T1.1.3 
+0000008 200  VVI     display                  A10+ 
+0000008 210  JJ      similar                  A6.1+ 
+0000008 220  NN1     surface                  M6 O2 A10+ 
+0000008 230  NN1     color                    O4.3 
+0000008 240  NN2     contours                 O4.4 
+0000008 250  VVD     popularized              Z99 
+0000008 260  II      by                       Z5 
+0000008 270  JJ      Computational            Z99 
+0000008 280  NN1     Fluid                    O1.2 
+0000008 290  NN      Dynamics                 X4.2 M1 Y1 
+0000008 291  (       (                        
+0000008 300  NP1     CFD                      Z99 
+0000008 301  )       )                        
+0000008 310  CC      and                      Z5 
+0000008 320  RR      often                    N6+ 
+0000008 330  VVN     referred                 Q2.2 Q1.2 
+0000008 340  II      to                       Z5 
+0000008 350  RG@     as                       A13 
+0000008 360  JJ      Colorful                 O4.3 
+0000008 370  NN1     Fluid                    O1.2 
+0000008 380  NP1     Dynamic&lsqb;s&rsqb;     Z99 
+0000008 381  .       .                        
+0000009 001  -----   -----                    
+0000010 010  JJ      Colorful                 O4.3 
+0000010 020  NN1     Fluid                    O1.2 
+0000010 030  JJ      Dynamic                  X5.2+ A2.1+ 
+0000010 040  NN1     Paint                    C1 
+0000010 050  IF      for                      Z5 
+0000010 060  JJ      PressureColorful         Z99 
+0000010 070  NN1     Fluid                    O1.2 
+0000010 080  JJ      Dynamic                  X5.2+ A2.1+ 
+0000010 090  NN1     Paint                    C1 
+0000010 100  IF      for                      Z5 
+0000010 110  NN1     Pressure                 N3.5 S7.1+ E6- 
+0000012 010  NN2     Aerodynamicists          Z99 
+0000012 020  VV0     hope                     X2.6+ E4.1+ X9.2+ A5.1+ 
+0000012 030  CST     that                     Z5 Z8 
+0000012 040  AT      the                      Z5 
+0000012 050  NN1     airflow                  Z99 
+0000012 060  NN1     visualization            X2.1 
+0000012 070  II      over                     Z5 
+0000012 080  AT      the                      Z5 
+0000012 090  NN1     surface                  M6 O2 A10+ 
+0000012 100  IO      of                       Z5 
+0000012 110  AT      the                      Z5 
+0000012 120  NN1     vehicle                  M3fn X4.2 
+0000012 130  VM      will                     T1.1.3 
+0000012 140  VVI     provide                  A9- S6+ 
+0000012 150  AT1     a                        Z5 
+0000012 160  JJ      new                      T3- 
+0000012 170  NN1     appreciation             E2+ X2.5+ S1.1.1 I1.1++ 
+0000012 180  IF      for                      Z5 
+0000012 190  APPGE   their                    Z8 
+0000012 191  ,       ,                        
+0000012 200  II      until                    Z5 
+0000012 210  RT      now                      T1.1.2 Z4 
+0000012 211  ,       ,                        
+0000012 220  JJ      invisible                X3.4- A11.2- 
+0000012 230  NN1     field                    F4 W3 M7 K5.1/M7 G3@ A4.1 
+0000012 231  .       .                        
+0000015 001  NULL    **8;7;text               

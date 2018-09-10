@@ -1,0 +1,816 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     Manchester               Z2[i1.2.1 Z3c[i1.2.1 Z2 Z3c Z1mf[i2.2.1 Z3c[i2.2.1 
+0000002 020  NN1     City                     Z2[i1.2.2 Z3c[i1.2.2 M7/I2.1c Z3c Z1mf[i2.2.2 Z3c[i2.2.2 
+0000002 030  VVD     turned                   M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000002 040  AT      the                      Z5 
+0000002 050  NN1     screw                    O2 G2.1/S2mf S3.2/B1@ 
+0000002 060  II      on                       Z5 
+0000002 070  APPGE   their                    Z8 
+0000002 080  JJ      Premier                  K5.1/S5+[i4.2.1 Z3c Z3c[i3.2.1 
+0000002 090  NN1     League                   K5.1/S5+[i4.2.2 S5+c K5.1/S5+c S7.3+ N3.3% Z3c[i3.2.2 
+0000002 100  NN1     title                    Q4 S7.1+ A9+ Q2.2 
+0000002 110  NN2     rivals                   S7.3+/S2mf 
+0000002 120  II      by                       Z5 
+0000002 130  VVG     beating                  X9.2+/S7.3 X9.2+/G3 S7.1+ E3- A1.1.1 A5.1++ B1 
+0000002 140  NP1     Southampton              Z2 Z3c 
+0000002 150  II      at                       Z5 
+0000002 160  NP1     Etihad                   Z2[i5.2.1 
+0000002 170  NN1     Stadium                  Z2[i5.2.2 K5.1/H1 
+0000002 171  .       .                        
+0000003 001  -----   -----                    
+0000004 010  CCB     But                      Z5 
+0000004 020  EX      there                    Z5 
+0000004 030  VBDZ    was                      A3+ Z5 
+0000004 040  JJ      bad                      A5.1- G2.2- O4.2- B2- 
+0000004 050  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000004 060  IF      for                      Z5 
+0000004 070  VVG     watching                 X3.4 S7.1 X2.4 A1.3+ 
+0000004 080  NP1     England                  Z2 
+0000004 090  NN1     boss                     S7.1+/S2mf 
+0000004 100  NP1     Roy                      Z1mf[i6.2.1 Z3c[i6.2.1 Z1m 
+0000004 110  NP1     Hodgson                  Z1mf[i6.2.2 Z3c[i6.2.2 
+0000004 120  CSA     as                       Z5 
+0000004 130  NN2     Saints                   S9/S2mf G2.2+/S2mf 
+0000004 140  NN1     striker                  Z2[i7.2.1 Z3c[i7.2.1 Z1mf[i7.2.1 K5.1/S2mf I3.1-/S2mf 
+0000004 150  NP1     Jay                      Z2[i7.2.2 Z3c[i7.2.2 Z1mf[i7.2.2 Z1mf Z1mf[i8.2.1 Z3c[i8.2.1 
+0000004 160  NP1     Rodriguez                Z99 Z1mf[i8.2.2 Z3c[i8.2.2 
+0000004 170  VBDZ    was                      Z5 A3+ 
+0000004 180  VVN     carried                  M2 A9+ Q4 S7.4+ B1% B2-% 
+0000004 190  RP      off                      M6 K1 A1.1.1 A1.9 
+0000004 200  IW      with                     Z5 
+0000004 210  DDQ     what                     Z8 Z5 
+0000004 220  VVD     looked                   A6.1+[i9.2.1 A8 X3.4 X2.4 X7+ 
+0000004 230  II      like                     A6.1+[i9.2.2 Z5 
+0000004 240  AT1     a                        Z5 
+0000004 250  JJ      serious                  A11.1+ A15- E4.1- 
+0000004 260  NN1     knee                     B2-[i10.2.1 B1 
+0000004 270  NN1     injury                   B2-[i10.2.2 B2- A1.1.2 E1 
+0000004 271  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NN      Media                    Q4c 
+0000006 020  NN1     playback                 Z99 
+0000006 030  VBZ     is                       Z5 A3+ 
+0000006 040  XX      not                      Z6 
+0000006 050  VVN     supported                S8+ A1.1.1 K5.1 I1.1 A10+ 
+0000006 060  II      on                       Z5 
+0000006 070  DD1     this                     M6 Z5 Z8 
+0000006 080  NN1     device                   O2 X4.2 Q1.1 
+0000006 090  NP1     Rodriguez                Z99 
+0000006 100  NN1     injury                   B2- A1.1.2 E1 
+0000006 110  NN2     'does                    Z99 
+0000006 111  XX      n't                      Z6 
+0000006 120  VV0     look                     A8 X3.4 X2.4 X7+ Z4 
+0000006 130  VV0     good'                    Z99 
+0000008 010  CST     That                     Z8 Z5 
+0000008 020  VVD     came                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000008 030  II      after                    Z5 
+0000008 040  NP1     Yaya                     Z1mf[i11.2.1 Z3c[i11.2.1 
+0000008 050  NP1     Toure                    Z1mf[i11.2.2 Z3c[i11.2.2 
+0000008 051  GE      's                       Z5 
+0000008 060  NN1     penalty                  G2.1 I1.3 K5.1 
+0000008 070  VHD     had                      Z5 A9+ A2.2 S4 
+0000008 080  VVN     given                    A9- A1.1.1 
+0000008 090  AT      the                      Z5 
+0000008 100  NN2     hosts                    S2mf B1@ Y2@ S9% 
+0000008 110  AT      the                      Z5 
+0000008 120  NN1     lead                     S7.1+ O2/L2 O3 S8+ O1.1 K4/S2mf 
+0000008 121  ,       ,                        
+0000008 130  CS      though                   Z5 
+0000008 140  NP1     Rickie                   Z1mf[i12.2.1 Z3c[i12.2.1 
+0000008 150  NP1     Lambert                  Z1mf[i12.2.2 Z3c[i12.2.2 Z1mf 
+0000008 160  VVD     equalised                A6.1+/A2.1 
+0000008 170  IW      with                     Z5 
+0000008 180  AT1     a                        Z5 
+0000008 190  NN1     spot-kick                Z99 
+0000008 200  IO      of                       A9+[i13.3.1 Z5 
+0000008 210  APPGE   his                      A9+[i13.3.2 Z8m Z8[i14.2.1 
+0000008 220  DA      own                      A9+[i13.3.3 A9+ S5- Z8[i14.2.2 
+0000008 221  .       .                        
+0000009 001  -----   -----                    
+0000010 010  NN2     Goals                    K5.1 X7+ 
+0000010 020  II      from                     Z5 
+0000010 030  NP1     Samir                    Z1mf[i15.2.1 Z3c[i15.2.1 
+0000010 040  NP1     Nasri                    Z1mf[i15.2.2 Z3c[i15.2.2 
+0000010 050  CC      and                      Z5 
+0000010 060  NP1     Edin                     Z1mf[i16.2.1 Z3c[i16.2.1 
+0000010 070  NP1     Dzeko                    Z1mf[i16.2.2 Z3c[i16.2.2 
+0000010 080  II      in                       Z5 
+0000010 090  NN1     first-half               T1.3 
+0000010 100  NN1     stoppage                 T2- I1.3 
+0000010 110  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000010 111  ,       ,                        
+0000010 120  RT      then                     N4 Z5 T1.2 
+0000010 130  AT1     a                        Z5 
+0000010 140  JJ      late                     T4- L1- T1.1 
+0000010 150  NN1     effort                   X8+ O2 
+0000010 160  II      from                     Z5 
+0000010 170  JJ      Stevan                   Z99 
+0000010 180  NN1     Jovetic                  Z99 
+0000010 181  ,       ,                        
+0000010 190  VVD     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000010 200  PPH1    it                       Z8 
+0000010 210  MC      14                       N1 T1.2 T3 T1.3 N3.2 
+0000010 220  NN2     wins                     X9.2+/S7.3 X9.2+/G3 A9+ 
+0000010 230  II      from                     Z5 
+0000010 240  MC      15                       N1 T1.2 T3 T1.3 N3.2 
+0000010 250  NN1     home                     H4/H1c M6 
+0000010 260  NN1     league                   S5+c K5.1/S5+c S7.3+ N3.3% 
+0000010 270  NN2     games                    K5.1 K5.2 A1.1.1 
+0000010 280  IF      for                      Z5 
+0000010 290  NN1     City                     M7/I2.1c Z3c 
+0000010 300  DD1     this                     M6 Z5 Z8 
+0000010 310  NNT1    season                   T1.3 
+0000010 311  .       .                        
+0000011 001  -----   -----                    
+0000012 010  AT      The                      Z5 
+0000012 020  NN1     victory                  X9.2+ 
+0000012 030  VVD     moved                    M2 M1 A2.1+ E1 H4/A2.1 
+0000012 040  PPHO2   them                     Z8mfn 
+0000012 050  II      to                       Z5 
+0000012 060  II      within                   Z5 
+0000012 070  AT1     a                        Z5 
+0000012 080  NN1     point                    Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
+0000012 090  IO      of                       Z5 
+0000012 100  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000012 110  NP1     Liverpool                Z2 Z3c 
+0000012 111  ,       ,                        
+0000012 120  PNQS    who                      Z8 
+0000012 130  VV0     visit                    S1.1.1 M1 
+0000012 140  NP1     West                     Z2 Z1mf Z3c[i19.2.1 Z2[i19.2.1 Z2[i18.2.1 Z1mf[i17.2.1 Z3c[i17.2.1 
+0000012 150  NP1     Ham                      Z2[i21.3.1 Z2[i20.3.1 Z3c[i19.2.2 Z2[i19.2.2 Z2[i18.2.2 Z1mf[i17.2.2 Z3c[i17.2.2 
+0000012 160  II      on                       Z2[i21.3.2 Z5 Z2[i20.3.2 
+0000012 170  NP1@    Sunday                   Z2[i21.3.3 Z2[i20.3.3 
+0000012 180  VHG     having                   Z5 A9+ A2.2 S4 
+0000012 190  RR      already                  T1.1.1 
+0000012 200  VVN     played                   K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000012 210  AT1     a                        Z5 
+0000012 220  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000012 230  RRR     more                     A13.3 N6++ 
+0000012 240  CSN     than                     Z5 
+0000012 250  NP1     Manuel                   Z1mf[i22.2.1 Z3c[i22.2.1 
+0000012 260  NP1     Pellegrini               Z1mf[i22.2.2 Z3c[i22.2.2 
+0000012 261  GE      's                       Z5 
+0000012 270  NN2     men                      S2.2m 
+0000012 271  .       .                        
+0000013 001  -----   -----                    
+0000014 010  CC      And                      Z5 
+0000014 020  PPH1    it                       Z8 
+0000014 030  VBDZ    was                      A3+ Z5 
+0000014 040  AT      the                      Z5 
+0000014 050  JJ      perfect                  A5.1+++ A1.2+++ Q3 
+0000014 060  NN1     preparation              A1.1.1 
+0000014 070  IF      for                      Z5 
+0000014 080  AT1     a                        Z5 
+0000014 090  NN1     trip                     M1 F3% 
+0000014 100  II      to                       Z5 
+0000014 110  NP1     Anfield                  Z2[i23.2.1 Z1mf[i23.2.1 Z2 
+0000014 120  MC      eight                    Z2[i23.2.2 Z1mf[i23.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000014 130  NNT2    days                     T1.3 
+0000014 140  II      from                     Z5 
+0000014 150  RT      now                      T1.1.2 Z4 
+0000014 160  II      in                       Z5 
+0000014 170  AT1     a                        Z5 
+0000014 180  NN1     match                    K5.1 O2 A6.1+ 
+0000014 190  CST     that                     Z8 Z5 
+0000014 200  VM      could                    A7+ 
+0000014 210  VVI     go                       S8+[i24.4.1 T1.3+[i24.4.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000014 220  AT1     a                        S8+[i24.4.2 T1.3+[i24.4.2 Z5 
+0000014 230  JJ      long                     S8+[i24.4.3 T1.3+[i24.4.3 N3.7+ T1.3+ N3.3+ N3.2+ A13.3[i25.2.1 N3.3+[i25.2.1 
+0000014 240  NN1     way                      S8+[i24.4.4 T1.3+[i24.4.4 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 A13.3[i25.2.2 N3.3+[i25.2.2 
+0000014 250  II      towards                  Z5 
+0000014 260  VVG     deciding                 X6+ 
+0000014 270  AT      the                      Z5 
+0000014 280  NN1     outcome                  X9.2 
+0000014 290  IO      of                       Z5 
+0000014 300  AT      the                      Z5 
+0000014 310  NN1     title                    Q4 S7.1+ A9+ Q2.2 
+0000014 320  NN1     race                     K5.1 S7.3+ S5+c 
+0000014 321  .       .                        
+0000015 001  -----   -----                    
+0000016 010  NN1     Analysis                 X2.4 Y1 
+0000016 011  NULL    <quote>                  
+0000016 012  -----   -----                    
+0000016 013  "       "                        
+0000016 020  NP1     Manchester               Z2[i26.2.1 Z3c[i26.2.1 Z2 Z3c Z1mf[i27.2.1 Z3c[i27.2.1 
+0000016 030  NN1     City                     Z2[i26.2.2 Z3c[i26.2.2 M7/I2.1c Z3c Z1mf[i27.2.2 Z3c[i27.2.2 
+0000016 031  GE      's                       Z5 
+0000016 040  NN1@    win                      X9.2+/S7.3 X9.2+/G3 A9+ 
+0000016 050  VVZ     tightens                 A1.7+[i28.2.1 A1.7+/A2.1 
+0000016 060  RP      up                       A1.7+[i28.2.2 
+0000016 070  AT      the                      Z5 
+0000016 080  NN1     race                     K5.1 S7.3+ S5+c 
+0000016 090  IF      for                      Z5 
+0000016 100  AT      the                      Z5 
+0000016 110  JJ      Premier                  K5.1/S5+[i30.2.1 Z3c Z3c[i29.2.1 
+0000016 120  NN1     League                   K5.1/S5+[i30.2.2 S5+c K5.1/S5+c S7.3+ N3.3% Z3c[i29.2.2 
+0000016 130  NN1     title                    Q4 S7.1+ A9+ Q2.2 
+0000016 140  CCB     but                      Z5 
+0000016 150  AT      the                      Z5 
+0000016 160  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000016 170  NN1     story                    Q2.1 X4.1 Q4 
+0000016 180  VBZ     is                       A3+ Z5 
+0000016 190  AT      the                      Z5 
+0000016 200  JJ      serious-looking          Z99 
+0000016 210  NN1     knee                     B2-[i31.2.1 B1 
+0000016 220  NN1     injury                   B2-[i31.2.2 B2- A1.1.2 E1 
+0000016 230  VVN     suffered                 E4.1- B2- X3 A5.1-/A2.1 S7.4+ 
+0000016 240  II      by                       Z5 
+0000016 250  NP1     Southampton              Z2 Z3c 
+0000016 260  NN1     striker                  Z2[i32.2.1 Z3c[i32.2.1 Z1mf[i32.2.1 K5.1/S2mf I3.1-/S2mf 
+0000016 270  NP1     Jay                      Z2[i32.2.2 Z3c[i32.2.2 Z1mf[i32.2.2 Z1mf Z1mf[i33.2.1 Z3c[i33.2.1 
+0000016 280  NP1     Rodriguez                Z99 Z1mf[i33.2.2 Z3c[i33.2.2 
+0000016 290  CS      after                    Z5 
+0000016 300  PPHS1   he                       Z8m 
+0000016 310  VVD     fell                     M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 
+0000016 320  RR      awkwardly                A12- O4.2- E1 
+0000016 330  II      in                       Z5 
+0000016 340  AT      the                      Z5 
+0000016 350  MD      first                    N4 
+0000016 360  NN1@    half                     N5 N5c N1 A13.4 
+0000016 370  II      in                       Z5 
+0000016 380  AT1     a                        Z5 
+0000016 390  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000016 400  VVN     watched                  X3.4 S7.1 X2.4 A1.3+ 
+0000016 410  II      by                       Z5 
+0000016 420  NP1     England                  Z2 
+0000016 430  NN1     manager                  S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf 
+0000016 440  NP1     Roy                      Z1mf[i34.2.1 Z3c[i34.2.1 Z1m 
+0000016 450  NP1     Hodgson                  Z1mf[i34.2.2 Z3c[i34.2.2 
+0000016 451  .       .                        
+0000016 452  "       "                        
+0000016 453  NULL    </quote>                 
+0000016 454  -----   -----                    
+0000018 010  JJ      Early                    T4+ T1.1.1 
+0000018 020  NN2     arrivals                 M1 T2- 
+0000018 030  VBDR    were                     Z5 A3+ 
+0000018 040  VVN     greeted                  Q2.2/S1.2.4+ E1 X3 
+0000018 050  II      by                       Z5 
+0000018 060  AT      the                      Z5 
+0000018 070  NN1     sight                    X3.4 A8 G3 
+0000018 080  IO      of                       Z5 
+0000018 090  NP1     Sergio                   Z1mf[i35.2.1 Z3c[i35.2.1 
+0000018 100  NP1     Aguero                   Z1mf[i35.2.2 Z3c[i35.2.2 
+0000018 110  VBG     being                    Z5 A3+ 
+0000018 120  VVN     put                      Q1.3[i36.2.1 M2[i36.2.1 A1.1.1[i36.2.1 A1.1.2[i36.2.1 M2 Q2.1 Q2.2 A1.1.1 
+0000018 130  II      through                  Q1.3[i36.2.2 M2[i36.2.2 A1.1.1[i36.2.2 A1.1.2[i36.2.2 Z5 
+0000018 140  APPGE   his                      Z8m 
+0000018 150  NN2     paces                    N3.8 N3.3 
+0000018 151  ,       ,                        
+0000018 160  RR      surely                   A7+ 
+0000018 170  AT1     a                        Z5 
+0000018 180  NN1     prelude                  N4 K2 
+0000018 190  II      to                       Z5 
+0000018 200  AT      the                      Z5 
+0000018 210  NN1     City                     M7/I2.1c Z3c 
+0000018 220  NN1     striker                  K5.1/S2mf I3.1-/S2mf 
+0000018 221  GE      's                       Z5 
+0000018 230  NN1     return                   M1 A9- S1.1.2+ N6 I1.1 G1.1/Q1.2 M3 K5.1 Y2% 
+0000018 240  II      from                     Z5 
+0000018 250  AT1     a                        Z5 
+0000018 260  NN1     hamstring                B2-[i37.2.1 B1 
+0000018 270  NN1     injury                   B2-[i37.2.2 B2- A1.1.2 E1 
+0000018 280  MD      next                     T1.1.3[i38.2.1 N4 
+0000018 290  NNT1    weekend                  T1.1.3[i38.2.2 T1.3 
+0000018 291  .       .                        
+0000019 001  -----   -----                    
+0000020 010  CCB     But                      Z5 
+0000020 020  AT      the                      Z5 
+0000020 030  JJ      pre-match                Z99 
+0000020 040  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000020 050  VBDZ    was                      A3+ Z5 
+0000020 060  XX      not                      Z6 
+0000020 070  RG@     as                       A13 
+0000020 080  JJ      positive                 A5.1+ A7+ N2 
+0000020 090  IF      for                      Z5 
+0000020 100  AT      the                      Z5 
+0000020 110  NN2     visitors                 S1.1.1/S2mf M1/S2mf 
+0000020 111  ,       ,                        
+0000020 120  IW      with                     Z5 
+0000020 130  NN1     goalkeeper               K5.1/S2mf 
+0000020 140  NP1     Artur                    Z1mf[i39.2.1 Z3c[i39.2.1 
+0000020 150  NP1     Boruc                    Z1mf[i39.2.2 Z3c[i39.2.2 
+0000020 151  GE      's                       Z5 
+0000020 160  NN1     absence                  S1.1.3- A3- 
+0000020 170  IW      with                     Z5 
+0000020 180  AT1     a                        Z5 
+0000020 190  NN1     back                     B1 M6 
+0000020 200  NN1     problem                  A12- X4.1 N2 B2- 
+0000020 210  VVG     giving                   A9- A1.1.1 
+0000020 220  JJ      22-year-old              Z99 
+0000020 230  NP1     Paulo                    Z1mf[i40.2.1 Z3c[i40.2.1 Z1m 
+0000020 240  NP1     Gazzaniga                Z1mf[i40.2.2 Z3c[i40.2.2 
+0000020 250  AT1     an                       Z5 
+0000020 260  JJ      unexpected               X2.6- 
+0000020 270  NN1     start                    T2+ E5- 
+0000020 271  .       .                        
+0000021 001  -----   -----                    
+0000022 010  IW      With                     Z5 
+0000022 020  DA      such                     A13.3[i41.2.1 Z5 Z8 
+0000022 030  AT1     a                        A13.3[i41.2.2 Z5 
+0000022 040  JJ      key                      A11.1+ 
+0000022 050  NN1     change                   A2.1+ I1 B1 
+0000022 060  VVN     forced                   S7.1+ A1.1.1 E3- 
+0000022 070  II      upon                     Z5 
+0000022 080  NN1     manager                  S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf 
+0000022 090  NP1     Mauricio                 Z1mf[i42.2.1 Z3c[i42.2.1 
+0000022 100  NP1     Pochettino               Z1mf[i42.2.2 Z3c[i42.2.2 
+0000022 101  ,       ,                        
+0000022 110  NN2     Saints                   S9/S2mf G2.2+/S2mf 
+0000022 120  VVN     needed                   S6+ 
+0000022 130  TO      to                       Z5 
+0000022 140  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000022 150  AT1     a                        Z5 
+0000022 160  JJ      positive                 A5.1+ A7+ N2 
+0000022 170  NN1     start                    T2+ E5- 
+0000022 171  ,       ,                        
+0000022 180  CCB     but                      Z5 
+0000022 190  NP1     Jose                     Z1mf[i43.2.1 Z3c[i43.2.1 
+0000022 200  NP1     Fonte                    Z1mf[i43.2.2 Z3c[i43.2.2 
+0000022 210  JJ      gifted                   X9.1+ 
+0000022 220  NN1     City                     M7/I2.1c Z3c 
+0000022 230  AT1     a                        Z5 
+0000022 240  NN1     goal                     K5.1 X7+ 
+0000022 250  II      inside                   Z5 
+0000022 260  MC      two                      N1 T3 T1.2 
+0000022 270  NNT2    minutes                  T1.3 Q1.2 
+0000022 271  .       .                        
+0000023 001  -----   -----                    
+0000024 010  NN1     Contact                  S1.1.1 S2mf Q2.2 O3 
+0000024 020  VBDZ    was                      A3+ Z5 
+0000024 030  JJ      minimal                  N5--- 
+0000024 040  II      between                  Z5 
+0000024 050  PPHO1   him                      Z8m 
+0000024 060  CC      and                      Z5 
+0000024 070  NP1     Edin                     Z1mf[i44.2.1 Z3c[i44.2.1 
+0000024 080  NP1     Dzeko                    Z1mf[i44.2.2 Z3c[i44.2.2 
+0000024 081  ,       ,                        
+0000024 090  CCB     but                      Z5 
+0000024 100  NP1     Fonte                    Z99 
+0000024 110  VHD     had                      Z5 A9+ A2.2 S4 
+0000024 120  VVN     given                    A9- A1.1.1 
+0000024 130  AT      the                      Z5 
+0000024 140  JJ      Bosnian                  Z2 
+0000024 150  AT1     a                        Z5 
+0000024 160  NN1     leg                      B1 O2 N3.3 
+0000024 170  TO      to                       Z5 
+0000024 180  VVI     fall                     M1[i45.2.1 A1.1.2[i45.2.1 X9.2-@[i45.2.1 M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 
+0000024 190  RP      over                     M1[i45.2.2 A1.1.2[i45.2.2 X9.2-@[i45.2.2 T2- M6 
+0000024 200  II      in                       Z5 
+0000024 210  AT      the                      Z5 
+0000024 220  NN1     box                      O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ 
+0000024 230  CC      and                      Z5 
+0000024 240  VBDZ    was                      A3+ Z5 
+0000024 250  RR      therefore                Z5 
+0000024 260  AT      the                      Z5 
+0000024 270  NN1     architect                H1/I3.2/S2mf X7+/S2mf T2+/S2mf 
+0000024 280  IO      of                       A9+[i46.3.1 Z5 
+0000024 290  APPGE   his                      A9+[i46.3.2 Z8m Z8[i47.2.1 
+0000024 300  DA      own                      A9+[i46.3.3 A9+ S5- Z8[i47.2.2 
+0000024 310  NN1     downfall                 X9.2- 
+0000024 311  .       .                        
+0000025 001  -----   -----                    
+0000026 010  RR      Predictably              Q2.2/T1.1.3 X2.6+ 
+0000026 011  ,       ,                        
+0000026 020  VV0     Toure                    Z99 
+0000026 030  RR      confidently              E6+ 
+0000026 040  VVD     netted                   A9+ I1.1 
+0000026 050  II      from                     Z5 
+0000026 060  AT      the                      Z5 
+0000026 070  NN1     spot                     O4.4 O2 B2- M7 N5- Q4.3 
+0000026 071  .       .                        
+0000027 001  -----   -----                    
+0000028 010  NN2     Nasri                    Z99 
+0000028 020  VVD     fired                    I3.1- G3 M2 A2.2 Q2.2 
+0000028 030  RR@     wide                     N3.7+ 
+0000028 040  RR      shortly                  N3.8+ 
+0000028 050  RT      afterwards               N4 
+0000028 060  CCB     but                      Z5 
+0000028 070  NP1     Southampton              Z2 Z3c 
+0000028 080  VVD     managed                  S7.1+ A1.1.1 X9.2+ 
+0000028 090  TO      to                       Z5 
+0000028 100  VVI     stem                     L3 O2 T2+ T2- Q3% 
+0000028 110  AT      the                      Z5 
+0000028 120  JJ      early                    T4+ T1.1.1 
+0000028 130  NN1     impetus                  A2.2 
+0000028 140  CC      and                      Z5 
+0000028 141  ,       ,                        
+0000028 150  IW      without                  Z5 
+0000028 160  VVG     creating                 A1.1.1 A2.2 E1 
+0000028 170  AT1     a                        Z5 
+0000028 180  JJ      clear-cut                A4.2+ 
+0000028 190  NN1     chance                   A1.4 A7+ 
+0000028 191  ,       ,                        
+0000028 200  VBDR    were                     A3+ Z5 
+0000028 210  RR      certainly                A7+ 
+0000028 220  II      in                       Z5 
+0000028 230  AT      the                      Z5 
+0000028 240  NN1     contest                  S7.3 
+0000028 250  CS      when                     Z5 
+0000028 260  NP1     Rodriguez                Z99 
+0000028 270  VVD     departed                 M1 
+0000028 271  .       .                        
+0000029 001  -----   -----                    
+0000030 010  NN1     Man                      S2.2m 
+0000030 020  NN1     City                     M7/I2.1c Z3c 
+0000030 021  GE      's                       Z5 
+0000030 030  MCMC    2013-14                  N1 T1.2 T3 T1.3 N3.2 
+0000030 040  NN1     run-in                   A1.1.1 
+0000030 050  NN1     Sun                      Z2[i48.2.1 Z1mf[i48.2.1 Z3 
+0000030 060  MC      13                       Z2[i48.2.2 Z1mf[i48.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000030 070  NPM1    April                    T1.3 
+0000030 071  :       :                        
+0000030 080  ZZ1     v                        Z5 
+0000030 090  NP1     Liverpool                Z2 Z3c 
+0000030 091  (       (                        
+0000030 100  ZZ1     A                        Z5 
+0000030 101  )       )                        
+0000032 010  VV0     Wed                      S4 
+0000032 020  MC      16                       N1 T1.2 T3 T1.3 N3.2 
+0000032 030  NPM1    April                    T1.3 
+0000032 031  :       :                        
+0000032 040  ZZ1     v                        Z5 
+0000032 050  NP1     Sunderland               Z2 Z1mf 
+0000032 051  (       (                        
+0000032 060  ZZ1     H                        Z5 
+0000032 061  )       )                        
+0000034 010  NPD1    Mon                      T1.3 
+0000034 020  MC      21                       N1 T1.2 T3 T1.3 N3.2 
+0000034 030  NPM1    April                    T1.3 
+0000034 031  :       :                        
+0000034 040  ZZ1     v                        Z5 
+0000034 050  NP1     West                     Z2[i51.2.1 Z3c[i51.2.1 Z2 Z1mf Z2[i50.2.1 Z1mf[i49.2.1 Z3c[i49.2.1 
+0000034 060  NP1     Brom                     Z2[i51.2.2 Z3c[i51.2.2 Z2 Z2[i50.2.2 Z1mf[i49.2.2 Z3c[i49.2.2 
+0000034 061  (       (                        
+0000034 070  ZZ1     H                        Z5 
+0000034 071  )       )                        
+0000036 010  NN1     Sun                      Z2[i52.2.1 Z1mf[i52.2.1 Z3 
+0000036 020  MC      27                       Z2[i52.2.2 Z1mf[i52.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000036 030  NPM1    April                    T1.3 
+0000036 031  :       :                        
+0000036 040  ZZ1     v                        Z5 
+0000036 050  NP1     Crystal                  Z2c[i54.2.1 Z1mf[i53.2.1 Z3c[i53.2.1 
+0000036 060  NP1     Palace                   Z2c[i54.2.2 Z3c Z1mf[i53.2.2 Z3c[i53.2.2 
+0000036 061  (       (                        
+0000036 070  ZZ1     A                        Z5 
+0000036 071  )       )                        
+0000038 010  VVD     Sat                      M8 C1 P1 G1.1 G2.1 M6 A9+ 
+0000038 020  MC      3                        N1 T1.2 T3 T1.3 N3.2 
+0000038 030  NPM1    May                      T1.3 
+0000038 031  :       :                        
+0000038 040  ZZ1     v                        Z5 
+0000038 050  NP1     Everton                  Z3c Z2 
+0000038 051  (       (                        
+0000038 060  ZZ1     A                        Z5 
+0000038 061  )       )                        
+0000040 010  VV0     Wed                      S4 
+0000040 020  MC      7                        N1 T1.2 T3 T1.3 N3.2 
+0000040 030  NPM1    May                      T1.3 
+0000040 031  :       :                        
+0000040 040  ZZ1     v                        Z5 
+0000040 050  NP1     Aston                    Z3c[i56.2.1 Z2 Z1mf Z3c Z1mf[i55.2.1 Z3c[i55.2.1 
+0000040 060  NP1     Villa                    Z3c[i56.2.2 Z3c Z1mf[i55.2.2 Z3c[i55.2.2 
+0000040 061  (       (                        
+0000040 070  ZZ1     H                        Z5 
+0000040 071  )       )                        
+0000042 010  NN1     Sun                      Z2[i57.2.1 Z1mf[i57.2.1 Z3 
+0000042 020  MC      11                       Z2[i57.2.2 Z1mf[i57.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000042 030  NPM1    May                      T1.3 
+0000042 031  :       :                        
+0000042 040  ZZ1     v                        Z5 
+0000042 050  NP1     West                     Z3c[i60.2.1 Z2[i60.2.1 Z2 Z1mf Z2[i59.2.1 Z1mf[i58.2.1 Z3c[i58.2.1 
+0000042 060  NP1     Ham                      Z3c[i60.2.2 Z2[i60.2.2 Z2[i59.2.2 Z1mf[i58.2.2 Z3c[i58.2.2 
+0000042 061  (       (                        
+0000042 070  ZZ1     H                        Z5 
+0000042 071  )       )                        
+0000044 010  VVG     Climbing                 M1 N5+/A2.1 
+0000044 020  JJ      high                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000044 030  TO      to                       Z5 
+0000044 040  VVI     control                  S7.1+ A1.7+ 
+0000044 050  AT      the                      Z5 
+0000044 060  NN1     ball                     O2/O4.4 K5.1 B1 K1 
+0000044 061  ,       ,                        
+0000044 070  AT      the                      Z5 
+0000044 080  JJ      24-year-old              Z99 
+0000044 090  JJ      crumpled                 A1.1.1 
+0000044 100  II      on                       Z5 
+0000044 110  NN1     landing                  H2 M4 M5 G3 A9+ A2.2 
+0000044 120  CC      and                      Z5 
+0000044 130  RR      immediately              N3.8+ T1.1.2/A11.1+ N4 
+0000044 140  VVD     clutched                 A1.7+ 
+0000044 150  APPGE   his                      Z8m 
+0000044 160  JJ      right                    A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 
+0000044 170  NN1     knee                     B1 
+0000044 171  ,       ,                        
+0000044 180  VVG     departing                M1 
+0000044 190  II      on                       Z5 
+0000044 200  AT1     a                        Z5 
+0000044 210  NN1     stretcher                B3 N3.7+/O2 
+0000044 220  II      to                       Z5 
+0000044 230  AT1     a                        Z5 
+0000044 240  NN1     standing                 S7.1 
+0000044 250  NN1     ovation                  Z99 
+0000044 251  .       .                        
+0000045 001  -----   -----                    
+0000046 010  CS      While                    Z5 
+0000046 020  NP1     England                  Z2 
+0000046 030  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000046 040  XX      not                      Z6 
+0000046 050  VVI     begin                    T2+ 
+0000046 060  APPGE   their                    Z8 
+0000046 070  NN1     World                    K5.1[i61.2.1 W1 S5+c A4.1 N5+ K5.1[i62.2.1 
+0000046 080  NN1     Cup                      K5.1[i61.2.2 O2 S7.3+ A5.1+/O2 K5.1[i62.2.2 
+0000046 090  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000046 100  II@     until                    Z5 
+0000046 110  NPM1    June                     T1.3[i63.2.1 T1.3 
+0000046 120  MC      14                       T1.3[i63.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000046 121  ,       ,                        
+0000046 130  EX      there                    Z5 
+0000046 140  VM      must                     S6+ A7+ 
+0000046 150  VBI     be                       A3+ Z5 
+0000046 160  JJ      serious                  A11.1+ A15- E4.1- 
+0000046 170  NN1     doubt                    A7- 
+0000046 180  CSW     whether                  Z5 
+0000046 190  NP1     Rodriguez                Z99 
+0000046 200  VM      will                     T1.1.3 
+0000046 210  VBI     be                       A3+ Z5 
+0000046 220  JJ      fit                      A1.2+ B2+ 
+0000046 230  TO      to                       Z5 
+0000046 240  VVI     figure                   X2.1 X2.5+ 
+0000046 250  II      in                       Z5 
+0000046 260  NP1     Hodgson                  Z99 
+0000046 261  GE      's                       Z5 
+0000046 270  NN2     thoughts                 X4.1 
+0000046 271  .       .                        
+0000047 001  -----   -----                    
+0000048 010  CCB     But                      Z5 
+0000048 020  NN2     Saints                   S9/S2mf G2.2+/S2mf 
+0000048 030  NN1     team-mate                S5+/S2mf 
+0000048 040  NP1     Lambert                  Z1mf 
+0000048 041  GE      's                       Z5 
+0000048 050  NN2     hopes                    X2.6+ E4.1+ X9.2+ A5.1+ 
+0000048 060  IO      of                       Z5 
+0000048 070  VVG     travelling               M1 
+0000048 080  II      to                       Z5 
+0000048 090  NP1     Brazil                   Z2 
+0000048 100  VM      will                     T1.1.3 
+0000048 110  VBI     be                       Z5 A3+ 
+0000048 120  VVN     aided                    S8+ 
+0000048 130  II      by                       Z5 
+0000048 140  APPGE   his                      Z8m 
+0000048 150  NN1     penalty                  G2.1 I1.3 K5.1 
+0000048 160  NN1     record                   Q1.2 K3 T1.1.1 A5.1+++ 
+0000048 161  .       .                        
+0000049 001  -----   -----                    
+0000050 010  II      By                       Z5 
+0000050 020  VVG     driving                  M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000050 030  II      past                     Z5 
+0000050 040  NP1     Joe                      Z1mf[i64.2.1 Z3c[i64.2.1 Z1m 
+0000050 050  NP1     Hart                     Z1mf[i64.2.2 Z3c[i64.2.2 Z1mf 
+0000050 060  II      after                    Z5 
+0000050 070  NP1     Pablo                    Z1mf[i65.2.1 Z3c[i65.2.1 
+0000050 080  NP1     Zabaleta                 Z1mf[i65.2.2 Z3c[i65.2.2 
+0000050 090  VHD     had                      Z5 A9+ A2.2 S4 
+0000050 100  VVN     fouled                   O4.2- K5.1/G2.2- 
+0000050 110  NP1     Jack                     Z1mf[i66.2.1 Z3c[i66.2.1 Z1m 
+0000050 120  NP1     Cork                     Z1mf[i66.2.2 Z3c[i66.2.2 Z2 
+0000050 121  ,       ,                        
+0000050 130  NP1     Lambert                  Z1mf 
+0000050 140  VVD     extended                 N3.3 T1.3 A1.7- N3.2+/A2.1 N5+/A2.1 T1.3+/A2.1 A9- 
+0000050 150  APPGE   his                      Z8m 
+0000050 160  NNU     100%                     N5.1+ 
+0000050 170  NN1     record                   Q1.2 K3 T1.1.1 A5.1+++ 
+0000050 180  II      to                       Z5 
+0000050 190  MC      31                       N1 T1.2 T3 T1.3 N3.2 
+0000050 200  JJ      successful               X9.2+ 
+0000050 210  NN2     spot-kicks               Z99 
+0000050 220  IF      for                      Z5 
+0000050 230  AT      the                      Z5 
+0000050 240  NN2     Saints                   S9/S2mf G2.2+/S2mf 
+0000050 241  .       .                        
+0000051 001  -----   -----                    
+0000052 010  NN1     City                     M7c M7/I2.1c 
+0000052 020  VBDR    were                     A3+ Z5 
+0000052 030  RR      distinctly               A11.2+ 
+0000052 040  JJ      lethargic                X5.2- 
+0000052 041  -       -                        
+0000052 050  CCB     but                      Z5 
+0000052 060  II      like                     Z5 
+0000052 070  DAT     most                     N5+++ 
+0000052 080  JJ@     champion                 X9.2+/S7.3/S2mf S8+/S2mf S8+ 
+0000052 090  NN2     teams                    S5+ K5.1/S5+ 
+0000052 100  VH0     have                     A9+ Z5 A2.2 S4 
+0000052 110  AT1     an                       Z5 
+0000052 120  NN1     ability                  X9.1+ 
+0000052 130  TO      to                       Z5 
+0000052 140  VVI     win                      X9.2+/S7.3 X9.2+/G3 A9+ 
+0000052 150  JJ      ugly                     O4.2- 
+0000052 151  ,       ,                        
+0000052 160  CC      and                      Z5 
+0000052 170  II      in                       Z5 
+0000052 180  AT      the                      Z5 
+0000052 190  MC      four                     N1 T3 T1.2 
+0000052 200  NNT2    minutes                  T1.3 Q1.2 
+0000052 210  IO      of                       Z5 
+0000052 220  NN1     first-half               T1.3 
+0000052 230  NN1     stoppage                 T2- I1.3 
+0000052 240  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000052 241  ,       ,                        
+0000052 250  PPHS2   they                     Z8mfn 
+0000052 260  VVD     turned                   M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000052 270  AT      the                      Z5 
+0000052 280  NN1     contest                  S7.3 
+0000052 290  RR      firmly                   A1.7+ S1.2.5+ A7+ 
+0000052 300  II      in                       Z5 
+0000052 310  APPGE   their                    Z8 
+0000052 320  NN1     favour                   S8+ E2++ 
+0000052 321  .       .                        
+0000053 001  -----   -----                    
+0000054 010  NN      Media                    Q4c 
+0000054 020  NN1     playback                 Z99 
+0000054 030  VBZ     is                       Z5 A3+ 
+0000054 040  XX      not                      Z6 
+0000054 050  VVN     supported                S8+ A1.1.1 K5.1 I1.1 A10+ 
+0000054 060  II      on                       Z5 
+0000054 070  DD1     this                     M6 Z5 Z8 
+0000054 080  NN1     device                   O2 X4.2 Q1.1 
+0000054 090  JJ      Strong                   S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+ 
+0000054 100  MD      second                   N4 
+0000054 110  NN1     half                     N5 N5c N1 A13.4 
+0000054 120  VVZ     pleases                  E4.2+ E2+ X7+ 
+0000054 130  NP1     Pellegrini               Z99 
+0000056 010  ZZ1     A                        Z5 
+0000056 020  JJ      delightful               O4.2+ 
+0000056 030  NN1     move                     M1 M2 A2.1+ H4/A2.1 K5.2 
+0000056 040  VVG     involving                A1.8+ 
+0000056 050  NP1     Toure                    Z99 
+0000056 051  ,       ,                        
+0000056 060  NP1     Dzeko                    Z99 
+0000056 070  CC      and                      Z5 
+0000056 080  NP1     David                    Z1mf[i67.2.1 Z3c[i67.2.1 Z1m 
+0000056 090  NP1     Silva                    Z1mf[i67.2.2 Z3c[i67.2.2 
+0000056 100  VVD     presented                A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4 
+0000056 110  NP1     Nasri                    Z99 
+0000056 120  IW      with                     Z5 
+0000056 130  AT      the                      Z5 
+0000056 140  JJT     easiest                  A12+++ 
+0000056 150  IO      of                       Z5 
+0000056 160  NN2     finishes                 T2- O4.1 
+0000056 161  ,       ,                        
+0000056 170  CS      though                   Z5 
+0000056 180  NN1     City                     M7/I2.1c Z3c 
+0000056 190  VM      could                    A7+ 
+0000056 200  VVI     count                    N2 A11.1+ 
+0000056 210  PPX2    themselves               Z8 
+0000056 220  JJ      fortunate                A1.4+ 
+0000056 230  JJ@     given                    A4.2+ A9- 
+0000056 240  NP1     Silva                    Z99 
+0000056 250  VBDZ    was                      A3+ Z5 
+0000056 260  RL      offside                  K5.1 
+0000056 270  CS      when                     Z5 
+0000056 280  PPHS1   he                       Z8m 
+0000056 290  VVD     provided                 A9- S6+ 
+0000056 300  AT      the                      Z5 
+0000056 310  NN1%    assist                   S8+ 
+0000056 311  .       .                        
+0000057 001  -----   -----                    
+0000058 010  EX      There                    Z5 
+0000058 020  VBDZ    was                      A3+ Z5 
+0000058 030  PN1     nothing                  Z6/Z8 
+0000058 040  JJ      lucky                    A1.4+ 
+0000058 050  II      about                    Z5 
+0000058 060  APPGE   their                    Z8 
+0000058 070  MD      third                    N4 N5 N1 
+0000058 071  ,       ,                        
+0000058 080  CS      though                   Z5 
+0000058 081  ,       ,                        
+0000058 090  CSA     as                       Z5 
+0000058 100  NP1     Dzeko                    Z99 
+0000058 110  VVD     powered                  A1.1.1 
+0000058 120  RL      home                     H4 M6 
+0000058 130  NP1     Aleksandar               Z1mf[i68.2.1 Z3c[i68.2.1 
+0000058 140  NP1     Kolarov                  Z1mf[i68.2.2 Z3c[i68.2.2 
+0000058 141  GE      's                       Z5 
+0000058 150  NN1     cross                    O4.4 S9/O2 A2.1+mfn G2.1/O2% 
+0000058 151  .       .                        
+0000059 001  -----   -----                    
+0000060 010  AT      The                      Z5 
+0000060 020  NN1     scoring                  K5 A5.1 N3.1 X9.2+ A1.1.1 
+0000060 030  NN1     spree                    N5.2+ A1.1.1 
+0000060 040  VVD     took                     A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000060 050  AT      the                      Z5 
+0000060 060  NN1     edge                     O2 M7 T1.2 S7.1+@ 
+0000060 070  II      off                      Z5 E2- 
+0000060 080  AT      the                      Z5 
+0000060 090  MD      second                   N4 
+0000060 100  NN1     half                     N5 N5c N1 A13.4 
+0000060 101  .       .                        
+0000061 001  -----   -----                    
+0000062 010  NP1     Jesus                    Z1m Z1m/S9 Z4 
+0000062 020  NP2     Navas                    Z99 
+0000062 021  GE      's                       Z5 
+0000062 030  JJ      low                      N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1- 
+0000062 040  NN1     shot                     G3 G3/S2mf K5.1 Y1 C1 Q4.3 X8+ B3@ F2@ 
+0000062 050  VVD     produced                 A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000062 060  AT1     a                        Z5 
+0000062 070  MD      feet-first               N4 T1.3 
+0000062 080  VV0     save                     I1.1 B3 A9+ S8+ A1.9 K5.1 S9 
+0000062 090  II      from                     Z5 
+0000062 100  NP1     Gazzaniga                Z99 
+0000062 110  II      before                   Z5 
+0000062 120  NP1     Toure                    Z99 
+0000062 130  VHD     had                      A9+ Z5 A2.2 S4 
+0000062 140  AT1     a                        Z5 
+0000062 150  NN1     penalty                  G2.1 I1.3 K5.1 
+0000062 160  NN1     appeal                   Q2.1 O4.2+ G2.1 
+0000062 170  VVD     waved                    Q1.1 M2 M1 B4 
+0000062 180  RL      away                     M6 A1.1.1% 
+0000062 190  II      after                    Z5 
+0000062 200  VVG     going                    M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000062 210  RP      down                     Z5 M6 N4 N5-- E4.1- S7.1- N3.1 Q1.2 O1.1 L2 Z1mf F1/B1 A1.1.1 
+0000062 220  II      under                    Z5 
+0000062 230  NP1     Fonte                    Z99 
+0000062 231  GE      's                       Z5 
+0000062 240  NN1     challenge                A12- A6.1- S7.3+ E3- 
+0000062 241  ,       ,                        
+0000062 250  CC      and                      Z5 
+0000062 260  VBDZ    was                      Z5 A3+ 
+0000062 270  RT      then                     N4 Z5 T1.2 
+0000062 280  VVN     booked                   A9+/Q2.2 G2.1 
+0000062 290  IF      for                      Z5 
+0000062 300  VVG     diving                   M4 M1 N5-/A2.1 
+0000062 310  II      after                    Z5 
+0000062 320  AT      the                      Z5 
+0000062 330  DA      same                     A6.1+++ 
+0000062 340  NN      pair                     N5c 
+0000062 350  VVD     came                     S5+[i69.2.1 X9.2+[i69.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 M1[i70.2.1 A1.5.2+[i70.2.1 O4.2+[i70.2.1 S1.1.3+[i70.2.1 T2+[i70.2.1 
+0000062 360  RL      together                 S5+[i69.2.2 X9.2+[i69.2.2 S5+ T1.1.2 M6 
+0000062 370  II      in                       Z5 M1[i70.2.2 A1.5.2+[i70.2.2 O4.2+[i70.2.2 S1.1.3+[i70.2.2 T2+[i70.2.2 
+0000062 380  AT      the                      Z5 
+0000062 390  NN1     box                      O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ 
+0000062 400  RR21    once                     N6- T1.1.1 
+0000062 410  RR22    more                     A13.3 N6++ 
+0000062 411  .       .                        
+0000063 001  -----   -----                    
+0000064 010  NN1     City                     M7c M7/I2.1c 
+0000064 020  VHD     had                      A9+ Z5 A2.2 S4 
+0000064 030  AT      the                      Z5 
+0000064 040  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000064 050  VVN     sewn                     A1.1.1[i71.2.1 C1 A1.1.1 
+0000064 060  RP      up                       A1.1.1[i71.2.2 
+0000064 070  II      by                       Z5 
+0000064 080  RT      then                     N4 Z5 T1.2 
+0000064 081  ,       ,                        
+0000064 090  IW      with                     Z5 
+0000064 100  NN1     Jovetic                  Z99 
+0000064 110  VVG     providing                A9- 
+0000064 120  AT      the                      Z5 
+0000064 130  JJ      final                    N4 T2- 
+0000064 140  NN1     flourish                 M1 O4.1 K2 N5+ 
+0000064 150  CS      when                     Z5 
+0000064 160  PPHS1   he                       Z8m 
+0000064 170  VVD     tapped                   A1.1.1 X3.2 A1.5.1 Q2.2 G1.1/Q1.3 F4% 
+0000064 180  NP2     Navas                    Z99 
+0000064 181  GE      's                       Z5 
+0000064 190  JJ      low                      N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1- 
+0000064 200  NN1     cross                    O4.4 S9/O2 A2.1+mfn G2.1/O2% 
+0000064 210  II      into                     Z5 
+0000064 220  AT1     an                       Z5 
+0000064 230  JJ      empty                    N5--- S5--- A1.5.2- X5.2- 
+0000064 240  NN1     net                      O2 S5+ A1.3+ 
+0000064 250  MC      10                       N1 T1.2 T3 T1.3 N3.2 
+0000064 260  NNT2    minutes                  T1.3 Q1.2 
+0000064 270  II      from                     Z5 
+0000064 280  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000064 281  ,       ,                        
+0000064 290  VVG     condemning               Q2.2/E2- Q2.2/A1.1.2 G2.1 
+0000064 300  NP1     Southampton              Z2 Z3c 
+0000064 310  II      to                       Z5 
+0000064 320  APPGE   their                    Z8 
+0000064 330  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
+0000064 340  JJ      away                     M6 A1.1.1% 
+0000064 350  NN1     defeat                   X9.2- 
+0000064 360  IO      of                       Z5 
+0000064 370  AT      the                      Z5 
+0000064 380  NNT1    season                   T1.3 
+0000064 381  .       .                        
+0000065 001  -----   -----                    
+0000066 010  IF      For                      Z5 
+0000066 020  AT1     a                        Z5 
+0000066 030  NN1     photo                    C1 
+0000066 040  NN1     gallery                  C1/H1 H2 
+0000066 050  II      from                     Z5 
+0000066 060  NPD1    Saturday                 T1.3 
+0000066 061  GE      's                       Z5 
+0000066 070  JJ      Premier                  K5.1/S5+[i73.2.1 Z3c Z3c[i72.2.1 
+0000066 080  NN1     League                   K5.1/S5+[i73.2.2 S5+c K5.1/S5+c S7.3+ N3.3% Z3c[i72.2.2 
+0000066 090  NN1     action                   A1.1.1 G3 
+0000066 091  ,       ,                        
+0000066 100  VV0     visit                    S1.1.1 M1 
+0000066 110  AT      the                      Z5 
+0000066 120  NP1     BBC                      Z3c 
+0000066 130  NN1     Sport                    K5.1 
+0000066 140  NN1     Facebook                 Z3c/Y2 
+0000066 150  NN1     page                     Q1.2 T1.3 S7.1-/S2.2m 
+0000066 151  .       .                        
+0000068 001  NULL    **8;7;text               

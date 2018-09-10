@@ -1,0 +1,900 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  MC1     One                      T1.1.3[i1.2.1 T1.1.1[i1.2.1 N1 T3 T1.2 
+0000002 020  NNT1    day                      T1.1.3[i1.2.2 T1.1.1[i1.2.2 T1.3 
+0000002 021  ,       ,                        
+0000002 030  II      in                       Z5 
+0000002 040  AT1     a                        Z5 
+0000002 050  JJ      sardonic                 Q2.2/S1.2.4- S7.2- 
+0000002 060  NN1     jibe                     Q2.2/E4.1+ 
+0000002 070  II      at                       Z5 
+0000002 080  DD      some                     N5 Z5 
+0000002 090  NN1     conservative             G1.2/S2mf A2.1-/S2mf 
+0000002 100  PNQS    who                      Z8 
+0000002 110  VBDZ    was                      Z5 A3+ 
+0000002 120  RR      piously                  S9 G2.2+ A5.2- 
+0000002 130  VVG     claiming                 Q2.2 A9+ 
+0000002 140  AT      the                      Z5 
+0000002 150  NN1     mantle                   B5 S7.1+ 
+0000002 160  IO      of                       Z5 
+0000002 170  NN1     heaven                   S9 E2+ W1 
+0000002 171  ,       ,                        
+0000002 180  PPIS1   I                        Z8mf 
+0000002 190  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000002 200  APPGE   my                       Z8 
+0000002 210  NN1     wife                     S4f 
+0000002 211  ,       ,                        
+0000002 212  NULL    <quote>                  
+0000002 213  -----   -----                    
+0000002 214  "       "                        
+0000002 220  VD0     Do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000002 221  XX      n't                      Z6 
+0000002 230  VVI     forget                   X2.2- 
+0000002 231  ,       ,                        
+0000002 240  NP1     God                      S9m Z4 
+0000002 241  VBZ     's                       A3+ Z5 
+0000002 250  AT1     a                        Z5 
+0000002 260  NN1     Republican               G1.2/S2mf 
+0000002 261  .       .                        
+0000002 262  "       "                        
+0000002 263  NULL    </quote>                 
+0000002 264  -----   -----                    
+0000002 270  IW      Without                  Z5 
+0000002 280  VVG     missing                  A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3- 
+0000002 290  AT1     a                        Z5 
+0000002 300  NN1     beat                     X3.2 K2 M6 M7 
+0000002 301  ,       ,                        
+0000002 310  PPHS1   she                      Z8f 
+0000002 320  VVD     replied                  Q2.2 Q1.1 
+0000002 321  ,       ,                        
+0000002 322  NULL    <quote>                  
+0000002 323  -----   -----                    
+0000002 324  "       "                        
+0000002 330  CCB     But                      Z5 
+0000002 340  APPGE   his                      Z8m 
+0000002 350  NN1     son                      S4m 
+0000002 351  VBZ     's                       A3+ Z5 
+0000002 360  AT1     a                        Z5 
+0000002 370  NN1     Democrat                 G1.2/S2mf 
+0000002 371  .       .                        
+0000002 372  "       "                        
+0000002 373  NULL    </quote>                 
+0000002 374  -----   -----                    
+0000004 010  II      Between                  Z5 
+0000004 020  AT      the                      Z5 
+0000004 030  JJ      Old                      S9/Q4.1[i2.2.1 T3+ Z4 
+0000004 040  NN1     Testament                S9/Q4.1[i2.2.2 Q4.1 Q2.2 
+0000004 050  NP1     Jehovah                  S9m 
+0000004 060  CC      and                      Z5 
+0000004 070  AT      the                      Z5 
+0000004 080  JJ      New                      S9/Q4.1[i3.2.1 T3- 
+0000004 090  NN1     Testament                S9/Q4.1[i3.2.2 Q4.1 Q2.2 
+0000004 100  NP1     Jesus                    Z1m Z1m/S9 Z4 
+0000004 101  ,       ,                        
+0000004 110  AT1     a                        Z5 
+0000004 120  NN1@    Christian                Z1mf 
+0000004 130  VM      can                      A7+ 
+0000004 140  VVI     find                     A10+ X2.1 X6+ 
+0000004 150  NN1     support                  S8+ O2 I1.1 B5% 
+0000004 160  IF      for                      Z5 
+0000004 170  RR      almost                   A13.4 
+0000004 180  DD      any                      N5.1+ N5 
+0000004 190  JJ      ideological              X4.1 
+0000004 200  NN1     perspective              X4.1 C1 
+0000004 201  .       .                        
+0000004 202  -----   -----                    
+0000004 210  JJ      American                 Z2 
+0000004 220  NN1     religion                 S9 
+0000004 230  VMK     used                     T1.1.1[i4.2.1 A6.2+[i4.2.1 
+0000004 240  TO      to                       T1.1.1[i4.2.2 A6.2+[i4.2.2 Z5 
+0000004 250  VHI     have                     A9+ Z5 A2.2 S4 
+0000004 260  NN1     room                     H2 N3.6 
+0000004 270  IF      for                      Z5 
+0000004 280  DA2     many                     N5+ 
+0000004 290  JJ      different                A6.1- 
+0000004 300  JJ      political                G1.2 
+0000004 310  NN2     views                    X2.1 X3.4 
+0000004 311  ,       ,                        
+0000004 320  CC      and                      Z5 
+0000004 330  JJ      American                 Z2 
+0000004 340  NN1     politics                 G1.2c 
+0000004 350  VMK     used                     T1.1.1[i5.2.1 A6.2+[i5.2.1 
+0000004 360  TO      to                       T1.1.1[i5.2.2 A6.2+[i5.2.2 Z5 
+0000004 370  VVI     feature                  A10+ 
+0000004 380  JJ      religious                S9 
+0000004 390  NN      people                   S2mfc 
+0000004 400  II      across                   Z5 
+0000004 410  AT      the                      Z5 
+0000004 420  JJ      entire                   N5.1+ 
+0000004 430  JJ      ideological              X4.1 
+0000004 440  NN1     spectrum                 A6.3+ O4.3 Y1 
+0000004 441  .       .                        
+0000005 001  -----   -----                    
+0000006 010  II      At                       T1.1.1[i6.3.1 Z5 
+0000006 020  MC1     one                      T1.1.1[i6.3.2 N1 T3 T1.2 
+0000006 030  NNT1    time                     T1.1.1[i6.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000006 031  ,       ,                        
+0000006 040  JJ      mainstream               A6.2+ 
+0000006 050  NN2     denominations            S9 I1 
+0000006 060  VBDR    were                     A3+ Z5 
+0000006 070  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000006 080  RG      as                       A13 
+0000006 090  JJ      likely                   A7+ A1.2+ 
+0000006 100  TO      to                       Z5 
+0000006 110  VVI     tilt                     M2 M1 A2.2@ 
+0000006 120  II      to                       Z5 
+0000006 130  AT      the                      Z5 
+0000006 140  JJ      left                     M6 G1.2 N5.2+ 
+0000006 150  II21    as                       Z5[i7.2.1 Z5 
+0000006 160  II22    to                       Z5[i7.2.2 Z5 
+0000006 170  AT      the                      Z5 
+0000006 180  NN1     right                    S7.4+ G2.2+ M6 G1.2 
+0000006 181  .       .                        
+0000006 182  -----   -----                    
+0000006 190  NN1     Back                     B1 M6 
+0000006 200  II      during                   Z5 
+0000006 210  AT      the                      Z5 
+0000006 220  MC2     1960s                    T1.3 N1 T3 
+0000006 221  ,       ,                        
+0000006 230  CSA     as                       Z5 
+0000006 240  AT1     a                        Z5 
+0000006 250  JJ      teenage                  T3- 
+0000006 260  JJ      Christian                Z1mf 
+0000006 270  NN1     conservative             G1.2/S2mf A2.1-/S2mf 
+0000006 271  ,       ,                        
+0000006 280  PPIS1   I                        Z8mf 
+0000006 290  VBDZ    was                      Z5 A3+ 
+0000006 300  RR      continually              T2++ N6+ 
+0000006 310  VVN     annoyed                  E3- 
+0000006 320  II      by                       Z5 
+0000006 330  NN1     antiwar                  Z99 
+0000006 340  NN2     ministers                G1.1/S2mf S9/S2mf 
+0000006 350  CC      and                      Z5 
+0000006 360  NN2     priests                  S9/S2mf 
+0000006 370  PNQS    who                      Z8 
+0000006 380  VVD     admired                  S7.2+ E2+ 
+0000006 390  NP1     Che                      Z1mf[i8.2.1 Z3c[i8.2.1 
+0000006 400  NP1     Guevara                  Z1mf[i8.2.2 Z3c[i8.2.2 
+0000006 401  .       .                        
+0000007 001  -----   -----                    
+0000008 010  II      At                       Z5 
+0000008 020  AT      the                      N5.1+[i9.3.1 Z5 
+0000008 030  NN1     height                   N5.1+[i9.3.2 N3.7 N5.1+ S7.1+ 
+0000008 040  IO      of                       N5.1+[i9.3.3 Z5 
+0000008 050  AT      the                      Z5 
+0000008 060  JJ      Cold                     G3[i10.2.1 O4.6- S1.2.1- E1- A1.1.1 
+0000008 070  NN1     War                      G3[i10.2.2 G3 S7.3 
+0000008 071  ,       ,                        
+0000008 080  NP1     U.S.                     Z8 
+0000008 090  JJ      Catholic                 S9 A6.2+ 
+0000008 100  NN2     bishops                  S9/S7.1+/S2mf 
+0000008 110  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000008 120  IF      for                      Z5 
+0000008 130  JJ      nuclear                  Y1 B1 S5+% 
+0000008 140  NN1     disarmament              G3- 
+0000008 141  .       .                        
+0000008 142  -----   -----                    
+0000008 150  II      In                       Z5 
+0000008 160  MC      1983                     N1 T1.2 T3 T1.3 N3.2 
+0000008 161  ,       ,                        
+0000008 170  PPIS1   I                        Z8mf 
+0000008 180  VVD     went                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000008 190  II      to                       Z5 
+0000008 200  AT1     a                        Z5 
+0000008 210  JJ      Lutheran                 S9/S2mf 
+0000008 220  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000008 230  VVG     expecting                X2.6+ B1 
+0000008 240  AT1     a                        Z5 
+0000008 250  NN1     sermon                   S9/Q2.2 
+0000008 260  VVG     commemorating            S1.1.1 
+0000008 270  AT      the                      Z5 
+0000008 280  MD      500th                    N4 T1.3 
+0000008 290  NN1     anniversary              T1.2 
+0000008 300  IO      of                       Z5 
+0000008 310  AT      the                      Z5 
+0000008 320  NN1     birth                    B1 T2+ 
+0000008 330  IO      of                       Z5 
+0000008 340  NP1     Martin                   Z1mf[i11.2.1 Z3c[i11.2.1 Z1mf 
+0000008 350  NP1     Luther                   Z1mf[i11.2.2 Z3c[i11.2.2 
+0000008 351  .       .                        
+0000009 001  -----   -----                    
+0000010 010  RR      Instead                  A6.1- 
+0000010 011  ,       ,                        
+0000010 020  PPIS1   I                        Z8mf 
+0000010 030  VVD     heard                    X3.2 X2.3+ G2.1@ 
+0000010 040  AT1     a                        Z5 
+0000010 050  NN1     denunciation             Q2.2/E2- 
+0000010 060  IO      of                       Z5 
+0000010 070  NNB     President                G1.1/S7.1+/S2mf 
+0000010 080  NP1     Ronald                   Z1mf[i12.2.1 Z3c[i12.2.1 Z1m 
+0000010 090  NP1     Reagan                   Z1mf[i12.2.2 Z3c[i12.2.2 Z1mf 
+0000010 091  GE      's                       Z5 
+0000010 100  NN1     policy                   X7+ Q1.2 
+0000010 110  II      in                       Z5 
+0000010 120  NP1     El                       Z2[i14.2.1 Z1mf[i13.2.1 Z3c[i13.2.1 
+0000010 130  NP1     Salvador                 Z2[i14.2.2 Z1mf[i13.2.2 Z3c[i13.2.2 
+0000010 131  .       .                        
+0000011 001  -----   -----                    
+0000012 010  NN2     Experiences              X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
+0000012 020  II      like                     Z5 
+0000012 030  DD1     that                     Z8 Z5 
+0000012 040  VVD     drove                    M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000012 050  PPIO1   me                       Z8mf 
+0000012 060  II      from                     Z5 
+0000012 070  NN1     church                   S9/H1c S9c 
+0000012 080  II      to                       Z5 
+0000012 090  NN1     church                   S9/H1c S9c 
+0000012 100  II31    in                       X2.4[i15.3.1 Z5 
+0000012 110  II32    search                   X2.4[i15.3.2 
+0000012 120  II33    of                       X2.4[i15.3.3 
+0000012 130  AT1     a                        Z5 
+0000012 140  JJ      nonpolitical             Z99 
+0000012 150  NN1     version                  A4.1 Q2.1 
+0000012 160  IO      of                       Z5 
+0000012 170  NN1     Protestantism            S9 
+0000012 171  .       .                        
+0000012 172  -----   -----                    
+0000012 180  PPHS2   They                     Z8mfn 
+0000012 190  RR      eventually               N4 
+0000012 200  RR      also                     N5++ 
+0000012 210  VVD     helped                   S8+ 
+0000012 220  VV0     drive                    M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000012 230  PPIO1   me                       Z8mf 
+0000012 240  II      from                     Z5 
+0000012 250  NN1     religion                 S9 
+0000012 260  RR      entirely                 A13.2 
+0000012 261  .       .                        
+0000012 262  -----   -----                    
+0000012 270  RT      Today                    T1.1.2 
+0000012 271  ,       ,                        
+0000012 280  PN1     something                Z8 
+0000012 290  JJ      similar                  A6.1+ 
+0000012 300  VBZ     is                       Z5 A3+ 
+0000012 310  VVG     happening                A2.1+ A3+ X7- 
+0000012 311  ,       ,                        
+0000012 320  CCB     but                      Z5 
+0000012 330  AT      the                      Z5 
+0000012 340  NN1@    push                     M2 X8+ S7.1+ I3.1- 
+0000012 350  VBZ     is                       Z5 A3+ 
+0000012 360  VVG     coming                   M6[i16.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000012 370  II      from                     M6[i16.2.2 Z5 
+0000012 380  AT      the                      Z5 
+0000012 390  NN1     right                    S7.4+ G2.2+ M6 G1.2 
+0000012 391  ,       ,                        
+0000012 400  XX      not                      Z6 
+0000012 410  AT      the                      Z5 
+0000012 420  JJ      left                     M6 G1.2 N5.2+ 
+0000012 421  .       .                        
+0000013 001  -----   -----                    
+0000014 010  PPH1    It                       Z8 
+0000014 020  VM      may                      A7+ 
+0000014 030  VHI     have                     Z5 A9+ A2.2 S4 
+0000014 040  VVN@    started                  T2+ E5- E3- 
+0000014 050  II      in                       Z5 
+0000014 060  MC      1979                     N1 T1.2 T3 T1.3 N3.2 
+0000014 061  ,       ,                        
+0000014 070  RRQ     when                     Z5 
+0000014 080  JJ      Southern                 M6 
+0000014 090  JJ      Baptist                  S9 
+0000014 100  NN1     minister                 G1.1/S2mf S9/S2mf 
+0000014 110  NP1     Jerry                    Z1mf[i17.2.1 Z3c[i17.2.1 Z1mf 
+0000014 120  NP1     Falwell                  Z1mf[i17.2.2 Z3c[i17.2.2 
+0000014 130  VVD     founded                  T2+ A2.2 A1.1.1 
+0000014 140  AT      the                      Z5 
+0000014 150  JJ      Moral                    G2.2+ E1 
+0000014 160  NN1     Majority                 N5+++c 
+0000014 170  TO      to                       Z5 
+0000014 180  VVI     mobilize                 A1.5.1 G3 
+0000014 190  NN2     evangelicals             S9 
+0000014 200  II      behind                   Z5 
+0000014 210  JJ      conservative             G1.2 A6.2+ A1.3+ A9+ 
+0000014 220  JJ      political                G1.2 
+0000014 230  NN2     causes                   A2.2 X2.1 X4.1 
+0000014 231  .       .                        
+0000014 232  -----   -----                    
+0000014 240  NP1     Reagan                   Z1mf 
+0000014 250  CC      and                      S2mf[i18.2.1 Z5 
+0000014 260  JJ      other                    S2mf[i18.2.2 A6.1- 
+0000014 270  NN1     Republican               G1.2/S2mf 
+0000014 280  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000014 290  VBDR    were                     A3+ Z5 
+0000014 300  DAR     more                     N5++ 
+0000014 310  CSN     than                     Z5 
+0000014 320  JJ      happy                    E4.1+ E4.2+ 
+0000014 330  TO      to                       Z5 
+0000014 340  VVI     make                     A1.5.1+[i19.3.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000014 350  NN1     use                      A1.5.1+[i19.3.2 A1.5.1 
+0000014 360  IO      of                       A1.5.1+[i19.3.3 Z5 
+0000014 370  JJ      religious                S9 
+0000014 380  NN2     sentiments               E1 X4.1 
+0000014 390  TO      to                       Z5 
+0000014 400  VVI     attract                  O4.2+ S3.2 O3 
+0000014 410  NN2     votes                    G1.2 
+0000014 411  .       .                        
+0000015 001  -----   -----                    
+0000016 010  PPH1    It                       Z8 
+0000016 020  VVD     looked                   A6.1+[i20.2.1 A8 X3.4 X2.4 X7+ 
+0000016 030  II      like                     A6.1+[i20.2.2 Z5 
+0000016 040  AT1     a                        Z5 
+0000016 050  JJ      perfect                  A6.1+++[i21.2.1 A5.1+++ A1.2+++ Q3 
+0000016 060  NN1     match                    A6.1+++[i21.2.2 K5.1 O2 A6.1+ 
+0000016 061  :       :                        
+0000016 070  NN2     Evangelicals             S9 
+0000016 080  VVD     gained                   A9+ N5+/A2.1 
+0000016 090  JJ      political                G1.2 
+0000016 100  NN1     influence                S7.1+ A2.2 
+0000016 101  ,       ,                        
+0000016 110  CC      and                      Z5 
+0000016 120  AT      the                      Z5 
+0000016 130  NP1     GOP                      Z99 
+0000016 140  VVD     acquired                 A9+ 
+0000016 150  AT1     a                        Z5 
+0000016 160  JJ      loyal                    S6+ 
+0000016 170  NN1     bloc                     G1.1/S5+c 
+0000016 180  IO      of                       Z5 
+0000016 190  NN2     supporters               S8+/S2mf K5.1/S2mf Q1.1% 
+0000016 191  .       .                        
+0000017 001  -----   -----                    
+0000018 010  CCB     But                      Z5 
+0000018 020  RT      today                    T1.1.2 
+0000018 021  ,       ,                        
+0000018 030  PPH1    it                       Z8 
+0000018 040  VVZ     looks                    A6.1+[i22.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000018 050  RR      increasingly             A13.3 
+0000018 060  II      like                     A6.1+[i22.2.2 Z5 
+0000018 070  AT1     a                        Z5 
+0000018 080  JJ      bad                      A5.1- G2.2- O4.2- B2- 
+0000018 090  NN1     bargain                  I1.3- 
+0000018 100  CST     that                     Z8 Z5 
+0000018 110  VVZ     dramatizes               K4 N5.2+/Q2.1 
+0000018 120  AT      the                      Z5 
+0000018 130  NN2     risks                    A15- A1.4 
+0000018 140  IO      of                       Z5 
+0000018 150  VVG     interweaving             Z99 
+0000018 160  NN1     politics                 G1.2c 
+0000018 170  CC      and                      Z5 
+0000018 180  NN1     religion                 S9 
+0000018 181  .       .                        
+0000018 182  -----   -----                    
+0000018 190  CSA     As                       Z5 
+0000018 200  DD2     these                    Z5 Z8 
+0000018 210  NN2     believers                X2.1/S2mf S9/S2mf 
+0000018 220  VVD     became                   A2.1+ O4.2+ 
+0000018 230  RGR     more                     A13.3 
+0000018 240  JJ      vocal                    Q3 A11.2+ 
+0000018 250  CC      and                      Z5 
+0000018 260  JJ      visible                  X3.4 A11.2+ 
+0000018 270  II      in                       Z5 
+0000018 280  AT      the                      Z5 
+0000018 290  NN1     Republican               G1.2/S2mf 
+0000018 300  NN1     Party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000018 301  ,       ,                        
+0000018 310  PPHS2   they                     Z8mfn 
+0000018 320  VVD     sent                     M2 A2.2 
+0000018 330  AT1     an                       Z5 
+0000018 340  JJ      unmistakable             A7+ 
+0000018 350  NN1     message                  Q1.1 Q1.3/Y2 
+0000018 351  :       :                        
+0000018 360  CS      If                       Z7 
+0000018 370  PPY     you                      Z8mf 
+0000018 371  VBR     're                      A3+ Z5 
+0000018 380  XX      not                      Z6 
+0000018 390  AT1     a                        Z5 
+0000018 400  NN1     conservative             G1.2/S2mf A2.1-/S2mf 
+0000018 401  ,       ,                        
+0000018 410  PPY     you                      Z8mf 
+0000018 411  VBR     're                      A3+ Z5 
+0000018 420  XX      not                      Z6 
+0000018 430  AT1     a                        Z5 
+0000018 440  JJ      Christian                Z1mf 
+0000018 441  .       .                        
+0000019 001  -----   -----                    
+0000020 010  RR      So                       Z5 A13.3 
+0000020 020  AT1     a                        N5+[i23.2.1 N6+[i23.2.1 A13.3[i23.2.1 Z5 
+0000020 030  NN1     lot                      N5+[i23.2.2 N6+[i23.2.2 A13.3[i23.2.2 
+0000020 040  IO      of                       Z5 
+0000020 050  NN      people                   S2mfc 
+0000020 060  PNQS    who                      Z8 
+0000020 070  VBR     are                      A3+ Z5 
+0000020 080  XX      not                      Z6 
+0000020 090  JJ      conservative             G1.2 A6.2+ A1.3+ A9+ 
+0000020 100  CCB     but                      Z5 
+0000020 110  RR      once                     N6- T1.1.1 
+0000020 120  VM      would                    A7+ 
+0000020 130  VHI     have                     Z5 A9+ A2.2 S4 
+0000020 140  VVN     gone                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000020 150  TO      to                       Z5 
+0000020 160  VVI     worship                  S9 S7.2+ E2++ 
+0000020 170  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000020 180  VH0     have                     Z5 A9+ A2.2 S4 
+0000020 190  VVN     decided                  X6+ 
+0000020 200  PPHS2   they                     Z8mfn 
+0000020 210  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000020 211  XX      n't                      Z6 
+0000020 220  VVI     belong                   A9+ A1.2+ S5+ 
+0000020 221  .       .                        
+0000020 222  -----   -----                    
+0000020 230  PPHS2   They                     Z8mfn 
+0000020 240  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000020 250  AT      the                      Z5 
+0000020 260  NN1     GOP                      Z99 
+0000020 270  VVG     claiming                 Q2.2 A9+ 
+0000020 280  TO      to                       Z5 
+0000020 290  VVI     represent                Q1.1 A6.2+ S1.1.3 A5.4- K4 
+0000020 300  AT      the                      Z5 
+0000020 310  NN1@    will                     X7+ G2.1/Q1.2 
+0000020 320  IO      of                       Z5 
+0000020 330  NP1     God                      S9m Z4 
+0000020 340  CC      and                      Z5 
+0000020 350  VVI     run                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000020 360  AT      the                      S3.2[i24.3.1 Z5 
+0000020 370  JJ      other                    S3.2[i24.3.2 A6.1- 
+0000020 380  NN1     way                      S3.2[i24.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000020 381  .       .                        
+0000022 001  NULL    <quote>                  
+0000022 002  -----   -----                    
+0000022 003  "       "                        
+0000022 010  DD1     Each                     N6+[i25.2.1 N5.1+ 
+0000022 020  NNT1    year                     N6+[i25.2.2 T1.3 P1c 
+0000022 021  ,       ,                        
+0000022 030  DAR     fewer                    N5-- 
+0000022 040  CC      and                      Z5 
+0000022 050  DAR     fewer                    N5-- 
+0000022 060  NN2     Americans                Z2/S2mf 
+0000022 070  VV0     identify                 X2.2+ A10+ X2.5+ 
+0000022 080  RG@     as                       A13 
+0000022 090  JJ      secular                  S9- 
+0000022 100  NN2     Republicans              G1.2 G1.2/S2mf 
+0000022 110  CC      or                       Z5 
+0000022 120  JJ      religious                S9 
+0000022 130  NN2     Democrats                Z3c 
+0000022 131  ,       ,                        
+0000022 132  "       "                        
+0000022 133  NULL    </quote>                 
+0000022 134  -----   -----                    
+0000022 140  VV0     write                    Q1.2 I2.1 
+0000022 150  JJ      political                G1.2/S2mf[i26.2.1 G1.2 
+0000022 160  NN2     scientists               G1.2/S2mf[i26.2.2 Y1/S2mf 
+0000022 170  NP1     David                    Z1mf[i28.3.1 Z3c[i28.3.1 Z1m Z1mf[i27.2.1 Z3c[i27.2.1 
+0000022 180  NP1     E.                       Z1mf[i28.3.2 Z3c[i28.3.2 Z1mf[i27.2.2 Z3c[i27.2.2 Z1mf[i29.2.1 Z3c[i29.2.1 
+0000022 190  NP1     Campbell                 Z3c[i28.3.3 Z1mf[i28.3.3 Z1mf Z1mf[i29.2.2 Z3c[i29.2.2 
+0000022 200  CC      and                      Z5 
+0000022 210  NP1     Robert                   Z1mf[i31.3.1 Z3c[i31.3.1 Z1m Z1mf[i30.2.1 Z3c[i30.2.1 
+0000022 220  NP1     D.                       Z1mf[i31.3.2 Z3c[i31.3.2 Z1mf[i30.2.2 Z3c[i30.2.2 Z1mf[i32.2.1 Z3c[i32.2.1 
+0000022 230  NP1     Putnam                   Z3c[i31.3.3 Z1mf[i31.3.3 Z1mf[i32.2.2 Z3c[i32.2.2 
+0000022 240  II      in                       Z5 
+0000022 250  AT      the                      Z5 
+0000022 260  JJ      current                  T1.1.2 
+0000022 270  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000022 280  IO      of                       Z5 
+0000022 290  JJ      Foreign                  M7 
+0000022 300  NN2     Affairs                  A1.1.1 S1.1.1 S3.2 
+0000022 301  .       .                        
+0000022 302  NULL    <quote>                  
+0000022 303  -----   -----                    
+0000022 304  "       "                        
+0000022 310  RR      Formerly                 T1.1.1 
+0000022 320  JJ      religious                S9 
+0000022 330  NN2     Democrats                Z3c 
+0000022 331  (       (                        
+0000022 340  CS      except                   Z5 
+0000022 350  II      among                    Z5 
+0000022 360  JJ      African                  Z2 
+0000022 370  NN2     Americans                Z2/S2mf 
+0000022 371  )       )                        
+0000022 380  VH0     have                     Z5 A9+ A2.2 S4 
+0000022 390  VVN     drifted                  M1 A1.4 
+0000022 400  II21    away                     M6[i33.2.1 
+0000022 410  II22    from                     M6[i33.2.2 Z5 
+0000022 420  NN1     church                   S9/H1c S9c 
+0000022 421  ,       ,                        
+0000022 430  CC      and                      Z5 
+0000022 440  RR      formerly                 T1.1.1 
+0000022 450  JJ      unobservant              Z99 
+0000022 460  NN2     Republicans              G1.2 G1.2/S2mf 
+0000022 470  VH0     have                     Z5 A9+ A2.2 S4 
+0000022 480  VVN     found                    A10+ X2.1 X6+.1 
+0000022 490  NN1     religion                 S9 
+0000022 491  .       .                        
+0000022 492  "       "                        
+0000022 493  NULL    </quote>                 
+0000022 494  -----   -----                    
+0000024 010  DD1     That                     Z8 Z5 
+0000024 020  VM      may                      A7+ 
+0000024 030  VVI     sound                    A6.1+[i34.2.1 X3.2 Q2.2 A8 N3.1% 
+0000024 040  II      like                     A6.1+[i34.2.2 Z5 
+0000024 050  AT1     a                        Z5 
+0000024 060  JJ      reasonable               S1.2.6+ A5.1+ I1.3- 
+0000024 070  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000024 080  IF      for                      Z5 
+0000024 090  JJ      conservative             G1.2 A6.2+ A1.3+ A9+ 
+0000024 100  NN2     Christians               S9/S2mf 
+0000024 101  .       .                        
+0000024 102  -----   -----                    
+0000024 110  PNQS    Who                      Z8 
+0000024 120  VVZ     needs                    S6+ 
+0000024 130  NN2     skeptics                 A5.1-/X2.1 
+0000024 140  CC      and                      Z5 
+0000024 150  VVZ     scoffers                 Z99 
+0000024 160  RR      anyway                   Z4 A13.7 
+0000024 161  ?       ?                        
+0000024 162  -----   -----                    
+0000024 170  CCB     But                      Z5 
+0000024 180  PPH1    it                       Z8 
+0000024 190  VHZ     has                      A9+ Z5 A2.2 S4 
+0000024 200  DD      some                     N5 Z5 
+0000024 210  NN1     side                     B2-[i35.2.1 A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
+0000024 220  NN2     effects                  B2-[i35.2.2 A2.2 A8 
+0000024 230  PPHS2   they                     Z8mfn 
+0000024 240  VM      may                      A7+ 
+0000024 250  VVI     come                     A1.1.1 
+0000024 260  TO      to                       Z5 
+0000024 270  VVI     regret                   E4.1- 
+0000024 271  .       .                        
+0000025 001  -----   -----                    
+0000026 010  PN1     One                      Z8 
+0000026 020  VBZ     is                       A3+ Z5 
+0000026 030  CST     that                     Z8 Z5 
+0000026 040  PPHS2   they                     Z8mfn 
+0000026 050  VBR     are                      Z5 A3+ 
+0000026 060  VVG     losing                   X9.2- A9- M6/A5.3- L1- 
+0000026 070  NN1     leverage                 M2 S7.1+ 
+0000026 080  CC      and                      Z5 
+0000026 090  NN1     consideration            X2.1 X2.4 S1.2.3- 
+0000026 100  II      in                       Z5 
+0000026 110  MC1     one                      N1 T3 T1.2 
+0000026 120  IO      of                       Z5 
+0000026 130  AT      the                      Z5 
+0000026 140  MC      two                      N1 T3 T1.2 
+0000026 150  JJ      major                    A11.1+ N3.2+ 
+0000026 160  NN2     parties                  S1.1.3+ G1.2 S1.1.3+/S2mf S5+ 
+0000026 161  .       .                        
+0000026 162  -----   -----                    
+0000026 170  NNB     President                G1.1/S7.1+/S2mf 
+0000026 180  NP1     Barack                   Z1mf[i36.2.1 Z3c[i36.2.1 
+0000026 190  NP1     Obama                    Z1mf[i36.2.2 Z3c[i36.2.2 
+0000026 191  GE      's                       Z5 
+0000026 200  NN1     proposal                 Q2.2 X7+ S3.2/Q2.2 
+0000026 210  TO      to                       Z5 
+0000026 220  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000026 230  RR      religiously              S9 X5.1+ 
+0000026 240  JJ      affiliated               S5+ 
+0000026 250  NN2     universities             P1/H1c 
+0000026 260  CC      and                      Z5 
+0000026 270  NN2     hospitals                B3/H1c 
+0000026 280  VV0     provide                  A9- S6+ 
+0000026 290  JJ      contraceptive            B3/S3.2 
+0000026 300  NN1     coverage                 Q4/N5 A1.8+ N5 
+0000026 310  II      to                       Z5 
+0000026 320  NN2     employees                I3.1/S2mf 
+0000026 330  VM      might                    A7+ 
+0000026 340  XX      not                      Z6 
+0000026 350  VHI     have                     Z5 A9+ A2.2 S4 
+0000026 360  VVN@    occurred                 A2.1+ A3+ X2.1 
+0000026 370  CS      if                       Z7 
+0000026 380  JJ      religious                S9 
+0000026 390  NN      folk                     S2mf K2 
+0000026 400  VBDR    were                     A3+ Z5 
+0000026 410  RGR     more                     A13.3 
+0000026 420  JJ      numerous                 N5+ 
+0000026 430  II      in                       Z5 
+0000026 440  AT      the                      Z5 
+0000026 450  JJ      Democratic               G1.2 
+0000026 460  NN2     ranks                    S7.1+ S5+ M3 A5.1 
+0000026 461  .       .                        
+0000027 001  -----   -----                    
+0000028 010  DD1     Another                  A6.1- N5++ 
+0000028 020  NN1     consequence              A2.2 
+0000028 030  VBZ     is                       A3+ Z5 
+0000028 040  CST     that                     Z8 Z5 
+0000028 050  VVG     making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000028 060  AT      the                      Z5 
+0000028 070  JJ      Almighty                 S7.1+ N3.2+ S9m 
+0000028 080  JJ      synonymous               A2.2 
+0000028 090  IW      with                     Z5 
+0000028 100  JJ      political                G1.2 
+0000028 110  NN1     conservatism             G1.2 
+0000028 120  NN2     breeds                   A4.1/L2 
+0000028 130  NN1     contempt                 S7.2- G2.1- 
+0000028 140  IF      for                      Z5 
+0000028 150  NN1     faith                    E6+ S9 X2.1 
+0000028 151  .       .                        
+0000028 152  -----   -----                    
+0000028 160  JJ      Young                    T3- 
+0000028 170  NN      people                   S2mfc 
+0000028 180  RT      now                      T1.1.2 Z4 
+0000028 190  VBR     are                      A3+ Z5 
+0000028 200  RG      far                      N3.3+ A13.3 X9.2+ 
+0000028 210  RGR     more                     A13.3 
+0000028 220  RR@     likely                   A7+ 
+0000028 230  VVN     alienated                A6.1- A1.8- A2.2/E2- 
+0000028 240  II      from                     Z5 
+0000028 250  NN1     religion                 S9 
+0000028 260  CSN     than                     Z5 
+0000028 270  APPGE   their                    Z8 
+0000028 280  NN2     forebears                S4mfn 
+0000028 290  VBDR    were                     A3+ Z5 
+0000028 291  .       .                        
+0000028 292  -----   -----                    
+0000028 300  II      In                       Z5 
+0000028 310  AT      the                      Z5 
+0000028 320  MC2     1970s                    T1.3 N1 T3 
+0000028 321  ,       ,                        
+0000028 330  RR      only                     A14 
+0000028 340  MC      12                       N5[i37.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000028 350  NNU     percent                  N5[i37.2.2 N5 
+0000028 360  IO      of                       Z5 
+0000028 370  NN      people                   S2mfc 
+0000028 380  II      in                       Z5 
+0000028 390  APPGE   their                    Z8 
+0000028 400  MC2     20s                      T1.3 N1 T3 
+0000028 410  VVD     disavowed                A6.1- E2- 
+0000028 420  DD      any                      N5.1+ N5 
+0000028 430  JJ      religious                S9 
+0000028 440  NN1     affiliation              S5+ 
+0000028 441  .       .                        
+0000028 442  -----   -----                    
+0000028 450  RT      Today                    T1.1.2 
+0000028 451  ,       ,                        
+0000028 460  MC      33                       N5[i38.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000028 470  NNU     percent                  N5[i38.2.2 N5 
+0000028 480  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000028 481  .       .                        
+0000029 001  -----   -----                    
+0000030 010  AT      The                      Z5 
+0000030 020  NN1     change                   A2.1+ I1 B1 
+0000030 030  VHZ     has                      A9+ Z5 A2.2 S4 S6+[i39.2.1 
+0000030 040  RR21@   a                        A13.3[i40.2.1 N6+[i40.2.1 
+0000030 050  RR22    lot                      A13.3[i40.2.2 N6+[i40.2.2 
+0000030 060  II      to                       A2.2[i41.3.1 Z5 S6+[i39.2.2 
+0000030 070  VD0     do                       A2.2[i41.3.2 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000030 080  IW      with                     A2.2[i41.3.3 Z5 
+0000030 090  AT      the                      Z5 
+0000030 100  NN1     fact                     A5.2+ X2.2 
+0000030 110  DD1     that                     Z5 Z8 
+0000030 111  NULL    <quote>                  
+0000030 112  -----   -----                    
+0000030 113  "       "                        
+0000030 120  NN2     millenials               Z99 
+0000030 121  "       "                        
+0000030 122  NULL    </quote>                 
+0000030 123  -----   -----                    
+0000030 130  VV0     tend                     A6.2+ A8 S8+ X5.1+ 
+0000030 140  TO      to                       Z5 
+0000030 150  VBI     be                       A3+ Z5 
+0000030 160  JJ      liberal                  A1.7- G1.2 N5+ 
+0000030 170  CC      or                       Z5 
+0000030 180  NN1     libertarian              G1.2/S2mf 
+0000030 190  II      on                       Z5 
+0000030 200  JJ      social                   S1.1.1 
+0000030 210  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000030 211  .       .                        
+0000030 212  -----   -----                    
+0000030 220  CS      When                     Z5 
+0000030 230  PPHS2   they                     Z8mfn 
+0000030 240  VV0     hear                     X3.2 X2.3+ G2.1@ 
+0000030 250  NN2     Republicans              G1.2 G1.2/S2mf 
+0000030 260  VVG     invoking                 T2+ A1.5.1 S7.1+ 
+0000030 270  AT      the                      Z5 
+0000030 280  NN1     Bible                    S9/Q4.1 Q1.2 
+0000030 290  TO      to                       Z5 
+0000030 300  VVI     justify                  G2.2+ A2.2 O4.1 
+0000030 310  VVG     banning                  S7.4- 
+0000030 320  JJ      same-sex                 Z99 
+0000030 330  NN1     marriage                 S4 
+0000030 331  ,       ,                        
+0000030 340  DA2     many                     N5+ 
+0000030 350  VV0     deduce                   X2.5+ 
+0000030 360  CST     that                     Z5 Z8 
+0000030 370  NN2     Republicans              G1.2 G1.2/S2mf 
+0000030 380  VBR     are                      A3+ Z5 
+0000030 390  RG      too                      N5.2+ A13.3 
+0000030 400  JJ      intolerant               S7.4- 
+0000030 410  TO      to                       Z5 
+0000030 420  VVI     bearand                  Z99 
+0000030 430  RR      so                       Z5 A13.3 
+0000030 440  VBZ     is                       A3+ Z5 
+0000030 450  AT      the                      Z5 
+0000030 460  NN1     Bible                    S9/Q4.1 Q1.2 
+0000030 461  .       .                        
+0000031 001  -----   -----                    
+0000032 010  AT      The                      Z5 
+0000032 020  NN      people                   S2mfc 
+0000032 030  IW      with                     Z5 
+0000032 040  AT      no                       Z6 
+0000032 050  JJ      religious                S9 
+0000032 060  NN1     affiliation              S5+ 
+0000032 070  VV0     lean                     M6 S5+ 
+0000032 080  RR      strongly                 A13.3 A5.1+ 
+0000032 090  JJ      Democratic               G1.2 
+0000032 091  .       .                        
+0000032 092  -----   -----                    
+0000032 100  II      In                       Z5 
+0000032 110  MC      2008                     N1 T1.2 T3 T1.3 N3.2 
+0000032 111  ,       ,                        
+0000032 120  MC      75                       N5[i42.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000032 130  NNU     percent                  N5[i42.2.2 N5 
+0000032 140  VVN     voted                    G1.2 
+0000032 150  IF      for                      Z5 
+0000032 160  NP1     Obama                    Z99 
+0000032 161  ,       ,                        
+0000032 170  VVN     compared                 A6.1 A5.1 Q3 
+0000032 180  II      to                       Z5 
+0000032 190  MC      45                       N5[i43.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000032 200  NNU     percent                  N5[i43.2.2 N5 
+0000032 210  IO      of                       Z5 
+0000032 220  NN2     Protestants              S9/S2mf 
+0000032 230  CC      and                      Z5 
+0000032 240  MC      54                       N5[i44.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000032 250  NNU     percent                  N5[i44.2.2 N5 
+0000032 260  IO      of                       Z5 
+0000032 270  NN2     Catholics                S9/S2mf 
+0000032 271  .       .                        
+0000032 272  -----   -----                    
+0000032 280  RR      Even                     A13.1 
+0000032 290  II      in                       Z5 
+0000032 300  MC      2010                     N1 T1.2 T3 T1.3 N3.2 
+0000032 301  ,       ,                        
+0000032 310  AT1     a                        Z5 
+0000032 320  JJ@     Republican               G1.2 
+0000032 330  NNT1    year                     T1.3 P1c 
+0000032 331  ,       ,                        
+0000032 340  MC      68                       N5[i45.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000032 350  NNU     percent                  N5[i45.2.2 N5 
+0000032 360  IO      of                       Z5 
+0000032 370  PPHO2   them                     Z8mfn 
+0000032 380  VVD     voted                    G1.2 
+0000032 390  JJ      Democratic               G1.2 
+0000032 400  IF      for                      Z5 
+0000032 410  NN1     Congress                 Z3c 
+0000032 411  .       .                        
+0000033 001  -----   -----                    
+0000034 010  AT      The                      Z5 
+0000034 020  NN1     Republican               G1.2/S2mf 
+0000034 030  NN1     practice                 A1.1.1 I3.1/S5+c 
+0000034 040  IO      of                       Z5 
+0000034 050  VVG     spurning                 X7- 
+0000034 051  NULL    <quote>                  
+0000034 052  -----   -----                    
+0000034 053  "       "                        
+0000034 060  FU      none/other               Z99 
+0000034 061  "       "                        
+0000034 062  NULL    </quote>                 
+0000034 063  -----   -----                    
+0000034 070  NN2     voters                   G1.2/S2mf 
+0000034 071  (       (                        
+0000034 080  RR      basically                Z4 A13.2 
+0000034 081  ,       ,                        
+0000034 090  DB      all                      N5.1+ 
+0000034 100  PNQS    who                      Z8 
+0000034 110  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000034 111  XX      n't                      Z6 
+0000034 120  VVI     identify                 X2.2+ A10+ X2.5+ 
+0000034 130  PPX2    themselves               Z8 
+0000034 140  CSA     as                       Z5 
+0000034 150  NN2     Christians               S9/S2mf 
+0000034 151  )       )                        
+0000034 160  VM      could                    A7+ 
+0000034 170  VVI     turn                     A1.1.1[i46.2.1 A8[i46.2.1 N5+/S1.1.3[i46.2.1 M1[i46.2.1 M2[i46.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- M1[i47.2.1 S1.1.1[i47.2.1 T2+[i47.2.1 A2.1+[i47.2.1 
+0000034 180  RP      out                      A1.1.1[i46.2.2 A8[i46.2.2 N5+/S1.1.3[i46.2.2 M1[i46.2.2 M2[i46.2.2 M6 
+0000034 190  TO      to                       Z5 M1[i47.2.2 S1.1.1[i47.2.2 T2+[i47.2.2 A2.1+[i47.2.2 
+0000034 200  VBI     be                       A3+ Z5 
+0000034 210  AT1     a                        Z5 
+0000034 220  JJ      fatal                    A5.1--- L1- 
+0000034 230  NN1     error                    A5.3- 
+0000034 231  .       .                        
+0000034 232  -----   -----                    
+0000034 240  AT      The                      Z5 
+0000034 250  NP1     Georgetown               Z3c[i48.2.1 Z2 
+0000034 260  NN1     University               Z3c[i48.2.2 P1/H1c 
+0000034 270  NN1     blog                     Z99 
+0000034 280  MC      Nineteen                 Z99 
+0000034 290  MC      Sixty-four               Z99 
+0000034 300  VVZ     says                     Q2.1 
+0000034 310  PPHS2   they                     Z8mfn 
+0000034 320  VBR     are                      A3+ Z5 
+0000034 330  RT      now                      T1.1.2 Z4 
+0000034 340  RG      so                       A13.3 
+0000034 350  JJ      numerous                 N5+ 
+0000034 360  DD1     that                     Z5 Z8 
+0000034 361  NULL    <quote>                  
+0000034 362  -----   -----                    
+0000034 363  "       "                        
+0000034 370  NP1     Obama                    Z99 
+0000034 380  VM      could                    A7+ 
+0000034 390  VVI     lose                     X9.2- A9- M6/A5.3- L1- 
+0000034 400  DB2     both                     N5 
+0000034 410  AT      the                      Z5 
+0000034 420  NN1     Catholic                 S9/S2mf 
+0000034 430  CC      and                      Z5 
+0000034 440  JJ      Protestant               S9 
+0000034 450  NN1     vote                     G1.2 
+0000034 460  II      to                       Z5 
+0000034 470  AT      the                      Z5 
+0000034 480  NN1     Republican               G1.2/S2mf 
+0000034 490  NN1     nomineeeven              Z99 
+0000034 500  VV0     lose                     X9.2- A9- M6/A5.3- L1- 
+0000034 510  VV0     badlyand                 Z99 
+0000034 520  RR      still                    T2++ Z4 E3+ 
+0000034 530  VV0     win                      X9.2+/S7.3 X9.2+/G3 A9+ 
+0000034 540  NN1     re-election              G1.2/X7+/N6+ 
+0000034 541  .       .                        
+0000034 542  "       "                        
+0000034 543  NULL    </quote>                 
+0000034 544  -----   -----                    
+0000036 010  II      As                       Z5 
+0000036 020  AT      the                      Z5 
+0000036 030  JJ      nonreligious             Z99 
+0000036 040  NN1     proliferate              N5+/A2.1 N5+ 
+0000036 041  ,       ,                        
+0000036 050  AT      the                      Z5 
+0000036 060  NN1     GOP                      Z99 
+0000036 070  VM      may                      A7+ 
+0000036 080  VVI     find                     A10+ X2.1 X6+ 
+0000036 090  PPH1    it                       Z8 
+0000036 100  VHZ     has                      Z5 A9+ A2.2 S4 
+0000036 110  VVN     foreclosed               A10-/I1.2 T2-/I1.2 
+0000036 120  DD      any                      N5.1+ N5 
+0000036 130  NN1     chance                   A1.4 A7+ 
+0000036 140  IO      of                       Z5 
+0000036 150  VVG     winning                  X9.2+/S7.3 X9.2+/G3 A9+ 
+0000036 160  APPGE   their                    Z8 
+0000036 170  NN2     votes                    G1.2 
+0000036 171  .       .                        
+0000036 172  -----   -----                    
+0000036 180  DDQ     What                     Z8 Z5 
+0000036 190  PPH1    it                       Z8 
+0000036 200  VVZ     hears                    X3.2 X2.3+ G2.1@ 
+0000036 210  II      from                     Z5 
+0000036 220  DD1     this                     M6 Z5 Z8 
+0000036 230  NN1     group                    S5+c A4.1c B3% 
+0000036 240  VVZ     comes                    M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000036 250  RR      straight                 O4.4 M6 N3.8+ A5.2+ N4 
+0000036 260  II      from                     Z5 
+0000036 270  AT      the                      Z5 
+0000036 280  JJ      old                      T3+ Z4 
+0000036 290  NN1     country                  G1.1c W3 F4/M7 K2 
+0000036 300  NN1     song                     K2 
+0000036 301  :       :                        
+0000036 302  NULL    <quote>                  
+0000036 303  -----   -----                    
+0000036 304  "       "                        
+0000036 310  NP1     God                      S9m Z4 
+0000036 320  VM      may                      A7+ 
+0000036 330  VVI     forgive                  G2.2+ 
+0000036 340  PPY     you                      Z8mf 
+0000036 341  ,       ,                        
+0000036 350  CCB     but                      Z5 
+0000036 360  PPIS1   I                        Z8mf 
+0000036 370  VM      wo                       T1.1.3 
+0000036 371  XX      n't                      Z6 
+0000036 372  .       .                        
+0000036 373  -----   -----                    
+0000036 380  UH      Yes                      Z4 
+0000036 381  ,       ,                        
+0000036 390  NP1     Jesus                    Z1m Z1m/S9 Z4 
+0000036 400  VVZ     loves                    E2+ 
+0000036 410  PPY     you                      Z8mf 
+0000036 411  ,       ,                        
+0000036 420  CCB     but                      Z5 
+0000036 430  PPIS1   I                        Z8mf 
+0000036 440  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000036 441  XX      n't                      Z6 
+0000036 442  .       .                        
+0000036 443  -----   -----                    
+0000036 450  PPHS2   They                     Z8mfn 
+0000036 460  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000036 461  XX      n't                      Z6 
+0000036 470  VHI     have                     S6+[i49.2.1 A9+ Z5 A2.2 S4 
+0000036 480  TO      to                       S6+[i49.2.2 Z5 
+0000036 490  VVI     live                     E2+[i50.2.1 H4 L1+ A3 H4[i51.2.1 
+0000036 500  IW      with                     E2+[i50.2.2 Z5 H4[i51.2.2 
+0000036 510  PPY     you                      Z8mf 
+0000036 511  ,       ,                        
+0000036 520  CC      and                      Z5 
+0000036 530  RR      neither                  Z6 
+0000036 540  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000036 550  NP1     I.                       Z8mf 
+0000036 551  "       "                        
+0000036 552  NULL    </quote>                 
+0000038 001  NULL    **8;7;text               

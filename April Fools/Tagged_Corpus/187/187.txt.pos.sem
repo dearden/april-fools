@@ -1,0 +1,583 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN1     Baby                     T3--/S2mf E2+mfn 
+0000002 020  NN2     birds                    L2mfn S2.1f 
+0000002 030  VM      can                      A7+ 
+0000002 040  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000002 050  NN1     arithmetic               N2 
+0000002 051  ,       ,                        
+0000002 060  VV0     say                      Q2.1 Z4% 
+0000002 070  NN2     researchers              X2.4/S2mf 
+0000002 080  II      in                       Z5 
+0000002 090  NP1     Italy                    Z2 
+0000002 091  .       .                        
+0000003 001  -----   -----                    
+0000004 010  NN2     Scientists               Y1/S2mf 
+0000004 020  II      from                     Z5 
+0000004 030  AT      the                      Z5 
+0000004 040  NN2     universities             P1/H1c 
+0000004 050  IO      of                       Z5 
+0000004 060  NP1     Padova                   Z99 
+0000004 070  CC      and                      Z5 
+0000004 080  NP1     Trento                   Z99 
+0000004 090  VVD     demonstrated             A10+ G1.2 
+0000004 100  NN2     chicks                   L2mfn S2.1f 
+0000004 101  GE      '                        Z5 
+0000004 110  NN1     ability                  X9.1+ 
+0000004 120  TO      to                       Z5 
+0000004 130  VVI     add                      N5+/A2.1 N2 A1.8+ 
+0000004 140  CC      and                      Z5 
+0000004 150  VVI     subtract                 N2 
+0000004 160  NN2     objects                  O2 X7+ 
+0000004 170  CSA     as                       Z5 
+0000004 180  PPHS2   they                     Z8mfn 
+0000004 190  VBDR    were                     Z5 A3+ 
+0000004 200  VVN     moved                    M2 M1 A2.1+ E1 H4/A2.1 
+0000004 210  II      behind                   Z5 
+0000004 220  MC      two                      N1 T3 T1.2 
+0000004 230  NN2     screens                  Y2 Q4.3 H5 A10- 
+0000004 231  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NP1     Lucia                    Z1mf[i1.2.1 Z3c[i1.2.1 Z1f 
+0000006 020  NP1     Regolin                  Z1mf[i1.2.2 Z3c[i1.2.2 
+0000006 021  ,       ,                        
+0000006 030  AT1     an                       Z5 
+0000006 040  NN1     author                   Q4.1/S2mf 
+0000006 050  IO      of                       Z5 
+0000006 060  AT      the                      Z5 
+0000006 070  NN1     study                    P1 X2.4 H2 Q1.2 C1 
+0000006 080  VVD     said                     Q2.1 
+0000006 090  AT      the                      Z5 
+0000006 100  NN2     animals                  L2mfn S5+c O2c 
+0000006 101  NULL    <quote>                  
+0000006 102  -----   -----                    
+0000006 103  "       "                        
+0000006 110  VVN     performed                A1.1.1 K4 X9.2+ 
+0000006 120  JJ      basic                    A6.2+ A11.1+ A12+ 
+0000006 130  NN1     arithmetic               N2 
+0000006 131  "       "                        
+0000006 132  NULL    </quote>                 
+0000006 133  -----   -----                    
+0000006 140  TO@     to                       Z5 
+0000006 150  VVI     work                     N2[i2.2.1 X9.2+[i2.2.1 X2.5+[i2.2.1 A1.1.1[i2.2.1 K5.1[i2.2.1 X2.1[i2.2.1 I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000006 160  RP      out                      N2[i2.2.2 X9.2+[i2.2.2 X2.5+[i2.2.2 A1.1.1[i2.2.2 K5.1[i2.2.2 X2.1[i2.2.2 M6 
+0000006 170  DDQ     which                    Z5 Z8 
+0000006 180  NN1     screen                   Y2 Q4.3 H5 A10- 
+0000006 190  VVD     concealed                A10- 
+0000006 200  AT      the                      Z5 
+0000006 210  JJR     larger                   N3.2++ N5++ A11.1++ 
+0000006 220  NN1     group                    S5+c A4.1c B3% 
+0000006 230  IO      of                       Z5 
+0000006 240  NN2     objects                  O2 X7+ 
+0000006 241  .       .                        
+0000007 001  -----   -----                    
+0000008 010  AT      The                      Z5 
+0000008 020  NN2     findings                 A10+ X2.1 X6+ 
+0000008 030  VBR     are                      Z5 A3+ 
+0000008 040  VVN     reported                 Q2.2 S7.1- 
+0000008 050  II      in                       Z5 
+0000008 060  AT      the                      Z5 
+0000008 070  NN1     journal                  Q4.2 Q1.2 
+0000008 080  NN2     Proceedings              A1.1.1 T2++ M1 
+0000008 090  IO      of                       Z5 
+0000008 100  AT      the                      Z3c[i3.2.1 Z5 
+0000008 110  JJ      Royal                    Z3c[i3.2.2 S7.1+ Z3c[i4.2.1 
+0000008 120  NN1     Society                  S5+c Z3c[i4.2.2 
+0000008 130  NP1     B.                       Z5 O4.2-/S2mf% 
+0000010 010  VVZ     Chicks                   L2mfn S2.1f 
+0000010 020  RR      always                   N6+++ 
+0000010 030  VV0     try                      X8+ X2.4 Q2.2 G2.1 A12- 
+0000010 040  TO      to                       Z5 
+0000010 050  VVI     stay                     M8 T2++ H4 
+0000010 060  RR      close                    A13.4[i5.2.1 
+0000010 070  II      to                       A13.4[i5.2.2 Z5 
+0000010 080  NN2     objects                  O2 X7+ 
+0000010 090  PPHS2   they                     Z8mfn 
+0000010 100  VBR     are                      Z5 A3+ 
+0000010 110  VVN     reared                   S4 F4 M1 
+0000010 120  IW      with                     Z5 
+0000010 121  -       -                        
+0000010 130  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000010 140  CSA     as                       Z5 
+0000010 150  PPHS2   they                     Z8mfn 
+0000010 160  VV0     stay                     M8 T2++ H4 
+0000010 170  RR      close                    A13.4[i6.2.1 
+0000010 180  II      to                       A13.4[i6.2.2 Z5 
+0000010 190  CC      and                      Z5 
+0000010 200  VV0     follow                   M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4 
+0000010 210  APPGE   their                    Z8 
+0000010 220  NN1     mother                   S4f A11.1+++ 
+0000010 230  CS31    as                       Z5[i7.3.1 Z5 
+0000010 240  CS32    soon                     Z5[i7.3.2 
+0000010 250  CS33    as                       Z5[i7.3.3 Z5 
+0000010 260  PPHS2   they                     Z8mfn 
+0000010 270  VV0     hatch                    H5 O2 L2 X2.1 
+0000010 271  .       .                        
+0000010 272  -----   -----                    
+0000010 280  DD1     This                     M6 Z5 Z8 
+0000010 290  NNT1    instant                  T1.2 
+0000010 300  NN1     recognition              X2.2+ X2.5+ S7.4+ G2.1+ S1.1.1 
+0000010 310  VBZ     is                       Z5 A3+ 
+0000010 320  VVN     known                    X2.2+ S3.2/B1% 
+0000010 330  II      as                       Z5 
+0000010 331  NULL    <quote>                  
+0000010 332  -----   -----                    
+0000010 333  "       "                        
+0000010 340  VVG     imprinting               Q4.1 O4.4 
+0000010 341  "       "                        
+0000010 342  NULL    </quote>                 
+0000010 343  -----   -----                    
+0000010 344  .       .                        
+0000011 001  -----   -----                    
+0000012 010  VV0     See                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000012 020  AT1     a                        Z5 
+0000012 030  NN1     chick                    L2mfn S2.1f 
+0000012 040  NN1     hunt                     K5.1 X2.4 
+0000012 050  IF      for                      Z5 
+0000012 060  AT1     a                        Z5 
+0000012 070  JJ@     hidden                   A10- 
+0000012 080  NN1     ball                     O2/O4.4 K5.1 B1 K1 
+0000012 090  II      in                       Z5 
+0000012 100  AT1     an                       Z5 
+0000012 110  NN1     experiment               Y1 X2.4 
+0000012 120  VVN     designed                 C1 X7+ 
+0000012 130  TO      to                       Z5 
+0000012 140  VVI     test                     P1 B3 X2.4 A12- 
+0000012 150  AT      the                      Z5 
+0000012 160  NN1     bird                     L2mfn S2.1f 
+0000012 161  GE      's                       Z5 
+0000012 170  NN1     memory                   X2 X2.2+ S7.2+ Y2 
+0000014 001  NULL    <quote>                  
+0000014 002  -----   -----                    
+0000014 003  "       "                        
+0000014 010  PPIS2   We                       Z8 
+0000014 020  VHD     had                      Z5 A9+ A2.2 S4 
+0000014 030  RR      already                  T1.1.1 
+0000014 040  VVN     found                    A10+ X2.1 X6+.1 
+0000014 050  CST     that                     Z5 Z8 
+0000014 060  AT      the                      Z5 
+0000014 070  NN2     chicks                   L2mfn S2.1f 
+0000014 080  VH0     have                     A9+ Z5 A2.2 S4 
+0000014 090  AT1     a                        Z5 
+0000014 100  NN1     tendency                 A6.2+ A8 S1.1.1 
+0000014 110  TO      to                       Z5 
+0000014 120  VVI     approach                 M1 A1.1.1 Q2.2 
+0000014 130  AT1     a                        Z5 
+0000014 140  NN1     group                    S5+c A4.1c B3% 
+0000014 150  VVG     containing               A1.8+ A1.7+ 
+0000014 160  DAR     more                     N5++ 
+0000014 170  IO      of                       Z5 
+0000014 180  DD2     these                    Z5 Z8 
+0000014 190  JJ      familiar                 A6.2+ S1.2.1+ 
+0000014 200  NN2     objects                  O2 X7+ 
+0000014 201  ,       ,                        
+0000014 202  "       "                        
+0000014 203  NULL    </quote>                 
+0000014 204  -----   -----                    
+0000014 210  VVD     explained                Q2.2/A7+ A2.2 
+0000014 220  NNB     Professor                P1/S2mf 
+0000014 230  NP1     Regolin                  Z99 
+0000014 231  ,       ,                        
+0000014 240  PNQS    who                      Z8 
+0000014 250  VVZ%    studies                  P1 X2.4 
+0000014 260  NN1     animal                   L2mfn S5+c O2c 
+0000014 270  NN1     behaviour                S1.1.1 A1.1.1 
+0000014 280  II      at                       Z5 
+0000014 290  AT      the                      Z5 
+0000014 300  NN1     University               Z3c[i8.3.1 P1/H1c 
+0000014 310  IO      of                       Z3c[i8.3.2 Z5 
+0000014 320  NP1     Padova                   Z3c[i8.3.3 
+0000014 321  .       .                        
+0000015 001  -----   -----                    
+0000016 010  PPHS1   She                      Z8f 
+0000016 020  CC      and                      Z5 
+0000016 030  APPGE   her                      Z8f 
+0000016 040  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000016 050  VBDR    were                     A3+ Z5 
+0000016 060  JK      able                     X9.1+ 
+0000016 070  TO      to                       Z5 
+0000016 080  VVI     test                     P1 B3 X2.4 A12- 
+0000016 090  AT      the                      Z3c[i9.2.1 Z5 
+0000016 100  NN2     birds                    Z3c[i9.2.2 L2mfn S2.1f 
+0000016 101  GE      '                        Z5 
+0000016 110  JJ      numerical                N1 
+0000016 120  NN2     skills                   X9.1+ 
+0000016 130  CSA     as                       Z5 
+0000016 140  PPHS2   they                     Z8mfn 
+0000016 150  VVD     followed                 M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 
+0000016 160  AT      the                      Z5 
+0000016 170  NN2     objects                  O2 X7+ 
+0000016 171  -       -                        
+0000016 180  DDQ     which                    Z5 Z8 
+0000016 181  ,       ,                        
+0000016 190  II      in                       Z5 
+0000016 200  DD1     this                     M6 Z5 Z8 
+0000016 210  NN1     instance                 A4.1 T1.2 
+0000016 211  ,       ,                        
+0000016 220  VBDR    were                     A3+ Z5 
+0000016 230  JJ      small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
+0000016 240  NN1     plastic                  O1.1 
+0000016 250  NN2     balls                    O2/O4.4 K5.1 B1 K1 
+0000016 251  .       .                        
+0000018 001  NULL    <quote>                  
+0000018 002  -----   -----                    
+0000018 003  "       "                        
+0000018 010  PPIS2   We                       Z8 
+0000018 020  VVD     used                     A1.5.1 S7.1+ 
+0000018 030  AT      the                      Z5 
+0000018 040  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000018 050  NN1     plastic                  O1.1 
+0000018 060  NN2     containers               O2 
+0000018 070  PPY     you                      Z8mf 
+0000018 080  VV0     get                      M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1- 
+0000018 090  II      inside                   Z5 
+0000018 100  NP1     Kinder                   S1.2/S8++ S1.2.2-- 
+0000018 110  NN2     eggs                     L2 F1 
+0000018 120  CC      and                      Z5 
+0000018 130  VVD     suspended                T4- M2 M1 
+0000018 140  PPHO2   them                     Z8mfn 
+0000018 150  II      from                     Z5 
+0000018 160  NN1     fishing                  K5.1/L2 F4/M4 X2.4 
+0000018 170  NN1     line                     O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000018 171  ,       ,                        
+0000018 172  "       "                        
+0000018 173  NULL    </quote>                 
+0000018 174  -----   -----                    
+0000018 180  NNB     Professor                P1/S2mf 
+0000018 190  NP1     Regolin                  Z99 
+0000018 200  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000018 210  NP1     BBC                      Z3c 
+0000018 220  NN1     News                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000018 221  .       .                        
+0000018 222  NULL    <quote>                  
+0000018 223  -----   -----                    
+0000018 224  "       "                        
+0000018 230  PPIS2   We                       Z8 
+0000018 240  VVD     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000018 250  DD2     these                    Z5 Z8 
+0000018 260  NN2     balls                    O2/O4.4 K5.1 B1 K1 
+0000018 270  VVI     'disappear'              Z99 
+0000018 280  II      by                       Z5 
+0000018 290  VVG     moving                   M2 M1 A2.1+ E1 H4/A2.1 
+0000018 300  PPHO2   them                     Z8mfn 
+0000018 310  II      behind                   Z5 
+0000018 320  AT      the                      Z5 
+0000018 330  NN2     screens                  Y2 Q4.3 H5 A10- 
+0000018 340  PN1     one                      N3.8-[i10.4.1 Z8 
+0000018 350  II      at                       N3.8-[i10.4.2 Z5 T1.1.2[i11.3.1 
+0000018 360  AT1     a                        N3.8-[i10.4.3 Z5 T1.1.2[i11.3.2 
+0000018 370  NNT1    time                     N3.8-[i10.4.4 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ T1.1.2[i11.3.3 
+0000018 371  .       .                        
+0000018 372  "       "                        
+0000018 373  NULL    </quote>                 
+0000018 374  -----   -----                    
+0000020 010  VVG     Counting                 N2 A1.8+ 
+0000020 020  NN2     chickens                 L2mfn F1 E5-/S2mf 
+0000022 010  II      In                       Z5 
+0000022 020  DD1     each                     N5.1+ 
+0000022 030  IO      of                       Z5 
+0000022 040  AT      the                      Z5 
+0000022 050  JJ      mini                     N3.2- 
+0000022 060  NN1     maths                    N2 
+0000022 070  NN2     tests                    P1 B3 X2.4 K5.1@ 
+0000022 071  ,       ,                        
+0000022 080  AT1     a                        Z5 
+0000022 090  NN1     chick                    L2mfn S2.1f 
+0000022 100  VVD     watched                  X3.4 S7.1 X2.4 A1.3+ 
+0000022 110  II      from                     Z5 
+0000022 120  AT1     a                        Z5 
+0000022 130  JJ      clear-fronted            Z99 
+0000022 140  NN1@    holding                  A9+ I1.1+ M7/F4 S1.1.1 
+0000022 150  NN1     box                      O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ 
+0000022 160  CS      while                    Z5 
+0000022 170  MC1     one                      N1 T3 T1.2 
+0000022 180  IO      of                       Z5 
+0000022 190  AT      the                      Z5 
+0000022 200  NN2     researchers              X2.4/S2mf 
+0000022 210  RR      slowly                   N3.8- 
+0000022 220  VVD     moved                    M2 M1 A2.1+ E1 H4/A2.1 
+0000022 230  AT      the                      Z5 
+0000022 240  NN2     balls                    O2/O4.4 K5.1 B1 K1 
+0000022 250  II      behind                   Z5 
+0000022 260  AT      the                      Z5 
+0000022 270  NN2     screens                  Y2 Q4.3 H5 A10- 
+0000022 271  -       -                        
+0000022 280  MC      three                    N1 T1.2 T3 
+0000022 290  II      behind                   Z5 
+0000022 300  MC1     one                      N1 T3 T1.2 
+0000022 310  NN1     screen                   Y2 Q4.3 H5 A10- 
+0000022 320  CC      and                      Z5 
+0000022 330  MC      two                      N1 T3 T1.2 
+0000022 340  II      behind                   Z5 
+0000022 350  AT      the                      Z5 
+0000022 360  JJ      other                    A6.1- 
+0000022 361  .       .                        
+0000023 001  -----   -----                    
+0000024 010  AT      The                      Z5 
+0000024 020  JJ      front                    H2[i12.2.1 M6 A11.1+ 
+0000024 030  NN1     door                     H2[i12.2.2 H2 H1@ 
+0000024 040  IO      of                       Z5 
+0000024 050  AT      the                      Z5 
+0000024 060  NN1     box                      O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ 
+0000024 070  VBDZ    was                      Z5 A3+ 
+0000024 080  RT      then                     N4 Z5 T1.2 
+0000024 090  VVN     opened                   A1.1.1 T2+ 
+0000024 091  ,       ,                        
+0000024 100  VVG     releasing                A1.7- A9- 
+0000024 110  AT      the                      Z5 
+0000024 120  NN1     chick                    L2mfn S2.1f 
+0000024 130  II      into                     Z5 
+0000024 140  AT      the                      Z5 
+0000024 150  JJ      tiny                     N3.2- 
+0000024 160  NN1     arena                    K5.1/H1 K1/H1 M7 X4.1 
+0000024 161  ,       ,                        
+0000024 170  CS@     so                       Z5 
+0000024 180  PPH1    it                       Z8 
+0000024 190  VM      could                    A7+ 
+0000024 200  VVI     walk                     M1[i13.2.1 M2[i13.2.1 M1 L2 X9.2+/A12+ 
+0000024 210  RP      around                   M1[i13.2.2 M2[i13.2.2 M6 
+0000024 220  CC      and                      Z5 
+0000024 230  VVI     select                   X7+ 
+0000024 240  AT1     a                        Z5 
+0000024 250  NN1     screen                   Y2 Q4.3 H5 A10- 
+0000024 260  TO      to                       Z5 
+0000024 270  VVI     look                     A8 X3.4 X2.4 X7+ Z4 
+0000024 280  RL@     behind                   M6 A6.1- 
+0000024 281  .       .                        
+0000025 001  -----   -----                    
+0000026 010  VV0     Chick                    L2mfn S2.1f 
+0000026 020  CC      and                      Z5 
+0000026 030  JJR     kinder                   S1.2/S8++ S1.2.2-- 
+0000026 040  NN1     ball                     O2/O4.4 K5.1 B1 K1 
+0000027 010  PPHS2   They                     Z8mfn 
+0000027 020  VVD     chose                    X7+ 
+0000027 030  RR      correctly                A5.3+ 
+0000027 031  -       -                        
+0000027 040  VVG     adding                   N2[i14.2.1 A2.2[i14.2.1 X2.5+[i14.2.1 N5+/A2.1 N2 A1.8+ 
+0000027 050  RP      up                       N2[i14.2.2 A2.2[i14.2.2 X2.5+[i14.2.2 
+0000027 060  AT      the                      Z5 
+0000027 070  NN2     numbers                  N5 N1 Q1.3 K2 Q4.2 
+0000027 080  VVN     based                    A2.2[i15.2.1 T2+ M6 A2.2 
+0000027 090  II      on                       A2.2[i15.2.2 Z5 
+0000027 100  NN2     groups                   S5+ A4.1 B3% 
+0000027 110  IO      of                       Z5 
+0000027 120  NN2     objects                  O2 X7+ 
+0000027 130  PPHS2   they                     Z8mfn 
+0000027 140  VM      could                    A7+ 
+0000027 141  XX      n't                      Z6 
+0000027 150  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000027 160  II      at                       Z5 
+0000027 170  DD1     that                     Z5 Z8 
+0000027 180  NN1     moment                   T1.2 T1.1.2 N3 
+0000028 010  NP1     Lucia                    Z1mf[i16.2.1 Z3c[i16.2.1 Z1f 
+0000028 020  NP1     Regolin                  Z1mf[i16.2.2 Z3c[i16.2.2 Z3c[i17.2.1 
+0000029 010  NN1     University               Z3c[i18.3.1 P1/H1c Z3c[i17.2.2 
+0000029 020  IO      of                       Z3c[i18.3.2 Z5 
+0000029 030  NP1     Padova                   Z3c[i18.3.3 
+0000031 001  NULL    <quote>                  
+0000031 002  -----   -----                    
+0000031 003  "       "                        
+0000031 010  AT      The                      Z5 
+0000031 020  NN2     chicks                   L2mfn S2.1f 
+0000031 030  RR      still                    T2++ Z4 E3+ 
+0000031 040  VVD     approached               M1 A1.1.1 Q2.2 
+0000031 050  AT      the                      Z5 
+0000031 060  JJR     larger                   N3.2++ N5++ A11.1++ 
+0000031 070  IO      of                       Z5 
+0000031 080  AT      the                      Z5 
+0000031 090  MC      two                      N1 T3 T1.2 
+0000031 100  NN2     groups                   S5+ A4.1 B3% 
+0000031 110  MD      first                    N4 
+0000031 111  ,       ,                        
+0000031 120  CS21    even                     Z5[i19.2.1 
+0000031 130  CS22    though                   Z5[i19.2.2 Z5 
+0000031 140  PPHS2   they                     Z8mfn 
+0000031 150  VHD     had                      S6+[i20.2.1 A9+ Z5 A2.2 S4 
+0000031 160  TO      to                       S6+[i20.2.2 Z5 
+0000031 170  VVI     rely                     S7.1- 
+0000031 180  II      on                       Z5 
+0000031 190  NN1     memory                   X2 X2.2+ S7.2+ Y2 
+0000031 200  TO@     to                       Z5 
+0000031 210  VVI     work                     N2[i21.2.1 X9.2+[i21.2.1 X2.5+[i21.2.1 A1.1.1[i21.2.1 K5.1[i21.2.1 X2.1[i21.2.1 I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000031 220  RP      out                      N2[i21.2.2 X9.2+[i21.2.2 X2.5+[i21.2.2 A1.1.1[i21.2.2 K5.1[i21.2.2 X2.1[i21.2.2 M6 
+0000031 230  DDQ     which                    Z8 Z5 
+0000031 240  VV0@    screen                   A10- Q4.3 X2.4 B3 
+0000031 250  TO      to                       Z5 
+0000031 260  VVI     choose                   X7+ 
+0000031 261  ,       ,                        
+0000031 262  "       "                        
+0000031 263  NULL    </quote>                 
+0000031 264  -----   -----                    
+0000031 270  VVD     said                     Q2.1 
+0000031 280  NNB     Professor                P1/S2mf 
+0000031 290  NP1     Regolin                  Z99 
+0000031 291  .       .                        
+0000032 001  -----   -----                    
+0000033 010  VVG     Swapping                 S1.1.2+ A2.1+ 
+0000033 020  AT      the                      Z5 
+0000033 030  NN2     objects                  O2 X7+ 
+0000033 040  II      from                     Z5 
+0000033 050  MC1     one                      N1 T3 T1.2 
+0000033 060  NN1     screen                   Y2 Q4.3 H5 A10- 
+0000033 070  II      to                       Z5 
+0000033 080  DD1     another                  A6.1- N5++ 
+0000033 090  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000033 091  XX      n't                      Z6 
+0000033 100  VVI     fool                     G2.2- E4.1+ 
+0000033 110  AT      the                      Z5 
+0000033 120  JJ      maths-performing         Z99 
+0000033 130  NN2     chicks                   L2mfn S2.1f 
+0000033 131  .       .                        
+0000035 001  NULL    <quote>                  
+0000035 002  -----   -----                    
+0000035 003  "       "                        
+0000035 010  II      In                       Z5 
+0000035 020  AT1     a                        Z5 
+0000035 030  JJR@    further                  N5++ N3.3++ T2++ 
+0000035 040  NN1     experiment               Y1 X2.4 
+0000035 041  ,       ,                        
+0000035 050  CS@     once                     Z5 
+0000035 060  PPIS2   we                       Z8 
+0000035 070  VHD     had                      Z5 A9+ A2.2 S4 
+0000035 080  VVN     hidden                   A10- 
+0000035 090  AT      the                      Z5 
+0000035 100  NN2     balls                    O2/O4.4 K5.1 B1 K1 
+0000035 110  II      behind                   Z5 
+0000035 120  DD1     each                     N5.1+ 
+0000035 130  NN1     screen                   Y2 Q4.3 H5 A10- 
+0000035 131  ,       ,                        
+0000035 140  PPIS2   we                       Z8 
+0000035 150  VVD@    transferred              M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5 
+0000035 160  DD      some                     N5 Z5 
+0000035 170  IO      of                       Z5 
+0000035 180  PPHO2   them                     Z8mfn 
+0000035 190  II      from                     Z5 
+0000035 200  PN1     one                      Z8 
+0000035 210  II      to                       Z5 
+0000035 220  AT      the                      Z5 
+0000035 230  JJ      other                    A6.1- 
+0000035 231  ,       ,                        
+0000035 232  "       "                        
+0000035 233  NULL    </quote>                 
+0000035 234  -----   -----                    
+0000035 240  NNB     Professor                P1/S2mf 
+0000035 250  NP1     Regolin                  Z99 
+0000035 260  VVD     explained                Q2.2/A7+ A2.2 
+0000035 261  .       .                        
+0000036 001  -----   -----                    
+0000037 010  AT      The                      Z3c[i22.2.1 Z5 
+0000037 020  NN2     birds                    Z3c[i22.2.2 L2mfn S2.1f 
+0000037 021  ,       ,                        
+0000037 030  PPHS1   she                      Z8f 
+0000037 040  VVD     said                     Q2.1 
+0000037 041  ,       ,                        
+0000037 050  VBDR    were                     A3+ Z5 
+0000037 060  JK      able                     X9.1+ 
+0000037 070  TO      to                       Z5 
+0000037 071  NULL    <quote>                  
+0000037 072  -----   -----                    
+0000037 073  "       "                        
+0000037 080  VV0     count                    N2 A11.1+ 
+0000037 081  "       "                        
+0000037 082  NULL    </quote>                 
+0000037 083  -----   -----                    
+0000037 090  AT      the                      Z5 
+0000037 100  NN2     balls                    O2/O4.4 K5.1 B1 K1 
+0000037 110  CST     that                     Z8 Z5 
+0000037 120  VBDR    were                     Z5 A3+ 
+0000037 130  VVN     moved                    M2 M1 A2.1+ E1 H4/A2.1 
+0000037 140  TO@     to                       Z5 
+0000037 150  VVI     work                     N2[i23.2.1 X9.2+[i23.2.1 X2.5+[i23.2.1 A1.1.1[i23.2.1 K5.1[i23.2.1 X2.1[i23.2.1 I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000037 160  RP      out                      N2[i23.2.2 X9.2+[i23.2.2 X2.5+[i23.2.2 A1.1.1[i23.2.2 K5.1[i23.2.2 X2.1[i23.2.2 M6 
+0000037 170  DDQ     which                    Z5 Z8 
+0000037 180  NN1     screen                   Y2 Q4.3 H5 A10- 
+0000037 190  VVD     hid                      M7/A10- B1 O2 A10- 
+0000037 200  AT      the                      Z5 
+0000037 210  JJR     larger                   N3.2++ N5++ A11.1++ 
+0000037 220  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
+0000037 230  II      at                       Z5 
+0000037 240  AT      the                      Z5 
+0000037 250  NN1     end                      M6 T2- O2 X7+ N4 
+0000037 260  IO      of                       Z5 
+0000037 270  AT      the                      Z5 
+0000037 280  NN1     transfer                 M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5 C1 
+0000037 281  .       .                        
+0000039 001  NULL    <quote>                  
+0000039 002  -----   -----                    
+0000039 003  "       "                        
+0000039 010  PPHS2   They                     Z8mfn 
+0000039 020  RR      still                    T2++ Z4 E3+ 
+0000039 030  VVD     chose                    X7+ 
+0000039 040  RR      correctly                A5.3+ 
+0000039 041  -       -                        
+0000039 050  VVG     adding                   N2[i24.2.1 A2.2[i24.2.1 X2.5+[i24.2.1 N5+/A2.1 N2 A1.8+ 
+0000039 060  RP      up                       N2[i24.2.2 A2.2[i24.2.2 X2.5+[i24.2.2 
+0000039 070  AT      the                      Z5 
+0000039 080  NN2     numbers                  N5 N1 Q1.3 K2 Q4.2 
+0000039 090  VVN     based                    A2.2[i25.2.1 T2+ M6 A2.2 
+0000039 100  II      on                       A2.2[i25.2.2 Z5 
+0000039 110  NN2     groups                   S5+ A4.1 B3% 
+0000039 120  IO      of                       Z5 
+0000039 130  NN2     objects                  O2 X7+ 
+0000039 140  PPHS2   they                     Z8mfn 
+0000039 150  VM      could                    A7+ 
+0000039 151  XX      n't                      Z6 
+0000039 160  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000039 170  II      at                       Z5 
+0000039 180  DD1     that                     Z5 Z8 
+0000039 190  NN1     moment                   T1.2 T1.1.2 N3 
+0000039 191  .       .                        
+0000039 192  "       "                        
+0000039 193  NULL    </quote>                 
+0000039 194  -----   -----                    
+0000041 010  PPH1    It                       Z8 
+0000041 020  VBZ     is                       Z5 A3+ 
+0000041 030  RR      already                  T1.1.1 
+0000041 040  VVN     known                    X2.2+ S3.2/B1% 
+0000041 050  CST     that                     Z5 Z8 
+0000041 060  DA2     many                     N5+ 
+0000041 070  JJ      non-human                Z99 
+0000041 080  NN2     primates                 L2mfn S9/S2mf 
+0000041 090  CC      and                      Z5 
+0000041 100  NN2     monkeys                  L2mfn 
+0000041 110  VM      can                      A7+ 
+0000041 120  VVI     count                    N2 A11.1+ 
+0000041 121  ,       ,                        
+0000041 130  CC      and                      Z5 
+0000041 140  RR      even                     A13.1 
+0000041 150  JJ      domestic                 H4 S4 E3+/L2 M6 
+0000041 160  NN2     dogs                     L2mfn 
+0000041 170  VH0     have                     Z5 A9+ A2.2 S4 
+0000041 180  VBN     been                     Z5 A3+ 
+0000041 190  VVN     found                    A10+ X2.1 X6+.1 
+0000041 200  TO      to                       Z5 
+0000041 210  VBI     be                       A3+ Z5 
+0000041 220  JJ      capable                  X9.1+ 
+0000041 230  IO      of                       Z5 
+0000041 240  JJ      simple                   A12+ A6.2+ O4.1 X9.1- 
+0000041 250  NN2     additions                N5++ 
+0000041 251  .       .                        
+0000042 001  -----   -----                    
+0000043 010  CCB     But                      Z5 
+0000043 020  DD1     this                     Z8 M6 Z5 
+0000043 030  VBZ     is                       A3+ Z5 
+0000043 040  AT      the                      Z5 
+0000043 050  MD      first                    N4 
+0000043 060  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000043 070  AT      the                      Z5 
+0000043 080  NN1     ability                  X9.1+ 
+0000043 090  VHZ     has                      Z5 A9+ A2.2 S4 
+0000043 100  VBN     been                     Z5 A3+ 
+0000043 110  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000043 120  II      in                       Z5 
+0000043 130  DA      such                     Z5 Z8 
+0000043 140  JJ      young                    T3- 
+0000043 150  NN2     animals                  L2mfn S5+c O2c 
+0000043 151  ,       ,                        
+0000043 160  CC      and                      Z5 
+0000043 170  IW      with                     Z5 
+0000043 180  AT      no                       Z6 
+0000043 190  JJ      prior                    N4/T1.1.1 A11.1+ 
+0000043 200  NN1     training                 P1 K5.1 
+0000043 201  .       .                        
+0000046 001  NULL    **8;7;text               

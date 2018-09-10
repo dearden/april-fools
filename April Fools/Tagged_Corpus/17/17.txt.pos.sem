@@ -1,0 +1,336 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     US                       Z8 
+0000002 020  NNB     President                G1.1/S7.1+/S2mf 
+0000002 030  NP1     George                   Z1mf[i2.3.1 Z3c[i2.3.1 Z1m Z1mf[i1.2.1 Z3c[i1.2.1 
+0000002 040  NP1     W.                       Z1mf[i2.3.2 Z3c[i2.3.2 Z1mf[i1.2.2 Z3c[i1.2.2 Z1mf[i3.2.1 Z3c[i3.2.1 
+0000002 050  NP1     Bush                     Z3c[i2.3.3 Z1mf[i2.3.3 Z3c Z1mf Z1mf[i3.2.2 Z3c[i3.2.2 
+0000002 060  VVD     declared                 Q2.2 K5.1% 
+0000002 070  RT      today                    T1.1.2 
+0000002 080  CST     that                     Z8 Z5 
+0000002 090  PPHS1   he                       Z8m 
+0000002 100  VHD     had                      Z5 A9+ A2.2 S4 
+0000002 110  VVN     signed                   Q1.2 Q1.1 G2.1 I3.1 S9 
+0000002 120  AT1     a                        Z5 
+0000002 130  JJ      rare                     N6- A6.2- A5.1+ F1 
+0000002 140  JJ      Presidential             G1.1/S7.1+ 
+0000002 150  NN1     Decree                   Q2.2 G2.1 
+0000002 160  VVG     canceling                T2- 
+0000002 170  DD      any                      N5.1+ N5 
+0000002 180  JJR@    further                  N5++ N3.3++ T2++ 
+0000002 190  NN1     expenditure              I1.2 
+0000002 200  IO      of                       Z5 
+0000002 210  JJ      Federal                  S5+ 
+0000002 220  NN2     funds                    I1.1 N5+ 
+0000002 230  II      on                       Z5 
+0000002 240  AT      the                      Z5 
+0000002 250  NP1     US                       Z8 
+0000002 260  NN1     Space                    N3.6 W1 T1.3 Q1.2 
+0000002 270  NN1     Shuttle                  M3fn M5fn O2 
+0000002 280  NN1     program                  Y2 X7+ Q4.3 Q1.2 P1 
+0000002 281  .       .                        
+0000004 001  NULL    <quote>                  
+0000004 002  -----   -----                    
+0000004 003  "       "                        
+0000004 010  PPIS2   We                       Z8 
+0000004 020  VM      can                      A7+ 
+0000004 021  XX      not                      Z6 
+0000004 030  VVI     find                     A10+ X2.1 X6+ 
+0000004 040  DD      any                      N5.1+ N5 
+0000004 050  NN1     justification            G2.2+ A2.2 O4.1 
+0000004 060  TO      to                       Z5 
+0000004 070  VVI     continue                 T2++ 
+0000004 080  AT      the                      Z5 
+0000004 090  NN1     deficit                  N5- B2- 
+0000004 100  NN1     funding                  I1.1 
+0000004 110  IO      of                       Z5 
+0000004 120  AT1     a                        Z5 
+0000004 130  NN1     program                  Y2 X7+ Q4.3 Q1.2 P1 
+0000004 140  CST     that                     Z8 Z5 
+0000004 150  VHZ     has                      A9+ Z5 A2.2 S4 
+0000004 160  AT      no                       Z6 
+0000004 170  NN1     application              Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000004 180  NN1@    other                    A6.1-/Z8 
+0000004 190  CST     that                     Z8 Z5 
+0000004 200  VVG     proving                  A5.2+ X2.4 
+0000004 210  DD1     that                     Z8 Z5 
+0000004 220  IW      with                     Z5 
+0000004 230  DD      enough                   N5+ N6+ 
+0000004 240  NN1     money                    I1 
+0000004 250  NP1     America                  Z2 
+0000004 260  VM      can                      A7+ 
+0000004 270  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000004 280  PN1     anything                 Z8 
+0000004 281  ,       ,                        
+0000004 282  "       "                        
+0000004 283  NULL    </quote>                 
+0000004 284  -----   -----                    
+0000004 290  VVD     said                     Q2.1 
+0000004 300  NP1     Bush                     Z3c Z1mf 
+0000004 301  .       .                        
+0000006 001  NULL    <quote>                  
+0000006 002  -----   -----                    
+0000006 003  "       "                        
+0000006 010  AT      The                      Z5 
+0000006 020  JJ      whole                    N5.1+ 
+0000006 030  NN1     world                    W1 S5+c A4.1 N5+ 
+0000006 040  VVZ     knows                    X2.2+ S3.2/B1% 
+0000006 050  CST     that                     Z8 Z5 
+0000006 060  RR      already                  T1.1.1 
+0000006 061  ,       ,                        
+0000006 070  RR      so                       Z5 A13.3 
+0000006 080  RRQ     why                      A2.2 
+0000006 090  VVI     keep                     A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000006 100  NN1     spending                 I1.1[i5.2.1 I1.2 A1.5.1 T1.3 I1[i4.2.1 
+0000006 110  NN1     money                    I1.1[i5.2.2 I1 I1[i4.2.2 
+0000006 120  II      on                       Z5 
+0000006 130  PPH1    it                       Z8 
+0000006 131  ,       ,                        
+0000006 132  "       "                        
+0000006 133  NULL    </quote>                 
+0000006 134  -----   -----                    
+0000006 140  PPHS1   he                       Z8m 
+0000006 150  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000006 151  .       .                        
+0000007 001  -----   -----                    
+0000008 010  AT      The                      Z5 
+0000008 020  NN1     announcement             Q2.2 
+0000008 030  VBDZ    was                      Z5 A3+ 
+0000008 040  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000008 050  II      during                   Z5 
+0000008 060  AT1     an                       Z5 
+0000008 070  RR      even                     A13.1 
+0000008 080  JJR     rarer                    N6- A6.2- A5.1+ F1 
+0000008 090  NN1     press                    Q4.2/S1.1.3+c[i6.2.1 
+0000008 100  NN1     conference               Q4.2/S1.1.3+c[i6.2.2 S1.1.3+ 
+0000008 110  IW      with                     Z5 
+0000008 120  AT      the                      Z5 
+0000008 130  NP1     Whitehouse               Z1mf 
+0000008 140  NN1     press                    Z3c[i7.2.1 
+0000008 150  NN      corps                    Z3c[i7.2.2 G3/S5+c S5+c 
+0000008 151  ,       ,                        
+0000008 160  II      at                       Z5 
+0000008 170  DDQ     which                    Z8 Z5 
+0000008 180  AT      the                      Z5 
+0000008 190  NN1     President                G1.1/S7.1+/S2mf 
+0000008 200  VVD     started                  T2+ E5- E3- 
+0000008 210  NN2     proceedings              A1.1.1 T2++ M1 
+0000008 220  II      by                       Z5 
+0000008 230  VVG     handing                  A9-[i8.2.1 Q1.2[i8.2.1 A9- 
+0000008 240  RP      out                      A9-[i8.2.2 Q1.2[i8.2.2 M6 
+0000008 250  NNT1    Easter                   F1[i9.2.1 S9/T1.3 
+0000008 260  NN2     Eggs                     F1[i9.2.2 L2 F1 
+0000008 261  ,       ,                        
+0000008 270  VVG     quipping                 E4.1+ 
+0000008 271  ,       ,                        
+0000008 272  NULL    <quote>                  
+0000008 273  -----   -----                    
+0000008 274  "       "                        
+0000008 280  PPH1    it                       Z8 
+0000008 290  VM      might                    A7+ 
+0000008 300  VBI     be                       A3+ Z5 
+0000008 310  RR      politically              G1.2 
+0000008 320  JJ      incorrect                A5.3- S1.2.4- 
+0000008 330  II      to                       A9+[i10.2.1 Z5 
+0000008 340  NN1     hand                     A9+[i10.2.2 B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000008 350  DD2     these                    Z8 Z5 
+0000008 360  RP      out                      M6 
+0000008 361  ,       ,                        
+0000008 370  CCB     but                      Z5 
+0000008 380  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000008 381  XX      n't                      Z6 
+0000008 390  VVI     worry                    E6- 
+0000008 400  PPIS2   we                       Z8 
+0000008 410  VVD     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000008 420  PPHO2   them                     Z8mfn 
+0000008 430  II      on                       Z5 
+0000008 440  NN1     discount                 I1.3- 
+0000008 450  II      at                       Z5 
+0000008 460  AT1     a                        Z5 
+0000008 470  NP1     Wal-Mart                 Z3c 
+0000008 480  NN1     sale                     I2.2 I2.2/I1.3- 
+0000008 490  CS@     so                       Z5 
+0000008 500  PPHS2   they                     Z8mfn 
+0000008 510  VBR     are                      A3+ Z5 
+0000008 511  XX      n't                      Z6 
+0000008 520  RR      really                   A13.3 A5.2+ 
+0000008 530  JJ      religious                S9 
+0000008 540  NN2     items                    O2 Q4 X4.1 
+0000008 550  RR      anymore                  Z5 
+0000008 551  .       .                        
+0000008 552  "       "                        
+0000008 553  NULL    </quote>                 
+0000008 554  -----   -----                    
+0000010 010  IW      With                     Z5 
+0000010 020  AT      the                      Z5 
+0000010 030  NN1     press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
+0000010 040  VVD     left                     M1 M2 A1.1.1 A1.9 A9- T2- 
+0000010 050  VVG     looking                  A6.1+[i11.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000010 060  II      like                     A6.1+[i11.2.2 Z5 
+0000010 070  JJ      stunned                  E5- 
+0000010 080  NN2     bunnies                  L2mfn 
+0000010 081  ,       ,                        
+0000010 090  AT      the                      Z5 
+0000010 100  NN1     President                G1.1/S7.1+/S2mf 
+0000010 110  VVD     took                     E2+[i12.2.1 A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ E2+[i13.2.1 T2+[i13.2.1 
+0000010 120  II      to                       E2+[i12.2.2 Z5 E2+[i13.2.2 T2+[i13.2.2 
+0000010 130  AT      the                      Z5 
+0000010 140  NN1     podium                   O2 
+0000010 150  II      before                   Z5 
+0000010 160  VVG     dropping                 M2 M1 N5-/A2.1 O1.2/M1 B2- T2- A9- A1.8- X9.2-/K5 X3.2 
+0000010 170  RT      today                    T1.1.2 
+0000010 171  GE      's                       Z5 
+0000010 180  NN1     bombshell                E5- 
+0000010 190  CST     that                     Z5 Z8 
+0000010 200  JJ      Congressional            G1.1 
+0000010 210  NN1     supporter                S8+/S2mf K5.1/S2mf Q1.1% 
+0000010 211  VBZ     's                       A3+ Z5 
+0000010 220  IO      of                       Z5 
+0000010 230  AT      the                      Z5 
+0000010 240  NN1     Space                    N3.6 W1 T1.3 Q1.2 
+0000010 250  NN1     Shuttle                  M3fn M5fn O2 
+0000010 260  VH0     have                     Z5 A9+ A2.2 S4 
+0000010 270  VVN     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000010 280  RR      SpaceDaily               Z99 
+0000010 281  ,       ,                        
+0000010 282  NULL    <quote>                  
+0000010 283  -----   -----                    
+0000010 284  "       "                        
+0000010 290  VM      will                     T1.1.3 
+0000010 300  VVI     cost                     I1.3 I1.2 
+0000010 310  NNO2    thousands                N1 N5+ I1 
+0000010 320  IO      of                       Z5 
+0000010 330  NN2     jobs                     I3.1 A1.1.1 
+0000010 331  ,       ,                        
+0000010 340  CC      and                      Z5 
+0000010 350  VVI     leave                    M1 M2 A1.1.1 A1.9 A9- T2- 
+0000010 360  NN1     school                   P1/S2mf[i14.2.1 P1/H1c S5+c L2%c 
+0000010 370  NN2     children                 P1/S2mf[i14.2.2 S2mf/T3- S4mf 
+0000010 380  VVN     confused                 X2.5- 
+0000010 390  II21    as                       Z5[i15.2.1 Z5 
+0000010 400  II22    to                       Z5[i15.2.2 Z5 
+0000010 410  DDQ     what                     Z5 Z8 
+0000010 420  NP1     America                  Z2 
+0000010 430  VM      can                      A7+ 
+0000010 440  RR      actually                 A5.4+ A14 
+0000010 450  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000010 460  II      in                       Z5 
+0000010 470  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000010 480  RR      anymore                  Z5 
+0000010 481  .       .                        
+0000010 482  "       "                        
+0000010 483  NULL    </quote>                 
+0000010 484  -----   -----                    
+0000012 010  II      During                   Z5 
+0000012 020  AT      the                      Z5 
+0000012 030  NN1     press                    Q4.2/S1.1.3+c[i16.2.1 
+0000012 040  NN1     conference               Q4.2/S1.1.3+c[i16.2.2 S1.1.3+ 
+0000012 050  NP1     Bush                     Z3c Z1mf 
+0000012 060  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000012 070  NN2     reporters                Q4.2/S2mf 
+0000012 071  ,       ,                        
+0000012 072  NULL    <quote>                  
+0000012 073  -----   -----                    
+0000012 074  "       "                        
+0000012 080  PPIS1   I                        Z8mf 
+0000012 090  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000012 091  XX      n't                      Z6 
+0000012 100  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
+0000012 110  TO      to                       Z5 
+0000012 120  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000012 130  DD1     another                  A6.1- N5++ 
+0000012 140  NP1     NASA                     Z1 
+0000012 150  NN1     administrator            S7.1+/S2mf 
+0000012 151  -       -                        
+0000012 160  VVN     appointed                S7.1+ 
+0000012 170  II      on                       Z5 
+0000012 180  APPGE   my                       Z8 
+0000012 190  NN1     watch                    T1/O2 M4 
+0000012 191  -       -                        
+0000012 200  VVD     left                     M1 M2 A1.1.1 A1.9 A9- T2- 
+0000012 210  TO      to                       Z5 
+0000012 220  VVI     justify                  G2.2+ A2.2 O4.1 
+0000012 230  AT1     a                        Z5 
+0000012 240  NN1     program                  Y2 X7+ Q4.3 Q1.2 P1 
+0000012 250  II      to                       Z5 
+0000012 260  NN1     Congress                 Z3c 
+0000012 270  VVN     based                    A2.2[i17.2.1 T2+ M6 A2.2 
+0000012 280  II      on                       A2.2[i17.2.2 Z5 
+0000012 290  NN2     lies                     A5.2- 
+0000012 291  ,       ,                        
+0000012 300  NN1     dis-information          Z99 
+0000012 301  ,       ,                        
+0000012 310  NN2     half-truths              A5.2- 
+0000012 320  CC      and                      Z5 
+0000012 330  VVD     sexed                    L2 
+0000012 340  RP      up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
+0000012 350  NN2     reports                  Q2.2 X3.2 
+0000012 351  .       .                        
+0000012 352  "       "                        
+0000012 353  NULL    </quote>                 
+0000012 354  -----   -----                    
+0000014 010  II      During                   Z5 
+0000014 020  AT1     a                        Z5 
+0000014 030  JJ      brief                    T1.3- N3.7-% 
+0000014 040  JJ      two-minute               T1.3 
+0000014 050  NN1     period                   T1.3 B1 Q3 P1/T1.3 
+0000014 060  VVN     provided                 S7.4+[i18.2.1 A9- S6+ 
+0000014 070  IF      for                      S7.4+[i18.2.2 Z5 
+0000014 080  NN2     questions                Q2.2 X4.1 
+0000014 090  II      from                     Z5 
+0000014 100  AT      the                      Z5 
+0000014 110  NN1     press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
+0000014 111  ,       ,                        
+0000014 120  AT      the                      Z5 
+0000014 130  MD      first                    N4 
+0000014 140  NN1     reporter                 Q4.2/S2mf 
+0000014 150  VVD     asked                    Q2.2 
+0000014 160  CS      if                       Z7 
+0000014 170  DD1     this                     Z8 M6 Z5 
+0000014 180  VVD     meant                    Q1.1 X7+ 
+0000014 190  AT      the                      Z5 
+0000014 200  NN1     Space                    Y1/W1c[i19.2.1 N3.6 W1 T1.3 Q1.2 
+0000014 210  NN1     Station                  Y1/W1c[i19.2.2 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
+0000014 220  VBDZ    was                      Z5 A3+ 
+0000014 230  RR      also                     N5++ 
+0000014 240  VBG     being                    Z5 A3+ 
+0000014 250  VVN     shut                     T2-[i20.2.1 A10- 
+0000014 260  RP      down                     T2-[i20.2.2 
+0000014 261  .       .                        
+0000014 262  -----   -----                    
+0000014 270  II      To                       Z5 
+0000014 280  DDQ     which                    Z8 Z5 
+0000014 290  AT      the                      Z5 
+0000014 300  NN1     President                G1.1/S7.1+/S2mf 
+0000014 310  VVD     answered                 Q2.2 S1.1.1 
+0000014 311  ,       ,                        
+0000014 312  NULL    <quote>                  
+0000014 313  -----   -----                    
+0000014 314  "       "                        
+0000014 320  PPIS2   we                       Z8 
+0000014 330  VV0     plan                     X7+ 
+0000014 340  TO      to                       Z5 
+0000014 350  RR      either                   Z5 
+0000014 360  VVI     hold                     M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+ 
+0000014 370  AT1     an                       Z5 
+0000014 380  NN1     auction                  I2.2 
+0000014 390  II      on                       Z5 
+0000014 400  NP1     Ebay                     Z3c 
+0000014 410  CC      or                       Z5 
+0000014 420  VV0     give                     A9-[i21.2.1 A10+[i21.2.1 S4[i21.2.1 A9- A1.1.1 
+0000014 430  PPH1    it                       Z8 
+0000014 440  RL      away                     A9-[i21.2.2 A10+[i21.2.2 S4[i21.2.2 M6 A1.1.1% 
+0000014 450  II      to                       Z5 
+0000014 451  NULL    <quote>                  
+0000014 452  -----   -----                    
+0000014 453  "       "                        
+0000014 460  APPGE   our                      Z8 
+0000014 470  JJ      international            M7 
+0000014 480  NN2     partners                 S3.1/S2mf S3.2/S2mf S4mf 
+0000014 481  .       .                        
+0000014 482  "       "                        
+0000014 483  NULL    </quote>                 
+0000014 484  -----   -----                    
+0000014 485  "       "                        
+0000014 486  NULL    </quote>                 
+0000017 001  NULL    **8;7;text               

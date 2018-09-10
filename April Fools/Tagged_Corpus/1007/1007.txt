@@ -1,0 +1,63 @@
+The Web's wealth of information would lose some of its luster if you read it only one line at a time. Yet this is exactly how blind and other vision-impaired people today must experience the Web when they use electronic Braille displays connected to their computers.
+
+
+
+Braille displays use electromechanically controlled pins, as opposed to the lights in a conventional computer monitor, to convey information. Here is how: Software gathers a Web page's content from the computer's operating system, converts the words and images into a digital version of Braille and then represents that via a touchable row of finger-sized rectangular cells lined up side by side like dominoes. Each cell has six or eight small holes through which rounded pins can extend and retract with the help of piezoelectric ceramic actuators to represent various Braille characters. Each time a person reads the row of Braille with his fingers (left to right), the pin configurations refresh to represent the next line of a Web page's text, and so on.
+
+
+
+Breaking Braille barriers
+
+Efforts to improve Web pages translated into Braille have progressed slowly because of the cost and complexity of Braille displays, but a team of North Carolina State University researchers in Raleigh has taken the first steps toward developing a device that would allow the blind to take better advantage of the Web and other computer applications. Instead of presenting electronic content one line at a time, this display would translate words and images into tactile displays consisting of up to 25 rows, each with 40 cells side by side. Braille readers would have multiple lines of text and numbers at their fingertips, enabling them to backtrack and review content more easily. Another possibility might be to present in Braille equations and other information that take up more than one line at a time.
+
+
+
+ <quote> "It's difficult to achieve any spatial recognition with just a single line," </quote>  says Neil Di Spigna, a research assistant professor in N.C. State's Department of Electrical and Computer Engineering who is working on the project.
+
+
+
+The use of piezoelectric ceramic to make a Braille display with multiple rows would make already pricey displays even more expensive—low-end models with a single row already cost upwards of $1,000. In addition, the amount of energy needed to power multiple rows would make these displays bigger, heavier and less portable.
+
+
+
+Touch and go
+
+The N.C. State researchers are experimenting with two different approaches they hope will cut the costs and energy requirements of Braille displays in the future, and presented their latest research at the International Conference on Electroactive Polymer Actuators and Devices in San Diego last month.
+
+
+
+The first approach would rely on hydraulic pressure to raise and lower each of the pins in a cell. In this scenario, each pin would sit in a fluid-filled plastic case. A window would be cut into the case and covered with a polyvinylidene fluoride (PVDF) film. When electricity is applied to the cell the PVDF would bend in and squeeze the case through that window, raising the level of the fluid and the pin along with it. The researchers say they have demonstrated a proof-of-concept prototype that, when less than 1,000 volts were applied, got the case to contract and push a fluid consisting of deionized water and food dye up so that a pin would rise more than 0.5 millimeters—the standard height of a Braille dot—in less than 100 milliseconds (initial experiments have been done without a pin in the case).
+
+
+
+This is the kind of speed performance a Braille user would expect, says Peichun Yang, a postdoctoral research associate in N.C. State's Department of Electrical and Computer Engineering who is also working on the project. Yang, who is blind, adds that he and his colleagues, including project director Paul Franzon, have gotten the fluid to move in 30 milliseconds in some trials. Their next step is to create a latching mechanism within the case that would hold a pin in place until it needs to be lowered.
+
+
+
+The second approach being considered would place each pin in a cylindrical silicon tube that raises the pin up when the tube is filled with a conductive solution of calcium chloride and 8.75 kilovolts are applied.
+
+
+
+The standard piezoelectric approach to making a Braille display costs about $35 per cell, according to Yang, who adds that this cost needs to be brought down to $5 per cell for the displays to be affordable to a greater number of consumers. The researchers say that more widespread adoption of Braille displays will depend largely on cost, which was an important factor behind their research.
+
+
+
+Currently, Freedom Scientific, Inc., in Saint Petersburg, Fla., makes several different computer Braille displays whose cells are laid out in the standard single-row configuration. The company's portable PAC Mate Braille display is offered in a single row consisting of 20 or 40 cells, with displays costing about $1,600 and $3,600, respectively. Freedom Scientific's larger Focus displays include 40- and 80-cell single-row models, which cost about $3,900 and $7,800, respectively.
+
+
+
+Other approaches
+
+The National Institute of Standards and Technology (NIST) recognized the cost problem a decade ago, when an 80-cell Braille display cost about $15,000. Since then, NIST has for several years been working on a display with a much different design, putting the Braille text on the outside of a spinning cylinder like the tread on a tire (pdf). The actuators that move the pins in and out are located inside the cylinder. Instead of moving fingers over a motionless line of text, the NIST design has the user put one or more fingers against the wheel, with the Braille text moving underneath the finger, producing a sensation of motion, which the agency claimed provided stimulus for the sensors in the fingertips and allowed the user to construct a mental model of the geometric layout of the text. The user could also adjust the speed of the wheel's rotation.
+
+
+
+Speech synthesizer software that can read the contents of the Web or other computer text to the blind is an alternative and has the advantage of being easier to learn than Braille. Still, as NIST notes in its research, Braille has other advantages, enabling  <quote> "high-precision communication" </quote>  and the ability to read in noisy surroundings.
+
+
+
+Speech synthesizers do have a role in helping the blind experience the Web, Yang agrees, but the ability to read Braille is essential.  <quote> "Reading Braille is still very important for [blind people] who wish to work—90 percent of blind people who hold a job are able to read Braille," </quote>  he says, adding that synthesizer technology is one of the reasons why only 10 percent of blind children are learning to read Braille.
+
+
+
+N.C. State's work is still in its early days, so do not expect to see their Braille display technology at the local computer story in the immediate future. It could take the researchers as long as a year just to develop a reliable latching system to keep the pins in place. Only then would they be able to make an actual Braille display. After that, it could be at least four years to make a commercial product, Di Spigna says.

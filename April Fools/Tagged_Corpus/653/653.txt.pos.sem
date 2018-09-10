@@ -1,0 +1,714 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  APPGE   His                      Z8m 
+0000002 020  NN1     body                     B1 O2 S5+c O4.1 S2mf 
+0000002 030  VM      will                     T1.1.3 
+0000002 040  VVI     lie                      A5.2- M1 T2++ M6 A3+ 
+0000002 050  II      in                       Z5 
+0000002 060  NN1     state                    G1.1c O4.1 
+0000002 070  II      in                       Z5 
+0000002 080  NP1     St                       Z2[i4.2.1 Z3c[i4.2.1 Z2[i3.2.1 Z3c[i3.2.1 Z2[i2.2.1 Z3c[i2.2.1 Z1mf[i2.2.1 Z1mf[i1.2.1 Z3c[i1.2.1 
+0000002 090  NP1     Peter                    Z2[i4.2.2 Z3c[i4.2.2 Z2[i3.2.2 Z3c[i3.2.2 Z1m Z2[i2.2.2 Z3c[i2.2.2 Z1mf[i2.2.2 Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 091  GE      's                       Z5 
+0000002 100  NN1     Basilica                 S9/H1 
+0000002 110  II      from                     Z5 
+0000002 120  NPD1    Monday                   T1.3[i5.2.1 T1.3 
+0000002 130  NNT1    evening                  T1.3[i5.2.2 T1.3 
+0000002 140  II@     until                    Z5 
+0000002 150  NPD1    Friday                   T1.3[i6.2.1 T1.3 
+0000002 160  NNT1    morning                  T1.3[i6.2.2 T1.3 
+0000002 161  ,       ,                        
+0000002 170  IW      with                     Z5 
+0000002 180  AT      the                      Z5 
+0000002 190  NN1     church                   S9/H1c S9c 
+0000002 200  VVG     staying                  M8 T2++ H4 
+0000002 210  JJ      open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000002 220  JJ      late                     T4- L1- T1.1 
+0000002 230  II      into                     Z5 
+0000002 240  AT      the                      Z5 
+0000002 250  NNT1    night                    T1.3 
+0000002 251  .       .                        
+0000003 001  -----   -----                    
+0000004 010  NN2     Pilgrims                 S9/S2mf 
+0000004 020  VBR     are                      Z5 A3+ 
+0000004 030  VVG     massing                  N5+ 
+0000004 040  II      on                       Z5 
+0000004 050  NP1     St                       Z2[i10.2.1 Z3c[i10.2.1 Z2[i9.2.1 Z3c[i9.2.1 Z2[i8.2.1 Z3c[i8.2.1 Z1mf[i8.2.1 Z1mf[i7.2.1 Z3c[i7.2.1 
+0000004 060  NP1     Peter                    Z2[i10.2.2 Z3c[i10.2.2 Z2[i9.2.2 Z3c[i9.2.2 Z1m Z2[i8.2.2 Z3c[i8.2.2 Z1mf[i8.2.2 Z1mf[i7.2.2 Z3c[i7.2.2 
+0000004 061  GE      's                       Z5 
+0000004 070  NNL1    Square                   O4.4 M3/H3 T3+/S2mf N2 A6.1+ S7.4 
+0000004 080  TO      to                       Z5 
+0000004 090  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000004 100  AT      the                      Z5 
+0000004 110  NN1     body                     B1 O2 S5+c O4.1 S2mf 
+0000004 120  VVD     carried                  M2 A9+ Q4 S7.4+ B1% B2-% 
+0000004 130  RL@     across                   M6 
+0000004 140  II      in                       Z5 
+0000004 150  AT1     a                        Z5 
+0000004 160  NN1     procession               S1.1.1/M1 
+0000004 170  II      from                     Z5 
+0000004 180  AT1     a                        Z5 
+0000004 190  NP1     Vatican                  Z2[i11.2.1 Z3c[i11.2.1 Z2c 
+0000004 200  NN1     hall                     Z2[i11.2.2 Z3c[i11.2.2 H2 H1 S9/H1c 
+0000004 201  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NP1     Rome                     Z2 
+0000006 011  GE      's                       Z5 
+0000006 020  NN1     mayor                    G1.1/S2m S7.1+/S2m 
+0000006 030  VVD     said                     Q2.1 
+0000006 040  PPH1    it                       Z8 
+0000006 050  VM      would                    A7+ 
+0000006 051  NULL    <quote>                  
+0000006 052  -----   -----                    
+0000006 053  "       "                        
+0000006 060  VV0     grind                    T2-[i12.4.1 A1.1.1 X3.2 M2 F1 A1.1.1/O4.5 X8+ K1 
+0000006 070  II      to                       T2-[i12.4.2 Z5 
+0000006 080  AT1     a                        T2-[i12.4.3 Z5 
+0000006 090  NN1     halt                     T2-[i12.4.4 T2- M8 M7@ 
+0000006 091  "       "                        
+0000006 092  NULL    </quote>                 
+0000006 093  -----   -----                    
+0000006 100  IF      for                      Z5 
+0000006 110  AT      the                      Z5 
+0000006 120  NN1     funeral                  L1-/S1.1.1 
+0000006 130  IO      of                       Z5 
+0000006 140  AT      the                      Z5 
+0000006 150  NN1     Pope                     S7.1+/S9m 
+0000006 151  ,       ,                        
+0000006 160  PNQS    who                      Z8 
+0000006 170  VVD     died                     L1- T2- 
+0000006 180  II      on                       Z5 
+0000006 190  NPD1    Saturday                 T1.3 
+0000006 200  II      after                    Z5 
+0000006 210  AT1     a                        Z5 
+0000006 220  JJ      26-year                  Z99 
+0000006 230  NN1     reign                    S7.1+ 
+0000006 231  .       .                        
+0000008 001  NULL    <quote>                  
+0000008 002  -----   -----                    
+0000008 003  "       "                        
+0000008 010  PPH1    It                       Z8 
+0000008 020  VM      will                     T1.1.3 
+0000008 030  VBI     be                       A3+ Z5 
+0000008 040  AT1     a                        Z5 
+0000008 050  NN1     moment                   T1.2 T1.1.2 N3 
+0000008 060  IW      without                  Z5 
+0000008 070  NN1     precedent                A3+ 
+0000008 071  ,       ,                        
+0000008 072  "       "                        
+0000008 073  NULL    </quote>                 
+0000008 074  -----   -----                    
+0000008 080  NNB     Mayor                    G1.1/S2m S7.1+/S2m G1.1/S7.1+/S2mf Z1mf 
+0000008 090  NP1     Walter                   Z1mf[i13.2.1 Z3c[i13.2.1 Z1m 
+0000008 100  NP1     Veltroni                 Z1mf[i13.2.2 Z3c[i13.2.2 
+0000008 110  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000008 120  NP1     Repubblica               Z99 
+0000008 130  NN1     radio                    Q4.3 Q1.3 
+0000008 131  .       .                        
+0000009 001  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000010 030  IO      of                       Z5 
+0000010 040  NN2     mourners                 Z99 
+0000010 050  VVG     paying                   I1.2 A9- I1.1/I3.1 
+0000010 060  APPGE   their                    Z8 
+0000010 070  NN2     respects                 S7.2+ A4.1 
+0000010 080  VM      could                    A7+ 
+0000010 090  VVI     reach                    M1 N3.3 Q2.1 X9.2+ 
+0000010 100  MC      two                      N1[i14.2.1 T1.3[i14.2.1 I1[i14.2.1 N1 T3 T1.2 
+0000010 110  NNO     million                  N1[i14.2.2 T1.3[i14.2.2 I1[i14.2.2 N1 I1 
+0000010 111  .       .                        
+0000010 112  -----   -----                    
+0000010 120  NP1     St                       Z2[i18.2.1 Z3c[i18.2.1 Z2[i17.2.1 Z3c[i17.2.1 Z2[i16.2.1 Z3c[i16.2.1 Z1mf[i16.2.1 Z1mf[i15.2.1 Z3c[i15.2.1 
+0000010 130  NP1     Peter                    Z2[i18.2.2 Z3c[i18.2.2 Z2[i17.2.2 Z3c[i17.2.2 Z1m Z2[i16.2.2 Z3c[i16.2.2 Z1mf[i16.2.2 Z1mf[i15.2.2 Z3c[i15.2.2 
+0000010 131  GE      's                       Z5 
+0000010 140  NNL1    Square                   O4.4 M3/H3 T3+/S2mf N2 A6.1+ S7.4 
+0000010 150  VBZ     is                       Z5 A3+ 
+0000010 160  VVN     dotted                   M6 M2 Q1.2 
+0000010 170  IW      with                     Z5 
+0000010 180  JJ      impromptu                N3.8+ 
+0000010 190  NN2     memorials                H1 X2.2+ 
+0000010 200  IO      of                       Z5 
+0000010 210  NN2     flowers                  L3 
+0000010 220  CC      and                      Z5 
+0000010 230  NN2     candles                  O2/W2 
+0000010 231  ,       ,                        
+0000010 240  CS      while                    Z5 
+0000010 250  JJ@     handwritten              Q1.2 
+0000010 260  NN2     messages                 Q1.1 Q1.3/Y2 
+0000010 270  VBR     are                      Z5 A3+ 
+0000010 280  VVN     stuck                    M2 A1.1.1 A1.7+ T2- E2+ X2.2- 
+0000010 290  II      to                       Z5 
+0000010 300  NN1     street                   M3/H3 
+0000010 310  NN2     lamps                    O2/W2 O3 
+0000010 320  IW      with                     Z5 
+0000010 330  NN1     wax                      O1.1 
+0000010 331  .       .                        
+0000012 001  NULL    <quote>                  
+0000012 002  -----   -----                    
+0000012 003  "       "                        
+0000012 010  UH      Goodbye                  Z4 
+0000012 011  ,       ,                        
+0000012 020  NN1     father                   S4m S9/S2.2m 
+0000012 021  ,       ,                        
+0000012 030  NN1     hero                     Q4.1/S2.2m E5+/S2.2m E2+/S2.2m 
+0000012 031  ,       ,                        
+0000012 040  NN1     friend                   S3.1/S2mf 
+0000012 041  ,       ,                        
+0000012 042  "       "                        
+0000012 043  NULL    </quote>                 
+0000012 044  -----   -----                    
+0000012 050  VV0     read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000012 060  MC1     one                      N1 T3 T1.2 
+0000012 070  NN1     message                  Q1.1 Q1.3/Y2 
+0000012 071  .       .                        
+0000013 001  -----   -----                    
+0000014 010  DDQ     WHAT                     Z8 Z5 
+0000014 020  VVZ     HAPPENS                  A2.1+ A3+ X7- 
+0000014 030  MD      NEXT                     Z3c 
+0000014 040  NN1@    Lying                    M1 M6 A5.2- 
+0000014 050  II      in                       Z5 
+0000014 060  NN1     state                    G1.1c O4.1 
+0000014 070  II      from                     Z5 
+0000014 080  NPD1    Monday                   T1.3[i19.2.1 T1.3 
+0000014 090  NNT1    evening                  T1.3[i19.2.2 T1.3 
+0000014 100  NN1     Funeral                  L1-/S1.1.1 
+0000014 110  II      on                       Z5 
+0000014 120  NPD1    Friday                   T1.3 
+0000014 130  II      at                       Z5 
+0000014 140  MC      1000                     N1 T1.2 T3 T1.3 N3.2 
+0000014 141  (       (                        
+0000014 150  MC      0800                     N1 T1.2 T3 T1.3 N3.2 
+0000014 160  RA      GMT                      Z3/T1 
+0000014 161  )       )                        
+0000014 170  NN1     Election                 G1.2/X7+ 
+0000014 180  IO      of                       Z5 
+0000014 190  JJ      new                      T3- 
+0000014 200  NN1     Pope                     S7.1+/S9m 
+0000014 210  VVZ     begins                   T2+ 
+0000014 220  MCMC    15-20                    N1 T1.2 T3 T1.3 N3.2 
+0000014 230  NNT2    days                     T1.3 
+0000014 240  II      after                    Z5 
+0000014 250  NN1     death                    L1- 
+0000016 001  NULL    <quote>                  
+0000016 002  -----   -----                    
+0000016 003  "       "                        
+0000016 010  PPH1    It                       Z8 
+0000016 020  VVZ     scares                   E5- 
+0000016 030  PPIO1   me                       Z8mf 
+0000016 040  TO      to                       Z5 
+0000016 050  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000016 060  AT1     a                        Z5 
+0000016 070  JJ      dead                     L1- X5.2- A4.2+ A1.1.2 A1.1.1- E3+ B2- 
+0000016 080  NN1     body                     B1 O2 S5+c O4.1 S2mf 
+0000016 081  ,       ,                        
+0000016 090  CCB     but                      Z5 
+0000016 100  DD1     this                     Z8 M6 Z5 
+0000016 110  VBZ     is                       A3+ Z5 
+0000016 120  APPGE   our                      Z8 
+0000016 130  NN1     Pope                     S7.1+/S9m 
+0000016 140  CC      and                      Z5 
+0000016 150  PPIS1   I                        Z4[i20.4.1 Z8mf 
+0000016 160  VH0     have                     Z4[i20.4.2 A9+ Z5 A2.2 S4 S6+[i21.2.1 
+0000016 170  TO      to                       Z4[i20.4.3 Z5 S6+[i21.2.2 
+0000016 180  VVI     say                      Z4[i20.4.4 Q2.1 Z4% Q2.2[i22.2.1 A9-[i22.2.1 T2-[i22.2.1 
+0000016 190  UH      goodbye                  Z4 Q2.2[i22.2.2 A9-[i22.2.2 T2-[i22.2.2 
+0000016 191  ,       ,                        
+0000016 192  "       "                        
+0000016 193  NULL    </quote>                 
+0000016 194  -----   -----                    
+0000016 200  NN1     mourner                  Z99 
+0000016 210  NP1     Roberto                  Z1mf[i23.2.1 Z3c[i23.2.1 
+0000016 220  NP1     Comelli                  Z1mf[i23.2.2 Z3c[i23.2.2 
+0000016 230  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000016 240  NP1     Reuters                  Z3c 
+0000016 250  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000016 260  NN1     agency                   I2.2/S5+c G1.1c 
+0000016 261  ,       ,                        
+0000016 270  II      after                    Z5 
+0000016 280  VVG     spending                 I1.2 A1.5.1 T1.3 
+0000016 290  DB      all                      T1.3+[i24.2.1 N5.1+ 
+0000016 300  NNT1    night                    T1.3+[i24.2.2 T1.3 
+0000016 310  II      on                       Z5 
+0000016 320  AT      the                      Z5 
+0000016 330  JJ      square                   O4.4 
+0000016 340  TO      to                       Z5 
+0000016 350  VBI     be                       A3+ Z5 
+0000016 360  II      among                    Z5 
+0000016 370  AT      the                      Z5 
+0000016 380  MD      first                    N4 
+0000016 390  TO      to                       Z5 
+0000016 400  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000016 410  AT      the                      Z5 
+0000016 420  NN1     body                     B1 O2 S5+c O4.1 S2mf 
+0000016 421  .       .                        
+0000017 001  -----   -----                    
+0000018 010  AT      The                      Z5 
+0000018 020  NN1     funeral                  L1-/S1.1.1 
+0000018 021  ,       ,                        
+0000018 030  VVN     scheduled                X7+/T1 
+0000018 040  IF      for                      Z5 
+0000018 050  MC      1000                     N1 T1.2 T3 T1.3 N3.2 
+0000018 051  (       (                        
+0000018 060  MC      0800                     N1 T1.2 T3 T1.3 N3.2 
+0000018 070  RA      GMT                      Z3/T1 
+0000018 071  )       )                        
+0000018 072  ,       ,                        
+0000018 080  VBZ     is                       A3+ Z5 
+0000018 090  JJ      likely                   A7+ A1.2+ 
+0000018 100  TO      to                       Z5 
+0000018 110  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000018 120  MC1     one                      N1 T3 T1.2 
+0000018 130  IO      of                       Z5 
+0000018 140  AT      the                      Z5 
+0000018 150  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
+0000018 160  NN2     gatherings               S5+c A9+ N5+/A2.1 X2.5+ A1.1.1% 
+0000018 170  IO      of                       Z5 
+0000018 180  NN1     world                    W1 S5+c A4.1 N5+ 
+0000018 190  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000018 200  II      in                       Z5 
+0000018 210  JJ      recent                   T3- 
+0000018 220  NNT2    times                    T1 T1.2 T1.3 T1.1.2 N6 N1 
+0000018 221  .       .                        
+0000019 001  -----   -----                    
+0000020 010  NNB     Cardinal                 A11.1+ S9/S2.2m 
+0000020 020  NP1     Joseph                   Z1mf[i25.2.1 Z3c[i25.2.1 Z1m 
+0000020 030  NP1     Ratzinger                Z1mf[i25.2.2 Z3c[i25.2.2 
+0000020 031  ,       ,                        
+0000020 040  VVN     tipped                   M2 I1 
+0000020 050  II      by                       Z5 
+0000020 060  DD      some                     N5 Z5 
+0000020 070  II@     as                       Z5 
+0000020 080  APPGE   his                      Z8m 
+0000020 090  NN1     successor                N4/S2mf N4 
+0000020 091  ,       ,                        
+0000020 100  VM      will                     T1.1.3 
+0000020 110  VVI     preside                  S7.1+ 
+0000020 120  II      over                     Z5 
+0000020 130  AT      the                      Z5 
+0000020 140  JJ      open-air                 W1 
+0000020 150  NN2     ceremonies               S1.1.1 
+0000020 160  II      on                       Z5 
+0000020 170  AT      the                      Z5 
+0000020 180  NN2     steps                    M1 T1.2 H5 A1.1.1 K1@ 
+0000020 190  IO      of                       Z5 
+0000020 200  AT      the                      Z5 
+0000020 210  NN1     basilica                 S9/H1 
+0000020 211  .       .                        
+0000021 001  -----   -----                    
+0000022 010  NN1     Crypt                    H1/L1- 
+0000024 010  NP1     John                     Z1mf[i26.2.1 Z3c[i26.2.1 Z1m S9/O1.2 
+0000024 020  NP1     Paul                     Z1mf[i26.2.2 Z3c[i26.2.2 Z1m Z2[i27.2.1 Z1mf[i27.2.1 
+0000024 030  MC      II                       N1 Z2[i27.2.2 Z1mf[i27.2.2 
+0000024 040  VM      will                     T1.1.3 
+0000024 050  VBI     be                       Z5 A3+ 
+0000024 060  VVN     buried                   A10- L1- 
+0000024 070  II      in                       Z5 
+0000024 080  AT      the                      Z5 
+0000024 090  NN1     crypt                    H1/L1- 
+0000024 100  II      beneath                  Z5 
+0000024 110  NP1     St                       Z2[i31.2.1 Z3c[i31.2.1 Z2[i30.2.1 Z3c[i30.2.1 Z2[i29.2.1 Z3c[i29.2.1 Z1mf[i29.2.1 Z1mf[i28.2.1 Z3c[i28.2.1 
+0000024 120  NP1     Peter                    Z2[i31.2.2 Z3c[i31.2.2 Z2[i30.2.2 Z3c[i30.2.2 Z1m Z2[i29.2.2 Z3c[i29.2.2 Z1mf[i29.2.2 Z1mf[i28.2.2 Z3c[i28.2.2 
+0000024 121  GE      's                       Z5 
+0000024 130  NN1     Basilica                 S9/H1 
+0000024 140  RR      immediately              N3.8+ T1.1.2/A11.1+ N4 
+0000024 150  VVG     following                M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4 
+0000024 160  AT      the                      Z5 
+0000024 170  NN1     funeral                  L1-/S1.1.1 
+0000024 180  CC      and                      Z5 
+0000024 190  AT1     a                        Z5 
+0000024 200  NN1     Requiem                  S9 K2 
+0000024 210  NN1     Mass                     N5+ N3.5 S9 S5+c B2- 
+0000024 211  ,       ,                        
+0000024 220  AT      the                      Z5 
+0000024 230  NP1     Vatican                  Z2c 
+0000024 231  GE      's                       Z5 
+0000024 240  NN1     spokesman                Q2.2/S2.2m 
+0000024 250  VVD     announced                Q2.2 
+0000024 251  .       .                        
+0000025 001  -----   -----                    
+0000026 010  AT      THE                      Z5 
+0000026 020  NN1     POPE                     S7.1+/S9m 
+0000026 021  GE      'S                       Z5 
+0000026 030  NN1     LIFE                     Z2[i32.2.1 Z1mf[i32.2.1 Z3c 
+0000026 040  MC      1920                     Z2[i32.2.2 Z1mf[i32.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000026 041  -       -                        
+0000026 050  VVN     Born                     B1 
+0000026 060  II      near                     Z5 
+0000026 070  NP1     Krakow                   Z99 
+0000026 071  ,       ,                        
+0000026 080  NP1     Poland                   Z2[i33.2.1 Z1mf[i33.2.1 Z2 
+0000026 090  MC      1964                     Z2[i33.2.2 Z1mf[i33.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000026 091  -       -                        
+0000026 100  NN1     Archbishop               Z1mf[i34.3.1 S9/S2mf 
+0000026 110  IO      of                       Z1mf[i34.3.2 Z5 
+0000026 120  NP1     Krakow                   Z1mf[i34.3.3 Z2[i35.2.1 Z1mf[i35.2.1 
+0000026 130  MC      1978                     N1 T1.2 T3 T1.3 N3.2 Z2[i35.2.2 Z1mf[i35.2.2 
+0000026 131  -       -                        
+0000026 140  VVN     Elected                  G1.2/X7+ 
+0000026 150  MD      first                    N4 
+0000026 160  JJ      non-Italian              Z99 
+0000026 170  NN1     Pope                     S7.1+/S9m 
+0000026 180  IF      for                      Z5 
+0000026 190  MC      450                      N1 T1.2 T3 T1.3 N3.2 
+0000026 200  NNT2    years                    T1.3 
+0000026 210  MC      1981                     N1 T1.2 T3 T1.3 N3.2 
+0000026 211  -       -                        
+0000026 220  NN1     Assassination            L1- G2.1- 
+0000026 230  NN1     attempt                  X8+ 
+0000026 240  MC      2002                     N1 T1.2 T3 T1.3 N3.2 
+0000026 241  -       -                        
+0000026 250  JJ      Final                    N4 T2- 
+0000026 260  NN1     visit                    S1.1.1 M1 
+0000026 270  II      to                       Z5 
+0000026 280  NN1     homeland                 M7 
+0000028 010  NN1     Obituary                 L1-/Q4.2 
+0000028 011  :       :                        
+0000028 020  NP1     John                     Z1mf[i36.2.1 Z3c[i36.2.1 Z1m S9/O1.2 
+0000028 030  NP1     Paul                     Z1mf[i36.2.2 Z3c[i36.2.2 Z1m Z2[i37.2.1 Z1mf[i37.2.1 
+0000028 040  MC      II                       N1 Z2[i37.2.2 Z1mf[i37.2.2 
+0000028 050  NN2     Flashbacks               X2.2+ 
+0000028 051  :       :                        
+0000028 060  JJ      Papal                    S9 
+0000028 070  NN2     milestones               X9.2+ M3/O2 
+0000030 010  AT      The                      Z5 
+0000030 020  NN1     Pope                     S7.1+/S9m 
+0000030 030  VHD     had                      Z5 A9+ A2.2 S4 
+0000030 040  XX      not                      Z6 
+0000030 050  VVN     stated                   Q2.1 
+0000030 060  DD      any                      N5 N5.1+ 
+0000030 070  NN2     wishes                   X7+ 
+0000030 080  II      about                    Z5 
+0000030 090  APPGE   his                      Z8m 
+0000030 100  MD      last                     N4 
+0000030 110  NN1     resting                  E3+ M6 A2.2 
+0000030 120  NN1     place                    M7 H1 A1.2 P1 
+0000030 121  ,       ,                        
+0000030 130  NP1     Joaquin                  Z99 
+0000030 140  NN2     Navarro-Valls            Z99 
+0000030 150  VVD     said                     Q2.1 
+0000030 151  ,       ,                        
+0000030 160  CC      and                      Z5 
+0000030 170  AT      the                      Z5 
+0000030 180  NP1     Vatican                  Z2c 
+0000030 190  VM      would                    A7+ 
+0000030 200  RR      therefore                Z5 
+0000030 201  NULL    <quote>                  
+0000030 202  -----   -----                    
+0000030 203  "       "                        
+0000030 210  VV0     follow                   M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4 
+0000030 220  NN1     tradition                S1.1.1 T1.1.1 A6.2+ 
+0000030 221  "       "                        
+0000030 222  NULL    </quote>                 
+0000030 223  -----   -----                    
+0000030 230  II      by                       Z5 
+0000030 240  VVG     burying                  A10- L1- 
+0000030 250  PPHO1   him                      Z8m 
+0000030 260  II      at                       Z5 
+0000030 270  AT      the                      Z5 
+0000030 280  NN1     basilica                 S9/H1 
+0000030 281  .       .                        
+0000031 001  -----   -----                    
+0000032 010  DD      Some                     N5 Z5 
+0000032 020  VHD     had                      Z5 A9+ A2.2 S4 
+0000032 030  VVN     speculated               X2.6+ I2.1 
+0000032 040  AT      the                      Z5 
+0000032 050  JJ      Polish-born              Z99 
+0000032 060  NN1     Pope                     S7.1+/S9m 
+0000032 070  VM      might                    A7+ 
+0000032 080  VHI     have                     Z5 A9+ A2.2 S4 
+0000032 090  VVN     wanted                   X7+ S6+ A7+ G2.1- S3.2 A9- 
+0000032 100  TO      to                       Z5 
+0000032 110  VBI     be                       Z5 A3+ 
+0000032 120  VVN@    interred                 L1-/A1.1.1 
+0000032 130  II      in                       Z5 
+0000032 140  APPGE   his                      Z8m 
+0000032 150  JJ      beloved                  E2+ 
+0000032 160  JJ      native                   M7 A6.2+ 
+0000032 170  NN1     country                  G1.1c W3 F4/M7 K2 
+0000032 171  .       .                        
+0000033 001  -----   -----                    
+0000034 010  NNB     Mr                       Z1m[i39.2.1 S2.2m Z1m[i38.2.1 
+0000034 020  NP1     Navarro-Valls            Z1m[i39.2.2 Z1m[i38.2.2 
+0000034 030  VVD     said                     Q2.1 
+0000034 040  MC      65                       N1 T1.2 T3 T1.3 N3.2 
+0000034 050  NN2     cardinals                S9/S2.2m 
+0000034 060  VHD     had                      Z5 A9+ A2.2 S4 
+0000034 070  VVN     met                      S3.1 M6 A1.1.1 A6.1+ 
+0000034 080  II      in                       Z5 
+0000034 090  NP1     Rome                     Z2 
+0000034 100  IF      for                      Z5 
+0000034 110  RG      about                    A13.4 
+0000034 120  MC      two                      T1.3[i41.5.1 N1 T3 T1.2 N1[i40.4.1 T3[i40.4.1 
+0000034 130  CC      and                      T1.3[i41.5.2 Z5 N1[i40.4.2 T3[i40.4.2 
+0000034 140  AT1     a                        T1.3[i41.5.3 Z5 N1[i40.4.3 T3[i40.4.3 
+0000034 150  DB      half                     T1.3[i41.5.4 N5 N1[i40.4.4 T3[i40.4.4 
+0000034 160  NNT2    hours                    T1.3[i41.5.5 T1.3 
+0000034 170  TO      to                       Z5 
+0000034 180  VVI     read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000034 190  AT      the                      Z5 
+0000034 200  NP1     Pope                     S7.1+/S9m 
+0000034 201  GE      's                       Z5 
+0000034 210  NN1@    will                     X7+ G2.1/Q1.2 
+0000034 220  CC      and                      Z5 
+0000034 230  VVI     fix                      A1.7+ X6+ S8+/A1.1.2- A5.1+/A2.1 X5.1+ G2.2- 
+0000034 240  AT      the                      Z5 
+0000034 250  NN1     funeral                  L1-/S1.1.1 
+0000034 260  NN1     date                     T1.2 S3.2 S3.2/S2mf 
+0000034 261  .       .                        
+0000035 001  -----   -----                    
+0000036 010  AT      The                      Z5 
+0000036 020  NN1     meeting                  S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+ 
+0000036 030  VBDZ    was                      A3+ Z5 
+0000036 040  AT      the                      Z5 
+0000036 050  MD      first                    N4 
+0000036 060  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000036 070  AT      the                      Z5 
+0000036 071  NULL    <quote>                  
+0000036 072  -----   -----                    
+0000036 073  "       "                        
+0000036 080  NN2     princes                  S7.1+/S2.2m 
+0000036 090  IO      of                       Z5 
+0000036 100  AT      the                      Z5 
+0000036 110  NN1     Church                   Z2 Z1mf 
+0000036 111  "       "                        
+0000036 112  NULL    </quote>                 
+0000036 113  -----   -----                    
+0000036 120  VHD     had                      Z5 A9+ A2.2 S4 
+0000036 130  VVN     met                      S3.1 M6 A1.1.1 A6.1+ 
+0000036 140  CS      since                    Z5 
+0000036 150  APPGE   his                      Z8m 
+0000036 160  NN1     death                    L1- 
+0000036 170  CC      and                      Z5 
+0000036 180  DAR     more                     N5++ 
+0000036 190  VBR     are                      A3+ Z5 
+0000036 200  JJ      due                      X2.6+ A5.3+ S6+ 
+0000036 210  TO      to                       Z5 
+0000036 220  VVI     arrive                   M1 T2- 
+0000036 221  ,       ,                        
+0000036 230  VVG     coming                   M6[i42.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000036 240  II      from                     M6[i42.2.2 Z5 
+0000036 250  II      across                   Z5 
+0000036 260  AT      the                      Z5 
+0000036 270  NN1     world                    W1 S5+c A4.1 N5+ 
+0000036 271  .       .                        
+0000037 001  -----   -----                    
+0000038 010  AT      The                      Z5 
+0000038 020  NP1     Pope                     S7.1+/S9m 
+0000038 021  GE      's                       Z5 
+0000038 030  NN1     body                     B1 O2 S5+c O4.1 S2mf 
+0000038 040  VM      will                     T1.1.3 
+0000038 050  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000038 060  APPGE   its                      Z8 
+0000038 070  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000038 080  II      to                       Z5 
+0000038 090  AT      the                      Z5 
+0000038 100  NN1     basilica                 S9/H1 
+0000038 110  II      at                       Z5 
+0000038 120  RG      about                    A13.4 
+0000038 130  MC      1700                     N1 T1.2 T3 T1.3 N3.2 
+0000038 131  (       (                        
+0000038 140  MC      1500                     N1 T1.2 T3 T1.3 N3.2 
+0000038 150  RA      GMT                      Z3/T1 
+0000038 151  )       )                        
+0000038 160  CC      and                      Z5 
+0000038 170  JJ      public                   S5+ A10+ 
+0000038 180  NN1     viewing                  Q4.3 X2.1 X3.4 X2.4 
+0000038 190  VM      will                     T1.1.3 
+0000038 200  VVI     begin                    T2+ 
+0000038 210  MC      three                    N1 T1.2 T3 
+0000038 220  NNT2    hours                    T1.3 
+0000038 230  RRR     later                    T4-- T1.1.3 N4 
+0000038 231  .       .                        
+0000039 001  -----   -----                    
+0000040 010  AT      The                      Z5 
+0000040 020  NN1     basilica                 S9/H1 
+0000040 030  VM      will                     T1.1.3 
+0000040 040  RR      only                     A14 
+0000040 050  VVI     close                    A1.1.1 A10- T2- 
+0000040 060  II      between                  Z5 
+0000040 070  MC      0200                     N1 T1.2 T3 T1.3 N3.2 
+0000040 080  CC      and                      Z5 
+0000040 090  MC      0500                     N1 T1.2 T3 T1.3 N3.2 
+0000040 100  DD1     each                     N6+[i43.2.1 N5.1+ 
+0000040 110  NNT1    day                      N6+[i43.2.2 T1.3 
+0000040 120  IF      for                      Z5 
+0000040 130  NN1     maintenance              A1.1.1 I1.1 I1.1/S4 T2++ 
+0000040 131  .       .                        
+0000041 001  -----   -----                    
+0000042 010  JJ      Makeshift                T1.3/A5.1- 
+0000042 020  NN2     shelters                 H1/A10- H4/H1 
+0000044 010  NN1     Church                   Z2 Z1mf 
+0000044 020  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000044 021  ,       ,                        
+0000044 030  NP1     Vatican                  Z2c 
+0000044 040  NN      staff                    I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 
+0000044 050  CC      and                      Z5 
+0000044 060  JJ      prominent                A11.1+ A11.2+ 
+0000044 070  NN2     Italians                 Z2/S2mf F1 
+0000044 080  VH0     have                     Z5 A9+ A2.2 S4 
+0000044 090  RR      already                  T1.1.1 
+0000044 100  VVN     viewed                   X2.1 X3.4 X2.4 
+0000044 110  AT      the                      Z5 
+0000044 120  NP1     Pope                     S7.1+/S9m 
+0000044 121  GE      's                       Z5 
+0000044 130  NN1     body                     B1 O2 S5+c O4.1 S2mf 
+0000044 140  II      at                       Z5 
+0000044 150  AT      the                      Z5 
+0000044 160  NP1     Vatican                  Z2c[i44.2.1 Z2c 
+0000044 170  NN1     palace                   Z2c[i44.2.2 H1/S7.1+ 
+0000044 171  GE      's                       Z5 
+0000044 180  NP1     Clementine               Z2[i45.2.1 Z3c[i45.2.1 
+0000044 190  NN1     Hall                     Z2[i45.2.2 Z3c[i45.2.2 H2 H1 S9/H1c 
+0000044 191  .       .                        
+0000045 001  -----   -----                    
+0000046 010  AT      The                      Z5 
+0000046 020  NN1     palace                   H1/S7.1+ 
+0000046 030  VHZ     has                      Z5 A9+ A2.2 S4 
+0000046 040  VBN     been                     Z5 A3+ 
+0000046 050  VVN     filled                   N5.1+ I3.1 Q1.2@ 
+0000046 060  IW      with                     Z5 
+0000046 070  NN2     clerics                  S9/S2mf 
+0000046 080  CC      and                      Z5 
+0000046 090  NP1     Vatican                  Z2c 
+0000046 100  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000046 110  VVG     singing                  K2 
+0000046 120  NN2     hymns                    S9/K2 
+0000046 130  CC      and                      Z5 
+0000046 140  VVG     reciting                 Q2.2 
+0000046 150  AT      the                      Z5 
+0000046 160  NN1     Rosary                   S9 
+0000046 170  NN1     prayer                   S9/Q2.2 A7+ 
+0000046 171  .       .                        
+0000046 172  -----   -----                    
+0000046 180  NP1     Bishops                  S9/S7.1+/S2mf 
+0000046 190  CC      and                      Z5 
+0000046 200  NN2     priests                  S9/S2mf 
+0000046 210  VVD     prayed                   S9/Q2.2 
+0000046 220  RR      aloud                    X3.2 
+0000046 230  CSA     as                       Z5 
+0000046 240  PPHS2   they                     Z8mfn 
+0000046 250  VVD     knelt                    O4.1/B1 
+0000046 260  II      beside                   Z5 
+0000046 270  AT      the                      Z5 
+0000046 280  NP1     Pope                     S7.1+/S9m 
+0000046 281  GE      's                       Z5 
+0000046 290  NN2%    remains                  N5.2+/A1.5.1- L1- H1/T1.1.1 
+0000046 291  .       .                        
+0000047 001  -----   -----                    
+0000048 010  IW      With                     Z5 
+0000048 020  JJ      Roman                    Z2 
+0000048 030  NN2     hotels                   H4/H1 
+0000048 040  CC      and                      Z5 
+0000048 050  NN1     guest                    H4/H1c[i46.2.1 H4/S2mf S1.2.2-/S2mf 
+0000048 060  NN2     houses                   H4/H1c[i46.2.2 H1 P1/S5+c G1.1c 
+0000048 070  RR      already                  T1.1.1 
+0000048 080  JJ      full                     N5.1+ I3.2+ 
+0000048 081  ,       ,                        
+0000048 090  JJ      makeshift                T1.3/A5.1- 
+0000048 100  NN2     shelters                 H1/A10- H4/H1 
+0000048 110  VBR     are                      Z5 A3+ 
+0000048 120  VBG     being                    Z5 A3+ 
+0000048 130  VVN     created                  A1.1.1 A2.2 E1 
+0000048 140  IF      for                      Z5 
+0000048 150  NN2     visitors                 S1.1.1/S2mf M1/S2mf 
+0000048 160  II      at                       Z5 
+0000048 170  NN2     sports                   K5.1 
+0000048 180  NN2     grounds                  M6 W3 M7 O3 X2.1 
+0000048 181  .       .                        
+0000049 001  -----   -----                    
+0000050 010  JJ      Giant                    N3.2+++ A11.1+++ 
+0000050 020  NN1     video                    Q4.3 
+0000050 030  NN2     screens                  Y2 Q4.3 H5 A10- 
+0000050 040  VM      may                      A7+ 
+0000050 050  VBI     be                       Z5 A3+ 
+0000050 060  VVN     installed                A1.1.1 S1.1.1 
+0000050 070  TO      to                       Z5 
+0000050 080  VVI     relay                    Q2.1 Q4.3 M2 A1.1.1/N6+ 
+0000050 090  AT      the                      Z5 
+0000050 100  NN2     ceremonies               S1.1.1 
+0000050 101  .       .                        
+0000050 102  -----   -----                    
+0000050 110  NN2     Cardinals                S9/S2.2m 
+0000050 120  VM      will                     T1.1.3 
+0000050 130  VVI     deal                     A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2 
+0000050 140  IW      with                     Z5 
+0000050 150  AT      the                      Z5 
+0000050 160  JJ      day-to-day               T1.1.2 A6.2+ 
+0000050 170  NN1     running                  M1/N3.8+ K5.1 G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3.3 A6.3+ K4 
+0000050 180  IO      of                       Z5 
+0000050 190  AT      the                      Z5 
+0000050 200  NN1     Church                   Z2 Z1mf 
+0000050 210  CS      until                    Z5 
+0000050 220  PPHS2   they                     Z8mfn 
+0000050 230  VV0     elect                    G1.2/X7+ 
+0000050 240  AT1     a                        Z5 
+0000050 250  JJ      new                      T3- 
+0000050 260  NN1     pope                     S9/S7.1+/S2.2m 
+0000050 270  II      at                       Z5 
+0000050 280  AT1     a                        Z5 
+0000050 290  NN1     conclave                 S1.1.3+/A10- S9 
+0000050 300  RRR     later                    T4-- T1.1.3 N4 
+0000050 310  II      in                       Z5 
+0000050 320  AT      the                      Z5 
+0000050 330  NNT1    month                    T1.3 
+0000050 331  .       .                        
+0000051 001  -----   -----                    
+0000052 010  NP1     BBC                      Z3c 
+0000052 020  JJ      religious                S9 
+0000052 030  NN2     affairs                  A1.1.1 S1.1.1 S3.2 
+0000052 040  NN1     correspondent            Q4.2/S2mf Q1.2/S2mf 
+0000052 050  NP1     Jane                     Z1mf[i47.2.1 Z3c[i47.2.1 Z1f 
+0000052 060  NP1@    Little                   Z1mf[i47.2.2 Z3c[i47.2.2 
+0000052 070  VVZ     says                     Q2.1 
+0000052 080  JJ      preliminary              N4 
+0000052 090  NN2     meetings                 S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+ 
+0000052 100  VV0     provide                  A9- S6+ 
+0000052 110  AT1     an                       Z5 
+0000052 120  NN1     opportunity              A1.4 
+0000052 130  TO      to                       Z5 
+0000052 140  VVI     raise                    M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000052 150  JJ      general                  N5+ A4.2- 
+0000052 160  NN2     concerns                 E6- I2.1 
+0000052 170  II      about                    Z5 
+0000052 180  AT      the                      Z5 
+0000052 190  NN1     shape                    O4.4 
+0000052 200  CC      and                      Z5 
+0000052 210  NN1     future                   T1.1.3 
+0000052 220  IO      of                       Z5 
+0000052 230  AT      the                      Z5 
+0000052 240  NN1     Church                   Z2 Z1mf 
+0000052 241  .       .                        
+0000053 001  -----   -----                    
+0000054 010  EX      There                    Z5 
+0000054 020  VBR     are                      A3+ Z5 
+0000054 030  RR      nearly                   A13.4 
+0000054 040  MC      200                      N1 T1.2 T3 T1.3 N3.2 
+0000054 050  NN2     cardinals                S9/S2.2m 
+0000054 060  JJ      involved                 A1.8+ A12- X5.2+ 
+0000054 070  II      in                       Z5 
+0000054 080  AT      the                      Z5 
+0000054 090  NN2     consultations            Q2.1 B3 X2.3 
+0000054 091  ,       ,                        
+0000054 100  CCB     but                      Z5 
+0000054 110  RR      only                     A14 
+0000054 120  MC      117                      N1 T1.2 T3 T1.3 N3.2 
+0000054 130  IO      of                       Z5 
+0000054 140  PPHO2   them                     Z8mfn 
+0000054 150  VBR     are                      A3+ Z5 
+0000054 160  II      under                    Z5 
+0000054 170  AT      the                      Z5 
+0000054 180  NN1     age                      T3 T1.3 
+0000054 190  IO      of                       Z5 
+0000054 200  MC      80                       T3 N1 T1.2 T1.3 N3.2 
+0000054 210  CC      and                      Z5 
+0000054 220  RR      therefore                Z5 
+0000054 230  VVN     entitled                 S7.4+ 
+0000054 240  TO      to                       Z5 
+0000054 250  VVI     vote                     G1.2 
+0000054 260  IF      for                      Z5 
+0000054 270  AT1     a                        Z5 
+0000054 280  JJ      new                      T3- 
+0000054 290  NN1     pope                     S9/S7.1+/S2.2m 
+0000054 291  .       .                        
+0000057 001  NULL    **8;7;text               

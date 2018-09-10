@@ -1,0 +1,414 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VV0@    REASON                   X2.1 Q2.2 
+0000002 020  TO      TO                       Z5 
+0000002 030  VVI     WATCH                    X3.4 S7.1 X2.4 A1.3+ 
+0000002 040  EX      There                    Z5 
+0000002 041  VBZ     's                       A3+ Z5 
+0000002 050  AT1     a                        Z5 
+0000002 060  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000002 070  JJ      Long                     N3.7+ T1.3+ N3.3+ N3.2+ 
+0000002 080  NNL1    Island                   W3 
+0000002 090  NN1     connection               A2.2 S5+ M3 O3 A1.1.1 
+0000002 091  -       -                        
+0000002 100  AT      the                      Z5 
+0000002 110  JJ      young                    T3- 
+0000002 120  NN1     woman                    S2.1f 
+0000002 130  PNQS    who                      Z8 
+0000002 140  VVZ     runs                     M1[i1.2.1 A1.7-[i1.2.1 M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000002 150  RL      away                     M1[i1.2.2 A1.7-[i1.2.2 M6 A1.1.1% 
+0000002 160  VBZ     is                       A3+ Z5 
+0000002 170  II      from                     Z5 
+0000002 180  NN1     Bay                      W3/M4 H2 M5 O4.4 L3 
+0000002 190  NP1     Shore                    W3/M4 
+0000002 191  .       .                        
+0000002 192  -----   -----                    
+0000002 200  CS      WHEN/WHERE               Z99 
+0000002 210  AT1@    A                        Z5 
+0000002 211  NULL    &E,;                     
+0000002 220  NPD1    Monday                   T1.3[i2.2.1 T1.3 
+0000002 230  NNT1    night                    T1.3[i2.2.2 T1.3 
+0000002 240  II      at                       Z5 
+0000002 250  MC      10                       N1 T1.2 T3 T1.3 N3.2 
+0000004 010  NP1     Joe                      Z1mf[i3.2.1 Z3c[i3.2.1 Z1m 
+0000004 020  NP1     Mazzilli                 Z1mf[i3.2.2 Z3c[i3.2.2 
+0000004 030  VBDZ    was                      A3+ Z5 
+0000004 040  AT1     a                        Z5 
+0000004 050  JJ      15-year                  Z99 
+0000004 060  NN1     veteran                  G3/S2mf T3+/S2mf 
+0000004 070  IW      with                     Z5 
+0000004 080  AT      the                      Z5 
+0000004 090  NN1     NYPD                     Z99 
+0000004 100  PNQS    who                      Z8 
+0000004 110  VVD     worked                   I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000004 120  IW      with                     Z5 
+0000004 130  AT      the                      Z5 
+0000004 140  JJ      so-called                A8 
+0000004 141  NULL    <quote>                  
+0000004 142  -----   -----                    
+0000004 143  "       "                        
+0000004 150  VV0     pimp                     S3.2/S2mf 
+0000004 160  NN1     squad                    G3/S5+c S5+c 
+0000004 161  ,       ,                        
+0000004 162  "       "                        
+0000004 163  NULL    </quote>                 
+0000004 164  -----   -----                    
+0000004 170  DDQ     which                    Z5 Z8 
+0000004 180  VBZ     is                       A3+ Z5 
+0000004 190  JJ      self-explanatory         A7+ 
+0000004 191  .       .                        
+0000004 192  -----   -----                    
+0000004 200  VVG     Leaving                  M1 M2 A1.1.1 A1.9 A9- T2- 
+0000004 210  AT      the                      Z5 
+0000004 220  NN1     department               H2/S5+c X2.2 
+0000004 221  ,       ,                        
+0000004 230  PPHS1   he                       Z8m 
+0000004 240  VVD     started                  T2+ E5- E3- 
+0000004 250  APPGE   his                      Z8[i4.2.1 Z8m 
+0000004 260  DA      own                      Z8[i4.2.2 A9+ S5- 
+0000004 270  JJ      Manhattan-based          Z99 
+0000004 280  JJ      private                  A10- S5- G1.1- 
+0000004 290  NN1     investigation            X2.4/I2.1c[i5.2.1 X2.4 B3 
+0000004 300  NN1     firm                     X2.4/I2.1c[i5.2.2 I2.1/S5+c 
+0000004 301  ,       ,                        
+0000004 310  DB      Protect-all              Z99 
+0000004 320  NN1     Security                 G2.1 A15+ E6+ I1.1 
+0000004 330  NN1     Service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000004 331  .       .                        
+0000004 332  -----   -----                    
+0000004 340  MC1     One                      N1 T3 T1.2 
+0000004 350  IO      of                       Z5 
+0000004 360  APPGE   his                      Z8m 
+0000004 370  NN2     specialties              A4.2+ 
+0000004 380  VBZ     is                       A3+ Z5 
+0000004 390  NN2     runaways                 A1.7- H4-/S2mf 
+0000004 391  .       .                        
+0000004 392  -----   -----                    
+0000004 400  VVZ     Says                     Q2.1 
+0000004 410  PPHS1   he                       Z8m 
+0000004 411  ,       ,                        
+0000004 412  NULL    <quote>                  
+0000004 413  -----   -----                    
+0000004 414  "       "                        
+0000004 420  DDQ     What                     Z8 Z5 
+0000004 430  JJ      --                       Z99 
+0000004 440  PPIO1   me                       Z8mf 
+0000004 450  RP      off                      M6 K1 A1.1.1 A1.9 
+0000004 460  VBZ     is                       A3+ Z5 
+0000004 470  AT      the                      Z5 
+0000004 480  NN1     way                      X4.2/S5+c[i6.2.1 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000004 490  NN1     society                  X4.2/S5+c[i6.2.2 S5+c 
+0000004 500  VVZ     looks                    X3.4[i7.2.1 X2.4[i7.2.1 X2.1[i7.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000004 510  II      at                       X3.4[i7.2.2 X2.4[i7.2.2 X2.1[i7.2.2 Z5 
+0000004 520  JJ      runaway                  A1.7- H4-/S2mf 
+0000004 530  NN2     children                 S2mf/T3- S4mf 
+0000004 531  .       .                        
+0000004 532  -----   -----                    
+0000004 540  PPHS2   They                     Z8mfn 
+0000004 550  VBR     are                      Z5 A3+ 
+0000004 560  VVN     forgotten                X2.2- 
+0000004 561  .       .                        
+0000004 562  "       "                        
+0000004 563  NULL    </quote>                 
+0000004 564  -----   -----                    
+0000004 570  PPHS1   He                       Z8m 
+0000004 580  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000004 590  DD      some                     N5 Z5 
+0000004 600  NN1     pro-bono                 Z99 
+0000004 610  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000004 620  II      in                       Z5 
+0000004 630  DD1     this                     M6 Z5 Z8 
+0000004 640  NN1     area                     M7 A4.1 N3.6 
+0000004 641  -       -                        
+0000004 650  CC      and                      Z5 
+0000004 660  RT      then                     N4 Z5 T1.2 
+0000004 670  EX      there                    Z5 
+0000004 671  VBZ     's                       A3+ Z5 
+0000004 680  DD1     this                     M6 Z5 Z8 
+0000004 690  NN1     reality                  A3+ A5.2+ 
+0000004 700  NN      series                   N4c Q4.3c 
+0000004 701  .       .                        
+0000005 001  -----   -----                    
+0000006 010  DD1     This                     M6 Z5 Z8 
+0000006 020  NN1     episode                  A3+/A11.1+ A6.2- Q4 B2- 
+0000006 021  :       :                        
+0000006 030  JJ      Yanite                   Z99 
+0000006 040  NP1     Pierre-Louis             Z99 
+0000006 041  ,       ,                        
+0000006 050  AT1     a                        Z5 
+0000006 060  NN1     Bay                      W3/M4 H2 M5 O4.4 L3 
+0000006 070  NP1     Shore                    W3/M4 
+0000006 080  NN1     mother                   S4f A11.1+++ 
+0000006 090  CC      and                      Z5 
+0000006 100  NN1     immigrant                M1/M7/S2mf 
+0000006 110  II      from                     Z5 
+0000006 120  NP1     Haiti                    Z2 
+0000006 121  ,       ,                        
+0000006 130  VHZ     has                      Z5 A9+ A2.2 S4 
+0000006 131  XX      n't                      Z6 
+0000006 140  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000006 150  APPGE   her                      Z8f 
+0000006 160  JJ      15-year-old              Z99 
+0000006 170  NN1     daughter                 S4f 
+0000006 171  ,       ,                        
+0000006 180  NP1     Tayvela                  Z99 
+0000006 181  ,       ,                        
+0000006 190  II      in                       Z5 
+0000006 200  RR      nearly                   A13.4 
+0000006 210  AT1     a                        Z5 
+0000006 220  NNT1    year                     T1.3 P1c 
+0000006 221  .       .                        
+0000006 222  -----   -----                    
+0000006 230  AT      The                      Z5 
+0000006 240  NN1     girl                     S2.1f L2f@ 
+0000006 250  VHD     had                      Z5 A9+ A2.2 S4 
+0000006 260  VVN     gotten                   A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 
+0000006 270  VVN     mixed                    X2.5-[i8.2.1 A1.1.1[i8.2.1 A2.1+ S1.1.3+ K3 
+0000006 280  RP      up                       X2.5-[i8.2.2 A1.1.1[i8.2.2 
+0000006 290  IW      with                     Z5 
+0000006 300  NN2     gangs                    S5+c 
+0000006 301  ,       ,                        
+0000006 310  VBDZ    was                      Z5 A3+ 
+0000006 320  VVN     beaten                   X9.2+/S7.3 X9.2+/G3 S7.1+ E3- A1.1.1 A5.1++ B1 
+0000006 330  CC      and                      Z5 
+0000006 340  VVN     refused                  Q2.2/Z6 S7.4- X7- 
+0000006 350  TO      to                       Z5 
+0000006 360  VVI     press                    G2.1[i9.2.1 A1.1.1 X8+ S7.1+ E6- 
+0000006 370  NN2     charges                  G2.1[i9.2.2 I1.3 O3 G2.1 M1 G3% 
+0000006 371  ,       ,                        
+0000006 380  DDQ     which                    Z5 Z8 
+0000006 381  -       -                        
+0000006 390  II      per                      Z5 
+0000006 400  NP1     Mazzilli                 Z99 
+0000006 401  -       -                        
+0000006 410  VBZ     is                       A3+ Z5 
+0000006 420  AT1     an                       Z5 
+0000006 430  JJ      obvious                  A11.2+ 
+0000006 440  NN1     sign                     Q1.1 A6.2+ X4.1 Q1.2 O4.1 S9 B2 M2 K2 
+0000006 450  APPGE   her                      Z8f 
+0000006 460  NN1     disappearance            A10- M1 A3- 
+0000006 470  VBDZ    was                      A3+ Z5 
+0000006 480  JJ      gang-related             Z99 
+0000006 481  .       .                        
+0000006 482  -----   -----                    
+0000006 490  PPH1    It                       Z8 
+0000006 500  VVZ     turns                    A1.1.1[i10.2.1 A8[i10.2.1 N5+/S1.1.3[i10.2.1 M1[i10.2.1 M2[i10.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000006 510  RP      out                      A1.1.1[i10.2.2 A8[i10.2.2 N5+/S1.1.3[i10.2.2 M1[i10.2.2 M2[i10.2.2 M6 
+0000006 511  ,       ,                        
+0000006 520  AT      the                      Z5 
+0000006 530  NN1     girl                     S2.1f L2f@ 
+0000006 540  VBDZ    was                      Z5 A3+ 
+0000006 550  RR      essentially              S6+ A13.2 Z4 
+0000006 560  VVN     kidnapped                G2.1- 
+0000006 570  II      by                       Z5 
+0000006 580  AT      the                      Z5 
+0000006 590  NN1     uncle                    S4m 
+0000006 600  IO      of                       Z5 
+0000006 610  AT1     a                        Z5 
+0000006 620  JJ      so-called                A8 
+0000006 630  NN1     friend                   S3.1/S2mf 
+0000006 631  .       .                        
+0000006 632  -----   -----                    
+0000006 640  NP1     Joe                      Z1m 
+0000006 650  CC      and                      Z5 
+0000006 660  APPGE   his                      Z8m 
+0000006 670  NN2     colleagues               I3.2/S2mf 
+0000006 680  VBR     are                      A3+ Z5 
+0000006 690  II      on                       Z5 
+0000006 700  AT      the                      Z5 
+0000006 710  NN1     case                     A4.1 O2 G2.1 B3 X4.1 Q3 
+0000006 711  .       .                        
+0000007 001  -----   -----                    
+0000008 010  APPGE   My                       Z8 
+0000008 020  NN1%    say                      S7.1+ Q2.1 
+0000008 021  :       :                        
+0000008 030  CS      If                       Z7 
+0000008 040  PPY     you                      Z8mf 
+0000008 050  VV0     get                      M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1- 
+0000008 060  II      past                     Z5 
+0000008 070  DD1     this                     M6 Z5 Z8 
+0000008 080  JJ      overheated               O4.6+ E3- 
+0000008 090  NN1     title                    Q4 S7.1+ A9+ Q2.2 
+0000008 100  CC      and                      Z5 
+0000008 110  AT      the                      Z5 
+0000008 120  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
+0000008 121  ,       ,                        
+0000008 130  JJ      cold                     O4.6- S1.2.1- E1- A1.1.1 
+0000008 140  NN1     fact                     A5.2+ X2.2 
+0000008 150  CST     that                     Z5 Z8 
+0000008 160  ZZ1     A                        Z5 
+0000008 161  NULL    &E;                      
+0000008 162  -       -                        
+0000008 170  UH      ahem                     Z4 
+0000008 171  -       -                        
+0000008 180  VHZ     has                      Z5 A9+ A2.2 S4 
+0000008 190  VBN     been                     Z5 A3+ 
+0000008 200  VVN     known                    X2.2+ S3.2/B1% 
+0000008 210  TO      to                       Z5 
+0000008 220  VVI     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000008 230  II      on                       Z5 
+0000008 240  DD      some                     N5 Z5 
+0000008 250  JJ      unsavory                 Z99 
+0000008 260  NN1     reality                  A3+ A5.2+ 
+0000008 270  NN1     slop                     O1.2 F1 B4/G2.1@ 
+0000008 280  II      on                       N6-[i11.2.1 Z5 
+0000008 290  NN1     occasion                 N6-[i11.2.2 T1.2 S1.1.1 
+0000008 291  ,       ,                        
+0000008 292  NULL    <quote>                  
+0000008 293  -----   -----                    
+0000008 294  "       "                        
+0000008 300  JJ      Runaway                  A1.7- H4-/S2mf 
+0000008 310  NN1     Squad                    G3/S5+c S5+c 
+0000008 311  "       "                        
+0000008 312  NULL    </quote>                 
+0000008 313  -----   -----                    
+0000008 320  VBZ     is                       A3+ Z5 
+0000008 330  RR      actually                 A5.4+ A14 
+0000008 340  AT1     a                        Z5 
+0000008 350  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000008 360  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000008 361  .       .                        
+0000008 362  -----   -----                    
+0000008 370  NN1     Tayvela                  Z99 
+0000008 380  VM      could                    A7+ 
+0000008 390  VHI     have                     Z5 A9+ A2.2 S4 
+0000008 400  VBN     been                     Z5 A3+ 
+0000008 410  VVN     forgotten                X2.2- 
+0000008 411  ,       ,                        
+0000008 420  CC      and                      Z5 
+0000008 430  EX      there                    Z5 
+0000008 440  VVZ     appears                  A8 A10+ A3+ G2.1 K4 Q4 
+0000008 450  TO      to                       Z5 
+0000008 460  VBI     be                       A3+ Z5 
+0000008 470  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000008 480  NN1     doubt                    A7- 
+0000008 490  II      by                       Z5 
+0000008 500  AT      the                      Z5 
+0000008 510  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000008 520  VVD     presented                A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4 
+0000008 530  RL      here                     M6 T1.1.2 T1.2 
+0000008 540  CST     that                     Z8 Z5 
+0000008 550  PPHS1   she                      Z8f 
+0000008 560  VM      would                    A7+ 
+0000008 570  VHI     have                     Z5 A9+ A2.2 S4 
+0000008 580  VVN     remained                 T2++ M8 N5.2+ 
+0000008 590  VVN     forgotten                X2.2- 
+0000008 600  II21    except                   A1.8-[i12.2.1 Z5 
+0000008 610  II22    for                      A1.8-[i12.2.2 
+0000008 620  NP1     Mazzilli                 Z99 
+0000008 630  CC      and                      Z5 
+0000008 640  APPGE   his                      Z8m 
+0000008 650  NN2     knights                  S7.1+/G3/S2.2m K5.2 
+0000008 651  .       .                        
+0000008 652  -----   -----                    
+0000008 660  DD1     That                     Z8 Z5 
+0000008 670  VVD     said                     Q2.1 
+0000008 671  ,       ,                        
+0000008 680  PPY     you                      Z8mf 
+0000008 690  VM      may                      A7+ 
+0000008 700  VVI     wonder                   X2.1 
+0000008 710  CSW     whether                  Z5 
+0000008 720  NN1     county                   M7 
+0000008 730  NN2     cops                     G2.1/S2mf A5.1+@ 
+0000008 740  VVD     pursued                  A1.1.1 X8+ X2.4 M1 
+0000008 750  NN2@    leads                    S7.1+ O2/L2 O3 S8+ O1.1 K4/S2mf 
+0000008 751  ,       ,                        
+0000008 760  CC      or                       Z5 
+0000008 770  CS      if                       Z7 
+0000008 780  NN1     child                    S2mf/T3- S4mf 
+0000008 790  NN1     welfare                  S8+c[i13.2.1 S8+ I1 G1.1c 
+0000008 800  NN2     services                 S8+c[i13.2.2 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000008 801  -       -                        
+0000008 810  CC      or                       Z5 
+0000008 820  PN1     anyone                   Z8mfc 
+0000008 830  RR      else                     A6.1- Z4 
+0000008 831  -       -                        
+0000008 840  VBDZ    was                      Z5 A3+ 
+0000008 850  VVN     called                   Q2.2[i14.2.1 Q1.3[i14.2.1 M1[i14.2.1 Q2.2 S1.1.1 Q1.3 S9% 
+0000008 860  RP@     in                       Q2.2[i14.2.2 Q1.3[i14.2.2 M1[i14.2.2 M6 
+0000008 870  CS      before                   Z5 
+0000008 880  ZZ1     A                        Z5 
+0000008 881  NULL    &E.;                     
+0000008 890  VBZ     Is                       A3+ Z5 
+0000008 900  DD1     that                     Z5 Z8 
+0000008 910  DDQ     what                     Z8 Z5 
+0000008 920  PPH1    it                       Z8 
+0000008 930  VVZ     takes                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000008 940  TO      to                       Z5 
+0000008 950  VVI     save                     I1.1 B3 A9+ S8+ A1.9 K5.1 S9 
+0000008 960  PN1     someone                  Z8mfc 
+0000008 970  II      like                     Z5 
+0000008 980  NP1     Tayvela                  Z99 
+0000008 981  -       -                        
+0000008 990  AT      the                      Z5 
+0000008 000  NN1     intercession             S9/Q2.2 S1.1.2+ 
+0000008 010  IO      of                       Z5 
+0000008 020  AT1     a                        Z5 
+0000008 030  NN1     reality                  A3+ A5.2+ 
+0000008 040  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000008 041  ?       ?                        
+0000008 042  -----   -----                    
+0000008 050  DD1     That                     Z8 Z5 
+0000008 060  VVZ     seems                    A8 
+0000008 070  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
+0000008 080  TO      to                       Z5 
+0000008 090  VVI     believe                  X2.1 S9% 
+0000008 091  .       .                        
+0000008 092  -----   -----                    
+0000008 100  CCB     But                      Z5 
+0000008 110  NP1     Mazzilli                 Z99 
+0000008 120  VBZ     is                       A3+ Z5 
+0000008 130  RR      wonderfully              A13.3 A5.1+ 
+0000008 140  JJ      convincing               A7+ 
+0000008 141  -       -                        
+0000008 150  PPHS1   he                       Z8m 
+0000008 151  VBZ     's                       A3+ Z5 
+0000008 160  AT1     a                        Z5 
+0000008 170  JJ      made-for-TV              Z99 
+0000008 180  JJ      tough                    S1.2.5+ E3- O4.5 A12- Z4 
+0000008 190  NN1     guy                      S2.2m O2 
+0000008 200  IW      with                     Z5 
+0000008 210  NN2     arms                     B1 S5+ G3 O2 B5 
+0000008 220  AT      the                      Z5 
+0000008 230  NN1     size                     N3.2 N5 N3.1 O4.1 
+0000008 240  IO      of                       Z5 
+0000008 250  AT1     a                        Z5 
+0000008 260  NN1     Chevy                    Z99 
+0000008 270  CC      and                      Z5 
+0000008 280  AT1     a                        Z5 
+0000008 290  NN1     demeanor                 Z99 
+0000008 300  CST     that                     Z8 Z5 
+0000008 310  VVZ     says                     Q2.1 
+0000008 311  ,       ,                        
+0000008 320  RR      indisputably             Z99 
+0000008 321  :       :                        
+0000008 330  VD0     Do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000008 340  XX      not                      Z6 
+0000008 350  VVI     mess                     A1.1.1/A12- F1/G3 
+0000008 360  IW      with                     Z5 
+0000008 370  PPIO1   me                       Z8mf 
+0000008 371  .       .                        
+0000009 001  -----   -----                    
+0000010 010  JJ      Bottom                   A11.1+++[i15.2.1 N4 M6 B1 A5.1--- 
+0000010 020  NN1     line                     A11.1+++[i15.2.2 O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000010 021  :       :                        
+0000010 030  PPIS2   We                       Z8 
+0000010 040  VH0     have                     A9+ Z5 A2.2 S4 
+0000010 050  AT1     a                        Z5 
+0000010 060  JJ      new                      T3- 
+0000010 070  NN1     reality                  A3+ A5.2+ 
+0000010 080  NN1     TV                       Q4.3 S2.1/S2.2m 
+0000010 090  NN1     star                     W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 
+0000010 091  .       .                        
+0000010 092  -----   -----                    
+0000010 100  NP1     Joe                      Z1m 
+0000010 101  ,       ,                        
+0000010 110  VV0     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000010 120  AT1     a                        Z5 
+0000010 130  NN1     bow                      O4.1/B1/S7.2+ S1.2.4+ B5 G3 K2 M4 
+0000010 131  .       .                        
+0000011 001  -----   -----                    
+0000012 010  VV0     Grade                    A5.1 A4.1 
+0000012 011  :       :                        
+0000012 020  ZZ1     B                        Z5 
+0000015 001  NULL    **8;7;text               

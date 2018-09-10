@@ -1,0 +1,992 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  AT1     A                        Z5 
+0000002 020  JJ      new                      T3- 
+0000002 030  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000002 040  NN1     filter                   O2 
+0000002 050  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000002 060  CST     that                     Z8 Z5 
+0000002 070  VM      could                    A7+ 
+0000002 080  VVI     pave                     S8+[i1.3.1 H1 A1.1.1 
+0000002 090  AT      the                      S8+[i1.3.2 Z5 
+0000002 100  NN1     way                      S8+[i1.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000002 110  IF      for                      Z5 
+0000002 120  NN1     emergency                A11.1+ 
+0000002 130  JJ      intravenous              Z99 
+0000002 131  (       (                        
+0000002 140  MC      IV                       Z99 
+0000002 141  )       )                        
+0000002 150  NN2     operations               A1.1.1 B3 G3 
+0000002 160  TO      to                       Z5 
+0000002 170  VVI     help                     S8+ 
+0000002 180  JJ      sick                     B2- O4.2- X5.2- E3- 
+0000002 190  NN2     astronauts               Y1/W1/S2mf 
+0000002 200  II      in                       Z5 
+0000002 210  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000002 220  VBZ     is                       T1.1.3[i2.3.1 A3+ Z5 
+0000002 230  RPK     about                    T1.1.3[i2.3.2 
+0000002 240  TO      to                       T1.1.3[i2.3.3 Z5 
+0000002 250  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000002 260  AT      the                      Z5 
+0000002 270  JJ      ultimate                 T2- S7.1+++ A11.1+ N5.1+ A5.1+++ 
+0000002 280  NN1     test                     P1 B3 X2.4 K5.1@ 
+0000002 290  II      on                       Z5 
+0000002 300  NP1     NASA                     Z1 
+0000002 301  ?       ?                        
+0000002 310  ZZ1     s                        Z5 
+0000002 320  MD      next                     N4 
+0000002 330  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000002 340  NN1     shuttle                  M3fn M5fn O2 
+0000002 350  NN1     flight                   M5 M1 H2 
+0000002 351  .       .                        
+0000003 001  -----   -----                    
+0000004 010  AT      The                      Z5 
+0000004 020  JJ      new                      T3- 
+0000004 030  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000004 040  NN1     technology               Y1 
+0000004 041  ,       ,                        
+0000004 050  VVD     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000004 060  TO      to                       Z5 
+0000004 070  VVI     launch                   M4 M5 T2+ 
+0000004 080  NPD1    Monday                   T1.3 
+0000004 090  II      on                       Z5 
+0000004 100  AT      the                      Z5 
+0000004 110  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000004 120  NN1     shuttle                  M3fn M5fn O2 
+0000004 130  NN1     Discovery                A10+ 
+0000004 131  ,       ,                        
+0000004 140  VBZ     is                       Z5 A3+ 
+0000004 150  VVN     designed                 C1 X7+ 
+0000004 160  TO      to                       Z5 
+0000004 170  VVI     filter                   A1.1.1 
+0000004 180  RP      out                      M6 
+0000004 190  JJ      microscopic              N3.2- Y1/O2 
+0000004 200  NN2     contaminants             Z99 
+0000004 210  II      from                     Z5 
+0000004 220  VVG     drinking                 F2[i3.2.1 F2/B1 
+0000004 230  NN1     water                    F2[i3.2.2 O1.2 W3/M4 B1 C1% 
+0000004 240  TO      to                       Z5 
+0000004 250  VVI     produce                  A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000004 260  AT1     a                        Z5 
+0000004 270  JJ@     fluid                    O1.2 A2.1+ 
+0000004 280  JJ      sterile                  B4 B2-/S4 X5.2- 
+0000004 290  RR      enough                   N5+ N6+ 
+0000004 300  IF      for                      Z5 
+0000004 310  MC2     IVs                      Z3c 
+0000004 320  CS21    in                       A1.3+[i4.2.1 
+0000004 330  CS22    case                     A1.3+[i4.2.2 
+0000004 340  PPHS2   they                     Z8mfn 
+0000004 350  VBR     are                      Z5 A3+ 
+0000004 360  VVN     needed                   S6+ 
+0000004 370  II      in                       Z5 
+0000004 380  AT1     a                        Z5 
+0000004 390  JJ      medical                  B3 
+0000004 400  NN1     emergency                A11.1+ 
+0000004 410  II      in                       Z5 
+0000004 420  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000004 421  .       .                        
+0000004 422  -----   -----                    
+0000004 430  CS      If                       Z7 
+0000004 440  JJ      successful               X9.2+ 
+0000004 441  ,       ,                        
+0000004 450  PPH1    it                       Z8 
+0000004 460  VM      could                    A7+ 
+0000004 470  RR      also                     N5++ 
+0000004 480  VBI     be                       Z5 A3+ 
+0000004 490  VVN     used                     A1.5.1 S7.1+ 
+0000004 500  II      by                       Z5 
+0000004 510  AT      the                      Z5 
+0000004 520  NP1     United                   Z2c[i7.2.1 Z2c[i6.2.1 Z3c Z1mf[i5.2.1 Z3c[i5.2.1 
+0000004 530  NP1     States                   Z2c[i7.2.2 Z2c[i6.2.2 Z2 Z1mf[i5.2.2 Z3c[i5.2.2 
+0000004 540  JJ      military                 G3 
+0000004 550  II      in                       Z5 
+0000004 560  JJ      remote                   N3.3+ S1.2.1- 
+0000004 570  NN1     field                    F4 W3 M7 K5.1/M7 G3@ A4.1 
+0000004 580  NN2     operations               A1.1.1 B3 G3 
+0000004 581  ,       ,                        
+0000004 590  II      on                       Z5 
+0000004 600  NN2     submarines               M4 
+0000004 610  CC      and                      Z5 
+0000004 620  NN2     ships                    M4fn 
+0000004 621  ,       ,                        
+0000004 630  RG      as                       N5++[i8.2.1 A13 
+0000004 640  RR      well                     N5++[i8.2.2 A5.1+ A13.3 A7+ B2+ Z4 
+0000004 650  CSA     as                       Z5 
+0000004 660  II      in                       Z5 
+0000004 670  JJ      medical                  B3 
+0000004 680  NN1     relief                   E4.1+ A1.7- S8+ G3 B3 I1.1 I3.1/S2mf C1% 
+0000004 690  NN2     efforts                  X8+ O2 
+0000004 691  ,       ,                        
+0000004 700  NN2     researchers              X2.4/S2mf 
+0000004 710  VVD     said                     Q2.1 
+0000004 711  .       .                        
+0000006 001  NULL    <quote>                  
+0000006 002  -----   -----                    
+0000006 003  "       "                        
+0000006 010  MC      IV                       N1 T1.2 T3 T1.3 N3.2 
+0000006 020  JJ@     fluid                    O1.2 A2.1+ 
+0000006 030  NN1     production               A1.1.1 A10+ K4 K3 Q4.3 
+0000006 040  NNT1    anytime                  T1.1 
+0000006 041  ,       ,                        
+0000006 050  RL      anywhere                 M6 
+0000006 051  ,       ,                        
+0000006 060  VHZ     has                      A9+ Z5 A2.2 S4 
+0000006 070  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000006 080  JJ      medical                  B3 
+0000006 090  NN1     benefit                  S8+ I1.1/G1.1 
+0000006 100  II      on                       M6[i9.3.1 A1.1.1[i9.3.1 Z5 
+0000006 110  AT      the                      M6[i9.3.2 A1.1.1[i9.3.2 Z5 
+0000006 120  NN1     ground                   M6[i9.3.3 A1.1.1[i9.3.3 M6 W3 M7 O3 X2.1 
+0000006 130  II31    as                       N5++[i10.2.1 Z5 
+0000006 140  II32    well                     N5++[i10.2.2 
+0000006 150  II33    as                       Z5 
+0000006 160  II      in                       Z5 
+0000006 170  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000006 171  ,       ,                        
+0000006 172  "       "                        
+0000006 173  NULL    </quote>                 
+0000006 174  -----   -----                    
+0000006 180  VVD     said                     Q2.1 
+0000006 190  NP1     Philip                   Z1mf[i11.2.1 Z3c[i11.2.1 Z1m 
+0000006 200  NP1     Scarpa                   Z1mf[i11.2.2 Z3c[i11.2.2 
+0000006 201  ,       ,                        
+0000006 210  JJ      medical                  B3 
+0000006 220  NN2     operations               S7.1+/S2mf[i12.2.1 A1.1.1 B3 G3 
+0000006 230  NN1     manager                  S7.1+/S2mf[i12.2.2 S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf 
+0000006 240  II      at                       Z5 
+0000006 250  NP1     NASA                     Z1 
+0000006 251  ?       ?                        
+0000006 260  ZZ1     s                        Z5 
+0000006 270  NP1     Kennedy                  Z1mf 
+0000006 280  NN1     Space                    N3.6 W1 T1.3 Q1.2 
+0000006 290  NN1     Center                   M6 H1c M7c G1.2c K5.1mfn 
+0000006 300  II      in                       Z5 
+0000006 310  NP1     Florida                  Z2 
+0000006 311  ,       ,                        
+0000006 320  RRQ     where                    M6 
+0000006 330  NN1     Discovery                A10+ 
+0000006 340  VBZ     is                       Z5 A3+ 
+0000006 350  VVN     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000006 360  TO      to                       Z5 
+0000006 370  VVI     blast                    A1.1.1 X3.2 
+0000006 380  II      off                      Z5 E2- 
+0000006 390  NPD1    Monday                   T1.3[i13.2.1 T1.3 
+0000006 400  NNT1    morning                  T1.3[i13.2.2 T1.3 
+0000006 410  II      at                       Z5 
+0000006 420  MC      6:21                     N1 T1.2 T3 T1.3 N3.2 
+0000006 430  RA      a.m                      T1.3 
+0000006 431  .       .                        
+0000006 432  -----   -----                    
+0000006 440  NP1     EDT                      Z99 
+0000006 441  (       (                        
+0000006 450  MC      1021                     N1 T1.2 T3 T1.3 N3.2 
+0000006 460  RA      GMT                      Z3/T1 
+0000006 461  )       )                        
+0000006 462  .       .                        
+0000007 001  -----   -----                    
+0000008 010  NN1     Scarpa                   Z99 
+0000008 011  ?       ?                        
+0000008 020  ZZ1     s                        Z5 
+0000008 030  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000008 040  VVN     worked                   I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000008 050  IW      with                     Z5 
+0000008 060  NN2     researchers              X2.4/S2mf 
+0000008 070  II      at                       Z5 
+0000008 080  NP1     NASA                     Z1 
+0000008 081  ?       ?                        
+0000008 090  ZZ1     s                        Z5 
+0000008 100  NP1     Glenn                    Z1mf 
+0000008 110  NN1     Research                 X2.4 
+0000008 120  NN1     Center                   M6 H1c M7c G1.2c K5.1mfn 
+0000008 130  II      in                       Z5 
+0000008 140  NP1     Ohio                     Z2 
+0000008 150  TO      to                       Z5 
+0000008 160  VVI     develop                  A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000008 170  AT      the                      Z5 
+0000008 180  JJ      new                      T3- 
+0000008 190  NN1     filtering                A1.1.1 
+0000008 200  NN1     technology               Y1 
+0000008 201  .       .                        
+0000008 202  -----   -----                    
+0000008 210  AT      The                      Z5 
+0000008 220  NN1     study                    P1 X2.4 H2 Q1.2 C1 
+0000008 221  ,       ,                        
+0000008 230  VVN     nicknamed                Q2.2 
+0000008 231  ?       ?                        
+0000008 232  -----   -----                    
+0000008 240  NP1@    Project                  Z1mf[i14.2.1 Z3c[i14.2.1 
+0000008 250  NP1     Clearwater               Z1mf[i14.2.2 Z3c[i14.2.2 
+0000008 251  ,       ,                        
+0000008 252  ?       ?                        
+0000008 260  VVD     resulted                 A2.2 
+0000008 270  II      in                       Z5 
+0000008 280  JJ      IntraVenous              Z99 
+0000008 290  NN1     Fluid                    O1.2 
+0000008 300  NN1     Generation               T1.3 S5+c 
+0000008 301  (       (                        
+0000008 310  NP1     IVGEN                    Z99 
+0000008 311  )       )                        
+0000008 320  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000008 330  NN1     filter                   O2 
+0000008 331  .       .                        
+0000009 001  -----   -----                    
+0000010 010  NN2     Researchers              X2.4/S2mf 
+0000010 020  VVD     said                     Q2.1 
+0000010 030  AT      the                      Z5 
+0000010 040  NN1     device                   O2 X4.2 Q1.1 
+0000010 050  VVZ@    marks                    O4.2- Q1.2 A5/P1 N3.1 Q1.1 
+0000010 060  AT1     a                        A5.1+/A2.1[i15.3.1 M1[i15.3.1 Z5 
+0000010 070  JJ      huge                     N3.2+++ 
+0000010 080  NN1     step                     A5.1+/A2.1[i15.3.2 M1[i15.3.2 M1 T1.2 H5 O2 A2.1+ A1.1.1 K1@ K5.1@ M1[i16.2.1 S1.1.1[i16.2.1 
+0000010 090  RL      forward                  A5.1+/A2.1[i15.3.3 M1[i15.3.3 M6 T1.1.3 M1[i16.2.2 S1.1.1[i16.2.2 
+0000010 100  II      in                       Z5 
+0000010 110  JJ      improving                A5.1+/A2.1 
+0000010 120  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000010 130  NN1     quality                  A5.1 A5.1+ O4.1 
+0000010 140  II      during                   Z5 
+0000010 150  NN2     spaceflights             Z99 
+0000010 151  .       .                        
+0000010 152  -----   -----                    
+0000010 160  NN1     Discovery                A10+ 
+0000010 170  VM      will                     T1.1.3 
+0000010 180  RR      also                     N5++ 
+0000010 190  VVI     deliver                  M2 Q2.1 X9.2+ B3 S9% 
+0000010 200  AT1     a                        Z5 
+0000010 210  JJ      new                      T3- 
+0000010 220  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000010 230  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000010 240  NN1     recycling                A1.5.1/N6 
+0000010 250  NN1     device                   O2 X4.2 Q1.1 
+0000010 260  CST     that                     Z8 Z5 
+0000010 270  VVZ     converts                 A2.1+ S9 K5.1 
+0000010 280  JJ@     waste                    N5.2+ O4.2- 
+0000010 290  NN1     hydrogen                 O1.3 
+0000010 300  CC      and                      Z5 
+0000010 310  NN1     carbon                   O1.3[i17.2.1 O1.1 Q1.2@ 
+0000010 320  NN1     dioxide                  O1.3[i17.2.2 O1 
+0000010 330  NN1     gas                      O1.3 
+0000010 340  RP      back                     M6 N6+ T1.1.1 S1.1.2+ 
+0000010 350  II      into                     Z5 
+0000010 360  JJ      potable                  Z99 
+0000010 370  NN1     drinking                 F2[i18.2.1 F2/B1 
+0000010 380  NN1     water                    F2[i18.2.2 O1.2 W3/M4 B1 C1% 
+0000010 381  .       .                        
+0000011 001  -----   -----                    
+0000012 010  AT      The                      Z5 
+0000012 020  NN1     shuttle                  M3fn M5fn O2 
+0000012 021  GE      's                       Z5 
+0000012 030  NN1     ascent                   M1 A2.1 
+0000012 040  II      into                     Z5 
+0000012 050  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000012 060  VM      may                      A7+ 
+0000012 070  VBI     be                       A3+ Z5 
+0000012 080  JJ      visible                  X3.4 A11.2+ 
+0000012 081  ,       ,                        
+0000012 090  NN1     weather                  W4 
+0000012 100  VVG     permitting               S7.4+ 
+0000012 101  ,       ,                        
+0000012 110  II      to                       Z5 
+0000012 120  NN2     skywatchers              Z99 
+0000012 130  DB      all                      N5.1+ 
+0000012 140  II      along                    Z5 
+0000012 150  AT      the                      Z5 
+0000012 160  ND1     East                     M6 
+0000012 170  NN1     Coast                    W3/M4 
+0000012 180  IO      of                       Z5 
+0000012 190  AT      the                      Z5 
+0000012 200  NP1     United                   Z2c[i21.2.1 Z2c[i20.2.1 Z3c Z1mf[i19.2.1 Z3c[i19.2.1 
+0000012 210  NP1     States                   Z2c[i21.2.2 Z2c[i20.2.2 Z2 Z1mf[i19.2.2 Z3c[i19.2.2 
+0000012 211  (       &lsqb;                   
+0000012 220  RRQ     how                      Z5 A13.3 
+0000012 230  TO      to                       Z5 
+0000012 240  VVI     spot                     X3.4 
+0000012 250  AT      the                      Z5 
+0000012 260  NN1     shuttle                  M3fn M5fn O2 
+0000012 270  NN1     launch                   M4fn M5 T2+ 
+0000012 271  )       &rsqb;                   
+0000012 272  .       .                        
+0000013 001  -----   -----                    
+0000014 010  MC2     IVs                      T1.3 N1 T3 
+0000014 020  II      in                       Z5 
+0000014 030  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000016 010  CS      When                     Z5 
+0000016 020  PPH1    it                       Z8 
+0000016 030  VVZ     comes                    A4.1[i22.2.1 M1[i22.2.1 B1[i22.2.1 N5[i22.2.1 X6+[i22.2.1 X2.1[i22.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000016 040  II      to                       A4.1[i22.2.2 M1[i22.2.2 B1[i22.2.2 N5[i22.2.2 X6+[i22.2.2 X2.1[i22.2.2 Z5 
+0000016 050  JJ      medical                  B3 
+0000016 060  NN2     supplies                 A9- A9+ S8+% 
+0000016 070  II      in                       Z5 
+0000016 080  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000016 081  ,       ,                        
+0000016 090  MC2     IVs                      Z3c 
+0000016 100  VM      can                      A7+ 
+0000016 110  VBI     be                       A3+ Z5 
+0000016 120  JJ      difficult                A12- 
+0000016 130  TO      to                       Z5 
+0000016 140  VVI     come                     M1[i23.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000016 150  II      by                       M1[i23.2.2 Z5 
+0000016 151  .       .                        
+0000017 001  -----   -----                    
+0000018 010  MC1     One                      N1 T3 T1.2 
+0000018 020  NN1     challenge                A12- A6.1- S7.3+ E3- 
+0000018 030  VBZ     is                       A3+ Z5 
+0000018 040  APPGE   their                    Z8 
+0000018 050  RR      relatively               A13/A6 
+0000018 060  JJ      limited                  N5- I2.1 A1.7+ 
+0000018 070  NN1     shelf                    H5 
+0000018 080  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000018 081  ,       ,                        
+0000018 090  II21    due                      A2.2[i24.2.1 
+0000018 100  II22    to                       A2.2[i24.2.2 Z5 
+0000018 110  AT      the                      Z5 
+0000018 120  NN1     need                     S6+ 
+0000018 130  IF      for                      Z5 
+0000018 140  NN1     sterility                B4 B2-/S4 X5.2- 
+0000018 141  .       .                        
+0000018 142  -----   -----                    
+0000018 150  CC      And                      Z5 
+0000018 160  II      since                    Z5 
+0000018 170  MC      IV                       Z99 
+0000018 180  NN2     fluids                   O1.2 
+0000018 190  RR      also                     N5++ 
+0000018 200  VV0     take                     A9+[i25.2.1 T2+[i25.2.1 A1.5.1[i25.2.1 M2[i25.2.1 N3.7-/A2.1[i25.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000018 210  RP      up                       A9+[i25.2.2 T2+[i25.2.2 A1.5.1[i25.2.2 M2[i25.2.2 N3.7-/A2.1[i25.2.2 
+0000018 220  AT1     a                        N5+[i26.2.1 N6+[i26.2.1 A13.3[i26.2.1 Z5 
+0000018 230  NN1     lot                      N5+[i26.2.2 N6+[i26.2.2 A13.3[i26.2.2 
+0000018 240  IO      of                       Z5 
+0000018 250  NN1     volume                   N3.4 N5 Q4.1 Q4.2 X3.2 
+0000018 251  (       (                        
+0000018 260  PPHS2   they                     Z8mfn 
+0000018 270  VV0     weigh                    N3.5 X2.1 E6- A2.1+ 
+0000018 280  DAR     more                     N5++ 
+0000018 290  CSN     than                     Z5 
+0000018 300  MC      2                        I1[i27.2.1 N3.5[i27.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000018 310  NN2     pounds                   I1[i27.2.2 N3.5[i27.2.2 M7 
+0000018 320  II      per                      Z5 
+0000018 330  NN1     liter                    Z99 
+0000018 331  )       )                        
+0000018 332  ,       ,                        
+0000018 340  NN2     astronauts               Y1/W1/S2mf 
+0000018 350  VM      can                      A7+ 
+0000018 360  RR      only                     A14 
+0000018 370  VBI     be                       Z5 A3+ 
+0000018 380  VVN     supplied                 A9- 
+0000018 390  IW      with                     Z5 
+0000018 400  AT1     an                       Z5 
+0000018 410  RR      extremely                A13.3 
+0000018 420  JJ      restricted               A1.7+ 
+0000018 430  NN1     amount                   N5 
+0000018 440  IO      of                       Z5 
+0000018 450  NN2     fluids                   O1.2 
+0000018 460  II      in                       Z5 
+0000018 470  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000018 471  .       .                        
+0000019 001  -----   -----                    
+0000020 010  AT      The                      Z5 
+0000020 020  NN1     space                    Y1/W1c[i28.2.1 N3.6 W1 T1.3 Q1.2 
+0000020 030  NN1     station                  Y1/W1c[i28.2.2 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
+0000020 040  RR      typically                A6.2+ A4.2+ 
+0000020 050  VHZ     has                      A9+ Z5 A2.2 S4 
+0000020 060  AT1     a                        Z5 
+0000020 070  NN1     supply                   A9- A9+ S8+% 
+0000020 080  IO      of                       Z5 
+0000020 090  RG      about                    A13.4 
+0000020 100  MC      12                       N1 T1.2 T3 T1.3 N3.2 
+0000020 110  NN2     liters                   Z99 
+0000020 120  IO      of                       Z5 
+0000020 130  NN1     fluid                    O1.2 
+0000020 140  CC      and                      Z5 
+0000020 150  DD      any                      N5.1+ N5 
+0000020 160  JJ@     given                    A4.2+ A9- 
+0000020 170  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000020 171  .       .                        
+0000020 172  -----   -----                    
+0000020 180  MC1     One                      N1 T3 T1.2 
+0000020 190  JJ      recent                   T3- 
+0000020 200  NP1     NASA                     Z1 
+0000020 210  NN1     study                    P1 X2.4 H2 Q1.2 C1 
+0000020 220  VVD     reported                 Q2.2 S7.1- 
+0000020 230  CST     that                     Z5 Z8 
+0000020 240  AT1     a                        Z5 
+0000020 250  NN1     mission                  X7+ G3 S9 S9/H1 
+0000020 260  II      to                       Z5 
+0000020 270  NP1     Mars                     Z3c Z1/W1 S9/T1.1.1@ 
+0000020 280  VM      may                      A7+ 
+0000020 290  VVI     need                     S6+ 
+0000020 300  RG      as                       A13.4[i29.3.1 A13 
+0000020 310  DA1     much                     A13.4[i29.3.2 N5+ I1.3+ 
+0000020 320  CSA     as                       A13.4[i29.3.3 Z5 
+0000020 330  MC      248                      N1 T1.2 T3 T1.3 N3.2 
+0000020 340  NN2     liters                   Z99 
+0000020 350  IO      of                       Z5 
+0000020 360  MC      IV                       Z99 
+0000020 370  NN2     fluids                   O1.2 
+0000020 380  RL21    on                       M6[i30.2.1 S5+[i30.2.1 
+0000020 390  RL22    board                    M6[i30.2.2 S5+[i30.2.2 
+0000020 391  ,       ,                        
+0000020 400  NN2     researchers              X2.4/S2mf 
+0000020 410  VVD     said                     Q2.1 
+0000020 411  .       .                        
+0000021 001  -----   -----                    
+0000022 010  RR      Currently                T1.1.2 
+0000022 011  ,       ,                        
+0000022 020  NP1     NASA                     Z1 
+0000022 021  ?       ?                        
+0000022 030  ZZ1     s                        Z5 
+0000022 040  JJ      medical                  B3 
+0000022 050  NN2     experts                  X2.2+/S2mf X9.1+/S2mf 
+0000022 060  VH0     have                     Z5 A9+ A2.2 S4 
+0000022 070  VVN     identified               X2.2+ A10+ X2.5+ 
+0000022 080  RR21    at                       A13.7[i31.2.1 
+0000022 090  RR22    least                    A13.7[i31.2.2 A13.7 
+0000022 100  MC      115                      N1 T1.2 T3 T1.3 N3.2 
+0000022 110  JJ      different                A6.1- 
+0000022 120  NN2     scenarios                K4 Q1.2 X7+ 
+0000022 130  II      in                       Z5 
+0000022 140  DDQ     which                    Z8 Z5 
+0000022 150  AT1     a                        Z5 
+0000022 160  JJ      sick                     B2- O4.2- X5.2- E3- 
+0000022 170  CC      or                       Z5 
+0000022 180  JJ      injured                  B2- A1.1.2 E1 
+0000022 190  NN1     astronaut                Y1/W1/S2mf 
+0000022 200  VM      could                    A7+ 
+0000022 210  VVI     need                     S6+ 
+0000022 220  AT1     an                       Z5 
+0000022 230  MC      IV                       Z99 
+0000022 240  CS      while                    Z5 
+0000022 250  VVG     living                   H4 L1+ 
+0000022 260  II      on                       Z5 
+0000022 270  AT      the                      Z5 
+0000022 280  NN1     space                    Y1/W1c[i32.2.1 N3.6 W1 T1.3 Q1.2 
+0000022 290  NN1     station                  Y1/W1c[i32.2.2 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
+0000022 291  ,       ,                        
+0000022 300  RR      mostly                   A13.2 
+0000022 310  IF      for                      Z5 
+0000022 320  NN1     rehydration              Z99 
+0000022 330  IO      of                       Z5 
+0000022 340  NN1     medicine                 B3 
+0000022 350  NN1     delivery                 M2 Q2.1 X9.2+ B3 S9% 
+0000022 351  .       .                        
+0000023 001  -----   -----                    
+0000024 001  ?       ?                        
+0000024 010  RL21    On                       M6[i33.2.1 S5+[i33.2.1 
+0000024 020  RL22    board                    M6[i33.2.2 S5+[i33.2.2 
+0000024 030  CC      or                       Z5 
+0000024 031  ?       ?                        
+0000024 040  NN1     in-situ                  Z99 
+0000024 041  ?       ?                        
+0000024 050  NN1     production               A1.1.1 A10+ K4 K3 Q4.3 
+0000024 060  IO      of                       Z5 
+0000024 070  MC      IV                       Z99 
+0000024 080  NN2     fluids                   O1.2 
+0000024 090  VVN     needed                   S6+ 
+0000024 100  IF      for                      Z5 
+0000024 110  JJ      medical                  B3[i34.2.1 B3 
+0000024 120  NN2     treatments               B3[i34.2.2 B3 S1.1.1 A1.1.1 X4.2 
+0000024 121  ,       ,                        
+0000024 130  VM      could                    A7+ 
+0000024 140  RR      greatly                  A13.3 A5.1+ 
+0000024 150  VVI     reduce                   N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000024 160  DD2     these                    Z5 Z8 
+0000024 170  NN2     costs                    I1.3 
+0000024 180  CC      and                      Z5 
+0000024 190  NN1     storage                  A9+ 
+0000024 200  NN2     limitations              A1.7+ 
+0000024 201  ,       ,                        
+0000024 210  CC      and                      Z5 
+0000024 220  VM      would                    A7+ 
+0000024 230  VVI     give                     A9- A1.1.1 
+0000024 240  NP1     NASA                     Z1 
+0000024 250  DA1     much                     N5+ I1.3+ 
+0000024 260  DAR     more                     N5++ 
+0000024 270  NN1     flexibility              O4.5 A2.1+ 
+0000024 280  II      in                       Z5 
+0000024 290  RRQ     how                      Z5 A13.3 
+0000024 300  PPH1    it                       Z8 
+0000024 310  VM      can                      A7+ 
+0000024 320  VVI     use                      A1.5.1 S7.1+ 
+0000024 330  AT      the                      Z5 
+0000024 340  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000024 350  PPH1    it                       Z8 
+0000024 360  RR      already                  T1.1.1 
+0000024 370  VHZ     has                      A9+ Z5 A2.2 S4 
+0000024 380  II      on                       Z5 
+0000024 390  AT      the                      Z5 
+0000024 400  NN      spacecraft               M5/W1 
+0000024 401  ,       ,                        
+0000024 402  ?       ?                        
+0000024 403  -----   -----                    
+0000024 410  NP1@    Scarpa                   Z99 
+0000024 420  VVD     said                     Q2.1 
+0000024 430  II      in                       Z5 
+0000024 440  AT1     a                        Z5 
+0000024 450  NN1     statement                Q2.1 I1/Q1.2 
+0000024 451  .       .                        
+0000025 001  -----   -----                    
+0000026 010  AT1     A                        Z5 
+0000026 020  NN1     suitcase                 B5 
+0000026 030  VV0     machine                  A1.1.1 
+0000028 010  AT      The                      Z5 
+0000028 020  NN1     IVGEN                    Z99 
+0000028 030  VBZ     is                       A3+ Z5 
+0000028 040  AT1     a                        Z5 
+0000028 050  JJ      suitcase-sized           Z99 
+0000028 060  NN1     device                   O2 X4.2 Q1.1 
+0000028 070  CST     that                     Z8 Z5 
+0000028 080  VVZ     produces                 A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000028 090  JJ      IV-grade                 Z99 
+0000028 100  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000028 110  II      from                     Z5 
+0000028 120  JJ      available                A3+ A9+ A1.2+/G1.2 S4 
+0000028 130  NN1     space                    Y1/W1c[i35.2.1 N3.6 W1 T1.3 Q1.2 
+0000028 140  NN1     station                  Y1/W1c[i35.2.2 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
+0000028 150  NN1     drinking                 F2[i36.2.1 F2/B1 
+0000028 160  NN1     water                    F2[i36.2.2 O1.2 W3/M4 B1 C1% 
+0000028 161  .       .                        
+0000028 162  -----   -----                    
+0000028 170  PPH1    It                       Z8 
+0000028 180  VVZ     filters                  A1.1.1 
+0000028 190  RP      out                      M6 
+0000028 200  JJ      microscopic              N3.2- Y1/O2 
+0000028 210  NN2     contaminants             Z99 
+0000028 220  II      like                     Z5 
+0000028 230  JJ      heavy                    N3.5+ S1.2.5+ N5+ O4.1 E4.1- W4 A12- A1.1.1 N3.2+ A1.1.2@ 
+0000028 240  NN2     metals                   O1.1 K2 
+0000028 250  CC      and                      Z5 
+0000028 260  NN2     toxins                   O1 
+0000028 261  .       .                        
+0000028 262  -----   -----                    
+0000028 270  PPH1    It                       Z8 
+0000028 280  VM      will                     T1.1.3 
+0000028 290  VBI     be                       Z5 A3+ 
+0000028 300  VVN     mounted                  T2+ A1.1.1 N5+/A2.1 M1 M2 
+0000028 310  II      inside                   Z5 
+0000028 320  AT      the                      Z5 
+0000028 330  NN1     space                    Y1/W1c[i37.2.1 N3.6 W1 T1.3 Q1.2 
+0000028 340  NN1     station                  Y1/W1c[i37.2.2 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
+0000028 341  ?       ?                        
+0000028 350  ZZ1     s                        Z5 
+0000028 360  NN1     science                  Y1 
+0000028 370  NN1     glove                    B5 O2 
+0000028 380  NN1     box                      O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ 
+0000028 390  II      during                   Z5 
+0000028 400  APPGE   its                      Z8 
+0000028 410  NN1     test                     P1 B3 X2.4 K5.1@ 
+0000028 411  ,       ,                        
+0000028 420  NN2     researchers              X2.4/S2mf 
+0000028 430  VVD     said                     Q2.1 
+0000028 431  .       .                        
+0000029 001  -----   -----                    
+0000030 010  AT      The                      Z5 
+0000030 020  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
+0000030 030  NN1     risk                     A15- A1.4 
+0000030 040  VBZ     is                       A3+ Z5 
+0000030 050  AT      the                      Z5 
+0000030 060  NN1     formation                A2.1+ O4.4 S5+c 
+0000030 070  IO      of                       Z5 
+0000030 080  NN2     bubbles                  O2 
+0000030 090  II21    due                      A2.2[i38.2.1 
+0000030 100  II22    to                       A2.2[i38.2.2 Z5 
+0000030 110  AT      the                      Z5 
+0000030 120  NN1     lack                     A9- 
+0000030 130  IO      of                       Z5 
+0000030 140  NN1     gravity                  N3 A11.1+ 
+0000030 150  II      in                       Z5 
+0000030 160  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000030 161  .       .                        
+0000032 001  NULL    <quote>                  
+0000032 002  -----   -----                    
+0000032 003  "       "                        
+0000032 010  NN2     Bubbles                  O2 
+0000032 020  VBR     are                      A3+ Z5 
+0000032 030  RR      probably                 A7+ 
+0000032 040  AT      the                      Z5 
+0000032 050  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
+0000032 060  NN1     concern                  E6- I2.1 
+0000032 061  ,       ,                        
+0000032 062  "       "                        
+0000032 063  NULL    </quote>                 
+0000032 064  -----   -----                    
+0000032 070  NP1@    Scarpa                   Z99 
+0000032 080  VVD     said                     Q2.1 
+0000032 081  .       .                        
+0000032 082  -----   -----                    
+0000032 083  ?       ?                        
+0000032 090  VVZ%    Bubbles                  A1.1.1 
+0000032 100  II      in                       Z5 
+0000032 110  MC      IV                       Z99 
+0000032 120  NN2     fluids                   O1.2 
+0000032 130  VBR     are                      A3+ Z5 
+0000032 140  JJ      dangerous                A15- 
+0000032 150  IF      for                      Z5 
+0000032 160  AT1     a                        Z5 
+0000032 170  NN1     patient                  B2-/S2mf 
+0000032 180  RR21    as                       N5++[i39.2.1 
+0000032 190  RR22    well                     N5++[i39.2.2 A5.1+ A13.3 A7+ B2+ Z4 
+0000032 191  .       .                        
+0000032 192  -----   -----                    
+0000032 200  CS      If                       Z7 
+0000032 210  VVN     entered                  M1 S5+ Q1.2 T2+ A1.8+ 
+0000032 220  II      into                     Z5 
+0000032 230  AT      the                      Z5 
+0000032 240  NN2     veins                    B1 O2 W3 A4.1 X4.2 
+0000032 241  ,       ,                        
+0000032 250  PPHS2   they                     Z8mfn 
+0000032 260  VM      could                    A7+ 
+0000032 270  VVI     cause                    A2.2 
+0000032 280  AT1     a                        Z5 
+0000032 290  NN1     stroke                   B2- M1 E3- X3.2 Q1.2 A1.4 N5 M4/S2mf Z5 
+0000032 300  II      by                       Z5 
+0000032 310  VVG     blocking                 A10- S8- K4% 
+0000032 320  AT      the                      Z5 
+0000032 330  NN1     brain                    B1 X2 X9.1+ X9.1+/S2mf 
+0000032 331  ?       ?                        
+0000032 340  ZZ1     s                        Z5 
+0000032 350  NN1     blood                    B1 
+0000032 360  NNU     flow.                    M4 M1 N5 Z2 
+0000032 361  ?       ?                        
+0000033 001  -----   -----                    
+0000034 010  NN1     Scarpa                   Z99 
+0000034 011  ?       ?                        
+0000034 020  ZZ1     s                        Z5 
+0000034 030  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000034 040  VVD     devised                  X7+ X2.1 
+0000034 050  JJ      micron-sized             Z99 
+0000034 060  NN2     filters                  O2 
+0000034 070  TO      to                       Z5 
+0000034 080  VVI     trap                     A1.7+ A9+ S3.2% 
+0000034 090  CC      and                      Z5 
+0000034 100  VVI     squeeze                  S7.1+[i40.2.1 A1.1.1[i40.2.1 M2 M2/O1.2 N5- A9+/S7.1+ F1 
+0000034 110  RP      out                      S7.1+[i40.2.2 A1.1.1[i40.2.2 M6 
+0000034 120  AT      the                      Z5 
+0000034 130  NN2     bubbles                  O2 
+0000034 140  II      from                     Z5 
+0000034 150  AT      the                      Z5 
+0000034 160  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000034 161  .       .                        
+0000035 001  -----   -----                    
+0000036 010  II      During                   Z5 
+0000036 020  NN1     Discovery                A10+ 
+0000036 021  ?       ?                        
+0000036 030  ZZ1     s                        Z5 
+0000036 040  MC      STS-131                  Z99 
+0000036 050  NN1     mission                  X7+ G3 S9 S9/H1 
+0000036 051  ,       ,                        
+0000036 060  NN2     astronauts               Y1/W1/S2mf 
+0000036 070  VM      will                     T1.1.3 
+0000036 080  VVI     run                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000036 090  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000036 100  II      through                  Z5 
+0000036 110  AT      the                      Z5 
+0000036 120  NN1     IVGEN                    Z99 
+0000036 130  NN1     filter                   O2 
+0000036 140  II      from                     Z5 
+0000036 150  AT1     a                        Z5 
+0000036 160  NN1     storage                  A9+ 
+0000036 170  NN1     bag                      B5 O2 B1 
+0000036 180  CC      and                      Z5 
+0000036 190  VV0     run                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000036 200  DA2     several                  N5 
+0000036 210  NN2     cycles                   M3fn N6 B1 
+0000036 211  ,       ,                        
+0000036 220  RT      then                     N4 Z5 T1.2 
+0000036 230  VV0     freeze                   O4.6- M8 T2- E5- 
+0000036 240  AT      the                      Z5 
+0000036 250  JJ      resulting                A2.2 
+0000036 260  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000036 270  CS@     so                       Z5 
+0000036 280  PPH1    it                       Z8 
+0000036 290  VM      can                      A7+ 
+0000036 300  VBI     be                       Z5 A3+ 
+0000036 310  VVN@    analyzed                 X2.4 
+0000036 320  II      on                       Z5 
+0000036 330  NN1     Earth                    W3 W1 O1.1 O3 N5++ 
+0000036 331  .       .                        
+0000036 332  -----   -----                    
+0000036 340  AT      The                      Z5 
+0000036 350  NN1     equipment                O2 
+0000036 360  VBZ     is                       Z5 A3+ 
+0000036 370  VVN@    slated                   Q2.2 
+0000036 380  TO      to                       Z5 
+0000036 390  VBI     be                       Z5 A3+ 
+0000036 400  VVN     returned                 M1 A9- N6 
+0000036 410  II      on                       Z5 
+0000036 420  AT1     a                        Z5 
+0000036 430  JJR     later                    T4-- T1.1.3 N4 
+0000036 440  NN1     shuttle                  M3fn M5fn O2 
+0000036 450  NN1     flight                   M5 M1 H2 
+0000036 451  .       .                        
+0000037 001  -----   -----                    
+0000040 010  AT      The                      Z5 
+0000040 020  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000040 030  NN1     IVGEN                    Z99 
+0000040 040  NN      works                    I4/H1c H1c A1.1.1 N5.1+ Q4 
+0000040 050  VBZ     is                       A3+ Z5 
+0000040 060  TO      to                       Z5 
+0000040 070  VVI     transfer                 M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5 
+0000040 080  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000040 090  II      from                     Z5 
+0000040 100  AT      the                      Z5 
+0000040 110  NN1     station                  M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
+0000040 120  NN1     container                O2 
+0000040 121  GE      's                       Z5 
+0000040 130  NN1     supply                   A9- A9+ S8+% 
+0000040 140  II      to                       Z5 
+0000040 150  AT1     an                       Z5 
+0000040 160  NN1     accumulator              O3 Y2 
+0000040 161  ,       ,                        
+0000040 170  DDQ     which                    Z8 Z5 
+0000040 180  VVZ@    forces                   S7.1+ A1.1.1 E3- 
+0000040 190  DD1     that                     Z5 Z8 
+0000040 200  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000040 210  II      through                  Z5 
+0000040 220  AT1     a                        Z5 
+0000040 230  NN      series                   N4c Q4.3c 
+0000040 240  IO      of                       Z5 
+0000040 250  NN2     filters                  O2 
+0000040 251  .       .                        
+0000040 252  -----   -----                    
+0000040 260  AT      The                      Z5 
+0000040 270  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000040 280  VBZ     is                       Z5 A3+ 
+0000040 290  VVN     dispensed                A9- B3 
+0000040 300  II      into                     Z5 
+0000040 310  AT1     an                       Z5 
+0000040 320  JJ%     IV                       Z99 
+0000040 330  NN1     bag                      B5 O2 B1 
+0000040 331  ,       ,                        
+0000040 340  JJ      similar                  A6.1+ 
+0000040 350  II      to                       Z5 
+0000040 360  AT      the                      Z5 
+0000040 370  NN1     kind                     A4.1 
+0000040 380  VVN     used                     A1.5.1 S7.1+ 
+0000040 390  II      in                       Z5 
+0000040 400  NN2     hospitals                B3/H1c 
+0000040 401  .       .                        
+0000041 001  -----   -----                    
+0000042 010  RR      Once                     N6- T1.1.1 
+0000042 020  II      inside                   Z5 
+0000042 030  AT      the                      Z5 
+0000042 040  MC      IV                       Z99 
+0000042 050  NN1     bag                      B5 O2 B1 
+0000042 051  ,       ,                        
+0000042 060  DDQ     which                    Z8 Z5 
+0000042 070  RR      also                     N5++ 
+0000042 080  VVZ     contains                 A1.8+ A1.7+ 
+0000042 090  NN1     salt                     F1 O1.1 
+0000042 100  CC      and                      Z5 
+0000042 110  AT1     a                        Z5 
+0000042 120  NN1@    stir                     A1.1.1 
+0000042 130  NN1     bar                      F2/H1c F2/H2 F2/H5 O2 O4.4 S8- G2.1c K2 
+0000042 131  ,       ,                        
+0000042 140  AT      the                      Z5 
+0000042 150  NN1     fluid                    O1.2 
+0000042 160  VBZ     is                       Z5 A3+ 
+0000042 170  RT      then                     N4 Z5 T1.2 
+0000042 180  RR      thoroughly               A13.2 A1.3+ 
+0000042 190  VVN     mixed                    S5+[i41.2.1 A2.1+[i41.2.1 A2.1+ S1.1.3+ K3 
+0000042 200  RL      together                 S5+[i41.2.2 A2.1+[i41.2.2 S5+ T1.1.2 M6 
+0000042 210  IW      with                     Z5 
+0000042 220  AT      the                      Z5 
+0000042 230  NN1     salt                     F1 O1.1 
+0000042 231  .       .                        
+0000042 232  -----   -----                    
+0000042 240  DD1     This                     Z8 M6 Z5 
+0000042 250  VM      should                   S6+ A7+ 
+0000042 260  VVI     result                   A2.2 
+0000042 270  II      in                       Z5 
+0000042 280  AT1     a                        Z5 
+0000042 290  JJ      saline                   O1.2 
+0000042 300  NN1     solution                 X4.2 O1.2 
+0000042 301  ,       ,                        
+0000042 310  DA      same                     A6.1+++ 
+0000042 320  CSA     as                       Z5 
+0000042 330  AT      the                      Z5 
+0000042 340  MC      IV                       Z99 
+0000042 350  NN1     fluid                    O1.2 
+0000042 360  VVN     used                     A1.5.1 S7.1+ 
+0000042 370  II      on                       Z5 
+0000042 380  NN1     Earth                    W3 W1 O1.1 O3 N5++ 
+0000042 381  ,       ,                        
+0000042 390  RT      then                     N4 Z5 T1.2 
+0000042 400  VVZ     goes                     M1[i42.2.1 X9.2+[i42.2.1 X2.4[i42.2.1 A1.1.1[i42.2.1 Q2.2[i42.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000042 410  II      through                  M1[i42.2.2 X9.2+[i42.2.2 X2.4[i42.2.2 A1.1.1[i42.2.2 Q2.2[i42.2.2 Z5 
+0000042 420  MC1     one                      N1[i43.2.1 N1 T3 T1.2 
+0000042 430  MD      last                     N1[i43.2.2 N4 
+0000042 440  NN1     check                    X2.4/A5.3 I1.3 O4.4/B5 
+0000042 450  TO      to                       Z5 
+0000042 460  VVI     make                     A7+[i44.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000042 470  JJ      sure                     A7+[i44.2.2 A7+ Z4 
+0000042 480  PPH1    it                       Z8 
+0000042 481  ?       ?                        
+0000042 490  ZZ1     s                        Z5 
+0000042 500  RR      completely               A13.2 
+0000042 510  VVN     mixed                    A2.1+ S1.1.3+ K3 
+0000042 520  II      before                   Z5 
+0000042 530  VBG     being                    Z5 A3+ 
+0000042 540  VVN     collected                A9+ 
+0000042 550  CC      and                      Z5 
+0000042 560  VVN     frozen                   O4.6- M8 T2- E5- 
+0000042 570  II      by                       Z5 
+0000042 580  NN2     astronauts               Y1/W1/S2mf 
+0000042 581  .       .                        
+0000044 001  NULL    <quote>                  
+0000044 002  -----   -----                    
+0000044 003  "       "                        
+0000044 010  ZZ1     A                        Z5 
+0000044 020  JJ      perfect                  A5.1+++ A1.2+++ Q3 
+0000044 030  NN1     result                   A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
+0000044 040  VM      would                    A7+ 
+0000044 050  VBI     be                       A3+ Z5 
+0000044 060  TO      to                       Z5 
+0000044 070  VHI     have                     Z5 A9+ A2.2 S4 
+0000044 080  VVN@    output                   Y2 
+0000044 090  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000044 100  CST     that                     Z8 Z5 
+0000044 110  VVZ     satisfies                E4.2+ A1.2+ 
+0000044 120  AT      the                      Z5 
+0000044 130  JJ      strict                   S1.2.5+ A1.7+ 
+0000044 140  NN2     standards                Q3[i45.2.1 A5.1 G2.2 Q1.1 O2@ 
+0000044 150  IF      for                      Q3[i45.2.2 Z5 
+0000044 160  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000044 170  IF      for                      Z5 
+0000044 180  NN1     injection                B3 A9- Y1 
+0000044 190  IW      without                  Z5 
+0000044 200  DD      any                      N5 N5.1+ 
+0000044 210  NN2     failures                 X9.2- A5.1-/A2.1 
+0000044 220  CC      or                       Z5 
+0000044 230  NN1     performance              K4 X9.2 A1.1.1 A12- 
+0000044 240  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000044 241  ,       ,                        
+0000044 242  "       "                        
+0000044 243  NULL    </quote>                 
+0000044 244  -----   -----                    
+0000044 250  NP1@    Scarpa                   Z99 
+0000044 260  VVD     said                     Q2.1 
+0000044 261  .       .                        
+0000045 001  -----   -----                    
+0000046 010  NN1     Discovery                A10+ 
+0000046 011  ?       ?                        
+0000046 020  ZZ1     s                        Z5 
+0000046 030  MC      STS-131                  Z99 
+0000046 040  NN1     mission                  X7+ G3 S9 S9/H1 
+0000046 050  VBZ     is                       A3+ Z5 
+0000046 060  MC1     one                      T3 N1 T1.2 
+0000046 070  IO      of                       Z5 
+0000046 080  NP1     NASA                     Z1 
+0000046 081  ?       ?                        
+0000046 090  ZZ1     s                        Z5 
+0000046 100  MC      four                     N1 T3 T1.2 
+0000046 110  JJ      final                    N4 T2- 
+0000046 120  NN1     shuttle                  M3fn M5fn O2 
+0000046 130  NN2     flights                  M5 M1 H2 
+0000046 140  II      before                   Z5 
+0000046 150  AT      the                      Z5 
+0000046 160  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000046 170  NN1     agency                   I2.2/S5+c G1.1c 
+0000046 180  VVZ     retires                  I3.1- M1 
+0000046 190  APPGE   its                      Z8 
+0000046 200  MC      three                    N1 T1.2 T3 
+0000046 210  NN2     orbiters                 Z99 
+0000046 220  RRR     later                    T4-- T1.1.3 N4 
+0000046 230  DD1     this                     M6 Z5 Z8 
+0000046 240  NNT1    year                     T1.3 P1c 
+0000046 241  .       .                        
+0000047 001  -----   -----                    
+0000048 010  AT      The                      Z5 
+0000048 020  NN1     shuttle                  M3fn M5fn O2 
+0000048 021  ?       ?                        
+0000048 030  ZZ1     s                        Z5 
+0000048 040  JJ      seven-astronaut          Z99 
+0000048 050  NN1     crew                     M4/S5+c M5/S5+c K4/S5+c Q4.3/S5+c 
+0000048 060  VBZ     is                       Z5 A3+ 
+0000048 070  VVG     hauling                  M2 
+0000048 080  AT1     a                        Z5 
+0000048 090  FO      27,000-pound             Z99 
+0000048 091  (       (                        
+0000048 100  FO      12,246-kg                Z99 
+0000048 101  )       )                        
+0000048 110  NN1     cargo                    O2 
+0000048 120  NN1     pod                      L2 
+0000048 130  VVN     filled                   N5.1+ I3.1 Q1.2@ 
+0000048 140  IW      with                     Z5 
+0000048 150  NN2     supplies                 A9- A9+ S8+% 
+0000048 151  ,       ,                        
+0000048 160  NN1     science                  Y1/O2[i46.2.1 Y1 
+0000048 170  NN1     equipment                Y1/O2[i46.2.2 O2 
+0000048 180  CC      and                      Z5 
+0000048 190  JJ      spare                    O2[i47.2.1 N5.2+ O4.1 
+0000048 200  NN2     parts                    O2[i47.2.2 N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000048 210  IF      for                      Z5 
+0000048 220  AT      the                      Z5 
+0000048 230  NN1     space                    Y1/W1c[i48.2.1 N3.6 W1 T1.3 Q1.2 
+0000048 240  NN1     station                  Y1/W1c[i48.2.2 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
+0000048 241  .       .                        
+0000048 242  -----   -----                    
+0000048 250  AT      The                      Z5 
+0000048 260  NN1     mission                  X7+ G3 S9 S9/H1 
+0000048 270  VBZ     is                       Z5 A3+ 
+0000048 280  VVN@    slated                   Q2.2 
+0000048 290  TO      to                       Z5 
+0000048 300  VVI     last                     T1.1.1[i49.3.1 T2++ T1.3 
+0000048 310  MC      13                       T1.1.1[i49.3.2 N1 T1.2 T3 T1.3 N3.2 
+0000048 320  NNT2    days                     T1.1.1[i49.3.3 T1.3 
+0000048 321  .       .                        
+0000048 322  -----   -----                    
+0000048 330  MC      Three                    N1 T1.2 T3 
+0000048 340  NN2     spacewalks               Z99 
+0000048 350  VBR     are                      Z5 A3+ 
+0000048 360  VVN     planned                  X7+ 
+0000048 361  .       .                        
+0000049 001  -----   -----                    
+0000050 010  NP1     SPACE.com                Z99 
+0000050 020  VBZ     is                       Z5 A3+ 
+0000050 030  VVG     providing                A9- 
+0000050 040  JJ      complete                 N5.1+ T2- N3.2+ 
+0000050 050  NN1     coverage                 Q4/N5 A1.8+ N5 
+0000050 060  IO      of                       Z5 
+0000050 070  NN1     Discovery                A10+ 
+0000050 071  GE      's                       Z5 
+0000050 080  MC      STS-131                  Z99 
+0000050 090  NN1     mission                  X7+ G3 S9 S9/H1 
+0000050 100  II      to                       Z5 
+0000050 110  AT      the                      Z5 
+0000050 120  JJ      International            M7 
+0000050 130  NN1     Space                    Y1/W1c[i50.2.1 N3.6 W1 T1.3 Q1.2 
+0000050 140  NN1     Station                  Y1/W1c[i50.2.2 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
+0000050 150  IW      with                     Z5 
+0000050 160  JJ      Managing                 S7.1+ A1.1.1 X9.2+ 
+0000050 170  NN1     Editor                   Q4/I3.2/S2mf Y2 
+0000050 180  NP1     Tariq                    Z1mf[i51.2.1 Z3c[i51.2.1 
+0000050 190  NP1     Malik                    Z2[i53.3.1 Z2[i52.3.1 Z1mf[i51.2.2 Z3c[i51.2.2 
+0000050 200  II      in                       Z2[i53.3.2 Z2[i52.3.2 Z5 
+0000050 210  NP1     Cape                     Z2[i53.3.3 Z2[i52.3.3 Z1mf[i54.2.1 Z3c[i54.2.1 
+0000050 220  NP1     Canaveral                Z99 Z1mf[i54.2.2 Z3c[i54.2.2 
+0000050 221  ,       ,                        
+0000050 230  NP1     Fla.                     Z99 
+0000050 231  ,       ,                        
+0000050 240  CC      and                      Z5 
+0000050 250  NN      Staff                    Z1mf 
+0000050 260  NN1     Writer                   Q4.1/S2mf Q1.2/S2mf 
+0000050 270  NP1     Clara                    Z1mf[i55.2.1 Z3c[i55.2.1 
+0000050 280  NP1     Moskowitz                Z1mf[i55.2.2 Z3c[i55.2.2 
+0000050 290  VVD@    based                    T2+ M6 A2.2 
+0000050 300  II      in                       Z5 
+0000050 310  NP1     New                      Z2[i57.2.1 Z1mf[i56.2.1 Z3c[i56.2.1 
+0000050 320  NP1     York                     Z2[i57.2.2 Z2 Z1mf Z1mf[i56.2.2 Z3c[i56.2.2 
+0000050 321  .       .                        
+0000050 322  -----   -----                    
+0000050 330  VV0     Click                    X3.2 Y2 X2.5+ S1.2.1+ 
+0000050 340  RL      here                     M6 T1.1.2 T1.2 
+0000050 350  IF      for                      Z5 
+0000050 360  NN1     shuttle                  M3fn M5fn O2 
+0000050 370  NN1     mission                  X7+ G3 S9 S9/H1 
+0000050 380  NN2     updates                  T1.1.2/Q1.1 
+0000050 390  CC      and                      Z5 
+0000050 400  AT1     a                        Z5 
+0000050 410  NN1     link                     A2.2 S5+ M3 Q1.3 F1 K5.1/M7% 
+0000050 420  II      to                       Z5 
+0000050 430  NP1     NASA                     Z1 
+0000050 440  NN1     TV                       Q4.3 S2.1/S2.2m 
+0000050 441  .       .                        
+0000052 001  NULL    **8;7;text               

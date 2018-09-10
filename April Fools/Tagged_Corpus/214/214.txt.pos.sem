@@ -1,0 +1,391 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  AT1     A                        Z5 
+0000002 020  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000002 030  RR      close                    A13.4[i1.2.1 
+0000002 040  II      to                       A13.4[i1.2.2 Z5 
+0000002 050  FO      SM128C                   Z99 
+0000002 060  II      by                       Z5 
+0000002 070  AT      the                      Z5 
+0000002 080  NN1     name                     Q2.2 
+0000002 090  IO      of                       Z5 
+0000002 091  NULL    <quote>                  
+0000002 092  -----   -----                    
+0000002 093  "       "                        
+0000002 100  JJ      Polar                    W3 
+0000002 110  NN1     Foil                     O1.1 S8- G3 
+0000002 111  "       "                        
+0000002 112  NULL    </quote>                 
+0000002 113  -----   -----                    
+0000002 120  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 130  VVN     revealed                 A10+ 
+0000002 140  CST     that                     Z5 Z8 
+0000002 150  AT1     a                        Z5 
+0000002 160  JJ      secret                   A10- 
+0000002 170  NN1     mission                  X7+ G3 S9 S9/H1 
+0000002 180  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 190  VBN     been                     Z5 A3+ 
+0000002 200  VVN@    discovered               A10+ 
+0000002 210  CC      and                      Z5 
+0000002 220  VM      can                      A7+ 
+0000002 230  VBI     be                       Z5 A3+ 
+0000002 240  VVN     unlocked                 A1.7- 
+0000002 250  II      in                       Z5 
+0000002 260  JJ      New                      T3- 
+0000002 270  JJ      Super                    A5.1+ 
+0000002 280  NP1     Mario                    Z1m Z3 
+0000002 290  NP2     Bros                     S4m S5+/S2mf 
+0000002 291  .       .                        
+0000002 292  -----   -----                    
+0000002 300  NN2     Wii                      Z99 
+0000002 301  .       .                        
+0000002 302  -----   -----                    
+0000002 310  AT1     A                        Z5 
+0000002 320  NN1     video                    Q4.3 
+0000002 330  VBDZ    was                      Z5 A3+ 
+0000002 340  VVN     provided                 A9- S6+ 
+0000002 350  IW      with                     Z5 
+0000002 360  AT      the                      Z5 
+0000002 370  AT1     an                       Z5 
+0000002 380  JJ      interesting              X5.2+ 
+0000002 390  NN1     remake                   Q4.3/N6+ 
+0000002 400  IO      of                       Z5 
+0000002 410  NN1     World                    W1 S5+c A4.1 N5+ 
+0000002 420  MCMC    1-1                      N1 T1.2 T3 T1.3 N3.2 
+0000002 430  II      in                       Z5 
+0000002 440  AT      the                      Z5 
+0000002 450  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000002 451  .       .                        
+0000002 452  -----   -----                    
+0000002 460  VVN     Based                    A2.2[i2.2.1 T2+ M6 A2.2 
+0000002 470  II      on                       A2.2[i2.2.2 Z5 
+0000002 480  NN2     reports                  Q2.2 X3.2 
+0000002 481  ,       ,                        
+0000002 490  AT      the                      Z5 
+0000002 500  JJ      entire                   N5.1+ 
+0000002 510  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000002 520  VM      can                      A7+ 
+0000002 530  VBI     be                       Z5 A3+ 
+0000002 540  VVN     re-played                Z99 
+0000002 550  IW      with                     Z5 
+0000002 560  AT1     a                        Z5 
+0000002 570  JJR     higher                   N3.7++ N5++ A11.1++ S7.1++ A5.1++ T3-- X3.2 G2.2++ E4.1++ I1.3++ O4.2-- O4.6++ S9 
+0000002 580  NN1     difficulty               A12- 
+0000002 590  NN1     level                    N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 
+0000002 591  .       .                        
+0000003 001  -----   -----                    
+0000003 010  NN1     Video                    Q4.3 
+0000003 020  IO      of                       Z5 
+0000003 030  AT      the                      Z5 
+0000003 031  NULL    <quote>                  
+0000003 032  -----   -----                    
+0000003 033  "       "                        
+0000003 040  NN1     Dark                     W2- 
+0000003 050  CC      and                      Z5 
+0000003 060  JJ      gloomy                   O4.3 E4.1- 
+0000003 061  "       "                        
+0000003 062  NULL    </quote>                 
+0000003 063  -----   -----                    
+0000003 070  NN1     version                  A4.1 Q2.1 
+0000003 080  IO      of                       Z5 
+0000003 090  NN1     World                    W1 S5+c A4.1 N5+ 
+0000003 100  MCMC    1-1                      N1 T1.2 T3 T1.3 N3.2 
+0000006 010  NN1     Video                    Q4.3 
+0000006 020  IO      of                       Z5 
+0000006 030  AT      the                      Z5 
+0000006 040  JJ      regular                  A6.2+ N6+ O4.1 I3.1 T2++ A13.3 
+0000006 050  NN1     World                    W1 S5+c A4.1 N5+ 
+0000006 060  MCMC    1-1                      N1 T1.2 T3 T1.3 N3.2 
+0000008 010  NN1@    It                       Y2 B3@ 
+0000008 020  VVZ     appears                  A8 A10+ A3+ G2.1 K4 Q4 
+0000008 030  CST     that                     Z5 Z8 
+0000008 040  AT      the                      Z5 
+0000008 050  NN1     level                    N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 
+0000008 060  VBZ     is                       A3+ Z5 
+0000008 070  RR      mostly                   A13.2 
+0000008 080  AT      the                      Z5 
+0000008 090  DA      same                     A6.1+++ 
+0000008 100  NN1     structure                O4.1 H1 S7.1 O2 A4.1 X4.2 B1 
+0000008 110  CCB     but                      Z5 
+0000008 120  IW      with                     Z5 
+0000008 130  AT1     a                        Z5 
+0000008 140  JJR     darker                   W2-- O4.3 E4.1-- X2.2-- O4.2-- 
+0000008 150  NN1     theme                    X4.1 K2 Q1.2 Q3 
+0000008 160  IW      with                     Z5 
+0000008 170  AT      the                      Z5 
+0000008 180  NN1     castle                   H1 
+0000008 190  NN1     music                    K2 
+0000008 191  .       .                        
+0000008 192  -----   -----                    
+0000008 200  RR21    In                       N5++[i3.2.1 
+0000008 210  RR22    addition                 N5++[i3.2.2 
+0000008 211  ,       ,                        
+0000008 220  EX      there                    Z5 
+0000008 230  VBR     are                      A3+ Z5 
+0000008 240  RR      significantly            A11.1+ 
+0000008 250  DAR     more                     N5++ 
+0000008 260  NN2     enemies                  S1.2.1-/S2mfc 
+0000008 270  TO      to                       Z5 
+0000008 280  VBI     be                       Z5 A3+ 
+0000008 290  VVN     found                    A10+ X2.1 X6+.1 
+0000008 291  .       .                        
+0000008 292  -----   -----                    
+0000008 300  EX      There                    Z5 
+0000008 310  VBZ     is                       A3+ Z5 
+0000008 320  AT1     a                        Z5 
+0000008 330  NN1     mixture                  O1.1 A6.3+ 
+0000008 340  IO      of                       Z5 
+0000008 350  NN2     enemies                  S1.2.1-/S2mfc 
+0000008 360  CST     that                     Z8 Z5 
+0000008 370  VBR     are                      Z5 A3+ 
+0000008 380  XX      not                      Z6 
+0000008 390  RR      usually                  A6.2+ 
+0000008 400  VVN     found                    A10+ X2.1 X6+.1 
+0000008 410  II      in                       Z5 
+0000008 420  AT      the                      Z5 
+0000008 430  DA      same                     A6.1+++ 
+0000008 440  NN1     area                     M7 A4.1 N3.6 
+0000008 441  ,       ,                        
+0000008 450  REX21   for                      Z5[i4.2.1 
+0000008 460  REX22   example                  Z5[i4.2.2 
+0000008 470  NN2@    Koopas                   Z99 
+0000008 471  ,       ,                        
+0000008 480  NN2     Mecha-koopas             Z99 
+0000008 481  ,       ,                        
+0000008 490  NP2     Goombas                  Z99 
+0000008 491  ,       ,                        
+0000008 500  NN2     Boos                     E2-/Q2.2 Z4 Q2.2 
+0000008 501  ,       ,                        
+0000008 510  JJ      Dry                      O1.2- F2- X3.1 X9.1+ X5.2- N5- Q2.1/N5- 
+0000008 520  NN2     Bones                    B1 
+0000008 521  ,       ,                        
+0000008 530  CC      and                      Z5 
+0000008 540  RR      even                     A13.1 
+0000008 550  AT1     a                        Z5 
+0000008 560  NN1     Cheep-cheep              Z99 
+0000008 570  CC      and                      Z5 
+0000008 580  NP1     Blooper                  A5.3- 
+0000008 590  VBR     are                      A3+ Z5 
+0000008 600  DB      all                      N5.1+ 
+0000008 610  RL      here                     M6 T1.1.2 T1.2 
+0000008 611  !       !                        
+0000009 001  -----   -----                    
+0000009 010  NN2     Screenshots              Z99 
+0000009 011  (       (                        
+0000009 020  VV0     click                    X3.2 Y2 X2.5+ S1.2.1+ 
+0000009 030  TO      to                       Z5 
+0000009 040  VVI     enlarge                  N3.2+/A2.1 A4.2+/Q2.1 
+0000009 041  )       )                        
+0000011 010  NP1     NSMBW                    Z99 
+0000011 020  NN1     World                    W1 S5+c A4.1 N5+ 
+0000011 030  MCMC    1-1                      N1 T1.2 T3 T1.3 N3.2 
+0000011 040  NP1     NSMBW                    Z99 
+0000011 050  NN1     World                    W1 S5+c A4.1 N5+ 
+0000011 060  MCMC    1-1                      N1 T1.2 T3 T1.3 N3.2 
+0000012 010  AT1     A                        Z5 
+0000012 020  DA2     few                      N5- 
+0000012 030  DAR     more                     N5++ 
+0000012 040  NN2     enemies                  S1.2.1-/S2mfc 
+0000012 050  VV0     show                     A10+[i5.2.1 S1.2.3+[i5.2.1 S1.1.3+[i5.2.1 A10+ S1.1.1 
+0000012 060  RP      up                       A10+[i5.2.2 S1.2.3+[i5.2.2 S1.1.3+[i5.2.2 
+0000012 061  ,       ,                        
+0000012 070  II21    along                    Z5[i6.2.1 Z5 
+0000012 080  II22    with                     Z5[i6.2.2 
+0000012 090  AT      the                      Z5 
+0000012 100  JJ      dark                     W2- O4.3 E4.1- X2.2- O4.2- 
+0000012 110  NN1     cavern                   W3 
+0000012 120  NN1     theme                    X4.1 K2 Q1.2 Q3 
+0000014 010  NP1     NSMBW                    Z99 
+0000014 020  NN1     World                    W1 S5+c A4.1 N5+ 
+0000014 030  MCMC    1-1                      N1 T1.2 T3 T1.3 N3.2 
+0000014 040  NP1     NSMBW                    Z99 
+0000014 050  NN1     World                    W1 S5+c A4.1 N5+ 
+0000014 060  MCMC    1-1                      N1 T1.2 T3 T1.3 N3.2 
+0000015 010  NN1     Yoshi                    Z99 
+0000015 020  NN1     egg                      L2 F1 
+0000015 030  II      in                       Z5 
+0000015 040  AT      the                      Z5 
+0000015 041  NULL    <quote>                  
+0000015 042  -----   -----                    
+0000015 043  "       "                        
+0000015 050  NN1     dark                     W2- 
+0000015 051  "       "                        
+0000015 052  NULL    </quote>                 
+0000015 053  -----   -----                    
+0000015 060  NN1     version                  A4.1 Q2.1 
+0000015 061  ,       ,                        
+0000015 070  CCB     but                      Z5 
+0000015 080  XX      not                      Z6 
+0000015 090  II      in                       Z5 
+0000015 100  AT      the                      Z5 
+0000015 110  JJ      original                 T3- A5.4+ A6.2- 
+0000015 111  .       .                        
+0000015 112  -----   -----                    
+0000015 120  RR      Perhaps                  A7 
+0000015 130  NP1     Yoshi                    Z99 
+0000015 140  VVZ     appears                  A8 A10+ A3+ G2.1 K4 Q4 
+0000015 150  II      in                       Z5 
+0000015 160  DAR     more                     N5++ 
+0000015 170  NN2     levels                   N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 
+0000015 180  VVN     compared                 A6.1 A5.1 Q3 
+0000015 190  II      to                       Z5 
+0000015 200  AT      the                      Z5 
+0000015 210  JJ      regular                  A6.2+ N6+ O4.1 I3.1 T2++ A13.3 
+0000015 220  NP1     NSMBW                    Z99 
+0000015 221  ?       ?                        
+0000016 001  -----   -----                    
+0000017 010  NP1     NSMBW                    Z99 
+0000017 020  NN1     World                    W1 S5+c A4.1 N5+ 
+0000017 030  MCMC    1-1                      N1 T1.2 T3 T1.3 N3.2 
+0000017 040  NP1     NSMBW                    Z99 
+0000017 050  NN1     World                    W1 S5+c A4.1 N5+ 
+0000017 060  MCMC    1-1                      N1 T1.2 T3 T1.3 N3.2 
+0000018 010  NN2     Boos                     E2-/Q2.2 Z4 Q2.2 
+0000018 020  RL      here                     M6 T1.1.2 T1.2 
+0000018 030  TO      to                       Z5 
+0000018 040  VVI     give                     A9- A1.1.1 
+0000018 050  PPY     you                      Z8mf 
+0000018 060  AT1     a                        Z5 
+0000018 070  NN1     spook                    Z99 
+0000018 071  !       !                        
+0000019 001  -----   -----                    
+0000020 010  NP1     NSMBW                    Z99 
+0000020 020  NN1     World                    W1 S5+c A4.1 N5+ 
+0000020 030  MCMC    1-1                      N1 T1.2 T3 T1.3 N3.2 
+0000020 040  NP1     NSMBW                    Z99 
+0000020 050  NN1     World                    W1 S5+c A4.1 N5+ 
+0000020 060  MCMC    1-1                      N1 T1.2 T3 T1.3 N3.2 
+0000021 010  NN1     Cheep-cheep              Z99 
+0000021 020  CC      and                      Z5 
+0000021 030  AT1     a                        Z5 
+0000021 040  NN1     fireball                 Z99 
+0000021 041  ?       ?                        
+0000021 042  -----   -----                    
+0000021 050  RR      Ok                       A5.1+ 
+0000021 051  ...     ...                      
+0000022 001  -----   -----                    
+0000023 010  NP1     NSMBW                    Z99 
+0000023 020  NN1     World                    W1 S5+c A4.1 N5+ 
+0000023 030  MCMC    1-1                      N1 T1.2 T3 T1.3 N3.2 
+0000023 040  NP1     NSMBW                    Z99 
+0000023 050  NN1     World                    W1 S5+c A4.1 N5+ 
+0000023 060  MCMC    1-1                      N1 T1.2 T3 T1.3 N3.2 
+0000024 010  RR21    At                       A13.7[i7.2.1 
+0000024 020  RR22    least                    A13.7[i7.2.2 A13.7 
+0000024 030  EX      there                    Z5 
+0000024 040  VBR     are                      A3+ Z5 
+0000024 050  AT      no                       Z6 
+0000024 060  NN2     surprises                X2.6- 
+0000024 070  II      at                       Z5 
+0000024 080  AT      the                      Z5 
+0000024 090  NN1     ending                   T2- 
+0000024 100  NN1     flag                     Q1.1 O2/H1 
+0000024 101  .       .                        
+0000025 001  -----   -----                    
+0000026 010  AT      The                      Z5 
+0000026 020  JJ      secret                   A10- 
+0000026 030  NN1     remake                   Q4.3/N6+ 
+0000026 040  IO      of                       Z5 
+0000026 050  NP1     NSMBW                    Z99 
+0000026 060  VM      can                      A7+ 
+0000026 070  VBI     be                       Z5 A3+ 
+0000026 080  VVN     unlocked                 A1.7- 
+0000026 090  II      by                       Z5 
+0000026 100  VVG     playing                  K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000026 110  II      through                  Z5 
+0000026 120  AT      the                      Z5 
+0000026 130  JJ      original                 T3- A5.4+ A6.2- 
+0000026 140  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000026 150  CC      and                      Z5 
+0000026 160  VVG     collecting               A9+ 
+0000026 170  AT1     every                    N5.1+[i8.2.1 N5.1+ 
+0000026 180  JJ      single                   N5.1+[i8.2.2 N5--- S5- S3.2- M3 
+0000026 190  NN1     star                     W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 
+0000026 200  NN1     coin                     I1 
+0000026 210  II      in                       Z5 
+0000026 220  AT      the                      Z5 
+0000026 230  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000026 231  ,       ,                        
+0000026 240  VVN     followed                 M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 
+0000026 250  II      by                       Z5 
+0000026 260  VVG     entering                 M1 S5+ Q1.2 T2+ A1.8+ 
+0000026 270  AT1     a                        Z5 
+0000026 280  NN1     sequence                 N4 Q4.3% S9% 
+0000026 290  II      at                       Z5 
+0000026 300  AT      the                      Z5 
+0000026 310  NN1     startup                  T2+ 
+0000026 320  NN1     screen                   Y2 Q4.3 H5 A10- 
+0000026 321  .       .                        
+0000027 001  -----   -----                    
+0000028 010  AT      The                      Z5 
+0000028 020  JJ@     reported                 Q2.2 
+0000028 030  JJ      key                      A11.1+ 
+0000028 040  NN1     sequence                 N4 Q4.3% S9% 
+0000028 041  :       :                        
+0000029 010  VV0     Rotate                   M2 A6.3+ 
+0000029 020  AT      the                      Z5 
+0000029 030  NN1     nunchuk                  Z99 
+0000029 040  NN1     control                  S7.1+ A1.7+ O2 
+0000029 050  NN1     stick                    O2 B5 Q2.2 
+0000029 060  RR      counterclockwise         Z99 
+0000029 070  MC      16                       N6+[i9.2.1 A13.3[i9.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000029 080  NNT2    times                    N6+[i9.2.2 A13.3[i9.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 
+0000029 090  CC      and                      Z5 
+0000029 100  VV0     continue                 T2++ 
+0000029 110  TO      to                       Z5 
+0000029 120  VVI     hold                     M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+ 
+0000029 130  II      in                       Z5[i10.2.1 Z5 
+0000029 140  DD1     that                     Z5[i10.2.2 Z5 Z8 
+0000029 150  NN1     direction                M6 Q2.2 S7.1+ X4.2 K4 
+0000029 151  ,       ,                        
+0000029 160  VV0     press                    A1.1.1 X8+ S7.1+ E6- 
+0000029 170  ZZ1     B                        Z5 
+0000029 171  ,       ,                        
+0000029 180  RT      then                     N4 Z5 T1.2 
+0000029 190  VV0     press                    A1.1.1 X8+ S7.1+ E6- 
+0000029 200  ZZ1     A                        Z5 
+0000029 201  ,       ,                        
+0000029 210  CC      and                      Z5 
+0000029 220  RR      finally                  N4 
+0000029 230  VV0     press                    A1.1.1 X8+ S7.1+ E6- 
+0000029 240  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000029 250  CC      and                      Z5 
+0000029 260  MC      2                        N1 T1.2 T3 T1.3 N3.2 
+0000029 270  RL      together                 S5+ T1.1.2 M6 
+0000029 271  .       .                        
+0000030 001  -----   -----                    
+0000031 010  CS@     Once                     Z5 
+0000031 020  AT      the                      Z5 
+0000031 030  NN1     sequence                 N4 Q4.3% S9% 
+0000031 040  VBZ     is                       A3+ Z5 
+0000031 050  JJ      complete                 N5.1+ T2- N3.2+ 
+0000031 051  ,       ,                        
+0000031 060  DB      all                      N5.1+ 
+0000031 070  JJ      existing                 A3+ 
+0000031 080  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000031 090  NN2     saves                    K5.1 
+0000031 100  VM      will                     T1.1.3 
+0000031 110  VBI     be                       Z5 A3+ 
+0000031 120  VVN     deleted                  Q1.2 A1.1.2 
+0000031 121  ,       ,                        
+0000031 130  CC      and                      Z5 
+0000031 140  CS      when                     Z5 
+0000031 150  PPY     you                      Z8mf 
+0000031 160  VV0     start                    T2+ E5- E3- 
+0000031 170  AT      the                      Z5 
+0000031 180  AT1     a                        Z5 
+0000031 190  JJ      new                      T3- 
+0000031 200  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000031 210  II      in                       Z5 
+0000031 220  NN1     File                     O2/Q1.2 O2 Y2 S5+/N4 
+0000031 230  MC      3                        N1 T1.2 T3 T1.3 N3.2 
+0000031 231  ,       ,                        
+0000031 240  PPY     you                      Z8mf 
+0000031 250  VM      will                     T1.1.3 
+0000031 260  VVI     begin                    T2+ 
+0000031 270  AT      the                      Z5 
+0000031 280  JJ      new                      T3- 
+0000031 290  JJ      secret                   A10- 
+0000031 300  NN1     mission                  X7+ G3 S9 S9/H1 
+0000031 301  !       !                        
+0000034 001  NULL    **8;7;text               

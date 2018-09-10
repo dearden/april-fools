@@ -1,0 +1,44 @@
+Feature,Group,Description,Example,Collection Method
+Quotes,Complexity,Number of quotes.,``I am doing a quote’’,Quote tags.
+Average Sentence Length,Complexity,Average length of sentence in text.,NA,NA
+Body Punctuation,Complexity,Number of punctuation marks in headline.,NA,NA
+Head Punctuation,Complexity,Number of punctuation marks in body.,NA,NA
+Readability,Complexity,Flesch Reading Ease score for article,NA,Flesch Reading Ease
+Lexical Diversity,Complexity,Proportion of unique words to total words.,NA,NA
+Lexical Density,Complexity,Proportion of content words to total words.,NA,NA
+Function Words,Complexity,Number of function words.,"`a’, `the’",Wordlist
+First Person Pronouns,Deception,Number of First Person Pronouns.,"``I’’, ``my’’, ``we’’",CLAWS
+Negations,Deception,Number of Negations.,"``not’’, ``n’t’’",CLAWS
+Negative Emotional Terms,Deception,Number of Negative Emotional Terms.,"``Abhor’’,  ``Cringe’’",USAS
+Time Related,Details,Number of Time-related Terms.,"``Before’’, ``Will’’",USAS
+Sense Terms,Details,Number of Sense Terms,"``Stink’’, ``Reek’’",USAS
+Motion Terms,Details,Number of Motion Terms,"``Approach’’, ``Arise’’",USAS
+Proper Nouns,Details,Number of Proper Nouns,"``John’’, ``Preston’’",CLAWS
+Dates,Details,Number of terms relating to dates,"``October’’, ``Sunday’’",CLAWS
+Numbers,Details,Number of number terms,"``One’’, ``2’’",CLAWS
+Spatial Terms,Details,Number of spatial terms,"``Alongside’’,  ``Crossroads’’",CLAWS/USAS
+AP Number Guidelines,Formality,Whether or not article meets Associated Press Guidelines for writing numbers.,"1, 0",NA
+AP Date Guidelines,Formality,Whether or not article meets Associated Press Guidelines for writing dates.,"1, 0",NA
+AP Title Guidelines,Formality,Whether or not article meets Associated Press Guidelines for writing titles.,"1, 0",NA
+Spelling Errors,Formality,Number of spelling errors.,"``Baeutiful’’, ``Plumz’’",Spell Checker
+Positive Emotion,Humour,Number of Positive Emotional Terms,"``Adore’’, ``Cheerful’’",USAS
+Relationships,Humour,Number of terms relating to human relationships.,"``Buddy’’, ``Kiss’’",USAS
+Contextual Imbalance (head),Humour,Average similarity between words in headline.,NA,SpaCy Word Vectors
+Contextual Imbalance (body),Humour,Average similarity between words in body.,NA,SpaCy Word Vectors
+Alliteration,Humour,Number of Instances of Alliteration.,``Big Bouncy Boy’’,NA
+Profanity,Humour,Number of instances of profane language.,"``Shit’’, ``Piss’’",Word list
+Imagination Conjunctions,Imagination,Number of Conjunctions associated with imaginative texts.,"``but’’, ``so’’",CLAWS
+Informative Verbs,Imagination,Number of verbs associated with informative texts.,"``given’’, ``worked’’",CLAWS
+Imagination Verbs,Imagination,Number of verbs associated with imaginative texts.,"``will’’, ``can’’",CLAWS
+Prepositions,Imagination,Number of prepositions.,"``under’’, ``on’’",CLAWS
+Articles,Imagination,Number of articles.,"``the’’, ``a’’",CLAWS
+Imagination Determiners,Imagination,Number of Conjunctions associated with imaginative texts.,"``all’’, ``both’’",CLAWS
+Adjectives,Imagination,Number of adjectives.,"``nice’’, ``attractive’’",CLAWS
+CLAWS Ambiguity,Vagueness,Average number of possible CLAWS tags for word in body.,NA,CLAWS
+USAS Ambiguity,Vagueness,Average number of possible USAS tags for word in body.,NA,USAS
+Synset Ambiguity,Vagueness,Average number of possible WordNet Synsets a word is in.,NA,WordNet
+Vague Degree,Vagueness,Degree terms associated with vagueness.,"``Nearly’’, ``Kinda’’",USAS
+Superlatives,Vagueness,Number of Superlatives.,"``Best’’, ``Nicest’’",CLAWS
+Degree Adverbs,Vagueness,Number of Degree Adverbs.,"``Very’’, ``More’’",CLAWS
+Comparitive Adverbs,Vagueness,Number of Comparative Adverbs.,"``more’’, ``better’’",CLAWS
+Exaggeration,Vagueness,Degree terms associated with exaggeration.,"``Enormously’’, ``Hardly’’",USAS

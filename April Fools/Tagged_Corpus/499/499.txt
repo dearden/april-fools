@@ -1,0 +1,75 @@
+C++ Will No Longer Have Pointers
+
+Who likes pointers? Those ancient creatures are a barrier to entry to C++, and a burden for those who braved the barrier.
+
+In the March 2018 C++ committee meeting in Jacksonville, Florida, the committee had a pretty ambitious agenda to work on. And one of the topics discussed was the deprecation, and later removal, of pointers.
+
+This follows a trend to simplify the language and evolve away from some decisions of the past.
+
+Indeed, a few years ago the committee had started to deprecate then remove one specific kind of  <quote> “bad” </quote>  pointers: std::auto_ptr . Now they’re taking a further step by removing raw pointers from the language, which is great news for making code more expressive. Let’s see what this is all about.
+
+Pointers have issues
+
+In order to understand why the standard committee is removing pointers from C++, let’s start with a recap of what pointers can do and what is wrong with them.
+
+What a pointer is
+
+A pointer is a low-level construct that represents the address of an object, in memory. For instance a pointer to X , noted X* , represents the address of an object of type X . The value of an X* therefore looks like a memory address, like 0x02af23c0 .
+
+The pointer is itself an object, and you can manipulate it in code. In particular, you can retrieve the value of the object it points to, by dereferencing it with * .
+
+For example, if p is a pointer of type X* , and say that p equals 0x02af23c0 , then *p gives the object of type X that is stored at 0x02af23c0 . And p->a gives the member (data or function) a in the object X .
+
+What’s more, you can have pointers to pointers. This concept is good at rebuking people. A pointer of pointer to X , noted X** contains the address of a pointer to X . To access the pointer to X you write *p , and to access X you write **p . You can also have pointers to pointers to pointers, X*** , and even X************ . The sky is the limit but a human brain overflows long before reaching the lowest clouds.
+
+What pointers are for
+
+Pointers may sound like a convoluted idea: why not access the object of type X directly, rather than using a pointer to that object?
+
+One of the reasons is that, a long time ago, pointers were easier to carry around than objects: for example in C and early C++, returning or passing an object to a function could incur a performance cost, because the object would be copied. And since a pointer is typically much smaller than an object (a pointer contains only a memory address, which is only 32 or 64 bits tops), it is cheaper to copy a pointer than to copy an object.
+
+Pointers were also useful for dynamic memory allocation: you ask the OS for a chunk of memory to store an object, and the OS would give an available memory address, which maps well with the concept of a pointer.
+
+What is wrong with pointers
+
+For one thing, pointers can contain an invalid address. For example, they can contains the address 0x00000000 . When you try to dereference that pointer, things start to go very bad for your program. In technical terms, you get undefined behaviour, which typically comes down to the OS killing your application in this case.
+
+To make sure you don’t accidentally dereference this sort of pointer, you need to check for the nullity of pointers. This riddles the code with if statements and an extra level of indentation, that has no functional meaning most of the time. This is gratuitous code complexity.
+
+What’s more, even if you do test for null pointers, you not completely safe. What if your pointer came to have the value of 0x00000001 , or 0x00000008 for example? Dereferencing this also makes the application crash, and the if statement for nullity can’t prevent this.
+
+Finally, if you use a pointer to benefit from dynamic allocation, then you become in charge of managing the life cycle of this object.
+
+This has various implications. In particular, you need to write code to hand back the allocated memory to the OS by calling delete on the pointer. If you don’t, you get a memory leak, and if you delete two times, you get an undefined behaviour like a crash. And in practice, when the application crashes, it can be difficult to trace it back down to the double delete .
+
+So with pointers, your code becomes concerned with low-level considerations: checking for the pointer nullity, managing the memory life cycle, making sure nothing bad happens with delete . Even if you do manage to avoid undefined behaviour, this has the effect of cluttering the code and making it less expressive.
+
+Modern alternatives to pointers
+
+Even if the committee is making a move now, it’s been a while since the common practice is to stay away from pointers. Indeed, some C++ idiomatic features can do the same job, better.
+
+Passing objects around
+
+Today, the performance argument of passing and returning objects is much weaker than it used to be.
+
+Indeed, C++ introduced references, which are designed not to be null, and that allow to pass large objects to functions with minimal cost. And returning objects by value benefits from the RVO and NRVO , and from move semantics to allow a minimal costs in many cases.
+
+Smart pointers
+
+Smart pointers have been around for a very long time in Boost, and have been standardised in C++11 (except std::auto_ptr that was deprecated in C++11).
+
+They essentially encapsulate all the hassles of memory management, including the need to call delete at all. Smart pointers are essential constructs in modern C++.
+
+If you want to know more about smart pointers, check out the 7-posts series called Smart developers use smart pointers, which starts from the basics of smart pointers and gets to their advanced features in detail.
+
+ <quote> “A cleaner language struggling to get out” </quote> 
+
+In a famous quote coming from The Design and Evolution of C++, Bjarne Stroustrup, the creator of C++, says that  <quote> “Within C++, there is a much smaller and cleaner language struggling to get out.” </quote> 
+
+My understanding of this is that C++ has many features, but some of them coming from the past now only get in the way of writing good code. We should focus on the subset of features that are really great, and let us write fast and expressive code.
+
+The decision of the committee to remove pointers from the language clearly follows this strategic intention. Even if nothing is definitive until the ink has dried on the ISO standard, the deprecation is planned for C++20 and the removal for C++23.
+
+Like with std::auto_ptr (deprecated in C++11 and removed in C++17), this leaves us some time to clean our code from raw pointers and replace them with the modern features seen above. It is not clear yet how tooling will help with that, but we can hope that clang-tidy will automate a large part of it, like it did with modernize-replace-auto-ptr.
+
+As a result, C++ will become an easier language to learn and to work with. Removing pointers will contribute to show the world that modern C++ is almost another language compared to C++98, and will allow us to write cleaner, safer, and more expressive code.

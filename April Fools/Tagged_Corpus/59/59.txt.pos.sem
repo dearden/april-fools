@@ -1,0 +1,176 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  IW      With                     Z5 
+0000002 020  RG@     as                       A13 
+0000002 030  DA2     many                     N5+ 
+0000002 040  AT1     a                        Z5 
+0000002 050  MC      six                      N1 T3 T1.2 
+0000002 060  CC      or                       Z5 
+0000002 070  MC      eight                    N1[i1.2.1 T1.3[i1.2.1 I1[i1.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000002 080  NNO     dozen                    N1[i1.2.2 T1.3[i1.2.2 I1[i1.2.2 N5 
+0000002 090  NN2     crews                    M4/S5+c M5/S5+c K4/S5+c Q4.3/S5+c 
+0000002 100  II      at                       Z5 
+0000002 110  NN1     sea                      W3/M4 
+0000002 120  II      at                       T1.1.2[i2.3.1 Z5 
+0000002 130  AT1     a                        T1.1.2[i2.3.2 Z5 
+0000002 140  NNT1    time                     T1.1.2[i2.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000002 150  IO      of                       Z5 
+0000002 160  RR      late                     T4- T1.1 
+0000002 161  ,       ,                        
+0000002 170  AT      the                      Z5 
+0000002 180  JJ      International            M7 
+0000002 190  JJ      Olympic                  Z3c 
+0000002 200  NN1     Committee                S7.1+/S5+c 
+0000002 210  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 220  VVN     announced                Q2.2 
+0000002 230  DD1     that                     Z2[i3.2.1 Z5 Z8 
+0000002 240  NN1     Ocean                    Z2[i3.2.2 W3/M4 
+0000002 250  NN1     Rowing                   M4 E3- 
+0000002 260  VM      will                     T1.1.3 
+0000002 270  VVI     become                   A2.1+ O4.2+ 
+0000002 280  AT1     an                       Z5 
+0000002 290  JJ      Olympic                  Z3c 
+0000002 300  NN1     Sport                    K5.1 
+0000002 310  CS31    as                       Z5[i4.3.1 Z5 
+0000002 320  CS32    soon                     Z5[i4.3.2 
+0000002 330  CS33    as                       Z5[i4.3.3 Z5 
+0000002 340  AT      the                      Z5 
+0000002 350  MC      2012                     N1 T1.2 T3 T1.3 N3.2 
+0000002 360  NN2     Olympics                 K5.1 
+0000002 361  .       .                        
+0000005 001  NULL    <quote>                  
+0000005 002  -----   -----                    
+0000005 003  "       "                        
+0000005 010  PPH1    It                       Z8 
+0000005 020  VBDZ    was                      A3+ Z5 
+0000005 030  APPGE   our                      Z8 
+0000005 040  NN1     feeling                  X2.1 E1 X3 
+0000005 050  CST     that                     Z8 Z5 
+0000005 051  ,       ,                        
+0000005 060  CS      since                    Z5 
+0000005 070  AT      the                      Z5 
+0000005 080  NP1     United                   Z2c[i6.2.1 Z3c Z1mf[i5.2.1 Z3c[i5.2.1 
+0000005 090  NP1     Kingdom                  Z2c[i6.2.2 Z1mf Z1mf[i5.2.2 Z3c[i5.2.2 
+0000005 100  VBZ     is                       A3+ Z5 
+0000005 110  AT1     an                       Z5 
+0000005 120  NN1     island                   W3 
+0000005 130  CST     that                     Z8 Z5 
+0000005 140  VBZ     is                       A3+ Z5 
+0000005 150  RR21    at                       A13.7[i7.2.1 
+0000005 160  RR22    least                    A13.7[i7.2.2 A13.7 
+0000005 170  RG      as                       A13 
+0000005 180  JJ      important                A11.1+ 
+0000005 190  CSA     as                       Z5 
+0000005 200  NP1     Manhattan                Z2 F2 
+0000005 201  ,       ,                        
+0000005 210  RT      now                      T1.1.2 Z4 
+0000005 220  VBDZ    was                      A3+ Z5 
+0000005 230  AT      the                      Z5 
+0000005 240  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000005 250  TO      to                       Z5 
+0000005 260  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000005 270  AT      the                      Z5 
+0000005 280  NN1     transition               A2.1+ 
+0000005 290  II      to                       Z5 
+0000005 300  JJ      Olympic                  Z3c 
+0000005 310  NN1     oversight                A5.3- X3.4- 
+0000005 320  CC      and                      Z5 
+0000005 330  NN1     competition              K1 S7.3+ 
+0000005 331  .       .                        
+0000006 001  NULL    </quote>                 
+0000006 002  -----   -----                    
+0000007 010  NN1     Ocean                    W3/M4 
+0000007 020  NN1     rowing                   M4 E3- 
+0000007 030  NN2     athletes                 K5.1/S2mf 
+0000007 040  VBDR    were                     A3+ Z5 
+0000007 050  JJ      elated                   E4.1+ 
+0000007 060  CCB     but                      Z5 
+0000007 070  JJ      cautious                 A1.3+ E6- 
+0000007 071  .       .                        
+0000007 072  NULL    <quote>                  
+0000007 073  -----   -----                    
+0000007 074  "       "                        
+0000007 080  DD1     This                     Z8 M6 Z5 
+0000007 090  VBZ     is                       A3+ Z5 
+0000007 100  JJ      fantastic                A5.1+ N5++ A6.2- A5.2- 
+0000007 101  ,       ,                        
+0000007 110  CCB     but                      Z5 
+0000007 120  PPIS1   I                        Z8mf 
+0000007 130  VV0     know                     X2.2+ S3.2/B1% 
+0000007 140  DDQ     what                     Z8 Z5 
+0000007 150  VBZ     is                       Z5 A3+ 
+0000007 160  VVGK    going                    T1.1.3[i8.2.1 
+0000007 170  TO      to                       T1.1.3[i8.2.2 Z5 
+0000007 180  VVI     happen                   A2.1+ A3+ X7- 
+0000007 181  -       -                        
+0000007 190  PPIS2   we                       Z8 
+0000007 191  VBR     're                      Z5 A3+ 
+0000007 200  VVGK    going                    T1.1.3[i9.2.1 
+0000007 210  TO      to                       T1.1.3[i9.2.2 Z5 
+0000007 220  VVI     end                      T2-[i10.2.1 T2- 
+0000007 230  RP      up                       T2-[i10.2.2 
+0000007 240  II      in                       Z5 
+0000007 250  DD      some                     N5 Z5 
+0000007 260  NN1     venue                    M7 
+0000007 270  CST     that                     Z8 Z5 
+0000007 280  VBZ     is                       A3+ Z5 
+0000007 290  RR      absurdly                 S1.2.6- X2.5- 
+0000007 300  JJ      distant                  N3.3+ S1.2.1- X5.1- 
+0000007 310  II      from                     Z5 
+0000007 320  AT      the                      Z5 
+0000007 330  NN1     athlete                  K5.1/S2mf 
+0000007 331  GE      's                       Z5 
+0000007 340  NN1     village                  M7 
+0000007 350  CC      and                      Z5 
+0000007 360  VVG     opening                  A1.1.1 T2+ 
+0000007 370  NN2     ceremonies               S1.1.1 
+0000007 371  ,       ,                        
+0000007 380  PPIS1   I                        Z8mf 
+0000007 390  VV0     guarantee                A7+/Q2.2 
+0000007 400  PPH1    it                       Z8 
+0000007 401  ,       ,                        
+0000007 402  "       "                        
+0000007 403  NULL    </quote>                 
+0000007 404  -----   -----                    
+0000007 410  VVD     said                     Q2.1 
+0000007 420  NP1     Ben                      Z1mf[i11.2.1 Z3c[i11.2.1 Z1m 
+0000007 430  NP1     Oldfogey                 Z1mf[i11.2.2 Z3c[i11.2.2 
+0000007 431  ,       ,                        
+0000007 440  NN1     ocean                    W3/M4 
+0000007 450  NN1     rower                    M4/S2mf 
+0000007 460  CC      and                      Z5 
+0000007 470  NN1     host                     S2mf B1@ Y2@ S9% 
+0000007 480  IO      of                       Z5 
+0000007 490  AT      the                      Z5 
+0000007 500  NN1     television               Q4.3 
+0000007 510  NN1     program                  Y2 X7+ Q4.3 Q1.2 P1 
+0000007 520  NN2     Adventures               X8+ X5.2+ A15- 
+0000007 530  IF      for                      Z5 
+0000007 540  NN2     Geezers                  S2.2m 
+0000007 541  .       .                        
+0000007 542  NULL    <quote>                  
+0000007 543  -----   -----                    
+0000007 544  "       "                        
+0000007 550  PPY     You                      Z8mf 
+0000007 560  VV0     watch                    X3.4 S7.1 X2.4 A1.3+ 
+0000007 561  ,       ,                        
+0000007 570  PPIS2   we                       Z8 
+0000007 571  VM      'll                      T1.1.3 
+0000007 580  VVI     end                      T2-[i12.2.1 T2- 
+0000007 590  RP      up                       T2-[i12.2.2 
+0000007 600  VVG@    rowing                   M4 E3- 
+0000007 610  APPGE   our                      Z8 
+0000007 620  NN2     races                    K5.1 S7.3+ S5+c 
+0000007 630  AT1     an                       Z2[i13.2.1 Z5 
+0000007 640  NN1     ocean                    Z2[i13.2.2 W3/M4 
+0000007 650  II21    away                     M6[i14.2.1 
+0000007 660  II22    from                     M6[i14.2.2 Z5 
+0000007 670  AT      the                      Z5 
+0000007 680  NN1     rest                     E3+ K1 T2-/T1.3 O2 N5.1- 
+0000007 690  IO      of                       Z5 
+0000007 700  AT      the                      Z5 
+0000007 710  NN2     competitors              S7.3+/S2mf 
+0000007 711  .       .                        
+0000007 712  "       "                        
+0000007 713  NULL    </quote>                 
+0000010 001  NULL    **8;7;text               

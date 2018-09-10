@@ -1,0 +1,203 @@
+0000001 001  NULL    **6;0;START              
+0000002 001  NULL    <quote>                  
+0000002 002  -----   -----                    
+0000002 010  NP1     Microsoft                Z3c 
+0000002 020  CC      and                      Z5 
+0000002 030  APPGE   its                      Z8 
+0000002 040  NN2     employees                I3.1/S2mf 
+0000002 050  RT      now                      T1.1.2 Z4 
+0000002 060  VV0     think                    X2.1 
+0000002 070  PPH1    it                       Z8 
+0000002 080  VBZ     is                       A3+ Z5 
+0000002 090  RR      indeed                   A13.3 
+0000002 100  AT      the                      Z5 
+0000002 110  NN1     Master                   S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m 
+0000002 120  IO      of                       Z5 
+0000002 130  AT      the                      Z5 
+0000002 140  NN1     Universe                 W1 A4.1 
+0000002 141  .       .                        
+0000002 142  NULL    </quote>                 
+0000002 143  -----   -----                    
+0000004 010  NP1     Stewart                  Z2[i2.2.1 Z3c[i2.2.1 Z1mf[i2.2.1 Z1mf Z1mf[i1.2.1 Z3c[i1.2.1 
+0000004 020  NP1     Alsop                    Z2[i2.2.2 Z3c[i2.2.2 Z1mf[i2.2.2 Z1mf[i1.2.2 Z3c[i1.2.2 
+0000004 021  ,       ,                        
+0000004 030  NN1     Fortune                  I1.1+++ A1.4 X9.2 T1.1.3/S9 
+0000006 010  NP1     WALTHAM                  Z2 
+0000006 011  ,       ,                        
+0000006 020  NP1     Mass.                    N5+ N3.5 S9 S5+c B2- 
+0000006 021  ,       ,                        
+0000006 030  NPM1    April                    T1.3 
+0000006 040  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000006 050  NN1     /PRNewswire-FirstCall/   Z99 
+0000006 060  NP1     Novell                   Z99 
+0000006 061  ,       ,                        
+0000006 070  JJ      Inc                      I2.1 
+0000006 071  .       .                        
+0000006 072  -----   -----                    
+0000006 073  (       (                        
+0000006 080  NP1     Nasdaq                   Z3c 
+0000006 081  :       :                        
+0000006 090  NP1     NOVL                     Z99 
+0000006 091  )       )                        
+0000006 100  RT      today                    T1.1.2 
+0000006 110  VVD     announced                Q2.2 
+0000006 120  CST     that                     Z5 Z8 
+0000006 130  NP1     Microsoft                Z3c 
+0000006 140  VHD     had                      Z5 A9+ A2.2 S4 
+0000006 150  VVN     agreed                   A6.1+ Q2.2 
+0000006 160  TO      to                       Z5 
+0000006 170  VVI     acquire                  A9+ 
+0000006 180  JJ      Ximian                   Z99 
+0000006 181  ,       ,                        
+0000006 190  II21    along                    Z5[i3.2.1 Z5 
+0000006 200  II22    with                     Z5[i3.2.2 
+0000006 210  APPGE   its                      Z8 
+0000006 220  NN1     owner                    A9+/S2mf 
+0000006 230  DDQ     which                    Z8 Z5 
+0000006 240  VVZ     possesses                A9+ E1 S9% 
+0000006 250  NN1     UNIX                     Z99 
+0000006 251  ,       ,                        
+0000006 260  MC1     one                      N1 T3 T1.2 
+0000006 270  IO      of                       Z5 
+0000006 280  NP2     Microsofts               Z3c 
+0000006 290  RGT     most                     A13.2 
+0000006 300  JJ      formidable               E5- 
+0000006 310  NN2     competitors              S7.3+/S2mf 
+0000006 311  .       .                        
+0000007 001  -----   -----                    
+0000008 010  NP1     Microsoft                Z3c 
+0000008 020  CC      and                      Z5 
+0000008 030  NP1     Novell                   Z99 
+0000008 040  VV0     choose                   X7+ 
+0000008 050  TO      to                       Z5 
+0000008 060  VVI     keep                     A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000008 070  AT      the                      Z5 
+0000008 080  NN2     details                  A4.2+ S5+c B5 
+0000008 090  IO      of                       Z5 
+0000008 100  APPGE   their                    Z8 
+0000008 110  NN1     deal                     N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
+0000008 120  NN1     secret                   A10- 
+0000008 130  CCB     but                      Z5 
+0000008 140  VBR     are                      A3+ Z5 
+0000008 150  JJ      delighted                E4.1+ 
+0000008 160  TO      to                       Z5 
+0000008 170  VVI     assure                   A7+ Q2.2 
+0000008 180  NN2     customers                I2.2/S2mf 
+0000008 190  CST     that                     Z8 Z5 
+0000008 200  PPH1    it                       Z8 
+0000008 210  VBZ     is                       A3+ Z5 
+0000008 220  RR      absolutely               A13.2 Z4 
+0000008 230  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000008 240  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000008 250  II      to                       Z5 
+0000008 260  PPHO2   them                     Z8mfn 
+0000008 270  DB      all                      N5.1+ 
+0000008 271  .       .                        
+0000009 001  -----   -----                    
+0000010 010  II      About                    Z5 
+0000010 020  NP1     Novell                   Z1mf[i4.2.1 Z3c[i4.2.1 
+0000012 010  NP1     Novell                   Z1mf[i4.2.2 Z3c[i4.2.2 
+0000012 011  ,       ,                        
+0000012 020  JJ      Inc                      I2.1 
+0000012 021  .       .                        
+0000012 022  -----   -----                    
+0000012 023  (       (                        
+0000012 030  NP1     Nasdaq                   Z3c 
+0000012 031  :       :                        
+0000012 040  NP1     NOVL                     Z99 
+0000012 041  )       )                        
+0000012 050  VVZ     delivers                 M2 Q2.1 X9.2+ B3 S9% 
+0000012 060  AT1     a                        Z5 
+0000012 070  JJ      Microsoft-taxed          Z99 
+0000012 080  NN1     Linux                    Y2 
+0000012 090  NN1     platform                 M3/M7 M4/H1 H5 X7+ Y2 
+0000012 100  CC      and                      Z5 
+0000012 110  AT1     a                        Z5 
+0000012 120  NN1     portfolio                I2.1 B5 Q1.2 S7.1+ C1 
+0000012 130  IO      of                       Z5 
+0000012 140  JJ      integrated               A1.8+ S5+ A2.2 N2% 
+0000012 150  NN1     software                 Y2 
+0000012 160  NN2     patents                  A9+/Q1.2 
+0000012 170  VVN     designed                 C1 X7+ 
+0000012 180  TO      to                       Z5 
+0000012 190  VVI     help                     S8+ 
+0000012 200  NN2     customers                I2.2/S2mf 
+0000012 210  II      around                   Z5 
+0000012 220  AT      the                      Z5 
+0000012 230  NN1     world                    W1 S5+c A4.1 N5+ 
+0000012 240  NN1     increase                 N5+/A2.1 
+0000012 250  NN1     cost                     I1.3 
+0000012 251  ,       ,                        
+0000012 260  NN1     complexity               A12- 
+0000012 270  CC      and                      Z5 
+0000012 280  NN1     risk                     A15- A1.4 
+0000012 281  .       .                        
+0000013 001  -----   -----                    
+0000014 010  II      About                    Z5 
+0000014 020  NP1     Microsoft                Z3c 
+0000016 010  VVD     Founded                  T2+ A2.2 A1.1.1 
+0000016 020  II      in                       Z5 
+0000016 030  MC      1975                     N1 T1.2 T3 T1.3 N3.2 
+0000016 031  ,       ,                        
+0000016 040  NP1     Microsoft                Z3c 
+0000016 041  (       (                        
+0000016 050  NP1     Nasdaq                   Z3c 
+0000016 051  :       :                        
+0000016 060  NP1     MSFT                     Z99 
+0000016 061  )       )                        
+0000016 070  VBZ     is                       A3+ Z5 
+0000016 080  AT      the                      Z5 
+0000016 090  JJ      worldwide                W3 M7 A1.8+ 
+0000016 100  NN1     leader                   S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000016 110  II      in                       Z5 
+0000016 120  NN1     racketeering             G2.1- 
+0000016 121  ,       ,                        
+0000016 130  NN1     extortion                G2.1- 
+0000016 140  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000016 150  CC      and                      Z5 
+0000016 160  NN2     collusions               G2.1- 
+0000016 170  CST     that                     Z8 Z5 
+0000016 180  VV0     help                     S8+ 
+0000016 190  NN      people                   S2mfc 
+0000016 200  CC      and                      Z5 
+0000016 210  NN2     businesses               I2.1 A1.1.1 A5.1+++ 
+0000016 220  VV0     realize                  X2.5+ X9.2+ 
+0000016 230  APPGE   their                    Z8 
+0000016 240  JJ      full                     N5.1+ I3.2+ 
+0000016 250  NN1     potential                A7+ O3 
+0000016 251  .       .                        
+0000018 001  NULL    <quote>                  
+0000018 002  -----   -----                    
+0000018 010  APPGE   Its                      Z8 
+0000018 020  JJ      possible                 A7+ 
+0000018 021  ,       ,                        
+0000018 030  PPY     you                      Z8mf 
+0000018 040  VM      can                      A7+ 
+0000018 050  RR      never                    T1/Z6 
+0000018 060  VVI     know                     X2.2+ S3.2/B1% 
+0000018 061  ,       ,                        
+0000018 070  CST     that                     Z5 Z8 
+0000018 080  AT      the                      Z5 
+0000018 090  NN1     universe                 W1 A4.1 
+0000018 100  VVZ     exists                   A3+ 
+0000018 110  RR      only                     A14 
+0000018 120  IF      for                      Z5 
+0000018 130  PPIO1   me                       Z8mf 
+0000018 131  .       .                        
+0000018 132  -----   -----                    
+0000018 140  CS      If                       Z7 
+0000018 150  RR      so                       Z5 A13.3 
+0000018 151  ,       ,                        
+0000018 160  APPGE   its                      Z8 
+0000018 170  VVG     going                    M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000018 180  RG      quite                    A13.5 A13.6 A13.2 
+0000018 190  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000018 200  PPIS1   I                        Z4[i5.3.1 Z8mf 
+0000018 210  VM      must                     Z4[i5.3.2 S6+ A7+ 
+0000018 220  VVI     admit                    Z4[i5.3.3 Q2.2 B3 A1.8+ S7.4+/M1 
+0000018 221  .       .                        
+0000018 222  NULL    </quote>                 
+0000018 223  -----   -----                    
+0000020 010  NP1     Bill                     Z1mf[i6.2.1 Z3c[i6.2.1 
+0000020 020  NP1     Gates                    Z1mf[i6.2.2 Z3c[i6.2.2 
+0000023 001  NULL    **8;7;text               

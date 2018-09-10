@@ -1,0 +1,155 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN2     Voters                   G1.2/S2mf 
+0000002 020  II      on                       Z5 
+0000002 030  AT      the                      Z5 
+0000002 040  NN1     right                    S7.4+ G2.2+ M6 G1.2 
+0000002 050  VH0     have                     Z5 A9+ A2.2 S4 
+0000002 060  VBN     been                     Z5 A3+ 
+0000002 070  VVG     waiting                  T1.3 A3+ A11.1+ S1.1.1% 
+0000002 080  IF      for                      Z5 
+0000002 090  DD1     this                     Z8 M6 Z5 
+0000002 100  IF      for                      Z5 
+0000002 110  AT1     a                        Z5 
+0000002 120  JJ      long                     T1.3+[i1.2.1 N3.7+ T1.3+ N3.3+ N3.2+ 
+0000002 130  NNT1    time                     T1.3+[i1.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000002 131  !       !                        
+0000002 132  -----   -----                    
+0000002 140  NN2     Police                   G2.1 
+0000002 150  VH0     have                     Z5 A9+ A2.2 S4 
+0000002 160  RR      finally                  N4 
+0000002 170  VVN     raided                   G3 G2.1 A9+ 
+0000002 180  AT1     a                        Z5 
+0000002 190  JJ      Democratic               G1.2 
+0000002 200  JJ      strategic                X7+ G3 
+0000002 210  NN      headquarters             S7.1+/H1c 
+0000002 211  ,       ,                        
+0000002 220  CC      and                      Z5 
+0000002 230  AT      the                      Z5 
+0000002 240  NN2     results                  A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
+0000002 250  VBR     are                      A3+ Z5 
+0000002 260  JJ      devastating              A1.1.2 E4.1- 
+0000002 261  !       !                        
+0000003 001  -----   -----                    
+0000004 010  II21    According                Z5[i2.2.1 Z5 
+0000004 020  II22    to                       Z5[i2.2.2 Z5 
+0000004 030  NP1     Philadelphia             Z2 Z3 
+0000004 040  NN1     Newspaper                Q4.2 
+0000004 050  RR      recently                 T3--- 
+0000004 051  ,       ,                        
+0000004 060  AT      the                      Z5 
+0000004 070  NP1     Pennsylvania             Z2[i3.2.1 Z3c[i3.2.1 Z2 
+0000004 080  NN1     State                    Z2[i3.2.2 Z3c[i3.2.2 G1.1c O4.1 
+0000004 090  NN2     Police                   G2.1 
+0000004 100  VVD     raided                   G3 G2.1 A9+ 
+0000004 110  JJ      Democrat-linked          Z99 
+0000004 120  NN1     group                    S5+c A4.1c B3% 
+0000004 130  NN2     FieldWorks               X2.4 
+0000004 140  VVG     looking                  X2.4[i4.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000004 150  IF      for                      X2.4[i4.2.2 Z5 
+0000004 160  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000004 170  IO      of                       Z5 
+0000004 180  NN1     voter                    G1.2/S2mf X7+/S2mf 
+0000004 190  NN1     fraud                    G2.1- G2.2- 
+0000004 191  .       .                        
+0000005 001  -----   -----                    
+0000006 010  DDQ     What                     Z8 Z5 
+0000006 020  AT      the                      Z5 
+0000006 030  NN1     warrant                  Q1.2 
+0000006 040  VVZ     says                     Q2.1 
+0000006 050  RR      exactly                  A4.2+ A5.3+ 
+0000006 060  VBZ     is                       Z5 A3+ 
+0000006 070  XX      not                      Z6 
+0000006 080  VVN     known                    X2.2+ S3.2/B1% 
+0000006 090  CCB     but                      Z5 
+0000006 100  NN2     agents                   I2.1/S2mf G3/S2mf K4/S2mf 
+0000006 110  II      on                       M6[i5.3.1 A1.1.1[i5.3.1 Z5 
+0000006 120  AT      the                      M6[i5.3.2 A1.1.1[i5.3.2 Z5 
+0000006 130  NN1     scene                    M6[i5.3.3 A1.1.1[i5.3.3 K4 C1 A8 A1.1.1 M7 S1.1.1 E3- E2+ 
+0000006 140  VVD     said                     Q2.1 
+0000006 150  PPHS2   they                     Z8mfn 
+0000006 160  VBDR    were                     Z5 A3+ 
+0000006 170  VVG     searching                X2.4 
+0000006 180  IF      for                      Z5 
+0000006 190  NN2     templates                O4.1 Q1.2 A6.1+ 
+0000006 191  .       .                        
+0000006 192  -----   -----                    
+0000006 193  .       .                        
+0000006 194  .       .                        
+0000006 200  VVN     utilized                 A1.5.1 
+0000006 210  TO      to                       Z5 
+0000006 220  VVI     construct                A1.1.1 
+0000006 230  JJ      fraudulent               G2.1- 
+0000006 240  NN1     voter                    G1.2/S2mf X7+/S2mf 
+0000006 250  NN1     registration             Q1.2/Q2.2[i6.2.1 Q1.2/G1.1 
+0000006 260  NN2     forms                    Q1.2/Q2.2[i6.2.2 A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@ 
+0000006 270  CC      and                      Z5 
+0000006 280  JJ@     completed                T2- Q1.2 
+0000006 290  NN1     voter                    G1.2/S2mf X7+/S2mf 
+0000006 300  NN1     registration             Q1.2/Q2.2[i7.2.1 Q1.2/G1.1 
+0000006 310  NN2     forms                    Q1.2/Q2.2[i7.2.2 A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@ 
+0000006 320  VVG     containing               A1.8+ A1.7+ 
+0000006 330  DA      same                     A6.1+++ 
+0000006 340  CC      or                       Z5 
+0000006 350  JJ      similar                  A6.1+ 
+0000006 360  JJ@     identifying              X2.2+ A10+ X2.5+ 
+0000006 370  NN1     information              X2.2+ 
+0000006 380  IO      of                       Z5 
+0000006 390  NN2     individuals              S2mf 
+0000006 400  II      on                       Z5 
+0000006 410  JJ      multiple                 N5+ 
+0000006 420  NNU     forms.                   A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@ T2+ A2.1+ A1.8+ A3+ A1.1.1 
+0000008 010  FO      **131;7;TOOLONG          Z99 
+0000010 010  NN2     FYI                      Z4 
+0000010 011  ,       ,                        
+0000010 020  NN2     Fieldworks               X2.4 
+0000010 030  NP1     LLC                      Z99 
+0000010 040  VBZ     is                       A3+ Z5 
+0000010 050  MC1     one                      T3 N1 T1.2 
+0000010 060  IO      of                       Z5 
+0000010 070  AT      the                      Z5 
+0000010 080  JJT     largest                  N3.2+++ N5+++ A11.1+++ 
+0000010 090  JJ      national                 M7/N5.1+ 
+0000010 100  NN1     voter                    G1.2/S2mf X7+/S2mf 
+0000010 110  NN1     registration             Q1.2/G1.1 
+0000010 120  NN2     groups                   S5+ A4.1 B3% 
+0000010 130  II      in                       Z5 
+0000010 140  NP1     America                  Z2 
+0000010 141  .       .                        
+0000010 142  -----   -----                    
+0000010 150  PPHS2   They                     Z8mfn 
+0000010 160  VBR     are                      Z5 A3+ 
+0000010 170  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000010 180  RR      indirectly               A10- 
+0000010 190  IF      for                      Z5 
+0000010 200  AT      the                      Z5 
+0000010 210  JJ      Democratic               G1.2 
+0000010 220  JJ      National                 Z3c 
+0000010 230  NN1     Comittee                 Z99 
+0000010 240  CC      and                      Z5 
+0000010 250  NNB     Mrs.                     Z1f[i9.2.1 Z1m[i8.2.1 
+0000010 260  NP1     Clinton                  Z1f[i9.2.2 Z1mf Z1m[i8.2.2 
+0000010 261  .       .                        
+0000011 001  -----   -----                    
+0000012 010  PPHS2   They                     Z8mfn 
+0000012 020  RR      quickly                  N3.8+ 
+0000012 030  VVD     claimed                  Q2.2 A9+ 
+0000012 040  CST     that                     Z8 Z5 
+0000012 050  PPHS2   they                     Z8mfn 
+0000012 060  VBR     are                      E2-[i10.2.1 A3+ Z5 
+0000012 070  II      against                  E2-[i10.2.2 Z5 
+0000012 080  NN1     voter                    G1.2/S2mf X7+/S2mf 
+0000012 090  NN1     fraud                    G2.1- G2.2- 
+0000012 091  ,       ,                        
+0000012 100  CCB     but                      Z5 
+0000012 110  RT      then                     N4 Z5 T1.2 
+0000012 120  RT      again                    N6+ Z4 
+0000012 121  ,       ,                        
+0000012 130  PNQS    who                      Z8 
+0000012 140  VM      would                    A7+ 
+0000012 150  RR      actually                 A5.4+ A14 
+0000012 160  VVI     admit                    Q2.2 B3 A1.8+ S7.4+/M1 
+0000012 170  CST     that                     Z8 Z5 
+0000012 180  RR      anyway                   Z4 A13.7 
+0000012 181  ?       ?                        
+0000014 001  NULL    **8;139;text             

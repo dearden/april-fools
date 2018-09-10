@@ -1,0 +1,326 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     Sweden                   Z2 
+0000002 011  GE      's                       Z5 
+0000002 020  JJ      national                 M7/N5.1+ 
+0000002 030  NN1     dish                     O2 F1 Q4.3 O4.2+% 
+0000002 040  VBZ     is                       A3+ Z5 
+0000002 050  AT1     an                       Z5 
+0000002 060  JJ@     acquired                 A9+ 
+0000002 070  NN1     taste                    X3.1 O4.2 E2+ X2.2 
+0000002 071  ,       ,                        
+0000002 080  TO      to                       A13.7[i1.4.1 Z5 
+0000002 090  VVI     say                      A13.7[i1.4.2 Q2.1 Z4% 
+0000002 100  AT      the                      A13.7[i1.4.3 Z5 
+0000002 110  RRT     least                    A13.7[i1.4.4 A13.7 
+0000002 111  .       .                        
+0000003 001  -----   -----                    
+0000004 010  DD      Some                     N5 Z5 
+0000004 020  VV0     say                      Q2.1 Z4% 
+0000004 030  VVG     surstromming             Z99 
+0000004 031  ,       ,                        
+0000004 040  AT1     a                        Z5 
+0000004 050  JJ@     fermented                Z99 
+0000004 060  NN      herring                  L2mfnc F1 
+0000004 061  ,       ,                        
+0000004 070  VVZ     smells                   X3.5 X3 A8 
+0000004 080  II      like                     Z5 
+0000004 090  NN1     rubbish                  X7-/O2 A5.1- 
+0000004 100  VVN     left                     A1.8-[i2.2.1 M1 M2 A1.1.1 A1.9 A9- N5.2+ T2- 
+0000004 110  RP      out                      A1.8-[i2.2.2 M6 
+0000004 120  II      in                       Z5 
+0000004 130  AT      the                      Z3c[i3.2.1 Z5 
+0000004 140  NN1     sun                      Z3c[i3.2.2 W1 W2 W4 
+0000004 150  IF      for                      Z5 
+0000004 160  NNT2    days                     T1.3 
+0000004 161  .       .                        
+0000005 001  -----   -----                    
+0000006 010  CCB     But                      Z5 
+0000006 020  RT      now                      T1.1.2 Z4 
+0000006 030  AT      the                      Z5 
+0000006 040  NN      fish                     L2mfnc F1 
+0000006 050  VHZ     has                      Z5 A9+ A2.2 S4 
+0000006 060  VBN     been                     Z5 A3+ 
+0000006 070  VVN     banned                   S7.4- 
+0000006 080  II      from                     Z5 
+0000006 090  DA2     several                  N5 
+0000006 100  JJ      major                    A11.1+ N3.2+ 
+0000006 110  NN2     airlines                 M5/S5c 
+0000006 111  ,       ,                        
+0000006 120  VVN     classified               A4.1 A10- 
+0000006 130  II21    along                    Z5[i4.2.1 Z5 
+0000006 140  II22    with                     Z5[i4.2.2 
+0000006 150  JJ      dangerous                A15- 
+0000006 160  NN2     weapons                  G3 X4.1 
+0000006 170  II      like                     Z5 
+0000006 180  NN1     shoe                     B5 
+0000006 190  NN2     bombs                    G3 N5+ 
+0000006 200  CC      and                      Z5 
+0000006 210  NN2     firearms                 G3 
+0000006 211  .       .                        
+0000007 001  -----   -----                    
+0000008 010  AT      The                      Z5 
+0000008 020  JJ      Baltic                   Z2 Z2/S2mfnc 
+0000008 030  NN      herring                  L2mfnc F1 
+0000008 040  VBZ     is                       Z5 A3+ 
+0000008 050  VVN@    fermented                E3- A1.1.1 
+0000008 060  II      in                       Z5 
+0000008 070  NN2     barrels                  O2 
+0000008 080  IF      for                      Z5 
+0000008 090  NNT2    months                   T1.3 
+0000008 100  II      before                   Z5 
+0000008 110  VBG     being                    Z5 A3+ 
+0000008 120  VVN     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000008 130  II      in                       Z5 
+0000008 140  NN1     tin                      O2[i5.2.1 O1.1 O2 
+0000008 150  NN2     cans                     O2[i5.2.2 O2 F2% 
+0000008 151  ,       ,                        
+0000008 160  CS      where                    M6 
+0000008 170  AT      the                      Z5 
+0000008 180  NN1     fermentation             Z99 
+0000008 190  NN1     process                  A1.1.1 X4.2 
+0000008 200  VVZ     continues                T2++ 
+0000008 201  .       .                        
+0000009 001  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  NN1     decision                 X6+ 
+0000010 030  VHZ     has                      Z5 A9+ A2.2 S4 
+0000010 040  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000010 050  DA2     many                     N5+ 
+0000010 060  NN2     Swedes                   Z2/S2mf F1 
+0000010 070  RG      very                     A13.3 
+0000010 080  JJ      angry                    E3- W4 
+0000010 090  RR      indeed                   A13.3 
+0000010 091  .       .                        
+0000011 001  -----   -----                    
+0000012 010  NP1@    Surstromming             Z99 
+0000012 020  VBZ     is                       A3+ Z5 
+0000012 030  RG      as                       A13 
+0000012 040  JJ      Swedish                  Z2 Z2/Q3 Z2/S2mfnc 
+0000012 050  CSA     as                       Z5 
+0000012 060  NP1     Volvo                    Z3c/M3 
+0000012 070  CC      and                      Z5 
+0000012 080  NP1     Ikea                     Z3c 
+0000012 081  .       .                        
+0000013 001  -----   -----                    
+0000014 010  DD      Some                     N5 Z5 
+0000014 020  VV0     say                      Q2.1 Z4% 
+0000014 030  PPH1    it                       Z8 
+0000014 040  VBZ     is                       A3+ Z5 
+0000014 050  RR      simply                   A13.6 A14 A12+ 
+0000014 060  JJ      rotten                   A1.1.2 A5.1- G2.2- B2- Z4 N5+ 
+0000014 070  NN      fish                     L2mfnc F1 
+0000014 071  ,       ,                        
+0000014 080  DDQ     which                    Z8 Z5 
+0000014 090  VVZ     smells                   X3.5 X3 A8 
+0000014 100  II      like                     Z5 
+0000014 110  JJ      rotten                   A1.1.2 A5.1- G2.2- B2- Z4 N5+ 
+0000014 120  NN      fish                     L2mfnc F1 
+0000014 121  .       .                        
+0000014 122  -----   -----                    
+0000014 130  NN2     Others                   A6.1-/Z8 
+0000014 140  VV0     argue                    Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 
+0000014 150  PPH1    it                       Z8 
+0000014 160  VBZ     is                       A3+ Z5 
+0000014 170  AT      the                      Z5 
+0000014 180  JJT     finest                   A5.1+++ O4.5 
+0000014 190  IO      of                       Z5 
+0000014 200  NN2     delicacies               F1 
+0000014 201  .       .                        
+0000015 001  -----   -----                    
+0000016 010  JJ      National                 M7/N5.1+ 
+0000016 020  NN1     symbol                   A6.2+ Q1.1 X4.1 M2 
+0000018 010  CCB     But                      Z5 
+0000018 020  RT      now                      T1.1.2 Z4 
+0000018 030  JJ      major                    A11.1+ N3.2+ 
+0000018 040  NN2     airlines                 M5/S5c 
+0000018 050  II      like                     Z5 
+0000018 060  JJ      British                  Z3c[i6.2.1 Z2 Z2/S2mfnc 
+0000018 070  NN2     Airways                  Z3c[i6.2.2 M5 B3 
+0000018 080  CC      and                      Z5 
+0000018 090  NN1     Air                      Z3c[i7.2.1 O1.3 A8 W1 Q4.3 M1 
+0000018 100  NP1     France                   Z3c[i7.2.2 Z2 Z1mf 
+0000018 110  VV0     argue                    Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 
+0000018 120  AT      the                      Z5 
+0000018 130  NN2     cans                     O2 F2% 
+0000018 140  VBR     are                      A3+ Z5 
+0000018 150  JJ      pressurised              O4.1/N3.5 S7.1+ 
+0000018 160  NN2     goods                    O2 
+0000018 161  ,       ,                        
+0000018 170  CC      and                      Z5 
+0000018 180  VM      must                     S6+ A7+ 
+0000018 190  VBI     be                       Z5 A3+ 
+0000018 200  VVN     classified               A4.1 A10- 
+0000018 210  CSA     as                       Z5 
+0000018 220  RR      potentially              A7+ 
+0000018 230  JJ      explosive                A15- N3.2+/A2.1 
+0000018 231  .       .                        
+0000019 001  -----   -----                    
+0000020 010  AT      The                      Z5 
+0000020 020  NN1     dish                     O2 F1 Q4.3 O4.2+% 
+0000020 030  VBZ     is                       Z5 A3+ 
+0000020 040  RR21    no                       T2-[i8.2.1 Z6 
+0000020 050  RR22    longer                   T2-[i8.2.2 T1.3++ 
+0000020 060  VVN     allowed                  S7.4+ S8+ X2.1 
+0000020 070  II      on                       Z5 
+0000020 080  APPGE   their                    Z8 
+0000020 090  NN2     flights                  M5 M1 H2 
+0000020 091  ,       ,                        
+0000020 100  CC      and                      Z5 
+0000020 110  AT      the                      Z5 
+0000020 120  NN1     sale                     I2.2 I2.2/I1.3- 
+0000020 130  IO      of                       Z5 
+0000020 140  AT      the                      Z5 
+0000020 150  NN1     delicacy                 F1 
+0000020 160  II      from                     Z5 
+0000020 170  NP1     Stockholm                Z2 
+0000020 171  GE      's                       Z5 
+0000020 180  JJ      international            M7 
+0000020 190  NN1     airport                  M5/M7 
+0000020 200  VHZ     has                      Z5 A9+ A2.2 S4 
+0000020 210  VBN     been                     Z5 A3+ 
+0000020 220  VVN     stopped                  T2- S8- M8 H4 A1.1.1@ 
+0000020 221  .       .                        
+0000021 001  -----   -----                    
+0000022 010  DD1     That                     Z8 Z5 
+0000022 020  VHZ     has                      Z5 A9+ A2.2 S4 
+0000022 030  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000022 040  NN2     producers                K4/S7.1+/S2mf A1.1.1/S2mf 
+0000022 050  IO      of                       Z5 
+0000022 060  AT      the                      Z5 
+0000022 070  JJ@     surstromming             Z99 
+0000022 080  NN1     choke                    M3/O2 
+0000022 090  II      on                       Z5 
+0000022 100  APPGE   their                    Z8 
+0000022 110  JJ@     fermented                Z99 
+0000022 120  NN      fish                     L2mfnc F1 
+0000022 121  ,       ,                        
+0000022 130  VVG     calling                  Q2.2 S1.1.1 Q1.3 S9% 
+0000022 140  AT      the                      Z5 
+0000022 150  NN2     airlines                 M5/S5c 
+0000022 151  GE      '                        Z5 
+0000022 160  NN1     decision                 X6+ 
+0000022 161  NULL    <quote>                  
+0000022 162  -----   -----                    
+0000022 163  "       "                        
+0000022 170  RR      culturally               C1 S1.1.1 S5+ 
+0000022 180  JJ      illiterate               Q3 X2.2- 
+0000022 181  "       "                        
+0000022 182  NULL    </quote>                 
+0000022 183  -----   -----                    
+0000022 184  .       .                        
+0000023 001  -----   -----                    
+0000024 010  PPH1    It                       Z8 
+0000024 020  VBZ     is                       A3+ Z5 
+0000024 030  AT1     a                        Z5 
+0000024 040  NN1     myth                     S9/Q2.2 A5.2-/Q2.2 
+0000024 041  ,       ,                        
+0000024 050  PPHS2   they                     Z4[i9.2.1 Z8mfn 
+0000024 060  VV0     say                      Z4[i9.2.2 Q2.1 Z4% 
+0000024 061  ,       ,                        
+0000024 070  CST     that                     Z5 Z8 
+0000024 080  AT      the                      Z5 
+0000024 090  JJ      tinned                   O4.1 
+0000024 100  NN      fish                     L2mfnc F1 
+0000024 110  VM      can                      A7+ 
+0000024 120  VVI     explode                  A1.1.1 N5+/A2.1 E3- G3 
+0000024 121  .       .                        
+0000025 001  -----   -----                    
+0000026 010  PPHS2   They                     Z8mfn 
+0000026 020  VV0     admit                    Q2.2 B3 A1.8+ S7.4+/M1 
+0000026 021  ,       ,                        
+0000026 030  RR      however                  Z4 
+0000026 031  ,       ,                        
+0000026 040  CST     that                     Z5 Z8 
+0000026 050  AT1     a                        Z5 
+0000026 060  JJ@     punctured                Z99 
+0000026 070  NN1     tin                      O1.1 O2 
+0000026 080  VM      would                    A7+ 
+0000026 090  VVI     emit                     M2 
+0000026 100  AT1     a                        Z5 
+0000026 110  JJ      foul                     O4.2- G2.2- S1.2.4- 
+0000026 120  NN1     smell                    X3.5 
+0000026 121  ,       ,                        
+0000026 130  CC      and                      Z5 
+0000026 140  CST     that                     Z5 Z8 
+0000026 150  AT      the                      Z5 
+0000026 160  NN1     content                  Q2.1 A1.8+ N5 E4.1+% 
+0000026 170  VM      might                    A7+ 
+0000026 180  VVI     spill                    A1.1.1 
+0000026 190  RG      quite                    A13.5 A13.6 A13.2 
+0000026 200  RR      forcefully               E6+ S1.2.5+ N3.2+ A5.1+ 
+0000026 201  ,       ,                        
+0000026 210  II      like                     Z5 
+0000026 220  AT1     a                        Z5 
+0000026 230  JJ@     punctured                Z99 
+0000026 240  NN1%    can                      F2[i10.3.1 O2 F2% 
+0000026 250  IO      of                       F2[i10.3.2 Z5 
+0000026 260  NN1     beer                     F2[i10.3.3 F2 
+0000026 261  .       .                        
+0000027 001  -----   -----                    
+0000028 010  CCB     But                      Z5 
+0000028 020  DD1     that                     Z8 Z5 
+0000028 030  VBZ     is                       A3+ Z5 
+0000028 040  XX      not                      Z6 
+0000028 050  RR      enough                   N5+ N6+ 
+0000028 060  TO      to                       Z5 
+0000028 070  VVI     stop                     T2- S8- M8 H4 A1.1.1@ 
+0000028 080  AT      the                      Z5 
+0000028 090  NN1     export                   I2.2/M2 
+0000028 100  IO      of                       Z5 
+0000028 110  AT1     a                        Z5 
+0000028 120  JJ      potent                   S7.1+ S1.2.5+ O4.1 F2+ 
+0000028 130  JJ      national                 M7/N5.1+ 
+0000028 140  NN1     symbol                   A6.2+ Q1.1 X4.1 M2 
+0000028 141  ,       ,                        
+0000028 150  AT      the                      Z5 
+0000028 160  NN      herring                  L2mfnc F1 
+0000028 170  NN2     supporters               S8+/S2mf K5.1/S2mf Q1.1% 
+0000028 180  VV0     argue                    Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 
+0000028 181  .       .                        
+0000029 001  -----   -----                    
+0000030 010  AT      The                      Z5 
+0000030 020  NN1     leader                   S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000030 030  IO      of                       Z5 
+0000030 040  AT      the                      Z5 
+0000030 050  JJ      Swedish                  Z2 Z2/Q3 Z2/S2mfnc 
+0000030 060  JJ@     Surstromming             Z99 
+0000030 070  NN1     Academy                  P1c 
+0000030 071  ,       ,                        
+0000030 080  AT1     an                       Z5 
+0000030 090  NN1     organisation             S5+c S7.1+ 
+0000030 100  VVG     promoting                S8+ I2.2/Q2.2 S7.1+/A2.1 
+0000030 110  AT      the                      Z5 
+0000030 120  NN1     dish                     O2 F1 Q4.3 O4.2+% 
+0000030 130  RR      nationally               M7/N5.1+ 
+0000030 140  CC      and                      Z5 
+0000030 150  RR      internationally          M7 
+0000030 151  ,       ,                        
+0000030 160  VVD     said                     Q2.1 
+0000030 170  DD      any                      N5.1+ N5 
+0000030 180  NN1     airline                  M5/S5c 
+0000030 190  VVN@    worried                  E6- 
+0000030 200  II      about                    Z5 
+0000030 210  NN2     explosives               G3/O1.1 
+0000030 220  CC      and                      Z5 
+0000030 230  JJ      foul                     O4.2- G2.2- S1.2.4- 
+0000030 240  NN2     smells                   X3.5 
+0000030 250  VM      should                   S6+ A7+ 
+0000030 260  MD      first                    N4 
+0000030 270  VVI     ban                      S7.4- 
+0000030 280  NN2     bottles                  O2 E5+ 
+0000030 290  IO      of                       Z5 
+0000030 300  NN1     champagne                F2 O4.3 
+0000030 310  CC      and                      Z5 
+0000030 320  JJ      French                   Z2 
+0000030 330  NN1     cheese                   F1 
+0000030 340  II      before                   Z5 
+0000030 350  VVG     attacking                Q2.2 E3- G3 A1.1.2 A1.1.1 
+0000030 360  AT      the                      Z5 
+0000030 370  NN1     pride                    E4.2+/S1.2 S7.2+ S1.2.3+ O4.2+ 
+0000030 380  IO      of                       Z5 
+0000030 390  AT      the                      Z5 
+0000030 400  JJ      Swedish                  Z2 Z2/Q3 Z2/S2mfnc 
+0000030 410  NN1     cuisine                  F1 
+0000030 411  .       .                        
+0000033 001  NULL    **8;7;text               

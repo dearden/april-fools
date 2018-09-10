@@ -1,0 +1,969 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN1     Ive                      Z99 
+0000002 020  VBN     been                     Z5 A3+ 
+0000002 030  RR      so                       Z5 A13.3 
+0000002 040  VVN     taken                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000002 050  IW      with                     Z5 
+0000002 060  NP1     HiRISE                   Z99 
+0000002 070  RR      lately                   T3--- 
+0000002 080  CST     that                     Z8 Z5 
+0000002 090  PPIS1   I                        Z8mf 
+0000002 100  VV0     havent                   Z99 
+0000002 110  VVN     written                  Q1.2 I2.1 
+0000002 120  RR      much                     A13.3 N6+ 
+0000002 130  II      about                    Z5 
+0000002 140  AT      the                      Z5 
+0000002 150  NP1     Mars                     Z3c Z1/W1 S9/T1.1.1@ 
+0000002 160  NN2     rovers                   Z3c 
+0000002 170  NN1     Spirit                   S9 O1.2 F2 X5.2+ E4.1+ S6+ E1 X7+ 
+0000002 180  CC      and                      Z5 
+0000002 190  NN1     Opportunity              A1.4 
+0000002 191  .       .                        
+0000002 192  -----   -----                    
+0000002 200  NN1     Theyve                   Z99 
+0000002 210  VBN     been                     Z5 A3+ 
+0000002 220  VVG     traversing               M1 
+0000002 230  NP1     Mars                     Z3c Z1/W1 S9/T1.1.1@ 
+0000002 240  IF      for                      Z5 
+0000002 250  RR      almost                   A13.4 
+0000002 260  MC      six                      N1 T3 T1.2 
+0000002 270  NNT2    years                    T1.3 
+0000002 280  RT      now                      T1.1.2 Z4 
+0000002 281  ,       ,                        
+0000002 290  VVG     taking                   A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000002 300  NNU2    tons                     N5+[i1.2.1 N3.5 N5+ 
+0000002 310  IO      of                       N5+[i1.2.2 Z5 
+0000002 320  NN2     images                   O4.1 A8 X2.1 C1 
+0000002 330  CC      and                      Z5 
+0000002 340  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000002 350  RR21    in                       M6[i2.2.1 
+0000002 360  RR22    situ                     M6[i2.2.2 
+0000002 370  NN      data                     X2.2/X2.4 Q1.1 
+0000002 371  .       .                        
+0000002 372  -----   -----                    
+0000002 380  CC      And                      Z5 
+0000002 390  RT      now                      T1.1.2 Z4 
+0000002 400  PPIS1   I                        Z8mf 
+0000002 410  VV0     feel                     X2.1 E1 X3 
+0000002 420  JJ      remiss                   A1.3- 
+0000002 421  ,       ,                        
+0000002 430  CS      because                  Z5/A2.2 
+0000002 440  NN1     Spirit                   S9 O1.2 F2 X5.2+ E4.1+ S6+ E1 X7+ 
+0000002 450  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 460  VVN     stumbled                 M1 A5.3- 
+0000002 470  II      on                       Z5 
+0000002 480  PN1     something                Z8 
+0000002 490  RG      very                     A13.3 
+0000002 500  JJ      cool                     O4.6- S1.2.1- O4.2+ E6+ 
+0000002 501  .       .                        
+0000003 001  -----   -----                    
+0000004 010  DD2     These                    Z5 Z8 
+0000004 020  NN2     images                   O4.1 A8 X2.1 C1 
+0000004 030  VBDR    were                     Z5 A3+ 
+0000004 040  VVN     taken                    A9+[i3.2.1 S7.3+[i3.2.1 M2[i3.2.1 I3.1[i3.2.1 A1.1.1[i3.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000004 050  RP      on                       A9+[i3.2.2 S7.3+[i3.2.2 M2[i3.2.2 I3.1[i3.2.2 A1.1.1[i3.2.2 M6 A1.1.1 
+0000004 060  NP1     Sol                      Z2[i4.2.1 Z1mf[i4.2.1 Z2 
+0000004 070  MC      1858                     Z2[i4.2.2 Z1mf[i4.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000004 071  ,       ,                        
+0000004 080  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000004 090  AT1     a                        Z5 
+0000004 100  DA2     few                      T1.1.1[i5.3.1 N5- 
+0000004 110  NNT2    days                     T1.1.1[i5.3.2 T1.3 T1.1.1[i6.2.1 
+0000004 120  RA      ago                      T1.1.1[i5.3.3 T1.1.1 T1.1.1[i6.2.2 
+0000004 121  (       (                        
+0000004 130  AT1     a                        Z5 
+0000004 140  NP1     Sol                      Z2 
+0000004 150  VBZ     is                       A3+ Z5 
+0000004 160  AT1     a                        Z5 
+0000004 170  NNT1    day                      T1.3 
+0000004 180  II      on                       Z5 
+0000004 190  NP1     Mars                     Z3c Z1/W1 S9/T1.1.1@ 
+0000004 191  ,       ,                        
+0000004 200  II      about                    Z5 
+0000004 210  AT1     a                        Z5 
+0000004 220  DB      half                     T1.3[i7.2.1 N5 
+0000004 230  NNT1    hour                     T1.3[i7.2.2 T1.3 
+0000004 240  RRR     longer                   T1.3++ 
+0000004 250  CSN     than                     Z5 
+0000004 260  AT1     an                       Z5 
+0000004 270  NN1     Earth                    W3 W1 O1.1 O3 N5++ 
+0000004 280  NNT1    day                      T1.3 
+0000004 281  )       )                        
+0000004 282  .       .                        
+0000004 283  -----   -----                    
+0000004 290  NN1     Spirit                   S9 O1.2 F2 X5.2+ E4.1+ S6+ E1 X7+ 
+0000004 300  VHZ     has                      Z5 A9+ A2.2 S4 
+0000004 310  VBN     been                     Z5 A3+ 
+0000004 320  VVG     tooling                  C1 
+0000004 330  RP      around                   M6 
+0000004 340  AT1     a                        Z5 
+0000004 350  JJ      high                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000004 360  NN1     plateau                  N5.1+ 
+0000004 370  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000004 380  RL      Home                     H4 M6 
+0000004 390  NN1     Plate                    O2 C1 B3 
+0000004 391  ,       ,                        
+0000004 400  CS      because                  Z5/A2.2 
+0000004 410  APPGE   its                      Z8 
+0000004 420  JJ      shaped                   O4.4 
+0000004 430  JJ@     like                     Z5 A6.1+ Z4 E2+ 
+0000004 431  ,       ,                        
+0000004 440  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000004 441  ,       ,                        
+0000004 450  AT1     a                        Z5 
+0000004 460  NN1     home                     H4/H1c M6 
+0000004 470  NN1     plate                    O2 C1 B3 
+0000004 480  II      in                       Z5 
+0000004 490  NN1     baseball                 K5.2 
+0000004 491  .       .                        
+0000004 492  -----   -----                    
+0000004 500  NP1@    Theres                   Z5 M6 T1.2 
+0000004 510  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000004 520  CST     that                     Z5 Z8 
+0000004 530  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000004 540  VVN     flowed                   M4 M1 
+0000004 550  II      in                       Z5 
+0000004 560  DD1     this                     M6 Z5 Z8 
+0000004 570  NN1     area                     M7 A4.1 N3.6 
+0000004 580  AT1     a                        Z5 T1.1.1[i8.3.1 
+0000004 590  JJ      long                     T1.1.1[i10.3.1 N3.7+ T1.3+ N3.3+ N3.2+ T1.3+[i9.2.1 
+0000004 600  NNT1    time                     T1.1.1[i10.3.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ T1.1.1[i8.3.2 T1.3+[i9.2.2 
+0000004 610  RA      ago                      T1.1.1[i10.3.3 T1.1.1 T1.1.1[i8.3.3 
+0000004 611  ,       ,                        
+0000004 620  CC      and                      Z5 
+0000004 630  CSA     as                       Z5 
+0000004 640  PPIS1   I                        Z8mf 
+0000004 650  VVD     looked                   A8 X3.4 X2.4 X7+ 
+0000004 660  II      over                     Z5 
+0000004 670  AT      the                      Z5 
+0000004 680  NN2     images                   O4.1 A8 X2.1 C1 
+0000004 690  PPH1    it                       Z8 
+0000004 700  VBDZ    was                      A3+ Z5 
+0000004 710  RG      pretty                   A13.5 
+0000004 720  JJ      obvious                  A11.2+ 
+0000004 721  .       .                        
+0000004 722  -----   -----                    
+0000004 730  VV0     Check                    X2.4[i11.2.1 I2.2[i11.2.1 A5.2+[i11.2.1 X2.4/A5.3 A15 Q1.2 T2- M5 
+0000004 740  RP      out                      X2.4[i11.2.2 I2.2[i11.2.2 A5.2+[i11.2.2 M6 
+0000004 750  DD1     this                     M6 Z5 Z8 
+0000004 760  MD      first                    N4 
+0000004 770  PN1     one                      Z8 
+0000004 771  :       :                        
+0000006 010  AT      The                      Z5 
+0000006 020  NN1     ground                   M6 W3 M7 O3 X2.1 
+0000006 030  VBZ     is                       Z5 A3+ 
+0000006 040  VVN     covered                  A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1 
+0000006 050  IW      with                     Z5 
+0000006 060  JJ      granular                 O4.1 
+0000006 070  NN1     material                 O1 B5 O2 X2.2 S1.2 
+0000006 071  ,       ,                        
+0000006 080  RR      obviously                Z4 A11.2+ 
+0000006 090  VVN@    ground                   A1.1.1 X3.2 M2 F1 A1.1.1/O4.5 X8+ K1 
+0000006 100  RP      up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
+0000006 110  NN2     rocks                    O2 O1.1 K2 F1 
+0000006 120  CC      and                      Z5 
+0000006 130  DA      such                     Z5 Z8 
+0000006 131  .       .                        
+0000006 132  -----   -----                    
+0000006 140  AT1     A                        N5-[i12.3.1 Z5 
+0000006 150  JJ      little                   N5-[i12.3.2 N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000006 160  NN1     bit                      N5-[i12.3.3 N5- N5.1- O2 Y2 
+0000006 170  IO      of                       Z5 
+0000006 180  AT      the                      Z5 
+0000006 190  JJ      underlying               A10- 
+0000006 200  NN1     bedrock                  W3 S6+ 
+0000006 201  (       (                        
+0000006 210  AT      the                      Z5 
+0000006 220  NP1     Mars                     Z3c Z1/W1 S9/T1.1.1@ 
+0000006 230  NN2     folks                    S2mf S4mf 
+0000006 240  II      at                       Z5 
+0000006 250  NP1     JPL                      Z99 
+0000006 260  VVG     keeping                  A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000006 270  AT      the                      Z5 
+0000006 280  NN1     tradition                S1.1.1 T1.1.1 A6.2+ 
+0000006 290  IO      of                       Z5 
+0000006 300  VVG     naming                   Q2.2 
+0000006 310  NN2     formations               A2.1+ O4.4 S5+c 
+0000006 320  PPHS2   they                     Z8mfn 
+0000006 330  VV0     find                     A10+ X2.1 X6+ 
+0000006 340  VBR     are                      Z5 A3+ 
+0000006 350  VVG     calling                  Q2.2 S1.1.1 Q1.3 S9% 
+0000006 360  PPH1    it                       Z8 
+0000006 370  NP1     Baltra                   Z99 
+0000006 371  )       )                        
+0000006 380  VBZ     is                       Z5 A3+ 
+0000006 390  VVG     showing                  A11.2+[i13.2.1 A10+ S1.1.1 
+0000006 400  RP@     through                  A11.2+[i13.2.2 M6 
+0000006 401  ,       ,                        
+0000006 410  VVG     indicating               A10+ M6 Q1.1/M3 
+0000006 420  NN1     wind                     W4 B1 
+0000006 430  NN1     erosion                  A1.1.2 W3 
+0000006 431  ,       ,                        
+0000006 440  JJ      typical                  A4.2+ A6.2+ 
+0000006 450  IO      of                       Z5 
+0000006 460  RR21    just                     A13.4[i14.2.1 A14 T3--- T1.3- N3.3--- 
+0000006 470  RR22    about                    A13.4[i14.2.2 
+0000006 480  RL      anywhere                 M6 
+0000006 490  II      on                       Z5 
+0000006 500  NP1     Mars                     Z3c Z1/W1 S9/T1.1.1@ 
+0000006 501  .       .                        
+0000006 502  -----   -----                    
+0000006 510  CCB     But                      Z5 
+0000006 520  PPIS1   I                        Z8mf 
+0000006 530  VVD     noticed                  X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1 
+0000006 540  CST     that                     Z5 Z8 
+0000006 550  AT      the                      Z5 
+0000006 560  NN2     pebbles                  O2 
+0000006 570  VV0     look                     A8 X3.4 X2.4 X7+ Z4 
+0000006 580  RR      almost                   A13.4 
+0000006 590  VVN     sorted                   A4.1 A1.1.1 Y2 
+0000006 600  II      in                       Z5 
+0000006 610  NN1     size                     N3.2 N5 N3.1 O4.1 
+0000006 611  ,       ,                        
+0000006 620  DDQ     which                    Z8 Z5 
+0000006 630  VBZ     is                       A3+ Z5 
+0000006 640  DDQ     what                     Z8 Z5 
+0000006 650  PPY     you                      Z8mf 
+0000006 660  VV0     expect                   X2.6+ B1 
+0000006 670  RRQ     when                     Z5 
+0000006 680  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000006 690  VVZ     flows                    M4 M1 
+0000006 700  RP      over                     T2- M6 
+0000006 710  JJ      loose                    A1.7- N3.2+ A4.2- G2.2-@ B2-@ 
+0000006 720  NN2     pebbles                  O2 
+0000006 721  .       .                        
+0000007 001  -----   -----                    
+0000008 010  CCB     But                      Z5 
+0000008 020  RT      then                     N4 Z5 T1.2 
+0000008 030  AT      the                      Z5 
+0000008 040  MD      next                     N4 
+0000008 050  NN1     frame                    O2 G2.1/A5.2- K5.1@ 
+0000008 051  ,       ,                        
+0000008 060  VVN     taken                    X2.1/A14[i15.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000008 070  RR      just                     X2.1/A14[i15.2.2 A14 T3--- T1.3- N3.3--- 
+0000008 080  AT1     a                        Z5 
+0000008 090  DA2     few                      N5- 
+0000008 100  NN2     meters                   N3.1/O2 
+0000008 110  ND1     east                     M6 
+0000008 120  IO      of                       Z5 
+0000008 130  AT      the                      Z5 
+0000008 140  MD      first                    N4 
+0000008 141  ,       ,                        
+0000008 150  RR      really                   A13.3 A5.2+ 
+0000008 160  VVD     caught                   A11.2+[i16.3.1 A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3 
+0000008 170  APPGE   my                       A11.2+[i16.3.2 Z8 
+0000008 180  NN1     eye                      A11.2+[i16.3.3 B1 X3.4 
+0000008 181  !       !                        
+0000009 001  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  JJ      assorted                 A6.3+ 
+0000010 030  NN2     rocks                    O2 O1.1 K2 F1 
+0000010 040  VBR     are                      A3+ Z5 
+0000010 050  DB      all                      N5.1+ 
+0000010 060  JJ      jagged                   O4.4 
+0000010 061  ,       ,                        
+0000010 070  VVG     indicating               A10+ M6 Q1.1/M3 
+0000010 080  NN1     theyre                   Z99 
+0000010 090  XX      not                      Z6 
+0000010 100  RG      as                       A13 
+0000010 110  JJ      old                      T3+ Z4 
+0000010 120  CSA     as                       Z5 
+0000010 130  AT      the                      Z5 
+0000010 140  NN2     pebbles                  O2 
+0000010 141  .       .                        
+0000010 142  -----   -----                    
+0000010 150  CC      And                      Z5 
+0000010 160  PPHS2   they                     Z8mfn 
+0000010 170  VH0     have                     A9+ Z5 A2.2 S4 
+0000010 180  AT1     an                       Z5 
+0000010 190  JJ      odd                      A6.2- N6- A13.4 
+0000010 200  NN1     structure                O4.1 H1 S7.1 O2 A4.1 X4.2 B1 
+0000010 201  ,       ,                        
+0000010 210  DDQ     which                    Z8 Z5 
+0000010 220  RR      immediately              N3.8+ T1.1.2/A11.1+ N4 
+0000010 230  VVD     struck                   I3.1 E3- A1.1.1 A11.2+ A8 E2+ X3.2 A9+ 
+0000010 240  PPIO1   me                       Z8mf 
+0000010 250  CSA     as                       Z5 
+0000010 260  VVG     looking                  A6.1+[i17.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000010 270  II      like                     A6.1+[i17.2.2 Z5 
+0000010 280  NN2     regmaglypts              Z99 
+0000010 281  ,       ,                        
+0000010 290  AT      the                      Z5 
+0000010 300  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000010 310  NN2     thumbprints              Z99 
+0000010 320  CC      or                       Z5 
+0000010 330  NN1     scoop                    O2 N5 Q4.2 
+0000010 340  VVZ@    marks                    O4.2- Q1.2 A5/P1 N3.1 Q1.1 
+0000010 350  PPY     you                      Z4[i18.2.1 Z8mf 
+0000010 360  VV0     see                      Z4[i18.2.2 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000010 370  RP@     in                       M6 
+0000010 380  PN      lots                     N5+ 
+0000010 390  IO      of                       Z5 
+0000010 400  NN2     meteorites               Z99 
+0000010 401  .       .                        
+0000010 402  -----   -----                    
+0000010 410  RT      Then                     N4 Z5 T1.2 
+0000010 420  PPIS1   I                        Z8mf 
+0000010 430  VVD     saw                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000010 440  AT      the                      Z5 
+0000010 450  MD      next                     N4 
+0000010 460  NN1     picture                  C1 Q4.3 X4.1 
+0000010 461  ,       ,                        
+0000010 470  CC      and                      Z5 
+0000010 480  VV0     bang                     A1.1.1 X3.2 S3.2/B1 
+0000010 481  !       !                        
+0000011 001  -----   -----                    
+0000012 010  NN1     Meteorite                Z99 
+0000012 020  II      on                       Z5 
+0000012 030  NP1     Mars                     Z3c Z1/W1 S9/T1.1.1@ 
+0000012 040  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000012 050  II      by                       Z5 
+0000012 060  NN1     Spirit                   S9 O1.2 F2 X5.2+ E4.1+ S6+ E1 X7+ 
+0000012 070  II      in                       Z5 
+0000012 080  MC      2006                     N1 T1.2 T3 T1.3 N3.2 
+0000014 010  JJ      AWESOME                  O4.2+ E5- 
+0000014 011  !       !                        
+0000014 012  -----   -----                    
+0000014 020  PPH1    It                       Z8 
+0000014 030  VVZ     looks                    A6.1+[i19.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000014 040  II      like                     A6.1+[i19.2.2 Z5 
+0000014 050  AT1     a                        Z5 
+0000014 060  NN1     meteorite                Z99 
+0000014 070  CC      and                      Z5 
+0000014 080  NN2     theres                   Z5 M6 T1.2 
+0000014 090  NN1     precedent                A3+ 
+0000014 091  .       .                        
+0000014 092  -----   -----                    
+0000014 100  MC      Two                      T1.1.1[i20.3.1 N1 T3 T1.2 
+0000014 110  NNT2    years                    T1.1.1[i20.3.2 T1.3 T1.1.1[i21.2.1 
+0000014 120  RA      ago                      T1.1.1[i20.3.3 T1.1.1 T1.1.1[i21.2.2 
+0000014 121  ,       ,                        
+0000014 130  NN1     Spirit                   S9 O1.2 F2 X5.2+ E4.1+ S6+ E1 X7+ 
+0000014 140  VVD     found                    A10+ X2.1 X6+ 
+0000014 150  NN2     whats                    Z8 Z5 
+0000014 160  VVD     thought                  X2.1 
+0000014 170  TO      to                       Z5 
+0000014 180  VBI     be                       A3+ Z5 
+0000014 190  AT1     a                        Z5 
+0000014 200  NN1     meteorite                Z99 
+0000014 210  II      on                       Z5 
+0000014 220  AT      the                      Z5 
+0000014 230  NN1     surface                  M6 O2 A10+ 
+0000014 240  IO      of                       Z5 
+0000014 250  NP1     Mars                     Z3c Z1/W1 S9/T1.1.1@ 
+0000014 251  (       (                        
+0000014 260  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000014 270  AT      the                      Z5 
+0000014 280  NN1     image                    O4.1 A8 X2.1 C1 
+0000014 290  II      on                       Z5 
+0000014 300  AT      the                      Z5 
+0000014 310  NN1     right                    S7.4+ G2.2+ M6 G1.2 
+0000014 311  )       )                        
+0000014 312  .       .                        
+0000014 313  -----   -----                    
+0000014 320  DD1     This                     M6 Z5 Z8 
+0000014 330  JJR     newer                    T3-- 
+0000014 340  NN1     image                    O4.1 A8 X2.1 C1 
+0000014 350  VBZ     is                       A3+ Z5 
+0000014 360  JJR     higher                   N3.7++ N5++ A11.1++ S7.1++ A5.1++ T3-- X3.2 G2.2++ E4.1++ I1.3++ O4.2-- O4.6++ S9 
+0000014 370  NN1     resolution               X6+ X9.2+ 
+0000014 371  ,       ,                        
+0000014 380  RR      presumably               X2.1 
+0000014 390  CS      because                  Z5/A2.2 
+0000014 400  AT      the                      Z5 
+0000014 410  NN1     meteorite                Z99 
+0000014 420  VBZ     is                       A3+ Z5 
+0000014 430  JJR     closer                   N3.3-- A4.2++ S5++ S1.1.3++ A6.1++ E2++ W4 
+0000014 440  II      to                       Z5 
+0000014 450  AT      the                      Z5 
+0000014 460  NN1     camera                   C1 Q4.3 
+0000014 470  CSN     than                     Z5 
+0000014 480  AT      the                      Z5 
+0000014 490  MD      first                    N4 
+0000014 500  PN1     one                      Z8 
+0000014 510  VBDZ    was                      A3+ Z5 
+0000014 511  ,       ,                        
+0000014 520  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000014 530  AT1     a                        Z5 
+0000014 540  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000014 550  NN1     distance                 N3.3+ S1.2.1- 
+0000014 560  II      from                     Z5 
+0000014 570  NP1     Baltra                   Z99 
+0000014 571  .       .                        
+0000014 572  -----   -----                    
+0000014 580  VV0     Note                     Q2.1 Q1.2 
+0000014 590  AT      the                      Z5 
+0000014 600  JJ      similar                  A6.1+ 
+0000014 610  NN2     structures               O4.1 H1 S7.1 O2 A4.1 X4.2 B1 
+0000014 611  ,       ,                        
+0000014 620  IW      with                     Z5 
+0000014 630  DD      some                     N5 Z5 
+0000014 640  NN1@    scooping                 Z99 
+0000014 641  ,       ,                        
+0000014 650  DD      some                     N5 Z5 
+0000014 660  JJ      obvious                  A11.2+ 
+0000014 670  JJ      erosion-carved           Z99 
+0000014 680  NN2     pocks                    Z99 
+0000014 681  ,       ,                        
+0000014 690  CC      and                      Z5 
+0000014 700  RR      even                     A13.1 
+0000014 710  AT      the                      Z5 
+0000014 720  NN1     color                    O4.3 
+0000014 721  .       .                        
+0000014 722  -----   -----                    
+0000014 730  DD1     This                     M6 Z5 Z8 
+0000014 740  NNT1    second                   T1.3 T1.2 
+0000014 750  NN1     meteorite                Z99 
+0000014 760  DDQ     which                    Z8 Z5 
+0000014 770  VBZ     is                       A3+ Z5 
+0000014 780  RG      about                    A13.4 
+0000014 790  MC      30                       N1 T1.2 T3 T1.3 N3.2 
+0000014 800  NN2     centimeters              N3.7 
+0000014 810  RL@     across                   M6 
+0000014 820  VBZ     is                       A3+ Z5 
+0000014 830  AT1     a                        Z5 
+0000014 840  RR      slightly                 A13.6 
+0000014 850  JJ      different                A6.1- 
+0000014 860  NN1     color                    O4.3 
+0000014 861  ,       ,                        
+0000014 870  DDQ     which                    Z8 Z5 
+0000014 880  VM      may                      A7+ 
+0000014 890  VBI     be                       A3+ Z5 
+0000014 900  II21    due                      A2.2[i22.2.1 
+0000014 910  II22    to                       A2.2[i22.2.2 Z5 
+0000014 920  JJ      different                A6.1- 
+0000014 930  NN1     color                    O4.3 
+0000014 940  VVG     balancing                O4.1/B1 A6.1+ A11.1 I1.1 
+0000014 941  ,       ,                        
+0000014 950  CC      or                       Z5 
+0000014 960  PPH1    it                       Z8 
+0000014 970  VM      could                    A7+ 
+0000014 980  VBI     be                       A3+ Z5 
+0000014 990  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
+0000014 000  CC      and                      Z5 
+0000014 010  II      from                     Z5 
+0000014 020  AT      the                      Z5 
+0000014 030  RR      slightly                 A13.6 
+0000014 040  JJ      different                A6.1- 
+0000014 050  NN1     color                    O4.3 
+0000014 060  IO      of                       Z5 
+0000014 070  AT      the                      Z5 
+0000014 080  NN1     sand                     O1.1 W3 
+0000014 090  VVN     embedded                 A1.8+ 
+0000014 100  II      into                     Z5 
+0000014 110  AT      the                      Z5 
+0000014 120  NN1     rock                     O2 O1.1 K2 F1 
+0000014 130  II      from                     Z5 
+0000014 140  AT      the                      Z5 
+0000014 150  JJ      pervasive                N5.1+ A6.2+ 
+0000014 160  NN2     winds                    W4 B1 
+0000014 161  .       .                        
+0000015 001  -----   -----                    
+0000016 010  CCB     But                      Z5 
+0000016 020  NN2     theres                   Z5 M6 T1.2 
+0000016 030  RR      still                    T2++ Z4 E3+ 
+0000016 040  RRR     more                     A13.3 N6++ 
+0000016 041  !       !                        
+0000016 042  -----   -----                    
+0000016 050  AT      The                      Z5 
+0000016 060  NN1     ground                   M6 W3 M7 O3 X2.1 
+0000016 070  NN1     crew                     M4/S5+c M5/S5+c K4/S5+c Q4.3/S5+c 
+0000016 080  II      at                       Z5 
+0000016 090  NP1     JPL                      Z99 
+0000016 100  VVD     commanded                S7.1+ X9.1+ 
+0000016 110  NN1     Spirit                   S9 O1.2 F2 X5.2+ E4.1+ S6+ E1 X7+ 
+0000016 120  TO      to                       Z5 
+0000016 130  VVI     rotate                   M2 A6.3+ 
+0000016 140  AT      the                      Z5 
+0000016 150  NN1     camera                   C1 Q4.3 
+0000016 160  II      to                       Z5 
+0000016 170  AT      the                      Z5 
+0000016 180  ND1     east                     M6 
+0000016 190  RR21    a                        A13.6[i23.2.1 A13.7[i23.2.1 
+0000016 200  RR22    bit                      A13.6[i23.2.2 A13.7[i23.2.2 
+0000016 201  ,       ,                        
+0000016 210  CC      and                      Z5 
+0000016 220  II      in                       Z5 
+0000016 230  DD1     this                     M6 Z5 Z8 
+0000016 240  NN1     image                    O4.1 A8 X2.1 C1 
+0000016 250  PPY     you                      Z8mf 
+0000016 260  VM      can                      A7+ 
+0000016 270  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000016 280  AT      the                      Z5 
+0000016 290  NN1     edge                     O2 M7 T1.2 S7.1+@ 
+0000016 300  IO      of                       Z5 
+0000016 310  AT      the                      Z5 
+0000016 320  NN1     pebble                   O2 
+0000016 330  NN1     field                    F4 W3 M7 K5.1/M7 G3@ A4.1 
+0000016 331  .       .                        
+0000017 001  -----   -----                    
+0000018 010  PPH1    It                       Z8 
+0000018 020  VVZ     looks                    A6.1+[i24.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000018 030  II      like                     A6.1+[i24.2.2 Z5 
+0000018 040  AT      the                      Z5 
+0000018 050  NN2     pebbles                  O2 
+0000018 060  VV0     end                      T2- 
+0000018 070  CC      and                      Z5 
+0000018 080  RT      then                     N4 Z5 T1.2 
+0000018 090  NN2     theres                   Z5 M6 T1.2 
+0000018 100  DD      some                     N5 Z5 
+0000018 110  NN1     sort                     A4.1 S1.2 Y2 
+0000018 120  IO      of                       Z5 
+0000018 130  NN1     lava                     W3 
+0000018 140  NN1     flow                     M4 M1 N5 
+0000018 141  ;       ;                        
+0000018 150  VV0     Im                       Z99 
+0000018 160  VVG     guessing                 X2.1/A7- 
+0000018 170  CS      if                       Z7 
+0000018 180  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000018 190  VVD     flowed                   M4 M1 
+0000018 200  RL      here                     M6 T1.1.2 T1.2 
+0000018 210  AT1     a                        Z5 
+0000018 220  DA2     few                      N5- 
+0000018 230  NNO     million                  N1 I1 
+0000018 240  NNT2    years                    T1.1.1[i25.2.1 T1.3 
+0000018 250  RA      ago                      T1.1.1[i25.2.2 T1.1.1 
+0000018 251  ,       ,                        
+0000018 260  AT      the                      Z5 
+0000018 270  JJ@     raised                   O4.4 N5++ 
+0000018 280  NN1     lava                     W3 
+0000018 290  NN1     bed                      H5 H3/L3 
+0000018 300  RL      there                    M6 T1.2 
+0000018 310  VVD     formed                   T2+ A2.1+ A1.8+ A3+ A1.1.1 
+0000018 320  AT1     a                        Z5 
+0000018 330  JJ      natural                  A6.2+ A9+ A5.4+ W3 W5 B1 K2 
+0000018 331  (       (                        
+0000018 340  NN1     duh                      Z99 
+0000018 341  )       )                        
+0000018 350  NN1     bank                     I1/H1 I1.1/I2.1c W3/M4 A9+/H1 O2 M6 
+0000018 360  IF      for                      Z5 
+0000018 370  PPH1    it                       Z8 
+0000018 371  (       (                        
+0000018 380  NP1     JPL                      Z99 
+0000018 390  VVD     named                    Q2.2 
+0000018 400  PPH1    it                       Z8 
+0000018 410  NP1     Floreana                 Z99 
+0000018 411  )       )                        
+0000018 412  ,       ,                        
+0000018 420  RR      so                       Z5 A13.3 
+0000018 430  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000018 440  RRQ     why                      A2.2 
+0000018 450  EX      there                    Z5 
+0000018 460  VBR     are                      A3+ Z5 
+0000018 470  AT      no                       Z6 
+0000018 480  DAR     more                     N5++ 
+0000018 490  NN2     pebbles                  O2 
+0000018 491  .       .                        
+0000018 492  -----   -----                    
+0000018 500  AT      The                      Z5 
+0000018 510  JJ      grayish                  Z99 
+0000018 520  JJ      spiky                    O4.1 O4.4 
+0000018 530  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000018 540  VM      may                      A7+ 
+0000018 550  VBI     be                       A3+ Z5 
+0000018 560  NN2     minerals                 O1 
+0000018 570  CC      or                       Z5 
+0000018 580  NN2     crystals                 O1.1 O2 
+0000018 590  IO      of                       Z5 
+0000018 600  DD      some                     N5 Z5 
+0000018 610  NN1     kind                     A4.1 
+0000018 611  ;       ;                        
+0000018 620  PPIS1   I                        Z8mf 
+0000018 630  VV0     havent                   Z99 
+0000018 640  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000018 650  PN1     anything                 Z8 
+0000018 660  II      like                     Z5 
+0000018 670  PPHO2   them                     Z8mfn 
+0000018 680  II      in                       Z5 
+0000018 690  JJ      previous                 N4 
+0000018 700  NN1     rover                    Z3/C1[i26.2.1 Z3/Q4.3[i26.2.1 Z3c 
+0000018 710  NN2     pictures                 Z3/C1[i26.2.2 Z3/Q4.3[i26.2.2 C1 Q4.3 X4.1 
+0000018 711  ,       ,                        
+0000018 720  CCB     but                      Z5 
+0000018 730  AT      the                      Z5 
+0000018 740  NN1     resolution               X6+ X9.2+ 
+0000018 750  VBZ     is                       A3+ Z5 
+0000018 760  NN1     bit                      N5- N5.1- O2 Y2 
+0000018 770  RG      too                      N5.2+ A13.3 
+0000018 780  JJ      low                      N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1- 
+0000018 790  TO      to                       Z5 
+0000018 800  VVI     tell                     Q2.2 Q2.1 X3 A10+ 
+0000018 810  DDQ     what                     Z8 Z5 
+0000018 820  PPHS2   they                     Z8mfn 
+0000018 830  VBR     are                      A3+ Z5 
+0000018 831  .       .                        
+0000019 001  -----   -----                    
+0000020 010  RR      So                       Z5 A13.3 
+0000020 020  RT      then                     N4 Z5 T1.2 
+0000020 030  AT      the                      Z5 
+0000020 040  NN1     camera                   C1 Q4.3 
+0000020 050  VVD     panned                   Q4.3/M1 Q2.2 
+0000020 060  RP      up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
+0000020 070  TO      to                       Z5 
+0000020 080  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000020 090  DAR     more                     N5++ 
+0000020 100  NN1     context                  O4.1/A3+ A2.2 Q3 
+0000020 110  IF      for                      Z5 
+0000020 120  AT      the                      Z5 
+0000020 130  JJ      previous                 N4 
+0000020 140  NN2     shots                    G3 G3/S2mf K5.1 Y1 C1 Q4.3 X8+ B3@ F2@ 
+0000020 141  ,       ,                        
+0000020 150  CC      and                      Z5 
+0000020 160  DD1     this                     Z8 M6 Z5 
+0000020 170  PN1     one                      Z8 
+0000020 180  VVZ     seems                    A8 
+0000020 190  TO      to                       Z5 
+0000020 200  VVI     confirm                  A7+ Q2.2 S9@ 
+0000020 210  AT      the                      Z5 
+0000020 220  NN1     idea                     X4.1 X7+ 
+0000020 230  CST     that                     Z8 Z5 
+0000020 240  VBDR    were                     Z5 A3+ 
+0000020 250  VVG     seeing                   X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000020 260  DD      some                     N5 Z5 
+0000020 270  NN1     sort                     A4.1 S1.2 Y2 
+0000020 280  IO      of                       Z5 
+0000020 290  NN1     lava                     W3 
+0000020 291  :       :                        
+0000022 010  II      To                       Z5 
+0000022 020  AT      the                      Z5 
+0000022 030  NN1     right                    S7.4+ G2.2+ M6 G1.2 
+0000022 040  EX      there                    Z5 
+0000022 050  VBZ     is                       A3+ Z5 
+0000022 060  DDQ     what                     Z8 Z5 
+0000022 070  VVZ     looks                    A6.1+[i27.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000022 080  II      like                     A6.1+[i27.2.2 Z5 
+0000022 090  AT1     a                        Z5 
+0000022 100  NN1     spatter                  Z99 
+0000022 110  NN1     cone                     O4.4 O2 M3 L3 F1 
+0000022 111  (       (                        
+0000022 120  VVD     named                    Q2.2 
+0000022 130  NP1     Rbida                    Z99 
+0000022 131  )       )                        
+0000022 132  ,       ,                        
+0000022 140  AT1     a                        Z5 
+0000022 150  JJ      volcanic                 W3 
+0000022 160  NN1     structure                O4.1 H1 S7.1 O2 A4.1 X4.2 B1 
+0000022 170  VVN     formed                   T2+ A2.1+ A1.8+ A3+ A1.1.1 
+0000022 180  CS      when                     Z5 
+0000022 190  NN1     lava                     W3 
+0000022 200  VVZ     spurts                   N5 N3.8+ 
+0000022 210  II21    out                      Z5[i28.2.1 Z5 Z5[i29.2.1 A9-[i29.2.1 
+0000022 220  II22    of                       Z5[i28.2.2 Z5[i29.2.2 A9-[i29.2.2 
+0000022 230  NN1     vent                     O2 
+0000022 240  II      in                       Z5 
+0000022 250  AT      the                      Z5 
+0000022 260  NN1     ground                   M6 W3 M7 O3 X2.1 
+0000022 270  CC      and                      Z5 
+0000022 271  ,       ,                        
+0000022 280  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000022 281  ,       ,                        
+0000022 290  NN2     spatters                 Z99 
+0000022 300  RP      around                   M6 
+0000022 301  .       .                        
+0000022 302  -----   -----                    
+0000022 310  AT      The                      Z5 
+0000022 320  NN1     rock                     O2 O1.1 K2 F1 
+0000022 330  VBZ     is                       A3+ Z5 
+0000022 340  JJ      rough                    X3.3 O4.5 B2 E3- S1.2.4- O4.2- A4.2- A12- W4 
+0000022 341  ,       ,                        
+0000022 350  CC      and                      Z5 
+0000022 360  VVZ     flattens                 O4.4 S1.2.3-% 
+0000022 370  RP      out                      M6 
+0000022 380  II      around                   Z5 
+0000022 390  AT      the                      Z5 
+0000022 400  NN1     cone                     O4.4 O2 M3 L3 F1 
+0000022 401  .       .                        
+0000022 402  -----   -----                    
+0000022 410  RR      Clearly                  A7+ A11.2+ A12+ 
+0000022 420  DD1     this                     Z8 M6 Z5 
+0000022 430  VBZ     is                       A3+ Z5 
+0000022 440  RRQ     why                      A2.2 
+0000022 450  AT      the                      Z5 
+0000022 460  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000022 470  NN1     flow                     M4 M1 N5 
+0000022 480  VVD     stopped                  T2- S8- M8 H4 A1.1.1@ 
+0000022 490  RL      there                    M6 T1.2 
+0000022 491  .       .                        
+0000023 001  -----   -----                    
+0000024 010  RGR     More                     A13.3 
+0000024 020  JJ      clear                    A7+ A10+ O4.3 O4.1 N5.1+ W4 
+0000024 030  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000024 040  IO      of                       Z5 
+0000024 050  JJ      past                     T1.1.1 
+0000024 060  NN2     eruptions                W3 T2+ E3- B1 B2 
+0000024 070  VM      can                      A7+ 
+0000024 080  VBI     be                       Z5 A3+ 
+0000024 090  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000024 100  II      in                       Z5 
+0000024 110  DD1     this                     M6 Z5 Z8 
+0000024 120  MD      next                     N4 
+0000024 130  NN1     image                    O4.1 A8 X2.1 C1 
+0000024 131  ,       ,                        
+0000024 140  VVD     located                  M6 A10+ 
+0000024 150  RR      almost                   A13.4 
+0000024 160  MC      180                      O4.6+[i30.2.1 M6[i30.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000024 170  NN2     degrees                  O4.6+[i30.2.2 M6[i30.2.2 A13.1 N3.1 N3.2 N5 P1 
+0000024 180  RP      around                   M6 
+0000024 190  II      from                     Z5 
+0000024 200  AT      the                      Z5 
+0000024 210  MD      first                    N4 
+0000024 220  NN      series                   N4c Q4.3c 
+0000024 221  :       :                        
+0000026 010  AT      The                      Z5 
+0000026 020  NN1     layering                 A1.1.1 O2 
+0000026 030  IO      of                       Z5 
+0000026 040  AT      the                      Z5 
+0000026 050  NN1     rock                     O2 O1.1 K2 F1 
+0000026 060  VM      may                      A7+ 
+0000026 070  VBI     be                       A3+ Z5 
+0000026 080  II21    due                      A2.2[i31.2.1 
+0000026 090  II22    to                       A2.2[i31.2.2 Z5 
+0000026 100  JJ      periodic                 N6 
+0000026 110  NN2     eruptions                W3 T2+ E3- B1 B2 
+0000026 120  II      from                     Z5 
+0000026 130  AT      the                      Z5 
+0000026 140  JJ      nearby                   N3.3- 
+0000026 150  NN1     vent                     O2 
+0000026 151  ,       ,                        
+0000026 160  CS      though                   Z5 
+0000026 170  PPHS2   they                     Z8mfn 
+0000026 180  RR      almost                   A13.4 
+0000026 190  VV0     look                     A6.1+[i32.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000026 200  II      like                     A6.1+[i32.2.2 Z5 
+0000026 210  JJ@     uplifted                 E4.1+ M6 
+0000026 220  JJ      sedimentary              Z99 
+0000026 230  NN2     layers                   O2 A4.1 
+0000026 231  (       (                        
+0000026 240  VVN     nicknamed                Q2.2 
+0000026 250  NP1     Isabela                  Z99 
+0000026 251  )       )                        
+0000026 252  ;       ;                        
+0000026 260  CS      if                       Z7 
+0000026 270  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000026 280  RR      once                     N6- T1.1.1 
+0000026 290  VVN     flowed                   M4 M1 
+0000026 300  RL      here                     M6 T1.1.2 T1.2 
+0000026 310  AT1     a                        Z5 T1.1.1[i33.3.1 
+0000026 320  JJ      long                     T1.1.1[i35.3.1 N3.7+ T1.3+ N3.3+ N3.2+ T1.3+[i34.2.1 
+0000026 330  NNT1    time                     T1.1.1[i35.3.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ T1.1.1[i33.3.2 T1.3+[i34.2.2 
+0000026 340  RA      ago                      T1.1.1[i35.3.3 T1.1.1 T1.1.1[i33.3.3 
+0000026 341  ,       ,                        
+0000026 350  PPH1    it                       Z8 
+0000026 360  VM      may                      A7+ 
+0000026 370  VHI     have                     Z5 A9+ A2.2 S4 
+0000026 380  VVN     deposited                M2 I1.1 
+0000026 390  NN1     material                 O1 B5 O2 X2.2 S1.2 
+0000026 400  II      into                     Z5 
+0000026 410  DD2     those                    Z5 Z8 
+0000026 420  NN2     layers                   O2 A4.1 
+0000026 421  ,       ,                        
+0000026 430  CC      and                      Z5 
+0000026 440  RT      then                     N4 Z5 T1.2 
+0000026 450  CS      when                     Z5 
+0000026 460  AT      the                      Z5 
+0000026 470  NN1     vent                     O2 
+0000026 480  VVD     formed                   T2+ A2.1+ A1.8+ A3+ A1.1.1 
+0000026 490  PPH1    it                       Z8 
+0000026 500  VVD     pushed                   N5+/A2.2[i36.2.1 M2[i36.2.1 M2 M1 S7.1+ X8+ I2.2 F3 I3.1- 
+0000026 510  RP      up                       N5+/A2.2[i36.2.2 M2[i36.2.2 
+0000026 520  II      from                     Z5 
+0000026 530  RL      below                    M6 
+0000026 531  ,       ,                        
+0000026 540  VVG     causing                  A2.2 
+0000026 550  AT      the                      Z5 
+0000026 560  NN1     tilt                     M1 
+0000026 561  .       .                        
+0000026 562  -----   -----                    
+0000026 570  PPIS1   I                        Z4[i37.2.1 Z8mf 
+0000026 580  VV0     see                      Z4[i37.2.2 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000026 590  CST     that                     Z5 Z8 
+0000026 600  DA      same                     A6.1+++ 
+0000026 610  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
+0000026 620  AT1     every                    N6+[i38.2.1 N5.1+ 
+0000026 630  NNT1    day                      N6+[i38.2.2 T1.3 
+0000026 640  RRQ     when                     Z5 
+0000026 650  PPIS1   I                        Z8mf 
+0000026 660  VV0     look                     X3.4[i39.2.1 X2.4[i39.2.1 X2.1[i39.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000026 670  II      at                       X3.4[i39.2.2 X2.4[i39.2.2 X2.1[i39.2.2 Z5 
+0000026 680  AT      the                      Z5 
+0000026 690  NN2     foothills                W3 
+0000026 700  IO      of                       Z5 
+0000026 710  AT      the                      Z5 
+0000026 720  NP1     Rocky                    W3/L3 O4.1 A12- E1- B2- 
+0000026 730  NNL2    Mountains                W3 
+0000026 740  II      in                       Z5 
+0000026 750  NP1     Boulder                  W3 
+0000026 751  !       !                        
+0000027 001  -----   -----                    
+0000028 010  JJ      Funny                    E4.1+ A6.2- A12- B2- 
+0000028 011  ,       ,                        
+0000028 020  PPY     you                      Z8mf 
+0000028 030  VV0     wouldnt                  Z99 
+0000028 040  VV0     expect                   X2.6+ B1 
+0000028 050  TO      to                       Z5 
+0000028 060  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000028 070  AT1     a                        Z5 
+0000028 080  NN1     landscape                W3 C1 M6 
+0000028 090  II      on                       Z5 
+0000028 100  NP1     Mars                     Z3c Z1/W1 S9/T1.1.1@ 
+0000028 110  CST     that                     Z8 Z5 
+0000028 120  VM      would                    A7+ 
+0000028 130  RR      literally                A13.2 Q3 
+0000028 140  VVI     remind                   X4.1 
+0000028 150  PPY     you                      Z8mf 
+0000028 160  IO      of                       Z5 
+0000028 170  NN1     home                     H4/H1c M6 
+0000028 171  .       .                        
+0000028 172  -----   -----                    
+0000028 180  CCB     But                      Z5 
+0000028 190  JJ      physical                 B1 A1.6 E3- Y1 
+0000028 200  NN2     processes                A1.1.1 X4.2 
+0000028 210  VBR     are                      A3+ Z5 
+0000028 220  AT      the                      Z5 
+0000028 230  DA      same                     A6.1+++ 
+0000028 240  RL      everywhere               M6/N5.1+ 
+0000028 241  ,       ,                        
+0000028 250  CS@     so                       Z5 
+0000028 260  PPY     you                      Z8mf 
+0000028 270  VM      might                    A7+ 
+0000028 280  VVI     expect                   X2.6+ B1 
+0000028 290  TO      to                       Z5 
+0000028 300  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000028 310  DD      some                     N5 Z5 
+0000028 320  NN2     similarities             A6.1+ 
+0000028 321  .       .                        
+0000029 001  -----   -----                    
+0000030 010  II      In                       A5.2+[i40.2.1 Z5 
+0000030 020  NN1     fact                     A5.2+[i40.2.2 A5.2+ X2.2 
+0000030 021  ,       ,                        
+0000030 030  CS      when                     Z5 
+0000030 040  AT      the                      Z5 
+0000030 050  NN1     ground                   M6 W3 M7 O3 X2.1 
+0000030 060  NN1     crew                     M4/S5+c M5/S5+c K4/S5+c Q4.3/S5+c 
+0000030 070  VVD     commanded                S7.1+ X9.1+ 
+0000030 080  NN1     Spirit                   S9 O1.2 F2 X5.2+ E4.1+ S6+ E1 X7+ 
+0000030 090  TO      to                       Z5 
+0000030 100  VVI     pan                      Q4.3/M1 Q2.2 
+0000030 110  RR21    a                        A13.6[i41.2.1 A13.7[i41.2.1 
+0000030 120  RR22    bit                      A13.6[i41.2.2 A13.7[i41.2.2 
+0000030 130  RRR     more                     A13.3 N6++ 
+0000030 140  CC      and                      Z5 
+0000030 150  VV0     zoom                     M1/N3.8+ A2.1/N5+ N3.3+ 
+0000030 160  RP      out                      M6 
+0000030 161  (       (                        
+0000030 170  RT      again                    N6+ Z4 
+0000030 171  ,       ,                        
+0000030 180  IF      for                      Z5 
+0000030 190  NN1     context                  O4.1/A3+ A2.2 Q3 
+0000030 191  )       )                        
+0000030 192  ,       ,                        
+0000030 200  PPH1    it                       Z8 
+0000030 210  VVD     saw                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000030 220  AT1     an                       Z5 
+0000030 230  JJ      incredible               A6.2- A5.1+ A5.2- 
+0000030 240  NN1     view                     X4.1 X3.4 A4.1 X7+ 
+0000030 250  CST     that                     Z8 Z5 
+0000030 260  RR      really                   A13.3 A5.2+ 
+0000030 270  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000030 280  VVI     look                     A6.1+[i42.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000030 290  II      like                     A6.1+[i42.2.2 Z5 
+0000030 300  NN1     Earth                    W3 W1 O1.1 O3 N5++ 
+0000030 301  !       !                        
+0000031 001  -----   -----                    
+0000032 010  PPY     You                      Z8mf 
+0000032 020  VM      can                      A7+ 
+0000032 030  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000032 040  AT      the                      Z5 
+0000032 050  NN1     lava                     W3 
+0000032 060  II      to                       Z5 
+0000032 070  AT      the                      Z5 
+0000032 080  JJ      left                     M6 G1.2 N5.2+ 
+0000032 090  CC      and                      Z5 
+0000032 100  AT      the                      Z5 
+0000032 110  NP1     Isabela                  Z99 
+0000032 120  NN2     layers                   O2 A4.1 
+0000032 130  II      in                       Z5 
+0000032 140  AT      the                      Z5 
+0000032 150  NN1     center                   M6 H1c M7c G1.2c K5.1mfn 
+0000032 151  ,       ,                        
+0000032 160  CCB     but                      Z5 
+0000032 170  AT      the                      Z5 
+0000032 180  NN2     formations               A2.1+ O4.4 S5+c 
+0000032 190  II      on                       Z5 
+0000032 200  AT      the                      Z5 
+0000032 210  NN1     right                    S7.4+ G2.2+ M6 G1.2 
+0000032 220  VBR     are                      A3+ Z5 
+0000032 230  RR21    a                        A13.6[i43.2.1 N6-[i43.2.1 
+0000032 240  RR22    little                   A13.6[i43.2.2 N6-[i43.2.2 A13.7 
+0000032 250  JJ      baffling                 X2.5- 
+0000032 251  .       .                        
+0000032 252  -----   -----                    
+0000032 260  NN1     Wind                     W4 B1 
+0000032 270  NN1     erosion                  A1.1.2 W3 
+0000032 280  VVZ     carves                   A1.1.1 F1 
+0000032 290  JJ      odd                      A6.2- N6- A13.4 
+0000032 300  NN2     shapes                   O4.4 
+0000032 310  II      in                       Z5 
+0000032 320  AT      the                      Z5 
+0000032 330  NN1     rock                     O2 O1.1 K2 F1 
+0000032 331  (       (                        
+0000032 340  VV0     remember                 X2.2+ 
+0000032 350  AT      the                      Z5 
+0000032 360  NN1     Bigfoot                  Z2[i44.3.1 
+0000032 370  II      on                       Z2[i44.3.2 Z5 
+0000032 380  NP1     Mars                     Z2[i44.3.3 Z3c Z1/W1 S9/T1.1.1@ 
+0000032 381  ?       ?                        
+0000032 382  )       )                        
+0000032 390  RR      so                       Z5 A13.3 
+0000032 400  VV0     Im                       Z99 
+0000032 410  JJ      sure                     A7+ Z4 
+0000032 420  DD1     this                     Z8 M6 Z5 
+0000032 430  VBZ     is                       A3+ Z5 
+0000032 440  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000032 450  DD1     another                  A6.1- N5++ 
+0000032 460  NN1     coincidence              A1.4 
+0000032 461  .       .                        
+0000033 001  -----   -----                    
+0000034 010  CS      Though                   Z5 
+0000034 020  PPIS1   I                        Z8mf 
+0000034 030  VH0     have                     S6+[i45.2.1 A9+ Z5 A2.2 S4 
+0000034 040  TO      to                       S6+[i45.2.2 Z5 
+0000034 050  VVI     admit                    Q2.2 B3 A1.8+ S7.4+/M1 
+0000034 051  ,       ,                        
+0000034 060  PPH1    it                       Z8 
+0000034 070  VVZ     looks                    A6.1+[i46.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000034 080  RR31    an                       Z5 
+0000034 090  RR32    awful                    O4.2- A5.1- A13.3 
+0000034 100  RR33    lot                      N5 S5+ A3+ A1.4 M7 O2 
+0000034 110  II      like                     A6.1+[i46.2.2 Z5 
+0000034 120  AT      the                      Z5 
+0000034 130  NP1     Galapagos                Z99 
+0000034 140  NNL2    Islands                  W3 
+0000034 141  ,       ,                        
+0000034 150  RR@     too                      N5++ 
+0000034 151  .       .                        
+0000034 152  -----   -----                    
+0000034 160  RR      Hard                     O4.1 X8+ X5.2+ N5+ A12- 
+0000034 170  TO      to                       Z5 
+0000034 180  VVI     say                      Q2.1 Z4% 
+0000034 181  .       .                        
+0000034 182  -----   -----                    
+0000034 190  PPH1    It                       Z8 
+0000034 200  VM      may                      A7+ 
+0000034 210  VBI     be                       A3+ Z5 
+0000034 220  AT1     a                        Z5 
+0000034 230  NN1     trick                    G2.2- A1.1.1 X4.2 A6.2+ K5.2 
+0000034 240  IO      of                       Z5 
+0000034 250  NN1     light                    W2 O3/W2 M3 O4.6+ X4.1 E1 
+0000034 260  CC      and                      Z5 
+0000034 270  NN1     shadow                   O4.3 S2mf 
+0000034 271  ,       ,                        
+0000034 280  CC      or                       Z5 
+0000034 290  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000034 300  AT      the                      Z5 
+0000034 310  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000034 320  IO      of                       Z5 
+0000034 330  NNT1    year                     T1.3 P1c 
+0000034 331  .       .                        
+0000037 001  NULL    **8;7;text               

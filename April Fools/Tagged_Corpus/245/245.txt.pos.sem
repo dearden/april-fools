@@ -1,0 +1,200 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVG     Facing                   M6 S1.1.1 X2.1 B5 
+0000002 020  DD1     another                  A6.1- N5++ 
+0000002 030  NN1     round                    N5 K5.1 M1 F2 B3 F1 K2% G3% 
+0000002 040  AT1     a                        Z5 
+0000002 050  NN1     budget                   I1 G1.1/I1 I1.3- 
+0000002 060  VVZ     cuts                     A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3 
+0000002 070  IF      for                      Z5 
+0000002 080  DD1     this                     Z8 M6 Z5 
+0000002 090  VVG     coming                   M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000002 100  JJ      fiscal                   I1/G1.1 I1 
+0000002 110  NNT1    year                     T1.3 P1c 
+0000002 111  ,       ,                        
+0000002 120  APPGE   my                       Z8 
+0000002 130  NN1     library                  Q4.1/H1c 
+0000002 140  VHD     had                      S6+[i1.2.1 A9+ Z5 A2.2 S4 
+0000002 150  TO      to                       S6+[i1.2.2 Z5 
+0000002 160  VVI     lay                      I3.1-[i2.2.1 A1.9[i2.2.1 M2 M1 L2 T2+ A1.1.1 
+0000002 170  RP      off                      I3.1-[i2.2.2 A1.9[i2.2.2 M6 K1 A1.1.1 A1.9 
+0000002 180  DB      all                      N5.1+ 
+0000002 190  IO      of                       Z5 
+0000002 200  APPGE   our                      Z8 
+0000002 210  NN1     reference                Q2.2 Q1.2 
+0000002 220  NN      staff                    I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 
+0000002 221  ,       ,                        
+0000002 230  II21    except                   A1.8-[i3.2.1 Z5 
+0000002 240  II22    for                      A1.8-[i3.2.2 
+0000002 250  PPIO1   me                       Z8mf 
+0000002 251  .       .                        
+0000003 001  -----   -----                    
+0000004 010  RR      However                  Z4 
+0000004 011  ,       ,                        
+0000004 020  II      in                       Z5 
+0000004 030  AT1     an                       Z5 
+0000004 040  NN1     effort                   X8+ O2 
+0000004 050  TO      to                       Z5 
+0000004 060  VVI     continue                 T2++ 
+0000004 070  TO      to                       Z5 
+0000004 080  VVI     meet                     S3.1 M6 A1.1.1 X9.2+ A6.1+ 
+0000004 090  NN1     patron                   S8+/S2mf I2.2/S2mf 
+0000004 100  NN1     need                     S6+ 
+0000004 110  II      at                       Z5 
+0000004 120  AT      the                      Z5 
+0000004 130  NN1     Reference                Q2.2 Q1.2 
+0000004 140  NN1     Desk                     H5 
+0000004 141  ,       ,                        
+0000004 150  AT      the                      Z5 
+0000004 160  NN1     library                  Q4.1/H1c 
+0000004 170  VBZ     is                       Z5 A3+ 
+0000004 180  VVG     capitalizing             A5.1+ I2.2/I1.1+ Q3 
+0000004 190  II      on                       Z5 
+0000004 200  NP1     Massachusetts            Z2 Z3c 
+0000004 201  GE      '                        Z5 
+0000004 210  NN1     strength                 S1.2.5+ O4.1 S7.1+ X9.1+ N5 
+0000004 220  II      in                       Z5 
+0000004 230  AT      the                      Z5 
+0000004 240  JJ      biomedical               B3/B1 
+0000004 250  NN1     technology               I4/Y1c[i4.2.1 Y1 
+0000004 260  NN1     industry                 I4/Y1c[i4.2.2 I4c I2.1c 
+0000004 270  II      by                       Z5 
+0000004 280  VVG     partnering               A9-[i5.2.1 S3.1 
+0000004 290  IW      with                     A9-[i5.2.2 Z5 
+0000004 300  NN1     biotech                  Y1/I2.1c[i6.2.1 Y1/L1 Y1/B3 
+0000004 310  NN2     firms                    Y1/I2.1c[i6.2.2 I2.1/S5+c 
+0000004 320  TO      to                       Z5 
+0000004 330  VVI     create                   A1.1.1 A2.2 E1 
+0000004 340  NN1     librarian                Q4.1/S2mf 
+0000004 350  NN2     clones                   A6.1+mfn 
+0000004 351  .       .                        
+0000004 352  -----   -----                    
+0000004 360  AT      The                      Z5 
+0000004 370  NN2     advantages               A5.1+ K5.2 
+0000004 380  VBR     are                      A3+ Z5 
+0000004 390  JJ      numerous                 N5+ 
+0000004 391  :       :                        
+0000006 010  VVG     multiplying              N2 N5+/A2.1 
+0000006 020  AT      the                      Z5 
+0000006 030  NN1     effect                   A2.2 A8 
+0000006 040  IO      of                       Z5 
+0000006 050  AT1     a                        Z5 
+0000006 060  NN1     library                  Q4.1/P1[i7.2.1 Q4.1/H1c 
+0000006 070  NN1     degree                   Q4.1/P1[i7.2.2 A13.1 N3.1 N3.2 N5 P1 
+0000007 010  NN      staff                    I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 
+0000007 020  NN1     training                 P1 K5.1 
+0000007 030  VBZ     is                       A3+ Z5 
+0000007 040  JJ      streamlined              N3.2-/A2.1 
+0000008 010  NN1     communication            Q2.1 Q1.2 Q1.3 Q4.3 
+0000008 020  II      within                   Z5 
+0000008 030  AT      the                      Z5 
+0000008 040  NN1     department               H2/S5+c X2.2 
+0000008 050  VBZ     is                       A3+ Z5 
+0000008 060  JJ      excellent                A5.1+++ 
+0000009 010  PPIS2   we                       Z8 
+0000009 020  DB      all                      N5.1+ 
+0000009 030  VV0     share                    S1.1.2+ 
+0000009 040  AT1     a                        Z5 
+0000009 050  JJ      single                   N5--- S5- S3.2- M3 
+0000009 060  JJ      social                   I1.1/G1.1[i8.2.1 S1.1.1 
+0000009 070  NN1     security                 I1.1/G1.1[i8.2.2 G2.1 A15+ E6+ I1.1 
+0000009 080  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000009 090  CS@     so                       Z5 
+0000009 100  PPIS2   we                       Z8 
+0000009 110  RR      also                     N5++ 
+0000009 120  VV0     share                    S1.1.2+ 
+0000009 130  AT1     a                        Z5 
+0000009 140  JJ      single                   N5--- S5- S3.2- M3 
+0000009 150  NN1     salary                   I1.1/I3.1 
+0000010 010  DB      all                      N5.1+ 
+0000010 020  IO      of                       Z5 
+0000010 030  PPIO2   us                       Z8 
+0000010 040  VBR     are                      Z5 A3+ 
+0000010 050  VVN     covered                  A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1 
+0000010 060  II      by                       Z5 
+0000010 070  AT1     a                        Z5 
+0000010 080  JJ      single                   N5--- S5- S3.2- M3 
+0000010 090  NN2     benefits                 S8+ I1.1/G1.1 
+0000010 100  VV0@    package                  A1.1.1 
+0000011 010  APPGE   our                      Z8 
+0000011 020  NN1     wardrobe                 H5 B5 
+0000011 030  VBZ     is                       A3+ Z5 
+0000011 040  JJ      interchangeable          A2.1+ 
+0000013 010  DD1     This                     M6 Z5 Z8 
+0000013 020  NNT1    week                     T1.3 
+0000013 030  VBDZ    was                      A3+ Z5 
+0000013 040  AT      the                      Z5 
+0000013 050  MD      first                    N4 
+0000013 060  NN1     reference                Q2.2 Q1.2 
+0000013 070  VV0     shift                    M2 M1 A2.1+ I2.2 
+0000013 080  IF      for                      Z5 
+0000013 090  AT      the                      Z5 
+0000013 100  NN2     clones                   A6.1+mfn 
+0000013 101  -       -                        
+0000013 110  RL      here                     M6 T1.1.2 T1.2 
+0000013 111  VBZ     's                       A3+ Z5 
+0000013 120  AT1     a                        Z5 
+0000013 130  NN1     snapshot                 C1 
+0000013 140  IO      of                       T1.1.2[i9.3.1 Z5 
+0000013 150  AT      the                      T1.1.2[i9.3.2 Z5 
+0000013 160  NNT1    day                      T1.1.2[i9.3.3 T1.3 
+0000013 161  :       :                        
+0000014 010  NN1     Assistance               S8+ 
+0000014 020  IO      of                       Z5 
+0000014 030  AT      the                      Z5 
+0000014 040  NN2     Clones                   A6.1+mfn 
+0000016 010  CS      If                       Z7 
+0000016 020  DD1     this                     M6 Z5 Z8 
+0000016 030  NN1     cloning                  Z99 
+0000016 040  NN1     experiment               Y1 X2.4 
+0000016 050  VVZ     works                    I3.1 A1.1.1 X9.2+ A2.2 
+0000016 060  IF      for                      Z5 
+0000016 070  AT      the                      Z5 
+0000016 080  NN1     Reference                Q2.2/S5+c[i10.2.1 Q2.2 Q1.2 
+0000016 090  NN1     Department               Q2.2/S5+c[i10.2.2 H2/S5+c X2.2 
+0000016 091  ,       ,                        
+0000016 100  PPH1    it                       Z8 
+0000016 110  VM      may                      A7+ 
+0000016 120  VBI     be                       Z5 A3+ 
+0000016 130  VVN     expanded                 N3.2+/A2.1 Q2.2/N5++ A4.2-/A2.1 
+0000016 140  II      to                       Z5 
+0000016 150  JJ      additional               N5++ 
+0000016 160  NN2     departments              H2/S5+ X2.2 
+0000016 170  II      during                   Z5 
+0000016 180  JJ      future                   T1.1.3 
+0000016 190  NN1     budget                   I1 G1.1/I1 I1.3- 
+0000016 200  NN2     cuts                     A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
+0000016 201  .       .                        
+0000016 202  -----   -----                    
+0000016 210  PPIS2   We                       Z8 
+0000016 220  RR      also                     N5++ 
+0000016 230  VM      might                    A7+ 
+0000016 240  VVI     begin                    T2+ 
+0000016 250  TO      to                       Z5 
+0000016 260  RR      selectively              X7+ 
+0000016 270  VVI     clone                    A6.1+mfn 
+0000016 280  NN2     patrons                  S8+/S2mf I2.2/S2mf 
+0000016 281  ,       ,                        
+0000016 290  VVN     based                    A2.2[i11.2.1 T2+ M6 A2.2 
+0000016 300  II      on                       A2.2[i11.2.2 Z5 
+0000016 310  NN1     quality                  A5.1 A5.1+ O4.1 
+0000016 320  IO      of                       Z5 
+0000016 330  NN2     questions                Q2.2 X4.1 
+0000016 331  ,       ,                        
+0000016 340  VVG     reading                  Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000016 350  NN2     tastes                   X3.1 O4.2 E2+ X2.2 
+0000016 351  ,       ,                        
+0000016 360  NN1     adherence                A1.7+ S7.1- 
+0000016 370  II      to                       Z5 
+0000016 380  NN1     library                  Q4.1/H1c 
+0000016 390  NN2     policies                 X7+ Q1.2 
+0000016 391  ,       ,                        
+0000016 400  CC      and                      Z5 
+0000016 410  RGQ@    how                      Z5 A13.3 
+0000016 420  DA2     many                     N5+ 
+0000016 430  JJ@     pet                      E2+ 
+0000016 440  NN2     peeves                   E3- 
+0000016 450  PPHS2   they                     Z8mfn 
+0000016 460  VV0     commit                   A1.1.1 S6+ A1.7+/G2.1 
+0000016 461  .       .                        
+0000019 001  NULL    **8;7;text               

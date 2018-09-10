@@ -1,0 +1,1068 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  IF      For                      Z5 
+0000002 020  DD2     those                    Z5 Z8 
+0000002 030  PNQS    who                      Z8 
+0000002 040  VV0     use                      A1.5.1 S7.1+ 
+0000002 050  JJ      driving                  N5+++ X5.2+ M3 
+0000002 060  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000002 070  TO      to                       Z5 
+0000002 080  VVI     catch                    T1.1.2[i1.2.1 S7.3[i1.2.1 N4[i1.2.1 A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3 
+0000002 090  RP      up                       T1.1.2[i1.2.2 S7.3[i1.2.2 N4[i1.2.2 
+0000002 100  IW      with                     Z5 
+0000002 110  NN2     friends                  S3.1/S2mf 
+0000002 111  ,       ,                        
+0000002 120  VV0     conduct                  A1.1.1 S1.1.1 K2 O4.1 
+0000002 130  NN2     teleconferences          Z99 
+0000002 131  ,       ,                        
+0000002 140  CC      and                      Z5 
+0000002 150  VV0     manage                   S7.1+ A1.1.1 X9.2+ 
+0000002 160  APPGE   their                    Z8 
+0000002 170  NN1     bank                     I1.1[i2.2.1 I1/H1 I1.1/I2.1c W3/M4 A9+/H1 O2 M6 
+0000002 180  NN2     accounts                 I1.1[i2.2.2 I1 I1.3 I2.1 Q2.2 Y2 
+0000002 181  ,       ,                        
+0000002 190  AT      the                      Z5 
+0000002 200  NN1     cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000002 210  NN1     phone                    Q1.3 
+0000002 220  NN1     ban                      S7.4- 
+0000002 230  VM      may                      A7+ 
+0000002 240  VBI     be                       Z5 A3+ 
+0000002 250  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000002 260  II      as                       Z5 
+0000002 270  AT1     a                        Z5 
+0000002 280  NN1     denial                   Q2.2/Z6 S7.4- 
+0000002 290  IO      of                       Z5 
+0000002 300  NN2     rights                   S7.4+ G2.2+ M6 G1.2 
+0000002 301  .       .                        
+0000002 302  -----   -----                    
+0000002 310  RR      However                  Z4 
+0000002 311  ,       ,                        
+0000002 320  CS      if                       Z7 
+0000002 330  PPY     you                      Z8mf 
+0000002 331  VH0     've                      Z5 A9+ A2.2 
+0000002 340  VBN     been                     Z5 A3+ 
+0000002 350  VVG     suppressing              S7.4- A10- 
+0000002 360  NN2     urges                    X7+ 
+0000002 370  II      to                       Z5 
+0000002 371  NULL    <quote>                  
+0000002 372  -----   -----                    
+0000002 373  "       "                        
+0000002 380  VV0     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000002 390  JJ      postal                   Q1.2 
+0000002 391  "       "                        
+0000002 392  NULL    </quote>                 
+0000002 393  -----   -----                    
+0000002 400  II      on                       Z5 
+0000002 410  NN      people                   S2mfc 
+0000002 420  PNQS    who                      Z8 
+0000002 430  VV0     talk                     Q2.1 
+0000002 440  II      on                       Z5 
+0000002 450  APPGE   their                    Z8 
+0000002 460  NN1     cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000002 470  NN2     phones                   Q1.3 
+0000002 480  CS      while                    Z5 
+0000002 490  VVG     driving                  M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000002 491  ,       ,                        
+0000002 500  CC      or                       Z5 
+0000002 510  JJ      worried                  E6- 
+0000002 520  CST     that                     Z5 Z8 
+0000002 530  DD1     that                     Z8 Z5 
+0000002 540  PPHS2   they                     Z8mfn 
+0000002 541  VBR     're                      T1.1.3[i3.3.1 A3+ Z5 
+0000002 550  RPK     about                    T1.1.3[i3.3.2 
+0000002 560  TO      to                       T1.1.3[i3.3.3 Z5 
+0000002 570  NN1     rear-end                 Z99 
+0000002 580  PPY     you                      Z8mf 
+0000002 590  CS      while                    Z5 
+0000002 600  PPY     you                      Z8mf 
+0000002 601  VBR     're                      Z5 A3+ 
+0000002 610  VVN     stuck                    M2 A1.1.1 A1.7+ T2- E2+ X2.2- 
+0000002 620  II31    in                       N4[i4.3.1 M6[i4.3.1 Z5 
+0000002 630  II32    front                    N4[i4.3.2 M6[i4.3.2 
+0000002 640  II33    of                       N4[i4.3.3 M6[i4.3.3 
+0000002 650  PPHO2   them                     Z8mfn 
+0000002 651  ,       ,                        
+0000002 660  DD1     this                     M6 Z5 Z8 
+0000002 670  NN1     law                      G2.1 S6+ Y1 
+0000002 680  VM      may                      A7+ 
+0000002 690  VBI     be                       A3+ Z5 
+0000002 700  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000002 710  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000002 720  IF      for                      Z5 
+0000002 730  PPY     you                      Z8mf 
+0000002 731  .       .                        
+0000003 001  -----   -----                    
+0000003 010  NN1     ADVERTISEMENT            I2.2/Q2.1 X2.2+ A10+ 
+0000005 010  II      In                       Z5 
+0000005 020  AT1     a                        Z5 
+0000005 030  JJ      last-minute              T4- 
+0000005 040  NN1     earmark                  X7+ 
+0000005 050  NN1     addendum                 Q4.1 
+0000005 060  II      to                       Z5 
+0000005 070  AT1     an                       Z5 
+0000005 080  JJ      obscure                  A12+ A10- 
+0000005 090  JJ      environmental            W5 W3 
+0000005 100  NN1     bill                     I1.3 G1.1 Q1.2 L2 
+0000005 110  NN1     funding                  I1.1 
+0000005 120  NN1     Daylight                 W2 T1.3 
+0000005 130  NN2     Savings                  I1.1 
+0000005 140  NNT1    Time                     Z3c 
+0000005 150  JJ      behavior-modification    Z99 
+0000005 160  NN1     training                 P1 K5.1 
+0000005 170  IF      for                      Z5 
+0000005 180  NN2     roosters                 Z99 
+0000005 190  CC      and                      Z5 
+0000005 200  NN1     dairy                    F4 
+0000005 210  NN2     animals                  L2mfn S5+c O2c 
+0000005 220  II      on                       Z5 
+0000005 230  NN2     farms                    F4/M7 
+0000005 240  CST     that                     Z8 Z5 
+0000005 250  VV0     receive                  A9+ S5+ 
+0000005 260  JJ      federal                  S5+ 
+0000005 270  NN1     funding                  I1.1 
+0000005 271  ,       ,                        
+0000005 280  AT      the                      Z5 
+0000005 290  NP1     U.S.                     Z1mf[i5.2.1 Z3c[i5.2.1 
+0000005 300  NN1     Congress                 Z1mf[i5.2.2 Z3c[i5.2.2 Z3c 
+0000005 310  VHZ     has                      Z5 A9+ A2.2 S4 
+0000005 320  VVN     mandated                 S7.1+ M7@ 
+0000005 330  AT1     a                        Z5 
+0000005 340  JJ      complete                 N5.1+ T2- N3.2+ 
+0000005 350  NN1     prohibition              F2 S7.4- 
+0000005 360  II      against                  Z5 
+0000005 370  AT      the                      Z5 
+0000005 380  NN1     use                      A1.5.1 
+0000005 390  IO      of                       Z5 
+0000005 400  NN1     cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000005 410  NN2     phones                   Q1.3 
+0000005 420  II      by                       Z5 
+0000005 430  DD      any                      N5.1+ N5 
+0000005 440  NN1     driver                   M3/S2mf O2 
+0000005 441  ,       ,                        
+0000005 450  VVG     excepting                A1.8- 
+0000005 460  NN2     police                   G2.1 
+0000005 470  CC      and                      S2mf[i6.2.1 Z5 
+0000005 480  JJ      other                    S2mf[i6.2.2 A6.1- 
+0000005 490  NN2     first-responders         Z99 
+0000005 491  ,       ,                        
+0000005 500  II      on                       Z5 
+0000005 510  DD      any                      N5.1+ N5 
+0000005 520  JJ      public                   S5+ A10+ 
+0000005 530  NN1     road                     M3 X4.2 
+0000005 540  CC      or                       Z5 
+0000005 550  JJ      other                    A6.1- 
+0000005 560  JJ      driving                  N5+++ X5.2+ M3 
+0000005 570  NN1     area                     M7 A4.1 N3.6 
+0000005 571  ,       ,                        
+0000005 580  JJ      effective                X9.2+ 
+0000005 590  II      at                       Z5 
+0000005 600  FO      11:59PM                  Z99 
+0000005 601  ,       ,                        
+0000005 610  NPM1    March                    T1.3[i7.2.1 T1.3 
+0000005 620  MC      31                       T1.3[i7.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000005 621  ,       ,                        
+0000005 630  MC      2008                     N1 T1.2 T3 T1.3 N3.2 
+0000005 631  .       .                        
+0000006 001  -----   -----                    
+0000007 010  AT      The                      Z5 
+0000007 020  NN1     penalty                  G2.1 I1.3 K5.1 
+0000007 030  IF      for                      Z5 
+0000007 040  VBG     being                    Z5 A3+ 
+0000007 050  VVN     caught                   A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3 
+0000007 051  ,       ,                        
+0000007 060  II21    according                Z5[i8.2.1 Z5 
+0000007 070  II22    to                       Z5[i8.2.2 Z5 
+0000007 080  AT1     a                        Z5 
+0000007 090  JJ      National                 Z1mf[i9.2.1 Z3c[i9.2.1 Z3c 
+0000007 100  NN1     Highway                  Z1mf[i9.2.2 Z3c[i9.2.2 Z3 
+0000007 110  NN1     Traffic                  M3 M4 G2.1-/I2.2 M1 S1.1.2+ 
+0000007 120  NN1     Safety                   A15+ 
+0000007 130  NN1     Administration           S7.1+c A9- 
+0000007 140  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000007 141  (       (                        
+0000007 150  PNQS    who                      Z8 
+0000007 160  VVD     asked                    Q2.2 
+0000007 170  IF      for                      Z5 
+0000007 180  NN1     anonymity                A10- 
+0000007 181  )       )                        
+0000007 182  ,       ,                        
+0000007 190  VVZ     includes                 A1.8+ 
+0000007 200  AT1     a                        Z5 
+0000007 210  NNU     $200                     Z99 
+0000007 220  JJ      fine                     A5.1+ A4.2+ O4.5 O4.1 W4 N3.2- 
+0000007 221  ,       ,                        
+0000007 230  DDQ     which                    Z8 Z5 
+0000007 240  VM      will                     T1.1.3 
+0000007 250  VBI     be                       Z5 A3+ 
+0000007 260  VVN     given                    A9- A1.1.1 
+0000007 270  II      to                       Z5 
+0000007 280  AT1     a                        Z5 
+0000007 290  JJ      designated               Q2.2 X7+ 
+0000007 300  NN1     charity                  S8+/S5+c S8+ S1.2.2- 
+0000007 310  NN1     fund                     I1.1 N5+ 
+0000007 311  ,       ,                        
+0000007 320  CC      and                      Z5 
+0000007 330  NN1     confiscation             G2.1/A9+ 
+0000007 340  IO      of                       Z5 
+0000007 350  AT      the                      Z5 
+0000007 360  NN1     phone                    Q1.3 
+0000007 370  CC      and                      Z5 
+0000007 380  DD      any                      N5 N5.1+ 
+0000007 390  JJ      associated               S5+ A2.2 A6.1+/X2.1 S3.1 
+0000007 400  NN2     accessories              O2 B5 S8+/S2mf 
+0000007 401  ,       ,                        
+0000007 410  REX     e.g.                     A4.1 
+0000007 411  ,       ,                        
+0000007 420  NP1     Bluetooth                Z99 
+0000007 430  NN1     headset                  Y2 K3 Q1.3 
+0000007 440  CC      and                      Z5 
+0000007 450  JJ      charging                 I1.3 O3 G2.1 M1 G3% 
+0000007 460  NN1     cord                     O2 O1.1 B1 
+0000007 461  ,       ,                        
+0000007 470  DDQ     which                    Z8 Z5 
+0000007 480  VM      will                     T1.1.3 
+0000007 490  VBI     be                       Z5 A3+ 
+0000007 500  VVN     donated                  A9- 
+0000007 510  II      to                       Z5 
+0000007 520  JJ      homeless                 H4- 
+0000007 530  CC      and                      Z5 
+0000007 540  NN2     women                    S2.1f 
+0000007 541  GE      's                       Z5 
+0000007 550  NN2     shelters                 H1/A10- H4/H1 
+0000007 551  .       .                        
+0000008 001  -----   -----                    
+0000008 010  NN1     ADVERTISING              I2.2/Q2.1 X2.2+ A10+ 
+0000010 001  NULL    <quote>                  
+0000010 002  -----   -----                    
+0000010 003  "       "                        
+0000010 010  CS      If                       Z7 
+0000010 020  PPY     you                      Z8mf 
+0000010 030  VV0     plan                     X7+ 
+0000010 040  TO      to                       Z5 
+0000010 050  VVI     flout                    A1.9/A11.2+ 
+0000010 060  DD1     this                     M6 Z5 Z8 
+0000010 070  NN1     law                      G2.1 S6+ Y1 
+0000010 071  ,       ,                        
+0000010 080  PPIS1   I                        Z8mf 
+0000010 090  VV0     suggest                  Q2.2 Q1.1 
+0000010 100  VVG     buying                   I2.2 
+0000010 110  AT1     a                        Z5 
+0000010 120  JJR     cheaper                  I1.3-- O4.2-- 
+0000010 130  NN1     phone                    Q1.3 
+0000010 131  ,       ,                        
+0000010 132  "       "                        
+0000010 133  NULL    </quote>                 
+0000010 134  -----   -----                    
+0000010 140  AT      the                      Z5 
+0000010 150  NN1     NHTSA                    Z99 
+0000010 160  NN1     official                 G1.1/S2mf S7.1+/S2mf 
+0000010 170  VVD     advised                  Q2.2/S8+ Q2.1/X2.2+ 
+0000010 171  .       .                        
+0000010 172  NULL    <quote>                  
+0000010 173  -----   -----                    
+0000010 174  "       "                        
+0000010 180  PPIS2   We                       Z8 
+0000010 181  VM      'll                      T1.1.3 
+0000010 190  VVI     take                     Z3c[i10.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000010 200  DD1     that                     Z3c[i10.2.2 Z5 Z8 
+0000010 210  NN1     iPhone                   Z99 
+0000010 220  CC      or                       Z5 
+0000010 230  NN1     BlackBerry               F1 L3 
+0000010 231  .       .                        
+0000010 232  -----   -----                    
+0000010 240  CC      And                      Z5 
+0000010 250  VV0     make                     A7+[i11.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000010 260  JJ      sure                     A7+[i11.2.2 A7+ Z4 
+0000010 270  PPY     you                      Z8mf 
+0000010 271  VH0     've                      Z5 A9+ A2.2 
+0000010 280  VVN     synced                   Z99 
+0000010 290  APPGE   your                     Z8 
+0000010 300  NN1     address                  Q4.1/H4[i12.2.1 Q1.2/H4[i12.2.1 H4 Q2.2 
+0000010 310  NN1     book                     Q4.1/H4[i12.2.2 Q1.2/H4[i12.2.2 Q4.1 Q1.2 K5.1/I1 
+0000010 320  CS      before                   Z5 
+0000010 330  PPY     you                      Z8mf 
+0000010 340  VV0     start                    T2+ E5- E3- 
+0000010 350  JJ      driving                  N5+++ X5.2+ M3 
+0000010 351  ,       ,                        
+0000010 360  CS      if                       Z7 
+0000010 370  PPY     you                      Z8mf 
+0000010 380  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000010 381  XX      n't                      Z6 
+0000010 390  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
+0000010 400  TO      to                       Z5 
+0000010 410  RR      also                     N5++ 
+0000010 420  VVI     lose                     X9.2- A9- M6/A5.3- L1- 
+0000010 430  APPGE   your                     Z8 
+0000010 440  NN      data                     X2.2/X2.4 Q1.1 
+0000010 441  .       .                        
+0000010 442  "       "                        
+0000010 443  NULL    </quote>                 
+0000010 444  -----   -----                    
+0000012 010  DD      Some                     N5 Z5 
+0000012 020  NN2     restrictions             A1.7+ 
+0000012 030  II      on                       Z5 
+0000012 040  AT      the                      Z5 
+0000012 050  NN1     use                      A1.5.1 
+0000012 060  IO      of                       Z5 
+0000012 070  NN1     cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000012 080  NN2     phones                   Q1.3 
+0000012 090  VBR     are                      A3+ Z5 
+0000012 100  RR      currently                T1.1.2 
+0000012 110  II      in                       A5.4+[i13.2.1 Z5 
+0000012 120  NN1     effect                   A5.4+[i13.2.2 A2.2 A8 
+0000012 130  II      in                       Z5 
+0000012 140  RR      nearly                   A13.4 
+0000012 150  MC      30                       N1 T1.2 T3 T1.3 N3.2 
+0000012 160  NN2     states                   G1.1c O4.1 
+0000012 170  II      in                       Z5 
+0000012 180  AT      the                      Z5 
+0000012 190  NP1     U.S                      Z8 
+0000012 191  (       (                        
+0000012 200  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000012 210  NN1     Cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000012 220  NN1     Phone                    Q1.3 
+0000012 230  VVG     Driving                  M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000012 240  NN2     Laws                     G2.1 S6+ 
+0000012 250  II      by                       Z5 
+0000012 260  NN1     State                    G1.1c O4.1 
+0000012 261  )       )                        
+0000012 270  CC      and                      Z5 
+0000012 280  II      in                       Z5 
+0000012 290  DA2     many                     N5+ 
+0000012 300  JJ      other                    A6.1- 
+0000012 310  NN2     countries                M7 
+0000012 311  (       (                        
+0000012 320  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000012 330  NN2     Countries                M7 
+0000012 340  CST     That                     Z8 Z5 
+0000012 350  VV0     Ban                      S7.4- 
+0000012 360  NN1     Cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000012 370  NN2     Phones                   Q1.3 
+0000012 380  CS      While                    Z5 
+0000012 390  VVG     Driving                  M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000012 391  )       )                        
+0000012 392  .       .                        
+0000013 001  -----   -----                    
+0000014 010  RR      However                  Z4 
+0000014 011  ,       ,                        
+0000014 020  AT      the                      Z5 
+0000014 030  JJ      new                      T3- 
+0000014 040  NN1     law                      G2.1 S6+ Y1 
+0000014 041  ,       ,                        
+0000014 050  VVN     dubbed                   Q2.2 Q4.3/Q3 
+0000014 051  NULL    <quote>                  
+0000014 052  -----   -----                    
+0000014 053  "       "                        
+0000014 060  VV0     Shut                     Q2.1-[i14.2.1 A10-[i14.2.1 A10- 
+0000014 070  RP      Up                       Q2.1-[i14.2.2 A10-[i14.2.2 
+0000014 080  CC      And                      Z5 
+0000014 090  NN1     Drive                    M3 X5.2+ X8+ M3/H3 Y2 
+0000014 091  ,       ,                        
+0000014 092  "       "                        
+0000014 093  NULL    </quote>                 
+0000014 094  -----   -----                    
+0000014 100  VBZ     is                       A3+ Z5 
+0000014 110  AT      the                      Z5 
+0000014 120  RGT     most                     A13.2 
+0000014 130  JJ      extreme                  N5.1+++ N5.2+ S1.2.6- A12- N3.3+++ 
+0000014 140  PN1     one                      Z8 
+0000014 150  II      to                       T1.1.2[i15.2.1 Z5 
+0000014 160  NN1     date                     T1.1.2[i15.2.2 T1.2 S3.2 S3.2/S2mf 
+0000014 161  .       .                        
+0000014 162  NULL    <quote>                  
+0000014 163  -----   -----                    
+0000014 164  "       "                        
+0000014 170  DAT     Most                     N5+++ 
+0000014 180  IO      of                       Z5 
+0000014 190  AT      the                      Z5 
+0000014 200  JJ      current                  T1.1.2 
+0000014 210  NN1     legislation              G2.1 
+0000014 220  VVZ     restricts                A1.7+ 
+0000014 230  NN2     drivers                  M3/S2mf O2 
+0000014 240  II      to                       Z5 
+0000014 250  JJ      hands-free               O4.1 
+0000014 260  NN2     devices                  O2 X4.2 Q1.1 
+0000014 261  .       .                        
+0000014 262  -----   -----                    
+0000014 270  DD1     This                     Z8 M6 Z5 
+0000014 280  PN1     one                      Z8 
+0000014 290  VVZ     says                     Q2.1 
+0000014 291  ,       ,                        
+0000014 300  NNU     'you                     Z99 
+0000014 310  VM      ca                       A7+ 
+0000014 311  XX      n't                      Z6 
+0000014 320  VVI     use                      A1.5.1 S7.1+ 
+0000014 330  AT      the                      Z5 
+0000014 340  NN1     phone                    Q1.3 
+0000014 350  RR21    at                       A13.7[i16.2.1 Z4[i16.2.1 N5.1+[i16.2.1 
+0000014 360  RR22    all                      A13.7[i16.2.2 Z4[i16.2.2 N5.1+[i16.2.2 A13.2 
+0000014 361  ,       ,                        
+0000014 362  "@      '                        
+0000014 363  "       "                        
+0000014 364  NULL    </quote>                 
+0000014 365  -----   -----                    
+0000014 370  VVD     complained               Q2.2/E2- 
+0000014 380  AT1     a                        Z5 
+0000014 390  NN1     driver                   M3/S2mf O2 
+0000014 400  II      in                       Z5 
+0000014 410  NP1     Hackensack               Z99 
+0000014 411  ,       ,                        
+0000014 420  NP1     N.J.                     Z99 
+0000014 421  ,       ,                        
+0000014 430  PNQS    who                      Z8 
+0000014 440  VVZ     wishes                   X7+ 
+0000014 450  TO      to                       Z5 
+0000014 460  VVI     remain                   T2++ M8 N5.2+ 
+0000014 470  JJ      anonymous                A10- 
+0000014 471  .       .                        
+0000014 472  NULL    <quote>                  
+0000014 473  -----   -----                    
+0000014 474  "       "                        
+0000014 480  RRQ     How                      Z5 A13.3 
+0000014 490  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000014 500  PPHS2   they                     Z8mfn 
+0000014 510  VVI     expect                   X2.6+ B1 
+0000014 520  PPIO2   us                       Z8 
+0000014 530  TO      to                       Z5 
+0000014 540  VVI     keep                     T2++[i17.3.1 X2.5+[i17.3.1 X9.2+[i17.3.1 A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 T2++[i18.2.1 S7.3+[i18.2.1 N5+[i18.2.1 
+0000014 550  RP      up                       T2++[i17.3.2 X2.5+[i17.3.2 X9.2+[i17.3.2 T2++[i18.2.2 S7.3+[i18.2.2 N5+[i18.2.2 
+0000014 560  IW      with                     T2++[i17.3.3 X2.5+[i17.3.3 X9.2+[i17.3.3 Z5 
+0000014 570  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000014 571  ?       ?                        
+0000014 572  "       "                        
+0000014 573  NULL    </quote>                 
+0000016 001  NULL    <quote>                  
+0000016 002  -----   -----                    
+0000016 003  "       "                        
+0000016 010  DDQ     What                     Z8 Z5 
+0000016 020  CS      if                       Z7 
+0000016 030  PPIS2   we                       Z8 
+0000016 040  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000016 050  AT1     an                       Z5 
+0000016 060  NN1     accident                 A1.1.2 A1.4 
+0000016 070  CC      or                       Z5 
+0000016 080  JJ      other                    A6.1- 
+0000016 090  NN1     emergency                A11.1+ 
+0000016 091  ?       ?                        
+0000016 092  "       "                        
+0000016 093  NULL    </quote>                 
+0000016 094  -----   -----                    
+0000016 100  VVN     asked                    Q2.2 
+0000016 110  AT1     an                       Z5 
+0000016 120  JJ      independent              S5- 
+0000016 130  NN1     package                  O2 A1.8+ Y2 
+0000016 140  NN1     delivery                 M2 Q2.1 X9.2+ B3 S9% 
+0000016 150  NN1     person                   S2mfc 
+0000016 160  II      in                       Z5 
+0000016 170  NP1     Los                      Z2[i22.2.1 Z2[i20.2.1 Z1 Z2[i21.2.1 Z1mf[i19.2.1 Z3c[i19.2.1 
+0000016 180  NP1     Angeles                  Z2[i22.2.2 Z2[i20.2.2 Z2 Z2[i21.2.2 Z1mf[i19.2.2 Z3c[i19.2.2 
+0000016 181  .       .                        
+0000016 182  NULL    <quote>                  
+0000016 183  -----   -----                    
+0000016 184  "       "                        
+0000016 190  PPIS1   I                        Z8mf 
+0000016 191  VH0     've                      Z5 A9+ A2.2 
+0000016 200  VVN     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000016 210  AT1     a                        Z5 
+0000016 220  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000016 230  TO      to                       Z5 
+0000016 240  VVI     run                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000016 241  ,       ,                        
+0000016 250  PPIS1   I                        Z8mf 
+0000016 260  VM      ca                       A7+ 
+0000016 261  XX      n't                      Z6 
+0000016 270  VBI     be                       Z5 A3+ 
+0000016 280  VVG     pulling                  M3[i23.2.1 M3/G2.1[i23.2.1 M2 A9+ M1 
+0000016 290  RP      over                     M3[i23.2.2 M3/G2.1[i23.2.2 T2- M6 
+0000016 300  CC      and                      Z5 
+0000016 310  VVG     stopping                 T2- S8- M8 H4 A1.1.1@ 
+0000016 320  DD1     each                     N6+[i24.2.1 N5.1+ 
+0000016 330  NNT1    time                     N6+[i24.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000016 340  PPIS1   I                        Z8mf 
+0000016 350  VH0     have                     S6+[i25.2.1 A9+ Z5 A2.2 S4 
+0000016 360  TO      to                       S6+[i25.2.2 Z5 
+0000016 370  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000016 380  AT1     a                        Z5 
+0000016 390  NN1     call                     Q2.2 S1.1.1 Q1.3 X7+ S9% 
+0000016 391  .       .                        
+0000016 392  "       "                        
+0000016 393  NULL    </quote>                 
+0000018 001  NULL    <quote>                  
+0000018 002  -----   -----                    
+0000018 003  "       "                        
+0000018 010  DD1     This                     Z8 M6 Z5 
+0000018 020  VBZ     is                       A3+ Z5 
+0000018 030  JJ      different                A6.1- 
+0000018 040  II      from                     Z5 
+0000018 050  VVG     chatting                 Q2.1 
+0000018 060  IW      with                     Z5 
+0000018 070  PN1     someone                  Z8mfc 
+0000018 080  II      in                       Z5 
+0000018 090  AT      the                      Z5 
+0000018 100  NN1     passenger                M3/S2mf M4/S2mf M5/S2mf 
+0000018 110  NN1     seat                     H5 B5 S1.1.3+ S7.1+ M7 
+0000018 111  ,       ,                        
+0000018 120  VVG     yelling                  Q2.2/X3.2+++ 
+0000018 130  II      at                       Z5 
+0000018 140  APPGE   your                     Z8 
+0000018 150  NN2     kids                     S2mf/T3- S4mf L2 
+0000018 160  PNQS    who                      Z8 
+0000018 170  VBR     are                      A3+ Z5 
+0000018 180  II      in                       Z5 
+0000018 190  AT      the                      Z5 
+0000018 200  NN1     backseat                 A1.8- M3/O2 
+0000018 201  ,       ,                        
+0000018 210  CC      or                       Z5 
+0000018 220  VVG     telling                  Q2.2 Q2.1 X3 A10+ 
+0000018 230  APPGE   your                     Z8 
+0000018 240  NN1     dog                      L2mfn 
+0000018 250  TO      to                       Z5 
+0000018 260  VVI     get                      M2[i26.2.1 M1[i26.2.1 Q1.2[i26.2.1 F1[i26.2.1 F2[i26.2.1 E4.1-/A2.1[i26.2.1 A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000018 270  RP      down                     M2[i26.2.2 M1[i26.2.2 Q1.2[i26.2.2 F1[i26.2.2 F2[i26.2.2 E4.1-/A2.1[i26.2.2 
+0000018 280  II      from                     Z5 
+0000018 290  AT      the                      Z5 
+0000018 300  JJ      rear                     M6 
+0000018 310  NN1     window                   H2 T1.3 
+0000018 311  ,       ,                        
+0000018 312  "       "                        
+0000018 313  NULL    </quote>                 
+0000018 314  -----   -----                    
+0000018 320  VVD     commented                Q2.1 
+0000018 330  AT      the                      Z5 
+0000018 340  NN1     NHTSA                    Z99 
+0000018 350  NN1     official                 G1.1/S2mf S7.1+/S2mf 
+0000018 351  .       .                        
+0000019 001  -----   -----                    
+0000020 010  NN2     Officials                G1.1/S2mf S7.1+/S2mf 
+0000020 020  II      at                       Z5 
+0000020 030  AT      the                      Z5 
+0000020 040  JJ      National                 Z3c 
+0000020 050  NN1     Center                   M6 H1c M7c G1.2c K5.1mfn 
+0000020 060  IF      for                      Z5 
+0000020 070  VVG     Talking                  Q2.1 
+0000020 080  CC      and                      Z5 
+0000020 090  VVG     Messaging                Y2 
+0000020 100  JJ@     expressed                Q1.1 B1% 
+0000020 110  NN1     concern                  E6- I2.1 
+0000020 120  CST     that                     Z5 Z8 
+0000020 130  AT      the                      Z5 
+0000020 131  NULL    <quote>                  
+0000020 132  -----   -----                    
+0000020 133  "       "                        
+0000020 140  VV0     Shut                     Q2.1-[i27.2.1 A10-[i27.2.1 A10- 
+0000020 150  RP      Up                       Q2.1-[i27.2.2 A10-[i27.2.2 
+0000020 160  CC      and                      Z5 
+0000020 170  NN1     Drive                    M3 X5.2+ X8+ M3/H3 Y2 
+0000020 171  "       "                        
+0000020 172  NULL    </quote>                 
+0000020 173  -----   -----                    
+0000020 180  NN1     mandate                  S7.1+ M7@ 
+0000020 190  VBZ     is                       A3+ Z5 
+0000020 200  DD1     another                  A6.1- N5++ 
+0000020 210  NN1     step                     M1 T1.2 H5 O2 A2.1+ A1.1.1 K1@ K5.1@ 
+0000020 220  II      in                       Z5 
+0000020 230  AT1     a                        Z5 
+0000020 240  JJ      slippery                 A5.1-/A2.1[i28.2.1 O4.5 G2.2- 
+0000020 250  NN1     slope                    A5.1-/A2.1[i28.2.2 W3 O4.4 
+0000020 260  II      towards                  Z5 
+0000020 270  NN1     government               G1.1c 
+0000020 280  NN1     over-regulation          Z99 
+0000020 290  IO      of                       Z5 
+0000020 300  NN1     speech                   Q2.1 Q3 
+0000020 310  CC      and                      Z5 
+0000020 320  NN1     communication            Q2.1 Q1.2 Q1.3 Q4.3 
+0000020 321  .       .                        
+0000020 322  NULL    <quote>                  
+0000020 323  -----   -----                    
+0000020 324  "       "                        
+0000020 330  DDQ     What                     Z8 Z5 
+0000020 331  VBZ     's                       A3+ Z5 
+0000020 340  MD      next                     N4 
+0000020 341  ?       ?                        
+0000020 342  "       "                        
+0000020 343  NULL    </quote>                 
+0000020 344  -----   -----                    
+0000020 350  VVN     asked                    Q2.2 
+0000020 360  NP1     Al                       Z1mf[i29.2.1 Z3c[i29.2.1 Z1m 
+0000020 370  NP1     Waisonacal               Z1mf[i29.2.2 Z3c[i29.2.2 
+0000020 371  ,       ,                        
+0000020 380  JJ      Chief                    S7.1+ 
+0000020 390  JJ      Legal                    G2.1 G2.1+ 
+0000020 400  NN1     Counselor                S8+/S2mf G2.1/S2@mf 
+0000020 410  II      at                       Z5 
+0000020 420  AT      the                      Z5 
+0000020 430  NN1     NCFTaM                   Z99 
+0000020 431  .       .                        
+0000020 432  NULL    <quote>                  
+0000020 433  -----   -----                    
+0000020 434  "       "                        
+0000020 440  AT      No                       Z6 
+0000020 450  DAR     more                     N5++ 
+0000020 460  NN1     CB                       Q1.3[i30.2.1 Q1.3 
+0000020 470  NN1     radio                    Q1.3[i30.2.2 Q4.3 Q1.3 
+0000020 471  ?       ?                        
+0000020 472  -----   -----                    
+0000020 480  CC      And                      Z5 
+0000020 490  DDQ     what                     Z8 Z5 
+0000020 500  II      about                    Z5 
+0000020 510  AT      the                      Z5 
+0000020 520  JJ      voice-oriented           Z99 
+0000020 530  NN1     navigation               M4 
+0000020 540  NN2     systemsdoes              Z99 
+0000020 550  AT      the                      Z5 
+0000020 560  NN1     government               G1.1c 
+0000020 570  JJ      mean                     S1.2.2+ S1.2.1- N2 
+0000020 580  NN2     drivers                  M3/S2mf O2 
+0000020 590  VM      ca                       A7+ 
+0000020 591  XX      n't                      Z6 
+0000020 600  VVI     interact                 S1.1.2+ A1.1.1 
+0000020 610  IW      with                     Z5 
+0000020 620  DD2     those                    Z8 Z5 
+0000020 630  RR      either                   Z5 
+0000020 631  ?       ?                        
+0000020 632  "       "                        
+0000020 633  NULL    </quote>                 
+0000022 001  NULL    <quote>                  
+0000022 002  -----   -----                    
+0000022 003  "       "                        
+0000022 010  DD1     That                     Z8 Z5 
+0000022 011  VBZ     's                       A3+ Z5 
+0000022 020  AT1     a                        Z5 
+0000022 030  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000022 040  NN1     suggestion               Q2.2 Q1.1 
+0000022 041  ,       ,                        
+0000022 042  "       "                        
+0000022 043  NULL    </quote>                 
+0000022 044  -----   -----                    
+0000022 050  AT      the                      Z5 
+0000022 060  NP1     NHTSA                    Z99 
+0000022 070  VVD     responded                S1.1.2+ Q2.2 
+0000022 071  .       .                        
+0000022 072  NULL    <quote>                  
+0000022 073  -----   -----                    
+0000022 074  "       "                        
+0000022 080  PPIS2   We                       Z8 
+0000022 081  VBR     're                      Z5 A3+ 
+0000022 090  VVG     penciling                Z99 
+0000022 100  DD2     those                    Z5 Z8 
+0000022 110  NN2     amendments               A2.1+ 
+0000022 120  II      in                       Z5 
+0000022 130  NN1     right                    S7.4+ G2.2+ M6 G1.2 
+0000022 140  RT      now                      T1.1.2 Z4 
+0000022 141  .       .                        
+0000022 142  -----   -----                    
+0000022 150  CC      And                      Z5 
+0000022 160  CS      while                    Z5 
+0000022 170  PPIS2   we                       Z8 
+0000022 171  VBR     're                      A3+ Z5 
+0000022 180  II      at                       A1.1.1[i31.2.1 Z5 
+0000022 190  PPH1    it                       A1.1.1[i31.2.2 Z8 
+0000022 191  ,       ,                        
+0000022 200  PPIS2   we                       Z8 
+0000022 201  VBR     're                      Z5 A3+ 
+0000022 210  VVGK    going                    T1.1.3[i32.2.1 
+0000022 220  TO      to                       T1.1.3[i32.2.2 Z5 
+0000022 230  VVI     forbid                   S7.4- 
+0000022 240  DD2     those                    Z5 Z8 
+0000022 250  JJ      new                      T3- 
+0000022 260  NN1     'tell                    Z99 
+0000022 270  APPGE   your                     Z8 
+0000022 280  NN1     sound                    K3[i33.2.1 X3.2 
+0000022 290  NN1     system                   K3[i33.2.2 X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000022 300  DDQ     what                     Z8 Z5 
+0000022 310  TO      to                       Z5 
+0000022 320  VVI     do'                      Z99 
+0000022 330  NN2     features                 O4.1 Q4.2 Q4.3 W3 
+0000022 331  .       .                        
+0000022 332  "       "                        
+0000022 333  NULL    </quote>                 
+0000024 001  NULL    <quote>                  
+0000024 002  -----   -----                    
+0000024 003  "       "                        
+0000024 010  DD1     That                     Z8 Z5 
+0000024 011  VBZ     's                       A3+ Z5 
+0000024 020  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000024 030  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000024 031  ,       ,                        
+0000024 032  "       "                        
+0000024 033  NULL    </quote>                 
+0000024 034  -----   -----                    
+0000024 040  NP1@    NCFTaM                   Z99 
+0000024 041  GE      's                       Z5 
+0000024 050  NP1     Waisonacal               Z99 
+0000024 060  VVD     replied                  Q2.2 Q1.1 
+0000024 061  .       .                        
+0000024 062  NULL    <quote>                  
+0000024 063  -----   -----                    
+0000024 064  "       "                        
+0000024 070  DDQ     What                     Z8 Z5 
+0000024 080  II      about                    Z5 
+0000024 090  DB      all                      N5.1+ 
+0000024 100  AT      the                      Z5 
+0000024 110  NN2     drivers                  M3/S2mf O2 
+0000024 120  PNQS    who                      Z8 
+0000024 130  VBR     are                      Z5 A3+ 
+0000024 131  XX      n't                      Z6 
+0000024 140  VVG     talking                  Q2.1 
+0000024 150  II      on                       Z5 
+0000024 160  AT1     a                        Z5 
+0000024 170  NN1     phone                    Q1.3 
+0000024 171  ,       ,                        
+0000024 180  CCB     but                      Z5 
+0000024 190  VBR     are                      Z5 A3+ 
+0000024 200  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000024 210  JJ      other                    A6.1- 
+0000024 220  RR      equally                  A6.1+ 
+0000024 230  CC      or                       Z5 
+0000024 240  RGR     more                     A13.3 
+0000024 250  JJ      dangerous                A15- 
+0000024 260  NN1     stuff                    O1 O2 
+0000024 261  ,       ,                        
+0000024 270  II      like                     Z5 
+0000024 280  VVG     drinking                 F2/B1 
+0000024 290  JJ      hot                      O4.6+ X9.1+ O4.2+ X5.2+ G2.1- A12- S7.3+ E6- A7+++ 
+0000024 300  NN1     coffee                   F2 
+0000024 301  ,       ,                        
+0000024 310  VVG     eating                   F1/B1 A1.5.1/N5+ 
+0000024 311  ,       ,                        
+0000024 320  VVG     combing                  B4 X2.4 
+0000024 330  APPGE   their                    Z8 
+0000024 340  NN1     hair                     B1 
+0000024 341  ,       ,                        
+0000024 350  VVG     shaving                  B4 A1.1.1 N5-/A2.1 
+0000024 351  ,       ,                        
+0000024 360  VVG     putting                  M2 Q2.1 Q2.2 A1.1.1 
+0000024 370  II      on                       Z5 
+0000024 380  NN1     make-up                  B4 A1.8+ 
+0000024 381  ,       ,                        
+0000024 390  VVG     smoking                  F3 O1.3 F1 
+0000024 391  ,       ,                        
+0000024 400  CC      or                       Z5 
+0000024 410  VVG     flossing                 B4 
+0000024 420  APPGE   their                    Z8 
+0000024 430  NN2     teeth                    B1 O2 
+0000024 431  ?       ?                        
+0000024 432  "       "                        
+0000024 433  NULL    </quote>                 
+0000026 001  NULL    <quote>                  
+0000026 002  -----   -----                    
+0000026 003  "       "                        
+0000026 010  PPY     You                      Z8mf 
+0000026 011  VH0     've                      Z5 A9+ A2.2 
+0000026 020  VVN     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000026 030  AT1     a                        Z5 
+0000026 040  NN1     point                    Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
+0000026 050  RL      there                    M6 T1.2 
+0000026 051  ,       ,                        
+0000026 052  "       "                        
+0000026 053  NULL    </quote>                 
+0000026 054  -----   -----                    
+0000026 060  VVD     said                     Q2.1 
+0000026 070  AT      the                      Z5 
+0000026 080  NN1     NHTSA                    Z99 
+0000026 081  .       .                        
+0000026 082  NULL    <quote>                  
+0000026 083  -----   -----                    
+0000026 084  "       "                        
+0000026 090  NN2     Thanks                   S1.2.4+ 
+0000026 100  IF      for                      Z5 
+0000026 110  AT      the                      Z5 
+0000026 120  NN2     suggestions              Q2.2 Q1.1 
+0000026 121  ,       ,                        
+0000026 130  PPIS2   we                       Z8 
+0000026 131  VBR     're                      Z5 A3+ 
+0000026 140  VVG     adding                   N5+/A2.1 N2 A1.8+ 
+0000026 150  DD2     those                    Z8 Z5 
+0000026 160  RP@     in                       M6 
+0000026 161  .       .                        
+0000026 162  -----   -----                    
+0000026 170  UH      Oh                       Z4 
+0000026 180  UH      yeah                     Z4 
+0000026 181  ,       ,                        
+0000026 190  PPIS2   we                       Z8 
+0000026 191  VBR     're                      Z5 A3+ 
+0000026 200  RR      also                     N5++ 
+0000026 210  VVGK    going                    T1.1.3[i34.2.1 
+0000026 220  TO      to                       T1.1.3[i34.2.2 Z5 
+0000026 230  VVI     ban                      S7.4- 
+0000026 240  NP1     IMing                    Z99 
+0000026 250  CC      and                      Z5 
+0000026 260  NP1     SMSing                   Z99 
+0000026 270  CC      and                      Z5 
+0000026 280  VVG     texting                  Q1.3 
+0000026 290  CC      and                      Z5 
+0000026 300  DB      all                      N5.1+ 
+0000026 310  DD2     those                    Z5 Z8 
+0000026 320  JJ      other                    A6.1- 
+0000026 330  JJ      talk-like                Z99 
+0000026 340  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000026 341  .       .                        
+0000026 342  "       "                        
+0000026 343  NULL    </quote>                 
+0000026 344  -----   -----                    
+0000028 010  TO      To                       Z5 
+0000028 020  VVI     help                     S8+ 
+0000028 030  VVI     enforce                  A1.1.1 S7.1+ 
+0000028 040  AT      the                      Z5 
+0000028 050  JJ      new                      T3- 
+0000028 051  NULL    <quote>                  
+0000028 052  -----   -----                    
+0000028 053  "       "                        
+0000028 060  VV0     Shut                     Q2.1-[i35.2.1 A10-[i35.2.1 A10- 
+0000028 070  RP      Up                       Q2.1-[i35.2.2 A10-[i35.2.2 
+0000028 080  CC      And                      Z5 
+0000028 090  NN1     Drive                    M3 X5.2+ X8+ M3/H3 Y2 
+0000028 091  "       "                        
+0000028 092  NULL    </quote>                 
+0000028 093  -----   -----                    
+0000028 100  NN1     legislation              G2.1 
+0000028 101  ,       ,                        
+0000028 110  AT      the                      Z5 
+0000028 120  NN1     NHTSA                    Z99 
+0000028 130  VM      will                     T1.1.3 
+0000028 140  VBI     be                       Z5 A3+ 
+0000028 150  VVG     requiring                X7+ S6+ 
+0000028 160  NN1     auto                     M3 O3 
+0000028 170  NN2     manufacturers            A1.1.1/S2mfc 
+0000028 180  TO      to                       Z5 
+0000028 190  VVI     incorporate              A1.8+ S5+ 
+0000028 200  JJ      new                      T3- 
+0000028 210  JJ      audio                    K3 
+0000028 220  NN1     detection                A10+ 
+0000028 230  NN2     modules                  P1 N5.1- M3/W1 
+0000028 240  II      into                     Z5 
+0000028 250  NN1     steering                 S7.1+ M2 A2.2 
+0000028 260  VVZ     wheels                   M2 
+0000028 270  CST     that                     Z8 Z5 
+0000028 280  VM      will                     T1.1.3 
+0000028 290  VVI     detect                   A10+ 
+0000028 300  CSW@    if                       Z7 
+0000028 310  AT      the                      Z5 
+0000028 320  NN1     driver                   M3/S2mf O2 
+0000028 330  VBZ     is                       A3+ Z5 
+0000028 340  II      on                       Z5 
+0000028 350  AT1     a                        Z5 
+0000028 360  NN1     call                     Q2.2 S1.1.1 Q1.3 X7+ S9% 
+0000028 361  .       .                        
+0000028 362  -----   -----                    
+0000028 370  CS      If                       Z7 
+0000028 380  DA      such                     Z5 Z8 
+0000028 390  NN1     activity                 A1.1.1 
+0000028 400  VBZ     is                       Z5 A3+ 
+0000028 410  VVN     detected                 A10+ 
+0000028 411  ,       ,                        
+0000028 420  AT      the                      Z5 
+0000028 430  NN1     device                   O2 X4.2 Q1.1 
+0000028 440  VM      will                     T1.1.3 
+0000028 450  VVI     slow                     N3.8- 
+0000028 460  AT      the                      Z5 
+0000028 470  NN1     vehicle                  M3fn X4.2 
+0000028 480  CS      until                    Z5 
+0000028 490  PPH1    it                       Z8 
+0000028 500  VM      can                      A7+ 
+0000028 510  VVI     shut                     T2-[i36.2.1 A10- 
+0000028 520  PPH1    it                       Z8 
+0000028 530  RP      down                     T2-[i36.2.2 
+0000028 540  RR      completely               A13.2 
+0000028 541  .       .                        
+0000028 542  NULL    <quote>                  
+0000028 543  -----   -----                    
+0000028 544  "       "                        
+0000028 550  RRQ     How                      Z5 A13.3 
+0000028 560  VM      will                     T1.1.3 
+0000028 570  PPH1    it                       Z8 
+0000028 580  VVI     know                     X2.2+ S3.2/B1% 
+0000028 590  AT      the                      Z5 
+0000028 600  NN1     difference               A6.1- 
+0000028 610  II      between                  Z5 
+0000028 620  CSW     whether                  Z5 
+0000028 630  PPIS1   I                        Z8mf 
+0000028 631  VBM     'm                       Z5 A3+ 
+0000028 640  VVG     talking                  Q2.1 
+0000028 641  ,       ,                        
+0000028 650  CC      or                       Z5 
+0000028 660  VVG     singing                  K2 
+0000028 670  II21    along                    Z5[i37.2.1 Z5 
+0000028 680  II22    with                     Z5[i37.2.2 
+0000028 690  AT      the                      Z5 
+0000028 700  NN1     radio                    Q4.3 Q1.3 
+0000028 701  ?       ?                        
+0000028 702  "       "                        
+0000028 703  NULL    </quote>                 
+0000028 704  -----   -----                    
+0000028 710  NN2     demands                  Q2.2 S6+ X7+ 
+0000028 720  NP1     NCFTaM                   Z99 
+0000028 721  VBZ     's                       A3+ Z5 
+0000028 730  JJ      Waisonacal               Z99 
+0000028 731  .       .                        
+0000030 001  NULL    <quote>                  
+0000030 002  -----   -----                    
+0000030 003  "       "                        
+0000030 010  AT      The                      Z5 
+0000030 020  NN1     RIAA                     Z99 
+0000030 030  VHZ     has                      Z5 A9+ A2.2 S4 
+0000030 040  VVN     decided                  X6+ 
+0000030 050  CST     that                     Z8 Z5 
+0000030 060  VM      would                    A7+ 
+0000030 070  VBI     be                       A3+ Z5 
+0000030 080  JJ      illegal                  G2.1- 
+0000030 090  RR      anyway                   Z4 A13.7 
+0000030 091  ,       ,                        
+0000030 100  CS@     so                       Z5 
+0000030 110  PPIS2   we                       Z8 
+0000030 111  VBR     're                      Z5 A3+ 
+0000030 120  VVG     partnering               A9-[i38.2.1 S3.1 
+0000030 130  IW      with                     A9-[i38.2.2 Z5 
+0000030 140  PPHO2   them                     Z8mfn 
+0000030 141  ,       ,                        
+0000030 142  "       "                        
+0000030 143  NULL    </quote>                 
+0000030 144  -----   -----                    
+0000030 150  VVD     responded                S1.1.2+ Q2.2 
+0000030 160  AT      the                      Z5 
+0000030 170  NN1     NHTSA                    Z99 
+0000030 171  .       .                        
+0000032 001  NULL    <quote>                  
+0000032 002  -----   -----                    
+0000032 003  "       "                        
+0000032 010  DDQ     What                     Z8 Z5 
+0000032 020  II      about                    Z5 
+0000032 030  VVG     humming                  K2 X3.2 
+0000032 040  CC      or                       Z5 
+0000032 050  NN1     whistling                X3.2 
+0000032 051  ?       ?                        
+0000032 052  "       "                        
+0000032 053  NULL    </quote>                 
+0000034 001  NULL    <quote>                  
+0000034 002  -----   -----                    
+0000034 003  "       "                        
+0000034 010  II      Like                     Z5 
+0000034 020  DD1     that                     Z5 Z8 
+0000034 030  JJ      new                      T3- 
+0000034 040  NN1     law                      G2.1 S6+ Y1 
+0000034 050  VVZ     says                     Q2.1 
+0000034 051  ,       ,                        
+0000034 060  VV0     'Shut                    Z99 
+0000034 070  RP      Up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
+0000034 080  CC      and                      Z5 
+0000034 090  NN1     Drive                    M3 X5.2+ X8+ M3/H3 Y2 
+0000034 091  .       .                        
+0000034 092  "@      '                        
+0000034 093  "       "                        
+0000034 094  NULL    </quote>                 
+0000034 095  -----   -----                    
+0000036 010  II21    According                Z5[i39.2.1 Z5 
+0000036 020  II22    to                       Z5[i39.2.2 Z5 
+0000036 030  AT      the                      Z5 
+0000036 040  NN1     NHTSA                    Z99 
+0000036 041  ,       ,                        
+0000036 050  AT      the                      Z5 
+0000036 060  JJ      new                      T3- 
+0000036 070  NN1     legislation              G2.1 
+0000036 080  VM      will                     T1.1.3 
+0000036 090  VVI     apply                    Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+ 
+0000036 100  XX      not                      Z5[i40.2.1 Z6 
+0000036 110  RR      only                     Z5[i40.2.2 A14 
+0000036 120  II      to                       Z5 
+0000036 130  JJ      federal                  S5+ 
+0000036 131  ,       ,                        
+0000036 140  VV0     state                    Q2.1 
+0000036 141  ,       ,                        
+0000036 150  NN1     county                   M7 
+0000036 160  CC      and                      Z5 
+0000036 170  NN1     city                     M7c M7/I2.1c 
+0000036 180  NN2     roads                    M3 X4.2 
+0000036 181  ,       ,                        
+0000036 190  CCB     but                      Z5 
+0000036 200  RR      also                     N5++ 
+0000036 210  II      to                       Z5 
+0000036 220  VVG@    parking                  M2 
+0000036 230  PN      lots                     N5+ 
+0000036 231  ,       ,                        
+0000036 240  NN2     driveways                M3/H3 
+0000036 241  ,       ,                        
+0000036 250  CC      and                      Z5 
+0000036 260  JJ      bumper                   K6[i41.2.1 
+0000036 270  NN2     cars                     K6[i41.2.2 M3fn 
+0000036 271  .       .                        
+0000036 272  NULL    <quote>                  
+0000036 273  -----   -----                    
+0000036 274  "       "                        
+0000036 280  CC      And                      Z5 
+0000036 290  MD      next                     N4 
+0000036 291  ,       ,                        
+0000036 300  PPIS2   we                       Z8 
+0000036 301  VBR     're                      Z5 A3+ 
+0000036 310  VVG     going                    M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000036 320  II      after                    Z5 
+0000036 330  NN2     joggers                  K5.1/S2mf 
+0000036 331  ,       ,                        
+0000036 340  NN2     bicyclists               M3/S2mf 
+0000036 341  ,       ,                        
+0000036 350  CC      and                      Z5 
+0000036 360  NN2     pedestrians              M3/S2mf 
+0000036 370  II      in                       Z5 
+0000036 380  JJ      public                   S5+ A10+ 
+0000036 390  NN2     places                   M7 H1 A1.2 P1 
+0000036 400  II      including                A1.8+ 
+0000036 410  NN2     streets                  M3/H3 
+0000036 420  CC      and                      Z5 
+0000036 430  NN2     stores                   I2.2/H1 A9+ A9+/H1 F1 
+0000036 431  ,       ,                        
+0000036 432  "       "                        
+0000036 433  NULL    </quote>                 
+0000036 434  -----   -----                    
+0000036 440  VVD     said                     Q2.1 
+0000036 450  AT      the                      Z5 
+0000036 460  NN1     agency                   I2.2/S5+c G1.1c 
+0000036 461  .       .                        
+0000036 462  NULL    <quote>                  
+0000036 463  -----   -----                    
+0000036 464  "       "                        
+0000036 470  CS      If                       Z7 
+0000036 480  PPY     you                      Z8mf 
+0000036 490  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000036 500  TO      to                       Z5 
+0000036 510  VVI     talk                     Q2.1 
+0000036 511  ,       ,                        
+0000036 520  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000036 521  XX      n't                      Z6 
+0000036 530  VVI     move                     M2 M1 A2.1+ E1 H4/A2.1 
+0000036 531  .       .                        
+0000036 532  "       "                        
+0000036 533  NULL    </quote>                 
+0000036 534  -----   -----                    
+0000038 010  NP1     Daniel                   Z1mf[i43.3.1 Z3c[i43.3.1 Z1m Z1mf[i42.2.1 Z3c[i42.2.1 
+0000038 020  NP1     P.                       Z1mf[i43.3.2 Z3c[i43.3.2 Z1mf[i42.2.2 Z3c[i42.2.2 Z1mf[i44.2.1 Z3c[i44.2.1 
+0000038 030  NP1     Dern                     Z3c[i43.3.3 Z1mf[i43.3.3 Z1mf[i44.2.2 Z3c[i44.2.2 
+0000038 040  VHZ     has                      Z5 A9+ A2.2 S4 
+0000038 050  VBN     been                     Z5 A3+ 
+0000038 060  VVG     writing                  Q1.2 I2.1 
+0000038 070  RR      humorously               E4.1+ 
+0000038 080  CC      and                      Z5 
+0000038 090  RR      seriously                A13.3 Z4 E4.1- 
+0000038 100  II      about                    Z5 
+0000038 110  NN1     technology               Y1 
+0000038 120  IF      for                      Z5 
+0000038 130  NP1     ComputerWorld            Z99 
+0000038 140  CC      and                      S2mf[i45.2.1 Z5 
+0000038 150  JJ      other                    S2mf[i45.2.2 A6.1- 
+0000038 160  NN2     publications             Q4 
+0000038 170  IF      for                      Z5 
+0000038 180  AT1     a                        Z5 
+0000038 190  JJ      long                     T1.3+[i46.2.1 N3.7+ T1.3+ N3.3+ N3.2+ 
+0000038 200  NNT1    while                    T1.3+[i46.2.2 T1.3 
+0000038 201  ,       ,                        
+0000038 210  II      including                A1.8+ 
+0000038 220  APPGE   his                      Z8m 
+0000038 230  NN1     classic                  A4.1 Q4.1 K2 
+0000038 240  CS      If                       Z7 
+0000038 250  PPY     You                      Z8mf 
+0000038 251  VH0     've                      Z5 A9+ A2.2 
+0000038 260  VBN     Been                     A3+ Z5 
+0000038 270  JJ      Good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000038 271  ,       ,                        
+0000038 280  VV0     Press                    A1.1.1 X8+ S7.1+ E6- 
+0000038 290  PN1     One                      Z8 
+0000038 291  .       .                        
+0000041 001  NULL    **8;7;text               

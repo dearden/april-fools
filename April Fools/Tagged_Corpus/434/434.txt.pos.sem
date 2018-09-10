@@ -1,0 +1,328 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  AT      The                      Z5 
+0000002 020  NP1     Coca-Cola                Z3 
+0000002 030  NN1     Company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000002 040  VBZ     is                       A3+ Z5 
+0000002 050  AT1     a                        Z5 
+0000002 060  JJ      longtime                 T1.3++ 
+0000002 070  NN1     sponsor                  A9-/I1.1/S2mf S8+/S2mf 
+0000002 080  CC      and                      Z5 
+0000002 090  VV0     drink                    F2/B1 
+0000002 100  NN1     supplier                 I2.2/S2mfc A9-/S2mfc 
+0000002 110  II      at                       Z5 
+0000002 120  AT      the                      Z5 
+0000002 130  NP1     Disney                   Z2c[i1.2.1 Z3c Z1mf 
+0000002 140  NN1     World                    Z2c[i1.2.2 W1 S5+c A4.1 N5+ 
+0000002 150  CC      and                      Z5 
+0000002 160  NP1     Disneyland               Z2 Z3c 
+0000002 170  NN1     theme                    K1/M7c[i2.2.1 X4.1 K2 Q1.2 Q3 
+0000002 180  NN2     parks                    K1/M7c[i2.2.2 M7/L3 
+0000002 181  .       .                        
+0000002 182  -----   -----                    
+0000002 190  PPH1    It                       Z8 
+0000002 200  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 210  VBN     been                     A3+ Z5 
+0000002 220  JJ      present                  T1.1.2 A3+ 
+0000002 230  II@     since                    Z5 
+0000002 240  NP2     Disneylands              Z2 Z3c 
+0000002 250  VVG     opening                  A1.1.1 T2+ 
+0000002 260  NNT1    day                      T1.3 
+0000002 270  IO      of                       Z5 
+0000002 280  NPM1    July                     T1.3[i3.2.1 T1.3 
+0000002 290  MC      17                       T1.3[i3.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000002 291  ,       ,                        
+0000002 300  MC      1955                     N1 T1.2 T3 T1.3 N3.2 
+0000002 301  .       .                        
+0000002 302  -----   -----                    
+0000002 310  RT      Today                    T1.1.2 
+0000002 320  PPIS2   we                       Z8 
+0000002 330  VH0     have                     Z5 A9+ A2.2 S4 
+0000002 340  VVN     received                 A9+ S5+ 
+0000002 350  NN1     word                     Q3 Q2.1 S9@ 
+0000002 360  CST     that                     Z5 Z8 
+0000002 370  NP1     Disney                   Z3c Z1mf 
+0000002 380  VM      will                     T1.1.3 
+0000002 390  VBI     be                       Z5 A3+ 
+0000002 400  VVG     cancelling               T2- 
+0000002 410  DD1     that                     Z5 Z8 
+0000002 420  NN1     partnership              S5+c S4 S3.2 
+0000002 430  CC      and                      Z5 
+0000002 440  RR      instead                  A6.1- 
+0000002 450  VVG     offering                 A9- Q2.2 
+0000002 460  NP1     Pepsi                    Z3c 
+0000002 470  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000002 480  II      at                       Z5 
+0000002 490  DB      all                      N5.1+ 
+0000002 500  NP1     Disney                   Z3c Z1mf 
+0000002 510  NN1     theme                    K1/M7c[i4.2.1 X4.1 K2 Q1.2 Q3 
+0000002 520  NN2     parks                    K1/M7c[i4.2.2 M7/L3 
+0000002 530  VVG     starting                 T2+ E5- E3- 
+0000002 540  NPM1    July                     T1.3[i5.2.1 T1.3 
+0000002 550  MD      4th                      T1.3[i5.2.2 N4 
+0000002 551  ,       ,                        
+0000002 560  MC      2015                     N1 T1.2 T3 T1.3 N3.2 
+0000002 561  ,       ,                        
+0000002 570  TO      to                       Z5 
+0000002 580  VVI     coincide                 T1.1.2 A6.1+ 
+0000002 590  IW      with                     Z5 
+0000002 600  AT      the                      Z5 
+0000002 610  MD      50th                     N4 T1.3 
+0000002 620  NN1     Birthday                 T1.2/T3 
+0000002 630  IO      of                       Z5 
+0000002 640  NP1     Pepsi                    Z3c 
+0000002 641  !       !                        
+0000003 001  -----   -----                    
+0000004 010  JJ      Frito-Lay                Z99 
+0000004 020  DDQ     which                    Z8 Z5 
+0000004 030  VBZ     is                       Z5 A3+ 
+0000004 040  VVN     owned                    A9+ 
+0000004 050  II      by                       Z5 
+0000004 060  NP1     Pepsi                    Z3c 
+0000004 070  VBZ     is                       A3+ Z5 
+0000004 080  JJ      available                A3+ A9+ A1.2+/G1.2 S4 
+0000004 090  II      at                       Z5 
+0000004 100  DB      all                      N5.1+ 
+0000004 110  NP1     Disney                   Z3c Z1mf 
+0000004 120  NN1     theme                    K1/M7c[i6.2.1 X4.1 K2 Q1.2 Q3 
+0000004 130  NN2     parks                    K1/M7c[i6.2.2 M7/L3 
+0000004 140  CC      and                      Z5 
+0000004 150  PPH1    it                       Z8 
+0000004 160  VVZ     makes                    X2.5+[i7.2.1 S1.2.6+[i7.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000004 170  JJ      logical                  X2.1 S1.2.6+ A1.6 
+0000004 180  NN1     sense                    X2.5+[i7.2.2 S1.2.6+[i7.2.2 A4.1 Q3 X3 S1.2.6+ E1 X2.1 X9.1+ A8 
+0000004 190  TO      to                       Z5 
+0000004 200  VVI     extend                   N3.3 T1.3 A1.7- N3.2+/A2.1 N5+/A2.1 T1.3+/A2.1 A9- 
+0000004 210  APPGE   their                    Z8 
+0000004 220  JJ      previous                 N4 
+0000004 230  NN1     contract                 I2.1 G2.1 
+0000004 240  NN1     agreement                A6.1+ Q2.2 
+0000004 250  IW      with                     Z5 
+0000004 260  NP1     Pepsi                    Z3c 
+0000004 270  TO      to                       Z5 
+0000004 280  VVI     include                  A1.8+ 
+0000004 290  JJ      soft                     F2[i8.2.1 O4.5 X3.2- O4.3 O4.1 S1.2.5- A12+ 
+0000004 300  NN2     drinks                   F2[i8.2.2 F2 
+0000004 310  RR21    as                       N5++[i9.2.1 
+0000004 320  RR22    well                     N5++[i9.2.2 A5.1+ A13.3 A7+ B2+ Z4 
+0000004 321  .       .                        
+0000005 001  -----   -----                    
+0000006 010  PPIS2   We                       Z8 
+0000006 020  VH0     have                     Z5 A9+ A2.2 S4 
+0000006 030  RR      only                     A14 
+0000006 040  VBN     been                     Z5 A3+ 
+0000006 050  VVN     given                    A9- A1.1.1 
+0000006 060  JJ      limited                  N5- I2.1 A1.7+ 
+0000006 070  NN2     details                  A4.2+ S5+c B5 
+0000006 080  II      on                       Z5 
+0000006 090  AT      the                      Z5 
+0000006 100  NN2     changes                  A2.1+ I1 B1 
+0000006 110  VVG     coming                   A4.1[i10.2.1 M1[i10.2.1 B1[i10.2.1 N5[i10.2.1 X6+[i10.2.1 X2.1[i10.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000006 120  II      to                       A4.1[i10.2.2 M1[i10.2.2 B1[i10.2.2 N5[i10.2.2 X6+[i10.2.2 X2.1[i10.2.2 Z5 
+0000006 130  AT      the                      Z5 
+0000006 140  NN2     parks                    M7/L3 
+0000006 150  II      over                     Z5 
+0000006 160  AT      the                      Z5 
+0000006 170  MD      next                     T1.1.3[i11.3.1 N4 
+0000006 180  DA2     few                      T1.1.3[i11.3.2 N5- 
+0000006 190  NNT2    months                   T1.1.3[i11.3.3 T1.3 
+0000006 200  CCB     but                      Z5 
+0000006 210  PPIS1   I                        Z8mf 
+0000006 220  VBM     am                       A3+ Z5 
+0000006 230  JJ      sure                     A7+ Z4 
+0000006 240  EX      there                    Z5 
+0000006 250  VM      will                     T1.1.3 
+0000006 260  VBI     be                       A3+ Z5 
+0000006 270  AT1     an                       Z5 
+0000006 280  JJ      official                 G1.1 S7.4+ 
+0000006 290  NN1     release                  A1.7- A9- I2.2 K3 Q4 E6+ 
+0000006 300  VVD     posted                   Q1.2 M2 I3.1 
+0000006 310  RT      today                    T1.1.2 
+0000006 320  NPM1    April                    T1.3[i12.2.1 T1.3 
+0000006 330  MD      1st                      T1.3[i12.2.2 N4 T1.3 
+0000006 331  .       .                        
+0000007 001  -----   -----                    
+0000008 010  RL      Here                     M6 T1.1.2 T1.2 
+0000008 020  VBR     are                      A3+ Z5 
+0000008 030  DD      some                     N5 Z5 
+0000008 040  IO      of                       Z5 
+0000008 050  AT      the                      Z5 
+0000008 060  NN2     changes                  A2.1+ I1 B1 
+0000008 070  VVG     happening                A2.1+ A3+ X7- 
+0000008 071  :       :                        
+0000010 010  NN1     Club                     S5+c O2 
+0000010 020  NN1@    Cool                     O4.6- 
+0000010 030  II      at                       Z5 
+0000010 040  NP1     Walt                     Z1m[i14.2.1 Z3c[i14.2.1 Z1m Z1mf[i13.2.1 Z3c[i13.2.1 
+0000010 050  NP1     Disney                   Z1m[i14.2.2 Z3c[i14.2.2 Z3c Z1mf Z1mf[i13.2.2 Z3c[i13.2.2 Z2c[i15.2.1 
+0000010 060  NN1     World                    W1 S5+c A4.1 N5+ Z2c[i15.2.2 
+0000010 070  VM      will                     T1.1.3 
+0000010 080  VBI     be                       Z5 A3+ 
+0000010 090  VVG     changing                 A2.1+ I1 B5 
+0000010 100  II      from                     Z5 
+0000010 110  NN1     Coke                     Z3 
+0000010 120  VVZ     flavors                  X3.1 F1 
+0000010 130  II      from                     Z5 
+0000010 140  II      around                   Z5 
+0000010 150  AT      the                      Z5 
+0000010 160  NN1     world                    W1 S5+c A4.1 N5+ 
+0000010 170  II      to                       Z5 
+0000010 180  NN1     Mountain                 W3 
+0000010 190  NN2     Dews                     O1.2/W4 
+0000010 200  NN1     Refreshment              B2+ F2 A2.1+ A5.1+/A2.1 
+0000010 210  NN1     Corner                   O4.4 M6 K5.1 
+0000010 211  .       .                        
+0000010 212  -----   -----                    
+0000010 220  RL      Here                     M6 T1.1.2 T1.2 
+0000010 230  PPY     you                      Z8mf 
+0000010 240  VM      will                     T1.1.3 
+0000010 250  VHI     have                     A9+ Z5 A2.2 S4 
+0000010 260  AT      the                      Z5 
+0000010 270  NN1     opportunity              A1.4 
+0000010 280  TO      to                       Z5 
+0000010 290  VVI     try                      X8+ X2.4 Q2.2 G2.1 A12- 
+0000010 300  DB      all                      N5.1+ 
+0000010 310  AT      the                      Z5 
+0000010 320  NN2     flavors                  X3.1 O4.1 
+0000010 330  IO      of                       Z5 
+0000010 340  NN1     Mountain                 W3 
+0000010 350  NN1     Dew                      O1.2/W4 
+0000010 360  II      including                A1.8+ 
+0000010 361  :       :                        
+0000012 010  VV0@    Code                     A10-/Q1.1 A4.1 Y2@ B1% 
+0000012 020  JJ      Red                      O4.3 G1.2 
+0000013 010  JJ      Live                     Z3c[i16.2.1 L1+ A3+ Q4.3 K2/K3 K1 O3 G3 X9.1+/S2mf[i17.2.1 
+0000013 020  NN1     Wire                     Z3c[i16.2.2 O2 O3 Q1.3 X9.1+/S2mf[i17.2.2 
+0000014 010  NN1     Voltage                  O3 
+0000015 010  NP1     Throwback                Z1mf[i18.2.1 Z3c[i18.2.1 
+0000016 010  NP1     White                    Z1mf[i18.2.2 Z3c[i18.2.2 Z1mf W4[i19.2.1 
+0000016 020  RP      Out                      M6 W4[i19.2.2 
+0000017 010  NP1     Johnson                  Z1mf[i22.3.1 Z3c[i22.3.1 Z1mf Z2[i20.2.1 Z3c[i20.2.1 Z1mf[i21.2.1 Z3c[i21.2.1 
+0000017 020  NN1     City                     Z1mf[i22.3.2 Z3c[i22.3.2 M7/I2.1c Z3c Z2[i20.2.2 Z3c[i20.2.2 Z1mf[i21.2.2 Z3c[i21.2.2 Z1mf[i23.2.1 Z3c[i23.2.1 
+0000017 030  NN1     Gold                     Z3c[i22.3.3 Z1mf[i22.3.3 Z3 Z1mf[i23.2.2 Z3c[i23.2.2 
+0000018 010  NN1     Game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000018 020  NN1     Fuel                     O1 
+0000018 030  NN1     Citrus                   Z99 
+0000018 040  NP1     Cherry                   Z1mf 
+0000019 010  NN1     Game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000019 020  NN1     Fuel                     O1 
+0000019 030  NN1     Lemonade                 F2 
+0000020 010  FW      Baja                     Z99 
+0000020 020  NN1     Blast                    A1.1.1 X3.2 
+0000021 010  CC      and                      Z5 
+0000021 020  JJ      Solar                    Z3fn 
+0000021 030  NN1     Flare                    G3 
+0000023 010  NN1     Refreshment              B2+ F2 A2.1+ A5.1+/A2.1 
+0000023 020  NN1     Corner                   O4.4 M6 K5.1 
+0000023 030  II      at                       Z5 
+0000023 040  NP1     Disneyland               Z2 Z3c 
+0000023 050  VM      will                     T1.1.3 
+0000023 060  VBI     be                       Z5 A3+ 
+0000023 070  VVN     changed                  A2.1+ I1 B5 
+0000023 080  II      to                       Z5 
+0000023 090  NN1     Club                     S5+c O2 
+0000023 100  NN1@    Cold                     B2- O4.6- 
+0000023 110  VVN     sponsored                A9-/I1.1 S8+ 
+0000023 120  II      by                       Z5 
+0000023 130  NP1     Pepsi                    Z3c 
+0000023 131  .       .                        
+0000023 132  -----   -----                    
+0000023 140  RL      Here                     M6 T1.1.2 T1.2 
+0000023 150  PPY     you                      Z8mf 
+0000023 160  VM      can                      A7+ 
+0000023 170  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000023 180  AT1     a                        Z5 
+0000023 190  NN1     break                    K1/T1.3 T2- O2 A1.4 A1.1.2 
+0000023 200  II      on                       Z5 
+0000023 210  AT      the                      Z5 
+0000023 220  JJ      shaded                   O4.3 A10- 
+0000023 230  NN1     patio                    H3 
+0000023 240  CC      and                      Z5 
+0000023 250  VV0     listen                   X3.2 
+0000023 260  II      to                       Z5 
+0000023 270  AT      the                      Z5 
+0000023 280  JJ      tinkling                 Z99 
+0000023 290  NN2     ivories                  O1.1 O4.3 
+0000023 300  IO      of                       Z5 
+0000023 310  NP2     Disneys                  Z3c Z1mf 
+0000023 320  NNT1    ragtime                  Z99 
+0000023 330  NN1     piano                    K2 
+0000023 340  NN1     player                   K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000023 341  .       .                        
+0000023 342  -----   -----                    
+0000023 350  VV0     Enjoy                    E2+ A9+ E4.1+ 
+0000023 360  JJ      crowd-pleasing           E2+ S5+ 
+0000023 370  JJ      American                 Z2 
+0000023 380  NN2     classics                 A4.1 Q4.1 K2 
+0000023 390  II      like                     Z5 
+0000023 400  JJ      hot                      F1[i24.2.1 O4.6+ X9.1+ O4.2+ X5.2+ G2.1- A12- S7.3+ E6- A7+++ 
+0000023 410  NN2     dogs                     F1[i24.2.2 L2mfn 
+0000023 411  ,       ,                        
+0000023 420  VV0     sourdough                Z99 
+0000023 430  NN1     chili                    Z99 
+0000023 440  NN2     bowls                    O2 K5.1 
+0000023 441  ,       ,                        
+0000023 450  JJ      soft                     O4.5 X3.2- O4.3 O4.1 S1.2.5- A12+ 
+0000023 460  NN2     pretzels                 Z99 
+0000023 461  ,       ,                        
+0000023 470  NN2     desserts                 F1 
+0000023 480  CC      and                      Z5 
+0000023 490  NP1     Pepsi                    Z3c 
+0000023 500  NN1     fountain                 H1 N5 A2.2 
+0000023 510  NN2     drinks                   F2 
+0000023 511  .       .                        
+0000024 001  -----   -----                    
+0000025 010  II      Over                     Z5 
+0000025 020  AT      the                      Z5 
+0000025 030  MD      next                     T1.1.3[i25.3.1 N4 
+0000025 040  DA2     few                      T1.1.3[i25.3.2 N5- 
+0000025 050  NNT2    months                   T1.1.3[i25.3.3 T1.3 
+0000025 060  NP1     Disney                   Z3c Z1mf 
+0000025 070  NN2     Addicts                  X5.2++/S2mf F3/S2mf F3 X5.2++ 
+0000025 080  VM      will                     T1.1.3 
+0000025 090  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000025 100  NN1     Coke                     Z3 
+0000025 110  NN2     signs                    Q1.1 A6.2+ X4.1 Q1.2 O4.1 S9 B2 M2 K2 
+0000025 120  VVG     coming                   N5-/A2.1[i26.2.1 M1[i26.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000025 130  RP      down                     N5-/A2.1[i26.2.2 M1[i26.2.2 
+0000025 140  II      from                     Z5 
+0000025 150  DB      all                      N5.1+ 
+0000025 160  NN1     theme                    K1/M7c[i27.2.1 X4.1 K2 Q1.2 Q3 
+0000025 170  NN2     parks                    K1/M7c[i27.2.2 M7/L3 
+0000025 180  CC      and                      Z5 
+0000025 190  VVN     replaced                 A2.1+ M2 
+0000025 200  IW      with                     Z5 
+0000025 210  NP1     Pepsi                    Z3c 
+0000025 220  NN1     signage                  Q1.2 
+0000025 221  .       .                        
+0000025 222  -----   -----                    
+0000025 230  CSA     As                       Z5 
+0000025 240  PPIS2   we                       Z8 
+0000025 250  VV0     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000025 260  DAR     more                     N5++ 
+0000025 270  NN2     details                  A4.2+ S5+c B5 
+0000025 280  PPIS2   we                       Z8 
+0000025 290  VM      will                     T1.1.3 
+0000025 300  II@     post                     Q1.2 O2 I3.1 M6 M2 
+0000025 310  PPHO2   them                     Z8mfn 
+0000025 311  .       .                        
+0000026 001  -----   -----                    
+0000027 010  VBR     Are                      Z5 A3+ 
+0000027 020  PPY     you                      Z8mf 
+0000027 030  VVN     excited                  X5.2+ 
+0000027 040  TO      to                       Z5 
+0000027 050  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000027 060  AT      the                      Z5 
+0000027 070  NN1     change                   A2.1+ I1 B1 
+0000027 071  ?       ?                        
+0000027 072  -----   -----                    
+0000027 080  VV0     Let                      Q2.1[i28.2.1 S7.4+ I2.2/H1 T2- 
+0000027 090  PPIO2   us                       Z8 
+0000027 100  VVI     know                     Q2.1[i28.2.2 X2.2+ S3.2/B1% 
+0000027 110  II      in                       Z5 
+0000027 120  AT      the                      Z5 
+0000027 130  NN1     comment                  Q2.1 
+0000027 140  NN1     box                      O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ 
+0000027 150  RL      below                    M6 
+0000027 151  !       !                        
+0000030 001  NULL    **8;7;text               

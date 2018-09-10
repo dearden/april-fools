@@ -1,0 +1,491 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN1     Labor                    A1.1.1 A12- I3.1/S5+ B1 
+0000002 020  NN1     Secretary                I3.2/S2mf S7.1+/S2mf 
+0000002 030  NP1     Tom                      Z1mf[i1.2.1 Z3c[i1.2.1 Z1m 
+0000002 040  NP1     Perez                    Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 050  VVD@    called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000002 060  JJ      presidential             G1.1/S7.1+ 
+0000002 070  NN1     transition               A2.1+ 
+0000002 080  NN2     questions                Q2.2 X4.1 
+0000002 090  VVN     sent                     M2 A2.2 
+0000002 100  II      to                       Z5 
+0000002 110  NN1     government               G1.1c 
+0000002 120  NN2     agencies                 I2.2/S5+c G1.1c 
+0000002 130  II      like                     Z5 
+0000002 140  AT      the                      Z5 
+0000002 150  NN1     Energy                   X5.2+/S5+c[i2.2.1 X5.2+ Y1 
+0000002 160  NN1     department               X5.2+/S5+c[i2.2.2 H2/S5+c X2.2 
+0000002 161  ,       ,                        
+0000002 170  VVG     seeking                  X2.4 
+0000002 180  TO      to                       Z5 
+0000002 190  VVI     identify                 X2.2+ A10+ X2.5+ 
+0000002 200  NN2     employees                I3.1/S2mf 
+0000002 210  PNQS    who                      Z8 
+0000002 220  VVD     worked                   I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000002 230  II      on                       Z5 
+0000002 240  NN1     climate                  W4 A1.1.1 E1 
+0000002 250  NN1     change                   A2.1+ I1 B1 
+0000002 251  ,       ,                        
+0000002 260  II      against                  G2.1-[i3.3.1 Z5 
+0000002 270  AT      the                      G2.1-[i3.3.2 Z5 
+0000002 280  NN1     law                      G2.1-[i3.3.3 G2.1 S6+ Y1 
+0000002 281  .       .                        
+0000003 001  -----   -----                    
+0000004 010  DD2     Those                    Z5 Z8 
+0000004 020  NN2     questions                Q2.2 X4.1 
+0000004 030  VH0     have                     A9+ Z5 A2.2 S4 
+0000004 040  AT      no                       Z6 
+0000004 050  NN1     place                    M7 H1 A1.2 P1 
+0000004 060  II      in                       Z5 
+0000004 070  AT1     a                        Z5 
+0000004 080  NN1     transition               A2.1+ 
+0000004 081  ,       ,                        
+0000004 090  NP1     Perez                    Z99 
+0000004 100  VVD     said                     Q2.1 
+0000004 101  .       .                        
+0000004 102  -----   -----                    
+0000004 110  DD1     That                     Z8 Z5 
+0000004 120  VBZ     is                       A3+ Z5 
+0000004 130  JJ      illegal                  G2.1- 
+0000004 131  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NP1     DNC                      Z99 
+0000006 020  VVZ     prepares                 A1.1.1 F1 
+0000006 030  TO      to                       Z5 
+0000006 040  VVI     pick                     X7+ A1.1.1 
+0000006 050  APPGE   its                      Z8 
+0000006 060  MD      next                     N4 
+0000006 070  NN1     leader                   S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000007 010  MD      Last                     T1.1.1[i4.2.1 N4 
+0000007 020  NNT1    week                     T1.1.1[i4.2.2 T1.3 
+0000007 021  ,       ,                        
+0000007 030  NNB     President-elect          G1.1/S7.1+/S2mf 
+0000007 040  VVZ     Trumps                   K5.2 
+0000007 050  NN1     transition               A2.1+ 
+0000007 060  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000007 070  VVD     sent                     M2 A2.2 
+0000007 080  AT      the                      Z5 
+0000007 090  NN1     State                    G1.1/S5+c[i5.2.1 G1.1c O4.1 
+0000007 100  NN1     Department               G1.1/S5+c[i5.2.2 H2/S5+c X2.2 
+0000007 110  AT1     a                        Z5 
+0000007 120  NN1     memo                     Q1.2 
+0000007 130  VVG     requesting               Q2.2 Q2.1 
+0000007 140  NN1     information              X2.2+ 
+0000007 150  II      on                       Z5 
+0000007 160  APPGE   its                      Z8 
+0000007 170  JJ      gender-related           Z99 
+0000007 180  NN1     staffing                 I3.1 
+0000007 181  ,       ,                        
+0000007 190  VVG     programming              Y2 P1 
+0000007 191  ,       ,                        
+0000007 200  CC      and                      Z5 
+0000007 210  NN1     funding                  I1.1 
+0000007 211  .       .                        
+0000007 212  -----   -----                    
+0000007 220  RR      However                  Z4 
+0000007 221  ,       ,                        
+0000007 230  AT      the                      Z5 
+0000007 240  NN1     document                 Q1.2 X2.2+ Y2 
+0000007 250  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000007 260  XX      not                      Z6 
+0000007 270  VVI     request                  Q2.2 Q2.1 
+0000007 280  JJ      specific                 A4.2+ 
+0000007 290  NN2     names                    Q2.2 
+0000007 300  IO      of                       Z5 
+0000007 310  NN2     employees                I3.1/S2mf 
+0000007 320  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000007 330  II      on                       Z5 
+0000007 340  DD2     those                    Z5 Z8 
+0000007 350  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000007 351  .       .                        
+0000008 001  -----   -----                    
+0000009 010  NP1@    Will                     Z1m 
+0000009 020  JJ      dedicated                X5.2+ A4.2+ 
+0000009 030  NN1     career                   I3.1 
+0000009 040  NN      people                   S2mfc 
+0000009 050  VBI     be                       Z5 A3+ 
+0000009 060  VVN     targeted                 X7+ 
+0000009 070  CS      because                  Z5/A2.2 
+0000009 080  PPHS2   they                     Z8mfn 
+0000009 090  VBDR    were                     Z5 A3+ 
+0000009 100  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000009 110  AT      the                      Z5 
+0000009 120  JJ      right                    A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 
+0000009 130  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
+0000009 131  ?       ?                        
+0000009 132  -----   -----                    
+0000009 140  NP1     Perez                    Z99 
+0000009 150  VVD     said                     Q2.1 
+0000009 151  .       .                        
+0000010 001  -----   -----                    
+0000011 010  PPHS1   He                       Z8m 
+0000011 020  VVD     said                     Q2.1 
+0000011 030  PPHS1   he                       Z8m 
+0000011 040  VV0     isnt                     Z99 
+0000011 050  JJ      aware                    X2.2+ 
+0000011 060  IO      of                       Z5 
+0000011 070  DD      any                      N5.1+ N5 
+0000011 080  JJ      similar                  A6.1+ 
+0000011 090  NN1     blanket                  H5 O2 N5.2+ 
+0000011 100  NN2     questions                Q2.2 X4.1 
+0000011 110  VVN     posed                    O4.1/B1 S1.2.3+ A5.4- Q2.2 A2.2+ 
+0000011 120  II      to                       Z5 
+0000011 130  AT      the                      Z5 
+0000011 140  NN1     Labor                    A1.1.1/S5+c[i6.2.1 A1.1.1 A12- I3.1/S5+ B1 
+0000011 150  NN1     Department               A1.1.1/S5+c[i6.2.2 H2/S5+c X2.2 
+0000011 151  .       .                        
+0000012 001  -----   -----                    
+0000013 010  AT      The                      Z5 
+0000013 020  NN2     president-elects         G1.1/S7.1+/S2mf 
+0000013 030  NN1     transition               A2.1+ 
+0000013 040  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000013 050  VVN     responded                S1.1.2+ Q2.2 
+0000013 060  II      to                       Z5 
+0000013 070  NP2     Perezs                   Z99 
+0000013 080  NN2     comments                 Q2.1 
+0000013 090  II      in                       Z5 
+0000013 100  NN1     statement                Q2.1 I1/Q1.2 
+0000013 110  VVG     saying                   Q2.1 Z4% 
+0000013 120  AT      the                      Z5 
+0000013 130  NN1     transition               A2.1+ 
+0000013 140  VHZ     has                      A9+ Z5 A2.2 S4 
+0000013 150  AT1     a                        Z5 
+0000013 160  NN1     memorandum               Q1.2 
+0000013 170  IO      of                       Z5 
+0000013 180  VVG     understanding            X2.5+ 
+0000013 190  II      in                       M6[i7.2.1 Z5 
+0000013 200  NN1     place                    M6[i7.2.2 M7 H1 A1.2 P1 
+0000013 210  IW      with                     Z5 
+0000013 220  AT      the                      Z5 
+0000013 230  NN1     administration           S7.1+c A9- 
+0000013 231  ,       ,                        
+0000013 240  CC      and                      Z5 
+0000013 250  PPIS2   we                       Z8 
+0000013 260  VV0     continue                 T2++ 
+0000013 270  TO      to                       Z5 
+0000013 280  VVI     uphold                   S8+ 
+0000013 290  DB2     both                     N5 
+0000013 300  IO      of                       Z5 
+0000013 310  APPGE   our                      Z8 
+0000013 320  NN2     ends                     T2- O2 
+0000013 330  II      in                       Z5 
+0000013 340  DD1     this                     M6 Z5 Z8 
+0000013 350  NN1     agreement                A6.1+ Q2.2 
+0000013 351  .       .                        
+0000014 001  -----   -----                    
+0000015 010  NNB     President-elect          G1.1/S7.1+/S2mf 
+0000015 020  NN1     Trump                    Z1mf 
+0000015 030  VHZ     has                      Z5 A9+ A2.2 S4 
+0000015 040  VVN     nominated                X7+/Q2.2 
+0000015 050  NN1     businessman              I2.1/S2.2m 
+0000015 060  NP1     Andy                     Z1mf[i8.2.1 Z3c[i8.2.1 Z1m 
+0000015 070  NP1     Puzder                   Z1mf[i8.2.2 Z3c[i8.2.2 
+0000015 080  TO      to                       Z5 
+0000015 090  VVI     replace                  A2.1+ M2 
+0000015 100  NP1     Perez                    Z99 
+0000015 110  II      as                       Z5 
+0000015 120  NN1     head                     B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
+0000015 130  IO      of                       Z5 
+0000015 140  AT      the                      Z5 
+0000015 150  NN1     Labor                    A1.1.1/S5+c[i9.2.1 A1.1.1 A12- I3.1/S5+ B1 
+0000015 160  NN1     Department               A1.1.1/S5+c[i9.2.2 H2/S5+c X2.2 
+0000015 161  .       .                        
+0000015 162  -----   -----                    
+0000015 170  NN1     Puzder                   Z99 
+0000015 180  VBZ     is                       A3+ Z5 
+0000015 190  NN1     CEO                      S7.1+/S2mf 
+0000015 200  IO      of                       Z5 
+0000015 210  NN1     CKE                      Z99 
+0000015 220  NN2     restaurants              F1/H1 
+0000015 230  DDQ     which                    Z8 Z5 
+0000015 240  VVZ     owns                     A9+ 
+0000015 250  AT      the                      Z5 
+0000015 260  JJ      fast                     F1[i10.2.1 N3.8+ 
+0000015 270  NN1     food                     F1[i10.2.2 F1 
+0000015 280  NN2     chains                   S5+/I2.1c O2 N4 B5 S7.1 
+0000015 290  NN2     Hardees                  Z99 
+0000015 300  CC      and                      Z5 
+0000015 310  NP1     Carls                    Z1m 
+0000015 320  NNA     Jr                       Z3 
+0000015 321  .       .                        
+0000015 322  -----   -----                    
+0000015 330  PPHS1   He                       Z8m 
+0000015 340  VHZ     has                      Z5 A9+ A2.2 S4 
+0000015 350  VVN     argued                   Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 
+0000015 360  II      against                  Z5 
+0000015 370  VVG     raising                  M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 
+0000015 380  AT      the                      Z5 
+0000015 390  JJ      minimum                  N5--- 
+0000015 400  NN1     wage                     I1.1/I3.1 
+0000015 401  .       .                        
+0000016 001  -----   -----                    
+0000017 010  NP1     Perez                    Z99 
+0000017 020  VBZ     is                       Z5 A3+ 
+0000017 030  RT      now                      T1.1.2 Z4 
+0000017 040  VVG     running                  M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000017 050  IF      for                      Z5 
+0000017 060  NN1     Chair                    H5 S7.1+mf P1 
+0000017 070  IO      of                       Z5 
+0000017 080  AT      the                      Z5 
+0000017 090  JJ      Democratic               G1.2 
+0000017 100  JJ      National                 Z3c 
+0000017 110  NN1     Committee                S7.1+/S5+c 
+0000017 111  .       .                        
+0000017 112  -----   -----                    
+0000017 120  PPHS1   He                       Z8m 
+0000017 130  VVD     criticized               Q2.2/E2- 
+0000017 140  AT      the                      Z5 
+0000017 150  JJ      Democratic               G1.2 
+0000017 160  NN1     Party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000017 170  IF      for                      Z5 
+0000017 180  VVG     neglecting               A1.9 
+0000017 190  NN1     Rust                     O1.1 
+0000017 200  NN1     Belt                     B5 O2 W3 E3- K5.1 
+0000017 210  NN2     states                   G1.1c O4.1 
+0000017 211  ,       ,                        
+0000017 220  CS      where                    M6 
+0000017 230  NNB     Mr.                      Z1m[i11.2.1 S2.2m 
+0000017 240  NP1     Trump                    Z1m[i11.2.2 Z1mf 
+0000017 250  VVD     trounced                 Z99 
+0000017 260  NP1     Hillary                  Z1mf[i12.2.1 Z3c[i12.2.1 
+0000017 270  NP1     Clinton                  Z1mf[i12.2.2 Z3c[i12.2.2 Z1mf 
+0000017 271  .       .                        
+0000018 001  -----   -----                    
+0000019 010  VVG     Organizing               S7.1+ O4.1 S5+@ 
+0000019 020  NN1     cant                     Q2.1 
+0000019 030  VV0     consist                  A1.8+ 
+0000019 040  IO      of                       Z5 
+0000019 050  VVG     going                    M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000019 060  II      to                       Z5 
+0000019 070  AT1     a                        Z5 
+0000019 080  NN1     church                   S9/H1c S9c 
+0000019 090  AT1     every                    N6+[i13.3.1 N5.1+ 
+0000019 100  MC      four                     N6+[i13.3.2 N1 T3 T1.2 
+0000019 110  NNT2    years                    N6+[i13.3.3 T1.3 
+0000019 120  II      in                       Z5 
+0000019 130  NPM1    October                  T1.3 
+0000019 140  CC      and                      Z5 
+0000019 150  VVG     saying                   Q2.1 Z4% 
+0000019 160  NN1     vote                     G1.2 
+0000019 170  IF      for                      Z5 
+0000019 180  PPIO1   me                       Z8mf 
+0000019 181  ,       ,                        
+0000019 190  NP1     Perez                    Z99 
+0000019 200  VVD     said                     Q2.1 
+0000019 201  .       .                        
+0000020 001  -----   -----                    
+0000021 010  NNB     President                G1.1/S7.1+/S2mf 
+0000021 020  NP1     Obama                    Z99 
+0000021 030  VVD     nominated                X7+/Q2.2 
+0000021 040  NP1     Perez                    Z99 
+0000021 050  CSA     as                       Z5 
+0000021 060  NN1     Labor                    A1.1.1 A12- I3.1/S5+ B1 
+0000021 070  NN1     Secretary                I3.2/S2mf S7.1+/S2mf 
+0000021 080  II      in                       Z5 
+0000021 090  MC      2013                     N1 T1.2 T3 T1.3 N3.2 
+0000021 091  .       .                        
+0000021 092  -----   -----                    
+0000021 100  NP1     Perez                    Z99 
+0000021 110  VVD     championed               S8+ 
+0000021 120  NNB     Mr.                      Z1m[i15.2.1 S2.2m Z1m[i14.2.1 
+0000021 130  NP1     Obamas                   Z1m[i15.2.2 Z1m[i14.2.2 
+0000021 140  NN2     efforts                  X8+ O2 
+0000021 150  TO      to                       Z5 
+0000021 160  VVI     expand                   N3.2+/A2.1 Q2.2/N5++ A4.2-/A2.1 
+0000021 170  RR      overtime                 I3.1/T1.3+ 
+0000021 180  VV0     pay                      I1.2 A9- I1.1/I3.1 
+0000021 190  II      to                       Z5 
+0000021 200  NNO2    millions                 N1 N5+ I1 
+0000021 210  IO      of                       Z5 
+0000021 220  NN2     Americans                Z2/S2mf 
+0000021 221  .       .                        
+0000021 222  -----   -----                    
+0000021 230  ZZ1     A                        Z5 
+0000021 240  NP1     Texas                    Z2 Z3c 
+0000021 250  NN1     judge                    G2.1/I3.2/S2mf X6/S2mf 
+0000021 260  VVD     blocked                  A10- S8- K4% 
+0000021 270  AT1     a                        Z5 
+0000021 280  NN1     Labor                    A1.1.1/S5+c[i16.2.1 A1.1.1 A12- I3.1/S5+ B1 
+0000021 290  NN1     Department               A1.1.1/S5+c[i16.2.2 H2/S5+c X2.2 
+0000021 300  NN1     rule                     G2.1 X4.2 A6.2+ S7.1+ Q3 
+0000021 310  VVG     expanding                N3.2+/A2.1 Q2.2/N5++ A4.2-/A2.1 
+0000021 320  RR      overtime                 I3.1/T1.3+ 
+0000021 330  II      in                       Z5 
+0000021 340  NPM1    November                 T1.3 
+0000021 341  .       .                        
+0000021 342  -----   -----                    
+0000021 350  CCB     But                      Z5 
+0000021 360  NP1     Perez                    Z99 
+0000021 370  VBZ     is                       A3+ Z5 
+0000021 380  JJ      promising                A7+/X9 
+0000021 390  TO      to                       Z5 
+0000021 400  VVI     focus                    X5.1+ X3.4 A4.2+ 
+0000021 410  II      on                       Z5 
+0000021 420  JJ      similar                  A6.1+ 
+0000021 430  NN2     efforts                  X8+ O2 
+0000021 440  CS      if                       Z7 
+0000021 450  VVN     elected                  G1.2/X7+ 
+0000021 460  NP1     DNC                      Z99 
+0000021 470  NN1     Chair                    H5 S7.1+mf P1 
+0000021 471  .       .                        
+0000022 001  -----   -----                    
+0000023 010  PPY     You                      Z8mf 
+0000023 020  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000023 021  XX      nt                       S9/Q4.1 Z3c 
+0000023 030  VHI     have                     S6+[i17.2.1 A9+ Z5 A2.2 S4 
+0000023 040  TO      to                       S6+[i17.2.2 Z5 
+0000023 050  VVI     lower                    M2 N5-/A2.1 S7.1-/A2.1 A11.1-/A2.1 X3.2-/A2.1 
+0000023 060  NN2     wages                    I1.1/I3.1 
+0000023 070  BCL21   in                       Z5[i18.3.1 Z5[i19.2.1 
+0000023 080  BCL22   order                    Z5[i18.3.2 Z5[i19.2.2 
+0000023 090  TO      to                       Z5[i18.3.3 Z5 
+0000023 100  VVI     move                     M2 M1 A2.1+ E1 H4/A2.1 
+0000023 110  RL      forward                  M6 T1.1.3 
+0000023 111  .       .                        
+0000023 112  -----   -----                    
+0000023 120  PPY     You                      Z8mf 
+0000023 130  VM      can                      A7+ 
+0000023 140  VVI     lift                     M2 A5.1+/A2.1 E4.1+/A2.1 G2.1 
+0000023 150  NN2     wages                    I1.1/I3.1 
+0000023 160  CC      and                      Z5 
+0000023 170  VVI     lift                     M2 A5.1+/A2.1 E4.1+/A2.1 G2.1 
+0000023 180  NN1     prosperity               I1.1+ 
+0000023 190  IF      for                      Z5 
+0000023 200  PN1     everybody                Z8/N5.1+c 
+0000023 201  .       .                        
+0000024 001  -----   -----                    
+0000025 010  NP1     Perez                    Z99 
+0000025 020  VVZ     faces                    M6 S1.1.1 X2.1 B5 
+0000025 030  NP1     Minnesota                Z2 
+0000025 040  NN1     Congressman              G1.2/S2.2m 
+0000025 050  NP1     Keith                    Z1mf[i20.2.1 Z3c[i20.2.1 Z1mf 
+0000025 060  NP1     Ellisona                 Z1mf[i20.2.2 Z3c[i20.2.2 
+0000025 070  NN1     favorite                 E2+++ 
+0000025 080  IO      of                       Z5 
+0000025 090  DD      some                     N5 Z5 
+0000025 100  NN2     progressives             G1.2/S2mf Q3 
+0000025 101  ,       ,                        
+0000025 110  II      including                A1.8+ 
+0000025 120  NP1     Massachusetts            Z2 Z3c 
+0000025 130  NNA     Sen.                     B3/S2mf 
+0000025 140  NP1     Elizabeth                Z1mf[i21.2.1 Z3c[i21.2.1 Z1f 
+0000025 150  NP1     Warren                   Z1mf[i21.2.2 Z3c[i21.2.2 Z1mf 
+0000025 160  CC      and                      Z5 
+0000025 170  NP1     Vermonts                 Z2 
+0000025 180  NNA     Sen.                     B3/S2mf 
+0000025 190  NP1     Bernie                   Z1mf[i22.2.1 Z3c[i22.2.1 
+0000025 200  NP1     Sanders                  Z1mf[i22.2.2 Z3c[i22.2.2 
+0000025 201  (       (                        
+0000025 210  ZZ1%    I                        Z8 
+0000025 211  )       )                        
+0000025 212  .       .                        
+0000025 213  -----   -----                    
+0000025 220  JJ      Other                    A6.1- 
+0000025 230  NN2     names                    Q2.2 
+0000025 240  IO      of                       Z5 
+0000025 250  JJ      potential                A7+ 
+0000025 260  NP1     DNC                      Z99 
+0000025 270  NN1     Chair                    H5 S7.1+mf P1 
+0000025 280  NN2     challengers              S7.3+/S2mf 
+0000025 290  VBR     are                      Z5 A3+ 
+0000025 300  RR      also                     N5++ 
+0000025 310  VBG     being                    Z5 A3+ 
+0000025 320  VVN     floated                  M1 T2+ I2.2 
+0000025 321  .       .                        
+0000026 001  -----   -----                    
+0000027 010  NN1     Ellison                  Z99 
+0000027 020  VBZ     is                       Z5 A3+ 
+0000027 030  VVG     pushing                  M2 M1 S7.1+ X8+ I2.2 F3 A13.4 
+0000027 040  TO      to                       Z5 
+0000027 050  VVI     strengthen               S1.2.5+/A2.1 O4.1/A2.1 
+0000027 060  DDQ     what                     Z8 Z5 
+0000027 070  PPHS1   he                       Z8m 
+0000027 080  VVZ     calls                    Q2.2 S1.1.1 Q1.3 S9% 
+0000027 090  AT      the                      Z5 
+0000027 100  NN2     grassroots               S5+/S7.1- 
+0000027 110  IO      of                       Z5 
+0000027 120  AT      the                      Z5 
+0000027 130  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000027 131  .       .                        
+0000028 001  -----   -----                    
+0000029 010  PPIS2   We                       Z8 
+0000029 020  VH0     have                     S6+[i23.3.1 Z5 A9+ A2.2 S4 
+0000029 030  VVN     got                      S6+[i23.3.2 A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- S6+[i24.2.1 
+0000029 040  TO      to                       S6+[i23.3.3 Z5 S6+[i24.2.2 
+0000029 050  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000029 060  VVI     make                     A7+[i25.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000029 070  JJ      sure                     A7+[i25.2.2 A7+ Z4 
+0000029 080  AT      the                      Z5 
+0000029 090  JJ      Democratic               G1.2 
+0000029 100  NN1     rank-and-file            Z99 
+0000029 110  RR      really                   A13.3 A5.2+ 
+0000029 120  VVZ     owns                     A9+ 
+0000029 130  AT      the                      Z5 
+0000029 140  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000029 141  ,       ,                        
+0000029 150  VVZ     feels                    X2.1 E1 X3 
+0000029 160  CST     that                     Z8 Z5 
+0000029 170  PPH1    it                       Z8 
+0000029 180  VBZ     is                       A3+ Z5 
+0000029 190  PPGE    theirs                   Z8 
+0000029 191  ,       ,                        
+0000029 200  NP1     Ellison                  Z99 
+0000029 210  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000029 220  VV0     Face                     M6 S1.1.1 X2.1 B5 
+0000029 230  AT      the                      Z5 
+0000029 240  NN1     Nation                   G1.1c S5+c 
+0000029 250  NN1     moderator                S7.1+/S2mf 
+0000029 260  NP1     John                     Z1mf[i26.2.1 Z3c[i26.2.1 Z1m S9/O1.2 
+0000029 270  NP1     Dickerson                Z1mf[i26.2.2 Z3c[i26.2.2 
+0000029 271  .       .                        
+0000030 001  -----   -----                    
+0000031 010  NN1     Ellison                  Z99 
+0000031 020  VHZ     has                      Z5 A9+ A2.2 S4 
+0000031 030  VVN     promised                 S6+ A7+ 
+0000031 040  TO@     to                       Z5 
+0000031 050  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000031 060  CSA     as                       Z5 
+0000031 070  NP1     DNC                      Z99 
+0000031 080  NN1     Chair                    H5 S7.1+mf P1 
+0000031 090  JJ      full-time                T1.3 K5.1/T1.2 
+0000031 091  ,       ,                        
+0000031 100  VVG     resigning                A9- Q2.2 S7.1- I3.1 
+0000031 110  II      from                     Z5 
+0000031 120  NN1     Congress                 Z3c 
+0000031 121  ,       ,                        
+0000031 130  CS      if                       Z7 
+0000031 140  VVN     elected                  G1.2/X7+ 
+0000031 141  .       .                        
+0000032 001  -----   -----                    
+0000033 010  NP1     Perez                    Z99 
+0000033 011  ,       ,                        
+0000033 020  RR@     too                      N5++ 
+0000033 021  ,       ,                        
+0000033 030  VVD     vowed                    Q2.2 
+0000033 040  TO@     to                       Z5 
+0000033 050  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000033 060  JJ      full-time                T1.3 K5.1/T1.2 
+0000033 070  CSA     as                       Z5 
+0000033 080  NP1     DNC                      Z99 
+0000033 090  NN1     Chair                    H5 S7.1+mf P1 
+0000033 091  ,       ,                        
+0000033 100  VVG     saying                   Q2.1 Z4% 
+0000033 110  JJ@     hed                      Z99 
+0000033 120  VV0     put                      M2[i27.2.1 A1.9[i27.2.1 M2 Q2.1 Q2.2 A1.1.1 
+0000033 130  RL      aside                    M2[i27.2.2 A1.9[i27.2.2 M6 A10- A9+ 
+0000033 140  AT1     a                        Z5 
+0000033 150  JJ      possible                 A7+ 
+0000033 160  NN1     run                      M1/N3.8+ M1 B5 X8+ T1.3 X7/N5+ N5 K4 K5.1% 
+0000033 170  IF      for                      Z5 
+0000033 180  NN1     Governor                 S7.1+/S2mf G1.1/S2mf O2% 
+0000033 190  IO      of                       Z5 
+0000033 200  NP1     Maryland                 Z2 Z3c 
+0000033 210  VVG     challenging              A6.1- S7.3+ Q2.2 
+0000033 220  JJ      popular                  E2+ S5+ 
+0000033 230  NN1     Republican               G1.2/S2mf 
+0000033 240  NN1     incumbent                S9/S2mf I3.1/S2mf 
+0000033 250  NP1     Larry                    Z1mf[i28.2.1 Z3c[i28.2.1 Z1m 
+0000033 260  NP1     Hogan                    Z1mf[i28.2.2 Z3c[i28.2.2 Z1mf 
+0000033 261  .       .                        
+0000035 001  NULL    **8;7;text               

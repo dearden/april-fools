@@ -1,0 +1,410 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     London                   Z1mf[i1.2.1 Z3c[i1.2.1 Z2 
+0000002 020  NN1     Underground              Z1mf[i1.2.2 Z3c[i1.2.2 Z3c 
+0000002 030  VBZ     is                       A3+ Z5 
+0000002 040  II      in                       Z5 
+0000002 050  NN2     talks                    Q2.1 
+0000002 060  IW      with                     Z5 
+0000002 070  AT      the                      Z5 
+0000002 080  JJ      European                 Z3 
+0000002 090  NN1     Organisation             S5+c S7.1+ 
+0000002 100  IF      for                      Z5 
+0000002 110  JJ      Nuclear                  Y1 B1 S5+% 
+0000002 120  NN1     Research                 X2.4 
+0000002 121  (       (                        
+0000002 130  NP1     Cern                     Z99 
+0000002 131  )       )                        
+0000002 140  II      about                    Z5 
+0000002 150  AT      the                      Z5 
+0000002 160  NN1     possibility              A7+ 
+0000002 170  IO      of                       Z5 
+0000002 180  VVG     using                    A1.5.1 S7.1+ 
+0000002 190  AT      the                      Z5 
+0000002 200  NNU     23km                     N3.3 N3.7 
+0000002 210  NN1     tunnel                   O2 M7 
+0000002 220  IO      of                       Z5 
+0000002 230  AT      the                      Z5 
+0000002 240  NN1     Circle                   Z3c 
+0000002 250  NN1     Line                     O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000002 260  TO      to                       Z5 
+0000002 270  VVI     house                    H4 
+0000002 280  AT1     a                        Z5 
+0000002 290  JJ      new                      T3- 
+0000002 300  NN1     type                     A4.1 A6.2+ S1.2 Q1.2 
+0000002 310  IO      of                       Z5 
+0000002 320  NN1     particle                 O2 O1 
+0000002 330  NN1     accelerator              M3/N3.8+ Y1@ 
+0000002 340  JJ      similar                  A6.1+ 
+0000002 350  II      to                       Z5 
+0000002 360  AT      the                      Z5 
+0000002 370  JJ      Large                    N3.2+ N5+ A11.1+ 
+0000002 380  NN1     Hadron                   Z99 
+0000002 390  NN1     Collider                 Z99 
+0000002 400  II      in                       Z5 
+0000002 410  NP1     Geneva                   Z2 Z3c 
+0000002 411  .       .                        
+0000003 001  -----   -----                    
+0000004 010  NN1     Particle                 O2 O1 
+0000004 020  NN2     physicists               Y1/S2mf 
+0000004 030  VV0     believe                  X2.1 S9% 
+0000004 040  AT      the                      Z5 
+0000004 050  JJ      existing                 A3+ 
+0000004 060  NN1     tunnel                   O2 M7 
+0000004 070  VM      can                      A7+ 
+0000004 080  VBI     be                       Z5 A3+ 
+0000004 090  VVN     adapted                  A2.1+ 
+0000004 100  TO      to                       Z5 
+0000004 110  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000004 120  AT1     a                        Z5 
+0000004 130  JJ      small-scale              N3.2- 
+0000004 131  NULL    <quote>                  
+0000004 132  -----   -----                    
+0000004 133  "       "                        
+0000004 140  NN1     atom                     O1 
+0000004 150  NN1     smasher                  Z99 
+0000004 151  "       "                        
+0000004 152  NULL    </quote>                 
+0000004 153  -----   -----                    
+0000004 160  II      alongside                Z5 
+0000004 170  AT      the                      Z5 
+0000004 180  NN1     passenger                M3/S2mf M4/S2mf M5/S2mf 
+0000004 190  NN1     line                     O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000004 200  II      at                       Z5 
+0000004 210  AT1     a                        Z5 
+0000004 220  NN1     fraction                 N5- N2 
+0000004 230  IO      of                       Z5 
+0000004 240  AT      the                      Z5 
+0000004 250  NN1     cost                     I1.3 
+0000004 260  IO      of                       Z5 
+0000004 270  VVG@    building                 H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000004 280  AT1     a                        Z5 
+0000004 290  JJ      new                      T3- 
+0000004 300  NN1     tunnel                   O2 M7 
+0000004 310  RL      elsewhere                M6/A6.1- 
+0000004 320  II      in                       Z5 
+0000004 330  NP1     Europe                   Z2 
+0000004 331  .       .                        
+0000004 332  -----   -----                    
+0000004 340  PPHS2   They                     Z8mfn 
+0000004 350  VBR     are                      Z5 A3+ 
+0000004 360  VVN     understood               X2.5+ 
+0000004 370  TO      to                       Z5 
+0000004 380  VHI     have                     Z5 A9+ A2.2 S4 
+0000004 390  VVN     approached               M1 A1.1.1 Q2.2 
+0000004 400  NP1     London                   Z1mf[i2.2.1 Z3c[i2.2.1 Z2 
+0000004 410  NN1     Underground              Z1mf[i2.2.2 Z3c[i2.2.2 Z3c 
+0000004 420  II41    with                     X7+[i4.4.1 X7+[i3.4.1 
+0000004 430  II42    a                        X7+[i4.4.2 X7+[i3.4.2 
+0000004 440  II43    view                     X7+[i4.4.3 X7+[i3.4.3 
+0000004 450  II44    to                       X7+[i4.4.4 Z5 X7+[i3.4.4 
+0000004 460  VVG     announcing               Q2.2 
+0000004 470  AT1     a                        Z5 
+0000004 480  NN1     feasibility              A7 
+0000004 490  NN1     study                    P1 X2.4 H2 Q1.2 C1 
+0000004 500  RRR     later                    T4-- T1.1.3 N4 
+0000004 510  DD1     this                     M6 Z5 Z8 
+0000004 520  NNT1    year                     T1.3 P1c 
+0000004 521  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NN1     Specialist               X2.2+/S2mf B3/S2mf 
+0000006 020  NN2     engineers                Y1/I3.2/S2mf 
+0000006 030  VVN     commissioned             I2.2 G3/S7.1+ 
+0000006 040  II      by                       Z5 
+0000006 050  NP1     Cern                     Z99 
+0000006 060  VH0     have                     Z5 A9+ A2.2 S4 
+0000006 070  RR      already                  T1.1.1 
+0000006 080  VVN     produced                 A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000006 090  AT1     a                        Z5 
+0000006 100  JJ      preliminary              N4 
+0000006 110  NN1     report                   Q2.2 X3.2 
+0000006 111  ,       ,                        
+0000006 120  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000006 130  II      by                       Z5 
+0000006 140  AT      The                      Z5 
+0000006 150  NN1     Independent              Z3c 
+0000006 151  ,       ,                        
+0000006 160  DDQ     which                    Z8 Z5 
+0000006 170  VVZ     proposes                 Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
+0000006 180  VVG     installing               A1.1.1 S1.1.1 
+0000006 190  JJ@     supercooled              Z99 
+0000006 200  NN2     magnets                  O2 X5.2+ 
+0000006 210  CC      and                      Z5 
+0000006 220  NN1     collision                A1.1.2 A6.1- 
+0000006 230  NN2     detectors                O3 
+0000006 240  II      at                       Z5 
+0000006 250  JJ      strategic                X7+ G3 
+0000006 260  NN2     positions                M6 M7 S7.1 I3.1 N4 S1.1.1 A1.1.1 K5.1% 
+0000006 270  II      on                       Z5 
+0000006 280  AT      the                      Z5 
+0000006 290  NN1     Circle                   Z3c 
+0000006 300  NN1     Line                     O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000006 301  .       .                        
+0000006 302  -----   -----                    
+0000006 310  AT      The                      Z5 
+0000006 320  JJ      main                     A11.1+ N5+++ 
+0000006 330  NN1     collision                A1.1.2 A6.1- 
+0000006 340  NN1     experiment               Y1 X2.4 
+0000006 350  VM      will                     T1.1.3 
+0000006 360  VBI     be                       Z5 A3+ 
+0000006 370  VVN     sited                    M6 
+0000006 380  II      at                       Z5 
+0000006 390  AT      the                      Z5 
+0000006 400  RR      newly                    T3- 
+0000006 410  VVN     refurbished              H5/A2.1 
+0000006 420  NP1     Westminster              Z2c[i5.2.1 Z2 
+0000006 430  NN1     Station                  Z2c[i5.2.2 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
+0000006 431  ,       ,                        
+0000006 440  RR      directly                 M6 N3.8+ S1.1.1 
+0000006 450  II      below                    Z5 
+0000006 460  NP1     Portcullis               Z3c[i6.2.1 Z2[i6.2.1 
+0000006 470  NN1     House                    Z3c[i6.2.2 Z2[i6.2.2 H1 P1/S5+c G1.1c 
+0000006 471  ,       ,                        
+0000006 480  AT      the                      Z5 
+0000006 490  NN2     offices                  I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000006 500  IO      of                       Z5 
+0000006 510  DAR     more                     N5++ 
+0000006 520  CSN     than                     Z5 
+0000006 530  MC      200                      N1 T1.2 T3 T1.3 N3.2 
+0000006 540  NNU     MPs                      G1.1/S2mf G3/G2.1/S2mf@ 
+0000006 541  .       .                        
+0000007 001  -----   -----                    
+0000008 010  CS      Although                 Z5 
+0000008 020  EX      there                    Z5 
+0000008 030  VBR     are                      A3+ Z5 
+0000008 040  RR      still                    T2++ Z4 E3+ 
+0000008 050  JJ      considerable             N5+ 
+0000008 060  JJ      technical                Y1 I4 X9.1 
+0000008 070  NN2     problems                 A12- X4.1 N2 B2- 
+0000008 080  TO      to                       Z5 
+0000008 090  VVI     overcome                 X9.2+/S7.3 X9.2+/G3 A2.2/E1 B2- 
+0000008 091  ,       ,                        
+0000008 100  II21    such                     Z5[i7.2.1 
+0000008 110  II22    as                       Z5[i7.2.2 Z5 
+0000008 120  AT1     a                        Z5 
+0000008 130  JJ      geo-magnetic             Z99 
+0000008 131  NULL    <quote>                  
+0000008 132  -----   -----                    
+0000008 133  "       "                        
+0000008 140  VV0     kink                     O4.4 
+0000008 141  "       "                        
+0000008 142  NULL    </quote>                 
+0000008 143  -----   -----                    
+0000008 150  II      in                       Z5 
+0000008 160  AT      the                      Z5 
+0000008 170  NN1     circuitry                O3 
+0000008 180  II      at                       Z5 
+0000008 190  NP1     Edgware                  Z2[i8.2.1 
+0000008 200  NNL1    Road                     Z2[i8.2.2 
+0000008 210  NN1     station                  M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
+0000008 211  ,       ,                        
+0000008 220  NP1     Cern                     Z99 
+0000008 230  VBZ     is                       A3+ Z5 
+0000008 240  RR      quietly                  X3.2- E3+ A10- A1.1.1/N5- 
+0000008 250  JJ      confident                E6+ 
+0000008 260  CST     that                     Z8 Z5 
+0000008 270  PPH1    it                       Z8 
+0000008 280  VM      will                     T1.1.3 
+0000008 290  VBI     be                       A3+ Z5 
+0000008 300  JK      able                     X9.1+ 
+0000008 310  TO      to                       Z5 
+0000008 320  VVI     convince                 A7+/Q2.2 
+0000008 330  NP1     London                   Z1mf[i9.2.1 Z3c[i9.2.1 Z2 
+0000008 340  NN1     Underground              Z1mf[i9.2.2 Z3c[i9.2.2 Z3c 
+0000008 350  IO      of                       Z5 
+0000008 360  AT      the                      Z5 
+0000008 370  NN2     merits                   A5.1+ 
+0000008 380  IO      of                       Z5 
+0000008 390  AT      the                      Z5 
+0000008 400  NN1     scheme                   X7+ X4.2 
+0000008 401  ,       ,                        
+0000008 410  DDQ     which                    Z8 Z5 
+0000008 420  VM      should                   S6+ A7+ 
+0000008 430  VVI     result                   A2.2 
+0000008 440  II      in                       Z5 
+0000008 450  AT      the                      Z5 
+0000008 460  MD      first                    N4 
+0000008 470  JJ      air-conditioned          O4.6 
+0000008 480  JJ      underground              M6 G2.1- 
+0000008 490  NN1     line                     O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000008 500  II      as                       Z5 
+0000008 510  AT1     a                        Z5 
+0000008 520  NN1     spin-off                 A2.2 
+0000008 530  IO      of                       Z5 
+0000008 540  VVG     installing               A1.1.1 S1.1.1 
+0000008 550  JJ@     supercooled              Z99 
+0000008 560  NN2     magnets                  O2 X5.2+ 
+0000008 570  II      below                    Z5 
+0000008 580  NN1     ground                   M6 W3 M7 O3 X2.1 
+0000008 581  .       .                        
+0000009 001  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  NN1     idea                     X4.1 X7+ 
+0000010 030  VBDZ    was                      Z5 A3+ 
+0000010 040  RR      initially                N4 
+0000010 050  VVN     mooted                   Q2.2 
+0000010 060  II      in                       Z5 
+0000010 070  AT      the                      Z5 
+0000010 080  NN2     mid-1980s                T1.3 
+0000010 090  II      as                       Z5 
+0000010 100  AT1     an                       Z5 
+0000010 110  JJ      alternative              A6.1- N6 
+0000010 120  NN1     site                     M7 
+0000010 130  II      to                       Z5 
+0000010 140  AT      the                      Z5 
+0000010 150  NNU     27km                     N3.3 N3.7 
+0000010 160  NN1     tunnel                   O2 M7 
+0000010 170  II      below                    Z5 
+0000010 180  NP1     Geneva                   Z2 Z3c 
+0000010 190  CCB     but                      Z5 
+0000010 200  AT      the                      Z5 
+0000010 210  NN1     idea                     X4.1 X7+ 
+0000010 220  VBDZ    was                      Z5 A3+ 
+0000010 230  VVN     dropped                  M2 M1 N5-/A2.1 O1.2/M1 B2- T2- A9- A1.8- X9.2-/K5 X3.2 
+0000010 231  .       .                        
+0000010 232  -----   -----                    
+0000010 240  RT      Now                      T1.1.2 Z4 
+0000010 241  ,       ,                        
+0000010 250  IW      with                     Z5 
+0000010 260  NN2     improvements             A5.1+/A2.1 
+0000010 270  II      in                       Z5 
+0000010 280  NN1     technology               Y1 
+0000010 290  CC      and                      Z5 
+0000010 300  NN1     miniaturisation          Z99 
+0000010 310  IO      of                       Z5 
+0000010 320  AT      the                      Z5 
+0000010 330  NN1     equipment                O2 
+0000010 331  ,       ,                        
+0000010 340  NP1     Cern                     Z99 
+0000010 350  VVZ     believes                 X2.1 S9% 
+0000010 360  PPH1    it                       Z8 
+0000010 370  VM      can                      A7+ 
+0000010 380  VVI     build                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000010 390  AT1     a                        Z5 
+0000010 400  NN1     successor                N4/S2mf N4 
+0000010 410  II      to                       Z5 
+0000010 420  AT      the                      Z5 
+0000010 430  JJ      Large                    N3.2+ N5+ A11.1+ 
+0000010 440  NN1     Hadron                   Z99 
+0000010 450  NN1     Collider                 Z99 
+0000010 460  II      within                   Z5 
+0000010 470  AT      the                      Z5 
+0000010 480  NN1     Circle                   Z3c 
+0000010 490  NN1     line                     O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000010 500  II      by                       Z5 
+0000010 510  MC      2020                     N1 T1.2 T3 T1.3 N3.2 
+0000010 511  .       .                        
+0000011 001  -----   -----                    
+0000012 010  PPH1    It                       Z8 
+0000012 020  VM      would                    A7+ 
+0000012 030  VVI     mean                     Q1.1 X7+ 
+0000012 040  CST     that                     Z5 Z8 
+0000012 050  MC      two                      N1 T3 T1.2 
+0000012 060  NN2     beams                    W2 Y1 H2 
+0000012 070  IO      of                       Z5 
+0000012 080  NN2     protons                  Z3c/M3 
+0000012 090  VM      would                    A7+ 
+0000012 100  VBI     be                       Z5 A3+ 
+0000012 110  VVG     travelling               M1 
+0000012 120  II      in                       Z5 
+0000012 130  JJ      clockwise                M6 
+0000012 140  CC      and                      Z5 
+0000012 150  JJ      counterclockwise         Z99 
+0000012 160  NN2     directions               M6 Q2.2 S7.1+ X4.2 K4 
+0000012 170  II      at                       Z5 
+0000012 180  MC      99.999999                N5[i10.3.1 N1 T1.2 T3 T1.3 N3.2 
+0000012 190  NNU21   per                      N5[i10.3.2 N5[i11.2.1 
+0000012 200  NNU22   cent                     N5[i10.3.3 I1 N5[i11.2.2 
+0000012 210  IO      of                       Z5 
+0000012 220  AT      the                      Z5 
+0000012 230  NN1     speed                    N3.8+ F3% 
+0000012 240  IO      of                       Z5 
+0000012 250  NN1     light                    W2 O3/W2 M3 O4.6+ X4.1 E1 
+0000012 251  ,       ,                        
+0000012 260  II      within                   Z5 
+0000012 270  NN2     feet                     B1 O2 
+0000012 280  IO      of                       Z5 
+0000012 290  NN1     Circle                   Z3c 
+0000012 300  NN1     line                     O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000012 310  NN2     passengers               M3/S2mf M4/S2mf M5/S2mf 
+0000012 320  VVN     stuck                    M2 A1.1.1 A1.7+ T2- E2+ X2.2- 
+0000012 330  II      in                       Z5 
+0000012 340  JJ      perpetual                T2+++ 
+0000012 350  NN1     immobility               M8 
+0000012 351  .       .                        
+0000013 001  -----   -----                    
+0000014 010  RR      However                  Z4 
+0000014 011  ,       ,                        
+0000014 020  NN1     health                   A15/S2mf[i13.4.1 B2 X9.2 A15[i12.3.1 
+0000014 030  CC      and                      A15/S2mf[i13.4.2 Z5 A15[i12.3.2 
+0000014 040  NN1     safety                   A15/S2mf[i13.4.3 A15+ A15[i12.3.3 
+0000014 050  NN2     advisers                 A15/S2mf[i13.4.4 S8+/S2mf 
+0000014 060  II      to                       Z5 
+0000014 070  NP1     London                   Z1mf[i14.2.1 Z3c[i14.2.1 Z2 
+0000014 080  NN1     Underground              Z1mf[i14.2.2 Z3c[i14.2.2 Z3c 
+0000014 090  VBR     are                      Z5 A3+ 
+0000014 100  VVN     understood               X2.5+ 
+0000014 110  TO      to                       Z5 
+0000014 120  VBI     be                       A3+ Z5 
+0000014 130  JJ      concerned                E6- A1.8+ A2.2 S1.1.3+ 
+0000014 140  II      about                    Z5 
+0000014 150  AT      the                      Z5 
+0000014 160  NN1     proposal                 Q2.2 X7+ S3.2/Q2.2 
+0000014 161  ,       ,                        
+0000014 170  CC      and                      Z5 
+0000014 180  VH0     have                     Z5 A9+ A2.2 S4 
+0000014 190  VVN     raised                   M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000014 200  AT      the                      Z5 
+0000014 210  NN1     prospect                 A7+ X2.6+ X3.4 
+0000014 220  IO      of                       Z5 
+0000014 230  AT1     a                        Z5 
+0000014 240  JJ      mini                     N3.2- 
+0000014 250  JJ      black                    W1[i15.2.1 O4.3 G2.2- A5.1- E4.1- S5+ 
+0000014 260  NN1     hole                     W1[i15.2.2 O2 H4/L2 M7/O4.2- X2.1/A5.1- N5- K5.2 
+0000014 270  VBG     being                    Z5 A3+ 
+0000014 280  VVN     created                  A1.1.1 A2.2 E1 
+0000014 290  II      at                       Z5 
+0000014 300  NP1     Westminster              Z2 
+0000014 310  CS      when                     Z5 
+0000014 320  AT      the                      Z5 
+0000014 330  MC      two                      N1 T3 T1.2 
+0000014 340  NN1     proton                   Z3c/M3 
+0000014 350  NN2     beams                    W2 Y1 H2 
+0000014 360  VV0     collide                  A1.1.2 A6.1- 
+0000014 370  TO      to                       Z5 
+0000014 380  VVI     recreate                 A1.1.1/N6+ 
+0000014 390  AT      the                      Z5 
+0000014 400  NN2     conditions               O4.1 S6+ B2- B2+ Z7 
+0000014 410  IO      of                       Z5 
+0000014 420  AT      the                      Z5 
+0000014 430  JJ      Big                      Y1/X2.1[i16.2.1 Y1/X4.1[i16.2.1 N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000014 440  NN1     Bang                     Y1/X2.1[i16.2.2 Y1/X4.1[i16.2.2 X3.2 A1.1.1 S3.2/B1 
+0000014 441  .       .                        
+0000015 001  -----   -----                    
+0000016 010  AT1     A                        Z5 
+0000016 020  NN1     spokesman                Q2.2/S2.2m 
+0000016 030  IF      for                      Z5 
+0000016 040  NP1     London                   Z1mf[i17.2.1 Z3c[i17.2.1 Z2 
+0000016 050  NN1     Underground              Z1mf[i17.2.2 Z3c[i17.2.2 Z3c 
+0000016 060  VVD     said                     Q2.1 
+0000016 070  AT      the                      Z5 
+0000016 080  NN1     proposal                 Q2.2 X7+ S3.2/Q2.2 
+0000016 090  VBZ     is                       A3+ Z5 
+0000016 100  XX      not                      Z6 
+0000016 110  RG      as                       A13 
+0000016 120  JJ      foolish                  S1.2.6- E4.1+ 
+0000016 130  CSA     as                       Z5 
+0000016 140  PPH1    it                       Z8 
+0000016 150  MD      first                    N4 
+0000016 160  VVZ     seems                    A8 
+0000016 161  :       :                        
+0000016 162  NULL    <quote>                  
+0000016 163  -----   -----                    
+0000016 164  "       "                        
+0000016 170  PPH1    It                       Z8 
+0000016 180  VHZ     has                      A9+ Z5 A2.2 S4 
+0000016 190  NN2     merits                   A5.1+ 
+0000016 191  .       .                        
+0000016 192  "       "                        
+0000016 193  NULL    </quote>                 
+0000019 001  NULL    **8;7;text               

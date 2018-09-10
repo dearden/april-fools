@@ -1,0 +1,471 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  CS      While                    Z5 
+0000002 020  NN1     nicotine                 F3 
+0000002 030  VBZ     is                       A3+ Z5 
+0000002 040  RR      highly                   A13.3 
+0000002 050  JJ      addictive                F3 X5.2++ 
+0000002 051  ,       ,                        
+0000002 060  NN2     researchers              X2.4/S2mf 
+0000002 070  VH0     have                     Z5 A9+ A2.2 S4 
+0000002 080  RR      also                     N5++ 
+0000002 090  VVN     shown                    A10+ S1.1.1 
+0000002 100  AT      the                      Z5 
+0000002 110  NN1     drug                     B3 F3 
+0000002 120  TO      to                       Z5 
+0000002 130  VVI     enhance                  A5.1+/A2.1 
+0000002 140  NN1     learning                 X2.3+ P1 
+0000002 150  CC      and                      Z5 
+0000002 160  NN1     memory--a                Z99 
+0000002 170  NN1     property                 A9+ H1/H3 O4.1 
+0000002 180  CST     that                     Z8 Z5 
+0000002 190  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 200  VVN     launched                 M4 M5 T2+ 
+0000002 210  NN2     efforts                  X8+ O2 
+0000002 220  TO      to                       Z5 
+0000002 230  VVI     develop                  A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000002 240  JJ      nicotine-like            Z99 
+0000002 250  NN2     drugs                    B3 F3 
+0000002 260  TO      to                       Z5 
+0000002 270  VVI     treat                    S1.1.1 A9- X4.2 X2.1 B3 A1.1.1 
+0000002 280  JJ      cognitive                X2.1 
+0000002 290  NN2     deficits                 N5- B2- 
+0000002 300  II      in                       Z5 
+0000002 310  NP1     Alzheimer                Z1mf B2- 
+0000002 311  GE      's                       Z5 
+0000002 320  CC      and                      Z5 
+0000002 330  NP1     Parkinson                Z1mf B2- 
+0000002 331  GE      's                       Z5 
+0000002 340  NN2     diseases                 B2- 
+0000002 341  ,       ,                        
+0000002 350  NN1     schizophrenia            B2-/X1 
+0000002 351  ,       ,                        
+0000002 360  CC      and                      Z5 
+0000002 370  FO      **31;7;TOOLONG           Z99 
+0000002 380  NN1     disorder                 B2- E3- O4.2- 
+0000002 381  .       .                        
+0000003 001  -----   -----                    
+0000004 010  AT1     A                        Z5 
+0000004 020  JJ      key                      A11.1+ 
+0000004 030  NN1     problem                  A12- X4.1 N2 B2- 
+0000004 040  II      in                       Z5 
+0000004 050  VVG     designing                C1 X7+ 
+0000004 060  DA      such                     Z5 Z8 
+0000004 070  NN2     drugs                    B3 F3 
+0000004 080  VHZ     has                      Z5 A9+ A2.2 S4 
+0000004 090  VBN     been                     A3+ Z5 
+0000004 100  RG%     that                     A13.3 A6.1+ 
+0000004 110  DA1     little                   N5- 
+0000004 120  VBDZ    was                      Z5 A3+ 
+0000004 130  VVN     known                    X2.2+ S3.2/B1% 
+0000004 140  II      about                    Z5 
+0000004 150  AT      the                      Z5 
+0000004 160  JJ      detailed                 A4.2+ 
+0000004 170  NN1     mechanism                O2 
+0000004 180  II      by                       Z5 
+0000004 190  DDQ     which                    Z8 Z5 
+0000004 200  NN1     nicotine                 F3 
+0000004 210  VVZ     exerts                   A1.1.1 S7.1+ 
+0000004 220  APPGE   its                      Z8 
+0000004 230  JJ      learning-enhancing       Z99 
+0000004 240  NN2     effects                  A2.2 A8 
+0000004 241  .       .                        
+0000005 001  -----   -----                    
+0000006 010  RT      Now                      T1.1.2 Z4 
+0000006 011  ,       ,                        
+0000006 020  NN2     researchers              X2.4/S2mf 
+0000006 030  VH0     have                     Z5 A9+ A2.2 S4 
+0000006 040  VVN     discovered               A10+ 
+0000006 050  JJ      important                A11.1+ 
+0000006 060  NN2     details                  A4.2+ S5+c B5 
+0000006 070  IO      of                       Z5 
+0000006 080  RRQ     how                      Z5 A13.3 
+0000006 090  NN1     nicotine                 F3 
+0000006 100  VVZ     adjusts                  A2.1+ 
+0000006 110  AT      the                      Z5 
+0000006 120  JJ@     signaling                Q1.1 X4.1 A10+ 
+0000006 130  NN2     properties               H1 O4.1 
+0000006 140  IO      of                       Z5 
+0000006 150  JJ      neuronal                 Z99 
+0000006 160  NN1     wiring                   A1.7+ O3 Q1.3 
+0000006 170  TO      to                       Z5 
+0000006 180  VVI     enhance                  A5.1+/A2.1 
+0000006 190  NN1     memory                   X2 X2.2+ S7.2+ Y2 
+0000006 191  .       .                        
+0000006 192  -----   -----                    
+0000006 200  DA      Such                     Z5 Z8 
+0000006 210  JJ@     signaling                Q1.1 X4.1 A10+ 
+0000006 220  NN2     properties               H1 O4.1 
+0000006 230  VV0     include                  A1.8+ 
+0000006 240  AT      the                      Z5 
+0000006 250  NN1     strength                 S1.2.5+ O4.1 S7.1+ X9.1+ N5 
+0000006 260  IO      of                       Z5 
+0000006 270  AT      the                      Z5 
+0000006 280  NN2     connections              A2.2 S5+ M3 O3 A1.1.1 
+0000006 290  II      by                       Z5 
+0000006 300  DDQ     which                    Z8 Z5 
+0000006 310  MC1     one                      N1 T3 T1.2 
+0000006 320  NN1     neuron                   B1 
+0000006 330  VVZ     triggers                 A2.2 
+0000006 340  DD1     another                  A6.1- N5++ 
+0000006 341  .       .                        
+0000006 342  -----   -----                    
+0000006 350  NP1     Huibert                  Z1mf[i1.2.1 Z3c[i1.2.1 
+0000006 360  NP1     Mansvelder               Z1mf[i1.2.2 Z3c[i1.2.2 
+0000006 370  CC      and                      Z5 
+0000006 380  NN2     colleagues               I3.2/S2mf 
+0000006 390  VVD     reported                 Q2.2 S7.1- 
+0000006 400  APPGE   their                    Z8 
+0000006 410  NN2     findings                 A10+ X2.1 X6+ 
+0000006 420  II      in                       Z5 
+0000006 430  AT      the                      Z5 
+0000006 440  NPM1    April                    T1.3[i2.2.1 T1.3 
+0000006 450  MC      5                        T1.3[i2.2.2 N1 
+0000006 451  ,       ,                        
+0000006 460  MC      2007                     N1 T1.2 T3 T1.3 N3.2 
+0000006 461  ,       ,                        
+0000006 470  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000006 480  IO      of                       Z5 
+0000006 490  AT      the                      Z5 
+0000006 500  NN1     journal                  Q4.2 Q1.2 
+0000006 510  NN1     Neuron                   B1 
+0000006 511  ,       ,                        
+0000006 520  VVN     published                Q4 
+0000006 530  II      by                       Z5 
+0000006 540  NN1     Cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000006 550  NN1     Press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
+0000006 551  .       .                        
+0000007 001  -----   -----                    
+0000008 010  AT      The                      Z5 
+0000008 020  NN2     researchers              X2.4/S2mf 
+0000008 030  VVD     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000008 040  APPGE   their                    Z8 
+0000008 050  NN2     discoveries              A10+ 
+0000008 060  II      by                       Z5 
+0000008 070  VVG     analyzing                X2.4 Y1 
+0000008 080  AT      the                      Z5 
+0000008 090  JJ      electrophysiological     Z99 
+0000008 100  NN2     properties               H1 O4.1 
+0000008 110  IO      of                       Z5 
+0000008 120  NN2     neurons                  B1 
+0000008 130  II      in                       Z5 
+0000008 140  NN2     slices                   O2 N5.1- 
+0000008 150  IO      of                       Z5 
+0000008 160  NN1     mouse                    L2mfn Y2 S1.2.3-/S2mf 
+0000008 170  NN1     brain                    B1 X2 X9.1+ X9.1+/S2mf 
+0000008 171  ,       ,                        
+0000008 180  CSA     as                       Z5 
+0000008 190  PPHS2   they                     Z8mfn 
+0000008 200  VVD@    treated                  S1.1.1 A9- X4.2 X2.1 B3 A1.1.1 
+0000008 210  AT      the                      Z5 
+0000008 220  NN2     slices                   O2 N5.1- 
+0000008 230  IW      with                     Z5 
+0000008 240  NN1     nicotine                 F3 
+0000008 250  CC      or                       Z5 
+0000008 260  IW      with                     Z5 
+0000008 270  NN2     drugs                    B3 F3 
+0000008 280  CST     that                     Z8 Z5 
+0000008 290  VV0     prevent                  S8- 
+0000008 300  NN1     nicotine                 F3 
+0000008 301  GE      's                       Z5 
+0000008 310  NN1     action                   A1.1.1 G3 
+0000008 311  .       .                        
+0000008 312  -----   -----                    
+0000008 320  RR      Specifically             A4.2+ 
+0000008 321  ,       ,                        
+0000008 330  AT      the                      Z5 
+0000008 340  NN2     researchers              X2.4/S2mf 
+0000008 350  VVD     studied                  P1 X2.4 
+0000008 360  AT      the                      Z5 
+0000008 370  NN2     neurons                  B1 
+0000008 380  IO      of                       Z5 
+0000008 390  AT      the                      Z5 
+0000008 400  JJ      prefrontal               Z99 
+0000008 410  NN1     cortex                   B1 
+0000008 411  ,       ,                        
+0000008 420  DDQ     which                    Z8 Z5 
+0000008 430  VV0     contain                  A1.8+ A1.7+ 
+0000008 440  NN2     centers                  M6 H1c M7c G1.2c K5.1mfn 
+0000008 450  IF      for                      Z5 
+0000008 460  VVG     learning                 X2.3+ P1 
+0000008 470  CC      and                      Z5 
+0000008 480  NN1     memory                   X2 X2.2+ S7.2+ Y2 
+0000008 481  .       .                        
+0000009 001  -----   -----                    
+0000010 010  NN2     Researchers              X2.4/S2mf 
+0000010 020  VHD     had                      Z5 A9+ A2.2 S4 
+0000010 030  VVN     known                    X2.2+ S3.2/B1% 
+0000010 040  DD1     that                     Z5 Z8 
+0000010 050  NN1     nicotine                 F3 
+0000010 060  VVZ     enhances                 A5.1+/A2.1 
+0000010 070  VVG     learning                 X2.3+ P1 
+0000010 080  II      by                       Z5 
+0000010 090  VVG     activating               T2+ 
+0000010 100  NN2     receptors                B1 
+0000010 110  IF      for                      Z5 
+0000010 120  AT      the                      Z5 
+0000010 130  NN1     neurotransmitter         B1 
+0000010 140  NN1     acetylcholine            Z99 
+0000010 141  .       .                        
+0000010 142  -----   -----                    
+0000010 150  DA      Such                     Z5 Z8 
+0000010 160  NN2     neurotransmitters        B1 
+0000010 170  VBR     are                      A3+ Z5 
+0000010 180  AT      the                      Z5 
+0000010 190  JJ      chemical                 O1 
+0000010 200  NN2     signals                  Q1.1 X2.2 X4.1 O2 Y1 
+0000010 210  CST     that                     Z5 Z8 
+0000010 220  MC1     one                      N1 T3 T1.2 
+0000010 230  NN1     neuron                   B1 
+0000010 240  VVZ     launches                 M4 M5 T2+ 
+0000010 250  II      at                       Z5 
+0000010 260  DD1     another                  A6.1- N5++ 
+0000010 270  TO      to                       Z5 
+0000010 280  VVI     trigger                  A2.2 
+0000010 290  AT1     a                        Z5 
+0000010 300  NN1     nerve                    B1 E5+ S1.2.3+ 
+0000010 310  NN1     impulse                  X7++ O3@ 
+0000010 320  II      in                       Z5 
+0000010 330  AT      the                      Z5 
+0000010 340  JJ@     receiving                A9+ S5+ 
+0000010 350  NN1     neuron                   B1 
+0000010 351  .       .                        
+0000011 001  -----   -----                    
+0000012 010  II      In                       Z5 
+0000012 020  APPGE   their                    Z8 
+0000012 030  NN2     studies                  P1 X2.4 H2 Q1.2 C1 
+0000012 031  ,       ,                        
+0000012 040  NP1     Mansvelder               Z99 
+0000012 050  CC      and                      Z5 
+0000012 060  NN2     colleagues               I3.2/S2mf 
+0000012 070  VVD     found                    A10+ X2.1 X6+ 
+0000012 080  CST     that                     Z8 Z5 
+0000012 090  II      by                       Z5 
+0000012 100  VVG     activating               T2+ 
+0000012 110  NN1     acetylcholine            Z99 
+0000012 120  NN2     receptors                B1 
+0000012 121  ,       ,                        
+0000012 130  NN1     nicotine                 F3 
+0000012 140  VVZ     affects                  A2.1+ A5.4-/A8 
+0000012 150  AT1     a                        Z5 
+0000012 160  NN1     process                  A1.1.1 X4.2 
+0000012 170  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000012 171  NULL    <quote>                  
+0000012 172  -----   -----                    
+0000012 173  "       "                        
+0000012 180  JJ      spike-timing-dependent   Z99 
+0000012 190  NN1     potentiation             Z99 
+0000012 191  "       "                        
+0000012 192  NULL    </quote>                 
+0000012 193  -----   -----                    
+0000012 200  DD1     that                     Z8 Z5 
+0000012 210  VVZ     governs                  S7.1+ A1.7+ 
+0000012 220  NN2     changes                  A2.1+ I1 B1 
+0000012 230  II      in                       Z5 
+0000012 240  NN1     strength                 S1.2.5+ O4.1 S7.1+ X9.1+ N5 
+0000012 250  IO      of                       Z5 
+0000012 260  VVG     signaling                Q1.1 X4.1 A10+ 
+0000012 270  NN2     connections              A2.2 S5+ M3 O3 A1.1.1 
+0000012 280  II      among                    Z5 
+0000012 290  NN2     neurons                  B1 
+0000012 291  .       .                        
+0000012 292  -----   -----                    
+0000012 300  DDQ     What                     Z8 Z5 
+0000012 301  VBZ     's                       A3+ Z5 
+0000012 310  RRR     more                     A13.3 N6++ 
+0000012 311  ,       ,                        
+0000012 320  AT      the                      Z5 
+0000012 330  NN2     researchers              X2.4/S2mf 
+0000012 340  VVD     traced                   A10+ C1 X2.4 Q2.1 
+0000012 350  DD1     this                     M6 Z5 Z8 
+0000012 360  NN1     effect                   A2.2 A8 
+0000012 370  II      to                       Z5 
+0000012 380  NN1     nicotine                 F3 
+0000012 381  GE      's                       Z5 
+0000012 390  NN1     action                   A1.1.1 G3 
+0000012 400  II      on                       Z5 
+0000012 410  JJ      specific                 A4.2+ 
+0000012 420  NN2     kinds                    A4.1 
+0000012 430  IO      of                       Z5 
+0000012 440  NN2     neurons                  B1 
+0000012 441  ,       ,                        
+0000012 450  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000012 460  JJ      GABAergic                Z99 
+0000012 470  NN2     neurons                  B1 
+0000012 471  ,       ,                        
+0000012 480  II      in                       Z5 
+0000012 490  AT      the                      Z5 
+0000012 500  NN1     learning                 X2.3+ P1 
+0000012 510  NN2     centers                  M6 H1c M7c G1.2c K5.1mfn 
+0000012 511  .       .                        
+0000012 512  -----   -----                    
+0000012 520  II      In                       N4[i3.2.1 Z5 
+0000012 530  NN1     turn                     N4[i3.2.2 N4 M1 O4.4 A2.1+ B2- K4 T1.3/I3.1 
+0000012 531  ,       ,                        
+0000012 540  AT      the                      Z5 
+0000012 550  NN2     effects                  A2.2 A8 
+0000012 560  II      on                       Z5 
+0000012 570  JJ      GABAergic                Z99 
+0000012 580  NN2     neurons                  B1 
+0000012 590  VVN     affected                 A2.1+ A5.4-/A8 
+0000012 600  VVG     signaling                Q1.1 X4.1 A10+ 
+0000012 610  II      between                  Z5 
+0000012 620  NN2     neurons                  B1 
+0000012 630  VVD     mediated                 T1.1.2 S8+ 
+0000012 640  II      by                       Z5 
+0000012 650  AT      the                      Z5 
+0000012 660  JJ      key                      A11.1+ 
+0000012 670  NN1     substance                O1 A11.1+ 
+0000012 680  NN1     calcium                  O1 
+0000012 681  .       .                        
+0000013 001  -----   -----                    
+0000014 010  AT      The                      Z5 
+0000014 020  NN2     researchers              X2.4/S2mf 
+0000014 030  RR      also                     N5++ 
+0000014 040  VVD     discovered               A10+ 
+0000014 050  JJ      key                      A11.1+ 
+0000014 060  NN2     details                  A4.2+ S5+c B5 
+0000014 070  IO      of                       Z5 
+0000014 080  AT      the                      Z5 
+0000014 090  NN2     mechanisms               O2 
+0000014 100  II      by                       Z5 
+0000014 110  DDQ     which                    Z8 Z5 
+0000014 120  NN1     nicotine                 F3 
+0000014 130  VVZ     excites                  X5.2+ 
+0000014 140  JJ      different                A6.1- 
+0000014 150  NN2     kinds                    A4.1 
+0000014 160  IO      of                       Z5 
+0000014 161  NULL    <quote>                  
+0000014 162  -----   -----                    
+0000014 163  "       "                        
+0000014 170  NN2     interneurons             Z99 
+0000014 171  "       "                        
+0000014 172  NULL    </quote>                 
+0000014 173  -----   -----                    
+0000014 180  II      in                       Z5 
+0000014 190  AT      the                      Z5 
+0000014 200  JJ      prefrontal               Z99 
+0000014 210  NN1     cortex                   B1 
+0000014 211  .       .                        
+0000014 212  -----   -----                    
+0000014 220  NN2     Interneurons             Z99 
+0000014 230  VBR     are                      A3+ Z5 
+0000014 240  AT      the                      Z5 
+0000014 250  NN2     way-stations             Z99 
+0000014 260  IF      for                      Z5 
+0000014 270  JJ      neuronal                 Z99 
+0000014 280  NN2     impulses                 X7++ O3@ 
+0000014 281  ,       ,                        
+0000014 290  VVG     passing                  M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
+0000014 300  JJ      neuronal                 Z99 
+0000014 310  NN2     signals                  Q1.1 X2.2 X4.1 O2 Y1 
+0000014 320  II      from                     Z5 
+0000014 330  MC1     one                      N1 T3 T1.2 
+0000014 340  NN1     neuron                   B1 
+0000014 350  II      to                       Z5 
+0000014 360  DD1     another                  A6.1- N5++ 
+0000014 361  .       .                        
+0000015 001  -----   -----                    
+0000016 010  FO      ###                      Z99 
+0000018 010  AT      The                      Z5 
+0000018 020  NN2     researchers              X2.4/S2mf 
+0000018 030  VV0     include                  A1.8+ 
+0000018 040  NP1     Jonathan                 Z1mf[i5.3.1 Z3c[i5.3.1 Z1m Z1mf[i4.2.1 Z3c[i4.2.1 
+0000018 050  NP1     J.                       Z1mf[i5.3.2 Z3c[i5.3.2 Z1mf[i4.2.2 Z3c[i4.2.2 Z1mf[i6.2.1 Z3c[i6.2.1 
+0000018 060  NP1     Couey                    Z3c[i5.3.3 Z1mf[i5.3.3 Z1mf[i6.2.2 Z3c[i6.2.2 
+0000018 061  ,       ,                        
+0000018 070  NP1     Rhiannon                 Z99 
+0000018 080  NN1     M.                       Q3 N3.3 N3.7 Z5 G1.1/S2 
+0000018 090  NP1     Meredith                 Z99 
+0000018 091  ,       ,                        
+0000018 100  JJ      Sabine                   Z1f 
+0000018 110  NN1     Spijker                  Z99 
+0000018 111  ,       ,                        
+0000018 120  NP1     Rogier                   Z1mf[i8.3.1 Z3c[i8.3.1 Z1mf[i7.2.1 Z3c[i7.2.1 
+0000018 130  NP1     B.                       Z1mf[i8.3.2 Z3c[i8.3.2 Z1mf[i7.2.2 Z3c[i7.2.2 Z1mf[i9.2.1 Z3c[i9.2.1 
+0000018 140  NP1     Poorthuis                Z3c[i8.3.3 Z1mf[i8.3.3 Z1mf[i9.2.2 Z3c[i9.2.2 
+0000018 141  ,       ,                        
+0000018 150  NPM1    August                   T1.3 
+0000018 160  NP1     B.                       Z1mf[i10.2.1 Z3c[i10.2.1 
+0000018 170  NP1     Smit                     Z1mf[i10.2.2 Z3c[i10.2.2 
+0000018 171  ,       ,                        
+0000018 180  NP1     Arjen                    Z1mf[i12.3.1 Z3c[i12.3.1 Z1mf[i11.2.1 Z3c[i11.2.1 
+0000018 190  NP1     B.                       Z1mf[i12.3.2 Z3c[i12.3.2 Z1mf[i11.2.2 Z3c[i11.2.2 Z1mf[i13.2.1 Z3c[i13.2.1 
+0000018 200  NP1     Brussaard                Z3c[i12.3.3 Z1mf[i12.3.3 Z1mf[i13.2.2 Z3c[i13.2.2 
+0000018 201  ,       ,                        
+0000018 210  CC      and                      Z5 
+0000018 220  NP1     Huibert                  Z1mf[i14.2.1 Z3c[i14.2.1 
+0000018 230  NP1     D.                       Z1mf[i14.2.2 Z3c[i14.2.2 
+0000018 240  NN1     Mansvelder               Z99 
+0000018 250  IO      of                       Z5 
+0000018 260  NP1     Vrije                    Z1mf[i16.3.1 Z3c[i16.3.1 Z1mf[i15.2.1 Z3c[i15.2.1 
+0000018 270  NP1     Universiteit             Z1mf[i16.3.2 Z3c[i16.3.2 Z1mf[i15.2.2 Z3c[i15.2.2 Z1mf[i17.2.1 Z3c[i17.2.1 
+0000018 280  NP1     Amsterdam                Z3c[i16.3.3 Z1mf[i16.3.3 Z2 Z1mf[i17.2.2 Z3c[i17.2.2 Z2[i18.3.1 Z2[i19.3.1 
+0000018 290  II      in                       Z5 Z2[i18.3.2 Z2[i19.3.2 
+0000018 300  NP1     Amsterdam                Z2 Z2[i18.3.3 Z2[i19.3.3 
+0000018 301  ,       ,                        
+0000018 310  AT      The                      Z5 
+0000018 320  NP1     Netherlands              Z2 Z3c 
+0000018 321  .       .                        
+0000019 001  -----   -----                    
+0000020 010  DD1     This                     M6 Z5 Z8 
+0000020 020  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
+0000020 030  VBDZ    was                      Z5 A3+ 
+0000020 040  VVN     supported                S8+ A1.1.1 K5.1 I1.1 A10+ 
+0000020 050  II      by                       Z5 
+0000020 060  NN2     grants                   I1.1 A9+ 
+0000020 070  II      from                     Z5 
+0000020 080  AT      the                      Z5 
+0000020 090  NN1     Faculty                  X9.1 H2 S5+c P1/I3.1/S2mfc 
+0000020 100  IO      of                       Z5 
+0000020 110  NN1     Earth                    W3 W1 O1.1 O3 N5++ 
+0000020 120  CC      and                      Z5 
+0000020 130  NN1     Life                     Z3c 
+0000020 140  NN2     Sciences                 Y1 
+0000020 150  CC      and                      Z5 
+0000020 160  NN1     Center                   M6 H1c M7c G1.2c K5.1mfn 
+0000020 170  IO      of                       Z5 
+0000020 180  JJ      Medical                  B3 
+0000020 190  NN2     Systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000020 200  NN1     Biology                  Y1/L1 Y1/B1 
+0000020 201  (       (                        
+0000020 210  JJ      A.B.S.                   Z3 
+0000020 211  )       )                        
+0000020 212  ,       ,                        
+0000020 220  AT      the                      Z5 
+0000020 230  JJ      Dutch                    Z2 Z2/Q3 Z2/S2mfnc 
+0000020 240  JJ      Medical                  Z3c[i20.3.1 B3 
+0000020 250  NN1     Research                 Z3c[i20.3.2 X2.4 
+0000020 260  NN1     Council                  Z3c[i20.3.3 G1.1c S7.1+/S5+c 
+0000020 261  (       (                        
+0000020 270  NP1     ZonMW                    Z99 
+0000020 280  MCMC    911-03-014               N1 T1.2 T3 T1.3 N3.2 
+0000020 290  II      to                       Z5 
+0000020 300  NP1     H.D.M.                   Z99 
+0000020 310  CC      and                      Z5 
+0000020 320  NP1     A.B.B.                   Z99 
+0000020 321  ,       ,                        
+0000020 330  CC      and                      Z5 
+0000020 340  NP1     ZonMW                    Z99 
+0000020 350  MCMC    016-076-360              N1 T1.2 T3 T1.3 N3.2 
+0000020 360  II      to                       Z5 
+0000020 370  NP1     H.D.M.                   Z99 
+0000020 371  )       )                        
+0000020 372  ,       ,                        
+0000020 380  CC      and                      Z5 
+0000020 390  AT      the                      Z3c[i21.2.1 Z5 
+0000020 400  JJ      Royal                    Z3c[i21.2.2 S7.1+ 
+0000020 410  NP1     Netherlands              Z3c[i22.2.1 Z2 Z3c 
+0000020 420  NN1     Academy                  Z3c[i22.2.2 P1c 
+0000020 430  IO      of                       Z5 
+0000020 440  NN2     Arts                     C1 P1 X9.1+ 
+0000020 450  CC      and                      Z5 
+0000020 460  NN2     Sciences                 Y1 
+0000020 461  (       (                        
+0000020 470  NP1     KNAW                     Z99 
+0000020 471  ,       ,                        
+0000020 480  II      to                       Z5 
+0000020 490  NP1     H.D.M.                   Z99 
+0000020 491  )       )                        
+0000020 492  .       .                        
+0000023 001  NULL    **8;39;text              

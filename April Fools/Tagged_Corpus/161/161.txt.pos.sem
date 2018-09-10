@@ -1,0 +1,148 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VV0     PRESS                    A1.1.1 X8+ S7.1+ E6- 
+0000002 020  NN1     RELEASE                  A1.7- A9- I2.2 K3 Q4 E6+ 
+0000002 021  :       :                        
+0000005 001  NULL    <quote>                  
+0000005 002  -----   -----                    
+0000005 010  PPIS1   I                        Z8mf 
+0000005 020  VV0     aim                      X7+ M6 
+0000005 030  TO      to                       Z5 
+0000005 040  VVI     try                      X8+ X2.4 Q2.2 G2.1 A12- 
+0000005 050  CC      and                      Z5 
+0000005 060  VVI     beat                     X9.2+/S7.3 X9.2+/G3 S7.1+ E3- A1.1.1 A5.1++ B1 
+0000005 070  PN1     everybody                Z8/N5.1+c 
+0000005 071  NULL    </quote>                 
+0000005 072  -----   -----                    
+0000005 080  VVZ     says                     Q2.1 
+0000005 090  JJ      Olympic                  Z3c 
+0000005 100  JJ      Hopeful                  X2.6+ E4.1+ X9.2+ A5.1+ 
+0000005 110  NP1     Joel                     Z1m 
+0000005 120  NN1     Mc                       S1.1.1/S2mf 
+0000005 130  NP1     Kenna                    Z1mf[i1.2.1 Z3c[i1.2.1 
+0000007 010  NP1     America                  Z1mf[i1.2.2 Z3c[i1.2.2 Z2 
+0000007 011  GE      's                       Z5 
+0000007 020  DA      own                      A9+ S5- 
+0000007 030  NP1     Joel                     Z1m 
+0000007 040  NN1     Mc                       S1.1.1/S2mf 
+0000007 050  NP1     Kenna                    Z99 
+0000007 060  VM      will                     T1.1.3 
+0000007 070  VVI     become                   A2.1+ O4.2+ 
+0000007 080  AT      the                      Z5 
+0000007 090  JJT     eldest                   T3+++ 
+0000007 100  NN1     competitor               S7.3+/S2mf 
+0000007 110  RR      ever                     T1.1 N6+++ A13 
+0000007 120  TO      to                       Z5 
+0000007 130  VHI     have                     Z5 A9+ A2.2 S4 
+0000007 140  VVN@    competed                 S7.3+ 
+0000007 150  II      at                       Z5 
+0000007 160  AT      the                      Z5 
+0000007 170  NP1     ConocoPhillips           Z1mf[i2.2.1 Z3c[i2.2.1 
+0000007 180  NP1     USA                      Z1mf[i2.2.2 Z3c[i2.2.2 Z2 
+0000007 190  VVG     Swimming                 M4 M1 N5.2+ 
+0000007 200  JJ      National                 Z3c 
+0000007 210  NN2     Championships            K5/S7.3+ S7.1+/K5 
+0000007 220  II      in                       Z5 
+0000007 230  NPM1    July                     T1.3 
+0000007 240  DDQ     which                    Z8 Z5 
+0000007 250  VM      will                     T1.1.3 
+0000007 260  VVI     serve                    S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
+0000007 270  II      as                       Z5 
+0000007 280  AT      the                      Z5 
+0000007 290  NN1     qualifying               A1.2+ I3.2+/P1 X9.2+/K5 A1.7+ S1.2.5-/A2.1 Q2.2 Q3 
+0000007 300  VV0     meet                     S3.1 M6 A1.1.1 X9.2+ A6.1+ 
+0000007 310  IF      for                      Z5 
+0000007 320  AT      the                      Z5 
+0000007 330  MC      2009                     N1 T1.2 T3 T1.3 N3.2 
+0000007 340  NP1     FINA                     Z3c 
+0000007 350  NN1     World                    W1 S5+c A4.1 N5+ 
+0000007 360  NN2     Championships            K5/S7.3+ S7.1+/K5 
+0000007 370  II      in                       Z5 
+0000007 380  NP1     Rome                     Z2 
+0000007 390  II      in                       Z5 
+0000007 400  APPGE   his                      Z8m 
+0000007 410  NN1     quest                    X2.4 
+0000007 420  TO      to                       Z5 
+0000007 430  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000007 440  AT      the                      Z5 
+0000007 450  MC      2012                     N1 T1.2 T3 T1.3 N3.2 
+0000007 460  JJ      Olympic                  Z3c 
+0000007 470  NN1     Swim                     M4 
+0000007 480  NN1     Team                     S5+c K5.1/S5+c S5+ 
+0000007 481  .       .                        
+0000008 001  -----   -----                    
+0000009 010  NP1     Joel                     Z1m 
+0000009 020  NN1     Mc                       S1.1.1/S2mf 
+0000009 030  NP1     Kenna                    Z99 
+0000009 040  VM      will                     T1.1.3 
+0000009 050  VBI     be                       A3+ Z5 
+0000009 060  MC      42                       T3[i4.3.1 N1 T1.2 T3 T1.3 N3.2 T3/S2mf[i3.3.1 T3[i3.3.1 T3[i5.3.1 
+0000009 070  NNT2    years                    T3[i4.3.2 T1.3 T3/S2mf[i3.3.2 T3[i3.3.2 T3[i5.3.2 
+0000009 080  JJ      old                      T3[i4.3.3 T3+ Z4 T3/S2mf[i3.3.3 T3[i3.3.3 T3[i5.3.3 
+0000009 090  II      in                       Z5 
+0000009 100  MC      2012                     N1 T1.2 T3 T1.3 N3.2 
+0000009 110  CC      and                      Z5 
+0000009 120  VVZ@    figures                  X2.1 X2.5+ 
+0000009 130  PPH1    it                       Z8 
+0000009 131  VBZ     's                       A3+ Z5 
+0000009 140  JJR     better                   A5.1++ G2.2++ O4.2++ 
+0000009 150  JJ      late                     T4- L1- T1.1 
+0000009 160  CSN     than                     Z5 
+0000009 170  RR      never                    T1/Z6 
+0000009 171  .       .                        
+0000009 172  NULL    <quote>                  
+0000009 173  -----   -----                    
+0000009 180  VVG     Coming                   M1/N6+[i6.2.1 X2.2+[i6.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000009 190  RP      back                     M1/N6+[i6.2.2 X2.2+[i6.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000009 191  ,       ,                        
+0000009 200  APPGE   my                       Z8 
+0000009 210  NN1     body                     B1 O2 S5+c O4.1 S2mf 
+0000009 220  VBZ     is                       Z5 A3+ 
+0000009 230  VVG     getting                  A2.1+ A9+ Z5 X9.2+ A2.2 M1 M2 X2.5+ E4.1- 
+0000009 240  JJR     older                    T3++ 
+0000009 250  CC      and                      Z5 
+0000009 260  PPIS1   I                        Z8mf 
+0000009 270  VM      might                    A7+ 
+0000009 280  XX      not                      Z6 
+0000009 290  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000009 300  DA2     many                     N5+ 
+0000009 310  DAR     more                     N5++ 
+0000009 320  NN2     opportunities            A1.4 
+0000009 330  II      after                    Z5 
+0000009 340  DD1     this                     M6 Z5 Z8 
+0000009 350  RR      so                       Z5 A13.3 
+0000009 360  PPIS1   I                        Z8mf 
+0000009 361  VBM     'm                       Z5 A3+ 
+0000009 370  VVGK    gon                      T1.1.3 
+0000009 371  TO      na                       Z5 
+0000009 380  VVI     try                      X8+ X2.4 Q2.2 G2.1 A12- 
+0000009 390  PPH1    it                       Z8 
+0000009 391  .       .                        
+0000009 392  NULL    </quote>                 
+0000009 393  -----   -----                    
+0000009 400  NNU     Mc                       S1.1.1/S2mf 
+0000009 410  NP1     Kenna                    Z99 
+0000009 420  AT1     a                        Z5 
+0000009 430  NP1     US                       Z8 
+0000009 440  NN2     Masters                  S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m X9.1+ 
+0000009 450  NN1     Swimmer                  M4/S2mf K5.1/M4/S2mf 
+0000009 460  VVZ     swims                    M4 M1 N5.2+ 
+0000009 470  II21    out                      Z5[i7.2.1 Z5 Z5[i8.2.1 A9-[i8.2.1 
+0000009 480  II22    of                       Z5[i7.2.2 Z5[i8.2.2 A9-[i8.2.2 
+0000009 490  AT      the                      Z5 
+0000009 500  NP1     Los                      Z2[i12.2.1 Z2[i10.2.1 Z1 Z2[i11.2.1 Z1mf[i9.2.1 Z3c[i9.2.1 
+0000009 510  NP1     Angeles                  Z2[i12.2.2 Z2[i10.2.2 Z2 Z2[i11.2.2 Z1mf[i9.2.2 Z3c[i9.2.2 
+0000009 520  NN1     area                     M7 A4.1 N3.6 
+0000009 530  CC      and                      Z5 
+0000009 540  VVZ     writes                   Q1.2 I2.1 
+0000009 550  AT1     a                        Z5 
+0000009 560  NN1     swim                     M4/E2+mf[i13.2.1 M4 
+0000009 570  NN1     fan                      M4/E2+mf[i13.2.2 E2+/S2mf O2 O4.4 
+0000009 580  NN1     blog                     Z99 
+0000009 590  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000009 600  FO      the17thman               Z99 
+0000009 610  NNU     http                     I1 
+0000009 611  :       :                        
+0000009 620  FU      //the17thman.typepad.com Z99 
+0000009 621  .       .                        
+0000012 001  NULL    **8;7;text               

@@ -1,0 +1,440 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN      MEDIA                    Q4c 
+0000002 020  NN1     RELEASE                  A1.7- A9- I2.2 K3 Q4 E6+ 
+0000003 010  MC      31                       N1 T1.2 T3 T1.3 N3.2 
+0000003 020  NPM1    March                    T1.3[i1.2.1 T1.3 
+0000003 030  MC      2009                     T1.3[i1.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000005 010  FU      **                       Z99 
+0000005 020  VVN     EMBARGOED                Z99 
+0000005 030  CS      UNTIL                    Z5 
+0000005 040  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000005 050  NPM1    APRIL                    T1.3[i2.2.1 T1.3 
+0000005 060  MC      2009                     T1.3[i2.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000005 070  FU      **                       Z99 
+0000007 010  NN1     Flight                   M5 M1 H2 
+0000007 020  NN1     Centre                   M6 H1c M7c G1.2c K5.1mfn 
+0000007 030  VVZ     Announces                Q2.2 
+0000007 040  JJ      New                      T3- 
+0000007 050  NP2     Zealands                 Z2 
+0000007 060  MD      First                    N4 
+0000007 070  NN1     Individual               S2mf 
+0000007 080  NP1     Jet-Pack                 Z99 
+0000007 090  NN2     Flights                  M5 M1 H2 
+0000009 010  MD      First                    N4 
+0000009 020  IO      of                       Z5 
+0000009 030  APPGE   its                      Z8 
+0000009 040  NN1     kind                     A4.1 
+0000009 050  II      in                       Z5 
+0000009 060  NP1     New                      Z1mf[i4.3.1 Z3c[i4.3.1 Z1mf[i3.2.1 Z3c[i3.2.1 Z2[i5.2.1 Z3c[i5.2.1 
+0000009 070  NP1     Zealand                  Z1mf[i4.3.2 Z3c[i4.3.2 Z2 Z1mf[i3.2.2 Z3c[i3.2.2 Z2[i5.2.2 Z3c[i5.2.2 Z1mf[i6.2.1 Z3c[i6.2.1 
+0000011 010  VM      Will                     Z3c[i4.3.3 Z1mf[i4.3.3 Z1m Z1mf[i6.2.2 Z3c[i6.2.2 
+0000011 020  RR      greatly                  A13.3 A5.1+ 
+0000011 030  VVI     reduce                   N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000011 040  NN1     travel                   M1 
+0000011 050  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000011 051  ,       ,                        
+0000011 060  NN1     take-off                 X9.2+ M5 M2 
+0000011 070  II      from                     Z5 
+0000011 080  RL      anywhere                 M6 
+0000013 010  NN2     Fares                    I1.3/M3 M3/S2mf F1 X9.2 
+0000013 020  VVG     starting                 T2+ E5- E3- 
+0000013 030  II      from                     Z5 
+0000013 040  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000013 050  NNU     $50                      Z99 
+0000013 060  II      per                      Z5 
+0000013 070  NN1     flight                   M5 M1 H2 
+0000015 010  NN1     Flight                   M5 M1 H2 
+0000015 020  NN1     Centre                   M6 H1c M7c G1.2c K5.1mfn 
+0000015 030  RT      today                    T1.1.2 
+0000015 040  VVD     announced                Q2.2 
+0000015 050  APPGE   its                      Z8 
+0000015 060  NN2     plans                    X7+ C1/H1 
+0000015 070  TO      to                       Z5 
+0000015 080  VVI     sell                     I2.2 
+0000015 090  JJ      New                      T3- 
+0000015 100  NP2     Zealands                 Z2 
+0000015 110  MD      first                    N4 
+0000015 120  JJ      jet-pack                 Z99 
+0000015 130  NN1     travel                   M1 
+0000015 140  NN2     flights                  M5 M1 H2 
+0000015 150  II      from                     Z5 
+0000015 160  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000015 170  NPM1    April                    T1.3[i7.2.1 T1.3 
+0000015 180  MC      2012                     T1.3[i7.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000015 181  .       .                        
+0000016 001  -----   -----                    
+0000017 010  AT      The                      Z5 
+0000017 020  JJ      new                      T3- 
+0000017 030  NN1     offering                 A9- Q2.2 
+0000017 040  VBZ     is                       Z5 A3+ 
+0000017 050  VVN     designed                 C1 X7+ 
+0000017 060  TO      to                       Z5 
+0000017 070  VVI     provide                  A9- S6+ 
+0000017 080  JJ      New                      T3- 
+0000017 090  NN2     Zealanders               Z2/S2mf 
+0000017 100  IW      with                     Z5 
+0000017 110  AT1     a                        Z5 
+0000017 120  JJ      unique                   N5--- 
+0000017 130  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000017 140  IO      of                       Z5 
+0000017 150  VVG     travelling               M1 
+0000017 160  II      across                   Z5 
+0000017 170  AT      the                      Z5 
+0000017 180  NN1     country                  G1.1c W3 F4/M7 K2 
+0000017 181  .       .                        
+0000017 182  -----   -----                    
+0000017 190  AT      The                      Z5 
+0000017 200  JJ      new                      T3- 
+0000017 210  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000017 220  NN1     offering                 A9- Q2.2 
+0000017 230  VM      will                     T1.1.3 
+0000017 240  VVI     revolutionise            A2.1+ 
+0000017 250  JJ      domestic                 H4 S4 E3+/L2 M6 
+0000017 260  NN1     travel                   M1 
+0000017 270  CC      and                      Z5 
+0000017 280  VM      will                     T1.1.3 
+0000017 290  RR      dramatically             K4 E1/N5.2+ N3.8++ 
+0000017 300  VVG     reducing                 N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000017 310  NN1     travel                   M1 
+0000017 320  NNT2    times                    T1 T1.2 T1.3 T1.1.2 N6 N1 
+0000017 330  IF      for                      Z5 
+0000017 340  DB      all                      N5.1+ 
+0000017 350  NN2     passengers               M3/S2mf M4/S2mf M5/S2mf 
+0000017 351  .       .                        
+0000018 001  -----   -----                    
+0000019 010  NN2     Customers                I2.2/S2mf 
+0000019 020  VM      will                     T1.1.3 
+0000019 030  VVI     purchase                 I2.2 
+0000019 040  NN2     flights                  M5 M1 H2 
+0000019 050  II      through                  Z5 
+0000019 060  DD      any                      N5.1+ N5 
+0000019 070  IO      of                       Z5 
+0000019 080  AT      the                      Z5 
+0000019 090  NN1     Flight                   M5 M1 H2 
+0000019 100  NN1     Centre                   M6 H1c M7c G1.2c K5.1mfn 
+0000019 110  NN2     stores                   I2.2/H1 A9+ A9+/H1 F1 
+0000019 120  II      across                   Z5 
+0000019 130  AT      the                      Z5 
+0000019 140  NN1     country                  G1.1c W3 F4/M7 K2 
+0000019 150  RR      either                   Z5 
+0000019 160  II      via                      Z5 
+0000019 170  AT      the                      Z5 
+0000019 180  MC      0800                     Q1.3/I1.3-[i8.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000019 190  NN1     number                   Q1.3/I1.3-[i8.2.2 N5 N1 Q1.3 K2 Q4.2 
+0000019 191  ,       ,                        
+0000019 200  II      via                      Z5 
+0000019 210  NN1     email                    Q1.3/Y2 
+0000019 220  CC      or                       Z5 
+0000019 230  RR      simply                   A13.6 A14 A12+ 
+0000019 240  II      by                       Z5 
+0000019 250  VVG     booking                  A9+/Q2.2 G2.1 
+0000019 260  II      in                       Z5 
+0000019 270  NN1     store                    I2.2/H1c A9+ A9+/H1 
+0000019 271  .       .                        
+0000019 272  -----   -----                    
+0000019 280  NN2     Customers                I2.2/S2mf 
+0000019 290  RT      then                     N4 Z5 T1.2 
+0000019 300  RR      simply                   A13.6 A14 A12+ 
+0000019 310  VV0     pick                     M2[i9.2.1 A9+[i9.2.1 X3[i9.2.1 X2.3+[i9.2.1 A5.1+/A2.1[i9.2.1 A10+[i9.2.1 S3.2[i9.2.1 T2+[i9.2.1 I2.2[i9.2.1 M3fn[i9.2.1 G2.1[i9.2.1 X7+ A1.1.1 
+0000019 320  RP      up                       M2[i9.2.2 A9+[i9.2.2 X3[i9.2.2 X2.3+[i9.2.2 A5.1+/A2.1[i9.2.2 A10+[i9.2.2 S3.2[i9.2.2 T2+[i9.2.2 I2.2[i9.2.2 M3fn[i9.2.2 G2.1[i9.2.2 
+0000019 330  AT      the                      Z5 
+0000019 340  NN1     jet-pack                 Z99 
+0000019 350  II      at                       Z5 
+0000019 360  AT1     a                        Z5 
+0000019 370  JJ      convenient               A12+ S8+ 
+0000019 380  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000019 381  ,       ,                        
+0000019 390  VVG     ensuring                 A7+ 
+0000019 400  NN1     theyre                   Z99 
+0000019 410  VVD     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000019 420  TO      to                       Z5 
+0000019 430  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000019 440  II      at                       Z5 
+0000019 450  APPGE   their                    Z8 
+0000019 460  NN1     leisure                  K1 
+0000019 461  .       .                        
+0000020 001  -----   -----                    
+0000021 010  NN1     Flight                   M5 M1 H2 
+0000021 020  NN2     Centres                  M6 H1c M7c G1.2c K5.1mfn A11.1+ 
+0000021 030  NN1     spokesperson             Q2.2/S2mf 
+0000021 031  ,       ,                        
+0000021 040  NP1     Marie                    Z1mf[i10.2.1 Z3c[i10.2.1 Z1f 
+0000021 050  NP1     Pilkington               Z1mf[i10.2.2 Z3c[i10.2.2 Z1mf Z3c 
+0000021 051  ,       ,                        
+0000021 060  VVD     said                     Q2.1 
+0000021 070  DD1     this                     M6 Z5 Z8 
+0000021 080  NN1     landmark                 M7/A11.2+ A11.1+ 
+0000021 090  NN1     method                   X4.2 
+0000021 100  IO      of                       Z5 
+0000021 110  NN1     travel                   M1 
+0000021 120  VM      will                     T1.1.3 
+0000021 130  VVI     provide                  A9- S6+ 
+0000021 140  AT1     an                       Z5 
+0000021 150  JJ      economical               I1.3- N5- 
+0000021 160  CC      and                      Z5 
+0000021 170  JJ      efficient                X9.1+/I3.2 N3.8+ A1.5.2+ 
+0000021 180  NN1     alternative              A6.1- 
+0000021 190  II      to                       Z5 
+0000021 200  AT      the                      Z5 
+0000021 210  JJ      current                  T1.1.2 
+0000021 220  NN1     travel                   M1/I2.2[i11.2.1 M1 
+0000021 230  NN1     market                   M1/I2.2[i11.2.2 I2.2 I2.2/H1 
+0000021 231  .       .                        
+0000023 001  NULL    <quote>                  
+0000023 002  -----   -----                    
+0000023 010  AT      The                      Z5 
+0000023 020  JJ      new                      T3- 
+0000023 030  JJ      jet-pack                 Z99 
+0000023 040  NN1     travel                   M1 
+0000023 050  VVZ     means                    Q1.1 X7+ 
+0000023 060  AT1     an                       Z5 
+0000023 070  NN1     end                      M6 T2- O2 X7+ N4 
+0000023 080  II      to                       Z5 
+0000023 090  NN1     airport                  M5/M7 
+0000023 100  NN1     parking                  M8 
+0000023 110  CC      and                      Z5 
+0000023 120  JJ      expensive                I1.3+ 
+0000023 130  NN2     transfers                M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5 C1 
+0000023 131  ,       ,                        
+0000023 140  JJ      scheduled                X7+/T1 
+0000023 150  NN2     departures               M1 T2+ 
+0000023 160  CC      and                      Z5 
+0000023 170  JJ      down                     M6 N4 N5-- E4.1- S7.1- N3.1 Q1.2 
+0000023 180  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000023 190  II21    prior                    N4[i12.2.1 
+0000023 200  II22    to                       N4[i12.2.2 Z5 
+0000023 210  NN1     travelling               M1 
+0000023 211  .       .                        
+0000024 001  NULL    </quote>                 
+0000025 001  NULL    <quote>                  
+0000025 002  -----   -----                    
+0000025 010  NN2     Customers                I2.2/S2mf 
+0000025 020  VM      can                      A7+ 
+0000025 030  RR      simply                   A13.6 A14 A12+ 
+0000025 040  VVI     pick                     M2[i13.2.1 A9+[i13.2.1 X3[i13.2.1 X2.3+[i13.2.1 A5.1+/A2.1[i13.2.1 A10+[i13.2.1 S3.2[i13.2.1 T2+[i13.2.1 I2.2[i13.2.1 M3fn[i13.2.1 G2.1[i13.2.1 X7+ A1.1.1 
+0000025 050  RP      up                       M2[i13.2.2 A9+[i13.2.2 X3[i13.2.2 X2.3+[i13.2.2 A5.1+/A2.1[i13.2.2 A10+[i13.2.2 S3.2[i13.2.2 T2+[i13.2.2 I2.2[i13.2.2 M3fn[i13.2.2 G2.1[i13.2.2 
+0000025 060  AT1     a                        Z5 
+0000025 070  NN1     jet-pack                 Z99 
+0000025 080  II      from                     Z5 
+0000025 090  DD      any                      N5.1+ N5 
+0000025 100  IO      of                       Z5 
+0000025 110  APPGE   our                      Z8 
+0000025 120  MC      140                      N1 T1.2 T3 T1.3 N3.2 
+0000025 130  NN2     stores                   I2.2/H1 A9+ A9+/H1 F1 
+0000025 140  II      across                   Z5 
+0000025 150  AT      the                      Z5 
+0000025 160  NN1     country                  G1.1c W3 F4/M7 K2 
+0000025 170  II      at                       Z5 
+0000025 180  APPGE   their                    Z8 
+0000025 190  NN1     convenience              A1.2+ A1.5.2 O2 
+0000025 191  .       .                        
+0000025 192  -----   -----                    
+0000025 200  CS      If                       Z7 
+0000025 210  PPHS2   they                     Z8mfn 
+0000025 220  VH0     have                     A9+ Z5 A2.2 S4 
+0000025 230  AT1     an                       Z5 
+0000025 240  JJ      early                    T4+ T1.1.1 
+0000025 250  NNT1    morning                  T1.3 
+0000025 260  NN1     meeting                  S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+ 
+0000025 261  ,       ,                        
+0000025 270  RR      simply                   A13.6 A14 A12+ 
+0000025 280  VV0%    book                     A9+/Q2.2 G2.1 
+0000025 290  APPGE   your                     Z8 
+0000025 300  JJ      jet-pack                 Z99 
+0000025 310  NN1     journey                  M1 
+0000025 320  AT      the                      N4/T1.3[i14.3.1 Z5 
+0000025 330  NNT1    day                      N4/T1.3[i14.3.2 T1.3 
+0000025 340  CS      before                   N4/T1.3[i14.3.3 Z5 
+0000025 350  CS@     so                       Z5 
+0000025 360  PPY     you                      Z8mf 
+0000025 370  VH0     have                     A9+ Z5 A2.2 S4 
+0000025 380  AT      the                      Z5 
+0000025 390  NN1     equipment                O2 
+0000025 400  II      at                       Z5 
+0000025 410  APPGE   your                     Z8 
+0000025 420  NN1     house                    H1 P1/S5+c G1.1c 
+0000025 430  JJ      ready                    O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+ 
+0000025 440  TO      to                       Z5 
+0000025 450  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000025 460  MD      first                    T1.2[i15.5.1 N4 
+0000025 470  NN1     thing                    T1.2[i15.5.2 O2 X4.1 A7- S2mf L2mf 
+0000025 480  II      in                       T1.2[i15.5.3 Z5 
+0000025 490  AT      the                      T1.2[i15.5.4 Z5 
+0000025 500  NNT1    morning                  T1.2[i15.5.5 T1.3 
+0000025 501  .       .                        
+0000026 001  NULL    </quote>                 
+0000027 001  NULL    <quote>                  
+0000027 002  -----   -----                    
+0000027 010  NN1     Flight                   M5 M1 H2 
+0000027 020  NN1     Centre                   M6 H1c M7c G1.2c K5.1mfn 
+0000027 030  VBZ     is                       Z5 A3+ 
+0000027 040  VVG     putting                  M2 Q2.1 Q2.2 A1.1.1 
+0000027 050  NN1     departure                M1 T2+ 
+0000027 060  NNT2    times                    T1 T1.2 T1.3 T1.1.2 N6 N1 
+0000027 070  II      in                       Z5 
+0000027 080  AT      the                      Z5 
+0000027 090  NN2     hands                    B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000027 100  IO      of                       Z5 
+0000027 110  APPGE   their                    Z8 
+0000027 120  NN2     customers                I2.2/S2mf 
+0000027 121  ,       ,                        
+0000027 122  NULL    </quote>                 
+0000027 123  -----   -----                    
+0000027 130  NNB     Ms                       S2.1f B2- 
+0000027 140  NP1     Pilkington               Z1mf Z3c 
+0000027 150  VVD     said                     Q2.1 
+0000027 151  .       .                        
+0000028 001  -----   -----                    
+0000029 010  NN1     Flight                   M5 M1 H2 
+0000029 020  NN1     Centre                   M6 H1c M7c G1.2c K5.1mfn 
+0000029 030  VHZ     has                      Z5 A9+ A2.2 S4 
+0000029 040  VVN     purchased                I2.2 
+0000029 050  AT1     a                        Z5 
+0000029 060  NN1     fleet                    M4c M3c 
+0000029 070  IO      of                       Z5 
+0000029 080  NN2     jet-packs                Z99 
+0000029 090  CC      and                      Z5 
+0000029 100  VM      will                     T1.1.3 
+0000029 110  VVI     begin                    T2+ 
+0000029 120  VV0     roll                     I2/T2+[i16.2.1 A1.1.1[i16.2.1 M1 M2 A1.1.1 
+0000029 130  RP      out                      I2/T2+[i16.2.2 A1.1.1[i16.2.2 M6 
+0000029 140  II      into                     Z5 
+0000029 150  NN2     stores                   I2.2/H1 A9+ A9+/H1 F1 
+0000029 160  RR      early                    T4+ 
+0000029 170  MC      2012                     N1 T1.2 T3 T1.3 N3.2 
+0000029 180  TO      to                       Z5 
+0000029 190  VVI     ensure                   A7+ 
+0000029 200  AT      the                      Z5 
+0000029 210  NN1     launch                   M4fn M5 T2+ 
+0000029 220  NN1     date                     T1.2 S3.2 S3.2/S2mf 
+0000029 230  IO      of                       Z5 
+0000029 240  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000029 250  NPM1    April                    T1.3[i17.2.1 T1.3 
+0000029 260  MC      2012                     T1.3[i17.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000029 270  VBZ     is                       Z5 A3+ 
+0000029 280  VVN     met                      S3.1 M6 A1.1.1 A6.1+ 
+0000029 281  .       .                        
+0000030 001  -----   -----                    
+0000031 010  AT      The                      Z5 
+0000031 020  NN2     packs                    O2 N5 S5+ 
+0000031 030  VBR     are                      Z5 A3+ 
+0000031 040  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000031 050  IO      of                       Z5 
+0000031 060  AT      the                      Z5 
+0000031 070  JJT     highest                  N3.7+++ N5+++ A11.1+++ S7.1+++ A5.1+++ T3--- X3.2 G2.2+++ E4.1+++ I1.3+++ O4.2--- O4.6+++ S9 
+0000031 080  NN1     quality                  A5.1 A5.1+ O4.1 
+0000031 090  NN2     materials                O1 B5 O2 
+0000031 100  VVG     ensuring                 A7+ 
+0000031 110  NN1     passenger                M3/S2mf M4/S2mf M5/S2mf 
+0000031 120  NN1     safety                   A15+ 
+0000031 130  VBZ     is                       A3+ Z5 
+0000031 140  AT1     a                        Z5 
+0000031 150  NN1     priority                 A11.1+ 
+0000031 160  IF      for                      Z5 
+0000031 170  DB      all                      N5.1+ 
+0000031 180  JJ      individual               N5- 
+0000031 190  NN2     flights                  M5 M1 H2 
+0000031 191  .       .                        
+0000033 001  NULL    <quote>                  
+0000033 002  -----   -----                    
+0000033 010  AT      The                      Z5 
+0000033 020  NN2     jet-packs                Z99 
+0000033 030  VH0     have                     Z5 A9+ A2.2 S4 
+0000033 040  VBN     been                     A3+ Z5 
+0000033 050  NN1     custom                   A6.2+ S1.1.1 I2.2 
+0000033 060  VVD     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000033 070  TO      to                       Z5 
+0000033 080  VVI     ensure                   A7+ 
+0000033 090  NN1     ease                     A12+ 
+0000033 100  IO      of                       Z5 
+0000033 110  NN1     use                      A1.5.1 
+0000033 120  CC      and                      Z5 
+0000033 130  JJ      complete                 N5.1+ T2- N3.2+ 
+0000033 140  NN1     reliability              A5.1+ 
+0000033 141  .       .                        
+0000033 142  -----   -----                    
+0000033 150  AT      The                      Z5 
+0000033 160  JJ      open-air                 W1 
+0000033 170  NN1     design                   C1 X7+ B5 
+0000033 180  VVZ     means                    Q1.1 X7+ 
+0000033 190  NN2     passengers               M3/S2mf M4/S2mf M5/S2mf 
+0000033 200  VBR     are                      A3+ Z5 
+0000033 210  VM      can                      A7+ 
+0000033 220  VVI     breathe                  B1 
+0000033 230  JJ      fresh                    T3- O4.2+ B1 W4 S1.2.3+ 
+0000033 240  NN1     air                      O1.3 A8 W1 Q4.3 M1 
+0000033 250  II      during                   Z5 
+0000033 260  AT      the                      Z5 
+0000033 270  NN1     flight                   M5 M1 H2 
+0000033 280  CC      and                      Z5 
+0000033 290  JJ      dry                      O1.2- F2- X3.1 X9.1+ X5.2- N5- Q2.1/N5- 
+0000033 300  NN1     hair                     B1 
+0000033 310  VBZ     is                       Z5 A3+ 
+0000033 320  VVN     guaranteed               A7+/Q2.2 
+0000033 330  CS      when                     Z5 
+0000033 340  PPY     you                      Z8mf 
+0000033 350  VV0     arrive                   M1 T2- 
+0000033 360  II      at                       Z5 
+0000033 370  APPGE   your                     Z8 
+0000033 380  NN1     destination              M6 
+0000033 381  !       !                        
+0000033 382  NULL    </quote>                 
+0000033 383  -----   -----                    
+0000033 390  VVD     said                     Q2.1 
+0000033 400  NNB     Ms                       S2.1f B2- 
+0000033 410  NP1     Pilkington               Z1mf Z3c 
+0000033 411  .       .                        
+0000034 001  -----   -----                    
+0000035 010  NN2     Prices                   I1.3 
+0000035 020  IF      for                      Z5 
+0000035 030  AT      the                      Z5 
+0000035 040  JJ      new                      T3- 
+0000035 050  JJ      jet-pack                 Z99 
+0000035 060  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000035 070  VVZ     starts                   T2+ E5- E3- 
+0000035 080  II      from                     Z5 
+0000035 090  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000035 100  NNU     $50                      Z99 
+0000035 110  NN1     hire                     I2.2 
+0000035 120  II      per                      Z5 
+0000035 130  NN1     flight                   M5 M1 H2 
+0000035 140  CC      and                      Z5 
+0000035 150  NN1     Flight                   M5 M1 H2 
+0000035 160  NN1     Centre                   M6 H1c M7c G1.2c K5.1mfn 
+0000035 170  VBZ     is                       Z5 A3+ 
+0000035 180  VVG     anticipating             X2.6+ 
+0000035 190  AT1     a                        Z5 
+0000035 200  JJ      large                    N3.2+ N5+ A11.1+ 
+0000035 210  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000035 220  IO      of                       Z5 
+0000035 230  NN2     bookings                 A9+/Q2.2 
+0000035 240  II      during                   Z5 
+0000035 250  AT      the                      Z5 
+0000035 260  JJ      initial                  T2+ 
+0000035 270  NN1     launch                   M4fn M5 T2+ 
+0000035 280  NN1     phase                    T1.3 
+0000035 281  .       .                        
+0000036 001  -----   -----                    
+0000037 010  NN2     Kiwis                    L2mfn Z2/S2mf 
+0000037 020  VM      can                      A7+ 
+0000037 030  VVI     book                     A9+/Q2.2 G2.1 
+0000037 040  APPGE   their                    Z8 
+0000037 050  JJ      jet-pack                 Z99 
+0000037 060  NN2     journeys                 M1 
+0000037 070  RT      now                      T1.1.2 Z4 
+0000037 080  TO      to                       Z5 
+0000037 090  VVI     avoid                    A1.9 M1 
+0000037 100  NN1     disappointment           E4.2- 
+0000037 110  II      by                       Z5 
+0000037 120  VVG     calling                  Q2.2 S1.1.1 Q1.3 S9% 
+0000037 130  MC      0800                     N1[i20.4.1 I1[i20.4.1 N1 T1.2 T3 T1.3 N3.2 T1.3[i19.3.1 T1.2[i19.3.1 N1[i19.3.1 I1[i19.3.1 N1[i18.2.1 T3[i18.2.1 T1.2[i18.2.1 T1.3[i18.2.1 N3.3[i18.2.1 N3.5[i18.2.1 I1[i18.2.1 N1[i21.3.1 T1.3[i21.3.1 I1[i21.3.1 
+0000037 140  MC      35                       N1[i20.4.2 I1[i20.4.2 N1 T1.2 T3 T1.3 N3.2 T1.3[i19.3.2 T1.2[i19.3.2 N1[i19.3.2 I1[i19.3.2 N1[i18.2.2 T3[i18.2.2 T1.2[i18.2.2 T1.3[i18.2.2 N3.3[i18.2.2 N3.5[i18.2.2 I1[i18.2.2 N1[i21.3.2 T1.3[i21.3.2 I1[i21.3.2 N1[i22.2.1 T3[i22.2.1 T1.2[i22.2.1 T1.3[i22.2.1 N3.3[i22.2.1 N3.5[i22.2.1 I1[i22.2.1 T1.3[i23.3.1 T1.2[i23.3.1 N1[i23.3.1 I1[i23.3.1 N1[i24.3.1 T1.3[i24.3.1 I1[i24.3.1 
+0000037 150  MC      44                       N1[i20.4.3 I1[i20.4.3 N1 T1.2 T3 T1.3 N3.2 T1.2[i19.3.3 N1[i19.3.3 I1[i19.3.3 T1.3[i19.3.3 N1[i21.3.3 T1.3[i21.3.3 I1[i21.3.3 N1[i22.2.2 T3[i22.2.2 T1.2[i22.2.2 T1.3[i22.2.2 N3.3[i22.2.2 N3.5[i22.2.2 I1[i22.2.2 T1.3[i23.3.2 T1.2[i23.3.2 N1[i23.3.2 I1[i23.3.2 N1[i24.3.2 T1.3[i24.3.2 I1[i24.3.2 N1[i25.2.1 T3[i25.2.1 T1.2[i25.2.1 T1.3[i25.2.1 N3.3[i25.2.1 N3.5[i25.2.1 I1[i25.2.1 
+0000037 160  MC      48                       I1[i20.4.4 N1[i20.4.4 N1 T1.2 T3 T1.3 N3.2 T1.3[i23.3.3 T1.2[i23.3.3 N1[i23.3.3 I1[i23.3.3 N1[i24.3.3 T1.3[i24.3.3 I1[i24.3.3 N1[i25.2.2 T3[i25.2.2 T1.2[i25.2.2 T1.3[i25.2.2 N3.3[i25.2.2 N3.5[i25.2.2 I1[i25.2.2 
+0000037 170  CC      or                       Z5 
+0000037 180  II      by                       Z5 
+0000037 190  VVG     visiting                 S1.1.1 M1 
+0000037 200  NNU     www.flightcentre.co.nz   Z99 
+0000039 010  NN2     ENDS                     T2- O2 
+0000042 001  NULL    **8;7;text               

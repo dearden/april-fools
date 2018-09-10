@@ -1,0 +1,382 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  II      From                     Z5 
+0000002 020  NP1     Australia                Z2 
+0000002 030  II      to                       Z5 
+0000002 040  AT      the                      Z5 
+0000002 050  NP1     U.K.                     Z2 
+0000002 051  ,       ,                        
+0000002 060  CC      and                      Z5 
+0000002 070  DB      all                      N5.1+ 
+0000002 080  II      across                   Z5 
+0000002 090  AT      the                      Z5 
+0000002 100  NP1     U.S.                     Z8 
+0000002 101  ,       ,                        
+0000002 110  NN2     politicians              G1.2/S2mf 
+0000002 120  CC      and                      Z5 
+0000002 130  NN2     corporations             I2.1/S5c G1.1c 
+0000002 140  VBR     are                      Z5 A3+ 
+0000002 150  VVG     pondering                X2.1 
+0000002 160  NN1@    banning                  S7.4- 
+0000002 170  CC      or                       Z5 
+0000002 180  JJ      taxing                   A12- 
+0000002 190  NN1     plastic                  O2[i1.2.1 O1.1 
+0000002 200  NN2     bags                     O2[i1.2.2 B5 B1 
+0000002 201  .       .                        
+0000003 001  -----   -----                    
+0000004 010  AT1     A                        Z5 
+0000004 020  JJ      hefty                    N3.2+ 
+0000004 030  NN1     surcharge                I1.3 
+0000004 040  CST     that                     Z8 Z5 
+0000004 050  VVD     began                    T2+ 
+0000004 060  II      in                       Z5 
+0000004 070  MC      2003                     N1 T1.2 T3 T1.3 N3.2 
+0000004 080  II      in                       Z5 
+0000004 090  NP1     Ireland                  Z2 Z1mf 
+0000004 100  VHZ     has                      Z5 A9+ A2.2 S4 
+0000004 110  VVN     spurred                  X5.2+ A2.2 
+0000004 120  AT      the                      Z5 
+0000004 130  NN1     public                   S5+ A10+ S5+c 
+0000004 140  RL      there                    M6 T1.2 
+0000004 150  TO      to                       Z5 
+0000004 160  VVI     spurn                    X7- 
+0000004 170  NN1     plastic                  O2[i2.2.1 O1.1 
+0000004 180  NN2     bags                     O2[i2.2.2 B5 B1 
+0000004 190  RR      almost                   A13.4 
+0000004 200  RR      completely               A13.2 
+0000004 210  II31    in                       S8+[i3.3.1 Z5 
+0000004 220  II32    favor                    S8+[i3.3.2 
+0000004 230  II33    of                       S8+[i3.3.3 
+0000004 240  JJ      reusable                 A1.5.1/N6+ 
+0000004 250  NN1     cloth                    B5 O2 S9/S5+ 
+0000004 260  NN2     totes                    N2 A2.2 X2.5+ 
+0000004 261  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NN1     Plastic                  O1.1 
+0000006 020  NN2     sacks                    O2 I3.1- F2% 
+0000006 030  VBR     are                      Z5 A3+ 
+0000006 040  RR      also                     N5++ 
+0000006 050  VVN     taxed                    I1.1/G1.1 A12- 
+0000006 060  II      in                       Z5 
+0000006 070  NP1     Italy                    Z2 
+0000006 080  CC      and                      Z5 
+0000006 090  NP1     Belgium                  Z2 
+0000006 091  .       .                        
+0000006 092  -----   -----                    
+0000006 100  NN1     Grocery                  F1 
+0000006 110  NN2     shoppers                 I2.2/S2mf 
+0000006 120  VM      must                     S6+ A7+ 
+0000006 130  VVI     pay                      I1.2 A9- I1.1/I3.1 
+0000006 140  IF      for                      Z5 
+0000006 150  AT      the                      Z5 
+0000006 160  NN2     bags                     B5 B1 
+0000006 170  II      in                       Z5 
+0000006 180  NP1     Switzerland              Z2 
+0000006 181  ,       ,                        
+0000006 190  NP1     Germany                  Z2 
+0000006 191  ,       ,                        
+0000006 200  CC      and                      Z5 
+0000006 210  NP1     Holland                  Z2 Z1mf 
+0000006 211  .       .                        
+0000006 212  -----   -----                    
+0000006 220  NP1     Spain                    Z2 
+0000006 221  ,       ,                        
+0000006 230  NP1     Norway                   Z2 Z3c 
+0000006 231  ,       ,                        
+0000006 240  CC      and                      Z5 
+0000006 250  RT      now                      T1.1.2 Z4 
+0000006 260  AT      the                      Z5 
+0000006 270  NP1     U.K.                     Z2 
+0000006 280  VBR     are                      Z5 A3+ 
+0000006 290  VVG     considering              X2.1 X2.4 X6 
+0000006 300  AT1     a                        Z5 
+0000006 310  NN1     ban                      S7.4- 
+0000006 320  CC      or                       Z5 
+0000006 330  NN1     tax                      I1.1/G1.1 
+0000006 340  RR21    as                       N5++[i4.2.1 
+0000006 350  RR22    well                     N5++[i4.2.2 A5.1+ A13.3 A7+ B2+ Z4 
+0000006 351  .       .                        
+0000007 001  -----   -----                    
+0000008 010  AT      The                      Z5 
+0000008 020  JJ      political                G1.2 
+0000008 030  NN1     action                   A1.1.1 G3 
+0000008 040  II      in                       Z5 
+0000008 050  AT      the                      Z5 
+0000008 060  NP1     U.K.                     Z2 
+0000008 070  II      on                       Z5 
+0000008 080  JJ      single-use               Z99 
+0000008 090  NN1     plastic                  O2[i5.2.1 O1.1 
+0000008 100  NN2     bags                     O2[i5.2.2 B5 B1 
+0000008 110  VVZ     follows                  M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 
+0000008 120  JJ      similar                  A6.1+ 
+0000008 130  NN2     gestures                 Q1.1/B1 A10+ M1 A1.1.1 
+0000008 140  RRR     earlier                  N4 T1.1.1 T4++ 
+0000008 150  DD1     this                     M6 Z5 Z8 
+0000008 160  NNT1    year                     T1.3 P1c 
+0000008 170  II      in                       Z5 
+0000008 180  NP1     Australia                Z2 
+0000008 181  .       .                        
+0000009 001  -----   -----                    
+0000010 010  EX      There                    Z5 
+0000010 020  AT1     a                        Z5 
+0000010 030  JJ      national                 M7/N5.1+ 
+0000010 040  NN1     ban                      S7.4- 
+0000010 050  CC      or                       Z5 
+0000010 060  NN1     tax                      I1.1/G1.1 
+0000010 070  VBZ     is                       Z5 A3+ 
+0000010 080  VBG     being                    Z5 A3+ 
+0000010 090  RR      hotly                    E3- N3.3- 
+0000010 100  VVN     debated                  Q2.2 
+0000010 101  ,       ,                        
+0000010 110  CS      though                   Z5 
+0000010 120  AT      the                      Z5 
+0000010 130  NN1     state                    G1.1c O4.1 
+0000010 140  IO      of                       Z5 
+0000010 150  ND1     South                    Z2[i6.2.1 Z3c[i6.2.1 M6 
+0000010 160  NP1     Australia                Z2[i6.2.2 Z3c[i6.2.2 Z2 
+0000010 161  ,       ,                        
+0000010 170  DDQ     which                    Z8 Z5 
+0000010 180  VVZ     includes                 A1.8+ 
+0000010 190  AT      the                      Z5 
+0000010 200  NN1     city                     Z2[i7.3.1 Z3fn[i7.3.1 M7c M7/I2.1c 
+0000010 210  IO      of                       Z2[i7.3.2 Z3fn[i7.3.2 Z5 
+0000010 220  NP1     Adelaide                 Z2[i7.3.3 Z3fn[i7.3.3 Z2 Z1f 
+0000010 221  ,       ,                        
+0000010 230  VHZ     has                      Z5 A9+ A2.2 S4 
+0000010 240  VVN     promised                 S6+ A7+ 
+0000010 250  AT1     a                        Z5 
+0000010 260  NN1     ban                      S7.4- 
+0000010 270  II      on                       Z5 
+0000010 280  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000010 290  JJ      single-use               Z99 
+0000010 300  NN2     bags                     B5 B1 
+0000010 310  II      by                       Z5 
+0000010 320  NNT1    year                     T1.3 P1c 
+0000010 321  GE      's                       Z5 
+0000010 330  NN1     end                      M6 T2- O2 X7+ N4 
+0000010 340  DDQV31  no                       A7+++[i8.3.1 
+0000010 350  DDQV32  matter                   A7+++[i8.3.2 
+0000010 360  DDQV33  what                     A7+++[i8.3.3 
+0000010 361  .       .                        
+0000011 001  -----   -----                    
+0000012 010  AT      The                      Z5 
+0000012 020  NN1     state                    G1.1c O4.1 
+0000012 021  GE      's                       Z5 
+0000012 030  NN1     premier                  G1.1/S2mf Z3c 
+0000012 031  ,       ,                        
+0000012 040  NP1     Mike                     Z1mf[i9.2.1 Z3c[i9.2.1 Z1m 
+0000012 050  NP1     Rann                     Z1mf[i9.2.2 Z3c[i9.2.2 
+0000012 051  ,       ,                        
+0000012 060  VVD     listed                   Q1.2 N4 M4 
+0000012 070  JJ      familiar                 A6.2+ S1.2.1+ 
+0000012 080  NN2     reasons                  A2.2 X2.1 
+0000012 090  IF      for                      Z5 
+0000012 100  AT      the                      Z5 
+0000012 110  NN1     ban                      S7.4- 
+0000012 111  :       :                        
+0000012 120  AT      The                      Z5 
+0000012 130  NN2     bags                     B5 B1 
+0000012 140  VV0     contribute               A9- A2.2 S1.1.3+ 
+0000012 150  II      to                       Z5 
+0000012 160  NN1     greenhouse               F4/H1 
+0000012 170  NN2     gases                    O1.3 
+0000012 171  ,       ,                        
+0000012 180  VV0     clog                     A1.1.2[i10.2.1 A10- 
+0000012 190  RP      up                       A1.1.2[i10.2.2 
+0000012 200  NN2     landfills                M7/O2/X7- W5 
+0000012 201  ,       ,                        
+0000012 210  NN1     litter                   O4.2- N5 O1.1 L2c M3%fn 
+0000012 220  NN2     streets                  M3/H3 
+0000012 230  CC      and                      Z5 
+0000012 240  NN2     streams                  W3/M4 N5 S5+c P1c 
+0000012 241  ,       ,                        
+0000012 250  CC      and                      Z5 
+0000012 260  VV0     kill                     L1- A12- A1.5.1 E4.1-/A2.2 
+0000012 270  NN1     wildlife                 L2 
+0000012 271  .       .                        
+0000013 001  -----   -----                    
+0000014 010  JJ      Banished                 T2- S7.4- G2.1 
+0000014 020  NN2     Bags                     B5 B1 
+0000016 010  JJ      Unsightly                O4.2- 
+0000016 020  NN1     pollution                W5 
+0000016 030  VVZ     appears                  A8 A10+ A3+ G2.1 K4 Q4 
+0000016 040  TO      to                       Z5 
+0000016 050  VBI     be                       A3+ Z5 
+0000016 060  II      behind                   Z5 
+0000016 070  NP1     China                    Z2 
+0000016 071  GE      's                       Z5 
+0000016 080  NPM1    January                  T1.3 
+0000016 090  NN1     announcement             Q2.2 
+0000016 100  IO      of                       Z5 
+0000016 110  AT1     a                        Z5 
+0000016 120  JJ      countrywide              M7/N5.1+ 
+0000016 130  NN1     ban                      S7.4- 
+0000016 140  II      on                       Z5 
+0000016 150  AT      the                      Z5 
+0000016 160  JJT     thinnest                 N3.7- B1 O4.5 N5- A5.1- X3.2% N5-/A2.1 O4.1/A2.1 
+0000016 170  NN2     totes                    N2 A2.2 X2.5+ 
+0000016 180  CC      and                      Z5 
+0000016 190  AT1     a                        Z5 
+0000016 200  NN1     tax                      I1.1/G1.1 
+0000016 210  II      on                       Z5 
+0000016 220  NN2     others                   A6.1-/Z8 
+0000016 221  .       .                        
+0000016 222  -----   -----                    
+0000016 230  PPH1    It                       Z8 
+0000016 240  VVZ     begins                   T2+ 
+0000016 250  NP1@    June                     Z1f 
+0000016 260  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000016 261  ,       ,                        
+0000016 270  MC      two                      N1 T3 T1.2 
+0000016 280  NNT2    months                   T1.3 
+0000016 290  II      before                   Z5 
+0000016 300  AT      the                      Z5 
+0000016 310  NNT1    Summer                   T1.3 
+0000016 320  NN2     Olympics                 K5.1 
+0000016 330  II      in                       Z5 
+0000016 340  NP1     Beijing                  Z2 Z3c 
+0000016 341  .       .                        
+0000017 001  -----   -----                    
+0000018 010  NP1     Taiwan                   Z2 
+0000018 020  VVZ%    taxes                    I1.1/G1.1 A12- 
+0000018 030  AT      the                      Z5 
+0000018 040  NN2     bags                     B5 B1 
+0000018 041  ,       ,                        
+0000018 050  CC      and                      Z5 
+0000018 060  AT      the                      Z5 
+0000018 070  NN2     cities                   M7 
+0000018 080  IO      of                       Z5 
+0000018 090  NP1     Dhaka                    Z99 
+0000018 091  ,       ,                        
+0000018 100  NP1     Bangladesh               Z2 
+0000018 101  ,       ,                        
+0000018 110  CC      and                      Z5 
+0000018 120  NP1     Mumbai                   Z99 
+0000018 121  ,       ,                        
+0000018 130  NP1     India                    Z2 
+0000018 131  ,       ,                        
+0000018 140  VV0     ban                      S7.4- 
+0000018 150  PPHO2   them                     Z8mfn 
+0000018 160  TO      to                       Z5 
+0000018 170  VVI     prevent                  S8- 
+0000018 180  JJ      flood-inducing           Z99 
+0000018 190  NN1     storm-drain              Z99 
+0000018 200  VVZ     clogs                    A10- 
+0000018 210  II      during                   Z5 
+0000018 220  NN1     monsoon                  W4 
+0000018 230  NNT1    season                   T1.3 
+0000018 231  .       .                        
+0000019 001  -----   -----                    
+0000020 010  RR      Once                     N6- T1.1.1 
+0000020 020  RR      jokingly                 E4.1+ 
+0000020 030  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000020 040  AT      the                      Z5 
+0000020 041  NULL    <quote>                  
+0000020 042  -----   -----                    
+0000020 043  "       "                        
+0000020 050  JJ      national                 M7/N5.1+ 
+0000020 060  NN1     flower                   L3 
+0000020 061  ,       ,                        
+0000020 062  "       "                        
+0000020 063  NULL    </quote>                 
+0000020 064  -----   -----                    
+0000020 070  JJ      thin                     N3.7- B1 O4.5 N5- A5.1- X3.2% 
+0000020 080  NN1     plastic                  O2[i11.2.1 O1.1 
+0000020 090  NN2     bags                     O2[i11.2.2 B5 B1 
+0000020 100  VH0     have                     Z5 A9+ A2.2 S4 
+0000020 110  VBN     been                     Z5 A3+ 
+0000020 120  VVN     banned                   S7.4- 
+0000020 130  II      in                       Z5 
+0000020 140  NP1     South                    Z2[i14.2.1 Z2[i13.2.1 Z3c[i13.2.1 Z1mf[i12.2.1 Z3c[i12.2.1 
+0000020 150  NP1     Africa                   Z2[i14.2.2 Z2 Z2[i13.2.2 Z3c[i13.2.2 Z1mf[i12.2.2 Z3c[i12.2.2 
+0000020 160  II      since                    Z5 
+0000020 170  MC      2003                     N1 T1.2 T3 T1.3 N3.2 
+0000020 171  ;       ;                        
+0000020 180  JJR     thicker                  N3.7++ N3.2++ X9.1-- O4.5 A10-- A11.2++ O4.3@ O4.2--@ 
+0000020 190  NN2     ones                     Z8 
+0000020 200  VBR     are                      Z5 A3+ 
+0000020 210  VVN     taxed                    I1.1/G1.1 A12- 
+0000020 211  .       .                        
+0000020 212  -----   -----                    
+0000020 220  JJ      Similar                  A6.1+ 
+0000020 230  NN2     measures                 N3.1 F2 K2 
+0000020 240  VV0     exist                    A3+ 
+0000020 250  II      in                       Z5 
+0000020 260  NP1     Eritrea                  Z2 
+0000020 261  ,       ,                        
+0000020 270  NP1     Rwanda                   Z2 
+0000020 271  ,       ,                        
+0000020 280  NP1     Somalia                  Z2 
+0000020 281  ,       ,                        
+0000020 290  NP1     Tanzania                 Z2 
+0000020 291  ,       ,                        
+0000020 300  NP1     Kenya                    Z2 
+0000020 301  ,       ,                        
+0000020 310  CC      and                      Z5 
+0000020 320  NP1     Uganda                   Z2 
+0000020 321  .       .                        
+0000021 001  -----   -----                    
+0000022 010  II      In                       Z5 
+0000022 020  AT      the                      Z5 
+0000022 030  NP1     U.S.                     Z8 
+0000022 031  ,       ,                        
+0000022 040  AT      the                      Z5 
+0000022 050  NN2     cities                   M7 
+0000022 060  IO      of                       Z5 
+0000022 070  NP1     San                      Z2[i18.2.1 Z3c[i18.2.1 Z2[i16.2.1 Z2/S2mf Z2[i17.2.1 Z3c[i17.2.1 Z1mf[i15.2.1 Z3c[i15.2.1 
+0000022 080  NP1     Francisco                Z2[i18.2.2 Z3c[i18.2.2 Z2[i16.2.2 Z1m Z2[i17.2.2 Z3c[i17.2.2 Z1mf[i15.2.2 Z3c[i15.2.2 
+0000022 090  CC      and                      Z5 
+0000022 100  NP1     Oakland                  Z99 
+0000022 101  ,       ,                        
+0000022 110  NP1     California               Z2 
+0000022 111  ,       ,                        
+0000022 120  VV0     ban                      S7.4- 
+0000022 130  AT      the                      Z5 
+0000022 140  NN2     bags                     B5 B1 
+0000022 150  CC      and                      Z5 
+0000022 160  VV0     promote                  S8+ I2.2/Q2.2 S7.1+/A2.1 
+0000022 170  JJ      reusable                 A1.5.1/N6+ 
+0000022 180  CC      and                      Z5 
+0000022 190  JJ      compostable              Z99 
+0000022 200  NN2     sacks                    O2 I3.1- F2% 
+0000022 201  .       .                        
+0000022 202  -----   -----                    
+0000022 210  RL      Elsewhere                M6/A6.1- 
+0000022 220  II      in                       Z5 
+0000022 230  AT      the                      Z5 
+0000022 240  NN1     state                    G1.1c O4.1 
+0000022 250  NN2     supermarkets             I2.2/H1 
+0000022 260  VBR     are                      Z5 A3+ 
+0000022 270  VVN     required                 X7+ S6+ 
+0000022 280  TO      to                       Z5 
+0000022 290  VVI     take                     M2[i19.2.1 Q2.2[i19.2.1 T1.1.1[i19.2.1 E5-[i19.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000022 300  RP      back                     M2[i19.2.2 Q2.2[i19.2.2 T1.1.1[i19.2.2 E5-[i19.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000022 310  CC      and                      Z5 
+0000022 320  VVI     recycle                  A1.5.1/N6 
+0000022 330  AT      the                      Z5 
+0000022 340  NN2     bags                     B5 B1 
+0000022 341  .       .                        
+0000023 001  -----   -----                    
+0000024 010  JJ      Similar                  A6.1+ 
+0000024 020  NN1     take-back                Z99 
+0000024 030  CC      and                      Z5 
+0000024 040  VV0     recycle                  A1.5.1/N6 
+0000024 050  NN2     initiatives              A1.1.1 
+0000024 060  VBR     are                      A3+ Z5 
+0000024 070  II      on                       Q1.2[i20.3.1 Z5 
+0000024 080  AT      the                      Q1.2[i20.3.2 Z5 
+0000024 090  NN2     books                    Q1.2[i20.3.3 Q4.1 Q1.2 I1/Q1.2 K5.1/I1 
+0000024 100  CC      or                       Z5 
+0000024 110  II      under                    Z5 
+0000024 120  NN1     consideration            X2.1 X2.4 S1.2.3- 
+0000024 130  II      in                       Z5 
+0000024 140  NP1     New                      Z2[i22.2.1 Z1mf[i21.2.1 Z3c[i21.2.1 
+0000024 150  NP1     York                     Z2[i22.2.2 Z2 Z1mf Z1mf[i21.2.2 Z3c[i21.2.2 
+0000024 151  ,       ,                        
+0000024 160  NP1     New                      Z2[i24.2.1 Z1mf[i23.2.1 Z3c[i23.2.1 
+0000024 170  NP1     Jersey                   Z2[i24.2.2 Z2 Z1mf[i23.2.2 Z3c[i23.2.2 
+0000024 171  ,       ,                        
+0000024 180  CC      and                      Z5 
+0000024 190  NP1     Maryland                 Z2 Z3c 
+0000024 191  .       .                        
+0000026 001  NULL    **8;7;text               

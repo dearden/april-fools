@@ -1,0 +1,256 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     NEW                      Z2[i2.2.1 Z1mf[i1.2.1 Z3c[i1.2.1 
+0000002 020  NP1     YORK                     Z2[i2.2.2 Z2 Z1mf Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 021  (       (                        
+0000002 030  NP1     CNNMoney.com             Z99 
+0000002 031  )       )                        
+0000002 040  JJ      --                       Z99 
+0000002 050  NP1     Atlanta                  Z2 
+0000002 060  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 070  VBN     been                     A3+ Z5 
+0000002 080  AT      the                      Z5 
+0000002 090  JJT     fastest                  N3.8+++ 
+0000002 100  JJ      growing                  N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000002 110  JJ      metropolitan             M7 
+0000002 120  NN1     area                     M7 A4.1 N3.6 
+0000002 130  II      in                       Z5 
+0000002 140  AT      the                      Z5 
+0000002 150  NN1     nation                   G1.1c S5+c 
+0000002 160  II      since                    Z5 
+0000002 170  MC      2000                     N1 T1.2 T3 T1.3 N3.2 
+0000002 171  ,       ,                        
+0000002 180  IW      with                     Z5 
+0000002 190  AT1     a                        Z5 
+0000002 200  NN1     gain                     A9+ N5+/A2.1 
+0000002 210  IO      of                       Z5 
+0000002 220  RR      nearly                   A13.4 
+0000002 230  MC      900,000                  N1 T1.2 T3 T1.3 N3.2 
+0000002 240  NN2     residents                H4/S2mf 
+0000002 250  II      to                       Z5 
+0000002 260  MC      5.1                      N1[i3.2.1 T1.3[i3.2.1 I1[i3.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000002 270  NNO     million                  N1[i3.2.2 T1.3[i3.2.2 I1[i3.2.2 N1 I1 
+0000002 271  .       .                        
+0000003 001  -----   -----                    
+0000004 010  RR      Also                     N5++ 
+0000004 020  VVG     gaining                  A9+ N5+/A2.1 
+0000004 030  DAR     more                     N5++ 
+0000004 040  CSN     than                     Z5 
+0000004 050  MC      800,000                  N1 T1.2 T3 T1.3 N3.2 
+0000004 060  NN2     residents                H4/S2mf 
+0000004 070  II      in                       Z5 
+0000004 080  AT      the                      Z5 
+0000004 090  JJ      five-year                T1.3 T3 
+0000004 100  NN1     Census                   G1.1 
+0000004 110  NN1     Bureau                   G1.1 H5 
+0000004 120  NN1     report                   Q2.2 X3.2 
+0000004 130  VBDR    were                     A3+ Z5 
+0000004 140  FU      Dallas/Ft                Z99 
+0000004 141  .       .                        
+0000004 142  -----   -----                    
+0000004 150  NN1@    Worth                    I1.3 N5 A1.5.2+ S1.1.4+ 
+0000004 160  CC      and                      Z5 
+0000004 170  NP1     Houston                  Z2 
+0000004 171  .       .                        
+0000004 172  -----   -----                    
+0000004 180  NP1     Phoenix                  Z3c 
+0000004 190  VVD     gained                   A9+ N5+/A2.1 
+0000004 200  RR      nearly                   A13.4 
+0000004 210  MC      790,000                  N1 T1.2 T3 T1.3 N3.2 
+0000004 211  .       .                        
+0000004 212  -----   -----                    
+0000004 220  MC      Seven                    N1 T3 T1.2 
+0000004 230  IO      of                       Z5 
+0000004 240  AT      the                      Z5 
+0000004 250  NN1     top                      A5.1+++[i4.2.1 M6 N4 N5.1+ O2 B5 K6 N5.1- 
+0000004 260  MC      10                       A5.1+++[i4.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000004 270  JJT     fastest                  N3.8+++ 
+0000004 280  NN2     growers                  F4/S2mf 
+0000004 290  VBDR    were                     A3+ Z5 
+0000004 300  II      in                       Z5 
+0000004 310  AT      the                      Z5 
+0000004 320  ND1     South                    M6 
+0000004 330  CC      or                       Z5 
+0000004 340  ND1     West                     Z2 Z1mf 
+0000004 341  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NP1     America                  Z2 
+0000006 011  GE      's                       Z5 
+0000006 020  JJT     fastest                  N3.8+++ 
+0000006 030  JJ      growing                  N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000006 040  NN1     city                     M7c M7/I2.1c 
+0000006 041  -       -                        
+0000006 050  NP1     Atlanta                  Z2 
+0000008 010  NN2     Others                   A6.1-/Z8 
+0000008 020  II      in                       Z5 
+0000008 030  AT      the                      Z5 
+0000008 040  NN1     top                      A5.1+++[i5.2.1 M6 N4 N5.1+ O2 B5 K6 N5.1- 
+0000008 050  MC      10                       A5.1+++[i5.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000008 060  VVD     included                 A1.8+ 
+0000008 070  AT      the                      Z5 
+0000008 080  NP1     New                      Z2[i7.2.1 Z1mf[i6.2.1 Z3c[i6.2.1 
+0000008 090  NP1     York                     Z2[i7.2.2 Z2 Z1mf Z1mf[i6.2.2 Z3c[i6.2.2 
+0000008 100  CC      and                      Z5 
+0000008 110  NP1     Washington               Z2 Z1mf 
+0000008 111  ,       ,                        
+0000008 120  NP1     D.C.                     Z2 Z3c 
+0000008 130  NN1     metro                    M3 
+0000008 140  NN2     areas                    M7 A4.1 N3.6 
+0000008 141  ,       ,                        
+0000008 150  DDQ     which                    Z8 Z5 
+0000008 160  RR      both                     Z5 
+0000008 170  VVN     gained                   A9+ N5+/A2.1 
+0000008 180  RR      nearly                   A13.4 
+0000008 190  MC      500,000                  N1 T1.2 T3 T1.3 N3.2 
+0000008 191  ,       ,                        
+0000008 200  CC      and                      Z5 
+0000008 210  NP1     Chicago                  Z2 Z3c 
+0000008 211  ,       ,                        
+0000008 220  IW      with                     Z5 
+0000008 230  DAR     more                     N5++ 
+0000008 240  CSN     than                     Z5 
+0000008 250  MC      400,000                  N1 T1.2 T3 T1.3 N3.2 
+0000008 251  .       .                        
+0000009 001  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  JJT     fastest                  N3.8+++ 
+0000010 030  NN2     growers                  F4/S2mf 
+0000010 040  II      by                       Z5 
+0000010 050  NN1     percentage               N5 
+0000010 060  VBDR    were                     A3+ Z5 
+0000010 070  DB      all                      N5.1+ 
+0000010 080  RR      much                     A13.3 N6+ 
+0000010 090  JJR     smaller                  N3.2-- N3.7-- N5-- T3-- A11.1-- S5--/I2.1 X3.2- A5.1-- 
+0000010 100  NN2     cities                   M7 
+0000010 101  .       .                        
+0000010 102  -----   -----                    
+0000010 110  PPHS2   They                     Z8mfn 
+0000010 120  VBDR    were                     Z5 A3+ 
+0000010 130  VVN     led                      S7.1+ A2.2 M2 A1.1.1 
+0000010 140  II      by                       Z5 
+0000010 150  NP1     St                       Z2[i11.2.1 Z3c[i11.2.1 Z2[i10.2.1 Z3c[i10.2.1 Z2[i9.2.1 Z3c[i9.2.1 Z1mf[i9.2.1 Z1mf[i8.2.1 Z3c[i8.2.1 
+0000010 160  NP1     George                   Z2[i11.2.2 Z3c[i11.2.2 Z2[i10.2.2 Z3c[i10.2.2 Z1m Z2[i9.2.2 Z3c[i9.2.2 Z1mf[i9.2.2 Z1mf[i8.2.2 Z3c[i8.2.2 
+0000010 161  ,       ,                        
+0000010 170  NP1     Utah                     Z2 
+0000010 171  ,       ,                        
+0000010 180  DDQ     which                    Z8 Z5 
+0000010 190  VHZ     has                      Z5 A9+ A2.2 S4 
+0000010 200  VVN     increased                N5+/A2.1 
+0000010 210  APPGE   its                      Z8 
+0000010 220  NN1     population               S2/N5c 
+0000010 230  II      by                       Z5 
+0000010 240  MC      39.8                     N5[i12.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000010 250  NNU     percent                  N5[i12.2.2 N5 
+0000010 260  II      since                    Z5 
+0000010 270  MC      2000                     N1 T1.2 T3 T1.3 N3.2 
+0000010 271  .       .                        
+0000010 272  -----   -----                    
+0000010 280  NN1     Greeley                  Z99 
+0000010 281  ,       ,                        
+0000010 290  NP1     Colorado                 Z2 Z3c 
+0000010 300  VBDZ    was                      A3+ Z5 
+0000010 310  MD      next                     N4 
+0000010 320  IW      with                     Z5 
+0000010 330  MC      31                       N5[i13.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000010 340  NNU     percent                  N5[i13.2.2 N5 
+0000010 350  NN1     growth                   N3.2+/A2.1 A5.1+/A2.1 L3 B2- 
+0000010 360  CC      and                      Z5 
+0000010 370  NP1     Cape                     Z1mf[i14.2.1 Z3c[i14.2.1 
+0000010 380  NP1     Coral                    Z1mf[i14.2.2 Z3c[i14.2.2 
+0000010 381  ,       ,                        
+0000010 390  NNU     Ft                       Z3c 
+0000010 391  .       .                        
+0000010 392  -----   -----                    
+0000010 400  NP1     Myers                    Z99 
+0000010 401  ,       ,                        
+0000010 410  NP1     Florida                  Z2 
+0000010 420  IW      with                     Z5 
+0000010 430  MC      29.6                     N5[i15.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000010 440  NNU     percent                  N5[i15.2.2 N5 
+0000010 441  .       .                        
+0000011 001  -----   -----                    
+0000012 010  DAR     More                     N5++ 
+0000012 020  CSN     than                     Z5 
+0000012 030  MC      80                       N5[i16.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000012 040  NNU     percent                  N5[i16.2.2 N5 
+0000012 050  IO      of                       Z5 
+0000012 060  AT      the                      Z5 
+0000012 070  MC      361                      N1 T1.2 T3 T1.3 N3.2 
+0000012 080  NN1     metro                    M3 
+0000012 090  NN2     areas                    M7 A4.1 N3.6 
+0000012 100  VVD     covered                  A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1 
+0000012 110  VVN     gained                   A9+ N5+/A2.1 
+0000012 120  NN1     population               S2/N5c 
+0000012 130  II      during                   Z5 
+0000012 140  AT      the                      Z5 
+0000012 150  NN1     period                   T1.3 B1 Q3 P1/T1.3 
+0000012 151  .       .                        
+0000012 152  -----   -----                    
+0000012 160  AT      The                      Z5 
+0000012 170  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
+0000012 180  NN2     exceptions               A6.1- 
+0000012 190  NN1     population               S2/N5c 
+0000012 200  VBDR    were                     A3+ Z5 
+0000012 210  NP1     Katrina                  Z99 
+0000012 220  VVD@    plagued                  X7- 
+0000012 230  NP1     New                      Z2[i18.2.1 Z1mf[i17.2.1 Z3c[i17.2.1 
+0000012 240  NP1     Orleans                  Z2[i18.2.2 Z2 Z1mf[i17.2.2 Z3c[i17.2.2 
+0000012 241  ,       ,                        
+0000012 250  RP      down                     Z5 M6 N4 N5-- E4.1- S7.1- N3.1 Q1.2 O1.1 L2 Z1mf F1/B1 A1.1.1 
+0000012 260  MC      22.2                     N5[i19.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000012 270  NNU     percent                  N5[i19.2.2 N5 
+0000012 271  ,       ,                        
+0000012 280  CC      and                      Z5 
+0000012 290  NP1     Gulfport                 Z99 
+0000012 291  ,       ,                        
+0000012 300  NP1     Mississippi              Z2 
+0000012 301  ,       ,                        
+0000012 310  II      off                      Z5 E2- 
+0000012 320  MC      5.8                      N5[i20.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000012 330  NNU     percent                  N5[i20.2.2 N5 
+0000012 331  .       .                        
+0000013 001  -----   -----                    
+0000014 010  AT      The                      Z5 
+0000014 020  NP1     Weirton                  Z99 
+0000014 021  ,       ,                        
+0000014 030  ND1     West                     Z2 Z1mf 
+0000014 040  FU      Virginia/                Z99 
+0000014 050  NP1     Steubenville             Z99 
+0000014 051  ,       ,                        
+0000014 060  NP1     Ohio                     Z2 
+0000014 070  NN1     area                     M7 A4.1 N3.6 
+0000014 080  VBDZ    was                      A3+ Z5 
+0000014 090  MD      third                    N4 N5 N1 
+0000014 100  JJT     worst                    A5.1--- 
+0000014 101  ;       ;                        
+0000014 110  PPH1    it                       Z8 
+0000014 120  VVD     lost                     X9.2- A9- M6/A5.3- L1- 
+0000014 130  MC      5.2                      N5[i21.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000014 140  NNU     percent                  N5[i21.2.2 N5 
+0000014 150  IO      of                       Z5 
+0000014 160  PPH1    it                       Z8 
+0000014 170  NN2     residents                H4/S2mf 
+0000014 171  .       .                        
+0000015 001  -----   -----                    
+0000016 010  NP1     New                      Z2[i23.2.1 Z1mf[i22.2.1 Z3c[i22.2.1 
+0000016 020  NP1     Orleans                  Z2[i23.2.2 Z2 Z1mf[i22.2.2 Z3c[i22.2.2 
+0000016 030  RR      also                     N5++ 
+0000016 040  VVN     lost                     X9.2- A9- M6/A5.3- L1- 
+0000016 050  AT1     a                        Z5 
+0000016 060  JJR     higher                   N3.7++ N5++ A11.1++ S7.1++ A5.1++ T3-- X3.2 G2.2++ E4.1++ I1.3++ O4.2-- O4.6++ S9 
+0000016 070  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000016 080  IO      of                       Z5 
+0000016 090  NN2     residents                H4/S2mf 
+0000016 100  CSN     than                     Z5 
+0000016 110  DD      any                      N5.1+ N5 
+0000016 120  JJ      other                    A6.1- 
+0000016 130  NN1     metro                    M3 
+0000016 140  NN1     area                     M7 A4.1 N3.6 
+0000016 141  -       -                        
+0000016 150  DAR     more                     N5++ 
+0000016 160  CSN     than                     Z5 
+0000016 170  MC      290,000                  N1 T1.2 T3 T1.3 N3.2 
+0000016 180  II      since                    Z5 
+0000016 190  MC      2000                     N1 T1.2 T3 T1.3 N3.2 
+0000016 191  .       .                        
+0000018 001  NULL    **8;7;text               

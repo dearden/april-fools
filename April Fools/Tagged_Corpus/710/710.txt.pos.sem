@@ -1,0 +1,554 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN1     COURTESY                 S1.2.4+ 
+0000002 020  IO      OF                       Z5 
+0000002 030  NP1     ERIC                     Z1mf[i1.2.1 Z3c[i1.2.1 Z1m 
+0000002 040  NP1     SMITH/DANA               Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 050  NN1     FARBER                   Z99 
+0000002 060  NN1     CANCER                   B2- 
+0000002 070  NN1     INSTITUTE                P1/S5+c X2.4/S5+c 
+0000002 080  AT      The                      Z5 
+0000002 090  JJ      x-ray                    B3 Y1@ 
+0000002 100  NN1     structure                O4.1 H1 S7.1 O2 A4.1 X4.2 B1 
+0000002 110  IO      of                       Z5 
+0000002 120  AT1     a                        Z5 
+0000002 130  NN1     DNA                      B1 
+0000002 140  NN1     repair                   A5.1+/A2.1 S8+/A1.1.2- 
+0000002 150  NN1     enzyme                   O1 
+0000002 160  II      in                       A1.1.1[i2.4.1 Z5 
+0000002 170  AT      the                      A1.1.1[i2.4.2 Z5 
+0000002 180  NN1     process                  A1.1.1[i2.4.3 A1.1.1 X4.2 
+0000002 190  IO      of                       A1.1.1[i2.4.4 Z5 
+0000002 200  VVG     searching                X2.4 
+0000002 210  IF      for                      Z5 
+0000002 220  JJ@     damaged                  A1.1.2 
+0000002 230  NN1     DNA                      B1 
+0000002 240  NN2     bases                    M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000002 250  VVZ     illuminates              W2 A7+ 
+0000002 260  AT1     a                        Z5 
+0000002 270  JJ      long-standing            T2++ 
+0000002 280  NN1     puzzle                   X2.5- K5.2/X4.1 
+0000002 281  .       .                        
+0000002 282  NULL    <quote>                  
+0000002 283  -----   -----                    
+0000002 284  "       "                        
+0000002 290  DD1     This                     M6 Z5 Z8 
+0000002 300  NN1     structure                O4.1 H1 S7.1 O2 A4.1 X4.2 B1 
+0000002 310  VVZ     provides                 A9- S6+ 
+0000002 320  AT1     a                        Z5 
+0000002 330  NN1     glimpse                  X3.4 
+0000002 340  II      at                       Z5 
+0000002 350  RRQ     how                      Z5 A13.3 
+0000002 360  AT1     a                        Z5 
+0000002 370  NN1     DNA                      B1 
+0000002 380  NN1     repair                   A5.1+/A2.1 S8+/A1.1.2- 
+0000002 390  NN1     enzyme                   O1 
+0000002 400  VVZ     interrogates             Q2.2 
+0000002 410  CC      and                      Z5 
+0000002 420  VVZ     rejects                  X7- 
+0000002 430  JJ      normal                   A6.2+ 
+0000002 440  NN2     bases                    M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000002 450  CST     that                     Z8 Z5 
+0000002 460  VBR     are                      A3+ Z5 
+0000002 470  JJ      similar                  A6.1+ 
+0000002 480  II      to                       Z5 
+0000002 490  APPGE   their                    Z8 
+0000002 500  JJ@     damaged                  A1.1.2 
+0000002 510  NN2     counterparts             A6.1+ 
+0000002 511  ,       ,                        
+0000002 512  "       "                        
+0000002 513  NULL    </quote>                 
+0000002 514  -----   -----                    
+0000002 520  NN2     comments                 Q2.1 
+0000002 530  NN1     biochemist               Y1/S2mf 
+0000002 540  NP1     Sheila                   Z1mf[i4.3.1 Z3c[i4.3.1 Z1f Z1mf[i3.2.1 Z3c[i3.2.1 
+0000002 550  NP1     S.                       Z1mf[i4.3.2 Z3c[i4.3.2 Z1mf[i3.2.2 Z3c[i3.2.2 Z1mf[i5.2.1 Z3c[i5.2.1 
+0000002 560  NP1     David                    Z3c[i4.3.3 Z1mf[i4.3.3 Z1m Z1mf[i5.2.2 Z3c[i5.2.2 
+0000002 570  IO      of                       Z5 
+0000002 580  AT      the                      Z5 
+0000002 590  NN1     University               Z3c[i6.3.1 P1/H1c 
+0000002 600  IO      of                       Z3c[i6.3.2 Z5 
+0000002 610  NP1     Utah                     Z3c[i6.3.3 Z2 
+0000002 611  ,       ,                        
+0000002 620  NP1     Salt                     Z1mf[i9.3.1 Z3c[i9.3.1 Z2[i7.2.1 Z1mf[i8.2.1 Z3c[i8.2.1 
+0000002 630  NP1     Lake                     Z1mf[i9.3.2 Z3c[i9.3.2 Z2[i7.2.2 Z1mf[i8.2.2 Z3c[i8.2.2 Z2[i10.2.1 Z3c[i10.2.1 Z1mf[i11.2.1 Z3c[i11.2.1 Z2[i12.2.1 
+0000002 640  NN1     City                     Z3c[i9.3.3 Z1mf[i9.3.3 M7/I2.1c Z3c Z2[i10.2.2 Z3c[i10.2.2 Z1mf[i11.2.2 Z3c[i11.2.2 Z2[i12.2.2 
+0000002 641  .       .                        
+0000002 642  -----   -----                    
+0000002 650  AT1     An                       Z5 
+0000002 660  NN1     army                     G3c N5+ 
+0000002 670  IO      of                       Z5 
+0000002 680  NN1     DNA                      B1 
+0000002 690  NN1     repair                   A5.1+/A2.1 S8+/A1.1.2- 
+0000002 700  NN2     enzymes                  O1 
+0000002 710  VBZ     is                       Z5 A3+ 
+0000002 720  VVN     charged                  I1.3 O3 G2.1 M1 G3% 
+0000002 730  IW      with                     Z5 
+0000002 740  AT      the                      Z5 
+0000002 750  JJ      huge                     N3.2+++ 
+0000002 760  NN1     task                     A1.1.1 P1 
+0000002 770  IO      of                       Z5 
+0000002 780  VVG     searching                X2.4 
+0000002 790  JJ      vast                     N3.2+ N5+ 
+0000002 800  NN2     stretches                N3.6 T1.3 G2.1 K5.1@ 
+0000002 810  IO      of                       Z5 
+0000002 820  JJ      genomic                  B1 
+0000002 830  NN1     DNA                      B1 
+0000002 840  IF      for                      Z5 
+0000002 850  JJ@     damaged                  A1.1.2 
+0000002 860  NN2     bases                    M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000002 861  .       .                        
+0000002 862  -----   -----                    
+0000002 870  CS      When                     Z5 
+0000002 880  AT1     a                        Z5 
+0000002 890  NN1     repair                   A5.1+/A2.1 S8+/A1.1.2- 
+0000002 900  NN1     enzyme                   O1 
+0000002 910  VVZ     finds                    A10+ X2.1 X6+ 
+0000002 920  AT      the                      Z5 
+0000002 930  JJ      specific                 A4.2+ 
+0000002 940  JJ@     damaged                  A1.1.2 
+0000002 950  NN1     base                     M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000002 960  PPH1    it                       Z8 
+0000002 961  VBZ     's                       Z5 A3+ 
+0000002 970  VVG     looking                  X2.4[i13.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000002 980  IF      for                      X2.4[i13.2.2 Z5 
+0000002 981  ,       ,                        
+0000002 990  AT      the                      Z5 
+0000002 000  NN1     enzyme                   O1 
+0000002 010  VVZ     flips                    A1.1.1 M2 
+0000002 020  AT      the                      Z5 
+0000002 030  JJ@     damaged                  A1.1.2 
+0000002 040  NN1     base                     M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000002 050  II21    out                      Z5[i14.2.1 Z5 Z5[i15.2.1 A9-[i15.2.1 
+0000002 060  II22    of                       Z5[i14.2.2 Z5[i15.2.2 A9-[i15.2.2 
+0000002 070  AT      the                      Z5 
+0000002 080  NN1     DNA                      B1 
+0000002 090  NN1     helix                    O4.4 
+0000002 100  CC      and                      Z5 
+0000002 110  II      into                     Z5 
+0000002 120  APPGE   its                      Z8 
+0000002 130  JJ      active                   X5.2+ A1.1.1 
+0000002 140  NN1     site                     M7 
+0000002 141  .       .                        
+0000002 142  -----   -----                    
+0000002 150  RL      There                    M6 T1.2 
+0000002 151  ,       ,                        
+0000002 160  AT      the                      Z5 
+0000002 170  JJ      aberrant                 A6.2- E2- 
+0000002 180  NN1     base                     M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000002 190  VBZ     is                       Z5 A3+ 
+0000002 200  VVN     clipped                  A1.1.1 A1.7+ E3-@ 
+0000002 210  II      from                     Z5 
+0000002 220  AT      the                      Z5 
+0000002 230  NN1     DNA                      B1 
+0000002 240  NN1     backbone                 B1 A11.1+ S1.2.5+ 
+0000002 241  .       .                        
+0000002 242  -----   -----                    
+0000002 250  RRQ     How                      Z5 A13.3 
+0000002 260  DD2     these                    Z5 Z8 
+0000002 270  NN2     enzymes                  O1 
+0000002 280  VV0     manage                   S7.1+ A1.1.1 X9.2+ 
+0000002 290  TO      to                       Z5 
+0000002 300  VVI     avoid                    A1.9 M1 
+0000002 310  VVG     removing                 M2 
+0000002 320  JJ      normal                   A6.2+ 
+0000002 330  NN2     bases                    M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000002 331  ,       ,                        
+0000002 340  DDQ     which                    Z5 Z8 
+0000002 350  II      in                       Z5 
+0000002 360  DA2     many                     N5+ 
+0000002 370  NN2     cases                    A4.1 O2 G2.1 B3 X4.1 Q3 
+0000002 380  VV0     differ                   A6.1- 
+0000002 390  RR      only                     A14 
+0000002 400  RR      subtly                   A11.2- X9.1+ 
+0000002 410  II      from                     Z5 
+0000002 420  APPGE   their                    Z8 
+0000002 430  JJ@     damaged                  A1.1.2 
+0000002 440  NN2     counterparts             A6.1+ 
+0000002 441  ,       ,                        
+0000002 450  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 460  VVN     remained                 T2++ M8 N5.2+ 
+0000002 470  JJ      unclear                  A7- A10- O4.3 O4.1 
+0000002 471  .       .                        
+0000002 472  -----   -----                    
+0000002 480  TO      To                       Z5 
+0000002 490  VVI     shed                     M2 A9- 
+0000002 500  NN1     light                    W2 O3/W2 M3 O4.6+ X4.1 E1 
+0000002 510  II      on                       Z5 
+0000002 520  DD1     that                     Z5 Z8 
+0000002 530  NN1     question                 Q2.2 X4.1 
+0000002 531  ,       ,                        
+0000002 540  NP1     Harvard                  Z3c[i16.2.1 Z1mf Z3c 
+0000002 550  NN1     University               Z3c[i16.2.2 P1/H1c 
+0000002 560  NN2     crystallographers        Z99 
+0000002 570  NP1     Gregory                  Z1mf[i18.3.1 Z3c[i18.3.1 Z1mf Z1mf[i17.2.1 Z3c[i17.2.1 
+0000002 580  NP1     L.                       Z1mf[i18.3.2 Z3c[i18.3.2 Z1mf[i17.2.2 Z3c[i17.2.2 Z1mf[i19.2.1 Z3c[i19.2.1 
+0000002 590  NP1     Verdine                  Z3c[i18.3.3 Z1mf[i18.3.3 Z1mf[i19.2.2 Z3c[i19.2.2 
+0000002 600  CC      and                      Z5 
+0000002 610  NP1     Anirban                  Z1mf[i20.2.1 Z3c[i20.2.1 
+0000002 620  NP1     Banerjee                 Z1mf[i20.2.2 Z3c[i20.2.2 
+0000002 630  VH0     have                     Z5 A9+ A2.2 S4 
+0000002 640  VVN     used                     A1.5.1 S7.1+ 
+0000002 650  AT1     a                        Z5 
+0000002 660  JJ      clever                   X9.1+ A5.1+ 
+0000002 670  NN1     strategy                 X7+ 
+0000002 680  TO      to                       Z5 
+0000002 690  VVI     capture                  A9+ 
+0000002 700  AT1     a                        Z5 
+0000002 710  NN1     picture                  C1 Q4.3 X4.1 
+0000002 720  IO      of                       Z5 
+0000002 730  JJ      human                    S2 S1.2.1+ 
+0000002 740  JJ      8-oxoguanine             Z99 
+0000002 750  NN1     glycosylase              Z99 
+0000002 751  (       (                        
+0000002 760  FO      hOGG1                    Z99 
+0000002 761  )       )                        
+0000002 770  AT      --the                    Z99 
+0000002 780  NN1     enzyme                   O1 
+0000002 790  JJ      responsible              A2.2 S6+ S7.1 S1.2.6+ X6+ 
+0000002 800  IF      for                      Z5 
+0000002 810  VVG     finding                  A10+ X2.1 X6+ 
+0000002 820  CC      and                      Z5 
+0000002 830  VVG     removing                 M2 
+0000002 840  AT      the                      Z5 
+0000002 850  JJ      mutagenic                Z99 
+0000002 860  JJ@     oxidized                 Z99 
+0000002 870  NN1     base                     M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000002 880  NN1     8-oxoguanine             Z99 
+0000002 890  II      from                     Z5 
+0000002 900  NNT1@   DNA--while               Z99 
+0000002 910  PPH1    it                       Z8 
+0000002 920  VVZ@    searches                 X2.4 
+0000002 930  AT1     a                        Z5 
+0000002 940  NN1@    stretch                  N3.6 T1.3 G2.1 K5.1@ 
+0000002 950  IO      of                       Z5 
+0000002 960  JJ      undamaged                A1.1.2- 
+0000002 970  NN1     DNA                      B1 
+0000002 971  (       (                        
+0000002 980  NN1     Nature                   W5 A4.1 S1.2 A6.2+ 
+0000002 990  MC      2005                     N1 T1.2 T3 T1.3 N3.2 
+0000002 991  ,       ,                        
+0000002 000  MC      434                      N1 T1.2 T3 T1.3 N3.2 
+0000002 001  ,       ,                        
+0000002 010  MC      612                      N1 T1.2 T3 T1.3 N3.2 
+0000002 011  )       )                        
+0000002 012  .       .                        
+0000002 013  -----   -----                    
+0000002 020  NP1@    Verdine                  Z99 
+0000002 021  GE      's                       Z5 
+0000002 030  NN1     lab                      Y1/H1 
+0000002 040  RR      previously               N4 
+0000002 050  VVN     published                Q4 
+0000002 060  AT1     a                        Z5 
+0000002 070  NN1     structure                O4.1 H1 S7.1 O2 A4.1 X4.2 B1 
+0000002 080  IO      of                       Z5 
+0000002 090  JJ@     inactivated              Z99 
+0000002 100  FO      hOGG1                    Z99 
+0000002 110  VVN     bound                    A1.7+ S6+ A7+++ 
+0000002 120  II      to                       Z5 
+0000002 130  NN1     DNA                      B1 
+0000002 140  VVG     containing               A1.8+ A1.7+ 
+0000002 150  AT1     an                       Z5 
+0000002 160  NN1     8-oxoguanine             Z99 
+0000002 161  ,       ,                        
+0000002 170  DDQ     which                    Z8 Z5 
+0000002 180  VVZ     differs                  A6.1- 
+0000002 190  II      from                     Z5 
+0000002 200  NN1     guanine                  Z99 
+0000002 210  II      by                       Z5 
+0000002 220  RR      only                     A14 
+0000002 230  MC      two                      N1 T3 T1.2 
+0000002 240  NN2     atoms                    O1 
+0000002 241  .       .                        
+0000002 242  -----   -----                    
+0000002 250  DD1     That                     Z5 Z8 
+0000002 260  NN1     structure                O4.1 H1 S7.1 O2 A4.1 X4.2 B1 
+0000002 270  VVD     showed                   A10+ S1.1.1 
+0000002 280  CST     that                     Z5 Z8 
+0000002 290  FO      hOGG1                    Z99 
+0000002 300  VVZ     extrudes                 M1 
+0000002 310  AT      the                      Z5 
+0000002 320  JJ@     damaged                  A1.1.2 
+0000002 330  NN1     base                     M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000002 340  II21    out                      Z5[i21.2.1 Z5 Z5[i22.2.1 A9-[i22.2.1 
+0000002 350  II22    of                       Z5[i21.2.2 Z5[i22.2.2 A9-[i22.2.2 
+0000002 360  AT      the                      Z5 
+0000002 370  NN1     DNA                      B1 
+0000002 380  NN1     helix                    O4.4 
+0000002 390  CC      and                      Z5 
+0000002 400  VVZ     inserts                  A1.1.1 
+0000002 410  PPH1    it                       Z8 
+0000002 420  II      into                     Z5 
+0000002 430  AT1     a                        Z5 
+0000002 440  JJ      deep                     N3.7+ N5+ O4.3 A4.2+ E4.1- X3.2 
+0000002 450  JJ      active                   X5.2+ A1.1.1 
+0000002 460  NN1     site                     M7 
+0000002 470  CS      where                    M6 
+0000002 480  PPH1    it                       Z8 
+0000002 490  VM      can                      A7+ 
+0000002 500  VBI     be                       Z5 A3+ 
+0000002 510  VVN     clipped                  A1.1.1 A1.7+ E3-@ 
+0000002 520  II      from                     Z5 
+0000002 530  AT      the                      Z5 
+0000002 540  NN1     DNA                      B1 
+0000002 541  .       .                        
+0000002 542  -----   -----                    
+0000002 550  AT      The                      Z5 
+0000002 560  JJ      new                      T3- 
+0000002 570  NN1     structure                O4.1 H1 S7.1 O2 A4.1 X4.2 B1 
+0000002 580  VVZ     reveals                  A10+ 
+0000002 590  CST     that                     Z5 Z8 
+0000002 600  FO      hOGG1                    Z99 
+0000002 610  VVZ     flips                    A1.1.1 M2 
+0000002 620  JJ      undamaged                A1.1.2- 
+0000002 630  NN1     guanine                  Z99 
+0000002 640  II21    out                      Z5[i23.2.1 Z5 Z5[i24.2.1 A9-[i24.2.1 
+0000002 650  II22    of                       Z5[i23.2.2 Z5[i24.2.2 A9-[i24.2.2 
+0000002 660  AT      the                      Z5 
+0000002 670  NN1     DNA                      B1 
+0000002 680  NN1     helix                    O4.4 
+0000002 681  ,       ,                        
+0000002 690  RR@     too                      N5++ 
+0000002 691  .       .                        
+0000002 692  -----   -----                    
+0000002 700  CCB     But                      Z5 
+0000002 710  AT      the                      Z5 
+0000002 720  JJ      undamaged                A1.1.2- 
+0000002 730  NN1     base                     M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000002 740  VBZ     is                       Z5 A3+ 
+0000002 750  VVN     denied                   Q2.2/Z6 S7.4- 
+0000002 760  NN1     entrance                 M7 M1 T2+ 
+0000002 770  II      to                       Z5 
+0000002 780  AT      the                      Z5 
+0000002 790  JJ      active                   X5.2+ A1.1.1 
+0000002 800  NN1     site                     M7 
+0000002 810  CC      and                      Z5 
+0000002 820  RR      instead                  A6.1- 
+0000002 830  VVZ     gets                     A2.1+ A9+ Z5 X9.2+ A2.2 M1 M2 X2.5+ E4.1- 
+0000002 840  JJ      stuck                    A1.7+ A12- X2.2- 
+0000002 850  II      in                       Z5 
+0000002 860  AT1     a                        Z5 
+0000002 870  JJ      nearby                   N3.3- 
+0000002 880  JJ      binding                  S6+ A1.7+ A2.2 O4.1 
+0000002 890  NN1     pocket                   B5 O2 I1.1 M7/N3.2- 
+0000002 900  II      before                   Z5 
+0000002 910  VBG     being                    Z5 A3+ 
+0000002 920  VVN     returned                 M1 A9- N6 
+0000002 930  II      to                       Z5 
+0000002 940  AT      the                      Z5 
+0000002 950  NN1     DNA                      B1 
+0000002 960  NN1     helix                    O4.4 
+0000002 961  .       .                        
+0000002 962  -----   -----                    
+0000002 970  DD1     That                     Z5 Z8 
+0000002 980  JJ      secondary                A11.1- N4 P1 
+0000002 990  JJ      binding                  S6+ A1.7+ A2.2 O4.1 
+0000002 000  NN1     site                     M7 
+0000002 001  ,       ,                        
+0000002 010  NP1     Verdine                  Z99 
+0000002 020  VVZ     suggests                 Q2.2 Q1.1 
+0000002 021  ,       ,                        
+0000002 030  VVZ     acts                     A1.1.1 T1.1.2 A8 K4 
+0000002 040  II      as                       Z5 
+0000002 050  AT1     a                        Z5 
+0000002 060  NN1     gatekeeper               I3.2/H2/S2mf 
+0000002 070  II      to                       Z5 
+0000002 080  AT      the                      Z5 
+0000002 090  JJ      active                   X5.2+ A1.1.1 
+0000002 100  NN1     site                     M7 
+0000002 101  ,       ,                        
+0000002 110  RR      thereby                  Z5 
+0000002 120  VVG     ensuring                 A7+ 
+0000002 130  DD1     that                     Z5 Z8 
+0000002 140  NN1     8-oxoguanine             Z99 
+0000002 150  VBZ     is                       Z5 A3+ 
+0000002 160  VVN     removed                  M2 
+0000002 170  CCB     but                      Z5 
+0000002 180  JJ      undamaged                A1.1.2- 
+0000002 190  NN1     guanine                  Z99 
+0000002 200  VBZ     is                       A3+ Z5 
+0000002 210  XX      not                      Z6 
+0000002 211  .       .                        
+0000002 212  -----   -----                    
+0000002 220  II      In                       Z5 
+0000002 230  NP1     Verdine                  Z99 
+0000002 231  GE      's                       Z5 
+0000002 240  JJ      previous                 N4 
+0000002 250  NN1     structure                O4.1 H1 S7.1 O2 A4.1 X4.2 B1 
+0000002 251  ,       ,                        
+0000002 260  AT      the                      Z5 
+0000002 270  JJ      only                     A14 
+0000002 280  JJ      obvious                  A11.2+ 
+0000002 290  NN1     contribution             A9- A2.2 S1.1.3+ 
+0000002 300  II      to                       Z5 
+0000002 310  NN1     discrimination           A6.1- G2.2- 
+0000002 320  II      between                  Z5 
+0000002 330  NN1     8-oxoguanine             Z99 
+0000002 340  CC      and                      Z5 
+0000002 350  NN1     guanine                  Z99 
+0000002 360  VBDZ    was                      A3+ Z5 
+0000002 370  AT1     a                        Z5 
+0000002 380  JJ      single                   N5--- S5- S3.2- M3 
+0000002 390  NN1     hydrogen                 O1.3 
+0000002 400  NN1     bond                     S5+ I1.1 A1.7+ 
+0000002 410  II      in                       Z5 
+0000002 420  AT      the                      Z5 
+0000002 430  JJ      active                   X5.2+ A1.1.1 
+0000002 440  NN1     site                     M7 
+0000002 441  .       .                        
+0000002 442  -----   -----                    
+0000002 450  RT      Now                      T1.1.2 Z4 
+0000002 451  ,       ,                        
+0000002 460  NN2     calculations             N2 X2.4 
+0000002 470  VVN     performed                A1.1.1 K4 X9.2+ 
+0000002 480  II      by                       Z5 
+0000002 490  NP1     Verdine                  Z99 
+0000002 491  GE      's                       Z5 
+0000002 500  NP1     Harvard                  Z1mf Z3c 
+0000002 510  NN2     colleagues               I3.2/S2mf 
+0000002 520  NP1     Martin                   Z1mf[i25.2.1 Z3c[i25.2.1 Z1mf 
+0000002 530  NP1     Karplus                  Z1mf[i25.2.2 Z3c[i25.2.2 
+0000002 540  CC      and                      Z5 
+0000002 550  NP1     Wei                      Z1mf[i26.2.1 Z3c[i26.2.1 Z2 
+0000002 560  NP1     Yang                     Z1mf[i26.2.2 Z3c[i26.2.2 Z1 
+0000002 570  VV0     indicate                 A10+ M6 Q1.1/M3 
+0000002 580  CST     that                     Z5 Z8 
+0000002 590  AT      the                      Z5 
+0000002 600  NN1     mechanism                O2 
+0000002 610  IF      for                      Z5 
+0000002 620  NN1     discrimination           A6.1- G2.2- 
+0000002 630  VBZ     is                       A3+ Z5 
+0000002 640  RG      far                      N3.3+ A13.3 X9.2+ 
+0000002 650  RGR     more                     A13.3 
+0000002 660  JJ      refined                  S1.2.4+ O4.2+ O4.1 
+0000002 661  :       :                        
+0000002 670  RR      Both                     Z5 
+0000002 680  JJ      favorable                A5.1+ S8+ 
+0000002 690  CC      and                      Z5 
+0000002 700  JJ      unfavorable              Z99 
+0000002 710  NN2     interactions             S1.1.2+ A1.1.1 
+0000002 720  VV0     lead                     A2.2[i27.2.1 M6[i27.2.1 S7.1+ A2.2 M2 A1.1.1 
+0000002 730  II      to                       A2.2[i27.2.2 M6[i27.2.2 Z5 
+0000002 740  JJ      preferential             E2++ 
+0000002 750  NN1@    binding                  S6+ A1.7+ A2.2 Q4.1 O2 
+0000002 760  IO      of                       Z5 
+0000002 770  NN1     guanine                  Z99 
+0000002 780  II      over                     Z5 
+0000002 790  NN1     8-oxoguanine             Z99 
+0000002 800  II      in                       Z5 
+0000002 810  AT      the                      Z5 
+0000002 820  JJ      secondary                A11.1- N4 P1 
+0000002 830  JJ      binding                  S6+ A1.7+ A2.2 O4.1 
+0000002 840  NN1     site                     M7 
+0000002 850  CC      and                      Z5 
+0000002 860  IO      of                       Z5 
+0000002 870  NN1     8-oxoguanine             Z99 
+0000002 880  II      over                     Z5 
+0000002 890  NN1     guanine                  Z99 
+0000002 900  II      in                       Z5 
+0000002 910  AT      the                      Z5 
+0000002 920  JJ      active                   X5.2+ A1.1.1 
+0000002 930  NN1     site                     M7 
+0000002 931  .       .                        
+0000002 932  -----   -----                    
+0000002 940  NP1     James                    Z1mf[i29.3.1 Z3c[i29.3.1 Z1m Z1mf[i28.2.1 Z3c[i28.2.1 
+0000002 950  NP1     T.                       Z1mf[i29.3.2 Z3c[i29.3.2 Z1mf[i28.2.2 Z3c[i28.2.2 Z1mf[i30.2.1 Z3c[i30.2.1 
+0000002 960  NP1     Stivers                  Z3c[i29.3.3 Z1mf[i29.3.3 Z1mf[i30.2.2 Z3c[i30.2.2 
+0000002 970  IO      of                       Z5 
+0000002 980  NP1     Johns                    Z1mf[i31.2.1 Z3c[i31.2.1 Z1m S9/O1.2 
+0000002 990  NP1     Hopkins                  Z1mf[i31.2.2 Z3c[i31.2.2 Z1mf Z3c[i32.2.1 
+0000002 000  NN1     University               P1/H1c Z3c[i32.2.2 
+0000002 010  NN1     School                   Z3c[i33.3.1 P1/H1c S5+c L2%c 
+0000002 020  IO      of                       Z3c[i33.3.2 Z5 
+0000002 030  NN1     Medicine                 Z3c[i33.3.3 B3 
+0000002 040  VVZ     says                     Q2.1 
+0000002 050  CST     that                     Z5 Z8 
+0000002 060  AT      the                      Z5 
+0000002 070  JJ      new                      T3- 
+0000002 080  NN1     structure                O4.1 H1 S7.1 O2 A4.1 X4.2 B1 
+0000002 090  VVZ     represents               Q1.1 A6.2+ S1.1.3 A5.4- K4 
+0000002 091  NULL    <quote>                  
+0000002 092  -----   -----                    
+0000002 093  "       "                        
+0000002 100  AT1     a                        Z5 
+0000002 110  JJ      late-stage               N4 
+0000002 120  JJ      intermediate             N5 N4 
+0000002 130  II      in                       Z5 
+0000002 140  AT      the                      Z5 
+0000002 150  JJ      still-mysterious         Z99 
+0000002 160  NN1     pathway                  M3 X4.2 
+0000002 161  (       &lsqb;                   
+0000002 170  DD1     that                     Z5 Z8 
+0000002 171  )       &rsqb;                   
+0000002 180  VV0     repair                   A5.1+/A2.1 S8+/A1.1.2- M1 
+0000002 190  NN2     enzymes                  O1 
+0000002 200  VV0     use                      A1.5.1 S7.1+ 
+0000002 210  TO      to                       Z5 
+0000002 220  VVI     flip                     A1.1.1 M2 
+0000002 230  NN2     bases                    M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000002 240  II21    out                      Z5[i34.2.1 Z5 Z5[i35.2.1 A9-[i35.2.1 
+0000002 250  II22    of                       Z5[i34.2.2 Z5[i35.2.2 A9-[i35.2.2 
+0000002 260  AT      the                      Z5 
+0000002 270  NN1     DNA                      B1 
+0000002 280  NN1     helix                    O4.4 
+0000002 281  .       .                        
+0000002 282  "       "                        
+0000002 283  NULL    </quote>                 
+0000002 284  -----   -----                    
+0000002 290  NP1@    Stivers                  Z99 
+0000002 300  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 310  VVN     used                     A1.5.1 S7.1+ 
+0000002 320  JJ      stopped-flow             Z99 
+0000002 330  NN1     fluorescence             Z99 
+0000002 340  CC      and                      Z5 
+0000002 350  NN1     solution                 X4.2 O1.2 
+0000002 360  CC      and                      Z5 
+0000002 370  JJ      solid-state              Z99 
+0000002 380  NP1     NMR                      Z99 
+0000002 390  NN2     techniques               X4.2 
+0000002 400  TO      to                       Z5 
+0000002 410  VVI     detect                   A10+ 
+0000002 420  JJ      early-stage              T3- 
+0000002 430  NN2     intermediates            N5 N4 
+0000002 440  II      in                       Z5 
+0000002 450  AT      the                      Z5 
+0000002 460  NN1     process                  A1.1.1 X4.2 
+0000002 470  II      by                       Z5 
+0000002 480  DDQ     which                    Z8 Z5 
+0000002 490  AT1     a                        Z5 
+0000002 500  JJ      related                  A2.2 S4 
+0000002 510  NN1     DNA                      B1 
+0000002 520  NN1     repair                   A5.1+/A2.1 S8+/A1.1.2- 
+0000002 530  NN1     enzyme                   O1 
+0000002 540  VVZ     hunts                    L2 K5.1 X2.4 
+0000002 550  IF      for                      Z5 
+0000002 560  APPGE   its                      Z8 
+0000002 570  NN1     target                   X7+ G3 K5.1 
+0000002 571  .       .                        
+0000002 572  -----   -----                    
+0000002 580  PPHS1   He                       Z8m 
+0000002 590  VBZ     is                       A3+ Z5 
+0000002 600  JJ      optimistic               X2.6/A5.1+/S1.2 
+0000002 610  CST     that                     Z5 Z8 
+0000002 620  AT      the                      Z5 
+0000002 630  NN1     combination              A6.3+ A2.1+ N1 M3fn 
+0000002 640  IO      of                       Z5 
+0000002 650  DA      such                     Z5 Z8 
+0000002 660  NN2     methods                  X4.2 
+0000002 670  CC      and                      Z5 
+0000002 680  NP1     Verdine                  Z99 
+0000002 681  GE      's                       Z5 
+0000002 690  NN1     trapping                 O2 A1.7+ A9+ S3.2% 
+0000002 700  NN1     technique                X4.2 
+0000002 710  VM      may                      A7+ 
+0000002 720  RR      soon                     T1.1.3/N3.8+ 
+0000002 730  VVI     yield                    S7.1- A2.1+ A1.1.1 A9- 
+0000002 740  AT1     a                        Z5 
+0000002 750  JJ      complete                 N5.1+ T2- N3.2+ 
+0000002 760  NN1     picture                  C1 Q4.3 X4.1 
+0000002 770  IO      of                       Z5 
+0000002 780  RRQ     how                      Z5 A13.3 
+0000002 790  NN1     base                     M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000002 800  JJ      flipping                 Z4 A1.1.1 
+0000002 810  NN2     proceeds                 I1.1 
+0000004 001  NULL    **8;7;text               

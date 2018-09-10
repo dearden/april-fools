@@ -1,0 +1,451 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN2     Networks                 S5+ Q4.3 Y2 
+0000002 020  VVD     announced                Q2.2 
+0000002 030  RT      today                    T1.1.2 
+0000002 040  PPH1    it                       Z8 
+0000002 050  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 060  VVN     licensed                 G1.1/Q1.2 S7.4+ 
+0000002 070  RG      over                     T3[i1.2.1 N5[i1.2.1 N5.2+ A13.2 
+0000002 080  MC      100                      T3[i1.2.2 N5[i1.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000002 090  NN2     episodes                 A3+/A11.1+ A6.2- Q4 B2- 
+0000002 100  DD1     each                     N5.1+ 
+0000002 110  IO      of                       Z5 
+0000002 120  MC      two                      N1 T3 T1.2 
+0000002 130  VVD     hit                      E3- A1.1.1 A2.1+ A11.2+ A10+ M1 G3 
+0000002 140  NN2     sitcoms                  Q4.3 
+0000002 141  ,       ,                        
+0000002 150  AT      THE                      Z5 
+0000002 160  MD      FIRST                    N4 
+0000002 170  NN1     FAMILY                   S4c A4.1c 
+0000002 180  CC      and                      Z5 
+0000002 190  NNB     MR                       S2.2m 
+0000002 191  .       .                        
+0000002 192  -----   -----                    
+0000002 200  NN1     BOX                      K4/H2[i2.2.1 O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ 
+0000002 210  NN1     OFFICE                   K4/H2[i2.2.2 I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000002 211  ,       ,                        
+0000002 220  II      from                     Z5 
+0000002 230  NN1     Entertainment            K1 
+0000002 240  NN2     Studios                  C1/H2 Q4.3/H1c H1 
+0000002 250  II      to                       Z5 
+0000002 260  NN1     air                      O1.3 A8 W1 Q4.3 M1 
+0000002 270  II      on                       Z5 
+0000002 280  NP1     CENTRIC                  Z99 
+0000002 290  VVG     starting                 T2+ E5- E3- 
+0000002 300  NPM1    April                    T1.3 
+0000002 301  ,       ,                        
+0000002 310  MC      2013                     N1 T1.2 T3 T1.3 N3.2 
+0000002 311  .       .                        
+0000002 312  -----   -----                    
+0000002 320  DB2     Both                     N5 
+0000002 330  VV0     first-run                Z99 
+0000002 340  JJ      original                 T3- A5.4+ A6.2- 
+0000002 350  NN      series                   N4c Q4.3c 
+0000002 360  NN1     feature                  O4.1 Q4.2 Q4.3 W3 
+0000002 370  VVN     recognized               X2.2+ X2.5+ S7.4+ G2.1+ S1.1.1 
+0000002 380  CC      and                      Z5 
+0000002 390  JJ      award-winning            A9+ X9.2+ 
+0000002 400  NN2     actors                   K4/S2.2m A1.1.1/S2mf@ 
+0000002 410  II21    such                     Z5[i3.2.1 
+0000002 420  II22    as                       Z5[i3.2.2 Z5 
+0000002 430  NP1     Bill                     Z1mf[i4.2.1 Z3c[i4.2.1 
+0000002 440  NP1     Bellamy                  Z1mf[i4.2.2 Z3c[i4.2.2 
+0000002 441  ,       ,                        
+0000002 450  NP1     Gary                     Z1mf[i5.2.1 Z3c[i5.2.1 Z1m 
+0000002 460  NP1     Busey                    Z1mf[i5.2.2 Z3c[i5.2.2 
+0000002 461  ,       ,                        
+0000002 470  NP1     Gladys                   Z1mf[i6.2.1 Z3c[i6.2.1 
+0000002 480  NP1     Knight                   Z1mf[i6.2.2 Z3c[i6.2.2 
+0000002 481  ,       ,                        
+0000002 490  NP1     Christopher              Z1mf[i8.3.1 Z3c[i8.3.1 Z1m Z1mf[i7.2.1 Z3c[i7.2.1 
+0000002 500  NP1     B.                       Z1mf[i8.3.2 Z3c[i8.3.2 Z1mf[i7.2.2 Z3c[i7.2.2 Z1mf[i9.2.1 Z3c[i9.2.1 
+0000002 510  NP1     Duncan                   Z3c[i8.3.3 Z1mf[i8.3.3 Z1m Z1mf[i9.2.2 Z3c[i9.2.2 
+0000002 511  ,       ,                        
+0000002 520  NP1     Kellita                  Z1mf[i10.2.1 Z3c[i10.2.1 
+0000002 530  NP1     Smith                    Z1mf[i10.2.2 Z3c[i10.2.2 Z1mf 
+0000002 531  ,       ,                        
+0000002 540  NP1     Jacke                    Z99 
+0000002 541  ,       ,                        
+0000002 550  NP1     Marla                    Z1mf[i11.2.1 Z3c[i11.2.1 
+0000002 560  NP1     Gibbs                    Z1mf[i11.2.2 Z3c[i11.2.2 Z1mf Z3c 
+0000002 561  ,       ,                        
+0000002 570  NP1     John                     Z1mf[i12.2.1 Z3c[i12.2.1 Z1m S9/O1.2 
+0000002 580  NP1     Witherspoon              Z1mf[i12.2.2 Z3c[i12.2.2 
+0000002 581  ,       ,                        
+0000002 590  NP1     Jon                      Z1mf[i13.2.1 Z3c[i13.2.1 Z1m 
+0000002 600  NP1     Lovitz                   Z1mf[i13.2.2 Z3c[i13.2.2 
+0000002 601  ,       ,                        
+0000002 610  NP1     Rick                     Z1mf[i14.2.1 Z3c[i14.2.1 Z1m 
+0000002 620  NP1     Fox                      Z1mf[i14.2.2 Z3c[i14.2.2 Z1mf 
+0000002 621  ,       ,                        
+0000002 630  NP1     Tim                      Z1m 
+0000002 640  NN2     Meadows                  W3/L3 
+0000002 641  ,       ,                        
+0000002 650  NN1     Essence                  A11.1+ O1 
+0000002 660  NP1     Atkins                   Z1mf 
+0000002 670  CC      and                      Z5 
+0000002 680  NP1     Vivica                   Z1mf[i16.3.1 Z3c[i16.3.1 Z1mf[i15.2.1 Z3c[i15.2.1 
+0000002 690  NP1     A.                       Z1mf[i16.3.2 Z3c[i16.3.2 Z1mf[i15.2.2 Z3c[i15.2.2 Z1mf[i17.2.1 Z3c[i17.2.1 
+0000002 700  NP1     Fox                      Z3c[i16.3.3 Z1mf[i16.3.3 Z1mf Z1mf[i17.2.2 Z3c[i17.2.2 
+0000002 701  ,       ,                        
+0000002 710  CC      and                      Z5 
+0000002 720  VBR     are                      Z5 A3+ 
+0000002 730  VVN     scheduled                X7+/T1 
+0000002 740  TO      to                       Z5 
+0000002 750  VVI     premiere                 N4 
+0000002 760  II      in                       Z5 
+0000002 770  NNT1    primetime                Z99 
+0000002 780  II      on                       Z5 
+0000002 790  NP1     Centric                  Z99 
+0000002 800  VVZ     weeknights               Z99 
+0000002 810  NN1     beginning                T2+ 
+0000002 820  NPD1    Friday                   T1.3 
+0000002 830  NPM1    April                    T1.3[i18.2.1 T1.3 
+0000002 840  MC      19                       T1.3[i18.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000002 841  ,       ,                        
+0000002 850  MC      2013                     N1 T1.2 T3 T1.3 N3.2 
+0000002 851  .       .                        
+0000004 001  NULL    <quote>                  
+0000004 002  -----   -----                    
+0000004 010  VBDR    Were                     Z5 A3+ 
+0000004 020  VVN     thrilled                 E4.1+++ X5.2+++ 
+0000004 030  TO      to                       Z5 
+0000004 040  VVI     partner                  A9-[i19.2.1 S3.1 
+0000004 050  IW      with                     A9-[i19.2.2 Z5 
+0000004 060  NN1     Entertainment            K1 
+0000004 070  NN2     Studios                  C1/H2 Q4.3/H1c H1 
+0000004 080  CC      and                      Z5 
+0000004 090  VVI     add                      N5+/A2.1 N2 A1.8+ 
+0000004 100  DD2     these                    Z5 Z8 
+0000004 110  MC      two                      N1 T3 T1.2 
+0000004 120  JJ      incredible               A6.2- A5.1+ A5.2- 
+0000004 130  NN      series                   N4c Q4.3c 
+0000004 140  II      to                       Z5 
+0000004 150  APPGE   our                      Z8 
+0000004 160  JJ      growing                  N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000004 170  NN1     comedy                   E4.1+ K4 Q4.3 
+0000004 180  NN1     programming              Y2 Q4.3 P1 
+0000004 190  NN1     slate                    O1.1 O2 Q1.2 
+0000004 200  II      on                       Z5 
+0000004 210  NP1     CENTRIC                  Z99 
+0000004 211  ,       ,                        
+0000004 212  NULL    </quote>                 
+0000004 213  -----   -----                    
+0000004 220  VVD     said                     Q2.1 
+0000004 230  NP1     Paxton                   Z1mf[i21.3.1 Z3c[i21.3.1 Z1mf[i20.2.1 Z3c[i20.2.1 
+0000004 240  NP1     K.                       Z1mf[i21.3.2 Z3c[i21.3.2 Z1mf[i20.2.2 Z3c[i20.2.2 Z1mf[i22.2.1 Z3c[i22.2.1 
+0000004 250  NP1     Baker                    Z3c[i21.3.3 Z1mf[i21.3.3 Z1mf Z1mf[i22.2.2 Z3c[i22.2.2 
+0000004 251  ,       ,                        
+0000004 260  NP1     EVP                      Z99 
+0000004 270  CC      and                      Z5 
+0000004 280  JJ      General                  S7.1+/S2mf[i23.2.1 N5+ A4.2- 
+0000004 290  NN1     Manager                  S7.1+/S2mf[i23.2.2 S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf 
+0000004 300  IO      of                       Z5 
+0000004 310  NP1     CENTRIC                  Z99 
+0000004 311  .       .                        
+0000004 312  NULL    <quote>                  
+0000004 313  -----   -----                    
+0000004 320  AT      THE                      Z5 
+0000004 330  MD      FIRST                    N4 
+0000004 340  NN1     FAMILY                   S4c A4.1c 
+0000004 350  CC      and                      Z5 
+0000004 360  NNB     MR                       S2.2m 
+0000004 361  .       .                        
+0000004 362  -----   -----                    
+0000004 370  NN1     BOX                      K4/H2[i24.2.1 O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ 
+0000004 380  NN1     OFFICE                   K4/H2[i24.2.2 I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000004 390  NN1     star                     W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 
+0000004 400  JJ      African                  Z2 
+0000004 410  JJ      American                 Z2 
+0000004 420  NN1     talent                   X9.1+ 
+0000004 430  CST     that                     Z8 Z5 
+0000004 440  VV0     resonate                 Z99 
+0000004 450  IW      with                     Z5 
+0000004 460  APPGE   our                      Z8 
+0000004 470  NN1     audience                 K1/S2mfc S2mfc S1.1.3+ 
+0000004 471  .       .                        
+0000004 472  NULL    </quote>                 
+0000006 001  NULL    <quote>                  
+0000006 002  -----   -----                    
+0000006 010  DD1     This                     Z8 M6 Z5 
+0000006 020  VBZ     is                       A3+ Z5 
+0000006 030  AT1     an                       Z5 
+0000006 040  JJ      historic                 T3+ 
+0000006 050  NN1     deal                     N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
+0000006 051  ,       ,                        
+0000006 052  NULL    </quote>                 
+0000006 053  -----   -----                    
+0000006 060  VVD     said                     Q2.1 
+0000006 070  NP1     Byron                    Z1mf[i25.2.1 Z3c[i25.2.1 
+0000006 080  NP1     Allen                    Z1mf[i25.2.2 Z3c[i25.2.2 Z1mf 
+0000006 081  ,       ,                        
+0000006 090  NN1     Founder                  T2+/S2mf 
+0000006 091  ,       ,                        
+0000006 100  NN1     Chairman                 S7.1+/S2mf 
+0000006 101  ,       ,                        
+0000006 110  CC      and                      Z5 
+0000006 120  JJ      Chief                    S7.1+/S2mf[i26.2.1 S7.1+ 
+0000006 130  NN1     Executive                S7.1+/S2mf[i26.2.2 
+0000006 140  NN1     Officer                  G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
+0000006 150  IO      of                       Z5 
+0000006 160  NN1     Entertainment            K1 
+0000006 170  NN2     Studios                  C1/H2 Q4.3/H1c H1 
+0000006 171  .       .                        
+0000006 172  NULL    <quote>                  
+0000006 173  -----   -----                    
+0000006 180  PPIS2   We                       Z8 
+0000006 190  VH0     have                     Z5 A9+ A2.2 S4 
+0000006 200  VVN     bypassed                 M1/M3 A1.9 
+0000006 210  AT      the                      Z5 
+0000006 220  NN1     broadcast                Q4.3 
+0000006 230  NN2     networks                 S5+ Q4.3 Y2 
+0000006 240  TO      to                       Z5 
+0000006 250  VVI     produce                  A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000006 260  MC      two                      N1 T3 T1.2 
+0000006 270  JJ      original                 T3- A5.4+ A6.2- 
+0000006 280  NN2     sitcoms                  Q4.3 
+0000006 290  IW      with                     Z5 
+0000006 300  NNO2    hundreds                 N5+ 
+0000006 310  IO      of                       Z5 
+0000006 320  NN2     episodes                 A3+/A11.1+ A6.2- Q4 B2- 
+0000006 330  CST     that                     Z8 Z5 
+0000006 340  VV0@    feature                  A10+ 
+0000006 350  JJ      prominent                A11.1+ A11.2+ 
+0000006 360  NN1     TV                       Q4.3 S2.1/S2.2m 
+0000006 370  CC      and                      Z5 
+0000006 380  NN1     film                     Q4.3/S2mf[i27.2.1 Q4.3 O2/C1 O1.1 O1.2 B3 
+0000006 390  NN2     stars                    Q4.3/S2mf[i27.2.2 W1 O4.4 A5.1 A11.1+/S2mf S9 
+0000006 391  ,       ,                        
+0000006 400  CC      and                      Z5 
+0000006 410  PPIS2   we                       Z8 
+0000006 420  VV0     couldnt                  Z99 
+0000006 430  VBI     be                       A3+ Z5 
+0000006 440  JJR     happier                  E4.1++ E4.2+++ 
+0000006 450  TO      to                       Z5 
+0000006 460  VHI     have                     Z5 A9+ A2.2 S4 
+0000006 470  VVN     BET                      I1/A1.4 X2.6+ 
+0000006 480  NN2     Networks                 S5+ Q4.3 Y2 
+0000006 490  CSA     as                       Z5 
+0000006 500  APPGE   our                      Z8 
+0000006 510  NN1     cable                    O3 O2 Q1.3 Q4.3 
+0000006 520  NN1     premiere                 N4 
+0000006 530  NN1     partner                  S3.1/S2mf S3.2/S2mf S4mf 
+0000006 531  .       .                        
+0000006 532  NULL    </quote>                 
+0000006 533  -----   -----                    
+0000008 010  AT      THE                      Z5 
+0000008 020  MD      FIRST                    N4 
+0000008 030  NN1     FAMILYIn                 Z99 
+0000008 040  AT1     a                        Z5 
+0000008 050  JJ      humorous                 E4.1+ 
+0000008 060  NN1     twist                    O4.4 M2 A2.1+ K1 
+0000008 070  IO      of                       Z5 
+0000008 080  NN1     art                      C1 X9.1+ 
+0000008 090  VVG     imitating                A6.1+ 
+0000008 100  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000008 110  II      at                       Z5 
+0000008 120  MC      1600                     N1 T1.2 T3 T1.3 N3.2 
+0000008 130  NP1     Pennsylvania             Z2 
+0000008 140  NNL1    Avenue                   M3/H3 X4.2 
+0000008 141  ,       ,                        
+0000008 150  NP1     Centric                  Z99 
+0000008 160  VVZ@    premieres                N4 
+0000008 170  AT1     a                        Z5 
+0000008 180  JJ      star-studded             K4/A11.1+ 
+0000008 190  JJ@     scripted                 Z99 
+0000008 200  NN1     comedy                   E4.1+ K4 Q4.3 
+0000008 210  II      about                    Z5 
+0000008 220  AT1     a                        Z5 
+0000008 230  JJ      presidential             G1.1/S7.1+ 
+0000008 240  JJ      African                  Z2 
+0000008 250  JJ      American                 Z2 
+0000008 260  NN1     family                   S4c A4.1c 
+0000008 270  VVG     residing                 H4 M6 
+0000008 280  II      in                       Z5 
+0000008 290  AT      the                      Z5 
+0000008 300  NP1     White                    Z3c[i28.2.1 Z2[i28.2.1 Z1mf 
+0000008 310  NN1     House                    Z3c[i28.2.2 Z2[i28.2.2 H1 P1/S5+c G1.1c 
+0000008 311  .       .                        
+0000008 312  -----   -----                    
+0000008 320  NP1     Christopher              Z1mf[i30.3.1 Z3c[i30.3.1 Z1m Z1mf[i29.2.1 Z3c[i29.2.1 
+0000008 330  NP1     B.                       Z1mf[i30.3.2 Z3c[i30.3.2 Z1mf[i29.2.2 Z3c[i29.2.2 Z1mf[i31.2.1 Z3c[i31.2.1 
+0000008 340  NP1     Duncan                   Z3c[i30.3.3 Z1mf[i30.3.3 Z1m Z1mf[i31.2.2 Z3c[i31.2.2 
+0000008 350  VBZ     is                       A3+ Z5 
+0000008 360  NNB     President                G1.1/S7.1+/S2mf 
+0000008 370  NP1     William                  Z1mf[i32.2.1 Z3c[i32.2.1 Z1m 
+0000008 380  NP1     Johnson                  Z1mf[i32.2.2 Z3c[i32.2.2 Z1mf 
+0000008 390  CC      and                      Z5 
+0000008 400  NP1     Kellita                  Z1mf[i33.2.1 Z3c[i33.2.1 
+0000008 410  NP1     Smith                    Z1mf[i33.2.2 Z3c[i33.2.2 Z1mf 
+0000008 420  NN2     stars                    W1 O4.4 A5.1 A11.1+/S2mf S9 
+0000008 430  CSA     as                       Z5 
+0000008 440  APPGE   his                      Z8m 
+0000008 450  NN1     wife                     S4f 
+0000008 451  ,       ,                        
+0000008 460  MD      First                    N4 
+0000008 470  NNB     Lady                     Z1mf[i35.3.1 Z3c[i35.3.1 Z3c Z1mf[i34.2.1 Z3c[i34.2.1 
+0000008 480  NP1     Katherine                Z1mf[i35.3.2 Z3c[i35.3.2 Z1f Z1mf[i34.2.2 Z3c[i34.2.2 Z1mf[i36.2.1 Z3c[i36.2.1 
+0000008 490  NP1     Johnson                  Z3c[i35.3.3 Z1mf[i35.3.3 Z1mf Z1mf[i36.2.2 Z3c[i36.2.2 
+0000008 491  .       .                        
+0000008 492  -----   -----                    
+0000008 500  RL      Together                 S5+ T1.1.2 M6 
+0000008 501  ,       ,                        
+0000008 510  PPHS2   they                     Z8mfn 
+0000008 520  VV0     run                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000008 530  AT      the                      Z5 
+0000008 540  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000008 550  NN1     world                    W1 S5+c A4.1 N5+ 
+0000008 560  CC      and                      Z5 
+0000008 570  VV0     raise                    M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000008 580  MC      four                     N1 T3 T1.2 
+0000008 590  NN2     children                 S2mf/T3- S4mf 
+0000008 591  .       .                        
+0000008 592  -----   -----                    
+0000008 600  NN2     Co-stars                 K4/S2mf 
+0000008 610  NP1     Gladys                   Z1mf[i37.2.1 Z3c[i37.2.1 
+0000008 620  NP1     Knight                   Z1mf[i37.2.2 Z3c[i37.2.2 
+0000008 621  ,       ,                        
+0000008 630  NP1     Jacke                    Z99 
+0000008 631  ,       ,                        
+0000008 640  NP1     John                     Z1mf[i38.2.1 Z3c[i38.2.1 Z1m S9/O1.2 
+0000008 650  NP1     Witherspoon              Z1mf[i38.2.2 Z3c[i38.2.2 
+0000008 651  ,       ,                        
+0000008 660  CC      and                      Z5 
+0000008 670  NP1     Marla                    Z1mf[i39.2.1 Z3c[i39.2.1 
+0000008 680  NP1     Gibbs                    Z1mf[i39.2.2 Z3c[i39.2.2 Z1mf Z3c 
+0000008 690  VV0@    round                    M1 
+0000008 700  RP      out                      M6 
+0000008 710  APPGE   their                    Z8 
+0000008 720  JJ      dynamic                  X5.2+ A2.1+ 
+0000008 730  JJ@     extended                 S4[i40.2.1 T1.3+ N3.2+/A2.1 N5+/A2.1 
+0000008 740  NN1     family                   S4[i40.2.2 S4c A4.1c 
+0000008 741  .       .                        
+0000009 001  -----   -----                    
+0000010 010  NNB     MR                       S2.2m 
+0000010 011  .       .                        
+0000010 012  -----   -----                    
+0000010 020  NN1     BOX                      O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ 
+0000010 030  NN1     OFFICEOne                Z99 
+0000010 040  IO      of                       Z5 
+0000010 050  NP2     Hollywoods               Z2 
+0000010 060  RGT     most                     A13.2 
+0000010 070  JJ      bankable                 E2+/I1.1 
+0000010 080  NN2     stars                    W1 O4.4 A5.1 A11.1+/S2mf S9 
+0000010 090  VVD     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000010 100  PPX1    himself                  Z8m 
+0000010 110  II      into                     Z5 
+0000010 120  NN1     trouble                  E6- A12- B2- E3- X8+ O4.2- 
+0000010 130  IW      with                     Z5 
+0000010 140  AT      the                      Z5 
+0000010 150  NN1     law                      G2.1 S6+ Y1 
+0000010 151  ,       ,                        
+0000010 160  CC      and                      Z5 
+0000010 170  VBZ     is                       Z5 A3+ 
+0000010 180  VVN     ordered                  S7.1+/Q2.2 I2.2/Q2.2 
+0000010 190  TO      to                       Z5 
+0000010 200  VVI     give                     A9-[i41.2.1 A9- A1.1.1 
+0000010 210  RP      back                     A9-[i41.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000010 220  II      by                       Z5 
+0000010 230  VVG     fulfilling               X9.2+ E4.2+ 
+0000010 240  AT1     an                       Z5 
+0000010 250  JJ      unlikely                 A7- 
+0000010 260  NN1     sentence                 Q3 G2.1 
+0000010 261  :       :                        
+0000010 270  NN1     community                G2.1[i42.2.1 S8+/S5+[i42.2.1 S5+c 
+0000010 280  NN1     service                  G2.1[i42.2.2 S8+/S5+[i42.2.2 S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000010 290  II      as                       Z5 
+0000010 300  AT1     a                        Z5 
+0000010 310  JJ      high                     P1/H1c[i43.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000010 320  NN1     school                   P1/H1c[i43.2.2 P1/H1c S5+c L2%c 
+0000010 330  NN1     English                  Z1mf 
+0000010 340  NN1     teacher                  P1/I3.2/S2mf 
+0000010 350  II      in                       Z5 
+0000010 360  ND1     South                    M6 Z2[i44.2.1 Z3c[i44.2.1 
+0000010 370  JJ      Central                  Z1mf[i46.3.1 Z3c[i46.3.1 Z3c Z2[i44.2.2 Z3c[i44.2.2 Z1mf[i45.2.1 Z3c[i45.2.1 
+0000010 380  NP1     Los                      Z1mf[i46.3.2 Z3c[i46.3.2 Z1 Z1mf[i45.2.2 Z3c[i45.2.2 Z1mf[i47.2.1 Z3c[i47.2.1 Z2[i48.2.1 Z2[i49.2.1 Z2[i50.2.1 
+0000010 390  NP1     Angeles                  Z3c[i46.3.3 Z1mf[i46.3.3 Z2 Z1mf[i47.2.2 Z3c[i47.2.2 Z2[i48.2.2 Z2[i49.2.2 Z2[i50.2.2 
+0000010 391  .       .                        
+0000010 392  -----   -----                    
+0000010 400  NP1     Bill                     Z1mf[i51.2.1 Z3c[i51.2.1 
+0000010 410  NP1     Bellamy                  Z1mf[i51.2.2 Z3c[i51.2.2 
+0000010 420  VVZ     leads                    S7.1+ A2.2 M2 A1.1.1 
+0000010 430  AT1     an                       Z5 
+0000010 440  JJ      all-star                 A11.1+ 
+0000010 450  NN1@    cast                     K4/S5+c O2 B3 A4.1 B2- 
+0000010 460  II      in                       Z5 
+0000010 470  DD1     this                     M6 Z5 Z8 
+0000010 480  JJ@     scripted                 Z99 
+0000010 490  NN1     comedy                   E4.1+ K4 Q4.3 
+0000010 500  CST     that                     Z8 Z5 
+0000010 510  VVZ     looks                    X3.4[i52.2.1 X2.4[i52.2.1 X2.1[i52.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000010 520  II      at                       X3.4[i52.2.2 X2.4[i52.2.2 X2.1[i52.2.2 Z5 
+0000010 530  AT      the                      Z5 
+0000010 540  JJ      human                    S2 S1.2.1+ 
+0000010 550  NN1     side                     A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
+0000010 560  IO      of                       Z5 
+0000010 570  NN1     stardom                  A11.1+ 
+0000010 571  .       .                        
+0000010 572  -----   -----                    
+0000010 580  RR      Also                     N5++ 
+0000010 590  VVZ%    stars                    Z2[i53.2.1 Z3c[i53.2.1 Z1mf[i53.2.1 Q1.2 K4/A11.1+ 
+0000010 600  NP1     Jon                      Z2[i53.2.2 Z3c[i53.2.2 Z1mf[i53.2.2 Z1m Z1mf[i54.2.1 Z3c[i54.2.1 
+0000010 610  NP1     Lovitz                   Z99 Z1mf[i54.2.2 Z3c[i54.2.2 
+0000010 611  ,       ,                        
+0000010 620  NP1     Vivica                   Z1mf[i56.3.1 Z3c[i56.3.1 Z1mf[i55.2.1 Z3c[i55.2.1 
+0000010 630  NP1     A.                       Z1mf[i56.3.2 Z3c[i56.3.2 Z1mf[i55.2.2 Z3c[i55.2.2 Z1mf[i57.2.1 Z3c[i57.2.1 
+0000010 640  NP1     Fox                      Z3c[i56.3.3 Z1mf[i56.3.3 Z1mf Z1mf[i57.2.2 Z3c[i57.2.2 
+0000010 641  ,       ,                        
+0000010 650  NP1     Gary                     Z1mf[i58.2.1 Z3c[i58.2.1 Z1m 
+0000010 660  NP1     Busey                    Z1mf[i58.2.2 Z3c[i58.2.2 
+0000010 661  ,       ,                        
+0000010 670  NN1     Essence                  A11.1+ O1 
+0000010 680  NP1     Atkins                   Z1mf 
+0000010 681  ,       ,                        
+0000010 690  NP1     Tim                      Z1m 
+0000010 700  NN2     Meadows                  W3/L3 
+0000010 701  ,       ,                        
+0000010 710  CC      and                      Z5 
+0000010 720  NP1     Rick                     Z1mf[i59.2.1 Z3c[i59.2.1 Z1m 
+0000010 730  NP1     Fox                      Z1mf[i59.2.2 Z3c[i59.2.2 Z1mf 
+0000010 731  .       .                        
+0000011 001  -----   -----                    
+0000012 010  AT      The                      Z5 
+0000012 020  NN1     deal                     N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
+0000012 030  VBDZ    was                      Z5 A3+ 
+0000012 040  VVN     negotiated               Q2.2 
+0000012 050  II      by                       Z5 
+0000012 060  NP1     Barbara                  Z1mf[i60.2.1 Z3c[i60.2.1 Z1f 
+0000012 070  NP1     Zaneri                   Z1mf[i60.2.2 Z3c[i60.2.2 
+0000012 071  ,       ,                        
+0000012 080  NN1     Executive                S7.1+ I2.1/S2mf G1.1c S7.1+/S5+c 
+0000012 090  II      Vice                     S7.1+/S2mf[i61.2.1 Z5 
+0000012 100  NN1     President                S7.1+/S2mf[i61.2.2 G1.1/S7.1+/S2mf 
+0000012 101  ,       ,                        
+0000012 110  NN1     Program                  Y2 X7+ Q4.3 Q1.2 P1 
+0000012 120  NN1     Strategy                 X7+ 
+0000012 121  ,       ,                        
+0000012 130  VVG     Scheduling               X7+/T1 
+0000012 140  CC      and                      Z5 
+0000012 150  NN2     Acquisitions             A9+ 
+0000012 151  ,       ,                        
+0000012 160  VV0     BET                      I1/A1.4 X2.6+ 
+0000012 170  NN2     Networks                 S5+ Q4.3 Y2 
+0000012 180  CC      and                      Z5 
+0000012 190  NP1     Byron                    Z1mf[i62.2.1 Z3c[i62.2.1 
+0000012 200  NP1     Allen                    Z1mf[i62.2.2 Z3c[i62.2.2 Z1mf 
+0000012 201  ,       ,                        
+0000012 210  NN1     Founder                  T2+/S2mf 
+0000012 211  ,       ,                        
+0000012 220  NN1     Chairman                 S7.1+/S2mf 
+0000012 221  ,       ,                        
+0000012 230  CC      and                      Z5 
+0000012 240  JJ      Chief                    S7.1+/S2mf[i63.2.1 S7.1+ 
+0000012 250  NN1     Executive                S7.1+/S2mf[i63.2.2 
+0000012 260  NN1     Officer                  G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
+0000012 261  ,       ,                        
+0000012 270  IO      of                       Z5 
+0000012 280  NN1     Entertainment            K1 
+0000012 290  NN2     Studios                  C1/H2 Q4.3/H1c H1 
+0000012 291  .       .                        
+0000015 001  NULL    **8;7;text               

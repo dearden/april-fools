@@ -1,0 +1,671 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     Sydney                   Z2 
+0000002 020  NN1     man                      S2.2m 
+0000002 030  NP1     Jai                      Z1mf[i1.2.1 Z3c[i1.2.1 
+0000002 040  NP1     Abberton                 Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 050  VVD     admitted                 Q2.2 B3 A1.8+ S7.4+/M1 
+0000002 060  VVG     shooting                 G3 K5.1 M1 M2 Q4.3 Q1.2 
+0000002 070  JJ      alleged                  Q2.2/A5.2 
+0000002 080  NN1     standover                Z99 
+0000002 090  NN1     man                      S2.2m 
+0000002 100  NP1     Tony                     Z1mf[i2.2.1 Z3c[i2.2.1 Z1mf 
+0000002 110  NP1     Hines                    Z1mf[i2.2.2 Z3c[i2.2.2 Z2[i3.2.1 Z1mf[i3.2.1 
+0000002 120  MC      three                    N1 T1.2 T3 Z2[i3.2.2 Z1mf[i3.2.2 N6+[i4.2.1 A13.3[i4.2.1 
+0000002 130  NNT2    times                    T1 T1.2 T1.3 T1.1.2 N6 N1 N6+[i4.2.2 A13.3[i4.2.2 
+0000002 140  II      in                       Z5 
+0000002 150  AT      the                      Z5 
+0000002 160  NN1     head                     B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
+0000002 161  ,       ,                        
+0000002 170  CCB     but                      Z5 
+0000002 180  VVD     said                     Q2.1 
+0000002 190  AT      the                      Z5 
+0000002 200  NN1     killing                  L1- A12- A1.5.1 E4.1-/A2.2 
+0000002 210  VBDZ    was                      A3+ Z5 
+0000002 220  TO      to                       Z5 
+0000002 230  VVI     protect                  S8+/A15+ A10- 
+0000002 240  PPX1    himself                  Z8m 
+0000002 250  CC      and                      Z5 
+0000002 260  APPGE   his                      Z8m 
+0000002 270  JJ      new                      T3- 
+0000002 280  NN1     girlfriend               S3.2/S2.1f S3.1/S2.1f 
+0000002 281  ,       ,                        
+0000002 290  AT1     a                        Z5 
+0000002 300  NN1     court                    G2.1 H3 M7/K5.2 
+0000002 310  VVD     heard                    X3.2 X2.3+ G2.1@ 
+0000002 320  RT      today                    T1.1.2 
+0000002 321  .       .                        
+0000003 001  -----   -----                    
+0000004 010  NP1     Abberton                 Z99 
+0000004 011  ,       ,                        
+0000004 020  MC      31                       N1 T1.2 T3 T1.3 N3.2 
+0000004 021  ,       ,                        
+0000004 030  AT      the                      Z5 
+0000004 040  NN1     brother                  S4m S2.2m S9/S2.2m 
+0000004 050  IO      of                       Z5 
+0000004 060  JJ      professional             I3.2+ I3.1 X9.1+ A5.1+ 
+0000004 070  NN1     surfer                   M4/S2mf 
+0000004 080  NP1     Koby                     Z1mf[i5.2.1 Z3c[i5.2.1 
+0000004 090  NP1     Abberton                 Z1mf[i5.2.2 Z3c[i5.2.2 
+0000004 091  ,       ,                        
+0000004 100  VHZ     has                      Z5 A9+ A2.2 S4 
+0000004 110  VVN     pleaded                  Q2.2 G2.1/Q2.2 
+0000004 120  XX      not                      Z6 
+0000004 130  JJ      guilty                   G2.1- E4.1- 
+0000004 140  II      to                       Z5 
+0000004 150  AT      the                      Z5 
+0000004 160  NN1     murder                   L1- A12- 
+0000004 170  IO      of                       Z5 
+0000004 180  NNB     Mr                       Z1m[i7.2.1 S2.2m Z1m[i6.2.1 
+0000004 190  NP1     Hines                    Z1m[i7.2.2 Z1m[i6.2.2 
+0000004 191  ,       ,                        
+0000004 200  PNQS    who                      Z8 
+0000004 210  AT      the                      Z5 
+0000004 220  NN1     defendant                G2.1/S2mf 
+0000004 221  GE      's                       Z5 
+0000004 230  NN2     lawyers                  G2.1/I3.2/S2mf 
+0000004 240  RT      today                    T1.1.2 
+0000004 250  VVN     described                Q2.2 
+0000004 260  II      as                       Z5 
+0000004 270  AT1     a                        Z5 
+0000004 280  JJ      violent                  E3- N3.2+ 
+0000004 290  NN1     man                      S2.2m 
+0000004 291  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NNB     Mr                       Z1m[i9.2.1 S2.2m Z1m[i8.2.1 
+0000006 020  NP1     Hines                    Z1m[i9.2.2 Z1m[i8.2.2 
+0000006 021  ,       ,                        
+0000006 030  MC      37                       N1 T1.2 T3 T1.3 N3.2 
+0000006 031  ,       ,                        
+0000006 040  VBDZ    was                      Z5 A3+ 
+0000006 050  VVN     shot                     G3 K5.1 M1 M2 Q4.3 A1.1.2 Q1.2 S1.2.6-% 
+0000006 060  MC      three                    N6+[i10.2.1 A13.3[i10.2.1 N1 T1.2 T3 
+0000006 070  NNT2    times                    N6+[i10.2.2 A13.3[i10.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 
+0000006 080  II      in                       Z5 
+0000006 090  AT      the                      Z5 
+0000006 100  NN1     head                     B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
+0000006 110  CC      and                      Z5 
+0000006 120  RR      once                     N6- T1.1.1 
+0000006 130  II      in                       Z5 
+0000006 140  AT      the                      Z5 
+0000006 150  NN1     hand                     B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000006 160  II      at                       Z5 
+0000006 170  NP1     Maroubra                 Z99 
+0000006 171  ,       ,                        
+0000006 180  II      in                       Z5 
+0000006 190  NP1     Sydney                   Z2 
+0000006 191  GE      's                       Z5 
+0000006 200  ND1     east                     M6 
+0000006 201  ,       ,                        
+0000006 210  II      on                       Z5 
+0000006 220  NPM1    August                   T1.3[i11.2.1 T1.3 
+0000006 230  MC      5                        T1.3[i11.2.2 N1 
+0000006 231  ,       ,                        
+0000006 240  MC      2003                     N1 T1.2 T3 T1.3 N3.2 
+0000006 241  .       .                        
+0000007 001  -----   -----                    
+0000008 010  APPGE   His                      Z8m 
+0000008 020  NN1     body                     B1 O2 S5+c O4.1 S2mf 
+0000008 021  ,       ,                        
+0000008 030  JJ      naked                    B5- A10+ 
+0000008 040  II21    except                   A1.8-[i12.2.1 Z5 
+0000008 050  II22    for                      A1.8-[i12.2.2 
+0000008 060  MC1     one                      N1 T3 T1.2 
+0000008 070  NN1     shoe                     B5 
+0000008 071  ,       ,                        
+0000008 080  VBDZ    was                      Z5 A3+ 
+0000008 090  VVN     found                    A10+ X2.1 X6+.1 
+0000008 100  MC      three                    N1 T1.2 T3 
+0000008 110  NNT2    days                     T1.3 
+0000008 120  RRR     later                    T4-- T1.1.3 N4 
+0000008 130  II      at                       Z5 
+0000008 140  AT      the                      Z5 
+0000008 150  NN1     base                     M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000008 160  IO      of                       Z5 
+0000008 170  AT1     a                        Z5 
+0000008 180  JJ      nearby                   N3.3- 
+0000008 190  NN1     cliff                    W3 
+0000008 191  .       .                        
+0000009 001  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  NP1     NSW                      Z99 
+0000010 030  JJ      Supreme                  A5.1+++ S7.1+++ 
+0000010 040  NN1     Court                    G2.1 H3 M7/K5.2 
+0000010 050  VBDZ    was                      Z5 A3+ 
+0000010 060  VVN     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000010 070  RT      today                    T1.1.2 
+0000010 080  EX      there                    Z5 
+0000010 090  VBDZ    was                      A3+ Z5 
+0000010 100  AT      no                       Z6 
+0000010 110  NN1     dispute                  A6.1- 
+0000010 120  CST     that                     Z5 Z8 
+0000010 130  NP1     Abberton                 Z99 
+0000010 140  VVD     shot                     G3 G3/S2mf K5.1 Y1 C1 Q4.3 X8+ B3@ F2@ M1 M2 A1.1.2 Q1.2 S1.2.6-% 
+0000010 150  NNB     Mr                       Z1m[i14.2.1 S2.2m Z1m[i13.2.1 
+0000010 160  NP1     Hines                    Z1m[i14.2.2 Z1m[i13.2.2 
+0000010 161  -       -                        
+0000010 170  AT      the                      Z5 
+0000010 180  NN1     question                 Q2.2 X4.1 
+0000010 190  VBDZ    was                      A3+ Z5 
+0000010 200  CSW     whether                  Z5 
+0000010 210  PPHS1   he                       Z8m 
+0000010 220  VVD     acted                    A1.1.1 T1.1.2 A8 K4 
+0000010 230  II      in                       Z5 
+0000010 240  NN1     self-defence             E3- 
+0000010 241  .       .                        
+0000012 001  NULL    <quote>                  
+0000012 002  -----   -----                    
+0000012 003  "       "                        
+0000012 010  PPH1    It                       Z8 
+0000012 020  VBZ     is                       A3+ Z5 
+0000012 030  XX      not                      Z6 
+0000012 040  JJ      unlawful                 G2.1- 
+0000012 050  TO      to                       Z5 
+0000012 060  VVI     kill                     L1- A12- A1.5.1 E4.1-/A2.2 
+0000012 070  AT1     a                        Z5 
+0000012 080  NN1     man                      S2.2m 
+0000012 090  II      in                       Z5 
+0000012 100  NN1     self-defence             E3- 
+0000012 101  ,       ,                        
+0000012 102  "       "                        
+0000012 103  NULL    </quote>                 
+0000012 104  -----   -----                    
+0000012 110  NN1     defence                  S8+ G3 G2.1c Q2.2 K5.1 S7.3+ 
+0000012 120  NN1     barrister                G2.1/S2mf 
+0000012 130  NP1     Graham                   Z1mf[i15.2.1 Z3c[i15.2.1 Z1mf 
+0000012 140  NP1     Turnbull                 Z1mf[i15.2.2 Z3c[i15.2.2 
+0000012 150  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000012 160  AT      the                      Z5 
+0000012 170  NN1     jury                     G2.1c X6+/S5+c 
+0000012 171  .       .                        
+0000014 001  NULL    <quote>                  
+0000014 002  -----   -----                    
+0000014 003  "       "                        
+0000014 010  AT      The                      Z5 
+0000014 020  NN1     victim                   A1.1.2/G2.1/S2mf B2-/S2mf 
+0000014 030  II      in                       Z4[i16.3.1 Z5 
+0000014 040  DD1     this                     Z4[i16.3.2 M6 Z5 Z8 
+0000014 050  NN1     case                     Z4[i16.3.3 A4.1 O2 G2.1 B3 X4.1 Q3 
+0000014 051  ,       ,                        
+0000014 060  AT      the                      Z5 
+0000014 070  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000014 080  VM      will                     T1.1.3 
+0000014 090  VVI     establish                T2+ X6+ 
+0000014 091  ,       ,                        
+0000014 100  VBDZ    was                      A3+ Z5 
+0000014 110  JJ      unique                   N5--- 
+0000014 120  II      in                       Z5 
+0000014 130  APPGE   his                      Z8m 
+0000014 140  NN1     capacity                 N3.2 N3.4 N5.1+ X9.1+ I3.1 
+0000014 150  TO      to                       Z5 
+0000014 160  VVI     strike                   I3.1- E3- A1.1.1 A11.2+ A8 E2+ X3.2 A9+ 
+0000014 170  NN1     fear                     E5- 
+0000014 180  II      into                     Z5 
+0000014 190  PN1     anyone                   Z8mfc 
+0000014 191  .       .                        
+0000015 001  NULL    </quote>                 
+0000016 001  NULL    <quote>                  
+0000016 002  -----   -----                    
+0000016 003  "       "                        
+0000016 010  PPIS1   I                        Z8mf 
+0000016 020  VV0     expect                   X2.6+ B1 
+0000016 030  CST     that                     Z5 Z8 
+0000016 040  AT      the                      Z5 
+0000016 050  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000016 060  VM      will                     T1.1.3 
+0000016 070  VVI     show                     A10+ S1.1.1 
+0000016 080  CST     that                     Z5 Z8 
+0000016 090  NP1     Anthony                  Z1mf[i18.3.1 Z3c[i18.3.1 Z1m Z1mf[i17.2.1 Z3c[i17.2.1 
+0000016 100  NP1     Gerard                   Z1mf[i18.3.2 Z3c[i18.3.2 Z1m Z1mf[i17.2.2 Z3c[i17.2.2 Z1mf[i19.2.1 Z3c[i19.2.1 
+0000016 110  NP1     Hines                    Z3c[i18.3.3 Z1mf[i18.3.3 Z1mf[i19.2.2 Z3c[i19.2.2 
+0000016 120  VBDZ    was                      Z5 A3+ 
+0000016 130  VVN     known                    X2.2+ S3.2/B1% 
+0000016 140  RR      widely                   N5+ A4.2- 
+0000016 141  -       -                        
+0000016 150  CC      and                      Z5 
+0000016 160  II      in                       A5.2+[i20.2.1 Z5 
+0000016 170  NN1     fact                     A5.2+[i20.2.2 A5.2+ X2.2 
+0000016 180  PPHS1   he                       Z8m 
+0000016 190  VVD     encouraged               S8+ 
+0000016 200  DD1     this                     M6 Z5 Z8 
+0000016 210  NN1     knowledge                X2.2+ S3.2/B1% 
+0000016 211  -       -                        
+0000016 220  II      as                       Z5 
+0000016 230  AT1     a                        Z5 
+0000016 240  JJ      violent                  E3- N3.2+ 
+0000016 250  NN1     man                      S2.2m 
+0000016 251  ,       ,                        
+0000016 260  AT1     a                        Z5 
+0000016 270  NN1     standover                Z99 
+0000016 280  NN1     man                      S2.2m 
+0000016 290  CC      and                      Z5 
+0000016 300  AT1     a                        Z5 
+0000016 310  NN1     rapist                   G2.1-/S3.2/S2.2m 
+0000016 311  .       .                        
+0000017 001  NULL    </quote>                 
+0000018 001  NULL    <quote>                  
+0000018 002  -----   -----                    
+0000018 003  "       "                        
+0000018 010  DD1     That                     Z8 Z5 
+0000018 020  VBDZ    was                      A3+ Z5 
+0000018 030  AT      the                      Z5 
+0000018 040  NN1     reputation               I3.2 A5.1 
+0000018 050  DDQ     which                    Z8 Z5 
+0000018 060  PPHS1   he                       Z8m 
+0000018 070  VVD@    promoted                 S8+ I2.2/Q2.2 S7.1+/A2.1 
+0000018 071  ,       ,                        
+0000018 080  II      in                       Z5 
+0000018 090  DDQ     which                    Z8 Z5 
+0000018 100  PPHS1   he                       Z8m 
+0000018 110  VVD     revelled                 E2+ E4.1+ 
+0000018 111  ,       ,                        
+0000018 120  CC      and                      Z5 
+0000018 130  DDQ     which                    Z8 Z5 
+0000018 140  PN1     everybody                Z8/N5.1+c 
+0000018 150  VBDZ    was                      A3+ Z5 
+0000018 160  JJ      aware                    X2.2+ 
+0000018 170  IO      of                       Z5 
+0000018 171  .       .                        
+0000018 172  "       "                        
+0000018 173  NULL    </quote>                 
+0000018 174  -----   -----                    
+0000020 010  NNB     Mr                       Z1m[i22.2.1 S2.2m Z1m[i21.2.1 
+0000020 020  NP1     Turnbull                 Z1m[i22.2.2 Z1m[i21.2.2 
+0000020 030  VVD     said                     Q2.1 
+0000020 031  NULL    <quote>                  
+0000020 032  -----   -----                    
+0000020 033  "       "                        
+0000020 040  AT      the                      Z5 
+0000020 050  NN1     extent                   N5 N3.6 
+0000020 060  II      to                       Z5 
+0000020 070  DDQ     which                    Z5 Z8 
+0000020 071  (       (                        
+0000020 080  NP1     Abberton                 Z99 
+0000020 081  )       )                        
+0000020 090  VVD     thought                  X2.1 
+0000020 100  PPHS1   he                       Z8m 
+0000020 110  VBDZ    was                      Z5 A3+ 
+0000020 120  VVG     dealing                  A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2 
+0000020 130  IW      with                     Z5 
+0000020 140  AT1     a                        Z5 
+0000020 150  NN1     rapist                   G2.1-/S3.2/S2.2m 
+0000020 151  ,       ,                        
+0000020 160  AT1     a                        Z5 
+0000020 170  JJ      violent                  E3- N3.2+ 
+0000020 180  NN1     man                      S2.2m 
+0000020 181  ,       ,                        
+0000020 190  AT1     a                        Z5 
+0000020 200  NN1     standover                Z99 
+0000020 210  NN1     man                      S2.2m 
+0000020 211  "       "                        
+0000020 212  NULL    </quote>                 
+0000020 213  -----   -----                    
+0000020 220  VBDZ    was                      A3+ Z5 
+0000020 230  RR      therefore                Z5 
+0000020 240  JJ      relevant                 A1.2+ A1.5.2+ 
+0000020 250  II      to                       Z5 
+0000020 260  AT      the                      Z5 
+0000020 270  NN1     defence                  S8+ G3 G2.1c Q2.2 K5.1 S7.3+ 
+0000020 280  NN1     case                     A4.1 O2 G2.1 B3 X4.1 Q3 
+0000020 281  .       .                        
+0000021 001  -----   -----                    
+0000022 010  NN1     Crown                    B5/S7.1+ G1.1 B1 W4 I1 B3 O4.4 
+0000022 020  NN1     Prosecutor               G2.1/I3.1/S2mf 
+0000022 030  NP1     John                     Z1mf[i23.2.1 Z3c[i23.2.1 Z1m S9/O1.2 
+0000022 040  NP1     Kiely                    Z1mf[i23.2.2 Z3c[i23.2.2 
+0000022 041  ,       ,                        
+0000022 050  FO      SC                       Z3 
+0000022 051  ,       ,                        
+0000022 060  VVD     said                     Q2.1 
+0000022 070  NP1     Abberton                 Z99 
+0000022 080  CC      and                      Z5 
+0000022 090  APPGE   his                      Z8m 
+0000022 100  NN1     girlfriend               S3.2/S2.1f S3.1/S2.1f 
+0000022 101  ,       ,                        
+0000022 110  VVN     known                    X2.2+ S3.2/B1% 
+0000022 120  RR      only                     A14 
+0000022 130  CSA     as                       Z5 
+0000022 140  NP1     BC                       Z3c 
+0000022 141  ,       ,                        
+0000022 150  VHD     had                      Z5 A9+ A2.2 S4 
+0000022 160  VVN     met                      S1.1.3+[i24.2.1 S3.1 M6 A1.1.1 A6.1+ 
+0000022 170  RP      up                       S1.1.3+[i24.2.2 
+0000022 180  IW      with                     Z5 
+0000022 190  NNB     Mr                       Z1m[i26.2.1 S2.2m Z1m[i25.2.1 
+0000022 200  NP1     Hines                    Z1m[i26.2.2 Z1m[i25.2.2 
+0000022 210  II      at                       Z5 
+0000022 220  AT      the                      Z5 
+0000022 230  NN1     Coogee                   Z2[i27.2.1 
+0000022 240  NN1     Bay                      Z2[i27.2.2 W3/M4 H2 M5 O4.4 L3 
+0000022 250  NN1     Hotel                    H4/H1 
+0000022 260  II      on                       Z5 
+0000022 270  AT      the                      Z5 
+0000022 280  NNT1    night                    T1.3 
+0000022 290  IO      of                       Z5 
+0000022 300  NPM1    August                   T1.3[i28.2.1 T1.3 
+0000022 310  MC      5                        T1.3[i28.2.2 N1 
+0000022 311  .       .                        
+0000023 001  -----   -----                    
+0000024 010  CS      When                     Z5 
+0000024 020  PPHS2   they                     Z8mfn 
+0000024 030  VVD     left                     M1 M2 A1.1.1 A1.9 A9- T2- 
+0000024 031  ,       ,                        
+0000024 040  NNB     Mr                       Z1m[i30.2.1 S2.2m Z1m[i29.2.1 
+0000024 050  NP1     Hines                    Z1m[i30.2.2 Z1m[i29.2.2 
+0000024 060  VVD     followed                 M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 
+0000024 070  PPHO2   them                     Z8mfn 
+0000024 080  II      to                       Z5 
+0000024 090  NP1     BC                       Z3c 
+0000024 091  GE      's                       Z5 
+0000024 100  NP1     Nissan                   Z3c 
+0000024 110  JJ      four-wheel               Z99 
+0000024 120  NN1     drive                    M3 X5.2+ X8+ M3/H3 Y2 
+0000024 130  CC      and                      Z5 
+0000024 140  VVD     sat                      M8 C1 P1 G1.1 G2.1 M6 A9+ 
+0000024 150  II      in                       Z5 
+0000024 160  AT      the                      Z5 
+0000024 170  JJ      front                    M6 A11.1+ 
+0000024 180  NN1     passenger                M3/S2mf M4/S2mf M5/S2mf 
+0000024 190  NN1     seat                     H5 B5 S1.1.3+ S7.1+ M7 
+0000024 191  ,       ,                        
+0000024 200  IW      with                     Z5 
+0000024 210  NP1     Abberton                 Z99 
+0000024 220  VVG     sitting                  M8 C1 P1 G1.1 G2.1 M6 A9+ 
+0000024 230  II      in                       Z5 
+0000024 240  AT      the                      Z5 
+0000024 250  NN1     back                     M3/O2[i31.2.1 B1 M6 O2[i32.2.1 
+0000024 260  NN1     seat                     M3/O2[i31.2.2 H5 B5 S1.1.3+ S7.1+ M7 O2[i32.2.2 
+0000024 261  .       .                        
+0000025 001  -----   -----                    
+0000026 010  NP1     BC                       Z3c 
+0000026 020  VBDZ    was                      Z5 A3+ 
+0000026 030  VVN     expected                 X2.6+ B1 
+0000026 040  TO      to                       Z5 
+0000026 050  VVI     give                     A9- A1.1.1 
+0000026 060  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000026 070  CST     that                     Z8 Z5 
+0000026 080  CSA     as                       Z5 
+0000026 090  PPHS1   she                      Z8f 
+0000026 100  VVD     drove                    M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000026 110  II      through                  Z5 
+0000026 120  NP1     Maroubra                 Z99 
+0000026 121  ,       ,                        
+0000026 130  PPHS1   she                      Z8f 
+0000026 140  VVD     heard                    X3.2 X2.3+ G2.1@ 
+0000026 150  AT1     a                        Z5 
+0000026 160  NN1     sound                    A6.1+[i33.2.1 X3.2 
+0000026 170  VVI     like                     A6.1+[i33.2.2 E2+ 
+0000026 180  AT1     a                        Z5 
+0000026 190  NN1     cap                      B5 O2 
+0000026 200  NN1     gun                      G3 O2 O3 
+0000026 210  CC      and                      Z5 
+0000026 220  VVD     saw                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000026 230  NNB     Mr                       Z1m[i35.2.1 S2.2m Z1m[i34.2.1 
+0000026 240  NP1     Hines                    Z1m[i35.2.2 Z1m[i34.2.2 
+0000026 250  VVG     bleeding                 B1 
+0000026 260  II      from                     Z5 
+0000026 270  AT      the                      Z5 
+0000026 280  NN1     mouth                    B1 Q2.2 M7/W3 W3/M4 O2 
+0000026 281  .       .                        
+0000028 001  NULL    <quote>                  
+0000028 002  -----   -----                    
+0000028 003  "       "                        
+0000028 010  PPHS1   She                      Z8f 
+0000028 020  RR      also                     N5++ 
+0000028 030  VVD     saw                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000028 040  AT      the                      Z5 
+0000028 050  JJ@     accused                  G2.1/S2mf Q2.2 G2.1 
+0000028 060  NN1@    sitting                  M8 C1 P1 G1.1 G2.1 M6 A9+ 
+0000028 070  II      in                       Z5 
+0000028 080  AT      the                      Z5 
+0000028 090  NN1     back                     M3/O2[i36.2.1 B1 M6 O2[i37.2.1 
+0000028 100  NN1     seat                     M3/O2[i36.2.2 H5 B5 S1.1.3+ S7.1+ M7 O2[i37.2.2 
+0000028 110  VVG     holding                  M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+ 
+0000028 120  AT1     a                        Z5 
+0000028 130  NN1     handgun                  Z99 
+0000028 131  ,       ,                        
+0000028 132  "       "                        
+0000028 133  NULL    </quote>                 
+0000028 134  -----   -----                    
+0000028 140  NNB     Mr                       Z1m[i39.2.1 S2.2m Z1m[i38.2.1 
+0000028 150  NP1     Kiely                    Z1m[i39.2.2 Z1m[i38.2.2 
+0000028 160  VVD     said                     Q2.1 
+0000028 161  .       .                        
+0000029 001  -----   -----                    
+0000030 010  RR      Soon                     T1.1.3/N3.8+ 
+0000030 020  RT      afterwards               N4 
+0000030 030  MC      three                    N1 T1.2 T3 
+0000030 040  NN2     shots                    G3 G3/S2mf K5.1 Y1 C1 Q4.3 X8+ B3@ F2@ 
+0000030 050  VVD     left                     M1 M2 A1.1.1 A1.9 A9- T2- 
+0000030 060  APPGE   her                      Z8f 
+0000030 070  NN2     ears                     B1 
+0000030 080  VVG     ringing                  Q1.3 X3.2 A8 O4.4 
+0000030 090  CC      and                      Z5 
+0000030 100  PPHS1   she                      Z8f 
+0000030 110  VVD     saw                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000030 120  NNB     Mr                       Z1m[i41.2.1 S2.2m Z1m[i40.2.1 
+0000030 130  NP1     Hines                    Z1m[i41.2.2 Z1m[i40.2.2 
+0000030 140  VVD     slumped                  O4.4/B1 N5-/A2.1 
+0000030 150  II      in                       Z5 
+0000030 160  APPGE   his                      Z8m 
+0000030 170  NN1     seat                     H5 B5 S1.1.3+ S7.1+ M7 
+0000030 171  .       .                        
+0000031 001  -----   -----                    
+0000032 010  NP1     BC                       Z3c 
+0000032 020  RRR     later                    T4-- T1.1.3 N4 
+0000032 030  VVD     helped                   S8+ 
+0000032 040  NP1     Abberton                 Z99 
+0000032 050  VVI     carry                    M2 A9+ Q4 S7.4+ B1% B2-% 
+0000032 060  NNB     Mr                       Z1m[i43.2.1 S2.2m Z1m[i42.2.1 
+0000032 070  NP1     Hines                    Z1m[i43.2.2 Z1m[i42.2.2 
+0000032 080  II      to                       Z5 
+0000032 090  AT      the                      Z5 
+0000032 100  NN1     edge                     O2 M7 T1.2 S7.1+@ 
+0000032 110  IO      of                       Z5 
+0000032 120  AT1     a                        Z5 
+0000032 130  NN1     cliff                    W3 
+0000032 131  ,       ,                        
+0000032 140  CS      where                    M6 
+0000032 150  NP1     Abberton                 Z99 
+0000032 160  VVD     rolled                   M1 M2 A1.1.1 
+0000032 170  PPHO1   him                      Z8m 
+0000032 180  RP      over                     T2- M6 
+0000032 181  ,       ,                        
+0000032 190  AT      the                      Z5 
+0000032 200  NN1     court                    G2.1 H3 M7/K5.2 
+0000032 210  VBDZ    was                      Z5 A3+ 
+0000032 220  VVN     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000032 221  .       .                        
+0000033 001  -----   -----                    
+0000034 010  NP1     Abberton                 Z99 
+0000034 020  RR      allegedly                Q2.2/A5.2 
+0000034 030  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000034 040  PPHO1   her                      Z8f 
+0000034 041  :       :                        
+0000034 042  NULL    <quote>                  
+0000034 043  -----   -----                    
+0000034 044  "       "                        
+0000034 050  PPY     You                      Z8mf 
+0000034 051  VH0     've                      S6+[i44.3.1 Z5 A9+ A2.2 
+0000034 060  VVN     got                      S6+[i44.3.2 A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- S6+[i45.2.1 
+0000034 070  TO      to                       S6+[i44.3.3 Z5 S6+[i45.2.2 
+0000034 080  VVI     trust                    X2.1 A9- E6+ X2.6 
+0000034 090  PPIO1   me                       Z8mf 
+0000034 091  .       .                        
+0000034 092  -----   -----                    
+0000034 100  DD1     That                     Z5 Z8 
+0000034 110  NN1     guy                      S2.2m O2 
+0000034 111  VBZ     's                       A3+ Z5 
+0000034 120  AT1     a                        Z5 
+0000034 130  NN1     rapist                   G2.1-/S3.2/S2.2m 
+0000034 131  ,       ,                        
+0000034 140  AT1     a                        Z5 
+0000034 150  NN1     murderer                 L1-/G2.1-/S2mf 
+0000034 151  ,       ,                        
+0000034 160  PPHS1   he                       Z8m 
+0000034 161  VBZ     's                       A3+ Z5 
+0000034 170  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000034 180  AT1     a                        Z5 
+0000034 190  NN1     maggot                   Z99 
+0000034 191  .       .                        
+0000034 192  -----   -----                    
+0000034 200  PPH1    It                       Z8 
+0000034 210  VBDZ    was                      Z5 A3+ 
+0000034 220  VVGK    going                    T1.1.3[i46.2.1 
+0000034 230  TO      to                       T1.1.3[i46.2.2 Z5 
+0000034 240  VBI     be                       A3+ Z5 
+0000034 250  PPIO1   me                       Z8mf 
+0000034 260  CC      or                       Z5 
+0000034 270  PPHO1   him                      Z8m 
+0000034 271  .       .                        
+0000034 272  "       "                        
+0000034 273  NULL    </quote>                 
+0000034 274  -----   -----                    
+0000036 010  NNB     Mr                       Z1m[i48.2.1 S2.2m Z1m[i47.2.1 
+0000036 020  NP1     Kiely                    Z1m[i48.2.2 Z1m[i47.2.2 
+0000036 030  VVD     said                     Q2.1 
+0000036 040  NP1     Abberton                 Z99 
+0000036 050  RRR     later                    T4-- T1.1.3 N4 
+0000036 060  VVD     dumped                   M2 T2- I2.2/I1.3- S3.1- Y2 
+0000036 070  NP1     BC                       Z3c 
+0000036 071  GE      's                       Z5 
+0000036 080  JJ      bloodstained             O4.3 O4.2- 
+0000036 090  JJ      four-wheel               Z99 
+0000036 100  NN1     drive                    M3 X5.2+ X8+ M3/H3 Y2 
+0000036 101  ,       ,                        
+0000036 110  DDQ     which                    Z8 Z5 
+0000036 120  VHD     had                      A9+ Z5 A2.2 S4 
+0000036 130  AT1     a                        Z5 
+0000036 140  NN1     bullet                   G3 O4.4 
+0000036 150  NN1     hole                     O2 H4/L2 M7/O4.2- X2.1/A5.1- N5- K5.2 
+0000036 160  II      in                       Z5 
+0000036 170  AT      the                      Z5 
+0000036 180  NN1     windscreen               M3/O2 
+0000036 181  ,       ,                        
+0000036 190  CC      and                      Z5 
+0000036 200  JJ      disposed                 X7-[i49.2.1 L1-@[i49.2.1 X5.2+ 
+0000036 210  IO      of                       X7-[i49.2.2 L1-@[i49.2.2 Z5 
+0000036 220  AT      the                      Z5 
+0000036 230  NN1     gun                      G3 O2 O3 
+0000036 240  CC      and                      Z5 
+0000036 250  APPGE   their                    Z8 
+0000036 260  JJ      bloody                   Z4 B1 
+0000036 270  NN2     clothes                  B5 
+0000036 271  .       .                        
+0000037 001  -----   -----                    
+0000038 010  RRQ     When                     Z5 
+0000038 020  NN2     police                   G2.1 
+0000038 030  VVD     interviewed              Q2.1 
+0000038 040  NP1     Abberton                 Z2[i50.3.1 
+0000038 050  II      on                       Z2[i50.3.2 Z5 
+0000038 060  NPM1    August                   Z2[i50.3.3 T1.3 T1.3[i51.2.1 
+0000038 070  MC      18                       N1 T1.2 T3 T1.3 N3.2 T1.3[i51.2.2 
+0000038 071  ,       ,                        
+0000038 080  PPHS1   he                       Z8m 
+0000038 090  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000038 100  PPHO2   them                     Z8mfn 
+0000038 110  PPHS1   he                       Z8m 
+0000038 111  NULL    <quote>                  
+0000038 112  -----   -----                    
+0000038 113  "       "                        
+0000038 120  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000038 130  PPH1    it                       Z8 
+0000038 140  IF      for                      Z5 
+0000038 150  NP1     BC                       Z3c 
+0000038 151  "       "                        
+0000038 152  NULL    </quote>                 
+0000038 153  -----   -----                    
+0000038 154  ,       ,                        
+0000038 160  AT      the                      Z5 
+0000038 170  NN1     court                    G2.1 H3 M7/K5.2 
+0000038 180  VVD     heard                    X3.2 X2.3+ G2.1@ 
+0000038 181  .       .                        
+0000040 001  NULL    <quote>                  
+0000040 002  -----   -----                    
+0000040 003  "       "                        
+0000040 010  PPH1    It                       Z8 
+0000040 020  VM      will                     T1.1.3 
+0000040 030  DB      all                      N5.1+ 
+0000040 040  VVI     come                     M1[i53.2.1 A10-[i53.2.1 A10+[i53.2.1 A1.1.1[i53.2.1 T2-[i53.2.1 S3.2/B1@[i53.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 E3-[i52.2.1 
+0000040 050  RP      out                      A10-[i53.2.2 A10+[i53.2.2 A1.1.1[i53.2.2 T2-[i53.2.2 S3.2/B1@[i53.2.2 M1[i53.2.2 M6 
+0000040 060  II      at                       Z5 E3-[i52.2.2 
+0000040 070  NN1     court                    G2.1 H3 M7/K5.2 
+0000040 071  .       .                        
+0000040 072  -----   -----                    
+0000040 080  PPHS1   He                       Z8m 
+0000040 090  VBDZ    was                      Z5 A3+ 
+0000040 100  VVGK    going                    T1.1.3[i54.2.1 
+0000040 110  TO      to                       T1.1.3[i54.2.2 Z5 
+0000040 120  VVI     rape                     G2.1-/S3.2 
+0000040 130  PPHO1   her                      Z8f 
+0000040 131  "       "                        
+0000040 132  NULL    </quote>                 
+0000040 133  -----   -----                    
+0000040 140  PPHS1   he                       Z8m 
+0000040 150  RR      allegedly                Q2.2/A5.2 
+0000040 160  VVD     said                     Q2.1 
+0000040 161  .       .                        
+0000042 001  NULL    <quote>                  
+0000042 002  -----   -----                    
+0000042 003  "       "                        
+0000042 010  PPIS1   I                        Z8mf 
+0000042 020  VHD     had                      S6+[i55.2.1 A9+ Z5 A2.2 S4 
+0000042 030  TO      to                       S6+[i55.2.2 Z5 
+0000042 040  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000042 050  PPH1    it                       Z8 
+0000042 051  ,       ,                        
+0000042 060  PPHS1   he                       Z8m 
+0000042 070  VVD     pulled                   M2[i56.2.1 M3[i56.2.1 S1.1.3-[i56.2.1 Q4.2[i56.2.1 M2 A9+ M1 
+0000042 080  RP      out                      M2[i56.2.2 M3[i56.2.2 S1.1.3-[i56.2.2 Q4.2[i56.2.2 M6 
+0000042 090  AT      the                      Z5 
+0000042 100  NN1     gun                      G3 O2 O3 
+0000042 110  CC      and                      Z5 
+0000042 120  PPIS1   I                        Z8mf 
+0000042 130  VVD     got                      X2.5+[i57.2.1 A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000042 140  PPH1    it                       X2.5+[i57.2.2 Z8 
+0000042 150  II      off                      Z5 E2- 
+0000042 160  PPHO1   him                      Z8m 
+0000042 170  CC      and                      Z5 
+0000042 180  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000042 190  PPH1    it                       Z8 
+0000042 191  .       .                        
+0000042 192  "       "                        
+0000042 193  NULL    </quote>                 
+0000042 194  -----   -----                    
+0000044 010  NP1     Abberton                 Z99 
+0000044 020  VHD     had                      Z5 A9+ A2.2 S4 
+0000044 030  VVN     owed                     I1.2 S6+ 
+0000044 040  NNB     Mr                       Z1m[i59.2.1 S2.2m Z1m[i58.2.1 
+0000044 050  NP1     Hines                    Z1m[i59.2.2 Z1m[i58.2.2 
+0000044 060  NNU     $200                     Z99 
+0000044 061  ,       ,                        
+0000044 070  AT      the                      Z5 
+0000044 080  NN1     court                    G2.1 H3 M7/K5.2 
+0000044 090  VBDZ    was                      Z5 A3+ 
+0000044 100  RR      also                     N5++ 
+0000044 110  VVN     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000044 111  .       .                        
+0000045 001  -----   -----                    
+0000046 010  AT      The                      Z5 
+0000046 020  NN1     trial                    G2.1 X2.4 E6- A12- K5.1 
+0000046 021  ,       ,                        
+0000046 030  DDQ     which                    Z8 Z5 
+0000046 040  VBZ     is                       Z5 A3+ 
+0000046 050  VVN     expected                 X2.6+ B1 
+0000046 060  TO      to                       Z5 
+0000046 070  VVI     last                     T2++ T1.3 
+0000046 080  MC      three                    T1.2[i60.3.1 N3.2[i60.3.1 T1.3[i60.3.1 N1 T1.2 T3 
+0000046 090  II      to                       T1.2[i60.3.2 N3.2[i60.3.2 T1.3[i60.3.2 Z5 
+0000046 100  MC      four                     T1.2[i60.3.3 N3.2[i60.3.3 T1.3[i60.3.3 N1 T3 T1.2 
+0000046 110  NNT2    weeks                    T1.3 
+0000046 111  ,       ,                        
+0000046 120  VVZ     continues                T2++ 
+0000046 130  RT      tomorrow                 T1.1.3 
+0000046 140  II      before                   Z5 
+0000046 150  NP1@    Justice                  Z1mf[i62.3.1 Z3c[i62.3.1 Z1mf[i61.2.1 Z3c[i61.2.1 
+0000046 160  NP1     Terence                  Z1mf[i62.3.2 Z3c[i62.3.2 Z1 Z1mf[i61.2.2 Z3c[i61.2.2 Z1mf[i63.2.1 Z3c[i63.2.1 
+0000046 170  NP1     Buddin                   Z3c[i62.3.3 Z1mf[i62.3.3 Z1mf[i63.2.2 Z3c[i63.2.2 
+0000046 171  .       .                        
+0000047 001  -----   -----                    
+0000048 010  VV0     AAP                      Z99 
+0000050 001  NULL    **8;7;text               

@@ -1,0 +1,170 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  CS      After                    Z5 
+0000002 020  NNT2    hours                    T1.3 
+0000002 021  ,       ,                        
+0000002 030  NP1     Cloudera                 Z99 
+0000002 040  JJ      Inc                      I2.1 
+0000002 041  (       (                        
+0000002 050  FO      NYSE:CLDR                Z99 
+0000002 051  )       )                        
+0000002 060  VVD     dropped                  M2 M1 N5-/A2.1 O1.2/M1 B2- T2- A9- A1.8- X9.2-/K5 X3.2 
+0000002 070  RG      over                     N5.2+ A13.2 
+0000002 080  NNU     29%                      N5 
+0000002 090  II      to                       Z5 
+0000002 100  FO      US$15.75                 Z99 
+0000002 110  CS      after                    Z5 
+0000002 120  AT      the                      Z5 
+0000002 130  NN1     cloud                    W4 N5 
+0000002 140  NN1     computing                Y2/I2.1c[i1.2.1 Y2 N2 
+0000002 150  NN1     firm                     Y2/I2.1c[i1.2.2 I2.1/S5+c 
+0000002 160  VVN     released                 A1.7- A9- 
+0000002 170  APPGE   its                      Z8 
+0000002 180  JJ      quarterly                N6 
+0000002 190  NN2     earnings                 I1.1 
+0000002 200  NN1     report                   Q2.2 X3.2 
+0000002 201  .       .                        
+0000003 001  -----   -----                    
+0000004 010  JJ      Fourth-quarter           Z99 
+0000004 020  NN2     revenues                 G1.1/I1 I1.1+ Z3c 
+0000004 030  CC      and                      Z5 
+0000004 040  NN2     earnings                 I1.1 
+0000004 050  VVD     beat                     X9.2+/S7.3 X9.2+/G3 S7.1+ E3- A1.1.1 A5.1++ B1 
+0000004 060  NP1     Wall                     Z2[i2.2.1 Z1mf[i3.2.1 Z3c[i3.2.1 
+0000004 070  NNL1    Street                   Z2[i2.2.2 Z2 Z1mf[i3.2.2 Z3c[i3.2.2 
+0000004 080  NN2     estimates                X6/A7- N2/A7- I2.1/Q1.2 
+0000004 081  ,       ,                        
+0000004 090  CCB     but                      Z5 
+0000004 100  NN1     guidance                 S8+ 
+0000004 110  IF      for                      Z5 
+0000004 120  AT      the                      Z5 
+0000004 130  JJ      upcoming                 T1.1.3 
+0000004 140  NN1     quarter                  N1 N5 T1.3 
+0000004 150  CC      and                      Z5 
+0000004 160  JJ      fiscal                   I1/G1.1 I1 
+0000004 170  NNT1    year                     T1.3 P1c 
+0000004 180  RR      certainly                A7+ 
+0000004 190  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000004 200  XX      not                      Z6 
+0000004 210  VVI     cheer                    Q2.2 E4.1+ 
+0000004 220  AT      the                      Z5 
+0000004 230  NN1     market                   I2.2 I2.2/H1 
+0000004 231  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NP1@    Cloudera                 Z99 
+0000006 020  VVD     announced                Q2.2 
+0000006 030  CST     that                     Z8 Z5 
+0000006 040  PPH1    it                       Z8 
+0000006 050  VM      will                     T1.1.3 
+0000006 060  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000006 070  NN2     changes                  A2.1+ I1 B1 
+0000006 080  TO      to                       Z5 
+0000006 090  VVI     capitalize               A5.1+ I2.2/I1.1+ Q3 
+0000006 100  II      on                       Z5 
+0000006 110  NN1     growth                   N3.2+/A2.1 A5.1+/A2.1 L3 B2- 
+0000006 120  NN2     areas                    M7 A4.1 N3.6 
+0000006 121  .       .                        
+0000007 001  -----   -----                    
+0000008 010  RL      Elsewhere                M6/A6.1- 
+0000008 011  ,       ,                        
+0000008 020  NP1     Dave                     Z1m 
+0000008 021  NULL    &;                       
+0000008 030  NP1     Buster                   Z1m 
+0000008 031  GE      's                       Z5 
+0000008 040  NN1     Entertainment            K1 
+0000008 050  JJ      Inc                      I2.1 
+0000008 051  (       (                        
+0000008 060  FO      NASDAQ:PLAY              Z99 
+0000008 061  )       )                        
+0000008 070  VVD     shed                     M2 A9- 
+0000008 080  RG      over                     N5.2+ A13.2 
+0000008 090  NNU     6%                       N5 
+0000008 100  II      after                    T1.2[i4.2.1 Z5 
+0000008 110  NNT2    hours                    T1.2[i4.2.2 T1.3 
+0000008 120  II      to                       Z5 
+0000008 130  FO      US$38.20                 Z99 
+0000008 131  .       .                        
+0000009 001  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  NN1     restaurant               F1/H1 
+0000010 030  CC      and                      Z5 
+0000010 040  NN1     arcade                   H1 
+0000010 050  NN1     chain                    S5+/I2.1c O2 N4 B5 S7.1 
+0000010 060  VVD     reported                 Q2.2 S7.1- 
+0000010 070  NN2     earnings                 I1.1 
+0000010 080  II      per                      Z5 
+0000010 090  NN1     share                    S1.1.2+ I1.1 
+0000010 100  CST     that                     Z8 Z5 
+0000010 110  VV0     beat                     X9.2+/S7.3 X9.2+/G3 S7.1+ E3- A1.1.1 A5.1++ B1 
+0000010 120  NN2     estimates                X6/A7- N2/A7- I2.1/Q1.2 
+0000010 130  II      by                       Z5 
+0000010 140  NNU     1%                       N5 
+0000010 150  CC      and                      Z5 
+0000010 160  NN2     revenues                 G1.1/I1 I1.1+ Z3c 
+0000010 161  ,       ,                        
+0000010 170  DDQ     which                    Z8 Z5 
+0000010 180  VBDR    were                     A3+ Z5 
+0000010 190  II31    in                       A6.1+[i5.3.1 A2.2[i5.3.1 M6[i5.3.1 Z5 
+0000010 200  II32    line                     A6.1+[i5.3.2 A2.2[i5.3.2 M6[i5.3.2 
+0000010 210  II33    with                     A6.1+[i5.3.3 A2.2[i5.3.3 M6[i5.3.3 
+0000010 220  NN2     estimates                X6/A7- N2/A7- I2.1/Q1.2 
+0000010 221  .       .                        
+0000011 001  -----   -----                    
+0000012 010  JJ      Same-store               I2.2/H1c 
+0000012 020  NN      sales                    I2.2 I2.2/I1.3- 
+0000012 030  VBDR    were                     A3+ Z5 
+0000012 040  RP      down                     Z5 M6 N4 N5-- E4.1- S7.1- N3.1 Q1.2 O1.1 L2 Z1mf F1/B1 A1.1.1 
+0000012 050  NNU     6%                       N5 
+0000012 060  II      in                       Z5 
+0000012 070  AT      the                      Z5 
+0000012 080  MD      fourth                   N4 
+0000012 090  NN1     quarter                  N1 N5 T1.3 
+0000012 100  CC      and                      Z5 
+0000012 110  AT      the                      Z5 
+0000012 120  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000012 130  VVZ     expects                  X2.6+ B1 
+0000012 140  JJ      same-store               I2.2/H1c 
+0000012 150  NN      sales                    I2.2 I2.2/I1.3- 
+0000012 160  TO      to                       Z5 
+0000012 170  VVI     continue                 T2++ 
+0000012 180  TO      to                       Z5 
+0000012 190  VVI     decrease                 N5-/A2.1 
+0000012 200  RR      slightly                 A13.6 
+0000012 210  II      throughout               Z5 
+0000012 220  AT      the                      Z5 
+0000012 230  JJ      fiscal                   I1/G1.1 I1 
+0000012 240  NNT1    year                     T1.3 P1c 
+0000012 241  .       .                        
+0000013 001  -----   -----                    
+0000014 010  RR      Meanwhile                T1.1.2 
+0000014 011  ,       ,                        
+0000014 020  NNU     3D                       O4.4 
+0000014 030  NN2     Systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000014 040  NN1     Corp                     I2.1 
+0000014 041  (       (                        
+0000014 050  FO      NYSE:DDD                 Z99 
+0000014 051  )       )                        
+0000014 060  VBDR    were                     A3+ Z5 
+0000014 070  RG@     around                   A13.4 
+0000014 080  JJ      flat                     O4.4 O3 O4.1 K2 A5.3+ 
+0000014 090  II      after                    Z5 
+0000014 100  AT      the                      Z5 
+0000014 110  NN1     bell                     O2/X3.2 O4.4 
+0000014 111  ,       ,                        
+0000014 120  VHG     having                   Z5 A9+ A2.2 S4 
+0000014 130  VVN     lost                     S7.1-/A2.1[i6.2.1 X9.2- A9- M6/A5.3- L1- 
+0000014 140  NN1     ground                   S7.1-/A2.1[i6.2.2 M6 W3 M7 O3 X2.1 
+0000014 150  RR      early                    N4[i7.2.1 T4+ 
+0000014 160  RP@     on                       N4[i7.2.2 M6 A1.1.1 
+0000014 170  II      after                    Z5 
+0000014 180  AT      the                      Z5 
+0000014 190  JJ      chief                    S7.1+/S2mf[i8.2.1 S7.1+ 
+0000014 200  NN1     executive                S7.1+/S2mf[i8.2.2 
+0000014 210  VVN     disposed                 X7-[i9.2.1 L1-@[i9.2.1 X7- 
+0000014 220  IO      of                       X7-[i9.2.2 L1-@[i9.2.2 Z5 
+0000014 230  DAR     more                     N5++ 
+0000014 240  CSN     than                     Z5 
+0000014 250  MC      35,000                   N1 T1.2 T3 T1.3 N3.2 
+0000014 260  NN2     shares                   N5.1- I1.1 
+0000014 261  .       .                        
+0000018 001  NULL    **8;7;text               

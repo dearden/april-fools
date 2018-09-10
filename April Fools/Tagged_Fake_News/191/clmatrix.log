@@ -1,0 +1,91 @@
+Sat 14 Jul 15:42:30 BST 2018
+Using resources from /home/ed/claws-master-873689bb2e05ff4cff62259616c60db22570377b/bin
+CLAWS4(v24) : copyright (c) UCREL, University of Lancaster 1988 - 2008
+no of lines read = 34; no of errors = 205
+CLAWS completed tagging successfully
+Sat 14 Jul 15:42:31 BST 2018
+WARNING : /usr/local/share/semtag/lemwordlist.c7 : not found
+WARNING : /usr/local/share/semtag/lemsuffixlist.c7 : not found
+WARNING : /usr/local/share/semtag/lemtaglist.c7 : not found
+WARNING : /usr/local/share/semtag/lexicon.c7 : not found
+Defined BSD or other
+SEMTAG: (c) Lancaster University 2011 VERSION 7
+Infile = file18376.pos : Outfile = file18376.pos.sem
+Reading lexicon.
+#abcdefghijklmnopqrstuvwxyzWARNING : /usr/local/share/semtag/autotag.c7 : not found
+WARNING : /usr/local/share/semtag/idioms.c7 : not found
+Reading semantic idiom list.
+#abcdefghijklmnopqrstuvwxyzWARNING : /usr/local/share/semtag/auxrule : not found
+Assigning semantic tags ....
+000% 004% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+008% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+009% 010% 011% 012% 014% 017% 021% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+024% 026% 029% 031% 037% 037% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+041% 045% 047% 051% 052% 054% 057% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+060% 063% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+066% 066% 067% 068% 068% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+069% 072% 073% 075% 080% 085% 087% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+094% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+098% 100% Sat 14 Jul 15:42:31 BST 2018
+WARNING : /usr/local/share/tmatrix/lemwordlist.c7 : not found
+WARNING : /usr/local/share/tmatrix/lemsuffixlist.c7 : not found
+WARNING : /usr/local/share/tmatrix/lemtaglist.c7 : not found
+Lemmings Word rules ... Number of tags: 61; Number of rules: 1420
+Lemmings Suffix rules ... Number of tags: 17 Number of rules: 209
+Lemmings Default rules ... Number of Default rules: 139
+
+Checking file size 'file18376.pos.sem'
+Loading file 'file18376.pos.sem' ... please wait
+0% (0)
+16% (100)
+41% (200)
+64% (300)
+94% (400)
+
+Calculating ...
+ 
+
+ --- Calculated in index.c --- 
+Building profile ... 
+0%
+23%
+47%
+70%
+94%
+Sorting by frequency ...
+ 
+Building profile ... 
+0%
+23%
+47%
+70%
+94%
+Sorting by frequency ...
+ 
+Building profile ... 
+0%
+23%
+47%
+70%
+94%
+Sorting by frequency ...
+ 
+Building profile ... 
+0%
+23%
+47%
+70%
+94%
+Sorting by frequency ...
+ 
+Building profile ... 
+0%
+23%
+47%
+70%
+94%
+Sorting by frequency ...
+ 
+Sat 14 Jul 15:42:32 BST 2018

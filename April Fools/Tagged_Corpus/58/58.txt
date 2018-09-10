@@ -1,0 +1,7 @@
+I can totally see why Sun would make this change! In this article, Sun has announced they're finally going to get rid of those annoying  <quote> "divide by zero" </quote>  exceptions that've been the bane of Java programmers' lives for years!
+
+From the article:
+
+ <quote> "Hey, we realize they're a complete pain in the ass," </quote>  a source inside Sun Microsystems said.  <quote> "Millions of work hours of effort have been wasted over the past decade dealing with them. And really, how do we know that dividing by zero is a problem? Has anyone ever tried it? From now on, Java will just return a really big number, randomly calculated by the VM. That seems like a better solution than having to catch Exceptions all the time!" </quote> 
+
+Even though it took them until April 1st, 2007 to finally do this, I still say: bravo!

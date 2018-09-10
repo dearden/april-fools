@@ -1,0 +1,422 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  II      In                       Z5 
+0000002 020  AT1     a                        Z5 
+0000002 030  NN1     move                     M1 M2 A2.1+ H4/A2.1 K5.2 
+0000002 040  TO      to                       Z5 
+0000002 050  VVI     differentiate            A6.1- N2% 
+0000002 060  AT      the                      Z5 
+0000002 070  JJ      struggling               A12- 
+0000002 080  JJ      American                 Z2 
+0000002 090  NN1     Auto                     I4/M3c[i1.2.1 M3 O3 
+0000002 100  NN1     Industry                 I4/M3c[i1.2.2 I4c I2.1c 
+0000002 110  II      from                     Z5 
+0000002 120  JJ      superior                 A5.1++ S7.1++ 
+0000002 130  JJ      foreign                  M7 
+0000002 140  NN2     powers                   S7.1+ O3 S1.2.5+ N2@ 
+0000002 141  ,       ,                        
+0000002 150  NP1     Ford                     Z1mf Z3c/M3 
+0000002 151  NULL    &;                       
+0000002 160  NP1     GM                       Y1/A2.1+ 
+0000002 170  VVD     issued                   A9- 
+0000002 180  AT1     a                        Z5 
+0000002 190  JJ      joint                    S5+ 
+0000002 200  NN1     Press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
+0000002 210  VV0     Release                  A1.7- A9- 
+0000002 220  CST     that                     Z5 Z8 
+0000002 230  DB2     both                     N5 
+0000002 240  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000002 250  VM      would                    A7+ 
+0000002 260  VBI     be                       Z5 A3+ 
+0000002 270  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000002 280  RR      closely                  A13.4 A4.2+ N3.3- 
+0000002 290  IW      with                     Z5 
+0000002 300  DD1     another                  A6.1- N5++ 
+0000002 310  JJ      American                 Z2 
+0000002 320  NN1     powerhouse               S7.1+ X5.2+ 
+0000002 330  NN1     Google                   Z3c/Y2 
+0000002 340  TO      to                       Z5 
+0000002 350  VVI     create                   A1.1.1 A2.2 E1 
+0000002 360  AT1     a                        Z5 
+0000002 370  NN1     line                     O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000002 380  IO      of                       Z5 
+0000002 381  NULL    <quote>                  
+0000002 382  -----   -----                    
+0000002 390  NN1     Android                  O3 
+0000002 400  NN2     Cars                     M3fn 
+0000002 401  NULL    </quote>                 
+0000002 402  -----   -----                    
+0000002 403  .       .                        
+0000002 404  -----   -----                    
+0000002 410  JJ      Holy                     S9 
+0000002 411  .       .                        
+0000002 412  -----   -----                    
+0000002 420  VVG     Freaking                 E5- 
+0000002 421  .       .                        
+0000002 422  -----   -----                    
+0000002 430  NN1     Crap                     A5.1- A5.2- B1 
+0000002 431  .       .                        
+0000003 001  -----   -----                    
+0000004 010  AT      The                      Z5 
+0000004 020  NN1     Press                    Q4.2[i2.2.1 
+0000004 030  NN1     Release                  Q4.2[i2.2.2 A1.7- A9- I2.2 K3 Q4 E6+ 
+0000004 040  VVZ     includes                 A1.8+ 
+0000004 050  AT      no                       Z6 
+0000004 060  NN2     details                  A4.2+ S5+c B5 
+0000004 070  II      about                    Z5 
+0000004 080  JJ      exact                    A5.3+ 
+0000004 090  NN2     models                   O2/A5.4- A4.1 X4.2 A5.1+++ C1/S2mf B5/I3.2/S2mf 
+0000004 100  CC      or                       Z5 
+0000004 110  NN2     specifications           A4.2+/Q2.2 
+0000004 120  CCB     but                      Z5 
+0000004 130  PPHS2   they                     Z8mfn 
+0000004 140  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000004 150  VVI     include                  A1.8+ 
+0000004 160  DD      some                     N5 Z5 
+0000004 170  JJ      juicy                    O1.2 S1.2.4- 
+0000004 180  NN2     tidbits                  Z99 
+0000004 181  .       .                        
+0000004 182  -----   -----                    
+0000004 190  AT      The                      Z5 
+0000004 200  MD      first                    N4 
+0000004 210  NN1     iteration                Z99 
+0000004 220  IO      of                       Z5 
+0000004 230  NN1     Android                  O3 
+0000004 240  NN2     Cars                     M3fn 
+0000004 250  VM      will                     T1.1.3 
+0000004 260  VBI     be                       A3+ Z5 
+0000004 261  NULL    <quote>                  
+0000004 262  -----   -----                    
+0000004 270  NN1     Green                    O4.3 M7 G1.1/W5mf K5.1/M7 
+0000004 271  NULL    </quote>                 
+0000004 272  -----   -----                    
+0000004 280  II      in                       A2.1+[i3.2.1 Z5 
+0000004 290  MC      two                      A2.1+[i3.2.2 N1 T3 T1.2 
+0000004 300  NN2     ways                     X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000004 310  NN1     theyll                   Z99 
+0000004 320  VBI     be                       A3+ Z5 
+0000004 330  JJ      hybrid                   A2.1+ 
+0000004 340  NN2     cars                     M3fn 
+0000004 350  JJ      capable                  X9.1+ 
+0000004 360  IO      of                       Z5 
+0000004 370  FO      200+                     Z99 
+0000004 380  NP1     MPG                      Z99 
+0000004 390  CC      and                      Z5 
+0000004 400  VV0     theyll                   Z99 
+0000004 410  RR      also                     N5++ 
+0000004 420  VV0     launch                   M4 M5 T2+ 
+0000004 430  IW      with                     Z5 
+0000004 440  AT      the                      Z5 
+0000004 450  JJ      familiar                 A6.2+ S1.2.1+ 
+0000004 460  NN1@    Green                    O4.3 M7 G1.1/W5mf K5.1/M7 
+0000004 470  II      from                     Z5 
+0000004 480  AT      the                      Z5 
+0000004 490  NN1     Android                  O3 
+0000004 500  NN1     Robot                    O3 
+0000004 501  .       .                        
+0000004 502  -----   -----                    
+0000004 510  RR      Hopefully                X2.6+ E4.1+ X9.2+ A5.1+ A13.3 
+0000004 520  VV0     theyll                   Z99 
+0000004 530  VV0     launch                   M4 M5 T2+ 
+0000004 540  AT1     a                        Z5 
+0000004 550  JJ      Phandroid                Z99 
+0000004 560  JJ      Blue                     O4.3 S1.2.4- G1.2 
+0000004 570  NN1     vehicle                  M3fn X4.2 
+0000004 580  RR21    as                       N5++[i4.2.1 
+0000004 590  RR22    well                     N5++[i4.2.2 A5.1+ A13.3 A7+ B2+ Z4 
+0000004 591  !       !                        
+0000004 592  -----   -----                    
+0000004 600  RR      So                       Z5 A13.3 
+0000004 610  DDQ     what                     Z8 Z5 
+0000004 620  VM      will                     T1.1.3 
+0000004 630  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000004 640  AT      the                      Z5 
+0000004 650  NP1     Ford                     Z1mf Z3c/M3 
+0000004 651  NULL    &;                       
+0000004 660  NP1     GM                       Y1/A2.1+ 
+0000004 670  NN2     vehicles                 M3fn X4.2 
+0000004 680  NN1     Android                  O3 
+0000004 690  II      in                       Z5 
+0000004 700  NN1     nature                   W5 A4.1 S1.2 A6.2+ 
+0000004 701  ?       ?                        
+0000006 010  NN1     android-car              Z99 
+0000008 010  AT      The                      Z5 
+0000008 020  JJ      entire                   N5.1+ 
+0000008 030  NN1     car                      M3fn 
+0000008 040  VM      will                     T1.1.3 
+0000008 050  VBI     be                       Z5 A3+ 
+0000008 060  VVN     integrated               A1.8+ S5+ A2.2 N2% 
+0000008 070  IW      with                     Z5 
+0000008 080  AT      the                      Z5 
+0000008 090  NN1     Android                  O3 
+0000008 100  NN1     Operating                Y2[i5.2.1 A1.1.1 B3 
+0000008 110  NN1     System                   Y2[i5.2.2 X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000008 120  II      in                       Z5 
+0000008 130  AT1     every                    N5.1+ 
+0000008 140  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000008 150  JJ      imaginable               X2.1 
+0000008 151  .       .                        
+0000008 152  -----   -----                    
+0000008 160  NN2     Seats                    H5 B5 S1.1.3+ S7.1+ M7 
+0000008 161  ,       ,                        
+0000008 170  NN1     Air                      O4.6[i7.2.1 O1.3 A8 W1 Q4.3 M1 O4.6/O3[i6.2.1 
+0000008 180  NN1     Conditioning             O4.6[i7.2.2 B4 P1 O4.6/O3[i6.2.2 
+0000008 181  ,       ,                        
+0000008 190  NN2     GPS                      B3/S2mf Z5 
+0000008 191  ,       ,                        
+0000008 200  NP1     In-Car                   Z1mf[i8.2.1 Z3c[i8.2.1 
+0000008 210  NP1     Speakerphone             Z1mf[i8.2.2 Z3c[i8.2.2 
+0000008 211  ,       ,                        
+0000008 220  NN1     Radio                    Q4.3 Q1.3 
+0000008 221  ,       ,                        
+0000008 230  RA      etc                      Z4 
+0000008 240  DB      all                      N5.1+ 
+0000008 250  JJ      seamless                 B5 
+0000008 260  II      between                  Z5 
+0000008 270  APPGE   your                     Z8 
+0000008 280  NN1     Android                  O3 
+0000008 290  NN1     Device                   O2 X4.2 Q1.1 
+0000008 300  CC      and                      Z5 
+0000008 310  APPGE   your                     Z8 
+0000008 320  NN1     car                      M3fn 
+0000008 321  .       .                        
+0000008 322  -----   -----                    
+0000008 330  NN1     Back                     M3/O2[i9.2.1 B1 M6 O2[i10.2.1 
+0000008 340  NN1     seat                     M3/O2[i9.2.2 H5 B5 S1.1.3+ S7.1+ M7 O2[i10.2.2 
+0000008 350  NN1     head                     B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
+0000008 360  NN2     rests                    E3+ K1 T2-/T1.3 O2 N5.1- 
+0000008 370  VM      will                     T1.1.3 
+0000008 380  VBI     be                       Z5 A3+ 
+0000008 390  VVN@    outfitted                B5 O2 
+0000008 400  IW      with                     Z5 
+0000008 410  NN1     Android                  O3 
+0000008 420  NN1     Netbook                  Z99 
+0000008 430  NN2     screens                  Y2 Q4.3 H5 A10- 
+0000008 440  CC      and                      Z5 
+0000008 450  JJ      separate                 A6.1- 
+0000008 460  NN1     bluetooth                Z99 
+0000008 470  NN2     keyboards                Y2 K2 
+0000008 480  VM      will                     T1.1.3 
+0000008 490  VBI     be                       Z5 A3+ 
+0000008 500  RR      safely                   A15+ 
+0000008 510  VVN     tucked                   M2 
+0000008 520  RL      away                     M6 A1.1.1% 
+0000008 530  II      in                       Z5 
+0000008 540  AT      the                      Z5 
+0000008 550  NN1     seat                     H5 B5 S1.1.3+ S7.1+ M7 
+0000008 560  NN1     pocket                   B5 O2 I1.1 M7/N3.2- 
+0000008 570  II      as                       Z5 
+0000008 580  AT1     an                       Z5 
+0000008 590  JJ      accessory                N5++ 
+0000008 600  JJ      -PURE                    Z99 
+0000008 610  NN1@    WIN                      X9.2+/S7.3 X9.2+/G3 A9+ 
+0000008 611  .       .                        
+0000008 612  -----   -----                    
+0000008 620  CC      And                      Z5 
+0000008 630  VV0     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000008 640  DD1     this                     M6 Z5 Z8 
+0000008 650  NN1     Google                   Z3c/Y2 
+0000008 660  VM      will                     T1.1.3 
+0000008 670  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000008 680  IW      with                     Z5 
+0000008 690  NN2     Clearwires               Z99 
+0000008 700  NNU     4G                       Z99 
+0000008 710  NN1     network                  S5+c Q4.3 Y2 
+0000008 720  TO      to                       Z5 
+0000008 730  VVI     provide                  A9- S6+ 
+0000008 740  VVG     blazing                  O4.6+ E3- A11.2+ 
+0000008 750  JJ      fast                     N3.8+ 
+0000008 760  NN1     wireless                 Q4.3 Q1.3 
+0000008 770  VVZ     speeds                   N3.8+ 
+0000008 780  II      from                     Z5 
+0000008 790  RR      mostly                   A13.2 
+0000008 800  RL      anywhere                 M6 
+0000008 810  II      in                       Z5 
+0000008 820  AT      the                      Z5 
+0000008 830  NN1     nation                   G1.1c S5+c 
+0000008 840  II      by                       Z5 
+0000008 850  AT      the                      Z5 
+0000008 860  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000008 870  AT      the                      Z5 
+0000008 880  NN2     vehicles                 M3fn X4.2 
+0000008 890  VV0     launch                   M4 M5 T2+ 
+0000008 900  RR      early                    T4+ 
+0000008 910  MC      2010                     N1 T1.2 T3 T1.3 N3.2 
+0000008 911  !       !                        
+0000008 912  !       !                        
+0000008 913  !       !                        
+0000009 001  -----   -----                    
+0000010 010  CCB     But                      Z5 
+0000010 020  DD2     those                    Z8 Z5 
+0000010 030  VBR     are                      A3+ Z5 
+0000010 040  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000010 050  AT      the                      Z5 
+0000010 060  NN2     basics                   A12+ A11.1+ 
+0000010 061  .       .                        
+0000010 062  -----   -----                    
+0000010 070  II21    According                Z5[i11.2.1 Z5 
+0000010 080  II22    to                       Z5[i11.2.2 Z5 
+0000010 090  MC1     one                      N1 T3 T1.2 
+0000010 100  JJ      anonymous                A10- 
+0000010 110  CCB     but                      Z5 
+0000010 120  JJ      credible                 A5.2+/A8 
+0000010 130  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000010 131  ,       ,                        
+0000010 140  NP1     Ford                     Z1mf Z3c/M3 
+0000010 141  NULL    &;                       
+0000010 150  NP1     GM                       Y1/A2.1+ 
+0000010 160  VBR     are                      Z5 A3+ 
+0000010 170  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000010 180  II      on                       Z5 
+0000010 190  AT1     a                        Z5 
+0000010 200  JJ      joint                    S5+ 
+0000010 210  JJ      proprietary              A9+ 
+0000010 220  NN1     technology               Y1 
+0000010 230  CST     that                     Z8 Z5 
+0000010 240  VM      would                    A7+ 
+0000010 250  VVI     interface                Q1.1 S1.1.1 
+0000010 260  IW      with                     Z5 
+0000010 270  NN2     Androids                 O3 
+0000010 280  NN2     GPS                      B3/S2mf Z5 
+0000010 290  NN1     technology               Y1 
+0000010 300  CC      and                      Z5 
+0000010 310  VVZ     Googles                  Z3c/Y2 
+0000010 320  JJ      overall                  N5.1+ 
+0000010 330  NN1     mapping                  Q1.2/W3 N2 
+0000010 340  NN1     knowledge                X2.2+ S3.2/B1% 
+0000010 350  TO      to                       Z5 
+0000010 360  VVI     allow                    S7.4+ S8+ X2.1 
+0000010 370  PPY     you                      Z8mf 
+0000010 380  TO      to                       Z5 
+0000010 390  VVI     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000010 400  APPGE   your                     Z8 
+0000010 410  NN1     car                      M3fn 
+0000010 420  II      on                       Z5 
+0000010 430  NN1     AUTO                     M3 O3 
+0000010 440  NN1     PILOT                    M5/I3.2/S2mf M4/I3.2/S2mf X2.4 Y1 
+0000010 441  !       !                        
+0000010 442  -----   -----                    
+0000010 450  APPGE   Your                     Z8 
+0000010 460  NN1     car                      M3fn 
+0000010 470  VM      will                     T1.1.3 
+0000010 480  XX      not                      Z6 
+0000010 490  RR      automatically            O2/S5- X2.1- X7- 
+0000010 500  VVI     change                   A2.1+ I1 B5 
+0000010 510  NN2     lanes                    M3/H3 
+0000010 520  CC      or                       Z5 
+0000010 530  VV0     get                      M1[i12.2.1 M2[i12.2.1 T2+[i12.2.1 G2.1+[i12.2.1 T2-[i12.2.1 A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000010 540  RP      off                      M1[i12.2.2 M2[i12.2.2 T2+[i12.2.2 G2.1+[i12.2.2 T2-[i12.2.2 M6 K1 A1.1.1 A1.9 
+0000010 550  II      at                       Z5 
+0000010 560  NN2     exits                    M1 T2- M7 L1-@ 
+0000010 561  ,       ,                        
+0000010 570  CCB     but                      Z5 
+0000010 580  PPH1    it                       Z8 
+0000010 590  VM      WILL                     Z1m 
+0000010 600  VVI     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000010 610  APPGE   your                     Z8 
+0000010 620  NN1     cruise                   M4 G3% 
+0000010 630  NN1     control                  S7.1+ A1.7+ O2 
+0000010 640  CC      and                      Z5 
+0000010 650  VVI     keep                     A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000010 660  PPY     you                      Z8mf 
+0000010 670  II      in                       Z5 
+0000010 680  APPGE   your                     Z8 
+0000010 690  JJ      current                  T1.1.2 
+0000010 700  NN1     lane                     M3/H3 
+0000010 701  ,       ,                        
+0000010 710  VVG     adjusting                A2.1+ 
+0000010 720  AT      the                      Z5 
+0000010 730  NN1     steering                 M3[i13.2.1 S7.1+ M2 A2.2 
+0000010 740  NN1     wheel                    M3[i13.2.2 O2 N4 
+0000010 750  IW      with                     Z5 
+0000010 760  AT      the                      Z5 
+0000010 770  NN1     curve                    O4.4 
+0000010 780  IO      of                       Z5 
+0000010 790  AT      the                      Z5 
+0000010 800  NN1     road                     M3 X4.2 
+0000010 801  .       .                        
+0000010 802  -----   -----                    
+0000010 810  RGQ@    How                      Z5 A13.3 
+0000010 820  JJ      awesome                  O4.2+ E5- 
+0000010 830  VBZ     is                       A3+ Z5 
+0000010 840  DD1     that                     Z8 Z5 
+0000010 841  ?       ?                        
+0000010 842  -----   -----                    
+0000010 850  RR21    Of                       Z4[i14.2.1 
+0000010 860  RR22    course                   Z4[i14.2.2 Z4 
+0000010 870  VV0     youll                    Z99 
+0000010 880  VV0     need                     S6+ 
+0000010 890  TO      to                       Z5 
+0000010 900  VVI     remain                   T2++ M8 N5.2+ 
+0000010 910  JJ      alert                    X5.1+ X2.2+ 
+0000010 920  CCB     but                      Z5 
+0000010 930  DD1     this                     Z8 M6 Z5 
+0000010 940  VBZ     is                       A3+ Z5 
+0000010 950  RR      basically                Z4 A13.2 
+0000010 960  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000010 970  VV0     Cruise                   M4 G3% M1 
+0000010 980  NN1     Control                  S7.1+ A1.7+ O2 
+0000010 990  MC      2.0                      N1 T1.2 T3 T1.3 N3.2 
+0000010 991  .       .                        
+0000010 992  -----   -----                    
+0000010 000  CS      If                       Z7 
+0000010 010  PPY     you                      Z8mf 
+0000010 020  VV0     touch                    X3.3 M6 Q2.2 E1 E2- 
+0000010 030  AT      the                      Z5 
+0000010 040  NN1     steering                 M3[i15.2.1 S7.1+ M2 A2.2 
+0000010 050  NN1     wheel                    M3[i15.2.2 O2 N4 
+0000010 060  PPX1    yourself                 Z8 
+0000010 070  AT      the                      Z5 
+0000010 080  NN1     Auto-Pilot               Z99 
+0000010 090  NN1     feature                  O4.1 Q4.2 Q4.3 W3 
+0000010 100  VM      will                     T1.1.3 
+0000010 110  RR      automatically            O2/S5- X2.1- X7- 
+0000010 120  VVI     turn                     A1.1.1[i16.2.1 O4.2-[i16.2.1 M1[i16.2.1 M2[i16.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000010 130  RP      off                      A1.1.1[i16.2.2 O4.2-[i16.2.2 M1[i16.2.2 M2[i16.2.2 M6 K1 A1.1.1 A1.9 
+0000010 131  ,       ,                        
+0000010 140  VVG     allowing                 S7.4+ S8+ X2.1 
+0000010 150  PPY     you                      Z8mf 
+0000010 160  TO      to                       Z5 
+0000010 170  VVI     regain                   A9+ 
+0000010 180  JJ      complete                 N5.1+ T2- N3.2+ 
+0000010 190  NN1     control                  S7.1+ A1.7+ O2 
+0000010 200  IO      of                       Z5 
+0000010 210  AT      the                      Z5 
+0000010 220  NN1     car                      M3fn 
+0000010 230  RR      instantaneously          N3.8++ 
+0000010 231  .       .                        
+0000011 001  -----   -----                    
+0000012 010  AT1     A                        Z5 
+0000012 020  DA2     few                      N5- 
+0000012 030  JJ      other                    A6.1- 
+0000012 040  JJ      interesting              X5.2+ 
+0000012 050  CC      and                      Z5 
+0000012 060  JJ      relevant                 A1.2+ A1.5.2+ 
+0000012 070  NN2     notes                    Q1.2 K2 
+0000012 071  :       :                        
+0000012 080  AT      the                      Z5 
+0000012 090  NN1     car                      M3fn 
+0000012 100  VM      can                      A7+ 
+0000012 110  VVI     fly                      M5 M1 N3.8+ E3- 
+0000012 111  ,       ,                        
+0000012 120  VVZ     looks                    A6.1+[i17.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000012 130  II      like                     A6.1+[i17.2.2 Z5 
+0000012 140  AT1     a                        Z5 
+0000012 150  NN1     pig                      L2mf O4.2-/S2mf A12- 
+0000012 160  CC      and                      Z5 
+0000012 170  DD1     this                     M6 Z5 Z8 
+0000012 180  NN1     site                     M7 
+0000012 190  VBZ     is                       Z5 A3+ 
+0000012 200  RT      now                      T1.1.2 Z4 
+0000012 210  VVN     dedicated                Q2.2 A9- 
+0000012 220  II      to                       Z5 
+0000012 230  NP1     Microsoft                Z1mf[i19.3.1 Z3c[i19.3.1 Z3c Z1mf[i18.2.1 Z3c[i18.2.1 
+0000012 240  NP1     Windows                  Z1mf[i19.3.2 Z3c[i19.3.2 Z1mf[i18.2.2 Z3c[i18.2.2 Z1mf[i20.2.1 Z3c[i20.2.1 
+0000012 250  NP1     Mobile                   Z3c[i19.3.3 Z1mf[i19.3.3 Z1mf[i20.2.2 Z3c[i20.2.2 Z2[i21.2.1 Z1mf[i21.2.1 
+0000012 260  MC      6.1.                     N1 T1.2 T3 T1.3 N3.2 Z2[i21.2.2 Z1mf[i21.2.2 
+0000012 270  NN1     april                    Z1f Z3f T1.3 
+0000012 280  NN1     fooleration              Z99 
+0000012 281  ,       ,                        
+0000012 290  UH      suckah                   Z99 
+0000012 291  !       !                        
+0000015 001  NULL    **8;7;text               

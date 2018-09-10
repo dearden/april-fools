@@ -1,0 +1,834 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN1     Studio                   C1/H2 Q4.3/H1c H1 
+0000002 020  CC      and                      Z5 
+0000002 030  NN1     festival                 K1/S1.1.3+ S9 
+0000002 040  NN2     representatives          Q2.1/S2mf G1.1/S2mf I2.2/S2mf A4.1 
+0000002 050  VH0     have                     Z5 A9+ A2.2 S4 
+0000002 060  VBN     been                     A3+ Z5 
+0000002 070  JJ      careful                  A1.3+ E6- 
+0000002 080  TO      to                       Z5 
+0000002 090  VVI     position                 M6 
+0000002 100  APPGE   their                    Z8 
+0000002 110  NN2     films                    Q4.3 O2/C1 O1.1 O1.2 B3 
+0000002 120  CSA     as                       Z5 
+0000002 130  NN2     tributes                 Q2.2 
+0000002 140  II      to                       Z5 
+0000002 150  AT      the                      Z5 
+0000002 160  NN2     heroes                   Q4.1/S2.2m E5+/S2.2m E2+/S2.2m 
+0000002 170  CC      and                      Z5 
+0000002 180  NN2     victims                  A1.1.2/G2.1/S2mf B2-/S2mf 
+0000002 190  IO      of                       Z5 
+0000002 200  AT      the                      Z5 
+0000002 210  NN1     tragedy                  E4.1- K4 
+0000002 211  .       .                        
+0000002 212  -----   -----                    
+0000002 220  CCB     But                      Z5 
+0000002 230  DD      some                     N5 Z5 
+0000002 240  NN2     victims                  A1.1.2/G2.1/S2mf B2-/S2mf 
+0000002 241  GE      '                        Z5 
+0000002 250  NN2     relatives                S4 
+0000002 260  VVD     suggested                Q2.2 Q1.1 
+0000002 270  CST     that                     Z5 Z8 
+0000002 280  AT      the                      Z5 
+0000002 281  NULL    <quote>                  
+0000002 282  -----   -----                    
+0000002 283  "       "                        
+0000002 290  JJ      United                   S5+ 
+0000002 300  MC      93                       N1 T1.2 T3 T1.3 N3.2 
+0000002 301  "       "                        
+0000002 302  NULL    </quote>                 
+0000002 303  -----   -----                    
+0000002 310  NN1     trailer                  M3 Q4.3 
+0000002 320  VM      should                   S6+ A7+ 
+0000002 330  VHI     have                     Z5 A9+ A2.2 S4 
+0000002 340  VBN     been                     Z5 A3+ 
+0000002 350  VVN     tested                   P1 B3 X2.4 A12- 
+0000002 360  II      to                       Z5 
+0000002 370  NN1     gauge                    N3.1/O2 N3.1 
+0000002 380  NN1     audience                 K1/S2mfc S2mfc S1.1.3+ 
+0000002 390  NN2     sensitivities            X2.5+/E1 O4.1 B2- 
+0000002 391  ,       ,                        
+0000002 400  CC      and                      Z5 
+0000002 410  DD1     that                     Z8 Z5 
+0000002 411  ,       ,                        
+0000002 420  RR      particularly             A13.3 A14 
+0000002 430  II      in                       Z5 
+0000002 440  NP1     Manhattan                Z2 F2 
+0000002 441  ,       ,                        
+0000002 450  RR      perhaps                  A7 
+0000002 460  PPH1    it                       Z8 
+0000002 470  VM      should                   S6+ A7+ 
+0000002 480  XX      not                      Z6 
+0000002 490  VBI     be                       Z5 A3+ 
+0000002 500  VVN     played                   K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000002 510  RR21    at                       A13.7[i1.2.1 Z4[i1.2.1 N5.1+[i1.2.1 
+0000002 520  RR22    all                      A13.7[i1.2.2 Z4[i1.2.2 N5.1+[i1.2.2 A13.2 
+0000002 521  .       .                        
+0000004 001  NULL    <quote>                  
+0000004 002  -----   -----                    
+0000004 003  "       "                        
+0000004 010  AT1@    A                        Z5 
+0000004 020  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000004 030  VBZ     is                       A3+ Z5 
+0000004 040  PN1     something                Z8 
+0000004 050  PPY     you                      Z8mf 
+0000004 060  VV0     elect                    G1.2/X7+ 
+0000004 070  TO      to                       Z5 
+0000004 080  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000004 090  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000004 091  ,       ,                        
+0000004 100  PPY     you                      Z8mf 
+0000004 110  VV0     pay                      I1.2 A9- I1.1/I3.1 
+0000004 120  NN1     money                    I1 
+0000004 121  ,       ,                        
+0000004 130  CC      and                      Z5 
+0000004 140  PPY     you                      Z8mf 
+0000004 141  VBR     're                      Z5 A3+ 
+0000004 150  VVN     prepared                 A1.1.1 F1 
+0000004 160  IF      for                      Z5 
+0000004 170  PPH1    it                       Z8 
+0000004 171  ,       ,                        
+0000004 172  "       "                        
+0000004 173  NULL    </quote>                 
+0000004 174  -----   -----                    
+0000004 180  VVD     said                     Q2.1 
+0000004 190  NP1     Paula                    Z1mf[i2.2.1 Z3c[i2.2.1 Z1f 
+0000004 200  NP1     Berry                    Z1mf[i2.2.2 Z3c[i2.2.2 Z1mf 
+0000004 201  ,       ,                        
+0000004 210  PNQS    who                      Z8 
+0000004 220  VVD     lost                     X9.2- A9- M6/A5.3- L1- 
+0000004 230  APPGE   her                      Z8f 
+0000004 240  NN1     husband                  S4m 
+0000004 241  ,       ,                        
+0000004 250  NP1     David                    Z1mf[i3.2.1 Z3c[i3.2.1 Z1m 
+0000004 260  NP1     Berry                    Z1mf[i3.2.2 Z3c[i3.2.2 Z1mf 
+0000004 261  ,       ,                        
+0000004 270  II      in                       Z5 
+0000004 280  AT      the                      Z5 
+0000004 290  NN1     World                    W1 S5+c A4.1 N5+ 
+0000004 300  NN1     Trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000004 310  NN1     Center                   M6 H1c M7c G1.2c K5.1mfn 
+0000004 320  NN1     collapse                 A1.1.2 B2- N3.2-/A2.1 
+0000004 330  CC      and                      Z5 
+0000004 340  VVZ     serves                   S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
+0000004 350  II      on                       Z5 
+0000004 360  AT      the                      Z5 
+0000004 370  JJ      advisory                 S8+/S7.1+/S5+[i4.2.1 S8+ 
+0000004 380  NN1     board                    S8+/S7.1+/S5+[i4.2.2 S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
+0000004 390  IO      of                       Z5 
+0000004 400  AT      the                      Z5 
+0000004 410  JJR     Lower                    M6 N3.7-- N5-- I1.3-- A5.1-- A11.1-- E4.1-- X3.2-- G2.2-- S7.1-- 
+0000004 420  NP1     Manhattan                Z2 F2 
+0000004 430  NN1     Development              A2.1+ A5.1+/A2.1 H1 
+0000004 440  NN1     Corporation              I2.1/S5c G1.1c 
+0000004 441  .       .                        
+0000004 442  NULL    <quote>                  
+0000004 443  -----   -----                    
+0000004 444  "       "                        
+0000004 450  AT1@    A                        Z5 
+0000004 460  NN1     trailer                  M3 Q4.3 
+0000004 470  VBZ     is                       A3+ Z5 
+0000004 471  ,       ,                        
+0000004 480  PPY     you                      Z8mf 
+0000004 481  VBR     're                      Z5 A3+ 
+0000004 490  VVG     sitting                  M8 C1 P1 G1.1 G2.1 M6 A9+ 
+0000004 500  RL      there                    M6 T1.2 
+0000004 510  TO      to                       Z5 
+0000004 520  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000004 530  DD1     another                  A6.1- N5++ 
+0000004 540  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000004 541  ,       ,                        
+0000004 550  CC      and                      Z5 
+0000004 560  RT      then                     N4 Z5 T1.2 
+0000004 570  PPY     you                      Z4[i5.2.1 Z8mf 
+0000004 580  VV0     see                      Z4[i5.2.2 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000004 590  PN1     something                Z8 
+0000004 600  PPY     you                      Z8mf 
+0000004 601  VBR     're                      A3+ Z5 
+0000004 610  JJ      unprepared               O4.1 X2.6- X7- 
+0000004 620  IF      for                      Z5 
+0000004 621  .       .                        
+0000004 622  "       "                        
+0000004 623  NULL    </quote>                 
+0000004 624  -----   -----                    
+0000006 010  NP1     Tom                      Z1mf[i6.2.1 Z3c[i6.2.1 Z1m 
+0000006 020  NP1     Roger                    Z1mf[i6.2.2 Z3c[i6.2.2 Z1m 
+0000006 021  ,       ,                        
+0000006 030  DDQGE   whose                    Z8 
+0000006 040  JJ      24-year-old              Z99 
+0000006 050  NN1     daughter                 S4f 
+0000006 051  ,       ,                        
+0000006 060  NP1     Jean                     Z1f 
+0000006 061  ,       ,                        
+0000006 070  VBDZ    was                      A3+ Z5 
+0000006 080  AT1     a                        Z5 
+0000006 090  NN1     flight                   M5/S2mf[i7.2.1 M5 M1 H2 
+0000006 100  NN1     attendant                M5/S2mf[i7.2.2 S2mf 
+0000006 110  II      on                       Z5 
+0000006 120  JJ      American                 Z2 
+0000006 130  NN1     Flight                   M5 M1 H2 
+0000006 140  MC      11                       N1 T1.2 T3 T1.3 N3.2 
+0000006 141  ,       ,                        
+0000006 150  DDQ     which                    Z8 Z5 
+0000006 160  VVD     flew                     M5 M1 N3.8+ E3- 
+0000006 170  II      into                     Z5 
+0000006 180  AT      the                      Z5 
+0000006 190  ND1     north                    M6 
+0000006 200  NN1     tower                    H1 
+0000006 201  ,       ,                        
+0000006 210  VVD     said                     Q2.1 
+0000006 220  PPHS1   he                       Z8m 
+0000006 230  VVD     wished                   X7+ 
+0000006 240  AT      the                      Z5 
+0000006 250  NN1     studio                   C1/H2 Q4.3/H1c H1 
+0000006 260  VHD     had                      Z5 A9+ A2.2 S4 
+0000006 270  RR      somehow                  X4.2 A13.4 
+0000006 280  VVN     notified                 Q2.2 
+0000006 290  JJ      other                    A6.1- 
+0000006 300  MF      9/11                     N5 
+0000006 310  NN2     families                 S4 A4.1 
+0000006 320  II      about                    Z5 
+0000006 330  AT      the                      Z5 
+0000006 340  NN1     trailer                  M3 Q4.3 
+0000006 341  .       .                        
+0000006 342  NULL    <quote>                  
+0000006 343  -----   -----                    
+0000006 344  "       "                        
+0000006 350  PPH1    It                       Z8 
+0000006 351  VBZ     's                       A3+ Z5 
+0000006 360  XX      not                      Z6 
+0000006 370  AT      the                      Z5 
+0000006 380  MD      first                    N4 
+0000006 390  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000006 400  PN1     someone                  Z8mfc 
+0000006 410  VBZ     is                       Z5 A3+ 
+0000006 420  VVG     trying                   X8+ X2.4 Q2.2 G2.1 A12- 
+0000006 430  TO      to                       Z5 
+0000006 440  VVI     exploit                  G2.2- A1.5.1 
+0000006 450  AT      the                      Z5 
+0000006 460  NN1     history                  T1.1.1 P1/T1.1.1 Q2.1 B2 
+0000006 470  IO      of                       Z5 
+0000006 480  DD1     this                     M6 Z5 Z8 
+0000006 490  NN1     event                    A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
+0000006 491  ,       ,                        
+0000006 492  "       "                        
+0000006 493  NULL    </quote>                 
+0000006 494  -----   -----                    
+0000006 500  PPHS1   he                       Z8m 
+0000006 510  VVD     said                     Q2.1 
+0000006 511  .       .                        
+0000006 512  NULL    <quote>                  
+0000006 513  -----   -----                    
+0000006 514  "       "                        
+0000006 520  PPIS1   I                        Z8mf 
+0000006 530  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000006 531  XX      n't                      Z6 
+0000006 540  VHI     have                     A9+ Z5 A2.2 S4 
+0000006 550  AT1     a                        Z5 
+0000006 560  NN1     problem                  A12- X4.1 N2 B2- 
+0000006 570  IW      with                     Z5 
+0000006 580  PPH1    it                       Z8 
+0000006 581  .       .                        
+0000006 582  -----   -----                    
+0000006 590  CCB     But                      Z5 
+0000006 600  EX      there                    Z5 
+0000006 601  VBZ     's                       A3+ Z5 
+0000006 610  AT1     a                        Z5 
+0000006 620  NN1     warning                  X2.2+/A15- A1.3+ 
+0000006 630  CST     that                     Z8 Z5 
+0000006 640  VMK     ought                    S6+ 
+0000006 650  TO      to                       Z5 
+0000006 660  VBI     be                       Z5 A3+ 
+0000006 670  VVN     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000006 680  II      in                       T4+[i8.2.1 Z5 
+0000006 690  NN1     advance                  T4+[i8.2.2 I1.1 M1/G3 S3.2 A5.1+/A2.1+ 
+0000006 700  IO      of                       Z5 
+0000006 710  AT      the                      Z5 
+0000006 720  NN1     trailer                  M3 Q4.3 
+0000006 721  .       .                        
+0000006 722  -----   -----                    
+0000006 730  PPIS1   I                        Z8mf 
+0000006 740  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000006 741  XX      n't                      Z6 
+0000006 750  VVI     know                     X2.2+ S3.2/B1% 
+0000006 760  RRQ     how                      Z5 A13.3 
+0000006 770  DD2     these                    Z5 Z8 
+0000006 780  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000006 790  VM      can                      A7+ 
+0000006 800  VBI     be                       Z5 A3+ 
+0000006 810  VVN     treated                  S1.1.1 A9- X4.2 X2.1 B3 A1.1.1 
+0000006 820  II      in                       Z5 
+0000006 830  AT1     a                        Z5 
+0000006 840  RGR     more                     A13.3 
+0000006 850  JJ      sensitive                X2.5+/E1 E6- O4.1 B1 A4.2+ 
+0000006 860  NN1     manner                   S1.1.1 X4.2 
+0000006 861  .       .                        
+0000006 862  -----   -----                    
+0000006 870  CCB     But                      Z5 
+0000006 880  DD1     that                     Z8 Z5 
+0000006 881  VBZ     's                       A3+ Z5 
+0000006 890  AT      the                      Z5 
+0000006 900  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000006 901  .       .                        
+0000006 902  "       "                        
+0000006 903  NULL    </quote>                 
+0000006 904  -----   -----                    
+0000008 010  AT      The                      Z5 
+0000008 020  NN1     Discovery                A10+ 
+0000008 030  NN1     Channel                  Z2 
+0000008 040  VVD     re-enacted               A1.1.1/N6+ 
+0000008 050  AT      the                      Z5 
+0000008 060  NN2     events                   A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
+0000008 070  II      in                       Z5 
+0000008 080  AT      the                      Z5 
+0000008 090  NN1     documentary              Q4.3 
+0000008 091  NULL    <quote>                  
+0000008 092  -----   -----                    
+0000008 093  "       "                        
+0000008 100  AT      The                      Z5 
+0000008 110  NN1     Flight                   M5 M1 H2 
+0000008 120  CST     That                     Z8 Z5 
+0000008 130  VVD     Fought                   S8- X8+ E3- G1.2 
+0000008 140  RP      Back                     M6 N6+ T1.1.1 S1.1.2+ 
+0000008 141  .       .                        
+0000008 142  "       "                        
+0000008 143  NULL    </quote>                 
+0000008 144  NULL    <quote>                  
+0000008 145  -----   -----                    
+0000008 146  "       "                        
+0000008 150  NN1     Flight                   M5 M1 H2 
+0000008 160  MC      93                       N1 T1.2 T3 T1.3 N3.2 
+0000008 161  ,       ,                        
+0000008 162  "       "                        
+0000008 163  NULL    </quote>                 
+0000008 164  -----   -----                    
+0000008 170  AT1     an                       Z5 
+0000008 180  ZZ1     A                        Z5 
+0000008 181  NULL    &E;                      
+0000008 190  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000008 191  ,       ,                        
+0000008 200  VBDZ    was                      Z5 A3+ 
+0000008 210  VVN     broadcast                Q4.3 
+0000008 220  II      in                       Z5 
+0000008 230  NPM1    January                  T1.3 
+0000008 231  .       .                        
+0000009 001  -----   -----                    
+0000010 010  NN1     Newsletter               Q4.2 
+0000010 020  VV0     Sign                     Q2.2[i9.2.1 Q1.2 Q1.1 G2.1 I3.1 S9 
+0000010 030  RP      Up                       Q2.2[i9.2.2 
+0000010 040  VV0     Continue                 T2++ 
+0000010 050  VVG     reading                  Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000010 060  AT      the                      Z5 
+0000010 070  JJ      main                     A11.1+ N5+++ 
+0000010 080  NN1     story                    Q2.1 X4.1 Q4 
+0000010 090  RR      Please                   Z4 
+0000010 100  VV0     verify                   A5.2+ 
+0000010 110  PPY     you                      Z8mf 
+0000010 111  VBR     're                      A3+ Z5 
+0000010 120  XX      not                      Z6 
+0000010 130  AT1     a                        Z5 
+0000010 140  NN1     robot                    O3 
+0000010 150  II      by                       Z5 
+0000010 160  VVG     clicking                 X3.2 Y2 X2.5+ S1.2.1+ 
+0000010 170  AT      the                      Z5 
+0000010 180  NN1     box                      O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ 
+0000010 181  .       .                        
+0000010 182  -----   -----                    
+0000010 190  JJ      Invalid                  A5.2- B2- 
+0000010 200  NN1     email                    Q1.3/Y2 
+0000010 210  NN1     address                  H4 Q2.2 
+0000010 211  .       .                        
+0000010 212  -----   -----                    
+0000010 220  RR      Please                   Z4 
+0000010 230  VV0     re-enter                 Z99 
+0000010 231  .       .                        
+0000010 232  -----   -----                    
+0000010 240  PPY     You                      Z8mf 
+0000010 250  VM      must                     S6+ A7+ 
+0000010 260  VVI     select                   X7+ 
+0000010 270  AT1     a                        Z5 
+0000010 280  NN1     newsletter               Q4.2 
+0000010 290  TO      to                       Z5 
+0000010 300  VVI     subscribe                X2.1/A6.1+ Q4.2/I2.2 A9-/I1 I2.2/I1 
+0000010 310  II      to                       Z5 
+0000010 311  .       .                        
+0000010 312  -----   -----                    
+0000010 320  VV0     Sign                     Q2.2[i10.2.1 Q1.2 Q1.1 G2.1 I3.1 S9 
+0000010 330  RP      Up                       Q2.2[i10.2.2 
+0000010 340  PPY     You                      Z8mf 
+0000010 350  VV0     agree                    A6.1+ Q2.2 
+0000010 360  TO      to                       Z5 
+0000010 370  VVI     receive                  A9+ S5+ 
+0000010 380  JJ      occasional               N6- 
+0000010 390  NN2     updates                  T1.1.2/Q1.1 
+0000010 400  CC      and                      Z5 
+0000010 410  JJ      special                  I1.3-[i11.2.1 A4.2+ A6.2- 
+0000010 420  NN2     offers                   I1.3-[i11.2.2 A9- Q2.2 I1.3- 
+0000010 430  IF      for                      Z5 
+0000010 440  AT      The                      Z5 
+0000010 450  NP1     New                      Z3c[i15.3.1 Z1mf[i13.3.1 Z3c[i13.3.1 Z1mf[i12.2.1 Z3c[i12.2.1 Z2[i14.2.1 
+0000010 460  NP1     York                     Z3c[i15.3.2 Z2 Z1mf Z1mf[i13.3.2 Z3c[i13.3.2 Z1mf[i12.2.2 Z3c[i12.2.2 Z2[i14.2.2 Z1mf[i16.2.1 Z3c[i16.2.1 
+0000010 470  NNT2    Times                    Z3c[i15.3.3 Z3 Z3c[i13.3.3 Z1mf[i13.3.3 Z1mf[i16.2.2 Z3c[i16.2.2 
+0000010 471  GE      's                       Z5 
+0000010 480  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000010 490  CC      and                      Z5 
+0000010 500  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000010 501  .       .                        
+0000010 502  -----   -----                    
+0000010 510  VV0     Thank                    Z4[i17.2.1 S1.2.4+[i17.2.1 S1.2.4+ 
+0000010 520  PPY     you                      Z4[i17.2.2 S1.2.4+[i17.2.2 Z8mf 
+0000010 530  IF      for                      Z5 
+0000010 540  VVG     subscribing              X2.1/A6.1+ Q4.2/I2.2 A9-/I1 I2.2/I1 
+0000010 541  .       .                        
+0000010 542  -----   -----                    
+0000010 550  AT1     An                       Z5 
+0000010 560  NN1     error                    A5.3- 
+0000010 570  VHZ     has                      Z5 A9+ A2.2 S4 
+0000010 580  VVN     occurred                 A2.1+ A3+ X2.1 
+0000010 581  .       .                        
+0000010 582  -----   -----                    
+0000010 590  RR      Please                   Z4 
+0000010 600  VV0     try                      X8+ X2.4 Q2.2 G2.1 A12- 
+0000010 610  RT      again                    N6+ Z4 
+0000010 620  RRR     later                    T4-- T1.1.3 N4 
+0000010 621  .       .                        
+0000010 622  -----   -----                    
+0000010 630  VV0@    View                     X2.1 X3.4 X2.4 
+0000010 640  DB      all                      N5.1+ 
+0000010 650  NP1     New                      Z3c[i21.3.1 Z1mf[i19.3.1 Z3c[i19.3.1 Z1mf[i18.2.1 Z3c[i18.2.1 Z2[i20.2.1 
+0000010 660  NP1     York                     Z3c[i21.3.2 Z2 Z1mf Z1mf[i19.3.2 Z3c[i19.3.2 Z1mf[i18.2.2 Z3c[i18.2.2 Z2[i20.2.2 Z1mf[i22.2.1 Z3c[i22.2.1 
+0000010 670  NNT2    Times                    Z3c[i21.3.3 Z3 Z3c[i19.3.3 Z1mf[i19.3.3 Z1mf[i22.2.2 Z3c[i22.2.2 
+0000010 680  NN2     newsletters              Q4.2 
+0000010 681  .       .                        
+0000011 001  -----   -----                    
+0000012 010  JJ      Universal                W3 M7 A1.8+ N5.1+ X2.2 A5.2+ 
+0000012 020  NN2     executives               I2.1/S2mf G1.1 S7.1+/S5+c 
+0000012 030  VV0     say                      Q2.1 Z4% 
+0000012 040  PPHS2   they                     Z8mfn 
+0000012 050  VH0     have                     Z5 A9+ A2.2 S4 
+0000012 060  VVN     gone                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000012 070  II      to                       Z5 
+0000012 080  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000012 090  NN2     pains                    B2- E2- E4.1- 
+0000012 100  TO      to                       Z5 
+0000012 110  VBI     be                       A3+ Z5 
+0000012 120  JJ      sensitive                X2.5+/E1 E6- O4.1 B1 A4.2+ 
+0000012 130  II      to                       Z5 
+0000012 140  AT      the                      Z5 
+0000012 150  NN2     victims                  A1.1.2/G2.1/S2mf B2-/S2mf 
+0000012 151  GE      '                        Z5 
+0000012 160  NN2     families                 S4 A4.1 
+0000012 161  .       .                        
+0000012 162  -----   -----                    
+0000012 170  AT      The                      Z5 
+0000012 180  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000012 181  GE      's                       Z5 
+0000012 190  NN1     director                 S7.1+/S2mf K4/S2mf 
+0000012 191  ,       ,                        
+0000012 200  NP1     Paul                     Z1mf[i23.2.1 Z3c[i23.2.1 Z1m 
+0000012 210  NP1     Greengrass               Z1mf[i23.2.2 Z3c[i23.2.2 
+0000012 220  NN1     --                       Z99 
+0000012 230  PNQS    who                      Z8 
+0000012 240  VBZ     is                       Z5 A3+ 
+0000012 250  RRT     best                     A5.1+++ A13.2 G2.2+++ O4.2+++ 
+0000012 260  VVN     known                    X2.2+ S3.2/B1% 
+0000012 270  CS%     for                      Z5 A5.1+ S8+ M6 
+0000012 271  NULL    <quote>                  
+0000012 272  -----   -----                    
+0000012 273  "       "                        
+0000012 280  AT      The                      Z5 
+0000012 290  NP1     Bourne                   Z1mf 
+0000012 300  NN1     Supremacy                S7.1+ 
+0000012 301  ,       ,                        
+0000012 302  "       "                        
+0000012 303  NULL    </quote>                 
+0000012 304  -----   -----                    
+0000012 310  CCB     but                      Z5 
+0000012 320  PNQS    who                      Z8 
+0000012 330  RR      also                     N5++ 
+0000012 340  VVD     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000012 350  AT      the                      Z5 
+0000012 360  RR      politically              G1.2 
+0000012 370  JJ      explosive                A15- N3.2+/A2.1 
+0000012 380  NN1     docudrama                Z99 
+0000012 381  NULL    <quote>                  
+0000012 382  -----   -----                    
+0000012 383  "       "                        
+0000012 390  RR      Bloody                   Z4 B1 A13.3 
+0000012 400  NPD1    Sunday                   T1.3 
+0000012 401  ,       ,                        
+0000012 402  "       "                        
+0000012 403  NULL    </quote>                 
+0000012 404  -----   -----                    
+0000012 410  II      about                    Z5 
+0000012 420  JJ      British                  Z2 Z2/S2mfnc 
+0000012 430  NN2     troops                   G3/S5+ G3/S2mf S5+ 
+0000012 431  GE      '                        Z5 
+0000012 440  NN1     massacre                 L1- S7.1+ A1.1.2 
+0000012 450  IO      of                       Z5 
+0000012 460  JJ      civilian                 G3- G2.1- 
+0000012 470  NN2     protesters               G1.2/S2mf 
+0000012 480  II      in                       Z5 
+0000012 490  NP1     Northern                 Z2[i26.2.1 Z1mf[i24.2.1 Z3c[i24.2.1 Z2[i25.2.1 
+0000012 500  NP1     Ireland                  Z2[i26.2.2 Z2 Z1mf Z1mf[i24.2.2 Z3c[i24.2.2 Z2[i25.2.2 
+0000012 510  NN1     --                       Z99 
+0000012 520  VVD     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000012 530  TO      to                       Z5 
+0000012 540  VVI     know                     X2.2+ S3.2/B1% 
+0000012 550  AT      the                      Z5 
+0000012 560  NN2     families                 S4 A4.1 
+0000012 570  IO      of                       Z5 
+0000012 580  DAT     most                     N5+++ 
+0000012 590  IO      of                       Z5 
+0000012 600  AT      the                      Z5 
+0000012 610  NN2     victims                  A1.1.2/G2.1/S2mf B2-/S2mf 
+0000012 611  .       .                        
+0000012 612  -----   -----                    
+0000012 620  DAT     Most                     N5+++ 
+0000012 630  VVD     cooperated               S8+ 
+0000012 640  II      in                       Z5 
+0000012 650  AT      the                      Z5 
+0000012 660  NN1@    making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000012 670  IO      of                       Z5 
+0000012 680  AT      the                      Z5 
+0000012 690  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000012 691  ,       ,                        
+0000012 700  CC      and                      Z5 
+0000012 710  PPHS2   they                     Z8mfn 
+0000012 720  VM      will                     T1.1.3 
+0000012 730  VHI     have                     A7+[i27.3.1 A9+ Z5 A2.2 S4 
+0000012 740  AT1     a                        A7+[i27.3.2 Z5 
+0000012 750  NN1     chance                   A7+[i27.3.3 A1.4 A7+ 
+0000012 760  TO      to                       Z5 
+0000012 770  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000012 780  AT      the                      Z5 
+0000012 790  JJ@     completed                T2- Q1.2 
+0000012 800  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000012 810  DD1     this                     M6 Z5 Z8 
+0000012 820  NNT1    weekend                  T1.3 
+0000012 821  ,       ,                        
+0000012 830  MC1     one                      N1 T3 T1.2 
+0000012 840  NN1     executive                S7.1+ I2.1/S2mf G1.1c S7.1+/S5+c 
+0000012 850  VVD     said                     Q2.1 
+0000012 851  .       .                        
+0000013 001  -----   -----                    
+0000014 010  DD      Some                     N5 Z5 
+0000014 020  NN2     theaters                 K4/H1 K4 B3/H2 M7 
+0000014 030  VBR     are                      Z5 A3+ 
+0000014 040  VVG     showing                  A10+ S1.1.1 
+0000014 050  AT1     a                        Z5 
+0000014 060  JJ      promotional              I2.2/Q2.2 
+0000014 070  NN1     spot                     O4.4 O2 B2- M7 N5- Q4.3 
+0000014 080  II      about                    Z5 
+0000014 090  AT      the                      Z5 
+0000014 100  NN1@    making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000014 110  IO      of                       Z5 
+0000014 111  NULL    <quote>                  
+0000014 112  -----   -----                    
+0000014 113  "       "                        
+0000014 120  JJ      United                   S5+ 
+0000014 130  MC      93                       N1 T1.2 T3 T1.3 N3.2 
+0000014 131  "       "                        
+0000014 132  NULL    </quote>                 
+0000014 133  -----   -----                    
+0000014 140  DD1     that                     Z8 Z5 
+0000014 150  VVZ     explains                 Q2.2/A7+ A2.2 
+0000014 160  DD      some                     N5 Z5 
+0000014 170  IO      of                       Z5 
+0000014 180  AT      the                      Z5 
+0000014 190  NN1     thinking                 X2.1 
+0000014 200  CC      and                      Z5 
+0000014 210  NN1     methodology              X4.2 
+0000014 220  II      behind                   Z5 
+0000014 230  AT      the                      Z5 
+0000014 240  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000014 241  ,       ,                        
+0000014 250  DDQ     which                    Z8 Z5 
+0000014 260  VVZ     depicts                  C1 Q2.2 
+0000014 270  NN2     events                   A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
+0000014 280  II      in                       Z5 
+0000014 290  RR      roughly                  A13.4 E3- A4.2- 
+0000014 300  AT      the                      Z5 
+0000014 310  NN1     amount                   N5 
+0000014 320  IO      of                       Z5 
+0000014 330  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000014 340  II      in                       Z5 
+0000014 350  DDQ     which                    Z8 Z5 
+0000014 360  PPHS2   they                     Z8mfn 
+0000014 370  VVD     occurred                 A2.1+ A3+ X2.1 
+0000014 371  .       .                        
+0000015 001  -----   -----                    
+0000016 010  CCB     But                      Z5 
+0000016 020  AT      the                      Z5 
+0000016 030  NN1     trailer                  M3 Q4.3 
+0000016 031  ,       ,                        
+0000016 040  RR      currently                T1.1.2 
+0000016 050  VBG     being                    Z5 A3+ 
+0000016 060  VVN     shown                    A10+ S1.1.1 
+0000016 070  II      on                       Z5 
+0000016 080  JJ      close                    N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4 
+0000016 090  II      to                       Z5 
+0000016 100  MC      3,000                    N1 T1.2 T3 T1.3 N3.2 
+0000016 110  NN2     screens                  Y2 Q4.3 H5 A10- 
+0000016 120  II      across                   Z5 
+0000016 130  AT      the                      Z5 
+0000016 140  NN1     country                  G1.1c W3 F4/M7 K2 
+0000016 150  II21    ahead                    N4[i28.2.1 N4[i29.2.1 A5.1++[i29.2.1 
+0000016 160  II22    of                       N4[i28.2.2 N4[i29.2.2 A5.1++[i29.2.2 
+0000016 170  JJ      Universal                W3 M7 A1.8+ N5.1+ X2.2 A5.2+ 
+0000016 171  GE      's                       Z5 
+0000016 180  NN1     heist                    Z99 
+0000016 190  NN1     caper                    L3 G2.2- 
+0000016 191  NULL    <quote>                  
+0000016 192  -----   -----                    
+0000016 193  "       "                        
+0000016 200  II      Inside                   Z5 
+0000016 210  NN1     Man                      S2.2m 
+0000016 211  ,       ,                        
+0000016 212  "       "                        
+0000016 213  NULL    </quote>                 
+0000016 214  -----   -----                    
+0000016 220  VHZ     has                      Z5 A9+ A2.2 S4 
+0000016 230  VVN     hit                      E3- A1.1.1 A2.1+ A11.2+ A10+ M1 G3 
+0000016 240  AT1     a                        Z5 
+0000016 250  JJ      raw                      F1 O4.1 B2- X9.1- O4.6- A5.1- A5.2+@ 
+0000016 260  NN1     nerve                    B1 E5+ S1.2.3+ 
+0000016 270  IW      with                     Z5 
+0000016 280  DD      some                     N5 Z5 
+0000016 281  .       .                        
+0000017 001  -----   -----                    
+0000018 010  AT      The                      Z5 
+0000018 020  NN1     trailer                  M3 Q4.3 
+0000018 030  VVZ     starts                   T2+ E5- E3- 
+0000018 040  RR      quietly                  X3.2- E3+ A10- A1.1.1/N5- 
+0000018 041  ,       ,                        
+0000018 050  IW      with                     Z5 
+0000018 060  NN2     passengers               M3/S2mf M4/S2mf M5/S2mf 
+0000018 070  VVG     preparing                A1.1.1 F1 
+0000018 080  IF      for                      Z5 
+0000018 090  NN1     Flight                   M5 M1 H2 
+0000018 100  MC      93                       N1 T1.2 T3 T1.3 N3.2 
+0000018 110  CC      and                      Z5 
+0000018 120  RR      dramatically             K4 E1/N5.2+ N3.8++ 
+0000018 130  VVZ     builds                   H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000018 131  ,       ,                        
+0000018 140  JJ      complete                 N5.1+ T2- N3.2+ 
+0000018 150  IW      with                     Z5 
+0000018 160  JJ      loud                     X3.2+ O4.3 
+0000018 161  ,       ,                        
+0000018 170  JJ      pulse-pounding           Z99 
+0000018 180  NN1     music                    K2 
+0000018 181  ,       ,                        
+0000018 190  TO      to                       Z5 
+0000018 200  VVI     include                  A1.8+ 
+0000018 210  JJ      actual                   A5.4+ A14 
+0000018 220  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000018 230  NN1     video                    Q4.3 
+0000018 240  IO      of                       Z5 
+0000018 250  AT1     a                        Z5 
+0000018 260  NN1     plane                    M5fn O4.4 O2 L3 
+0000018 270  RPK     about                    Z5 A13.4 M6 
+0000018 280  TO      to                       Z5 
+0000018 290  VVI     hit                      E3- A1.1.1 A2.1+ A11.2+ A10+ M1 G3 
+0000018 300  AT      the                      Z5 
+0000018 310  ND1     south                    M6 
+0000018 320  NN1     tower                    H1 
+0000018 330  IO      of                       Z5 
+0000018 340  AT      the                      Z5 
+0000018 350  NN1     World                    W1 S5+c A4.1 N5+ 
+0000018 360  NN1     Trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000018 370  NN1     Center                   M6 H1c M7c G1.2c K5.1mfn 
+0000018 371  .       .                        
+0000018 372  -----   -----                    
+0000018 380  PPH1    It                       Z8 
+0000018 390  RT      then                     N4 Z5 T1.2 
+0000018 400  VVZ     takes                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000018 410  AT      the                      Z5 
+0000018 420  NN1     viewer                   Q4.3/S2mf C1/S2mf O2 
+0000018 430  II      inside                   Z5 
+0000018 440  JJ      United                   Z3c 
+0000018 450  NN1     Flight                   M5 M1 H2 
+0000018 460  MC      93                       N1 T1.2 T3 T1.3 N3.2 
+0000018 470  CSA     as                       Z5 
+0000018 480  NN2     terrorists               G2.1-/S2mf 
+0000018 490  VV0     begin                    T2+ 
+0000018 500  AT      the                      Z5 
+0000018 510  NN1@    hijacking                G2.1- A9+/G2.2- 
+0000018 511  ,       ,                        
+0000018 520  CC      and                      Z5 
+0000018 530  RR      finally                  N4 
+0000018 540  VVZ     shows                    A10+ S1.1.1 
+0000018 550  AT1     a                        Z5 
+0000018 560  NN1     passenger                M3/S2mf M4/S2mf M5/S2mf 
+0000018 570  VVG     calling                  Q2.2 S1.1.1 Q1.3 S9% 
+0000018 580  APPGE   his                      Z8m 
+0000018 590  NN1     family                   S4c A4.1c 
+0000018 600  TO      to                       Z5 
+0000018 610  VVI     inform                   X2.2+ X2.4 Q2.1 
+0000018 620  PPHO2   them                     Z8mfn 
+0000018 630  IO      of                       Z5 
+0000018 640  AT      the                      Z5 
+0000018 650  JJ      imminent                 T1.1.3 
+0000018 660  NN1     takeover                 S7.1+ 
+0000018 661  .       .                        
+0000019 001  -----   -----                    
+0000020 010  NN1     Advertisement            I2.2/Q2.1 X2.2+ A10+ 
+0000020 020  VV0     Continue                 T2++ 
+0000020 030  VVG     reading                  Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000020 040  AT      the                      Z5 
+0000020 050  JJ      main                     A11.1+ N5+++ 
+0000020 060  NN1     story                    Q2.1 X4.1 Q4 
+0000022 010  NNB     Mr.                      Z1m[i30.2.1 S2.2m 
+0000022 020  NP1     Fogelson                 Z1m[i30.2.2 
+0000022 030  VVD     said                     Q2.1 
+0000022 040  AT      the                      Z5 
+0000022 050  NN1     trailer                  M3 Q4.3 
+0000022 060  VHD     had                      Z5 A9+ A2.2 S4 
+0000022 070  VBN     been                     Z5 A3+ 
+0000022 080  VVN     tested                   P1 B3 X2.4 A12- 
+0000022 090  II      to                       Z5 
+0000022 100  NN1     gauge                    N3.1/O2 N3.1 
+0000022 110  NN2     audiences                K1/S2mfc S2mfc 
+0000022 111  GE      '                        Z5 
+0000022 120  NN1     desire                   X7+ S3.2 
+0000022 130  TO      to                       Z5 
+0000022 140  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000022 150  AT      the                      Z5 
+0000022 160  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
+0000022 161  ,       ,                        
+0000022 170  XX      not                      Z6 
+0000022 180  IF      for                      Z5 
+0000022 190  NN1     taste                    X3.1 O4.2 E2+ X2.2 
+0000022 191  .       .                        
+0000023 001  -----   -----                    
+0000024 010  MC1     One                      N1 T3 T1.2 
+0000024 020  NN1     victim                   A1.1.2/G2.1/S2mf B2-/S2mf 
+0000024 021  GE      's                       Z5 
+0000024 030  NN1     widow                    S4f 
+0000024 040  VVD     said                     Q2.1 
+0000024 050  PPHS1   she                      Z8f 
+0000024 060  VBDZ    was                      A3+ Z5 
+0000024 070  JJ      surprised                X2.6- 
+0000024 080  CST     that                     Z5 Z8 
+0000024 090  AT      the                      Z5 
+0000024 100  NN1     trailer                  M3 Q4.3 
+0000024 110  VHD     had                      Z5 A9+ A2.2 S4 
+0000024 120  VVN     disturbed                X5.1- A2.1+ 
+0000024 130  DD      some                     N5 Z5 
+0000024 140  NN2     moviegoers               Q4.3/S2mf 
+0000024 141  .       .                        
+0000024 142  NULL    <quote>                  
+0000024 143  -----   -----                    
+0000024 144  "       "                        
+0000024 150  PPIS1   I                        Z8mf 
+0000024 160  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000024 170  XX      not                      Z6 
+0000024 180  VVI     anticipate               X2.6+ 
+0000024 190  AT      the                      Z5 
+0000024 200  JJ      general                  N5+ A4.2- 
+0000024 210  NN1     reaction                 A1.1.1 A6.1- B2- Y1 
+0000024 220  CST     that                     Z8 Z5 
+0000024 230  PPIS1   I                        Z8mf 
+0000024 231  VBM     'm                       Z5 A3+ 
+0000024 240  VVG     seeing                   X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000024 241  ,       ,                        
+0000024 242  "       "                        
+0000024 243  NULL    </quote>                 
+0000024 244  -----   -----                    
+0000024 250  VVD     said                     Q2.1 
+0000024 260  NP1     Sandra                   Z1f 
+0000024 270  VVD     Felt                     X2.1 E1 X3 
+0000024 271  ,       ,                        
+0000024 280  DDQGE   whose                    Z8 
+0000024 290  NN1     husband                  S4m 
+0000024 291  ,       ,                        
+0000024 300  NP1     Edward                   Z1m 
+0000024 301  ,       ,                        
+0000024 310  AT1     a                        Z5 
+0000024 320  NN1     software                 Y2/S2mf[i31.2.1 Y2 
+0000024 330  NN1     engineer                 Y2/S2mf[i31.2.2 Y1/I3.2/S2mf 
+0000024 331  ,       ,                        
+0000024 340  VBDZ    was                      A3+ Z5 
+0000024 350  II      on                       Z5 
+0000024 360  JJ      United                   Z2[i32.2.1 Z1mf[i32.2.1 Z3c 
+0000024 370  MC      93                       Z2[i32.2.2 Z1mf[i32.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000024 371  .       .                        
+0000024 372  NULL    <quote>                  
+0000024 373  -----   -----                    
+0000024 374  "       "                        
+0000024 380  CCB     But                      Z5 
+0000024 390  PPIS1   I                        Z4[i33.2.1 Z8mf 
+0000024 400  VV0     think                    Z4[i33.2.2 X2.1 
+0000024 410  IO      of                       Z5 
+0000024 420  PPH1    it                       Z8 
+0000024 430  II      as                       Z5 
+0000024 440  AT1     a                        Z5 
+0000024 450  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000024 460  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
+0000024 461  ;       ;                        
+0000024 470  PPH1    it                       Z8 
+0000024 480  VVZ     creates                  A1.1.1 A2.2 E1 
+0000024 490  NN1     awareness                X2.2+ 
+0000024 500  II      about                    Z5 
+0000024 510  NN1     terrorism                G2.1- 
+0000024 511  .       .                        
+0000024 512  "       "                        
+0000024 513  NULL    </quote>                 
+0000024 514  -----   -----                    
+0000026 010  NNB     Mrs.                     S4f S2.1f 
+0000026 020  VVD     Felt                     X2.1 E1 X3 
+0000026 030  JJ%     said                     Q1.1 Q2.1 
+0000026 040  NN      people                   S2mfc 
+0000026 050  PNQS    who                      Z8 
+0000026 060  VBDR    were                     Z5 A3+ 
+0000026 070  VVN     upset                    E4.1- A2.1+ M2 
+0000026 080  II      by                       Z5 
+0000026 090  AT      the                      Z5 
+0000026 100  NN1     trailer                  M3 Q4.3 
+0000026 110  VM      should                   S6+ A7+ 
+0000026 120  VVI     avoid                    A1.9 M1 
+0000026 130  AT      the                      Z5 
+0000026 140  NN1     movie                    Q4.3 
+0000026 141  .       .                        
+0000026 142  -----   -----                    
+0000026 150  CCB     But                      Z5 
+0000026 160  PPHS1   she                      Z8f 
+0000026 170  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000026 171  :       :                        
+0000026 172  NULL    <quote>                  
+0000026 173  -----   -----                    
+0000026 174  "       "                        
+0000026 180  MF      9/11                     N5 
+0000026 190  VBZ     is                       A3+ Z5 
+0000026 200  AT1     a                        Z5 
+0000026 210  NN1     fact                     A5.2+ X2.2 
+0000026 211  .       .                        
+0000026 212  -----   -----                    
+0000026 220  PPH1    It                       Z8 
+0000026 230  VVD     happened                 A2.1+ A3+ X7- 
+0000026 231  .       .                        
+0000026 232  -----   -----                    
+0000026 240  VVG     Running                  M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000026 250  II21    away                     M6[i34.2.1 
+0000026 260  II22    from                     M6[i34.2.2 Z5 
+0000026 270  AT      the                      Z5 
+0000026 280  NN1     movie                    Q4.3 
+0000026 290  VBZ     is                       Z5 A3+ 
+0000026 291  XX      n't                      Z6 
+0000026 300  VVGK    going                    T1.1.3[i35.2.1 
+0000026 310  TO      to                       T1.1.3[i35.2.2 Z5 
+0000026 320  VVI     resolve                  X6+ X9.2+ 
+0000026 330  JJ      underlying               A10- 
+0000026 340  NN2     factors                  A2.2 A4.1 N2 I2.1/S2mf@ 
+0000026 350  IO      of                       Z5 
+0000026 360  RRQ     why                      A2.2 
+0000026 370  PPIS2   we                       Z8 
+0000026 371  VBR     're                      Z5 A3+ 
+0000026 380  VVN     upset                    E4.1- A2.1+ M2 
+0000026 390  II      by                       Z5 
+0000026 400  PPH1    it                       Z8 
+0000026 401  .       .                        
+0000026 402  "       "                        
+0000026 403  NULL    </quote>                 
+0000028 001  NULL    **8;7;text               

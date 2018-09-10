@@ -1,0 +1,593 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  PPH1    It                       Z8 
+0000002 020  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 030  VBN     been                     Z5 A3+ 
+0000002 040  VVN     reported                 Q2.2 S7.1- 
+0000002 050  RT      today                    T1.1.2 
+0000002 060  CST     that                     Z5 Z8 
+0000002 070  DD      some                     N5 Z5 
+0000002 080  NN2     colleges                 P1/H1c 
+0000002 090  CC      and                      Z5 
+0000002 100  NN2     universities             P1/H1c 
+0000002 110  VBR     are                      Z5 A3+ 
+0000002 120  VVG     refusing                 Q2.2/Z6 S7.4- X7- 
+0000002 130  TO      to                       Z5 
+0000002 140  VVI     accept                   A9+ X2.5+ S1.2.1+ S7.4+ 
+0000002 150  NN2     students                 P1/S2mf 
+0000002 151  ;       ;                        
+0000002 160  XX      not                      Z5[i1.2.1 Z6 
+0000002 170  RR      only                     Z5[i1.2.2 A14 
+0000002 180  VVN     based                    A2.2[i2.2.1 T2+ M6 A2.2 
+0000002 190  II      on                       A2.2[i2.2.2 Z5 
+0000002 200  APPGE   your                     Z8 
+0000002 210  JJ      high                     P1/H1c[i3.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000002 220  NN1     school                   P1/H1c[i3.2.2 P1/H1c S5+c L2%c 
+0000002 230  NN2     grades                   A5.1 A4.1 S7.1 P1c% 
+0000002 231  ,       ,                        
+0000002 240  NN2     transcripts              Q1.2 
+0000002 250  CC      or                       Z5 
+0000002 260  JJ      personal                 S5- S1.2.1+ 
+0000002 270  NN2     statements               Q2.1 I1/Q1.2 
+0000002 271  ,       ,                        
+0000002 280  CCB     but                      Z5 
+0000002 290  VVN     based                    A2.2[i4.2.1 T2+ M6 A2.2 
+0000002 300  II      on                       A2.2[i4.2.2 Z5 
+0000002 310  APPGE   their                    Z8 
+0000002 320  NN1     Facebook                 Z3c/Y2 
+0000002 330  NN1     profile                  B1 Q1.1 
+0000002 331  .       .                        
+0000003 001  -----   -----                    
+0000004 010  PPH1    It                       Z8 
+0000004 011  VBZ     's                       A3+ Z5 
+0000004 020  MC1     one                      T3 N1 T1.2 
+0000004 030  IO      of                       Z5 
+0000004 040  DD2     those                    Z5 Z8 
+0000004 050  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000004 060  PPY     you                      Z8mf 
+0000004 070  VV0     think                    X2.1 
+0000004 080  PPY     you                      Z8mf 
+0000004 090  RR      already                  T1.1.1 
+0000004 100  VVD     knew                     X2.2+ S3.2/B1% 
+0000004 101  ,       ,                        
+0000004 110  CCB     but                      Z5 
+0000004 120  RR      never                    T1/Z6 
+0000004 130  RR@     quite                    A13.5 A13.6 A13.2 
+0000004 140  VVN     believed                 X2.1 S9% 
+0000004 141  .       .                        
+0000005 001  -----   -----                    
+0000006 010  CCB     But                      Z5 
+0000006 020  MC1     one                      N1 T3 T1.2 
+0000006 030  NN1     student                  P1/S2mf 
+0000006 040  VVD     drew                     C1 A9+ 
+0000006 050  AT      the                      Z5 
+0000006 060  JJ      short                    T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
+0000006 070  NN1     straw                    L3 O2 
+0000006 071  ,       ,                        
+0000006 080  CS      when                     Z5 
+0000006 090  AT1     a                        Z5 
+0000006 100  NN1     letter                   Q1.2 Q3 
+0000006 110  VVN     sent                     M2 A2.2 
+0000006 120  II      to                       Z5 
+0000006 130  PPHO1   her                      Z8f 
+0000006 140  VVD     described                Q2.2 
+0000006 150  RRQ     how                      Z5 A13.3 
+0000006 160  APPGE   her                      Z8f 
+0000006 170  NN1     acceptance               A9+ X2.5+ S1.2.1+ S7.4+ 
+0000006 180  VBDZ    was                      Z5 A3+ 
+0000006 190  VVN     refused                  Q2.2/Z6 S7.4- X7- 
+0000006 191  ,       ,                        
+0000006 200  VVN     based                    A2.2[i5.2.1 T2+ M6 A2.2 
+0000006 210  II      on                       A2.2[i5.2.2 Z5 
+0000006 220  AT      the                      Z5 
+0000006 230  NN2     findings                 A10+ X2.1 X6+ 
+0000006 240  IO      of                       Z5 
+0000006 250  AT1     an                       Z5 
+0000006 260  JJ      independent              S5- 
+0000006 270  JJ      consulting               Q2.1 Q1.1/S8+ 
+0000006 280  NN1     firm                     I2.1/S5+c 
+0000006 290  CST     that                     Z5 Z8 
+0000006 300  JJ      gathered                 S5+ A9+ N5+/A2.1 X2.5+ A1.1.1% 
+0000006 310  NN1     information              X2.2+ 
+0000006 320  II      from                     Z5 
+0000006 330  APPGE   her                      Z8f 
+0000006 340  NN1     Facebook                 Z3c/Y2 
+0000006 350  NN1     profile                  B1 Q1.1 
+0000006 351  .       .                        
+0000007 001  -----   -----                    
+0000008 010  NN1     College                  P1/H1c 
+0000008 020  NN1     application              Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000008 030  VVD     denied                   Q2.2/Z6 S7.4- 
+0000010 010  NN2     Colleges                 P1/H1c 
+0000010 020  VBR     are                      Z5 A3+ 
+0000010 030  RR      allegedly                Q2.2/A5.2 
+0000010 040  VVG     using                    A1.5.1 S7.1+ 
+0000010 050  AT1     a                        Z5 
+0000010 060  NN1     firm                     I2.1/S5+c 
+0000010 070  VVD     named                    Q2.2 
+0000010 080  JJ      'Academic                Z99 
+0000010 090  NP1     Profiling                Z1mf[i6.2.1 Z3c[i6.2.1 
+0000010 100  NP1     Facebook                 Z1mf[i6.2.2 Z3c[i6.2.2 Z3c/Y2 
+0000010 110  NN2     Lifestyles               S1.1.1 
+0000010 111  GE      '                        Z5 
+0000010 112  ,       ,                        
+0000010 120  VVN     based                    T2+ M6 A2.2 
+0000010 130  II      in                       Z5 
+0000010 140  NP1     Kansas                   Z99 
+0000010 141  ,       ,                        
+0000010 150  TO      to                       Z5 
+0000010 160  VVI     assess                   X2.4/A5 P1 I1.3 
+0000010 170  AT1     a                        Z5 
+0000010 180  JJ      prospective              X7+ A7+ 
+0000010 190  NN2     students                 P1/S2mf 
+0000010 191  GE      '                        Z5 
+0000010 200  NN1     lifestyle                S1.1.1 
+0000010 210  NN2     choices                  X7+ A6.3+ 
+0000010 220  CC      and                      Z5 
+0000010 230  NN2     misjudgments             Z99 
+0000010 231  ;       ;                        
+0000010 240  DB      all                      N5.1+ 
+0000010 250  IO      of                       Z5 
+0000010 260  DDQ     which                    Z8 Z5 
+0000010 270  VBR     are                      Z5 A3+ 
+0000010 280  RR      often                    N6+ 
+0000010 290  RR      subjectively             Z99 
+0000010 300  VVN     assessed                 X2.4/A5 P1 I1.3 
+0000010 310  VVN     based                    A2.2[i7.2.1 T2+ M6 A2.2 
+0000010 320  II      on                       A2.2[i7.2.2 Z5 
+0000010 330  AT      the                      Z5 
+0000010 340  JJ      thorough                 N5.1+ A1.3+ 
+0000010 350  JJ@     'documented              Z99 
+0000010 360  NN1     evidence'                Z99 
+0000010 370  AT      the                      Z5 
+0000010 380  JJR     younger                  T3-- 
+0000010 390  JJ      generational             T1.3 S5+c 
+0000010 400  NN2     users                    A1.5.1/S2mf 
+0000010 410  RR      often                    N6+ 
+0000010 420  VVN     put                      A1.1.1[i8.2.1 M2[i8.2.1 E2[i8.2.1 H4[i8.2.1 H1[i8.2.1 A9-[i8.2.1 M2 Q2.1 Q2.2 A1.1.1 
+0000010 430  RP      up                       A1.1.1[i8.2.2 M2[i8.2.2 E2[i8.2.2 H4[i8.2.2 H1[i8.2.2 A9-[i8.2.2 
+0000010 440  II      on                       Z5 
+0000010 450  AT      the                      Z5 
+0000010 460  NN1     site                     M7 
+0000010 461  .       .                        
+0000011 001  -----   -----                    
+0000012 010  AT      The                      Z5 
+0000012 020  NN2     profilers                Z99 
+0000012 030  RR      supposedly               X2.1 
+0000012 040  VV0     act                      A1.1.1 T1.1.2 A8 K4 
+0000012 050  CSA     as                       Z5 
+0000012 060  NN2     friends                  S3.1/S2mf 
+0000012 070  CC      and                      Z5 
+0000012 080  VV0     add                      N5+/A2.1 N2 A1.8+ 
+0000012 090  PPX2    themselves               Z8 
+0000012 100  II      to                       Z5 
+0000012 110  JJ      prospective              X7+ A7+ 
+0000012 120  NN2     students                 P1/S2mf 
+0000012 121  GE      '                        Z5 
+0000012 130  NN2     friends                  S3.1/S2mf 
+0000012 140  NN1     list                     Q1.2 N4 M4 
+0000012 141  ,       ,                        
+0000012 150  CC      and                      Z5 
+0000012 160  RR      once                     N6- T1.1.1 
+0000012 170  VVN     accepted                 A9+ X2.5+ S1.2.1+ S7.4+ 
+0000012 180  VH0     have                     A9+ Z5 A2.2 S4 
+0000012 190  JJ      full                     N5.1+ I3.2+ 
+0000012 200  NN1     access                   M1 A9+ A1.1.1 
+0000012 210  II      to                       Z5 
+0000012 220  APPGE   their                    Z8 
+0000012 230  NN1     profile                  B1 Q1.1 
+0000012 231  .       .                        
+0000012 232  -----   -----                    
+0000012 240  MC1     One                      N1 T3 T1.2 
+0000012 250  IO      of                       Z5 
+0000012 260  AT      the                      Z5 
+0000012 270  NN2     reasons                  A2.2 X2.1 
+0000012 280  IF      for                      Z5 
+0000012 290  DD1     this                     Z8 M6 Z5 
+0000012 300  VBZ     is                       A3+ Z5 
+0000012 310  II      to                       Z5 
+0000012 311  NULL    <quote>                  
+0000012 312  -----   -----                    
+0000012 313  "       "                        
+0000012 320  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000012 330  CST     that                     Z5 Z8 
+0000012 340  NN2     students                 P1/S2mf 
+0000012 350  VVN     admitted                 Q2.2 B3 A1.8+ S7.4+/M1 
+0000012 360  II      to                       Z5 
+0000012 370  APPGE   their                    Z8 
+0000012 380  NN1     school                   P1/H1c S5+c L2%c 
+0000012 390  VV0     speak                    Q2.1 
+0000012 400  RR      intelligently            S1.2.6+ 
+0000012 410  II21    outside                  M6[i9.2.1 A1.8-[i9.2.1 Z5 
+0000012 420  II22    of                       M6[i9.2.2 A1.8-[i9.2.2 
+0000012 430  AT      the                      Z5 
+0000012 440  NN1     classroom                P1/H2 
+0000012 441  ,       ,                        
+0000012 450  II31    as                       N5++[i10.2.1 Z5 
+0000012 460  II32    well                     N5++[i10.2.2 
+0000012 470  II33    as                       Z5 
+0000012 480  RL@     within                   M6 
+0000012 490  PPH1    it                       Z8 
+0000012 491  "       "                        
+0000012 492  NULL    </quote>                 
+0000012 493  -----   -----                    
+0000012 494  .       .                        
+0000013 001  -----   -----                    
+0000014 010  CCB     But                      Z5 
+0000014 020  IW      with                     Z5 
+0000014 030  JJ      increased                N5+/A2.1 
+0000014 040  NN1     competition              K1 S7.3+ 
+0000014 050  IF      for                      Z5 
+0000014 060  NN2     scholarships             I1 P1 
+0000014 070  IF      for                      Z5 
+0000014 080  JJ      lesser                   N3.2- 
+0000014 090  RR      socioeconomically        Z99 
+0000014 100  JJ      viable                   A7+ L1% 
+0000014 110  NN2     students                 P1/S2mf 
+0000014 111  ,       ,                        
+0000014 120  AT      the                      Z5 
+0000014 130  NN1     need                     S6+ 
+0000014 140  IF      for                      Z5 
+0000014 150  AT      the                      Z5 
+0000014 160  JJT     brightest                O4.3 X9.1+++ 
+0000014 170  CC      and                      Z5 
+0000014 180  JJT     smartest                 O4.2+++ X9.1+++ S1.2.6+++ 
+0000014 190  VBZ     is                       A3+ Z5 
+0000014 200  JJ      necessary                S6+ A11.1+ 
+0000014 210  TO      to                       Z5 
+0000014 220  VVI     vet                      X2.4 
+0000014 230  RP      out                      M6 
+0000014 240  AT      the                      Z5 
+0000014 250  JJR     weaker                   S1.2.5-- O4.1 S7.1-- A5.1-- 
+0000014 260  NN2     students                 P1/S2mf 
+0000014 270  II      from                     Z5 
+0000014 280  AT      the                      Z5 
+0000014 290  RGR     more                     A13.3 
+0000014 300  RR      academically             P1/E2+[i11.2.1 P1 
+0000014 310  VVN     minded                   P1/E2+[i11.2.2 E6+ E2- S8+ A1.3 
+0000014 311  .       .                        
+0000015 001  -----   -----                    
+0000016 010  RR      Yet                      T1.1.2 
+0000016 011  ,       ,                        
+0000016 020  DD1     this                     Z8 M6 Z5 
+0000016 030  VBZ     is                       A3+ Z5 
+0000016 040  XX      not                      Z6 
+0000016 050  AT      the                      Z5 
+0000016 060  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000016 070  TO      to                       Z5 
+0000016 080  VVI     go                       A1.1.1[i12.2.1 M1[i12.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000016 090  II      about                    A1.1.1[i12.2.2 M1[i12.2.2 Z5 
+0000016 100  PPH1    it                       Z8 
+0000016 101  .       .                        
+0000016 102  -----   -----                    
+0000016 110  PPH1    It                       Z8 
+0000016 111  VBZ     's                       A3+ Z5 
+0000016 120  JJ      unethical                G2.2- 
+0000016 121  ,       ,                        
+0000016 130  CC      and                      Z5 
+0000016 140  PN1     nothing                  Z6/Z8 
+0000016 150  JJ      short                    N5-[i13.2.1 T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
+0000016 160  IO      of                       N5-[i13.2.2 Z5 
+0000016 170  NN1     spying                   X2.4 
+0000016 171  .       .                        
+0000016 172  -----   -----                    
+0000016 180  PPH1    It                       Z8 
+0000016 181  VBZ     's                       A3+ Z5 
+0000016 190  AT1     a                        Z5 
+0000016 200  JJ      deplorable               O4.2- 
+0000016 210  NN1     act                      A1.1.1 K4 A5.4- G2.1 P1% 
+0000016 220  IO      of                       Z5 
+0000016 230  NN1     invasion                 G3 X7- N5+ 
+0000016 240  IO      of                       Z5 
+0000016 250  PN1     one                      Z8 
+0000016 251  GE      's                       Z5 
+0000016 260  NN1     privacy                  A10- 
+0000016 261  .       .                        
+0000017 001  -----   -----                    
+0000018 010  CCB     But                      Z5 
+0000018 020  RR      ultimately               N4 Z4 
+0000018 021  ,       ,                        
+0000018 030  NN2     students                 P1/S2mf 
+0000018 040  VBR     are                      Z5 A3+ 
+0000018 050  VVN     stuck                    M2 A1.1.1 A1.7+ T2- E2+ X2.2- 
+0000018 060  II      between                  Z5 
+0000018 070  AT1     a                        Z5 
+0000018 080  NN1     rock                     O2 O1.1 K2 F1 
+0000018 090  CC      and                      Z5 
+0000018 100  AT1     a                        Z5 
+0000018 110  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
+0000018 120  NN1     place                    M7 H1 A1.2 P1 
+0000018 121  .       .                        
+0000018 122  -----   -----                    
+0000018 130  VM      Would                    A7+ 
+0000018 140  PPY     you                      Z8mf 
+0000018 150  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
+0000018 160  TO      to                       Z5 
+0000018 170  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000018 180  II      to                       Z5 
+0000018 190  AT1     a                        Z5 
+0000018 200  NN1     university               P1/H1c 
+0000018 210  DDQ     which                    Z8 Z5 
+0000018 220  VVD     spied                    X2.4 
+0000018 230  II      on                       Z5 
+0000018 240  PPY     you                      Z8mf 
+0000018 241  ?       ?                        
+0000018 242  -----   -----                    
+0000018 250  RR      Maybe                    A7 
+0000018 260  XX      not                      Z6 
+0000018 261  ,       ,                        
+0000018 270  CCB     but                      Z5 
+0000018 280  RR      arguably                 Q2.1/A5 
+0000018 281  ,       ,                        
+0000018 290  CS      if                       Z7 
+0000018 300  PPH1    it                       Z8 
+0000018 301  VBZ     's                       A3+ Z5 
+0000018 310  NP1     Harvard                  Z1mf Z3c 
+0000018 311  ,       ,                        
+0000018 320  NP1     Yale                     Z3c 
+0000018 321  ,       ,                        
+0000018 330  NP1     Oxford                   Z2 Z1mf Z3/P1 
+0000018 340  CC      or                       Z5 
+0000018 350  NP1     Cambridge                Z2 
+0000018 351  ,       ,                        
+0000018 360  VVG     leaving                  M1 M2 A1.1.1 A1.9 A9- T2- 
+0000018 370  IW      with                     Z5 
+0000018 380  AT1     a                        Z5 
+0000018 390  NN1     degree                   A13.1 N3.1 N3.2 N5 P1 
+0000018 400  II      from                     Z5 
+0000018 410  MC1     one                      N1 T3 T1.2 
+0000018 420  IO      of                       Z5 
+0000018 430  DD2     these                    Z5 Z8 
+0000018 440  NN2     institutions             S5+c S7.1+ H1c S1.1.1 T2+ 
+0000018 450  VM      could                    A7+ 
+0000018 460  VVI     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000018 470  PN1     one                      Z8 
+0000018 480  RP      up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
+0000018 490  IF      for                      Z5 
+0000018 500  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000018 501  .       .                        
+0000019 001  -----   -----                    
+0000020 010  NN2     Students                 P1/S2mf 
+0000020 020  PNQS    who                      Z8 
+0000020 030  VBR     are                      A3+ Z5 
+0000020 040  RG      quite                    A13.5 A13.6 A13.2 
+0000020 050  RR      literally                A13.2 Q3 
+0000020 060  MC      one-hundred              T3 N1 T1.2 T1.3 N3.2 
+0000020 070  NNU     percent                  N5 
+0000020 080  VVN     dedicated                Q2.2 A9- 
+0000020 090  II      to                       Z5 
+0000020 100  APPGE   their                    Z8 
+0000020 110  NN1     college                  P1/H1[i14.2.1 P1/H1c 
+0000020 120  NN1     work                     P1/H1[i14.2.2 I3.1 A1.1.1 Q4 K2 C1 
+0000020 121  ,       ,                        
+0000020 130  VM      can                      A7+ 
+0000020 131  XX      not                      Z6 
+0000020 140  VBI     be                       Z5 A3+ 
+0000020 150  VVN     considered               X2.1 X2.4 X6 
+0000020 160  JJ      'true'                   Z99 
+0000020 170  NN2     students                 P1/S2mf 
+0000020 171  .       .                        
+0000020 172  -----   -----                    
+0000020 180  NN1     College                  P1/H1c 
+0000020 190  VBZ     is                       A3+ Z5 
+0000020 200  II      about                    Z5 
+0000020 210  VVG     meeting                  S3.1 M6 A1.1.1 X9.2+ A6.1+ 
+0000020 220  NN      people                   S2mfc 
+0000020 221  ,       ,                        
+0000020 230  VHG     having                   A9+ Z5 A2.2 S4 
+0000020 240  NN1     fun                      E4.1+ 
+0000020 241  ,       ,                        
+0000020 250  NN1     socialization            Z99 
+0000020 260  CC      and                      Z5 
+0000020 270  NN1     questioning              Q2.2 
+0000020 271  ,       ,                        
+0000020 280  VVG     finding                  A10+ X2.1 X6+ 
+0000020 290  NN2     values                   A11.1+ I1.3 G2.2 A4.1 N1 
+0000020 300  PPY     you                      Z8mf 
+0000020 310  RR      never                    T1/Z6 
+0000020 320  VVD     thought                  X2.1 
+0000020 330  PPY     you                      Z8mf 
+0000020 340  VHD     had                      A9+ Z5 A2.2 S4 
+0000020 341  ,       ,                        
+0000020 350  CC      and                      Z5 
+0000020 360  NN1     politicization           Z99 
+0000020 361  .       .                        
+0000020 362  -----   -----                    
+0000020 370  PPH1    It                       Z8 
+0000020 380  VBZ     is                       A3+ Z5 
+0000020 381  XX      n't                      Z6 
+0000020 390  RR      simply                   A13.6 A14 A12+ 
+0000020 400  II      about                    Z5 
+0000020 410  AT      the                      Z5 
+0000020 420  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
+0000020 421  ,       ,                        
+0000020 430  CS      though                   Z5 
+0000020 440  PPH1    it                       Z8 
+0000020 450  VM      should                   S6+ A7+ 
+0000020 460  RR21    of                       Z4[i15.2.1 
+0000020 470  RR22    course                   Z4[i15.2.2 Z4 
+0000020 480  VBI     be                       A3+ Z5 
+0000020 490  AT1     a                        Z5 
+0000020 500  NN1     priority                 A11.1+ 
+0000020 501  .       .                        
+0000021 001  -----   -----                    
+0000022 010  MC1     One                      N1 T3 T1.2 
+0000022 020  JJ      wise                     S1.2.6+ X9.1+ 
+0000022 030  NN1     soul                     S9 E1 S2mf K2 
+0000022 040  RR      once                     N6- T1.1.1 
+0000022 050  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000022 060  PPIO1   me                       Z8mf 
+0000022 061  ,       ,                        
+0000022 062  NULL    <quote>                  
+0000022 063  -----   -----                    
+0000022 064  "       "                        
+0000022 070  NN1     university               P1/H1c 
+0000022 080  VBZ     is                       A3+ Z5 
+0000022 090  AT      the                      Z5 
+0000022 100  NN1     place                    M7 H1 A1.2 P1 
+0000022 110  PPY     you                      Z8mf 
+0000022 120  VV0     meet                     S3.1 M6 A1.1.1 X9.2+ A6.1+ 
+0000022 130  APPGE   your                     Z8 
+0000022 140  JJ      future                   T1.1.3 
+0000022 150  NN1     husband                  S4m 
+0000022 160  CC      or                       Z5 
+0000022 170  NN1     wife                     S4f 
+0000022 171  ,       ,                        
+0000022 180  CC      or                       Z5 
+0000022 190  RR      both                     Z5 
+0000022 191  "       "                        
+0000022 192  NULL    </quote>                 
+0000022 193  -----   -----                    
+0000022 194  .       .                        
+0000023 001  -----   -----                    
+0000024 010  AT1     A                        Z5 
+0000024 020  NN1     degree                   A13.1 N3.1 N3.2 N5 P1 
+0000024 030  VBZ     is                       A3+ Z5 
+0000024 040  AT1     a                        Z5 
+0000024 050  NN1     degree                   A13.1 N3.1 N3.2 N5 P1 
+0000024 051  ,       ,                        
+0000024 060  CCB     but                      Z5 
+0000024 070  PPH1    it                       Z8 
+0000024 080  VBZ     is                       A3+ Z5 
+0000024 090  RR21    once                     Z4[i16.2.1 N6+[i16.2.1 N6- T1.1.1 
+0000024 100  RR22    again                    Z4[i16.2.2 N6+[i16.2.2 
+0000024 110  AT1     a                        Z5 
+0000024 120  NN1     reminder                 X4.1 
+0000024 130  II      to                       Z5 
+0000024 140  DB      all                      N5.1+ 
+0000024 150  DD2     those                    Z5 Z8 
+0000024 160  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000024 170  IO      of                       Z5 
+0000024 180  AT      the                      Z5 
+0000024 190  JJR     younger                  T3-- 
+0000024 200  NN1     generation               T1.3 S5+c 
+0000024 201  .       .                        
+0000024 202  -----   -----                    
+0000024 210  CS@     Once                     Z5 
+0000024 220  PPY     you                      Z8mf 
+0000024 230  VV0     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000024 240  PN1     something                Z8 
+0000024 250  RR      online                   Y2 
+0000024 251  ,       ,                        
+0000024 260  PPY     you                      Z8mf 
+0000024 270  VM      can                      A7+ 
+0000024 280  RR      never                    T1/Z6 
+0000024 290  VVI     take                     M2[i17.2.1 Q1.2[i17.2.1 A5.1-/A2.1[i17.2.1 N5-/A2.1[i17.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000024 300  PPH1    it                       Z8 
+0000024 310  RP      down                     M2[i17.2.2 Q1.2[i17.2.2 A5.1-/A2.1[i17.2.2 N5-/A2.1[i17.2.2 
+0000024 320  RT      again                    N6+ Z4 
+0000024 321  .       .                        
+0000025 001  -----   -----                    
+0000026 010  NN2     Colleges                 P1/H1c 
+0000026 020  VM      should                   S6+ A7+ 
+0000026 030  RR      seriously                A13.3 Z4 E4.1- 
+0000026 040  VVI     re-think                 Z99 
+0000026 050  DD1     this                     M6 Z5 Z8 
+0000026 060  NN1     policy                   X7+ Q1.2 
+0000026 070  II      on                       Z5 
+0000026 080  JJ      'vetting'                Z99 
+0000026 090  NN2     students                 P1/S2mf 
+0000026 100  II      in                       Z5 
+0000026 110  DD1     this                     M6 Z5 Z8 
+0000026 120  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000026 121  .       .                        
+0000026 122  -----   -----                    
+0000026 130  RR      Surely                   A7+ 
+0000026 140  NN1     character                S2mf K4/S2mf S1.2 S2mf/A6.2- Q1.2 A4.1 O4.2+ 
+0000026 150  VBZ     is                       A3+ Z5 
+0000026 160  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000026 170  RG      as                       A13 
+0000026 180  JJ      important                A11.1+ 
+0000026 190  CSA     as                       Z5 
+0000026 200  NN1     knowledge                X2.2+ S3.2/B1% 
+0000026 210  CC      and                      Z5 
+0000026 220  AT      the                      Z5 
+0000026 230  NN1     ability                  X9.1+ 
+0000026 240  TO      to                       Z5 
+0000026 250  VVI     apply                    Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+ 
+0000026 260  PNX1    oneself                  Z8 
+0000026 261  ?       ?                        
+0000027 001  -----   -----                    
+0000028 010  PPIS1   I                        Z4[i18.2.1 Z8mf 
+0000028 020  VV0     agree                    Z4[i18.2.2 A6.1+ Q2.2 
+0000028 021  ,       ,                        
+0000028 030  CSA     as                       Z5 
+0000028 040  PPIS1   I                        Z8mf 
+0000028 041  VBM     'm                       A3+ Z5 
+0000028 050  JJ      sure                     A7+ Z4 
+0000028 060  DA2     many                     N5+ 
+0000028 070  NN2     others                   A6.1-/Z8 
+0000028 080  VM      will                     T1.1.3 
+0000028 081  ,       ,                        
+0000028 090  DD1     that                     Z8 Z5 
+0000028 100  VVG     vetting                  X2.4 
+0000028 110  AT1     a                        Z5 
+0000028 120  JJ      prospective              X7+ A7+ 
+0000028 130  NN1     student                  P1/S2mf 
+0000028 140  IF      for                      Z5 
+0000028 150  AT1     an                       Z5 
+0000028 160  JJ      academic                 P1 A1.6 
+0000028 170  NN1     programme                X7+ Q4.3 Q1.2 Y2 P1 
+0000028 180  VBZ     is                       A3+ Z5 
+0000028 190  JJ      important                A11.1+ 
+0000028 191  ,       ,                        
+0000028 200  TO      to                       Z5 
+0000028 210  VVI     ensure                   A7+ 
+0000028 220  DD1     that                     Z5 Z8 
+0000028 230  NN1     money                    I1 
+0000028 240  CC      and                      Z5 
+0000028 250  NN2     resources                A9+ W3 
+0000028 260  VBR     are                      Z5 A3+ 
+0000028 270  XX      not                      Z6 
+0000028 280  VBG     being                    Z5 A3+ 
+0000028 290  VVN     wasted                   N5.2+ X9.2- N3.2-/A2.1 
+0000028 300  II      on                       Z5 
+0000028 310  PN1     someone                  Z8mfc 
+0000028 311  ,       ,                        
+0000028 320  CSA     as                       Z5 
+0000028 330  NN2     students                 P1/S2mf 
+0000028 340  VBR     are                      A3+ Z5 
+0000028 350  RR      ultimately               N4 Z4 
+0000028 360  AT1     an                       Z5 
+0000028 370  NN1     investment               I1.1 
+0000028 380  IF      for                      Z5 
+0000028 390  AT      the                      Z5 
+0000028 400  NN1     university               P1/H1c 
+0000028 410  CST     that                     Z8 Z5 
+0000028 420  VV0     teach                    P1 
+0000028 430  PPHO2   them                     Z8mfn 
+0000028 431  .       .                        
+0000028 432  -----   -----                    
+0000028 440  CCB     But                      Z5 
+0000028 450  RR      surely                   A7+ 
+0000028 460  AT1     an                       Z5 
+0000028 470  NN1     entry                    M7 Q1.2 S7.3 M1 T2+ 
+0000028 480  NN1     test                     P1 B3 X2.4 K5.1@ 
+0000028 490  CC      or                       Z5 
+0000028 500  DD      some                     N5 Z5 
+0000028 510  NN1     form                     A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@ 
+0000028 520  IO      of                       Z5 
+0000028 530  JJ@     written                  Q1.2 
+0000028 540  NN1     exam                     P1 B3% X2.4% 
+0000028 550  VBZ     is                       A3+ Z5 
+0000028 560  RG      far                      N3.3+ A13.3 X9.2+ 
+0000028 570  RGR     more                     A13.3 
+0000028 580  JJ      appropriate              A1.2+ 
+0000028 581  -       -                        
+0000028 590  RR      even                     A13.1 
+0000028 600  JJ      psychometric             Z99 
+0000028 610  NN2     tests                    P1 B3 X2.4 K5.1@ 
+0000028 611  -       -                        
+0000028 620  VBR     are                      A3+ Z5 
+0000028 630  RRR     better                   A5.1++ G2.2++ O4.2++ 
+0000028 640  CSN     than                     Z5 
+0000028 650  AT      the                      Z5 
+0000028 660  JJ      direct                   M6 O4.4 N3.8+ S1.2 A10+ S1.1.1 
+0000028 670  NN1     invasion                 G3 X7- N5+ 
+0000028 680  IO      of                       Z5 
+0000028 690  PN1     one                      Z8 
+0000028 691  GE      's                       Z5 
+0000028 700  JJ      private                  A10- S5- G1.1- 
+0000028 710  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000028 711  ?       ?                        
+0000031 001  NULL    **8;7;text               

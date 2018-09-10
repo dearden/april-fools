@@ -1,0 +1,449 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  RR      Right                    Z4 A5.3+ A4.2+ M6 A13.3 A13.2 
+0000002 020  II      after                    Z5 
+0000002 030  NP1     Donald                   Z1mf[i1.2.1 Z3c[i1.2.1 Z1mf 
+0000002 040  NN1     Trump                    Z1mf[i1.2.2 Z3c[i1.2.2 Z1mf 
+0000002 050  VVD     won                      S7.1+ A9+ 
+0000002 060  AT      the                      Z5 
+0000002 070  NN1     primary                  G1.2 P1 B2- 
+0000002 080  CC      and                      Z5 
+0000002 090  NN1     caucus                   Z99 
+0000002 100  NN1     voting                   G1.2 
+0000002 110  II      on                       Z5 
+0000002 120  NPD1    Tuesday                  T1.3[i2.2.1 T1.3 
+0000002 130  NNT1    night                    T1.3[i2.2.2 T1.3 
+0000002 131  ,       ,                        
+0000002 140  NP1     Donald                   Z1mf[i3.2.1 Z3c[i3.2.1 Z1mf 
+0000002 150  NN1     Trump                    Z1mf[i3.2.2 Z3c[i3.2.2 Z1mf 
+0000002 160  VVD     delivered                M2 Q2.1 X9.2+ B3 S9% 
+0000002 170  AT1     a                        Z5 
+0000002 180  NN1     victory                  X9.2+ 
+0000002 190  NN1     speech                   Q2.1 Q3 
+0000002 200  CS      where                    M6 
+0000002 210  PPHS1   he                       Z8m 
+0000002 220  VVD     made                     X8+[i4.3.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000002 230  AT1     an                       X8+[i4.3.2 Z5 
+0000002 240  NN1     effort                   X8+[i4.3.3 X8+ O2 
+0000002 250  TO      to                       Z5 
+0000002 260  VVI     reach                    M1[i5.2.1 S1.1.1[i5.2.1 M1 N3.3 Q2.1 X9.2+ 
+0000002 270  RP      out                      M1[i5.2.2 S1.1.1[i5.2.2 M6 
+0000002 280  II      to                       Z5 
+0000002 290  NN2     voters                   G1.2/S2mf 
+0000002 300  CST     that                     Z8 Z5 
+0000002 310  VVD     supported                S8+ A1.1.1 K5.1 I1.1 A10+ 
+0000002 320  JJ      other                    A6.1- 
+0000002 330  NN2     candidates               G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
+0000002 331  .       .                        
+0000002 332  -----   -----                    
+0000002 340  PPHS1   He                       Z8m 
+0000002 350  RR      especially               A14 
+0000002 360  VVD     targeted                 X7+ 
+0000002 370  NP1     Bernie                   Z1mf[i6.2.1 Z3c[i6.2.1 
+0000002 380  NP1     Sanders                  Z1mf[i6.2.2 Z3c[i6.2.2 Z3/S2mf[i7.2.1 
+0000002 390  NN2     supporters               S8+/S2mf K5.1/S2mf Q1.1% Z3/S2mf[i7.2.2 
+0000002 391  .       .                        
+0000003 001  -----   -----                    
+0000004 010  II      TO                       Z5 
+0000004 020  DD2     THOSE                    Z5 Z8 
+0000004 030  PNQS@   WHO                      Z8 
+0000004 040  VVD     VOTED                    G1.2 
+0000004 050  IF      FOR                      Z5 
+0000004 060  PN1     SOMEONE                  Z8mfc 
+0000004 070  RR      ELSE                     A6.1- Z4 
+0000004 071  ,       ,                        
+0000004 080  II      IN                       Z5 
+0000004 090  DD1     EITHER                   Z5 Z8 
+0000004 100  NN1     PARTY                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000004 101  ,       ,                        
+0000004 110  PPIS1   I                        Z8mf 
+0000004 120  VM      WILL                     Z1m 
+0000004 130  VVI     WORK                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000004 140  JJ      HARD                     O4.5 A12- S1.2.5+ O4.1 
+0000004 150  TO      TO                       Z5 
+0000004 160  VVI     EARN                     A9+/I1 S1.1.4+ 
+0000004 170  APPGE   YOUR                     Z8 
+0000004 180  NN1     SUPPORT                  S8+ O2 I1.1 B5% 
+0000004 181  ,       ,                        
+0000004 190  CC      AND                      Z5 
+0000004 200  PPIS1   I                        Z8mf 
+0000004 210  VM      WILL                     Z1m 
+0000004 220  VVI     WORK                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000004 230  RG      VERY                     A13.3 
+0000004 240  JJ      HARD                     O4.5 A12- S1.2.5+ O4.1 
+0000004 250  TO      TO                       Z5 
+0000004 260  VVI     EARN                     A9+/I1 S1.1.4+ 
+0000004 270  DD1     THAT                     Z5 Z8 
+0000004 280  NN1     SUPPORT                  S8+ O2 I1.1 B5% 
+0000004 281  ,       ,                        
+0000004 290  NN1     TRUMP                    Z1mf 
+0000004 300  VVD     DECLARED                 Z99 
+0000004 301  .       .                        
+0000005 001  -----   -----                    
+0000006 010  II      TO                       Z5 
+0000006 020  DB      ALL                      N5.1+ 
+0000006 030  IO      OF                       Z5 
+0000006 040  DD2     THOSE                    Z5 Z8 
+0000006 050  NP1     BERNIE                   Z1mf[i8.2.1 Z3c[i8.2.1 
+0000006 060  NP1     SANDERS                  Z1mf[i8.2.2 Z3c[i8.2.2 
+0000006 070  NN2     VOTERS                   G1.2/S2mf 
+0000006 080  PNQS@   WHO                      Z8 
+0000006 090  VH0     HAVE                     Z5 A9+ A2.2 S4 
+0000006 100  VBN     BEEN                     Z5 A3+ 
+0000006 110  VVN     LEFT                     A1.8-[i9.2.1 M1 M2 A1.1.1 A1.9 A9- N5.2+ T2- 
+0000006 120  RP      OUT                      A1.8-[i9.2.2 M6 
+0000006 130  II      IN                       Z5 
+0000006 140  AT      THE                      Z5 
+0000006 150  NN1     COLD                     B2- O4.6- 
+0000006 160  II      BY                       Z5 
+0000006 170  ZZ1     A                        Z5 
+0000006 180  VVD     RIGGED                   G2.2- M4 A1.1.1 
+0000006 190  NN1     SYSTEM                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000006 200  IO      OF                       Z5 
+0000006 210  NP2     SUPERDELEGATES           Z99 
+0000006 211  ,       ,                        
+0000006 220  PPIS2   WE                       Z8 
+0000006 230  VV0     WELCOME                  Q2.2 S1.1.1 
+0000006 240  PPY     YOU                      Z8mf 
+0000006 250  IW      WITH                     Z5 
+0000006 260  JJ      OPEN                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000006 270  NN2     ARMS                     B1 S5+ G3 O2 B5 
+0000006 271  ,       ,                        
+0000006 280  PPHS1   HE                       Z8m 
+0000006 290  VVD@    PROCLAIMED               Q2.2 
+0000008 010  NN1     Trump                    Z1mf 
+0000008 020  RT      then                     N4 Z5 T1.2 
+0000008 030  VVD     mentioned                Q2.1 
+0000008 040  DB      all                      N5.1+ 
+0000008 050  AT      the                      Z5 
+0000008 060  JJ      terrible                 A5.1- 
+0000008 070  NN2     deals                    N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
+0000008 080  CST     that                     Z5 Z8 
+0000008 090  NP1     Sanders                  Z99 
+0000008 100  VHZ     has                      Z5 A9+ A2.2 S4 
+0000008 110  VBN     been                     Z5 A3+ 
+0000008 120  VVG     shouting                 Q2.2/X3.2++ 
+0000008 130  RP@     about                    Z5 M6 
+0000008 140  CS      since                    Z5 
+0000008 150  PPHS1   he                       Z8m 
+0000008 160  VVD     announced                Q2.2 
+0000008 170  APPGE   his                      Z8m 
+0000008 180  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000008 181  .       .                        
+0000008 182  -----   -----                    
+0000008 190  PPHS1   He                       Z8m 
+0000008 200  VVD     said                     Q2.1 
+0000008 210  CST     that                     Z8 Z5 
+0000008 220  PPHS1   he                       Z8m 
+0000008 230  VM      would                    A7+ 
+0000008 240  VVI     get                      A9-[i10.2.1 A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000008 250  VVN     rid                      A9-[i10.2.2 A9- 
+0000008 260  IO      of                       Z5 
+0000008 270  DD2     those                    Z5 Z8 
+0000008 280  NN2     deals                    N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
+0000008 290  BCL21   in                       Z5[i11.3.1 Z5[i12.2.1 
+0000008 300  BCL22   order                    Z5[i11.3.2 Z5[i12.2.2 
+0000008 310  TO      to                       Z5[i11.3.3 Z5 
+0000008 320  VVI     protect                  S8+/A15+ A10- 
+0000008 330  JJ      American                 Z2 
+0000008 340  NN2     workers                  I3.1/S2mf 
+0000008 341  .       .                        
+0000008 342  -----   -----                    
+0000008 350  DD1     This                     Z8 M6 Z5 
+0000008 360  VBZ     is                       A3+ Z5 
+0000008 370  RRQ     how                      Z5 A13.3 
+0000008 380  NN1     Trump                    Z1mf 
+0000008 390  VM      will                     T1.1.3 
+0000008 400  VVI     save                     I1.1 B3 A9+ S8+ A1.9 K5.1 S9 
+0000008 410  NP1     America                  Z2 
+0000008 411  .       .                        
+0000008 412  -----   -----                    
+0000008 420  PPHS1   He                       Z8m 
+0000008 430  VM      will                     T1.1.3 
+0000008 440  XX      not                      Z6 
+0000008 450  VVI     sell                     I2.2 
+0000008 460  PPIO2   us                       Z8 
+0000008 470  RP      out                      M6 
+0000008 471  .       .                        
+0000009 001  -----   -----                    
+0000011 010  AT      The                      Z5 
+0000011 020  NN      media                    Q4c 
+0000011 030  VHZ     has                      Z5 A9+ A2.2 S4 
+0000011 040  VVN     worked                   I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000011 050  RR      hard                     O4.1 X8+ X5.2+ N5+ A12- 
+0000011 060  TO      to                       Z5 
+0000011 070  VVI     stop                     T2- S8- M8 H4 A1.1.1@ 
+0000011 080  NN      people                   S2mfc 
+0000011 090  II      from                     Z5 
+0000011 100  VVG     seeing                   X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000011 110  DDQ     what                     Z8 Z5 
+0000011 120  VHZ     has                      Z5 A9+ A2.2 S4 
+0000011 130  VBN     been                     Z5 A3+ 
+0000011 140  VVG     happening                A2.1+ A3+ X7- 
+0000011 141  ,       ,                        
+0000011 150  NN1     Trump                    Z1mf 
+0000011 160  VHZ     has                      Z5 A9+ A2.2 S4 
+0000011 170  VBN     been                     Z5 A3+ 
+0000011 180  VVG     pulling                  M2 A9+ M1 
+0000011 190  AT      the                      Z5 
+0000011 200  JJ      disillusioned            E4.2- 
+0000011 210  NN2     Democrats                Z3c 
+0000011 220  CST     that                     Z8 Z5 
+0000011 230  VH0     have                     Z5 A9+ A2.2 S4 
+0000011 240  RR      already                  T1.1.1 
+0000011 250  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000011 260  AT      the                      Z5 
+0000011 270  NN1     light                    W2 O3/W2 M3 O4.6+ X4.1 E1 
+0000011 271  .       .                        
+0000011 272  -----   -----                    
+0000011 280  PPHS2   They                     Z8mfn 
+0000011 290  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000011 300  CST     that                     Z5 Z8 
+0000011 310  AT      the                      Z5 
+0000011 320  NP1     America                  Z2 
+0000011 330  VBZ     is                       Z5 A3+ 
+0000011 340  VVG     getting                  A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000011 350  VVN     crapped                  B1 
+0000011 360  RP@     on                       M6 A1.1.1 
+0000011 370  II      by                       Z5 
+0000011 380  AT      the                      Z5 
+0000011 390  NN1     rest                     E3+ K1 T2-/T1.3 O2 N5.1- 
+0000011 400  IO      of                       Z5 
+0000011 410  AT      the                      Z5 
+0000011 420  NN1     world                    W1 S5+c A4.1 N5+ 
+0000011 421  .       .                        
+0000012 001  -----   -----                    
+0000013 010  FO      ***                      Z99 
+0000013 020  APPGE   Its                      Z8 
+0000013 030  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000013 040  TO      to                       Z5 
+0000013 050  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000013 060  CST     that                     Z8 Z5 
+0000013 070  RR      even                     A13.1 
+0000013 080  VV0     hardcore                 S5+c/X5.2+ S3.2 K2 M3 
+0000013 090  NN2     Democrats                Z3c 
+0000013 100  VV0     hate                     E2- 
+0000013 110  NP1     Hillary                  Z1mf[i13.2.1 Z3c[i13.2.1 
+0000013 120  NP1     Clinton                  Z1mf[i13.2.2 Z3c[i13.2.2 Z1mf 
+0000013 130  RG      as                       A13.4[i14.3.1 A13 
+0000013 140  DA1     much                     A13.4[i14.3.2 N5+ I1.3+ 
+0000013 150  CSA     as                       A13.4[i14.3.3 Z5 
+0000013 160  NN1     Trump                    Z1mf 
+0000013 170  NN1     Nation                   G1.1c S5+c 
+0000013 180  VDZ     does                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000013 181  .       .                        
+0000014 001  -----   -----                    
+0000014 010  MC1     One                      N1 T3 T1.2 
+0000014 020  NP1     Bernie                   Z3/S2mf[i15.2.1 
+0000014 030  NN1     Supporter                Z3/S2mf[i15.2.2 S8+/S2mf K5.1/S2mf Q1.1% 
+0000014 040  VVD     named                    Q2.2 
+0000014 050  NP1     Juanita                  Z1mf[i16.2.1 Z3c[i16.2.1 Z1f 
+0000014 060  NP1     Mae                      Z1mf[i16.2.2 Z3c[i16.2.2 Z1f 
+0000014 070  NN1     Ish                      Z99 
+0000014 080  NP1     Poloskey                 Z99 
+0000014 090  VVD     wrote                    Q1.2 I2.1 
+0000014 100  AT      the                      Z5 
+0000014 110  JJ      following                N4 
+0000014 120  II      on                       Z5 
+0000014 130  NP1     Facebook                 Z3c/Y2 
+0000014 131  :       :                        
+0000016 010  JJ      SUPER                    A5.1+ 
+0000016 011  !       !                        
+0000016 012  -----   -----                    
+0000016 020  PPIS2   WE                       Z8 
+0000016 030  VV0     NEED                     S6+ 
+0000016 040  NP2     BERNIES                  Z99 
+0000016 050  NN2     VOTERS                   G1.2/S2mf 
+0000016 060  TO      TO                       Z5 
+0000016 070  VVI     COME                     A1.1.1 
+0000016 080  TO      TO                       Z5 
+0000016 090  VVI     TRUMP                    Z1mf 
+0000016 091  !       !                        
+0000016 092  -----   -----                    
+0000016 100  PPIS1   I                        Z8mf 
+0000016 110  VBDZ    WAS                      A3+ Z5 
+0000016 120  AT1@    A                        Z5 
+0000016 130  NN1     DEMOCRAT                 G1.2/S2mf 
+0000016 140  DB      ALL                      N5.1+ 
+0000016 150  APPGE   MY                       Z8 
+0000016 160  NN1     LIFE                     Z3c 
+0000016 161  ,       ,                        
+0000016 170  DD1     THIS                     M6 Z5 Z8 
+0000016 180  NNT1    YEAR                     T1.3 P1c 
+0000016 190  PPIS1   I                        Z8mf 
+0000016 200  VV0     BELIEVE                  X2.1 S9% 
+0000016 210  NN1     TRUMP                    Z1mf 
+0000016 220  VBZ     IS                       A3+ Z5 
+0000016 230  AT      THE                      Z5 
+0000016 240  JJ      ONLY                     A14 
+0000016 250  NN1     PERSON                   S2mfc 
+0000016 260  PNQS@   WHO                      Z8 
+0000016 270  VM      CAN                      A7+ 
+0000016 280  VVI     GET                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000016 290  NP1     AMERICA                  Z2 
+0000016 300  NN1     BACK                     B1 M6 
+0000016 301  !       !                        
+0000016 302  !       !                        
+0000016 303  !       !                        
+0000017 001  -----   -----                    
+0000018 010  DD1     Another                  A6.1- N5++ 
+0000018 020  NP1     Bernie                   Z3/S2mf[i17.2.1 
+0000018 030  NN1     supporter                Z3/S2mf[i17.2.2 S8+/S2mf K5.1/S2mf Q1.1% 
+0000018 040  VVD     wrote                    Q1.2 I2.1 
+0000018 041  :       :                        
+0000018 050  PPIS1   I                        Z8mf 
+0000018 060  CC      and                      Z5 
+0000018 070  AT1     a                        Z5 
+0000018 080  NN1     bunch                    N5+ S5+c 
+0000018 090  IO      of                       Z5 
+0000018 100  NP1     Bernie                   Z3/S2mf[i18.2.1 
+0000018 110  NN2     supporters               Z3/S2mf[i18.2.2 S8+/S2mf K5.1/S2mf Q1.1% 
+0000018 120  VM      will                     T1.1.3 
+0000018 130  VBI     be                       Z5 A3+ 
+0000018 140  VVG     voting                   G1.2 
+0000018 150  VV0     Trump                    Z1mf 
+0000018 160  DD1     this                     M6 Z5 Z8 
+0000018 170  NPM1    November                 T1.3 
+0000018 171  .       .                        
+0000018 172  -----   -----                    
+0000018 180  PPIS1   I                        Z8mf 
+0000018 190  VV0     refuse                   Q2.2/Z6 S7.4- X7- 
+0000018 200  TO      to                       Z5 
+0000018 210  VVI     vote                     G1.2 
+0000018 220  IF      for                      Z5 
+0000018 230  PN1     someone                  Z8mfc 
+0000018 240  PNQS    who                      Z8 
+0000018 250  VVZ     sells                    I2.2 
+0000018 260  AT      the                      Z5 
+0000018 270  JJ      American                 Z2 
+0000018 280  NN      people                   S2mfc 
+0000018 290  RP      out                      M6 
+0000018 300  II      to                       Z5 
+0000018 310  JJ      foreign                  M7 
+0000018 320  NN2     entities                 O2 
+0000018 321  .       .                        
+0000019 001  -----   -----                    
+0000020 010  DD1     That                     Z5 Z8 
+0000020 020  MD      last                     N4 
+0000020 030  NN1     comment                  Q2.1 
+0000020 040  VVD     received                 A9+ S5+ 
+0000020 050  DAR     more                     N5++ 
+0000020 060  CSN     than                     Z5 
+0000020 070  MC      8,751                    N1 T1.2 T3 T1.3 N3.2 
+0000020 080  NN2     likes                    A6.1+ E2+ 
+0000020 090  II      in                       Z5 
+0000020 100  RR      only                     A14 
+0000020 110  AT1     a                        N5[i19.2.1 S4[i19.2.1 Z5 
+0000020 120  NN1     couple                   N5[i19.2.2 S4[i19.2.2 N5+ S4c 
+0000020 130  IO      of                       Z5 
+0000020 140  NNT2    hours                    T1.3 
+0000020 141  .       .                        
+0000021 001  -----   -----                    
+0000022 010  DD1     Another                  A6.1- N5++ 
+0000022 020  NN1     Democrat                 G1.2/S2mf 
+0000022 030  VVN     named                    Q2.2 
+0000022 040  NP1     Mac                      Z1mf[i20.2.1 Z3c[i20.2.1 Z1m Z3 
+0000022 050  NP1     Zeff                     Z1mf[i20.2.2 Z3c[i20.2.2 
+0000022 060  VVD     wrote                    Q1.2 I2.1 
+0000022 061  :       :                        
+0000022 070  APPGE   My                       Z8 
+0000022 080  NN1     family                   S4c A4.1c 
+0000022 090  VH0     hast                     Z5 
+0000022 100  RR      traditionally            S1.1.1 A6.2+ T3++ 
+0000022 110  VBN     been                     A3+ Z5 
+0000022 120  NN2     Democrats                Z3c 
+0000022 121  .       .                        
+0000022 122  -----   -----                    
+0000022 130  PPIS2   We                       Z8 
+0000022 140  VBR     are                      Z5 A3+ 
+0000022 150  VVG     voting                   G1.2 
+0000022 160  VV0     TRUMP                    Z1mf 
+0000022 170  DD1     this                     M6 Z5 Z8 
+0000022 180  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000022 190  RP      around                   M6 
+0000022 191  .       .                        
+0000022 192  -----   -----                    
+0000022 200  CS      If                       Z7 
+0000022 210  NP1     Hillary                  Z99 
+0000022 220  VBZ     is                       A3+ Z5 
+0000022 230  AT      the                      Z5 
+0000022 240  JJT     best                     A5.1+++ G2.2+++ O4.2+++ 
+0000022 250  AT      the                      Z5 
+0000022 260  NN2     Democrats                Z3c 
+0000022 270  VM      can                      A7+ 
+0000022 280  VVI     produce                  A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000022 290  IF      for                      Z5 
+0000022 300  AT      the                      Z5 
+0000022 310  JJ      working                  S5+c[i21.2.1 I3.1 A1.1.1 X9.2+ 
+0000022 320  NN1     class                    S5+c[i21.2.2 P1c A4.1 S5+c O4.2+ 
+0000022 321  ,       ,                        
+0000022 330  APPGE   its                      Z8 
+0000022 340  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000022 350  TO      to                       Z5 
+0000022 360  VVI     disband                  T2- 
+0000022 370  AT      the                      Z5 
+0000022 380  NN1     Democrat                 G1.2/S2mf 
+0000022 390  NNU     party.                   K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c K1/S1.1.3+ 
+0000024 010  FO      ***                      Z99 
+0000024 020  NN2     Things                   O2 X4.1 A7- S2mf L2mf 
+0000024 030  VBR     are                      Z5 A3+ 
+0000024 040  XX      not                      Z6 
+0000024 050  VVG     looking                  A5.1+/A8[i22.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000024 060  JJ      good                     A5.1+/A8[i22.2.2 A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000024 070  IF      for                      Z5 
+0000024 080  NP1     Hillary                  Z1mf[i23.2.1 Z3c[i23.2.1 
+0000024 090  NP1     Clinton                  Z1mf[i23.2.2 Z3c[i23.2.2 Z1mf 
+0000024 091  .       .                        
+0000024 092  -----   -----                    
+0000026 010  VV0     Share                    S1.1.2+ 
+0000026 020  DD1     this                     M6 Z5 Z8 
+0000026 030  NN1     story                    Q2.1 X4.1 Q4 
+0000026 040  RL      everywhere               M6/N5.1+ 
+0000026 041  .       .                        
+0000026 042  -----   -----                    
+0000026 050  CS      If                       Z7 
+0000026 060  PPY     you                      Z8mf 
+0000026 070  VV0     know                     X2.2+ S3.2/B1% 
+0000026 080  DD      any                      N5.1+ N5 
+0000026 090  NP1     Bernie                   Z3/S2mf[i24.2.1 
+0000026 100  NN2     supporters               Z3/S2mf[i24.2.2 S8+/S2mf K5.1/S2mf Q1.1% 
+0000026 101  ,       ,                        
+0000026 110  VV0     share                    S1.1.2+ 
+0000026 120  DD1     this                     Z8 M6 Z5 
+0000026 130  IW      with                     Z5 
+0000026 140  PPHO2   them                     Z8mfn 
+0000026 141  .       .                        
+0000026 142  -----   -----                    
+0000026 150  VV0     Show                     A10+ S1.1.1 
+0000026 160  PPHO2   them                     Z8mfn 
+0000026 170  CST     that                     Z5 Z8 
+0000026 180  EX      there                    Z5 
+0000026 190  VBR     are                      A3+ Z5 
+0000026 200  NNO2    millions                 N1 N5+ I1 
+0000026 210  IO      of                       Z5 
+0000026 220  NN2     Americans                Z2/S2mf 
+0000026 230  RP      out                      M6[i25.2.1 M6 
+0000026 240  RL      there                    M6[i25.2.2 M6 T1.2 
+0000026 250  II      like                     Z5 
+0000026 260  PPHO2   them                     Z8mfn 
+0000026 270  CST     that                     Z8 Z5 
+0000026 280  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000026 290  NP1     America                  Z2 
+0000026 300  TO      to                       Z5 
+0000026 310  VBI     be                       A3+ Z5 
+0000026 320  JJR     greater                  A5.1++ A11.1++ N3.2++ N5++ X5.2++ 
+0000026 321  .       .                        
+0000026 322  -----   -----                    
+0000026 330  VV0     Welcome                  Q2.2 S1.1.1 
+0000026 340  II      aboard                   Z5 
+0000026 350  AT      the                      Z5 
+0000026 360  NN1     Trump                    Z1mf 
+0000026 370  NN1     Train                    M3fn N4 B5@ 
+0000026 371  .       .                        
+0000026 372  -----   -----                    
+0000026 373  (       (                        
+0000026 380  ZZ1     h/t                      Z5 
+0000026 390  JJ      Conservative             G1.2 A6.2+ A1.3+ A9+ 
+0000026 400  NN1     Tribune                  Z3/Q4.2 
+0000026 401  )       )                        
+0000028 001  NULL    **8;7;text               

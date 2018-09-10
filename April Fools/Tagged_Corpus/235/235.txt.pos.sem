@@ -1,0 +1,405 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  II      In                       Z5 
+0000002 020  AT1     a                        Z5 
+0000002 030  NN1     sign                     Q1.1 A6.2+ X4.1 Q1.2 O4.1 S9 B2 M2 K2 
+0000002 040  IO      of                       Z5 
+0000002 050  NN1     newspaper                I4/Q4.2c[i1.2.1 Q4.2 
+0000002 060  NN1     industry                 I4/Q4.2c[i1.2.2 I4c I2.1c 
+0000002 070  NN1     consolidation            A7+/A2.1 S5+ 
+0000002 071  ,       ,                        
+0000002 080  JJ      rival                    S7.3 
+0000002 090  NN1     publishing               Q4 
+0000002 100  NN2     groups                   S5+ A4.1 B3% 
+0000002 110  VVN     Associated               A6.1+/X2.1 S3.1 
+0000002 120  CC      and                      Z5 
+0000002 130  AT      the                      Z5 
+0000002 140  NN1     Guardian                 Z3c 
+0000002 150  NN      Media                    Q4c 
+0000002 160  NN1     Group                    S5+c A4.1c B3% 
+0000002 170  VBR     are                      A3+ Z5 
+0000002 180  TO      to                       Z5 
+0000002 190  VVI     join                     A2.2 S5+ A1.8+ A1.1.1 
+0000002 200  NN2     forces                   G3 G2.1 E3- S7.1+ N3 S5+ 
+0000002 201  ,       ,                        
+0000002 210  VVG     sharing                  S1.1.2+ 
+0000002 220  AT1     a                        Z5 
+0000002 230  JJ      common                   A6.2+ N5++ S5+ O4.2- 
+0000002 240  JJ      editorial                Q1.2 Q4 
+0000002 250  NN1     production               A1.1.1 A10+ K4 K3 Q4.3 
+0000002 260  NN1     facility                 H1 O2 S8+ X9.1+ 
+0000002 261  .       .                        
+0000003 001  -----   -----                    
+0000004 010  VVG     Using                    A1.5.1 S7.1+ 
+0000004 020  AT      the                      Z5 
+0000004 030  JJT     latest                   T3--- T4--- 
+0000004 040  NN1     technology               Y1 
+0000004 041  ,       ,                        
+0000004 050  AT1     a                        Z5 
+0000004 060  JJ      single                   N5--- S5- S3.2- M3 
+0000004 070  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000004 080  VM      will                     T1.1.3 
+0000004 090  VVI     produce                  A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000004 100  NN2     stories                  Q2.1 X4.1 
+0000004 110  IF      for                      Z5 
+0000004 120  DB2     both                     N5 
+0000004 130  NN2     groups                   S5+ A4.1 B3% 
+0000004 140  NN1     flagship                 M4fn A11.1+++ 
+0000004 150  NN2     titles                   Q4 S7.1+ A9+ Q2.2 
+0000004 151  ,       ,                        
+0000004 160  AT      the                      Z5 
+0000004 170  JJ      Daily                    Z3c[i2.2.1 T1.1.2 N6+ 
+0000004 180  NN1     Mail                     Z3c[i2.2.2 Z3c 
+0000004 190  CC      and                      Z5 
+0000004 200  AT      the                      Z5 
+0000004 210  NN1     Guardian                 Z3c 
+0000004 211  ,       ,                        
+0000004 220  II      in                       Z5 
+0000004 230  AT1     a                        Z5 
+0000004 240  NN1     process                  A1.1.1 X4.2 
+0000004 250  CST     that                     Z8 Z5 
+0000004 260  VM      will                     T1.1.3 
+0000004 270  VBI     be                       A3+ Z5 
+0000004 280  RR      largely                  A13.2 
+0000004 290  JJ      automated                A1.1.1/S5- 
+0000004 291  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NN1     Marketing                I2.2 
+0000006 020  NN2     teams                    S5+ K5.1/S5+ 
+0000006 030  II      at                       Z5 
+0000006 040  DB2     both                     N5 
+0000006 050  NN2     newspapers               Q4.2 
+0000006 060  VVD     discovered               A10+ 
+0000006 070  AT1     a                        Z5 
+0000006 080  JJ      new                      T3- 
+0000006 090  NN1     super-segment            Z99 
+0000006 100  IO      of                       Z5 
+0000006 110  AT      the                      Z5 
+0000006 120  JJ      declining                N5-/A2.1 Q2.2 
+0000006 130  NN1     newspaper                Q4.2/I2.2[i3.2.1 Q4.2 
+0000006 140  NN1     market                   Q4.2/I2.2[i3.2.2 I2.2 I2.2/H1 
+0000006 150  PPHS2   they                     Z8mfn 
+0000006 160  VH0     have                     Z5 A9+ A2.2 S4 
+0000006 170  RR      informally               S1.2.1+ O4.2 
+0000006 180  VVN     dubbed                   Q2.2 Q4.3/Q3 
+0000006 190  VV0     'the                     Z99 
+0000006 200  JJ      new                      T3- 
+0000006 210  NN1     authoritarian'           Z99 
+0000006 211  .       .                        
+0000006 212  -----   -----                    
+0000006 220  II21    According                Z5[i4.2.1 Z5 
+0000006 230  II22    to                       Z5[i4.2.2 Z5 
+0000006 240  MC1     one                      N1 T3 T1.2 
+0000006 250  NN1     circulation              I2.2/N5 B1 M2 
+0000006 260  NN1     manager                  S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf 
+0000006 261  ,       ,                        
+0000006 270  DD1     this                     Z8 M6 Z5 
+0000006 280  VBZ     is                       A3+ Z5 
+0000006 290  AT1     a                        Z5 
+0000006 300  NN1     reader                   Q4.1/S2mf Q4.2/S2mf P1/S2mf Q4.1 
+0000006 310  PNQS    who                      Z8 
+0000006 311  NULL    <quote>                  
+0000006 312  -----   -----                    
+0000006 313  "       "                        
+0000006 320  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
+0000006 330  TO      to                       Z5 
+0000006 340  VVI     find                     X2.3+[i5.2.1 A10+ X2.1 X6+ 
+0000006 350  RP      out                      X2.3+[i5.2.2 M6 
+0000006 360  DDQ     what                     Z8 Z5 
+0000006 370  PN1     everybody                Z8/N5.1+c 
+0000006 380  VBZ     is                       Z5 A3+ 
+0000006 390  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000006 391  ,       ,                        
+0000006 400  CC      and                      Z5 
+0000006 410  VV0     stop                     T2- S8- M8 H4 A1.1.1@ 
+0000006 420  PPHO2   them                     Z8mfn 
+0000006 430  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000006 440  PPH1    it                       Z8 
+0000006 441  "       "                        
+0000006 442  NULL    </quote>                 
+0000006 443  -----   -----                    
+0000006 444  ,       ,                        
+0000006 450  VVG     paraphrasing             Q3 
+0000006 460  NP1     AP                       Z1mf[i6.2.1 Z3c[i6.2.1 
+0000006 470  NP1     Herbert                  Z1mf[i6.2.2 Z3c[i6.2.2 Z1m 
+0000006 471  .       .                        
+0000007 001  -----   -----                    
+0000008 010  II      In                       A1.1.1[i7.2.1 Z5 
+0000008 020  NN1     practice                 A1.1.1[i7.2.2 A1.1.1 I3.1/S5+c 
+0000008 030  PPH1    it                       Z8 
+0000008 040  VVZ     means                    Q1.1 X7+ 
+0000008 050  AT1     a                        Z5 
+0000008 060  NN1     story                    Q2.1 X4.1 Q4 
+0000008 070  RR      only                     A14 
+0000008 080  VM@     need                     S6+ 
+0000008 090  VBI     be                       Z5 A3+ 
+0000008 100  VVN     written                  Q1.2 I2.1 
+0000008 110  RR      once                     N6- T1.1.1 
+0000008 111  .       .                        
+0000008 112  -----   -----                    
+0000008 120  NN1     Software                 Y2 
+0000008 130  RT      then                     N4 Z5 T1.2 
+0000008 140  VVZ     tailors                  B5 A1.2+/A2.1 
+0000008 150  AT      the                      Z5 
+0000008 160  NN1     copy                     A5.4- Q4.1 Q4.2 Q1.2 
+0000008 170  CC      and                      Z5 
+0000008 180  NN2     routes                   M6 X4.2 
+0000008 190  PPH1    it                       Z8 
+0000008 200  II      to                       Z5 
+0000008 210  AT      the                      Z5 
+0000008 220  JJ      correct                  A5.3+ 
+0000008 230  NN1     title                    Q4 S7.1+ A9+ Q2.2 
+0000008 231  ,       ,                        
+0000008 240  RR      so                       Z5 A13.3 
+0000008 250  REX21   for                      Z5[i8.2.1 
+0000008 260  REX22   example                  Z5[i8.2.2 
+0000008 270  NP1     'BROKEN                  Z1mf[i9.2.1 Z3c[i9.2.1 
+0000008 280  NP1     BRITAIN'                 Z1mf[i9.2.2 Z3c[i9.2.2 
+0000008 290  CC      and                      Z5 
+0000008 300  NP1     'BROKEN                  Z1mf[i10.2.1 Z3c[i10.2.1 
+0000008 310  NP1     PLANET'                  Z1mf[i10.2.2 Z3c[i10.2.2 
+0000008 320  NN2     stories                  Q2.1 X4.1 
+0000008 330  RR      essentially              S6+ A13.2 Z4 
+0000008 340  VV0     share                    S1.1.2+ 
+0000008 350  AT      the                      Z5 
+0000008 360  DA      same                     A6.1+++ 
+0000008 370  JJ      misanthropic             Z99 
+0000008 380  NN1     outlook                  X2.1 T1.1.3 Q1.1 
+0000008 381  -       -                        
+0000008 390  CC      and                      Z5 
+0000008 400  MC      94                       N5[i11.3.1 N1 T1.2 T3 T1.3 N3.2 
+0000008 410  NNU21   per                      N5[i11.3.2 N5[i12.2.1 
+0000008 420  NNU22   cent                     N5[i11.3.3 I1 N5[i12.2.2 
+0000008 430  JJ      common                   A6.2+ N5++ S5+ O4.2- 
+0000008 440  NN1     verbiage                 Z99 
+0000008 441  .       .                        
+0000009 001  -----   -----                    
+0000010 010  II      In                       Z5 
+0000010 020  DD1     another                  A6.1- N5++ 
+0000010 030  NN1     innovation               T3- 
+0000010 031  ,       ,                        
+0000010 040  AT      the                      Z5 
+0000010 050  NN2     groups                   S5+ A4.1 B3% 
+0000010 060  VH0     have                     Z5 A9+ A2.2 S4 
+0000010 070  VVN     bought                   I2.2[i13.2.1 I2.2 
+0000010 080  RP      out                      I2.2[i13.2.2 M6 
+0000010 090  AT      the                      Z5 
+0000010 100  NN1     image                    O4.1 A8 X2.1 C1 
+0000010 110  CC      and                      Z5 
+0000010 120  VVG     branding                 Q1.1 
+0000010 130  NN2     rights                   S7.4+ G2.2+ M6 G1.2 
+0000010 140  II      to                       Z5 
+0000010 150  JJ      leading                  S7.1+ A11.1+ A2.2 M2 A1.1.1 
+0000010 160  NN2     columnists               Q4.2/S2mf 
+0000010 161  ,       ,                        
+0000010 170  PNQS    who                      Z8 
+0000010 180  VM      will                     T1.1.3 
+0000010 190  VBI     be                       Z5 A3+ 
+0000010 200  VVN     released                 A1.7- A9- 
+0000010 210  II      from                     Z5 
+0000010 220  APPGE   their                    Z8 
+0000010 230  NN2     contracts                I2.1 G2.1 
+0000010 231  .       .                        
+0000010 232  -----   -----                    
+0000010 240  NN2     Columns                  O2 S5+c Q4.2 
+0000010 250  VVD     bylined                  Z99 
+0000010 260  II      to                       Z5 
+0000010 270  NP1     Polly                    Z1mf[i14.2.1 Z3c[i14.2.1 Z1f 
+0000010 280  NP1     Toynbee                  Z1mf[i14.2.2 Z3c[i14.2.2 
+0000010 281  ,       ,                        
+0000010 290  NP1     Richard                  Z1mf[i15.2.1 Z3c[i15.2.1 Z1m 
+0000010 300  NP1     Littlejohn               Z1mf[i15.2.2 Z3c[i15.2.2 
+0000010 301  ,       ,                        
+0000010 310  NP1@    Jan                      Z1mf[i16.2.1 Z3c[i16.2.1 Z1mf 
+0000010 320  NP1     Moir                     Z1mf[i16.2.2 Z3c[i16.2.2 
+0000010 330  CC      and                      Z5 
+0000010 340  NP1     George                   Z1mf[i17.2.1 Z3c[i17.2.1 Z1m 
+0000010 350  NP1     Monbiot                  Z1mf[i17.2.2 Z3c[i17.2.2 
+0000010 360  VM      will                     T1.1.3 
+0000010 370  VVI     continue                 T2++ 
+0000010 371  ,       ,                        
+0000010 380  CS      although                 Z5 
+0000010 390  RR      mostly                   A13.2 
+0000010 400  VVN     written                  Q1.2 I2.1 
+0000010 410  VVG     using                    A1.5.1 S7.1+ 
+0000010 420  AT      the                      Z5 
+0000010 430  JJ      new                      T3- 
+0000010 440  JJ      automated                A1.1.1/S5- 
+0000010 450  NN1     software                 Y2 
+0000010 451  .       .                        
+0000010 452  -----   -----                    
+0000010 460  NN1     Reader                   Q4.1/S2mf Q4.2/S2mf P1/S2mf Q4.1 
+0000010 470  NN2     comments                 Q2.1 
+0000010 480  VM      will                     T1.1.3 
+0000010 490  RR      also                     N5++ 
+0000010 500  VBI     be                       Z5 A3+ 
+0000010 510  VVN@    automated                A1.1.1/S5- 
+0000010 511  ,       ,                        
+0000010 520  IW      with                     Z5 
+0000010 530  NN2     readers                  Q4.1/S2mf Q4.2/S2mf P1/S2mf Q4.1 
+0000010 540  JK      able                     X9.1+ 
+0000010 550  TO      to                       Z5 
+0000010 560  VVI     choose                   X7+ 
+0000010 570  AT1     a                        Z5 
+0000010 571  NULL    <quote>                  
+0000010 572  -----   -----                    
+0000010 573  "       "                        
+0000010 580  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000010 590  TO      to                       Z5 
+0000010 600  VVI     blame                    Q2.2/G2.2- G2.1 
+0000010 601  "       "                        
+0000010 602  NULL    </quote>                 
+0000010 603  -----   -----                    
+0000010 610  II      from                     Z5 
+0000010 620  AT1     a                        Z5 
+0000010 630  NN1     palette                  O2/C1 O4.3 
+0000010 640  IO      of                       Z5 
+0000010 650  NN2     options                  X7+ I2.1 P1 
+0000010 660  VVD     tailored                 B5 A1.2+/A2.1 
+0000010 670  TO      to                       Z5 
+0000010 680  VVI     suit                     A1.2+ 
+0000010 690  APPGE   their                    Z8 
+0000010 700  NN2     prejudices               A6.1-/E2- G2.2- S5+ 
+0000010 701  ,       ,                        
+0000010 710  IW      with                     Z5 
+0000010 720  NN2     options                  X7+ I2.1 P1 
+0000010 730  II      including                A1.8+ 
+0000010 740  NN1     asylum                   Z2/X7+/S2mf[i18.2.1 G1.1 B3/H1c 
+0000010 750  NN2     seekers                  Z2/X7+/S2mf[i18.2.2 X2.4/S2mf 
+0000010 751  ,       ,                        
+0000010 760  JJ      capitalist               I1.1/G1.2 
+0000010 770  NN2     pigs                     L2mf O4.2-/S2mf A12- 
+0000010 771  ,       ,                        
+0000010 780  NN2     teachers                 P1/I3.2/S2mf 
+0000010 781  ,       ,                        
+0000010 790  NN1     record                   Q1.2/I2.1c[i19.2.1 Q1.2 K3 T1.1.1 A5.1+++ 
+0000010 800  NN2     companies                Q1.2/I2.1c[i19.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000010 801  ,       ,                        
+0000010 810  CC      and                      Z5 
+0000010 820  JJ      human                    S2 S1.2.1+ 
+0000010 830  NN1     population               S2/N5++[i20.2.1 S2/N5c 
+0000010 840  NN1     growth                   S2/N5++[i20.2.2 N3.2+/A2.1 A5.1+/A2.1 L3 B2- 
+0000010 841  .       .                        
+0000010 842  -----   -----                    
+0000010 850  RR      Only                     A14 
+0000010 860  AT      the                      Z5 
+0000010 870  DA      latter                   N4 
+0000010 880  NN1     option                   X7+ I2.1 P1 
+0000010 890  VBZ     is                       A3+ Z5 
+0000010 900  JJ      common                   A6.2+ N5++ S5+ O4.2- 
+0000010 910  II      to                       Z5 
+0000010 920  DB2     both                     N5 
+0000010 930  NN2     readers                  Q4.1/S2mf Q4.2/S2mf P1/S2mf Q4.1 
+0000010 931  .       .                        
+0000011 001  -----   -----                    
+0000012 010  JJ      Early                    T4+ T1.1.1 
+0000012 020  NN2     trials                   G2.1 X2.4 E6- A12- K5.1 
+0000012 030  VBDR    were                     A3+ Z5 
+0000012 040  JJ      prone                    A8 M6@ 
+0000012 050  II      to                       Z5 
+0000012 060  NN1     error                    A5.3- 
+0000012 061  ,       ,                        
+0000012 070  CSA     as                       Z5 
+0000012 080  DD2     these                    Z5 Z8 
+0000012 090  JJ      front                    M6 A11.1+ 
+0000012 100  NN2     pages                    Q1.2 T1.3 S7.1-/S2.2m 
+0000012 110  VV0     show                     A10+ S1.1.1 
+0000012 111  .       .                        
+0000012 112  -----   -----                    
+0000012 120  JJ      Regular                  A6.2+ N6+ O4.1 I3.1 T2++ A13.3 
+0000012 130  NN1     Guardian                 Z3c 
+0000012 140  NN2     readers                  Q4.1/S2mf Q4.2/S2mf P1/S2mf Q4.1 
+0000012 150  VM      will                     T1.1.3 
+0000012 160  VHI     have                     Z5 A9+ A2.2 S4 
+0000012 170  VBN     been                     Z5 A3+ 
+0000012 180  VVN%    surprised                X2.6- 
+0000012 190  IW      with                     Z5 
+0000012 200  DD1     this                     M6 Z5 Z8 
+0000012 201  :       :                        
+0000014 010  CC      And                      Z5 
+0000014 020  NN1     Mail                     Z3c 
+0000014 030  NN2     readers                  Q4.1/S2mf Q4.2/S2mf P1/S2mf Q4.1 
+0000014 040  PNQS    who                      Z8 
+0000014 050  VVD     saw                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000014 060  DD1     this                     Z8 M6 Z5 
+0000014 070  VM      will                     T1.1.3 
+0000014 080  VHI     have                     Z5 A9+ A2.2 S4 
+0000014 090  VBN     been                     Z5 A3+ 
+0000014 100  VVN     left                     M1 M2 A1.1.1 A1.9 A9- N5.2+ T2- 
+0000014 110  IW      with                     Z5 
+0000014 120  AT      the                      Z5 
+0000014 130  JJ      uneasy                   E6- 
+0000014 140  NN1     sensation                X3 X5.2+ 
+0000014 150  CST     that                     Z8 Z5 
+0000014 160  PN1     something                Z8 
+0000014 170  VBDZ    was                      A3+ Z5 
+0000014 180  XX      not                      Z6 
+0000014 190  RG      quite                    A13.5 A13.6 A13.2 
+0000014 200  JJ      right                    A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 
+0000014 201  :       :                        
+0000016 010  RR      Fortunately              A1.4+ A5.1+ E4.1+ 
+0000016 020  DD2     these                    Z5 Z8 
+0000016 030  JJ      computer-generated       Y2 
+0000016 040  NN2     proofs                   A5.2+ Q4.1 F2 
+0000016 050  VBDR    were                     Z5 A3+ 
+0000016 060  RR      never                    T1/Z6 
+0000016 070  RR      widely                   N5+ A4.2- 
+0000016 080  VVN     distributed              A9- I2.2 M2/N3.6 
+0000016 081  .       .                        
+0000017 001  -----   -----                    
+0000018 010  AT      The                      Z5 
+0000018 020  JJ      new                      T3- 
+0000018 030  NN1     venture                  X8+ A15- I2.1 
+0000018 040  VM      will                     T1.1.3 
+0000018 050  VBI     be                       Z5 A3+ 
+0000018 060  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000018 070  JJ      Associated               S5+ A2.2 A6.1+/X2.1 S3.1 
+0000018 080  JJ      Puritanical              G2.2+ 
+0000018 090  NN1     plc                      I2.1/S5+ 
+0000018 091  ,       ,                        
+0000018 100  CC      and                      Z5 
+0000018 110  VM      will                     T1.1.3 
+0000018 120  VVI     allow                    S7.4+ S8+ X2.1 
+0000018 130  NP1     Northcliffe              Z3c[i21.2.1 Z2[i21.2.1 Z1mf 
+0000018 140  NN1     House                    Z3c[i21.2.2 Z2[i21.2.2 H1 P1/S5+c G1.1c 
+0000018 150  II      in                       Z5 
+0000018 160  NP1     Kensington               Z2 
+0000018 161  ,       ,                        
+0000018 170  CC      and                      Z5 
+0000018 180  AT      the                      Z5 
+0000018 190  NN1     Guardian                 Z3c 
+0000018 191  GE      's                       Z5 
+0000018 200  JJ      largely-empty            Z99 
+0000018 210  JJ      new                      T3- 
+0000018 220  NN2     facilities               H1 O2 S8+ X9.1+ 
+0000018 230  II      at                       Z5 
+0000018 240  NP1@    King                     Z2[i22.3.1 
+0000018 241  GE      's                       Z2[i22.3.2 Z5 
+0000018 250  NN1     Cross                    Z2[i22.3.3 O4.4 S9/O2 A2.1+mfn G2.1/O2% 
+0000018 260  TO      to                       Z5 
+0000018 270  VBI     be                       Z5 A3+ 
+0000018 280  VVN     sold                     I2.2 
+0000018 281  .       .                        
+0000018 282  -----   -----                    
+0000018 290  AT      The                      Z5 
+0000018 300  JJ@     unified                  S5+ 
+0000018 310  JJ      editorial                Q1.2 Q4 
+0000018 320  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000018 330  VM      will                     T1.1.3 
+0000018 340  VVI     relocate                 M6/A2.1+ 
+0000018 350  II      to                       Z5 
+0000018 360  AT1     a                        Z5 
+0000018 370  NN1     bunker                   G3/H1 K5.1/W3 
+0000018 380  II      near                     Z5 
+0000018 390  NP1     Goodge                   Z2[i23.2.1 Z1mf[i24.2.1 Z3c[i24.2.1 
+0000018 400  NNL1    Street                   Z2[i23.2.2 Z2 Z1mf[i24.2.2 Z3c[i24.2.2 
+0000018 401  ,       ,                        
+0000018 410  TO      to                       Z5 
+0000018 420  VVI     await                    X2.6+ 
+0000018 430  AT      the                      X9.2-[i25.5.1 A1.1.2/W1[i25.5.1 Z5 
+0000018 440  NN1     end                      X9.2-[i25.5.2 A1.1.2/W1[i25.5.2 M6 T2- O2 X7+ N4 
+0000018 450  IO      of                       X9.2-[i25.5.3 A1.1.2/W1[i25.5.3 Z5 
+0000018 460  AT      the                      X9.2-[i25.5.4 A1.1.2/W1[i25.5.4 Z5 
+0000018 470  NN1     world                    X9.2-[i25.5.5 A1.1.2/W1[i25.5.5 W1 S5+c A4.1 N5+ 
+0000018 471  .       .                        
+0000021 001  NULL    **8;7;text               

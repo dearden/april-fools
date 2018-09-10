@@ -1,0 +1,132 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     BOSTON                   Z2 
+0000002 011  -       -                        
+0000002 020  NP1     US                       Z8 
+0000002 030  NN2     scientists               Y1/S2mf 
+0000002 040  VBR     are                      Z5 A3+ 
+0000002 050  RR      frantically              X5.2+ 
+0000002 060  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000002 070  II      on                       Z5 
+0000002 080  NN1     contingency              A7 
+0000002 090  VVZ     plans                    X7+ 
+0000002 100  II      after                    Z5 
+0000002 110  AT1     a                        Z5 
+0000002 120  NN1     study                    P1 X2.4 H2 Q1.2 C1 
+0000002 130  VVD     revealed                 A10+ 
+0000002 140  AT      the                      Z5 
+0000002 150  NN1     world                    W1 S5+c A4.1 N5+ 
+0000002 160  JJ      wide                     N3.7+ N5+ A4.2- A6.3+ X9.2-@ K5.1@ 
+0000002 170  NN1     web                      Y2 L2 O2 
+0000002 180  VM      would                    A7+ 
+0000002 190  VVI     become                   A2.1+ O4.2+ 
+0000002 200  JJ      saturated                O1.2 N5.1+ O4.1 
+0000002 210  IW      with                     Z5 
+0000002 220  NN1     content                  Q2.1 A1.8+ N5 E4.1+% 
+0000002 230  II      by                       Z5 
+0000002 240  AT      the                      Z5 
+0000002 250  NNT1    year                     P1c[i1.2.1 T1.3 P1c 
+0000002 260  MC      2012                     P1c[i1.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000002 261  .       .                        
+0000003 001  -----   -----                    
+0000004 010  AT      The                      Z5 
+0000004 020  NP1     Massachusetts            Z3c[i2.2.1 Z2 Z3c 
+0000004 030  NN1     Institute                Z3c[i2.2.2 P1/S5+c X2.4/S5+c 
+0000004 040  IO      of                       Z5 
+0000004 050  NN1     Technology               Y1 
+0000004 051  (       (                        
+0000004 060  NP1     MIT                      Z3/P1 
+0000004 061  )       )                        
+0000004 070  NN1     report                   Q2.2 X3.2 
+0000004 080  VVD     found                    A10+ X2.1 X6+ 
+0000004 090  CST     that                     Z8 Z5 
+0000004 100  II      at                       Z5 
+0000004 110  AT      the                      Z5 
+0000004 120  JJ      current                  T1.1.2 
+0000004 130  NN1     rate                     N3.8 N5 I1.3 
+0000004 140  IO      of                       Z5 
+0000004 150  VVG     uploading                Y2 
+0000004 151  ,       ,                        
+0000004 160  DB      all                      N5.1+ 
+0000004 170  AT      the                      Z5 
+0000004 180  NN1     world                    W1 S5+c A4.1 N5+ 
+0000004 181  GE      's                       Z5 
+0000004 190  NN2     servers                  Y2 S9/S2mf 
+0000004 200  CC      and                      Z5 
+0000004 210  DB      all                      N5.1+ 
+0000004 220  DD2     those                    Z8 Z5 
+0000004 230  VVN     projected                A10+ X7+ X2.6+ M2 O4.4 X3.2 Q2.2 X2.1 
+0000004 240  TO      to                       Z5 
+0000004 250  VBI     be                       Z5 A3+ 
+0000004 260  VVN     built                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000004 270  VM      would                    A7+ 
+0000004 280  VBI     be                       A3+ Z5 
+0000004 290  JJ      full                     N5.1+ I3.2+ 
+0000004 300  II      inside                   Z5 
+0000004 310  AT      the                      Z5 
+0000004 320  MD      next                     N4 
+0000004 330  MC      three                    N1 T1.2 T3 
+0000004 340  NNT2    years                    T1.3 
+0000004 341  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NN1     Computer                 Y2 
+0000006 020  NN2     scientists               Y1/S2mf 
+0000006 030  VBR     are                      Z5 A3+ 
+0000006 040  VVN     divided                  A6.1- A9-/N5.1 N2 
+0000006 050  II      on                       Z5 
+0000006 060  CSW     whether                  Z5 
+0000006 070  TO      to                       Z5 
+0000006 080  VVI     try                      X8+ X2.4 Q2.2 G2.1 A12- 
+0000006 090  CC      and                      Z5 
+0000006 100  RR      somehow                  X4.2 A13.4 
+0000006 110  VVI     increase                 N5+/A2.1 
+0000006 120  AT      the                      Z5 
+0000006 130  NN1     capacity                 N3.2 N3.4 N5.1+ X9.1+ I3.1 
+0000006 140  IO      of                       Z5 
+0000006 150  AT      the                      Z5 
+0000006 160  NN1     web                      Y2 L2 O2 
+0000006 170  CC      or                       Z5 
+0000006 180  TO      to                       Z5 
+0000006 190  VVI     start                    T2+ E5- E3- 
+0000006 200  VVG     deleting                 Q1.2 A1.1.2 
+0000006 210  NN2     pages                    Q1.2 T1.3 S7.1-/S2.2m 
+0000006 220  RR21    no                       T2-[i3.2.1 Z6 
+0000006 230  RR22    longer                   T2-[i3.2.2 T1.3++ 
+0000006 240  VVN     deemed                   X2.1 X6 
+0000006 250  JJ      essential                S6+ A4.2+ 
+0000006 251  .       .                        
+0000007 001  -----   -----                    
+0000008 010  NN2     Blogs                    Z1mf 
+0000008 020  VVG     analysing                X2.4 Y1 
+0000008 030  AT      the                      Z5 
+0000008 040  NN2     minutiae                 A4.2+ 
+0000008 050  IO      of                       Z5 
+0000008 060  JJ      daily                    T1.1.2 N6+ 
+0000008 070  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000008 071  ,       ,                        
+0000008 080  NP1     Facebook                 Z3c/Y2 
+0000008 090  NN2     profiles                 B1 Q1.1 
+0000008 100  IF      for                      Z5 
+0000008 110  NN2     animals                  L2mfn S5+c O2c 
+0000008 120  CC      and                      Z5 
+0000008 130  AT      the                      Z5 
+0000008 140  MC      1,980,000                N1 T1.2 T3 T1.3 N3.2 
+0000008 150  NN2     pages                    Q1.2 T1.3 S7.1-/S2.2m 
+0000008 160  VVD@    devoted                  A9- 
+0000008 170  II      to                       Z5 
+0000008 180  NP1     David                    Z1mf[i4.2.1 Z3c[i4.2.1 Z1m 
+0000008 190  NP1     Hasselhoff               Z1mf[i4.2.2 Z3c[i4.2.2 
+0000008 200  VBR     are                      A3+ Z5 
+0000008 210  DD      some                     N5 Z5 
+0000008 220  IO      of                       Z5 
+0000008 230  DD2     those                    Z8 Z5 
+0000008 240  VVN     nominated                X7+/Q2.2 
+0000008 250  II      by                       Z5 
+0000008 260  NN2     scientists               Y1/S2mf 
+0000008 270  CSA     as                       Z5 
+0000008 280  NN2     candidates               G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
+0000008 290  TO      to                       Z5 
+0000008 300  VBI     be                       Z5 A3+ 
+0000008 310  VVN     axed                     T2- 
+0000008 311  .       .                        
+0000011 001  NULL    **8;7;text               

@@ -1,0 +1,394 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN2     Pumas                    L2mfn 
+0000002 020  TO      to                       Z5 
+0000002 030  VVI     host                     S1.1.1 
+0000002 040  NN2     Wallabies                Z99 
+0000002 050  II      in                       Z5 
+0000002 060  NN1%    repeat                   Q4.3/N6+ N6+ 
+0000002 070  IO      of                       Z5 
+0000002 080  NP1     Rugby                    Z2 
+0000002 090  NN1     World                    K5.1[i1.2.1 W1 S5+c A4.1 N5+ K5.1[i2.2.1 
+0000002 100  NN1     Cup                      K5.1[i1.2.2 O2 S7.3+ A5.1+/O2 K5.1[i2.2.2 
+0000002 110  NN1     semi-final               K5.1 
+0000002 120  MD      First                    N4 
+0000002 130  NN1@    Rugby                    Z2 
+0000002 140  NN1     Championship             K5/S7.3+ S7.1+/K5 S8+@ 
+0000002 150  NN1     Test                     P1 B3 X2.4 K5.1@ 
+0000002 160  TO      to                       Z5 
+0000002 170  VBI     be                       Z5 A3+ 
+0000002 180  VVN     played                   K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000002 190  II      outside                  Z5 
+0000002 200  JJ      competing                S7.3+ 
+0000002 210  NN2     nations                  G1.1c S5+c 
+0000004 010  NP1     Twickenham               Z2 
+0000004 020  NN1@    will                     X7+ G2.1/Q1.2 
+0000004 030  NN1     stage                    T1.2 N5.1- H2/K4 K4 A4.1 
+0000004 040  AT1     a                        Z5 
+0000004 050  NN1@    Rugby                    Z2 
+0000004 060  NN1     Championship             K5/S7.3+ S7.1+/K5 S8+@ 
+0000004 070  NN1     Test                     K5.1[i4.2.1 P1 B3 X2.4 K5.1@ K5.1[i3.2.1 
+0000004 080  NN1     match                    K5.1[i4.2.2 K5.1 O2 A6.1+ K5.1[i3.2.2 
+0000004 090  II      between                  Z5 
+0000004 100  NP1     Argentina                Z2 Z3c 
+0000004 110  CC      and                      Z5 
+0000004 120  NP1     Australia                Z2 
+0000004 130  RRR     later                    T4-- T1.1.3 N4 
+0000004 140  DD1     this                     M6 Z5 Z8 
+0000004 150  NNT1    year                     T1.3 P1c 
+0000004 151  .       .                        
+0000005 001  -----   -----                    
+0000006 010  AT      The                      Z5 
+0000006 020  NN1     tournament               S7.3 
+0000006 030  NN1     organiser                S7.1+/S2mf 
+0000006 031  ,       ,                        
+0000006 040  NP1     Sanzaar                  Z99 
+0000006 041  ,       ,                        
+0000006 050  VHZ     has                      Z5 A9+ A2.2 S4 
+0000006 060  VVN     confirmed                A7+ Q2.2 S9@ 
+0000006 070  NPD1    Saturday                 T1.3 
+0000006 080  MC      8                        N1 T1.2 T3 T1.3 N3.2 
+0000006 090  NPM1    October                  T1.3 
+0000006 100  II      as                       Z5 
+0000006 110  AT      the                      Z5 
+0000006 120  NN1     date                     T1.2 S3.2 S3.2/S2mf 
+0000006 130  IF      for                      Z5 
+0000006 140  AT1     a                        Z5 
+0000006 150  NN1     fixture                  O2 K5.1 T2++ 
+0000006 160  CST     that                     Z8 Z5 
+0000006 170  VM      will                     T1.1.3 
+0000006 180  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000006 190  NN1     history                  T1.1.1 P1/T1.1.1 Q2.1 B2 
+0000006 200  II      as                       Z5 
+0000006 210  AT      the                      Z5 
+0000006 220  MD      first                    N4 
+0000006 230  NN1@    Rugby                    Z2 
+0000006 240  NN1     Championship             K5.1[i5.2.1 K5/S7.3+ S7.1+/K5 S8+@ 
+0000006 250  NN1     match                    K5.1[i5.2.2 K5.1 O2 A6.1+ 
+0000006 260  TO      to                       Z5 
+0000006 270  VBI     be                       Z5 A3+ 
+0000006 280  VVN     played                   K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000006 290  II      outside                  Z5 
+0000006 300  DD      any                      N5.1+ N5 
+0000006 310  IO      of                       Z5 
+0000006 320  AT      the                      Z5 
+0000006 330  JJ      competing                S7.3+ 
+0000006 340  NN2     nations                  G1.1c S5+c 
+0000006 350  NP1     Australia                Z2 
+0000006 351  ,       ,                        
+0000006 360  NP1     Argentina                Z2 Z3c 
+0000006 361  ,       ,                        
+0000006 370  NP1     New                      Z2[i7.2.1 Z3c[i7.2.1 Z1mf[i6.2.1 Z3c[i6.2.1 
+0000006 380  NP1     Zealand                  Z2[i7.2.2 Z3c[i7.2.2 Z2 Z1mf[i6.2.2 Z3c[i6.2.2 
+0000006 390  CC      and                      Z5 
+0000006 400  NP1     South                    Z2[i10.2.1 Z2[i9.2.1 Z3c[i9.2.1 Z1mf[i8.2.1 Z3c[i8.2.1 
+0000006 410  NP1     Africa                   Z2[i10.2.2 Z2 Z2[i9.2.2 Z3c[i9.2.2 Z1mf[i8.2.2 Z3c[i8.2.2 
+0000006 411  .       .                        
+0000007 001  -----   -----                    
+0000008 010  NP2     Australias               Z2 
+0000008 020  NP1     Adam                     Z1mf[i11.2.1 Z3c[i11.2.1 Z1m 
+0000008 030  NP1     Ashley-Cooper            Z1mf[i11.2.2 Z3c[i11.2.2 
+0000008 040  VVZ     sees                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000008 050  II      off                      Z5 E2- 
+0000008 060  NP1     Argentina                Z2 Z3c 
+0000008 070  IW      with                     Z5 
+0000008 080  NN1     hat-trick                N6/X9.2+ 
+0000008 090  VVD     Read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000008 100  RRR     more                     A13.3 N6++ 
+0000010 010  AT      The                      Z5 
+0000010 020  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000010 021  ,       ,                        
+0000010 030  DDQ     which                    Z8 Z5 
+0000010 040  VVZ     counts                   N2 A11.1+ 
+0000010 050  II      as                       Z5 
+0000010 060  AT1     a                        Z5 
+0000010 070  NN1     home                     H4/H1c M6 
+0000010 080  NN1     fixture                  O2 K5.1 T2++ 
+0000010 090  IF      for                      Z5 
+0000010 100  NP1     Argentina                Z2 Z3c 
+0000010 101  ,       ,                        
+0000010 110  VM      will                     T1.1.3 
+0000010 120  VVI     conclude                 X6+ T2- 
+0000010 130  DD1     this                     M6 Z5 Z8 
+0000010 140  NNT2    years                    T1.3 
+0000010 150  NN1     competition              K1 S7.3+ 
+0000010 151  ,       ,                        
+0000010 160  DDQ     which                    Z8 Z5 
+0000010 170  VVZ     starts                   T2+ E5- E3- 
+0000010 180  II      on                       Z5 
+0000010 190  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000010 200  NPM1    August                   T1.3 
+0000010 210  CC      and                      Z5 
+0000010 220  RR      also                     N5++ 
+0000010 230  VVZ     incorporates             A1.8+ S5+ 
+0000010 240  NN2     venues                   M7 
+0000010 250  II21    such                     Z5[i12.2.1 
+0000010 260  II22    as                       Z5[i12.2.2 Z5 
+0000010 270  NP1     Sydney                   Z2 
+0000010 271  ,       ,                        
+0000010 280  NP1     Wellington               Z1mf Z2 Z3c 
+0000010 281  ,       ,                        
+0000010 290  NP1     Buenos                   Z2[i14.2.1 Z1mf[i13.2.1 Z3c[i13.2.1 
+0000010 300  NP1     Aires                    Z2[i14.2.2 Z1mf[i13.2.2 Z3c[i13.2.2 
+0000010 310  CC      and                      Z5 
+0000010 320  NP1     Brisbane                 Z2 
+0000010 321  .       .                        
+0000011 001  -----   -----                    
+0000012 010  PPH1    It                       Z8 
+0000012 020  VVZ     means                    Q1.1 X7+ 
+0000012 030  CST     that                     Z5 Z8 
+0000012 040  NP1     Argentina                Z2 Z3c 
+0000012 050  CC      and                      Z5 
+0000012 060  NP1     Australia                Z2 
+0000012 070  VM      will                     T1.1.3 
+0000012 080  VBI     be                       M6[i15.2.1 A3+ Z5 
+0000012 090  RP      back                     M6[i15.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000012 100  II      at                       Z5 
+0000012 110  NP1     Twickenham               Z2 
+0000012 120  RR      almost                   A13.4 
+0000012 130  AT1     a                        Z5 
+0000012 140  NNT1    year                     T1.3 P1c 
+0000012 150  CS      after                    Z5 
+0000012 160  PPHS2   they                     Z8mfn 
+0000012 170  VVD     met                      S3.1 M6 A1.1.1 A6.1+ 
+0000012 180  PPX221  each                     Z8[i16.2.1 
+0000012 190  PPX222  other                    Z8[i16.2.2 
+0000012 200  II      on                       Z5 
+0000012 210  AT      the                      Z5 
+0000012 220  DA      same                     A6.1+++ 
+0000012 230  NN1     ground                   M6 W3 M7 O3 X2.1 
+0000012 240  II      in                       Z5 
+0000012 250  AT1     a                        Z5 
+0000012 260  NN1     World                    K5.1[i17.2.1 W1 S5+c A4.1 N5+ K5.1[i18.2.1 
+0000012 270  NN1     Cup                      K5.1[i17.2.2 O2 S7.3+ A5.1+/O2 K5.1[i18.2.2 
+0000012 280  NN1     semi-final               K5.1 
+0000012 290  CST     that                     Z5 Z8 
+0000012 300  AT      the                      Z5 
+0000012 310  NN2     Wallabies                Z99 
+0000012 320  VVD     won                      S7.1+ A9+ 
+0000012 330  MCMC    29-15                    N1 T1.2 T3 T1.3 N3.2 
+0000012 331  .       .                        
+0000013 001  -----   -----                    
+0000014 010  AT      The                      Z5 
+0000014 020  NN1     Sanzaar                  Z99 
+0000014 030  NN1     chief                    S7.1+ 
+0000014 040  NN1     executive                S7.1+ I2.1/S2mf G1.1c S7.1+/S5+c 
+0000014 041  ,       ,                        
+0000014 050  NP1     Andy                     Z1m 
+0000014 060  NP2     Marinos                  Z99 
+0000014 061  ,       ,                        
+0000014 070  VVD     said                     Q2.1 
+0000014 071  :       :                        
+0000014 072  NULL    <quote>                  
+0000014 073  -----   -----                    
+0000014 080  CS      While                    Z5 
+0000014 090  PPIS2   we                       Z8 
+0000014 100  VV0     witness                  X3.4 G2.1 A10+@ S9 
+0000014 110  AT      the                      Z5 
+0000014 120  JJ      daring                   E5+ 
+0000014 130  CC      and                      Z5 
+0000014 140  JJ      exciting                 X5.2+ 
+0000014 150  NN1     brand                    A4.1 Q1.1 
+0000014 160  IO      of                       Z5 
+0000014 170  NN1     rugby                    K5.1 
+0000014 180  VVN     played                   K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000014 190  II      by                       Z5 
+0000014 200  JJ      southern                 M6 
+0000014 210  NN1     hemisphere               W3 B1 
+0000014 220  NN2     teams                    S5+ K5.1/S5+ 
+0000014 230  II      on                       N6+[i20.4.1 Z5 A6.2+[i19.4.1 
+0000014 240  AT1     a                        N6+[i20.4.2 Z5 A6.2+[i19.4.2 
+0000014 250  JJ      regular                  N6+[i20.4.3 A6.2+ N6+ O4.1 I3.1 T2++ A13.3 A6.2+[i19.4.3 
+0000014 260  NN1     basis                    N6+[i20.4.4 A2.2 T2+ X4.2 A6.2+[i19.4.4 
+0000014 261  ,       ,                        
+0000014 270  MD      last                     P1/S2mf[i21.2.1 N4 
+0000014 280  NNT2    years                    P1/S2mf[i21.2.2 T1.3 
+0000014 290  NP1     Rugby                    Z2 
+0000014 300  NN1     World                    K5.1[i22.2.1 W1 S5+c A4.1 N5+ K5.1[i23.2.1 
+0000014 310  NN1     Cup                      K5.1[i22.2.2 O2 S7.3+ A5.1+/O2 K5.1[i23.2.2 
+0000014 320  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000014 330  CC      and                      Z5 
+0000014 340  RR      truly                    A5.2+ A5.4+ 
+0000014 350  VVN     showcased                A10+ 
+0000014 360  DD1     that                     Z5 Z8 
+0000014 370  NN1     skill                    X9.1+ 
+0000014 380  CC      and                      Z5 
+0000014 390  NN1     flair                    X9.1+ 
+0000014 400  II      to                       Z5 
+0000014 410  AT      the                      Z5 
+0000014 420  NN1     rest                     E3+ K1 T2-/T1.3 O2 N5.1- 
+0000014 430  IO      of                       Z5 
+0000014 440  AT      the                      Z5 
+0000014 450  NN1     world                    W1 S5+c A4.1 N5+ 
+0000014 451  .       .                        
+0000015 001  NULL    </quote>                 
+0000016 001  NULL    <quote>                  
+0000016 002  -----   -----                    
+0000016 010  RT      Now                      T1.1.2 Z4 
+0000016 011  ,       ,                        
+0000016 020  PPIS2   we                       Z8 
+0000016 030  VBR     are                      Z5 A3+ 
+0000016 040  VVN     thrilled                 E4.1+++ X5.2+++ 
+0000016 050  TO      to                       Z5 
+0000016 060  VVI     announce                 Q2.2 
+0000016 070  CST     that                     Z5 Z8 
+0000016 080  MC      two                      N1 T3 T1.2 
+0000016 090  IO      of                       Z5 
+0000016 100  APPGE   our                      Z8 
+0000016 110  JJ      national                 M7/N5.1+ 
+0000016 120  NN2     teams                    S5+ K5.1/S5+ 
+0000016 121  ,       ,                        
+0000016 130  NP1     Argentina                Z2 Z3c 
+0000016 140  CC      and                      Z5 
+0000016 150  NP1     Australia                Z2 
+0000016 151  ,       ,                        
+0000016 160  VM      will                     T1.1.3 
+0000016 170  VBI     be                       Z5 A3+ 
+0000016 180  VVG     returning                M1 A9- N6 
+0000016 190  II      to                       Z5 
+0000016 200  AT      the                      Z5 
+0000016 210  NP1     United                   Z2c[i25.2.1 Z3c Z1mf[i24.2.1 Z3c[i24.2.1 
+0000016 220  NP1     Kingdom                  Z2c[i25.2.2 Z1mf Z1mf[i24.2.2 Z3c[i24.2.2 
+0000016 230  DD      some                     N5 Z5 
+0000016 240  MC      12                       N1 T1.2 T3 T1.3 N3.2 
+0000016 250  NNT2    months                   T1.3 
+0000016 260  RRR     later                    T4-- T1.1.3 N4 
+0000016 270  TO      to                       Z5 
+0000016 280  VVI     contest                  S7.3 
+0000016 290  DDQ     what                     Z8 Z5 
+0000016 300  VM      will                     T1.1.3 
+0000016 310  VBI     be                       A3+ Z5 
+0000016 320  AT1     a                        Z5 
+0000016 330  JJ      historic                 T3+ 
+0000016 340  NN1     chapter                  Q4.1 T1.3 S9/S5c S5+c 
+0000016 350  IO      of                       Z5 
+0000016 360  AT      the                      Z5 
+0000016 370  NP1     Rugby                    Z2 
+0000016 380  NN1     Championship             K5/S7.3+ S7.1+/K5 S8+@ 
+0000016 381  .       .                        
+0000016 382  NULL    </quote>                 
+0000016 383  -----   -----                    
+0000018 010  NN2     Tickets                  Q1.2 G2.1/Q1.2 G1.2 
+0000018 011  ,       ,                        
+0000018 020  DDQ     which                    Z8 Z5 
+0000018 030  VV0     start                    T2+ E5- E3- 
+0000018 040  II      at                       Z5 
+0000018 050  MC      45                       N1 T1.2 T3 T1.3 N3.2 
+0000018 060  IF      for                      Z5 
+0000018 070  NN2     adults                   T3+/S2mf 
+0000018 071  ,       ,                        
+0000018 080  VM      will                     T1.1.3 
+0000018 090  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000018 100  II      on                       Z5 
+0000018 110  JJ      general                  N5+ A4.2- 
+0000018 120  NN1     sale                     I2.2 I2.2/I1.3- 
+0000018 130  RRR     later                    T4-- T1.1.3 N4 
+0000018 140  DD1     this                     M6 Z5 Z8 
+0000018 150  NNT1    week                     T1.3 
+0000018 151  .       .                        
+0000018 152  -----   -----                    
+0000018 160  AT      The                      Z5 
+0000018 170  NP1     Rugby                    Z2 
+0000018 180  NN1     Football                 K5.2 
+0000018 190  NN1     Union                    Z3c 
+0000018 200  NN1     chief                    S7.1+ 
+0000018 210  NN1     executive                S7.1+ I2.1/S2mf G1.1c S7.1+/S5+c 
+0000018 211  ,       ,                        
+0000018 220  NP1     Ian                      Z1mf[i26.2.1 Z3c[i26.2.1 Z1m 
+0000018 230  NP1     Ritchie                  Z1mf[i26.2.2 Z3c[i26.2.2 
+0000018 231  ,       ,                        
+0000018 240  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000018 241  :       :                        
+0000018 242  NULL    <quote>                  
+0000018 243  -----   -----                    
+0000018 250  VBDR    Were                     A3+ Z5 
+0000018 260  JJ      delighted                E4.1+ 
+0000018 270  TO      to                       Z5 
+0000018 280  VHI     have                     A9+ Z5 A2.2 S4 
+0000018 290  AT      the                      Z5 
+0000018 300  NP1     Rugby                    Z2 
+0000018 310  NN1     Championship             K5/S7.3+ S7.1+/K5 S8+@ 
+0000018 320  VVG     coming                   A4.1[i27.2.1 M1[i27.2.1 B1[i27.2.1 N5[i27.2.1 X6+[i27.2.1 X2.1[i27.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000018 330  II      to                       A4.1[i27.2.2 M1[i27.2.2 B1[i27.2.2 N5[i27.2.2 X6+[i27.2.2 X2.1[i27.2.2 Z5 
+0000018 340  NP1     Twickenham               Z2[i28.2.1 Z2 
+0000018 350  NN1     Stadium                  Z2[i28.2.2 K5.1/H1 
+0000018 360  DD1     this                     M6 Z5 Z8 
+0000018 370  NPM1    October                  T1.3 
+0000018 371  ,       ,                        
+0000018 380  AT      the                      Z5 
+0000018 390  MD      first                    N4 
+0000018 400  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000018 410  CST     that                     Z5 Z8 
+0000018 420  MC1     one                      N1 T3 T1.2 
+0000018 430  IO      of                       Z5 
+0000018 440  APPGE   its                      Z8 
+0000018 450  NN2     matches                  K5.1 O2 A6.1+ 
+0000018 460  VHZ     has                      Z5 A9+ A2.2 S4 
+0000018 470  VBN     been                     Z5 A3+ 
+0000018 480  VVN     played                   K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000018 490  II      in                       Z5 
+0000018 500  NP1     England                  Z2 
+0000018 501  .       .                        
+0000019 001  NULL    </quote>                 
+0000020 001  NULL    <quote>                  
+0000020 002  -----   -----                    
+0000020 010  II      After                    Z5 
+0000020 020  VVG     welcoming                Q2.2 S1.1.1 
+0000020 030  RG      so                       N5[i29.2.1 A13.3 
+0000020 040  DA2     many                     N5[i29.2.2 N5+ 
+0000020 050  NN2     teams                    S5+ K5.1/S5+ 
+0000020 060  CC      and                      Z5 
+0000020 070  NN2     fans                     S2/E2+mf O2 
+0000020 080  RL      here                     M6 T1.1.2 T1.2 
+0000020 090  II      during                   Z5 
+0000020 100  AT      the                      Z5 
+0000020 110  NP1     Rugby                    Z2 
+0000020 120  NN1     World                    K5.1[i30.2.1 W1 S5+c A4.1 N5+ K5.1[i31.2.1 
+0000020 130  NN1     Cup                      K5.1[i30.2.2 O2 S7.3+ A5.1+/O2 K5.1[i31.2.2 
+0000020 131  ,       ,                        
+0000020 140  APPGE   its                      Z8 
+0000020 150  JJ      fantastic                A5.1+ N5++ A6.2- A5.2- 
+0000020 160  TO      to                       Z5 
+0000020 170  VBI     be                       A3+ Z5 
+0000020 180  JK      able                     X9.1+ 
+0000020 190  TO      to                       Z5 
+0000020 200  VVI     open                     A10+ T2+ 
+0000020 210  APPGE   our                      Z8 
+0000020 220  NN2     doors                    H2 
+0000020 230  RT      again                    N6+ Z4 
+0000020 231  .       .                        
+0000020 232  -----   -----                    
+0000020 240  PPIS2   We                       Z8 
+0000020 250  VBDR    were                     Z5 A3+ 
+0000020 260  VVN     treated                  S1.1.1 A9- X4.2 X2.1 B3 A1.1.1 
+0000020 270  II      to                       Z5 
+0000020 280  AT1     a                        Z5 
+0000020 290  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000020 300  NN1     match                    K5.1 O2 A6.1+ 
+0000020 310  II      between                  Z5 
+0000020 320  DD2     these                    Z5 Z8 
+0000020 330  MC      two                      N1 T3 T1.2 
+0000020 340  NN2     teams                    S5+ K5.1/S5+ 
+0000020 350  II      in                       Z5 
+0000020 360  AT      the                      Z5 
+0000020 370  NP1     Rugby                    Z2 
+0000020 380  NN1     World                    K5.1[i32.2.1 W1 S5+c A4.1 N5+ K5.1[i33.2.1 
+0000020 390  NN1     Cup                      K5.1[i32.2.2 O2 S7.3+ A5.1+/O2 K5.1[i33.2.2 
+0000020 400  CC      and                      Z5 
+0000020 410  PPIS1   I                        Z8mf 
+0000020 420  VBM     am                       A3+ Z5 
+0000020 430  JJ      sure                     A7+ Z4 
+0000020 440  CST     that                     Z5 Z8 
+0000020 450  APPGE   its                      Z8 
+0000020 460  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
+0000020 470  TO      to                       Z5 
+0000020 480  VBI     be                       A3+ Z5 
+0000020 490  DD1     another                  A6.1- N5++ 
+0000020 500  NN1     high-octane              O1.2 X5.2+ 
+0000020 510  NN1     encounter                S3.1 A1.1.1 
+0000020 520  II      in                       Z5 
+0000020 530  AT      the                      Z5 
+0000020 540  NNT1    autumn                   T1.3 
+0000020 541  .       .                        
+0000020 542  NULL    </quote>                 
+0000022 001  NULL    **8;7;text               

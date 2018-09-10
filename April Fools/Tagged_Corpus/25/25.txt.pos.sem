@@ -1,0 +1,850 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     Intel                    Z3c 
+0000002 020  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 030  VVN     asked                    Q2.2 
+0000002 040  TO      to                       Z5 
+0000002 050  VHI     have                     A9+ Z5 A2.2 S4 
+0000002 060  APPGE   its                      Z8 
+0000002 070  NN1     name                     Q2.2 
+0000002 080  VVN     removed                  M2 
+0000002 090  II      from                     Z5 
+0000002 100  AT1     a                        Z5 
+0000002 110  NN1     list                     Q1.2 N4 M4 
+0000002 120  IO      of                       Z5 
+0000002 130  JJ      open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000002 140  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000002 150  NN2     licenses                 G1.1/Q1.2 S7.4+ 
+0000002 160  VVN     promoted                 S8+ I2.2/Q2.2 S7.1+/A2.1 
+0000002 170  II      by                       Z5 
+0000002 180  AT      the                      Z5 
+0000002 190  JJ      Open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000002 200  NN1     Source                   T2+ Q1.1 X2.2 W3/M4 
+0000002 210  NN1     Initiative               A1.1.1 X5.2+ 
+0000002 211  (       (                        
+0000002 220  NP1     OSI                      Z99 
+0000002 221  )       )                        
+0000002 222  .       .                        
+0000002 223  -----   -----                    
+0000002 230  AT      The                      Z5 
+0000002 240  NN1     move                     M1 M2 A2.1+ H4/A2.1 K5.2 
+0000002 250  VHZ     has                      A9+ Z5 A2.2 S4 
+0000002 260  DD      some                     N5 Z5 
+0000002 270  NN2     members                  S5+/S2mf B1 
+0000002 280  IO      of                       Z5 
+0000002 290  AT      the                      Z5 
+0000002 300  JJ      open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000002 310  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000002 320  NN1     community                S5+c 
+0000002 330  VVG     smiling                  E4.1+ 
+0000002 331  .       .                        
+0000003 001  -----   -----                    
+0000004 010  II      In                       Z5 
+0000004 020  AT1     an                       Z5 
+0000004 030  NN1     e-mail                   Y2 
+0000004 040  II      to                       Z5 
+0000004 050  AT      the                      Z5 
+0000004 060  NN1     OSI                      Z99 
+0000004 070  DD1     this                     M6 Z5 Z8 
+0000004 080  NNT1    week                     T1.3 
+0000004 081  ,       ,                        
+0000004 090  NP1     McCoy                    Z1mf[i1.2.1 Z3c[i1.2.1 Z1mf Z3c 
+0000004 100  NP1     Smith                    Z1mf[i1.2.2 Z3c[i1.2.2 Z1mf 
+0000004 101  ,       ,                        
+0000004 110  JJ      senior                   S7.1++ T3++ 
+0000004 120  JJ      intellectual             X2 X2.1 
+0000004 130  NN1     property                 A9+ H1/H3 O4.1 
+0000004 140  NN1     attorney                 G2.1/S2mf 
+0000004 150  II      at                       Z5 
+0000004 160  NP1     Intel                    Z3c 
+0000004 161  ,       ,                        
+0000004 170  VVD     asked                    Q2.2 
+0000004 180  TO      to                       Z5 
+0000004 190  VHI     have                     A9+ Z5 A2.2 S4 
+0000004 200  AT      the                      Z5 
+0000004 201  NULL    <quote>                  
+0000004 202  -----   -----                    
+0000004 203  "       "                        
+0000004 210  NP1     Intel                    Z3c 
+0000004 220  JJ      Open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000004 230  NN1     Source                   T2+ Q1.1 X2.2 W3/M4 
+0000004 240  NN1     License                  G1.1/Q1.2 S7.4+ 
+0000004 241  "       "                        
+0000004 242  NULL    </quote>                 
+0000004 243  -----   -----                    
+0000004 244  (       (                        
+0000004 250  RR      also                     N5++ 
+0000004 260  VVN     known                    X2.2+ S3.2/B1% 
+0000004 270  II      as                       Z5 
+0000004 271  NULL    <quote>                  
+0000004 272  -----   -----                    
+0000004 273  "       "                        
+0000004 280  NP1     BSD                      Z99 
+0000004 290  NN1     License                  G1.1/Q1.2 S7.4+ 
+0000004 300  IW      with                     Z5 
+0000004 310  NN1     Export                   I2.2/M2 
+0000004 320  NN1     Notice                   Q1.2 Q2.2 I3.1/Q2.2 G2.1/Q1.2 
+0000004 321  "       "                        
+0000004 322  NULL    </quote>                 
+0000004 323  -----   -----                    
+0000004 324  )       )                        
+0000004 330  VVN     taken                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000004 340  II      off                      Z5 E2- 
+0000004 350  AT      the                      Z5 
+0000004 360  NN1     list                     Q1.2 N4 M4 
+0000004 370  IO      of                       Z5 
+0000004 380  NN2     licenses                 G1.1/Q1.2 S7.4+ 
+0000004 390  VVN     approved                 S7.4+ E2+ G1.1 
+0000004 400  II      by                       Z5 
+0000004 410  NP1     OSI                      Z99 
+0000004 420  CC      and                      Z5 
+0000004 430  DD1     that                     Z8 Z5 
+0000004 440  VM      can                      A7+ 
+0000004 450  VBI     be                       Z5 A3+ 
+0000004 460  VVN     used                     A1.5.1 S7.1+ 
+0000004 470  II      in                       Z5 
+0000004 480  JJ      future                   T1.1.3 
+0000004 490  NN2     projects                 A1.1.1 P1 
+0000004 491  .       .                        
+0000006 001  NULL    <quote>                  
+0000006 002  -----   -----                    
+0000006 003  "       "                        
+0000006 010  PPIS2   We                       Z8 
+0000006 011  VBR     're                      Z5 A3+ 
+0000006 020  XX      not                      Z6 
+0000006 030  VVG     pulling                  T2-[i2.3.1 M2 A9+ M1 
+0000006 040  AT      the                      T2-[i2.3.2 Z5 
+0000006 050  NN1     plug                     T2-[i2.3.3 O3 O2 I2.2/Q2.2 
+0000006 060  II      on                       Z5 
+0000006 070  AT      the                      Z5 
+0000006 080  NN1     license                  G1.1/Q1.2 S7.4+ 
+0000006 090  RR      altogether               A13.2 N5.1+ A1.8+ 
+0000006 091  ,       ,                        
+0000006 100  PPIS2   we                       Z8 
+0000006 101  VBR     're                      Z5 A3+ 
+0000006 110  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000006 120  VVG     asking                   Q2.2 I1.3 
+0000006 130  NN2     OSI                      Z99 
+0000006 140  TO      to                       Z5 
+0000006 150  VVI     de-emphasize             Z99 
+0000006 160  DD1     this                     M6 Z5 Z8 
+0000006 170  NN1     license                  G1.1/Q1.2 S7.4+ 
+0000006 180  II      as                       Z5 
+0000006 190  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000006 200  IO      of                       Z5 
+0000006 210  APPGE   their                    Z8 
+0000006 220  NN1     list                     Q1.2 N4 M4 
+0000006 221  ,       ,                        
+0000006 222  "       "                        
+0000006 223  NULL    </quote>                 
+0000006 224  -----   -----                    
+0000006 230  NP1     Smith                    Z1mf 
+0000006 240  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000006 250  NNU     internetnews.com         N3.3 N3.7 
+0000006 251  .       .                        
+0000007 001  -----   -----                    
+0000008 010  NP1     OSI                      Z99 
+0000008 011  ,       ,                        
+0000008 020  DDQ     which                    Z8 Z5 
+0000008 030  VVZ     manages                  S7.1+ A1.1.1 X9.2+ 
+0000008 040  CC      and                      Z5 
+0000008 050  VVZ     certifies                Q2.2 
+0000008 060  JJ      open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000008 070  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000008 080  VVZ     licenses                 G1.1/Q1.2 S7.4+ 
+0000008 090  II      like                     Z5 
+0000008 100  AT      the                      Z5 
+0000008 110  NN1     GNU                      L2 
+0000008 120  JJ      General                  N5+ A4.2- 
+0000008 130  JJ      Public                   S5+ A10+ 
+0000008 140  NN1     License                  G1.1/Q1.2 S7.4+ 
+0000008 141  ,       ,                        
+0000008 150  AT      the                      Z5 
+0000008 160  NP1     Mozilla                  Z99 
+0000008 170  JJ      Public                   S5+ A10+ 
+0000008 180  NN1     License                  G1.1/Q1.2 S7.4+ 
+0000008 181  (       (                        
+0000008 190  NP1     MPL                      Z99 
+0000008 191  )       )                        
+0000008 200  CC      and                      Z5 
+0000008 210  AT      the                      Z5 
+0000008 220  JJ      Apache                   Z2/S2mf Z2/Q3 
+0000008 230  NN1     Software                 Y2 
+0000008 240  NN1     License                  G1.1/Q1.2 S7.4+ 
+0000008 241  (       (                        
+0000008 250  NP1     APL                      Z99 
+0000008 251  )       )                        
+0000008 252  ,       ,                        
+0000008 260  VHZ     has                      Z5 A9+ A2.2 S4 
+0000008 270  VBN     been                     Z5 A3+ 
+0000008 280  VVG     debating                 Q2.2 
+0000008 290  NN2     ways                     X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000008 300  IO      of                       Z5 
+0000008 310  VVG     consolidating            A7+/A2.1 S5+ 
+0000008 320  APPGE   its                      Z8 
+0000008 330  NN1     list                     Q1.2 N4 M4 
+0000008 340  IO      of                       Z5 
+0000008 350  RR      nearly                   A13.4 
+0000008 360  MC      60                       N1 T1.2 T3 T1.3 N3.2 
+0000008 370  JJ      approved                 S7.4+ E2+ G1.1 
+0000008 380  NN2     permits                  S7.4+ 
+0000008 381  .       .                        
+0000008 382  -----   -----                    
+0000008 390  AT      The                      Z5 
+0000008 400  NN2     licenses                 G1.1/Q1.2 S7.4+ 
+0000008 410  VBR     are                      Z5 A3+ 
+0000008 420  VVN     used                     T1.1.1[i3.2.1 A6.2+[i3.2.1 A1.5.1 S7.1+ 
+0000008 430  TO      to                       T1.1.1[i3.2.2 A6.2+[i3.2.2 Z5 
+0000008 440  VVI     regulate                 A1.7+/G1.1 A1.1.1 
+0000008 450  RRQ     how                      Z5 A13.3 
+0000008 460  NN2     programmers              Y2/S2mf Q4.3/S2mf 
+0000008 470  VM      can                      A7+ 
+0000008 480  VVI     read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000008 481  ,       ,                        
+0000008 490  VVI     redistribute             A9-/N6 
+0000008 491  ,       ,                        
+0000008 500  CC      and                      Z5 
+0000008 510  VVI     modify                   A2.1+ 
+0000008 520  AT      the                      Z5 
+0000008 530  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000008 540  NN1     code                     G2.1 A10-/Q1.1 G2.2 A4.1 Y2@ B3% B1% 
+0000008 550  IF      for                      Z5 
+0000008 560  AT1     a                        Z5 
+0000008 570  NN1     piece                    N5.1- O2 Q4 K2 K4 G3@ 
+0000008 580  IO      of                       Z5 
+0000008 590  NN1     software                 Y2 
+0000008 591  .       .                        
+0000009 001  -----   -----                    
+0000009 010  RRQ     Why                      A2.2 
+0000009 020  NN1     Cloud                    Z1m 
+0000009 030  VBZ     is                       A3+ Z5 
+0000009 040  RR      Always                   N6+++ 
+0000009 050  RGR     Less                     A13.6 
+0000009 060  JJ      Expensive                I1.3+ 
+0000009 070  CC      and                      Z5 
+0000009 080  NP1     TCO                      Z99 
+0000009 090  NN1     Analysis                 X2.4 Y1 
+0000010 010  NN1     Download                 M2 
+0000010 020  RT      Now                      T1.1.2 Z4 
+0000012 010  AT      The                      Z5 
+0000012 020  NN1     concern                  E6- I2.1 
+0000012 030  II      by                       Z5 
+0000012 040  NN1     community                S5+c 
+0000012 050  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000012 060  VBZ     is                       A3+ Z5 
+0000012 070  CST     that                     Z5 Z8 
+0000012 080  AT1     an                       Z5 
+0000012 090  JJ%     over                     Z5 N5.2+ T2- K5.1 A13.2 M6 
+0000012 100  NN1     abundance                N5+ 
+0000012 110  IO      of                       Z5 
+0000012 120  NN2     licenses                 G1.1/Q1.2 S7.4+ 
+0000012 121  ,       ,                        
+0000012 130  DD      some                     N5 Z5 
+0000012 140  IW      with                     Z5 
+0000012 150  JJ      only                     A14 
+0000012 160  JJ      subtle                   A11.2- X9.1+ 
+0000012 170  NN2     differences              A6.1- 
+0000012 180  II      between                  Z5 
+0000012 190  PPHO2   them                     Z8mfn 
+0000012 191  ,       ,                        
+0000012 200  VVZ     ends                     T2-[i4.2.1 T2- 
+0000012 210  RP      up                       T2-[i4.2.2 
+0000012 220  VVG     costing                  I1.3 I1.2 
+0000012 230  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000012 240  DAR     more                     N5++ 
+0000012 250  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000012 260  CC      and                      Z5 
+0000012 270  NN1     money                    I1 
+0000012 280  CSN     than                     Z5 
+0000012 290  DD      some                     N5 Z5 
+0000012 300  VM      would                    A7+ 
+0000012 310  VVI     like                     E2+ 
+0000012 320  TO      to                       Z5 
+0000012 330  VVI     invest                   I1.1 
+0000012 331  .       .                        
+0000013 001  -----   -----                    
+0000014 010  JJ      Open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000014 020  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000014 030  NN2     dignitaries              S7.1+/S2mf 
+0000014 040  II      like                     Z5 
+0000014 050  NN1     lawyer                   G2.1/I3.2/S2mf 
+0000014 060  NP1     Larry                    Z1mf[i5.2.1 Z3c[i5.2.1 Z1m 
+0000014 070  NP1     Rosen                    Z1mf[i5.2.2 Z3c[i5.2.2 
+0000014 080  CC      and                      Z5 
+0000014 090  NN1     HP                       Z3c 
+0000014 091  GE      's                       Z5 
+0000014 100  NN1     Linux                    Y2 
+0000014 110  NN1     guru                     X2.2+/S2mf S9/S7.1+/S2.2m 
+0000014 120  NP1     Martin                   Z1mf[i6.2.1 Z3c[i6.2.1 Z1mf 
+0000014 130  NP1     Fink                     Z1mf[i6.2.2 Z3c[i6.2.2 
+0000014 140  VBR     are                      A3+ Z5 
+0000014 150  II      among                    Z5 
+0000014 160  DD2     those                    Z8 Z5 
+0000014 170  VVG     championing              S8+ 
+0000014 180  NP1     OSI                      Z99 
+0000014 181  GE      's                       Z5 
+0000014 190  NN1     consolidation            A7+/A2.1 S5+ 
+0000014 200  NN2     efforts                  X8+ O2 
+0000014 201  .       .                        
+0000015 001  -----   -----                    
+0000016 010  NP1     Smith                    Z1mf 
+0000016 020  VVD     said                     Q2.1 
+0000016 030  NP1     Intel                    Z3c 
+0000016 040  VBDZ    was                      A3+ Z5 
+0000016 050  II      in                       A1.1.1[i7.4.1 Z5 
+0000016 060  AT      the                      A1.1.1[i7.4.2 Z5 
+0000016 070  NN1     process                  A1.1.1[i7.4.3 A1.1.1 X4.2 
+0000016 080  IO      of                       A1.1.1[i7.4.4 Z5 
+0000016 090  VVG     reviewing                X2.4/A5 P1 Q4 G3 
+0000016 100  APPGE   its                      Z8 
+0000016 110  NN2     files                    O2/Q1.2 O2 Y2 S5+/N4 
+0000016 120  CS      when                     Z5 
+0000016 130  PPH1    it                       Z8 
+0000016 140  VVD     found                    A10+ X2.1 X6+ 
+0000016 150  CST     that                     Z5 Z8 
+0000016 160  AT      the                      Z5 
+0000016 170  NN1     license                  G1.1/Q1.2 S7.4+ 
+0000016 180  VHD     had                      Z5 A9+ A2.2 S4 
+0000016 181  XX      n't                      Z6 
+0000016 190  VBN     been                     Z5 A3+ 
+0000016 200  VVN     used                     A1.5.1 S7.1+ 
+0000016 210  RL      inside                   M6[i8.2.1 T1.3[i8.2.1 M6 G2.1@ 
+0000016 220  IO      of                       M6[i8.2.2 T1.3[i8.2.2 Z5 
+0000016 230  NP1     Intel                    Z3c 
+0000016 240  IF      for                      Z5 
+0000016 250  RG      about                    A13.4 
+0000016 260  MC      five                     N1 T3 T1.2 
+0000016 270  NNT2    years                    T1.3 
+0000016 280  CC      and                      Z5 
+0000016 290  CST     that                     Z5 Z8 
+0000016 300  EX      there                    Z5 
+0000016 310  VBDR    were                     A3+ Z5 
+0000016 320  RR      only                     A14 
+0000016 330  AT1     a                        Z5 
+0000016 340  NN1     handful                  N5 A12- 
+0000016 350  IO      of                       Z5 
+0000016 360  NN2     places                   M7 H1 A1.2 P1 
+0000016 370  II      outside                  Z5 
+0000016 380  AT      the                      Z5 
+0000016 390  NP1     Santa                    Z1mf[i9.2.1 Z3c[i9.2.1 Z1m/S9 
+0000016 400  NP1     Clara                    Z1mf[i9.2.2 Z3c[i9.2.2 
+0000016 401  ,       ,                        
+0000016 410  NP1     Calif.                   Z2 
+0000016 420  JJ      -based                   M6 A2.2 
+0000016 430  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000016 440  CST     that                     Z8 Z5 
+0000016 450  VVD     used                     A1.5.1 S7.1+ 
+0000016 460  PPH1    it                       Z8 
+0000016 470  RR21    as                       N5++[i10.2.1 
+0000016 480  RR22    well                     N5++[i10.2.2 A5.1+ A13.3 A7+ B2+ Z4 
+0000016 481  .       .                        
+0000016 482  -----   -----                    
+0000016 490  AT      The                      Z5 
+0000016 500  NN1     decision                 X6+ 
+0000016 510  VBDZ    was                      Z5 A3+ 
+0000016 520  RRR     further                  N5++ N3.3++ T2++ 
+0000016 530  VVN     solidified               O1.1 A7+ 
+0000016 531  ,       ,                        
+0000016 540  NP1     Smith                    Z1mf 
+0000016 550  RRR     later                    T4-- T1.1.3 N4 
+0000016 560  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000016 570  NNU     internetnews.com         N3.3 N3.7 
+0000016 571  ,       ,                        
+0000016 580  II      after                    Z5 
+0000016 590  VVG     seeing                   X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000016 600  RRQ     how                      Z5 A13.3 
+0000016 610  NP1     Rosen                    Z99 
+0000016 620  CC      and                      Z5 
+0000016 630  NP1     Fink                     Z99 
+0000016 640  VHD     had                      Z5 A9+ A2.2 S4 
+0000016 650  VVN     rallied                  S1.1.1 S1.2.5+/A2.1 
+0000016 660  AT      the                      Z5 
+0000016 670  JJ      open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000016 680  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000016 690  NN1     community                S5+c 
+0000016 700  II      around                   Z5 
+0000016 710  AT      the                      Z5 
+0000016 720  NN1     effort                   X8+ O2 
+0000016 721  .       .                        
+0000018 001  NULL    <quote>                  
+0000018 002  -----   -----                    
+0000018 003  "       "                        
+0000018 010  PPH1    It                       Z8 
+0000018 020  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000018 030  XX      not                      Z6 
+0000018 040  VVI     appear                   A8 A10+ A3+ G2.1 K4 Q4 
+0000018 050  CST     that                     Z5 Z8 
+0000018 060  AT      the                      Z5 
+0000018 070  NP1     Intel                    Z3c 
+0000018 080  JJ      Open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000018 090  NN1     Source                   T2+ Q1.1 X2.2 W3/M4 
+0000018 100  NN1     License                  G1.1/Q1.2 S7.4+ 
+0000018 110  VHZ     has                      Z5 A9+ A2.2 S4 
+0000018 120  VVN     found                    A10+ X2.1 X6+.1 
+0000018 130  DA1     much                     N5+ I1.3+ 
+0000018 140  NN1     use                      A1.5.1 
+0000018 141  ,       ,                        
+0000018 142  "       "                        
+0000018 143  NULL    </quote>                 
+0000018 144  -----   -----                    
+0000018 150  NP1     Smith                    Z1mf 
+0000018 160  VVD     said                     Q2.1 
+0000018 170  II      in                       Z5 
+0000018 180  AT1     a                        Z5 
+0000018 190  NN1     posting                  Q1.2 M2 I3.1 
+0000018 200  II      to                       Z5 
+0000018 210  NP1     OSI                      Z99 
+0000018 211  GE      's                       Z5 
+0000018 220  JJ      public                   S5+ A10+ 
+0000018 230  NN1     mailing                  Q1.2[i11.2.1 Q1.2 
+0000018 240  NN1     list                     Q1.2[i11.2.2 Q1.2 N4 M4 
+0000018 241  .       .                        
+0000018 242  NULL    <quote>                  
+0000018 243  -----   -----                    
+0000018 244  "       "                        
+0000018 250  RL      There                    M6 T1.2 
+0000018 260  RR      approximately            A13.4 
+0000018 270  MC      25                       N1 T1.2 T3 T1.3 N3.2 
+0000018 280  NN2     projects                 A1.1.1 P1 
+0000018 290  II      on                       Z5 
+0000018 300  NP1     SourceForge              Z99 
+0000018 310  VVG     using                    A1.5.1 S7.1+ 
+0000018 320  AT      the                      Z5 
+0000018 330  NN1     license                  G1.1/Q1.2 S7.4+ 
+0000018 331  ,       ,                        
+0000018 340  DAT     most                     N5+++ 
+0000018 350  IO      of                       Z5 
+0000018 360  DDQ     which                    Z8 Z5 
+0000018 370  VV0     appear                   A8 A10+ A3+ G2.1 K4 Q4 
+0000018 380  TO      to                       Z5 
+0000018 390  VHI     have                     Z5 A9+ A2.2 S4 
+0000018 400  VBN     been                     A3+ Z5 
+0000018 410  JK      able                     X9.1+ 
+0000018 420  TO      to                       Z5 
+0000018 430  VVI     use                      A1.5.1 S7.1+ 
+0000018 440  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000018 450  AT      the                      Z5 
+0000018 460  JJ      plain                    O4.1 A11.2+ A12+ A13.3 A6.2+ 
+0000018 470  NP1     BSD                      Z99 
+0000018 480  NN1     license                  G1.1/Q1.2 S7.4+ 
+0000018 490  IW      without                  Z5 
+0000018 500  AT1     an                       Z5 
+0000018 510  NN1     export                   I2.2/M2 
+0000018 520  NN1     notice                   Q1.2 Q2.2 I3.1/Q2.2 G2.1/Q1.2 
+0000018 521  .       .                        
+0000018 522  -----   -----                    
+0000018 530  RR      Therefore                Z5 
+0000018 540  NP1     Intel                    Z3c 
+0000018 550  VVZ     believes                 X2.1 S9% 
+0000018 560  AT      the                      Z5 
+0000018 570  NP1     Intel                    Z3c 
+0000018 580  JJ      Open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000018 590  NN1     Source                   T2+ Q1.1 X2.2 W3/M4 
+0000018 600  NN1     License                  G1.1/Q1.2 S7.4+ 
+0000018 610  VM      could                    A7+ 
+0000018 620  VBI     be                       Z5 A3+ 
+0000018 630  VVN     removed                  M2 
+0000018 640  II      from                     Z5 
+0000018 650  AT      the                      Z5 
+0000018 660  JJ      approved                 S7.4+ E2+ G1.1 
+0000018 670  NN1     list                     Q1.2 N4 M4 
+0000018 680  IW      without                  Z5 
+0000018 690  VVG     causing                  A2.2 
+0000018 700  JJ      significant              A11.1+ N5+ 
+0000018 710  NN2     problems                 A12- X4.1 N2 B2- 
+0000018 711  .       .                        
+0000018 712  "       "                        
+0000018 713  NULL    </quote>                 
+0000018 714  -----   -----                    
+0000020 010  VV0     Fink                     Z99 
+0000020 020  CC      and                      Z5 
+0000020 030  NN2     others                   A6.1-/Z8 
+0000020 040  II      in                       Z5 
+0000020 050  AT      the                      Z5 
+0000020 060  NN1     community                S5+c 
+0000020 070  RR      immediately              N3.8+ T1.1.2/A11.1+ N4 
+0000020 080  VVD     applauded                E2+ X3.2+ 
+0000020 090  NP1     Intel                    Z3c 
+0000020 100  IF      for                      Z5 
+0000020 110  APPGE   its                      Z8 
+0000020 120  NN2     efforts                  X8+ O2 
+0000020 121  ,       ,                        
+0000020 130  VVG     describing               Q2.2 
+0000020 140  AT      the                      Z5 
+0000020 150  NN1     gesture                  Q1.1/B1 A10+ M1 A1.1.1 
+0000020 160  II      as                       Z5 
+0000020 170  MC1     one                      N1 T3 T1.2 
+0000020 180  IO      of                       Z5 
+0000020 190  JJ      true                     A5.2+ A5.4+ 
+0000020 191  NULL    <quote>                  
+0000020 192  -----   -----                    
+0000020 193  "       "                        
+0000020 200  NN1     leadership               S7.1+ 
+0000020 201  .       .                        
+0000020 202  "       "                        
+0000020 203  NULL    </quote>                 
+0000020 204  -----   -----                    
+0000022 010  NP1     OSI                      Z99 
+0000022 011  ,       ,                        
+0000022 020  NN1     Director                 S7.1+/S2mf K4/S2mf 
+0000022 030  IO      of                       Z5 
+0000022 040  JJ      Legal                    G2.1 G2.1+ 
+0000022 050  NN2     Affairs                  A1.1.1 S1.1.1 S3.2 
+0000022 051  ,       ,                        
+0000022 060  NP1     Laura                    Z1mf[i12.2.1 Z3c[i12.2.1 Z1f 
+0000022 070  NP1     Majerus                  Z1mf[i12.2.2 Z3c[i12.2.2 
+0000022 071  ,       ,                        
+0000022 080  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000022 090  NNU     internetnews.com         N3.3 N3.7 
+0000022 100  DD1     that                     Z8 Z5 
+0000022 110  CS      since                    Z5 
+0000022 120  DD1     this                     Z8 M6 Z5 
+0000022 130  VBZ     is                       A3+ Z5 
+0000022 140  AT      the                      Z5 
+0000022 150  MD      first                    N4 
+0000022 160  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000022 170  AT1     a                        Z5 
+0000022 180  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000022 190  VHZ     has                      Z5 A9+ A2.2 S4 
+0000022 200  VVN     volunteered              A9-/X7+ Q2.2 
+0000022 210  TO      to                       Z5 
+0000022 220  RR21    no                       T2-[i13.2.1 Z6 
+0000022 230  RR22    longer                   T2-[i13.2.2 T1.3++ 
+0000022 240  VVI     promote                  S8+ I2.2/Q2.2 S7.1+/A2.1 
+0000022 250  AT1     a                        Z5 
+0000022 260  NN1     license                  G1.1/Q1.2 S7.4+ 
+0000022 261  ,       ,                        
+0000022 270  AT      the                      Z5 
+0000022 280  NN1     license                  G1.1/Q1.2 S7.4+ 
+0000022 290  VHZ     has                      Z5 A9+ A2.2 S4 
+0000022 300  XX      not                      Z6 
+0000022 310  VBN     been                     Z5 A3+ 
+0000022 320  VVN     pulled                   A1.1.2[i14.2.1 M2[i14.2.1 S8-[i14.2.1 Q2.2[i14.2.1 M2 A9+ M1 
+0000022 330  RP      down                     A1.1.2[i14.2.2 M2[i14.2.2 S8-[i14.2.2 Q2.2[i14.2.2 
+0000022 340  RR      yet                      T1.1.2 
+0000022 350  CS      because                  Z5/A2.2 
+0000022 360  AT      the                      Z5 
+0000022 370  NN1     organization             S5+c S7.1+ 
+0000022 380  VBZ     is                       Z5 A3+ 
+0000022 390  RR      still                    T2++ Z4 E3+ 
+0000022 400  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000022 410  II      on                       Z5 
+0000022 420  AT      the                      Z5 
+0000022 430  NN1     process                  A1.1.1 X4.2 
+0000022 440  IF      for                      Z5 
+0000022 450  RRQ     how                      Z5 A13.3 
+0000022 460  TO      to                       Z5 
+0000022 470  VVI     formalize                Z99 
+0000022 480  NP1     Intel                    Z3c 
+0000022 481  GE      's                       Z5 
+0000022 490  NN1     request                  Q2.1 Q2.2 
+0000022 491  .       .                        
+0000024 001  NULL    <quote>                  
+0000024 002  -----   -----                    
+0000024 003  "       "                        
+0000024 010  CS      Because                  Z5/A2.2 
+0000024 020  NP1     Intel                    Z3c 
+0000024 030  VBZ     is                       A3+ Z5 
+0000024 040  AT      the                      Z5 
+0000024 050  NN1     originator               T2+/S2mf 
+0000024 060  IO      of                       Z5 
+0000024 070  DD1     this                     M6 Z5 Z8 
+0000024 080  NN1     license                  G1.1/Q1.2 S7.4+ 
+0000024 081  ,       ,                        
+0000024 090  RR21    of                       Z4[i15.2.1 
+0000024 100  RR22    course                   Z4[i15.2.2 Z4 
+0000024 110  PPHS2   they                     Z8mfn 
+0000024 120  VM      can                      A7+ 
+0000024 130  VVI     decide                   X6+ 
+0000024 140  CST     that                     Z8 Z5 
+0000024 150  PPHS2   they                     Z8mfn 
+0000024 160  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000024 170  XX      not                      Z6 
+0000024 180  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
+0000024 190  TO      to                       Z5 
+0000024 200  VVI     promote                  S8+ I2.2/Q2.2 S7.1+/A2.1 
+0000024 210  PPH1    it                       Z8 
+0000024 220  IF      for                      Z5 
+0000024 230  JJ      future                   T1.1.3 
+0000024 240  NN1     use                      A1.5.1 
+0000024 241  ,       ,                        
+0000024 242  "       "                        
+0000024 243  NULL    </quote>                 
+0000024 244  -----   -----                    
+0000024 250  NP1@    Majerus                  Z99 
+0000024 260  VVD     said                     Q2.1 
+0000024 261  .       .                        
+0000024 262  NULL    <quote>                  
+0000024 263  -----   -----                    
+0000024 264  "       "                        
+0000024 270  CC      And                      Z5 
+0000024 280  PPH1    it                       Z8 
+0000024 290  VVZ     makes                    X2.5+[i16.2.1 S1.2.6+[i16.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000024 300  NN1     sense                    X2.5+[i16.2.2 S1.2.6+[i16.2.2 A4.1 Q3 X3 S1.2.6+ E1 X2.1 X9.1+ A8 
+0000024 310  CST     that                     Z5 Z8 
+0000024 320  NN      people                   S2mfc 
+0000024 330  CC      and                      Z5 
+0000024 340  NN2     organizations            S5+c S7.1+ 
+0000024 350  PNQS    who                      Z8 
+0000024 360  VH0     have                     Z5 A9+ A2.2 S4 
+0000024 370  RR      already                  T1.1.1 
+0000024 380  VVN     released                 A1.7- A9- 
+0000024 390  NN1     code                     G2.1 A10-/Q1.1 G2.2 A4.1 Y2@ B3% B1% 
+0000024 400  II      under                    Z5 
+0000024 410  AT1     a                        Z5 
+0000024 420  NN1     license                  G1.1/Q1.2 S7.4+ 
+0000024 430  II      in                       T1.1.1[i17.3.1 Z5 
+0000024 440  AT      the                      T1.1.1[i17.3.2 Z5 
+0000024 450  NN1     past                     T1.1.1[i17.3.3 T1.1.1 
+0000024 460  VM      should                   S6+ A7+ 
+0000024 470  VBI     be                       A3+ Z5 
+0000024 480  JJ      able                     X9.1+ 
+0000024 490  VV0     continue                 T2++ 
+0000024 500  TO      to                       Z5 
+0000024 510  VVI     use                      A1.5.1 S7.1+ 
+0000024 520  AT      the                      Z5 
+0000024 530  NN1     license                  G1.1/Q1.2 S7.4+ 
+0000024 540  CC      and                      Z5 
+0000024 550  VVI     call                     Q2.2 S1.1.1 Q1.3 S9% 
+0000024 560  PPH1    it                       Z8 
+0000024 570  VV0     'open                    Z99 
+0000024 580  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000024 581  .       .                        
+0000024 582  "@      '                        
+0000024 583  "       "                        
+0000024 584  NULL    </quote>                 
+0000024 585  -----   -----                    
+0000026 010  AT      The                      Z5 
+0000026 020  NN1     barrier                  S8- A10- O2 S1.2.1- 
+0000026 030  II      at                       T1.1.2[i18.3.1 Z5 
+0000026 040  DD1     this                     T1.1.2[i18.3.2 M6 Z5 Z8 
+0000026 050  NN1     point                    T1.1.2[i18.3.3 Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
+0000026 051  ,       ,                        
+0000026 060  II21    according                Z5[i19.2.1 Z5 
+0000026 070  II22    to                       Z5[i19.2.2 Z5 
+0000026 080  NP1     Majerus                  Z99 
+0000026 081  ,       ,                        
+0000026 090  VBZ     is                       A3+ Z5 
+0000026 100  DD1     that                     Z8 Z5 
+0000026 110  CS21    even                     Z5[i20.2.1 
+0000026 120  CS22    though                   Z5[i20.2.2 Z5 
+0000026 130  NN2     OSI                      Z99 
+0000026 140  VM      can                      A7+ 
+0000026 150  VVI     tell                     Q2.2 Q2.1 X3 A10+ 
+0000026 160  NN2     developers               H1/S2mf C1/O1.2 
+0000026 170  CST     that                     Z5 Z8 
+0000026 180  JJ      certain                  A4.2+ A7+ 
+0000026 190  NN2     licenses                 G1.1/Q1.2 S7.4+ 
+0000026 200  VBR     are                      Z5 A3+ 
+0000026 210  RR21    no                       T2-[i21.2.1 Z6 
+0000026 220  RR22    longer                   T2-[i21.2.2 T1.3++ 
+0000026 230  VVN     promoted                 S8+ I2.2/Q2.2 S7.1+/A2.1 
+0000026 240  II      by                       Z5 
+0000026 250  AT      the                      Z5 
+0000026 260  NN      people                   S2mfc 
+0000026 270  PNQS    who                      Z8 
+0000026 280  VVD     wrote                    Q1.2 I2.1 
+0000026 290  PPHO2   them                     Z8mfn 
+0000026 291  ,       ,                        
+0000026 300  NP1     OSI                      Z99 
+0000026 310  VHZ     has                      A9+ Z5 A2.2 S4 
+0000026 320  AT      no                       Z6 
+0000026 330  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
+0000026 340  NN1     mechanism                O2 
+0000026 350  TO      to                       Z5 
+0000026 360  VVI     tell                     Q2.2 Q2.1 X3 A10+ 
+0000026 370  NN      people                   S2mfc 
+0000026 380  CST     that                     Z8 Z5 
+0000026 390  PPHS2   they                     Z8mfn 
+0000026 400  VM      can                      A7+ 
+0000026 401  XX      not                      Z6 
+0000026 410  VVI     use                      A1.5.1 S7.1+ 
+0000026 420  AT1     a                        Z5 
+0000026 430  JJ      particular               A4.2+ X7+ 
+0000026 440  NN1     license                  G1.1/Q1.2 S7.4+ 
+0000026 450  RR      anymore                  Z5 
+0000026 451  .       .                        
+0000028 001  NULL    <quote>                  
+0000028 002  -----   -----                    
+0000028 003  "       "                        
+0000028 010  AT      The                      Z5 
+0000028 020  NN1     OSI                      Z99 
+0000028 030  VVZ     needs                    S6+ 
+0000028 040  AT1     a                        Z5 
+0000028 050  RGR     more                     A13.3 
+0000028 060  JJ      formal                   S1.2.1- G1.1 A6.2+ O4.2 
+0000028 070  NN1     procedure                X4.2 
+0000028 080  TO      to                       Z5 
+0000028 090  VVI     allow                    S7.4+ S8+ X2.1 
+0000028 100  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000028 110  TO      to                       Z5 
+0000028 120  VVI     remove                   M2 
+0000028 130  NN2     licenses                 G1.1/Q1.2 S7.4+ 
+0000028 140  II      from                     Z5 
+0000028 150  JJ      'active                  Z99 
+0000028 160  JJ      license'                 Z99 
+0000028 170  NN1     status                   S7.1 A4.1 A11.1 
+0000028 171  ,       ,                        
+0000028 172  "       "                        
+0000028 173  NULL    </quote>                 
+0000028 174  -----   -----                    
+0000028 180  PPHS1   she                      Z8f 
+0000028 190  VVD     said                     Q2.1 
+0000028 191  .       .                        
+0000028 192  NULL    <quote>                  
+0000028 193  -----   -----                    
+0000028 194  "       "                        
+0000028 200  CS      If                       Z7 
+0000028 210  PN1     nothing                  Z6/Z8 
+0000028 220  RR      else                     A6.1- Z4 
+0000028 221  ,       ,                        
+0000028 230  PPIS2   we                       Z8 
+0000028 240  VV0     need                     S6+ 
+0000028 250  TO      to                       Z5 
+0000028 260  VVI     make                     A7+[i22.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000028 270  JJ      sure                     A7+[i22.2.2 A7+ Z4 
+0000028 280  CST     that                     Z5 Z8 
+0000028 290  DB      all                      N5.1+ 
+0000028 300  JJ      relevant                 A1.2+ A1.5.2+ 
+0000028 310  NN2     parties                  S1.1.3+ G1.2 S1.1.3+/S2mf S5+ 
+0000028 320  II      in                       Z5 
+0000028 330  AT1     a                        Z5 
+0000028 340  NN1     corporation              I2.1/S5c G1.1c 
+0000028 350  VV0     agree                    A6.1+ Q2.2 
+0000028 360  CST     that                     Z8 Z5 
+0000028 370  PPHS2   they                     Z8mfn 
+0000028 380  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000028 390  TO      to                       Z5 
+0000028 400  VVI     change                   A2.1+ I1 B5 
+0000028 410  AT      the                      Z5 
+0000028 420  NN1     status                   S7.1 A4.1 A11.1 
+0000028 430  IO      of                       Z5 
+0000028 440  AT1     a                        Z5 
+0000028 450  NN1     license                  G1.1/Q1.2 S7.4+ 
+0000028 451  .       .                        
+0000028 452  "       "                        
+0000028 453  NULL    </quote>                 
+0000028 454  -----   -----                    
+0000030 010  II21    As                       Z5[i23.2.1 Z5 
+0000030 020  II22    for                      Z5[i23.2.2 
+0000030 030  NP1     Intel                    Z3c 
+0000030 031  ,       ,                        
+0000030 040  NP1     Smith                    Z1mf 
+0000030 050  VVD     said                     Q2.1 
+0000030 060  AT      the                      Z5 
+0000030 070  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000030 080  VBZ     is                       A3+ Z5 
+0000030 090  JJ      concerned                E6- A1.8+ A2.2 S1.1.3+ 
+0000030 100  CST     that                     Z8 Z5 
+0000030 110  VVG     de-listing               I2.1 
+0000030 120  AT      the                      Z5 
+0000030 130  NP1     Intel                    Z3c 
+0000030 140  NN1     license                  G1.1/Q1.2 S7.4+ 
+0000030 150  VDZ     does                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000030 160  XX      not                      Z6 
+0000030 170  NN1     impact                   A2.2 A1.1.1 
+0000030 180  NN1     legacy                   A9+/I1.1 A9+/S1.1.1 
+0000030 190  NN2     projects                 A1.1.1 P1 
+0000030 191  .       .                        
+0000032 001  NULL    <quote>                  
+0000032 002  -----   -----                    
+0000032 003  "       "                        
+0000032 010  AT      The                      Z5 
+0000032 020  NN1     'de-approval'            Z99 
+0000032 030  IO      of                       Z5 
+0000032 040  DD1     this                     M6 Z5 Z8 
+0000032 050  NN1     license                  G1.1/Q1.2 S7.4+ 
+0000032 060  VM      should                   S6+ A7+ 
+0000032 070  XX      not                      Z6 
+0000032 080  VBI     be                       A3+ Z5 
+0000032 090  JJ      retroactive              Z99 
+0000032 100  II      to                       Z5 
+0000032 110  JJ      past                     T1.1.1 
+0000032 120  NN2     uses                     A1.5.1 
+0000032 121  ,       ,                        
+0000032 130  CS      since                    Z5 
+0000032 140  PPIS2   we                       Z8 
+0000032 150  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000032 160  XX      not                      Z6 
+0000032 170  VVI     wish                     X7+ 
+0000032 180  TO      to                       Z5 
+0000032 190  VVI     force                    S7.1+ A1.1.1 E3- 
+0000032 200  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000032 201  (       (                        
+0000032 210  II      including                A1.8+ 
+0000032 220  NP1     Intel                    Z3c 
+0000032 221  )       )                        
+0000032 230  CC      and                      Z5 
+0000032 240  NN2     individuals              S2mf 
+0000032 250  TO      to                       Z5 
+0000032 260  VHI     have                     S6+[i24.2.1 A9+ Z5 A2.2 S4 
+0000032 270  TO      to                       S6+[i24.2.2 Z5 
+0000032 280  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000032 290  II      through                  Z5 
+0000032 300  AT      the                      Z5 
+0000032 310  NN1     trouble                  E6- A12- B2- E3- X8+ O4.2- 
+0000032 320  IO      of                       Z5 
+0000032 330  VVG     re-licensing             Z99 
+0000032 340  NN1     code                     G2.1 A10-/Q1.1 G2.2 A4.1 Y2@ B3% B1% 
+0000032 350  PPHS2   they                     Z8mfn 
+0000032 360  VM      may                      A7+ 
+0000032 370  VHI     have                     Z5 A9+ A2.2 S4 
+0000032 380  VVN     released                 A1.7- A9- 
+0000032 390  II      in                       T1.1.1[i25.3.1 Z5 
+0000032 400  AT      the                      T1.1.1[i25.3.2 Z5 
+0000032 410  NN1     past                     T1.1.1[i25.3.3 T1.1.1 
+0000032 420  II      under                    Z5 
+0000032 430  NP1     Intel                    Z3c 
+0000032 440  JJ      Open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000032 450  NN1     Source                   T2+ Q1.1 X2.2 W3/M4 
+0000032 460  NN1     License                  G1.1/Q1.2 S7.4+ 
+0000032 470  CS      when                     Z5 
+0000032 480  PPH1    it                       Z8 
+0000032 490  VBDZ    was                      A3+ Z5 
+0000032 500  AT1     an                       Z5 
+0000032 510  JJ      OSI-approved             Z99 
+0000032 520  NN1     license                  G1.1/Q1.2 S7.4+ 
+0000032 521  ,       ,                        
+0000032 522  "       "                        
+0000032 523  NULL    </quote>                 
+0000032 524  -----   -----                    
+0000032 530  NP1     Smith                    Z1mf 
+0000032 540  VVD     said                     Q2.1 
+0000032 541  .       .                        
+0000032 542  NULL    <quote>                  
+0000032 543  -----   -----                    
+0000032 544  "       "                        
+0000032 550  RR      Perhaps                  A7 
+0000032 560  AT1     a                        Z5 
+0000032 570  NN1     solution                 X4.2 O1.2 
+0000032 580  VM      would                    A7+ 
+0000032 590  VBI     be                       A3+ Z5 
+0000032 600  TO      to                       Z5 
+0000032 610  VVI     categorize               A4.1 
+0000032 620  DD1     this                     M6 Z5 Z8 
+0000032 630  NN1     license                  G1.1/Q1.2 S7.4+ 
+0000032 640  CSA     as                       Z5 
+0000032 650  NN1     'obsolete                Z99 
+0000032 660  IF      for                      Z5 
+0000032 670  JJ      future                   T1.1.3 
+0000032 680  NN1     use                      A1.5.1 
+0000032 681  .       .                        
+0000032 682  "@      '                        
+0000032 683  "       "                        
+0000032 684  NULL    </quote>                 
+0000032 685  -----   -----                    
+0000034 010  NP1     Smith                    Z1mf 
+0000034 020  VVD     said                     Q2.1 
+0000034 030  PPHS1   he                       Z8m 
+0000034 040  VM      would                    A7+ 
+0000034 050  VVI     let                      S7.4+ I2.2/H1 T2- 
+0000034 060  NN2     OSI                      Z99 
+0000034 070  VVI     decide                   X6+ 
+0000034 080  RRQ     how                      Z5 A13.3 
+0000034 090  TO      to                       Z5 
+0000034 100  VVI     deal                     A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2 
+0000034 110  IW      with                     Z5 
+0000034 120  DD1     that                     Z8 Z5 
+0000034 130  PN1     one                      Z8 
+0000034 131  .       .                        
+0000037 001  NULL    **8;7;text               

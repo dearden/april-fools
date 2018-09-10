@@ -1,0 +1,14 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN1     Hair                     B1 
+0000002 020  NN1     Care                     S8+ G1.1/S8+ B3 A1.3 E6- 
+0000002 030  NN1     Tourism                  M1 
+0000002 040  MC      6                        N1 T1.2 T3 T1.3 N3.2 
+0000002 050  NN2     Destinations             M6 
+0000002 060  NN      People                   S2mfc 
+0000002 070  VBR     are                      Z5 A3+ 
+0000002 080  VVG     Going                    E2+[i1.2.1 X7+[i1.2.1 E3-[i1.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000002 090  IF      for                      E2+[i1.2.2 X7+[i1.2.2 E3-[i1.2.2 Z5 
+0000002 100  JJ      Cheap                    I1.3- O4.2- 
+0000002 110  NN2     Haircuts                 B4 
+0000004 001  NULL    **8;7;text               

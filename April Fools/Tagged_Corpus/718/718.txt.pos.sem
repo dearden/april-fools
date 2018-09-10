@@ -1,0 +1,662 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     Mike                     Z1mf[i1.2.1 Z3c[i1.2.1 Z1m 
+0000002 020  NP1     Huckabee                 Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 021  ,       ,                        
+0000002 030  AT1     a                        Z5 
+0000002 040  JJ      likely                   A7+ A1.2+ 
+0000002 050  MC      2012                     N1 T1.2 T3 T1.3 N3.2 
+0000002 060  VV0     GOP                      Z99 
+0000002 070  JJ      presidential             G1.1/S7.1+ 
+0000002 080  NN1     candidate                G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
+0000002 081  ,       ,                        
+0000002 090  RT      today                    T1.1.2 
+0000002 100  VVD     lashed                   E3-[i2.2.1 I1.2[i2.2.1 E3- M1 A1.7+ 
+0000002 110  RP      out                      E3-[i2.2.2 I1.2[i2.2.2 M6 
+0000002 120  II      at                       Z5 
+0000002 130  JJ      lazy                     X5.2-/S1.2 
+0000002 140  NN2     reporters                Q4.2/S2mf 
+0000002 150  CC      and                      Z5 
+0000002 160  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000002 170  NN2     outlets                  Q2.1 I2.2 I2.2/H1 H2 A1.1.1 
+0000002 180  CST     that                     Z8 Z5 
+0000002 190  VVD     heralded                 Q2.2 
+0000002 200  AT1     a                        Z5 
+0000002 210  NNB     Mother                   Z1f[i3.2.1 
+0000002 220  NP1     Jones                    Z1f[i3.2.2 Z1mf 
+0000002 230  NN1     story                    Q2.1 X4.1 Q4 
+0000002 240  CST     that                     Z5 Z8 
+0000002 250  AT      the                      Z5 
+0000002 260  DA      former                   T2- N4 
+0000002 270  NP1     Arkansas                 Z99 
+0000002 280  NN1     governor                 S7.1+/S2mf G1.1/S2mf O2% 
+0000002 290  VVZ     says                     Q2.1 
+0000002 300  RR      falsely                  A5.2- 
+0000002 310  VVZ     accuses                  Q2.2 G2.1 
+0000002 320  PPHO1   him                      Z8m 
+0000002 330  IO      of                       Z5 
+0000002 340  VVG     destroying               A1.1.2 
+0000002 350  APPGE   his                      Z8m 
+0000002 360  JJ      official                 G1.1 S7.4+ 
+0000002 370  JJ      gubernatorial            Z99 
+0000002 380  NN2     documents                Q1.2 X2.2+ Y2 
+0000002 390  CSA     as                       Z5 
+0000002 400  PPHS1   he                       Z8m 
+0000002 410  VVD@    prepared                 A1.1.1 F1 
+0000002 420  TO      to                       Z5 
+0000002 430  VVI     run                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000002 440  IF      for                      Z5 
+0000002 450  NN1     president                G1.1/S7.1+/S2mf 
+0000002 460  II      in                       Z5 
+0000002 470  MC      2008                     N1 T1.2 T3 T1.3 N3.2 
+0000002 471  .       .                        
+0000004 001  NULL    <quote>                  
+0000004 002  -----   -----                    
+0000004 003  "       "                        
+0000004 010  DDQ     What                     Z8 Z5 
+0000004 020  PPIS1   I                        Z8mf 
+0000004 030  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000004 031  XX      n't                      Z6 
+0000004 040  VVI     understand               X2.5+ 
+0000004 050  VBZ     is                       A3+ Z5 
+0000004 060  RRQ     how                      Z5 A13.3 
+0000004 070  AT      the                      Z5 
+0000004 080  JJ@     supposed                 S6+ X7+ 
+0000004 090  JJ      'legitimate'             Z99 
+0000004 100  NN1     press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
+0000004 110  VBZ     is                       Z5 A3+ 
+0000004 120  VVN     used                     A1.5.1 S7.1+ 
+0000004 130  IF      for                      Z5 
+0000004 140  NN2     pawns                    K5.1 A1.5.1/A5.1-/S2mf 
+0000004 150  II      by                       Z5 
+0000004 160  NNB     Mother                   Z1f[i4.2.1 
+0000004 170  NP1     Jones                    Z1f[i4.2.2 Z1mf 
+0000004 171  ,       ,                        
+0000004 180  NN      Media                    Q4c 
+0000004 190  NN2     Matters                  X4.1 O1 A11.1+ 
+0000004 191  ,       ,                        
+0000004 200  CC      and                      S2mf[i5.2.1 Z5 
+0000004 210  JJ      other                    S2mf[i5.2.2 A6.1- 
+0000004 220  JJ      partisan                 S5+ 
+0000004 230  NN2     organizations            S5+c S7.1+ 
+0000004 240  CC      and                      Z5 
+0000004 250  RRQ     how                      Z5 A13.3 
+0000004 260  PPHS2   they                     Z8mfn 
+0000004 270  VM      could                    A7+ 
+0000004 280  VVI     use                      A1.5.1 S7.1+ 
+0000004 290  NN1     material                 O1 B5 O2 X2.2 S1.2 
+0000004 300  II      from                     Z5 
+0000004 310  NN2     sources                  T2+ Q1.1 X2.2 W3/M4 
+0000004 320  II      like                     Z5 
+0000004 330  DD1     that                     Z8 Z5 
+0000004 340  RR%     without                  Z5 M6 
+0000004 350  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000004 360  APPGE   their                    Z8[i6.2.1 Z8 
+0000004 370  DA      own                      Z8[i6.2.2 A9+ S5- 
+0000004 380  NN1     fact                     A5.2+ X2.2 
+0000004 390  VVG     checking                 X2.4/A5.3 A15 Q1.2 T2- M5 
+0000004 391  ,       ,                        
+0000004 392  "       "                        
+0000004 393  NULL    </quote>                 
+0000004 394  -----   -----                    
+0000004 400  VVZ     says                     Q2.1 
+0000004 410  NN1     Huckabee                 Z99 
+0000004 420  IO      of                       Z5 
+0000004 430  NN2     outlets                  Q2.1 I2.2 I2.2/H1 H2 A1.1.1 
+0000004 440  CST     that                     Z8 Z5 
+0000004 450  VVD@    linked                   A2.2 S5+ A1.1.1 
+0000004 460  II      to                       Z5 
+0000004 470  NNB     Mother                   Z1f[i7.2.1 
+0000004 480  NP1     Jones                    Z1f[i7.2.2 Z1mf 
+0000004 481  GE      's                       Z5 
+0000004 490  NN1     story                    Q2.1 X4.1 Q4 
+0000004 500  II      on                       Z5 
+0000004 510  APPGE   his                      Z8m 
+0000004 520  JJ      missing                  A3- A10- A9- 
+0000004 530  NN2     records                  Q1.2 K3 T1.1.1 N5+ 
+0000004 540  CC      and                      Z5 
+0000004 550  NN1     computer                 Y2 
+0000004 560  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
+0000004 570  NN2     drives                   M3 X5.2+ X8+ M3/H3 Y2 
+0000004 571  .       .                        
+0000005 001  -----   -----                    
+0000006 010  CC      And                      Z5 
+0000006 020  PPHS1   he                       Z8m 
+0000006 021  VBZ     's                       A3+ Z5 
+0000006 030  AT      no                       Z6 
+0000006 040  NN1     fan                      E2+/S2mf O2 O4.4 
+0000006 050  IO      of                       Z5 
+0000006 060  AT      the                      Z5 
+0000006 070  JJ      liberal                  A1.7- G1.2 N5+ 
+0000006 080  NNB     Mother                   Z1f[i8.2.1 
+0000006 090  NP1     Jones                    Z1f[i8.2.2 Z1mf 
+0000006 091  .       .                        
+0000006 092  NULL    <quote>                  
+0000006 093  -----   -----                    
+0000006 094  "       "                        
+0000006 100  CS31    As                       Z4[i10.5.1 Z5 Z5[i9.3.1 
+0000006 110  CS32    far                      Z4[i10.5.2 Z5[i9.3.2 
+0000006 120  CS33    as                       Z4[i10.5.3 Z5 Z5[i9.3.3 
+0000006 130  PPIS1   I                        Z4[i10.5.4 Z8mf 
+0000006 140  VV0     know                     Z4[i10.5.5 X2.2+ S3.2/B1% 
+0000006 141  ,       ,                        
+0000006 150  PPH1    it                       Z8 
+0000006 160  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000006 161  XX      n't                      Z6 
+0000006 170  VVI     pretend                  A5.4- 
+0000006 180  TO      to                       Z5 
+0000006 190  VBI     be                       A3+ Z5 
+0000006 200  AT1     a                        Z5 
+0000006 210  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
+0000006 220  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000006 230  NN1     outlet                   Q2.1 I2.2 I2.2/H1 H2 A1.1.1 
+0000006 231  ,       ,                        
+0000006 240  CCB     but                      Z5 
+0000006 250  AT1     a                        Z5 
+0000006 260  RR      highly                   A13.3 
+0000006 270  VVN     polarized                Z99 
+0000006 280  JJ      opinion-driven           Z99 
+0000006 290  NN1     vehicle                  M3fn X4.2 
+0000006 300  IF      for                      Z5 
+0000006 310  DB      all                      N5.1+ 
+0000006 320  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000006 330  II      to                       Z5 
+0000006 340  AT      the                      Z5 
+0000006 350  JJ      far                      N3.3+ 
+0000006 360  JJ      left                     M6 G1.2 N5.2+ 
+0000006 361  ,       ,                        
+0000006 362  "       "                        
+0000006 363  NULL    </quote>                 
+0000006 364  -----   -----                    
+0000006 370  NN1     Huckabee                 Z99 
+0000006 380  VVZ     adds                     N5+/A2.1 N2 
+0000006 381  .       .                        
+0000006 382  NULL    <quote>                  
+0000006 383  -----   -----                    
+0000006 384  "       "                        
+0000006 390  PPIS1   I                        Z8mf 
+0000006 400  VM      ca                       A7+ 
+0000006 401  XX      n't                      Z6 
+0000006 410  VVI     fault                    E2- 
+0000006 420  PPHO2   them                     Z8mfn 
+0000006 430  IF      for                      Z5 
+0000006 440  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000006 450  DDQ     what                     Z8 Z5 
+0000006 460  PPHS2   they                     Z8mfn 
+0000006 470  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000006 471  .       .                        
+0000006 472  -----   -----                    
+0000006 480  PPY     You                      Z8mf 
+0000006 490  VV0     expect                   X2.6+ B1 
+0000006 500  CST     that                     Z5 Z8 
+0000006 510  NN2     wolves                   L2 
+0000006 520  VM      will                     T1.1.3 
+0000006 530  VVI     eat                      F1/B1 A1.5.1/N5+ 
+0000006 540  NN1     meat                     F1 A4.2+ 
+0000006 541  .       .                        
+0000006 542  "       "                        
+0000006 543  NULL    </quote>                 
+0000006 544  -----   -----                    
+0000008 010  II      In                       Z5 
+0000008 020  APPGE   their                    Z8 
+0000008 030  NN1     story                    Q2.1 X4.1 Q4 
+0000008 031  ,       ,                        
+0000008 040  NNB     Mother                   Z1f[i11.2.1 
+0000008 050  NP1     Jones                    Z1f[i11.2.2 Z1mf 
+0000008 060  VVZ     writes                   Q1.2 I2.1 
+0000008 061  :       :                        
+0000008 062  NULL    <quote>                  
+0000008 063  -----   -----                    
+0000008 064  "       "                        
+0000008 070  EX      There                    Z5 
+0000008 071  VBZ     's                       A3+ Z5 
+0000008 080  AT1     a                        Z5 
+0000008 090  NP1     Mike                     Z1mf[i12.2.1 Z3c[i12.2.1 Z1m 
+0000008 100  NP1     Huckabee                 Z1mf[i12.2.2 Z3c[i12.2.2 
+0000008 110  NN1     mystery                  X2.2- X2.5- A6.2- 
+0000008 120  CST     that                     Z8 Z5 
+0000008 130  VM      wo                       T1.1.3 
+0000008 131  XX      n't                      Z6 
+0000008 140  VVI     go                       M1[i13.2.1 A10-[i13.2.1 G2.1@[i13.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000008 150  RL      away                     M1[i13.2.2 A10-[i13.2.2 G2.1@[i13.2.2 M6 A1.1.1% 
+0000008 151  .       .                        
+0000008 152  -----   -----                    
+0000008 160  VV0     Send                     M2 A2.2 
+0000008 170  AT1     a                        Z5 
+0000008 180  JJ      public                   S5+ A10+ 
+0000008 190  NN2     records                  Q1.2 K3 T1.1.1 N5+ 
+0000008 200  VV0     request                  Q2.2 Q2.1 
+0000008 210  VVG     seeking                  X2.4 
+0000008 220  NN2     documents                Q1.2 X2.2+ Y2 
+0000008 230  II      from                     Z5 
+0000008 240  APPGE   his                      Z8m 
+0000008 250  JJ      12-year                  Z99 
+0000008 260  NN1     stint                    T1.3 
+0000008 270  CSA     as                       Z5 
+0000008 280  NP1     Arkansas                 Z99 
+0000008 290  NN1     governor                 S7.1+/S2mf G1.1/S2mf O2% 
+0000008 291  ,       ,                        
+0000008 300  CSA     as                       Z5 
+0000008 310  NNB     Mother                   Z1f[i14.2.1 
+0000008 320  NP1     Jones                    Z1f[i14.2.2 Z1mf 
+0000008 330  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000008 340  RR      recently                 T3--- 
+0000008 341  ,       ,                        
+0000008 350  CC      and                      Z5 
+0000008 360  AT1     an                       Z5 
+0000008 370  JJ      eyebrow-raising          Z99 
+0000008 380  NN1     reply                    Q2.2 
+0000008 390  VM      will                     T1.1.3 
+0000008 400  VVI     come                     M1/N6+[i15.2.1 X2.2+[i15.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000008 410  RP      back                     M1/N6+[i15.2.2 X2.2+[i15.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000008 411  :       :                        
+0000008 420  AT      The                      Z5 
+0000008 430  NN2     records                  Q1.2 K3 T1.1.1 N5+ 
+0000008 440  VBR     are                      A3+ Z5 
+0000008 450  JJ      unavailable              A3- A9- 
+0000008 451  ,       ,                        
+0000008 460  CC      and                      Z5 
+0000008 470  AT      the                      Z5 
+0000008 480  NN1     computer                 Y2 
+0000008 490  RR      hard                     O4.1 X8+ X5.2+ N5+ A12- 
+0000008 500  VVZ     drives                   M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000008 510  CST     that                     Z8 Z5 
+0000008 520  RR      once                     N6- T1.1.1 
+0000008 530  VVD     contained                A1.8+ A1.7+ 
+0000008 540  PPHO2   them                     Z8mfn 
+0000008 550  VBDR    were                     Z5 A3+ 
+0000008 560  VVN     erased                   A9- 
+0000008 570  CC      and                      Z5 
+0000008 580  RR      physically               B1 A1.6 
+0000008 590  VVN     destroyed                A1.1.2 
+0000008 600  II      by                       Z5 
+0000008 610  AT      the                      Z5 
+0000008 620  NN1     Huckabee                 Z99 
+0000008 630  NN1     administration           S7.1+c A9- 
+0000008 640  II      as                       Z5 
+0000008 650  AT      the                      Z5 
+0000008 660  NN1     governor                 S7.1+/S2mf G1.1/S2mf O2% 
+0000008 670  VVN     prepared                 A1.1.1 F1 
+0000008 680  TO      to                       Z5 
+0000008 690  VVI     leave                    M1 M2 A1.1.1 A1.9 A9- T2- 
+0000008 700  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000008 710  CC      and                      Z5 
+0000008 720  VVI     launch                   M4 M5 T2+ 
+0000008 730  AT1     a                        Z5 
+0000008 740  JJ      presidential             G1.1/S7.1+ 
+0000008 750  NN1     bid                      I2.2 
+0000008 751  .       .                        
+0000008 752  "       "                        
+0000008 753  NULL    </quote>                 
+0000008 754  -----   -----                    
+0000010 010  NN1     Huckabee                 Z99 
+0000010 011  ,       ,                        
+0000010 020  PNQS    who                      Z8 
+0000010 030  VVZ@    tops                     A11.1+ N5++ A5.1++ 
+0000010 040  DA2     several                  N5 
+0000010 050  JJ@     Republican               G1.2 
+0000010 060  JJ      presidential             G1.1/S7.1+ 
+0000010 070  NN1     preference               E2++ 
+0000010 080  NN2     polls                    G1.2 Q1.1 
+0000010 081  ,       ,                        
+0000010 090  VVZ     says                     Q2.1 
+0000010 100  DD1     that                     Z5 Z8 
+0000010 110  NN1     charge                   I1.3 O3 G2.1 M1 G3% 
+0000010 120  VBZ     is                       A3+ Z5 
+0000010 130  AT1     a                        Z5 
+0000010 140  NN1@    lie                      A5.2- 
+0000010 141  .       .                        
+0000010 142  -----   -----                    
+0000010 150  PPHS1   He                       Z8m 
+0000010 160  VVZ     tells                    Q2.2 Q2.1 X3 A10+ 
+0000010 170  APPGE   our                      Z8 
+0000010 180  JJ      Suzi                     Z1mf[i16.2.1 Z3c[i16.2.1 Z1f 
+0000010 190  NP1     Parker                   Z1mf[i16.2.2 Z3c[i16.2.2 Z1mf Z3c 
+0000010 191  :       :                        
+0000010 192  NULL    <quote>                  
+0000010 193  -----   -----                    
+0000010 194  "       "                        
+0000010 200  AT      The                      Z5 
+0000010 210  JJ      absurd                   S1.2.6- 
+0000010 220  NN1     insinuation              Q1.1 
+0000010 230  CST     that                     Z5 Z8 
+0000010 240  APPGE   my                       Z8 
+0000010 250  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000010 260  NN1     'destroyed'              Z99 
+0000010 270  NN1     state                    G1.1c O4.1 
+0000010 280  NN2     records                  Q1.2 K3 T1.1.1 N5+ 
+0000010 290  CC      or                       Z5 
+0000010 300  CST     that                     Z5 Z8 
+0000010 310  NN2     records                  Q1.2 K3 T1.1.1 N5+ 
+0000010 320  VBR     are                      A3+ Z5 
+0000010 330  JJ      'missing'                Z99 
+0000010 340  VBZ     is                       A3+ Z5 
+0000010 350  AT      the                      Z5 
+0000010 360  DA      same                     A6.1+++ 
+0000010 370  JJ      old                      T3+ Z4 
+0000010 380  JJ      political                G1.2 
+0000010 390  NN1     canard                   Z99 
+0000010 400  CST     that                     Z8 Z5 
+0000010 410  VBDZ    was                      A3+ Z5 
+0000010 420  JJ      attempted                X8+ 
+0000010 430  NNT2    years                    T1.1.1[i17.2.1 T1.3 
+0000010 440  RA      ago                      T1.1.1[i17.2.2 T1.1.1 
+0000010 450  CC      and                      Z5 
+0000010 460  VVD     failed                   X9.2- A5.1-/A2.1 
+0000010 470  RT      then                     N4 Z5 T1.2 
+0000010 480  IF      for                      Z5 
+0000010 490  AT      the                      Z5 
+0000010 500  DA      same                     A6.1+++ 
+0000010 510  NN1     reason                   A2.2 X2.1 
+0000010 520  PPH1    it                       Z8 
+0000010 530  VM      will                     T1.1.3 
+0000010 540  VVI     fail                     X9.2- A5.1-/A2.1 
+0000010 550  NN1     nowit                    Z99 
+0000010 551  VBZ     's                       Z5 A3+ 
+0000010 560  RR      factually                A5.2+ X2.2 
+0000010 570  VVN     challenged               A6.1- S7.3+ Q2.2 
+0000010 571  .       .                        
+0000010 572  "       "                        
+0000010 573  NULL    </quote>                 
+0000010 574  -----   -----                    
+0000010 580  PPHS1   He                       Z8m 
+0000010 590  VVZ     adds                     N5+/A2.1 N2 
+0000010 591  ,       ,                        
+0000010 592  NULL    <quote>                  
+0000010 593  -----   -----                    
+0000010 594  "       "                        
+0000010 600  DD1     This                     Z8 M6 Z5 
+0000010 610  VM      would                    A7+ 
+0000010 620  VBI     be                       A3+ Z5 
+0000010 630  AT1     a                        Z5 
+0000010 640  JJ      laughable                S1.2.6- 
+0000010 650  NN1     smear                    O2 M2 B3 G2.1-/Q2.2 
+0000010 660  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000010 670  CS21    except                   Z5[i18.2.1 Z5 
+0000010 680  CS22    that                     Z5[i18.2.2 Z5 Z8 
+0000010 690  PPH1    it                       Z8 
+0000010 700  VVZ     appears                  A8 A10+ A3+ G2.1 K4 Q4 
+0000010 710  CST     that                     Z5 Z8 
+0000010 720  DA2     few                      N5- 
+0000010 730  NN2     journalists              Q4.2/I3.2/S2mf 
+0000010 740  VBR     are                      Z5 A3+ 
+0000010 750  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000010 760  AT      the                      Z5 
+0000010 770  NN1     legwork                  A1.1.1 
+0000010 780  TO      to                       Z5 
+0000010 790  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000010 800  AT      the                      Z5 
+0000010 810  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
+0000010 820  NN1     story                    Q2.1 X4.1 Q4 
+0000010 830  II      from                     Z5 
+0000010 840  JJ      objective                G2.2/S5- S1.2 
+0000010 850  NN2     sources                  T2+ Q1.1 X2.2 W3/M4 
+0000010 851  .       .                        
+0000010 852  "       "                        
+0000010 853  NULL    </quote>                 
+0000010 854  -----   -----                    
+0000012 010  II      At                       Z5 
+0000012 020  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000012 030  VBR     are                      A3+ Z5 
+0000012 040  JJ      gubernatorial            Z99 
+0000012 050  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
+0000012 060  NN2     drives                   M3 X5.2+ X8+ M3/H3 Y2 
+0000012 070  CST     that                     Z8 Z5 
+0000012 080  VBDR    were                     Z5 A3+ 
+0000012 090  VVN     wiped                    B4 A1.1.2 
+0000012 100  JJ      clean                    O4.2+ G2.2+ 
+0000012 101  .       .                        
+0000012 102  -----   -----                    
+0000012 110  AT      The                      Z5 
+0000012 120  NN1     magazine                 Q4.2 Q4.3 G3 O2 
+0000012 130  VVZ     suggests                 Q2.2 Q1.1 
+0000012 140  AT1     a                        Z5 
+0000012 150  JJ      sinister                 G2.2- A5.1- M6% 
+0000012 160  NN1     motive                   A2.2 
+0000012 161  .       .                        
+0000012 162  -----   -----                    
+0000012 170  CCB     But                      Z5 
+0000012 180  NP1     Huckabee                 Z99 
+0000012 190  VVZ     says                     Q2.1 
+0000012 200  PN1     everything               Z8/N5.1+ 
+0000012 210  VBDZ    was                      Z5 A3+ 
+0000012 220  VDN     done                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000012 230  II      on                       Z5 
+0000012 240  AT      the                      Z5 
+0000012 250  NN1     up-and-up                Z99 
+0000012 251  .       .                        
+0000012 252  NULL    <quote>                  
+0000012 253  -----   -----                    
+0000012 254  "       "                        
+0000012 260  DD2     Those                    Z5 Z8 
+0000012 270  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
+0000012 280  NN2     drives                   M3 X5.2+ X8+ M3/H3 Y2 
+0000012 290  VBDR    were                     Z5 A3+ 
+0000012 300  VVN     removed                  M2 
+0000012 310  CC      and                      Z5 
+0000012 320  VVN     replaced                 A2.1+ M2 
+0000012 330  II      at                       Z5 
+0000012 340  AT1     a                        Z5 
+0000012 350  NN1     cost                     I1.3 
+0000012 360  IO      of                       Z5 
+0000012 370  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000012 380  RG      over                     N5.2+ A13.2 
+0000012 390  NNU     $13,000                  Z99 
+0000012 400  DDQ     which                    Z8 Z5 
+0000012 410  APPGE   our                      Z8 
+0000012 420  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000012 430  VVN     paid                     I1.2 A9- I1.1/I3.1 
+0000012 440  IF      for                      Z5 
+0000012 450  II21    out                      Z5[i19.2.1 Z5 Z5[i20.2.1 A9-[i20.2.1 
+0000012 460  II22    of                       Z5[i19.2.2 Z5[i20.2.2 A9-[i20.2.2 
+0000012 470  APPGE   our                      Z8 
+0000012 480  NN1     transition               A2.1+ 
+0000012 490  NN1     budget                   I1 G1.1/I1 I1.3- 
+0000012 500  CS@     so                       Z5 
+0000012 510  EX      there                    Z5 
+0000012 520  VM      would                    A7+ 
+0000012 530  VBI     be                       A3+ Z5 
+0000012 540  AT      no                       Z6 
+0000012 550  NN1     cost                     I1.3 
+0000012 560  VVN     incurred                 A2.2 
+0000012 570  II      by                       Z5 
+0000012 580  AT      the                      Z5 
+0000012 590  JJ      incoming                 M1 T2+ 
+0000012 600  NN1     administration           S7.1+c A9- 
+0000012 601  .       .                        
+0000012 602  -----   -----                    
+0000012 610  VVZ     Reports                  Q2.2 S7.1- 
+0000012 620  CST     that                     Z5 Z8 
+0000012 630  AT      the                      Z5 
+0000012 640  NN1     state                    G1.1c O4.1 
+0000012 650  VVD     spent                    I1.2 A1.5.1 T1.3 
+0000012 660  RG      over                     N5.2+ A13.2 
+0000012 670  NNU     $350,000                 Z99 
+0000012 680  II      on                       Z5 
+0000012 690  JJ      new                      T3- 
+0000012 700  NN2     computers                Y2 
+0000012 710  VBDR    were                     A3+ Z5 
+0000012 720  RR      solely                   A14 
+0000012 730  CS      because                  Z5/A2.2 
+0000012 740  AT      the                      Z5 
+0000012 750  JJ      new                      T3- 
+0000012 760  NN1     governor                 S7.1+/S2mf G1.1/S2mf O2% 
+0000012 770  VVD     wanted                   X7+ S6+ A7+ S3.2 A9- 
+0000012 780  DB      all                      N5.1+ 
+0000012 790  JJ      new                      T3- 
+0000012 800  NN1     equipment                O2 
+0000012 801  ,       ,                        
+0000012 810  CS21    even                     Z5[i21.2.1 
+0000012 820  CS22    though                   Z5[i21.2.2 Z5 
+0000012 830  AT      the                      Z5 
+0000012 840  JJ      existing                 A3+ 
+0000012 850  NN1     hardware                 O2 Y2 
+0000012 860  VBDZ    was                      A3+ Z5 
+0000012 870  JJ      operable                 Z99 
+0000012 880  CC      and                      Z5 
+0000012 890  JJ      modern                   T3- 
+0000012 891  .       .                        
+0000012 892  -----   -----                    
+0000012 900  DD1     That                     Z5 Z8 
+0000012 910  NN1     decision                 X6+ 
+0000012 920  VHD     had                      A9+ Z5 A2.2 S4 A2.2[i22.4.1 S1.1.1[i22.4.1 
+0000012 930  PN1     nothing                  A2.2-[i23.4.1 Z6/Z8 
+0000012 940  TO      to                       A2.2-[i23.4.2 Z5 A2.2[i22.4.2 S1.1.1[i22.4.2 A2.2[i24.3.1 
+0000012 950  VDI     do                       A2.2-[i23.4.3 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 A2.2[i22.4.3 S1.1.1[i22.4.3 A2.2[i24.3.2 
+0000012 960  IW      with                     A2.2-[i23.4.4 Z5 A2.2[i22.4.4 S1.1.1[i22.4.4 A2.2[i24.3.3 
+0000012 970  APPGE   my                       Z8 
+0000012 980  NN1     administration           S7.1+c A9- 
+0000012 990  CC      and                      Z5 
+0000012 000  RR      amazingly                X2.6- A6.2- 
+0000012 010  VBDZ    was                      Z5 A3+ 
+0000012 020  RR      never                    T1/Z6 
+0000012 030  VVN     questioned               Q2.2 
+0000012 040  CC      or                       Z5 
+0000012 050  VVN     investigated             X2.4 
+0000012 060  II      by                       Z5 
+0000012 070  AT      the                      Z5 
+0000012 080  NN1     'in                      Z99 
+0000012 090  AT      the                      Z5 
+0000012 100  JJ      tank'                    Z99 
+0000012 110  NP1     Capitol                  Z2 
+0000012 120  NN1     press                    Z3c[i25.2.1 
+0000012 130  NN      corps                    Z3c[i25.2.2 G3/S5+c S5+c 
+0000012 131  ,       ,                        
+0000012 132  "       "                        
+0000012 133  NULL    </quote>                 
+0000012 134  -----   -----                    
+0000012 140  PPHS1   he                       Z8m 
+0000012 150  VVZ     says                     Q2.1 
+0000012 151  .       .                        
+0000013 001  -----   -----                    
+0000014 010  DDQ     What                     Z8 Z5 
+0000014 011  VBZ     's                       A3+ Z5 
+0000014 020  RRR     more                     A13.3 N6++ 
+0000014 021  ,       ,                        
+0000014 030  PPHS1   he                       Z8m 
+0000014 040  VVZ     adds                     N5+/A2.1 N2 
+0000014 041  ,       ,                        
+0000014 042  NULL    <quote>                  
+0000014 043  -----   -----                    
+0000014 044  "       "                        
+0000014 050  RR      Even                     A13.1 
+0000014 060  AT1     a                        Z5 
+0000014 070  JJ      frivolous                S1.2.6- A1.5.2- 
+0000014 080  NN1     lawsuit                  G2.1 
+0000014 090  VVN     filed                    Q1.2 A1.1.1 
+0000014 100  II      over                     Z5 
+0000014 110  DD1     this                     Z8 M6 Z5 
+0000014 120  VBDZ    was                      Z5 A3+ 
+0000014 130  VVN     dismissed                A11.1- X2.1- I3.1- S7.4+/M1 G2.1 
+0000014 140  IW      with                     Z5 
+0000014 150  AT1     a                        Z5 
+0000014 160  NN1     thud                     X3.2 
+0000014 170  CS      because                  Z5/A2.2 
+0000014 180  PPIS2   we                       Z8 
+0000014 190  RR      carefully                A1.3+ 
+0000014 200  CC      and                      Z5 
+0000014 210  RR      meticulously             A1.3+ A4.2+ 
+0000014 220  VVN     followed                 M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 
+0000014 230  NN1     state                    G1.1c O4.1 
+0000014 240  NN1     law                      G2.1 S6+ Y1 
+0000014 250  CC      and                      Z5 
+0000014 260  NN2     practices                A1.1.1 I3.1/S5+c 
+0000014 270  IW      with                     Z5 
+0000014 280  AT      the                      Z5 
+0000014 290  JJ      official                 G1.1 S7.4+ 
+0000014 300  NN2     records                  Q1.2 K3 T1.1.1 N5+ 
+0000014 301  (       (                        
+0000014 310  DDQ     which                    Z8 Z5 
+0000014 320  VBDR    were                     Z5 A3+ 
+0000014 330  RR      properly                 A5.3+ S1.2.4+ A13.3 
+0000014 340  VVN     filed                    Q1.2 A1.1.1 
+0000014 350  IW      with                     Z5 
+0000014 360  AT      the                      Z5 
+0000014 370  NN1     Secretary                G1.1/S2mf[i26.3.1 I3.2/S2mf S7.1+/S2mf 
+0000014 380  IO      of                       G1.1/S2mf[i26.3.2 Z5 
+0000014 390  NN1     State                    G1.1/S2mf[i26.3.3 G1.1c O4.1 
+0000014 400  CC      or                       Z5 
+0000014 410  VVN     left                     M1 M2 A1.1.1 A1.9 A9- N5.2+ T2- 
+0000014 420  IF      for                      Z5 
+0000014 430  AT      the                      Z5 
+0000014 440  JJ      incoming                 M1 T2+ 
+0000014 450  NN1     governor                 S7.1+/S2mf G1.1/S2mf O2% 
+0000014 451  )       )                        
+0000014 460  CC      and                      Z5 
+0000014 470  APPGE   my                       Z8 
+0000014 480  JJ      personal                 S5- S1.2.1+ 
+0000014 490  NN2     papers                   Q4.2c O1.1 Q1.2 P1/Q1.2 H5 
+0000014 500  CC      and                      Z5 
+0000014 510  NN2     articles                 Q4.2 O2 Q3 G2.1/P1@ 
+0000014 520  VVN     donated                  A9- 
+0000014 530  II      to                       Z5 
+0000014 540  AT      the                      Z5 
+0000014 550  NN2     archives                 Q1.2/A9+ 
+0000014 560  IO      of                       Z5 
+0000014 570  APPGE   my                       Z8 
+0000014 580  NN121   alma                     Z99 
+0000014 590  NN122   mater                    Z99 
+0000014 591  ,       ,                        
+0000014 600  NP1     Ouachita                 Z1mf[i27.2.1 Z3c[i27.2.1 
+0000014 610  NP1     Baptist                  Z1mf[i27.2.2 Z3c[i27.2.2 Z3c[i28.2.1 
+0000014 620  NN1     University               P1/H1c Z3c[i28.2.2 
+0000014 621  .       .                        
+0000014 622  "       "                        
+0000014 623  NULL    </quote>                 
+0000014 624  -----   -----                    
+0000016 010  DD1     This                     Z8 M6 Z5 
+0000016 020  VBZ     is                       A3+ Z5 
+0000016 021  XX      n't                      Z6 
+0000016 030  AT1     a                        Z5 
+0000016 040  JJ      new                      T3- 
+0000016 050  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000016 060  II      in                       Z5 
+0000016 070  NP1     Arkansas                 Z99 
+0000016 071  .       .                        
+0000016 072  -----   -----                    
+0000016 080  DA      Former                   T2- N4 
+0000016 090  NNB     President                G1.1/S7.1+/S2mf 
+0000016 100  NP1     Bill                     Z1mf[i29.2.1 Z3c[i29.2.1 
+0000016 110  NP1     Clinton                  Z1mf[i29.2.2 Z3c[i29.2.2 Z1mf 
+0000016 111  GE      's                       Z5 
+0000016 120  JJ      gubernatorial            Z99 
+0000016 130  NN2     papers                   Q4.2c O1.1 Q1.2 P1/Q1.2 H5 
+0000016 140  VH0     have                     Z5 A9+ A2.2 S4 
+0000016 150  VBN     been                     A3+ Z5 
+0000016 160  JJ      unavailable              A3- A9- 
+0000016 170  IF      for                      Z5 
+0000016 180  NNT2    years                    T1.3 
+0000016 181  .       .                        
+0000016 182  -----   -----                    
+0000016 190  AT1     An                       Z5 
+0000016 200  NP1     Arkansas                 Z99 
+0000016 210  NN1     law                      G2.1 S6+ Y1 
+0000016 220  VVZ     allows                   S7.4+ S8+ X2.1 
+0000016 230  NN2     governors                S7.1+/S2mf G1.1/S2mf O2% 
+0000016 240  TO      to                       Z5 
+0000016 250  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000016 260  APPGE   their                    Z8 
+0000016 270  NN2     papers                   Q4.2c O1.1 Q1.2 P1/Q1.2 H5 
+0000016 280  IW      with                     Z5 
+0000016 290  PPHO2   them                     Z8mfn 
+0000016 300  CS      when                     Z5 
+0000016 310  PPHS2   they                     Z8mfn 
+0000016 320  VV0     leave                    M1 M2 A1.1.1 A1.9 A9- T2- 
+0000016 321  .       .                        
+0000016 322  -----   -----                    
+0000016 330  NP1@    Huckabee                 Z99 
+0000016 340  VVD     donated                  A9- 
+0000016 350  PPGE@   his                      Z8m 
+0000016 360  II      to                       Z5 
+0000016 370  NP1     Ouachita                 Z99 
+0000016 371  ,       ,                        
+0000016 380  CCB     but                      Z5 
+0000016 390  AT      the                      Z5 
+0000016 400  NN1     college                  P1/H1c 
+0000016 410  VHZ     has                      S6+[i30.2.1 A9+ Z5 A2.2 S4 
+0000016 420  RR      yet                      T1.1.2 
+0000016 430  TO      to                       S6+[i30.2.2 Z5 
+0000016 440  VVI     process                  A1.1.1 Y2 M1 
+0000016 450  PPHO2   them                     Z8mfn 
+0000016 451  .       .                        
+0000019 001  NULL    **8;7;text               

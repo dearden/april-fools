@@ -1,0 +1,1737 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  JJ      Solar-powered            Z99 
+0000002 020  NN      poultry                  L2 
+0000002 030  NN1     house                    H1 P1/S5+c G1.1c 
+0000002 040  VVZ     begins                   T2+ 
+0000002 050  NN2     operations               A1.1.1 B3 G3 
+0000004 010  NP1     Robin                    Z1mf[i1.2.1 Z3c[i1.2.1 Z1mf 
+0000004 020  NP1     Morgan                   Z1mf[i1.2.2 Z3c[i1.2.2 Z1mf 
+0000004 021  ,       ,                        
+0000004 030  NN1     dean                     P1/S7.1+/S2mf S9/S7.1+/S2.2m S7.2+/S2.2m 
+0000004 040  IO      of                       Z5 
+0000004 050  NP1     UD                       Z99 
+0000004 051  GE      's                       Z5 
+0000004 060  NN1     College                  P1/H1c 
+0000004 070  IO      of                       Z5 
+0000004 080  NN1     Agriculture              F4 
+0000004 090  CC      and                      Z5 
+0000004 100  JJ      Natural                  W3[i2.2.1 W5[i2.2.1 A6.2+ A9+ A5.4+ W3 W5 B1 K2 
+0000004 110  NN2     Resources                W3[i2.2.2 W5[i2.2.2 A9+ W3 
+0000004 111  ,       ,                        
+0000004 120  CC      and                      Z5 
+0000004 130  NP1     Charles                  Z1mf[i3.2.1 Z3c[i3.2.1 Z1m 
+0000004 140  NP1     C.                       Z1mf[i3.2.2 Z3c[i3.2.2 
+0000004 141  NULL    <quote>                  
+0000004 142  -----   -----                    
+0000004 150  VV0     Chick                    L2mfn S2.1f 
+0000004 151  NULL    </quote>                 
+0000004 152  -----   -----                    
+0000004 160  NP1     Allen                    Z2[i4.2.1 Z1mf[i4.2.1 Z1mf 
+0000004 170  MC      III                      Z2[i4.2.2 Z1mf[i4.2.2 N1 
+0000004 171  ,       ,                        
+0000004 180  JJ      chief                    S7.1+/S2mf[i5.2.1 S7.1+ 
+0000004 190  NN1     executive                S7.1+/S2mf[i5.2.2 
+0000004 200  NN1     officer                  G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
+0000004 210  IO      of                       Z5 
+0000004 220  NP1     Allen                    Z1mf 
+0000004 230  NN1     Family                   S4c A4.1c 
+0000004 240  NN2     Foods                    F1 
+0000004 250  CC      and                      Z5 
+0000004 260  AT1     a                        Z5 
+0000004 270  NN1     UD                       Z99 
+0000004 280  NN1     alumnus                  N4/P1/S5+ 
+0000004 281  ,       ,                        
+0000004 290  VV0     stand                    M6 M2 M8 M1 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+ 
+0000004 300  II      before                   Z5 
+0000004 310  AT1     a                        Z5 
+0000004 320  JJ      photovoltaic             Z99 
+0000004 330  NN1     collector                A9+/S2mf G1.1/S2mf 
+0000004 340  CST     that                     Z8 Z5 
+0000004 350  VM      will                     T1.1.3 
+0000004 360  VVI     help                     S8+ 
+0000004 370  VVI     provide                  A9- S6+ 
+0000004 380  NN1     energy                   X5.2+ Y1 
+0000004 390  IF      for                      Z5 
+0000004 400  AT1     a                        Z5 
+0000004 410  NN      poultry                  L2 
+0000004 420  NN1     house                    H1 P1/S5+c G1.1c 
+0000004 430  II      near                     Z5 
+0000004 440  NP1     Laurel                   Z1mf 
+0000004 441  .       .                        
+0000005 001  -----   -----                    
+0000006 010  MC      5:07                     T1.2[i6.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000006 020  RA      p.m.                     T1.2[i6.2.2 
+0000006 021  ,       ,                        
+0000006 030  NPM1    April                    T1.3[i7.2.1 T1.3 
+0000006 040  MC      4                        T1.3[i7.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000006 041  ,       ,                        
+0000006 050  MC      2007--A                  N1 T1.2 T3 T1.3 N3.2 
+0000006 060  JJ@     first-of-its-kind        Z99 
+0000006 070  JJ      solar-powered            Z99 
+0000006 080  NN      poultry                  L2 
+0000006 090  NN1     house                    H1 P1/S5+c G1.1c 
+0000006 100  VM      will                     T1.1.3 
+0000006 110  VVI     begin                    T2+ 
+0000006 120  NN2     operations               A1.1.1 B3 G3 
+0000006 130  DD1     this                     M6 Z5 Z8 
+0000006 140  NNT1    month                    T1.3 
+0000006 150  II      at                       Z5 
+0000006 160  AT1     a                        Z5 
+0000006 170  NN1@    Laurel                   Z2[i8.2.1 Z1mf 
+0000006 180  NN1     farm                     Z2[i8.2.2 F4/M7 
+0000006 190  VVN     owned                    A9+ 
+0000006 200  II      by                       Z5 
+0000006 210  NP1     Allen                    Z1mf 
+0000006 220  NN1     Family                   S4c A4.1c 
+0000006 230  NN2     Foods                    F1 
+0000006 240  JJ      Inc                      I2.1 
+0000006 241  .       .                        
+0000006 242  -----   -----                    
+0000006 250  AT      The                      Z5 
+0000006 260  NN1     house                    H1 P1/S5+c G1.1c 
+0000006 270  VBZ     is                       A3+ Z5 
+0000006 280  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000006 290  IO      of                       Z5 
+0000006 300  AT1     a                        Z5 
+0000006 310  NN1     research                 X2.4[i9.2.1 X2.4 
+0000006 320  NN1     project                  X2.4[i9.2.2 A1.1.1 P1 
+0000006 330  TO      to                       Z5 
+0000006 340  VVI     evaluate                 A5.1 N2 
+0000006 350  AT      the                      Z5 
+0000006 360  NN1     use                      A1.5.1 
+0000006 370  IO      of                       Z5 
+0000006 380  JJ      solar                    W1 W2 O3 
+0000006 390  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000006 400  II      as                       Z5 
+0000006 410  AT1     an                       Z5 
+0000006 420  JJ      economical               I1.3- N5- 
+0000006 430  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000006 440  IO      of                       Z5 
+0000006 450  NN1     energy                   X5.2+ Y1 
+0000006 460  IF      for                      Z5 
+0000006 470  NN      poultry                  L2 
+0000006 480  NN2     houses                   H1 P1/S5+c G1.1c 
+0000006 481  ,       ,                        
+0000006 490  CC      and                      Z5 
+0000006 500  AT1     a                        Z5 
+0000006 510  JJ      ribbon-cutting           Z99 
+0000006 520  NN1     ceremony                 S1.1.1 
+0000006 530  VVG     featuring                A10+ 
+0000006 540  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000006 550  II      from                     Z5 
+0000006 560  NN1     state                    G1.1c O4.1 
+0000006 570  NN1     government               G1.1c 
+0000006 571  ,       ,                        
+0000006 580  JJR     higher                   P1[i10.2.1 N3.7++ N5++ A11.1++ S7.1++ A5.1++ T3-- X3.2 G2.2++ E4.1++ I1.3++ O4.2-- O4.6++ S9 
+0000006 590  NN1     education                P1[i10.2.2 P1 X2.3+ 
+0000006 600  CC      and                      Z5 
+0000006 610  NN1     industry                 I4c I2.1c 
+0000006 620  VBDZ    was                      Z5 A3+ 
+0000006 630  VVN     held                     M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+ 
+0000006 640  NPD1    Wednesday                T1.3 
+0000006 641  ,       ,                        
+0000006 650  NPM1    April                    T1.3[i11.2.1 T1.3 
+0000006 660  MC      4                        T1.3[i11.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000006 661  .       .                        
+0000007 001  -----   -----                    
+0000008 010  AT      The                      Z5 
+0000008 020  NN1     project                  A1.1.1 P1 
+0000008 030  VBZ     is                       A3+ Z5 
+0000008 040  AT1     a                        Z5 
+0000008 050  NN1     partnership              S5+c S4 S3.2 
+0000008 060  II      between                  Z5 
+0000008 070  NP1     Allen                    Z1mf 
+0000008 080  NN1     Family                   S4c A4.1c 
+0000008 090  NN2     Foods                    F1 
+0000008 091  ,       ,                        
+0000008 100  NP1     WorldWater               Z99 
+0000008 101  NULL    &;                       
+0000008 110  NP1@    Power                    Z1mf[i12.2.1 Z3c[i12.2.1 
+0000008 120  NP1     Corp.                    Z1mf[i12.2.2 Z3c[i12.2.2 
+0000008 121  ,       ,                        
+0000008 130  NP1     GE                       Z3 
+0000008 140  NN1     Energy                   X5.2+ Y1 
+0000008 141  ,       ,                        
+0000008 150  AT      the                      Z5 
+0000008 160  NN1     University               Z3c[i13.3.1 P1/H1c 
+0000008 170  IO      of                       Z3c[i13.3.2 Z5 
+0000008 180  NP1     Delaware                 Z3c[i13.3.3 Z2 
+0000008 181  ,       ,                        
+0000008 190  AT      the                      Z5 
+0000008 200  NP1     Delaware                 Z2 
+0000008 210  NN1     Department               H2/S5+c X2.2 
+0000008 220  IO      of                       Z5 
+0000008 230  NN1     Agriculture              F4 
+0000008 240  CC      and                      Z5 
+0000008 250  AT      the                      Z5 
+0000008 260  NP1     Delaware                 Z2 
+0000008 270  NN1     Department               H2/S5+c X2.2 
+0000008 280  IO      of                       Z5 
+0000008 290  JJ      Natural                  W3[i14.2.1 W5[i14.2.1 A6.2+ A9+ A5.4+ W3 W5 B1 K2 
+0000008 300  NN2     Resources                W3[i14.2.2 W5[i14.2.2 A9+ W3 
+0000008 310  CC      and                      Z5 
+0000008 320  JJ      Environmental            W5 W3 
+0000008 330  NN1     Control                  S7.1+ A1.7+ O2 
+0000008 331  .       .                        
+0000009 001  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  NN1     cost                     I1.3 
+0000010 030  IO      of                       Z5 
+0000010 040  NN1     grid                     O2 O3 Q1.2 
+0000010 050  NN1     electricity              O3 
+0000010 060  II      in                       Z5 
+0000010 070  NP1     Delaware                 Z2 
+0000010 080  VHZ     has                      Z5 A9+ A2.2 S4 
+0000010 090  RR      significantly            A11.1+ 
+0000010 100  VVN     increased                N5+/A2.1 
+0000010 110  II      over                     T1.1.1[i15.5.1 Z5 
+0000010 120  AT      the                      T1.1.1[i15.5.2 Z5 
+0000010 130  MD      last                     T1.1.1[i15.5.3 N4 T1.1.1[i16.3.1 
+0000010 140  MC      12                       T1.1.1[i15.5.4 N1 T1.2 T3 T1.3 N3.2 T1.1.1[i16.3.2 
+0000010 150  NNT2    months                   T1.1.1[i15.5.5 T1.3 T1.1.1[i16.3.3 
+0000010 151  ,       ,                        
+0000010 160  CC      and                      Z5 
+0000010 170  DD1     this                     Z8 M6 Z5 
+0000010 180  VHZ     has                      Z5 A9+ A2.2 S4 
+0000010 190  RR      adversely                A5.1- 
+0000010 200  VVN     affected                 A2.1+ A5.4-/A8 
+0000010 210  AT      the                      Z5 
+0000010 220  NN      poultry                  I4/L2c[i17.2.1 L2 
+0000010 230  NN1     industry                 I4/L2c[i17.2.2 I4c I2.1c 
+0000010 231  .       .                        
+0000010 232  -----   -----                    
+0000010 240  NN      Poultry                  L2 
+0000010 250  NN2     houses                   H1 P1/S5+c G1.1c 
+0000010 260  VBR     are                      A3+ Z5 
+0000010 270  RR      highly                   A13.3 
+0000010 280  NN1     energy                   X5.2+ Y1 
+0000010 290  NN1@    dependent                S7.1-/S2mf 
+0000010 291  ;       ;                        
+0000010 300  NN2     chickens                 L2mfn F1 E5-/S2mf 
+0000010 310  VM      must                     S6+ A7+ 
+0000010 320  VBI     be                       Z5 A3+ 
+0000010 330  VVN     kept                     A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000010 340  II      at                       Z5 
+0000010 350  RR      carefully                A1.3+ 
+0000010 360  VVN     controlled               S7.1+ A1.7+ 
+0000010 370  NN2     temperatures             O4.6 
+0000010 380  IW      with                     Z5 
+0000010 390  JJ      appropriate              A1.2+ 
+0000010 400  NN1     ventilation              O2 A1.1.1 B3 
+0000010 401  .       .                        
+0000010 402  -----   -----                    
+0000010 410  NN1     Energy                   X5.2+ Y1 
+0000010 420  NN2     costs                    I1.3 
+0000010 430  VBR     are                      Z5 A3+ 
+0000010 440  VVN     borne                    M2 A8 A9+ A1.1.1 
+0000010 450  II      by                       Z5 
+0000010 460  AT      the                      Z5 
+0000010 470  NN2     growers                  F4/S2mf 
+0000010 471  ,       ,                        
+0000010 480  PNQS    who                      Z8 
+0000010 490  VBR     are                      A3+ Z5 
+0000010 500  JJ      independent              S5- 
+0000010 510  NN2     operators                Q1.3/S2mf A1.1.1/S2mf 
+0000010 520  VVN     contracted               Q2.2 N3.2-/A2.1 A9+ I2.1 
+0000010 530  II      by                       Z5 
+0000010 540  NN      poultry                  L2/I2.1c[i18.2.1 L2 
+0000010 550  NN2     companies                L2/I2.1c[i18.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000010 560  TO      to                       Z5 
+0000010 570  VVI     raise                    M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000010 580  JJ      day-old                  Z99 
+0000010 590  NN2     chicks                   L2mfn S2.1f 
+0000010 600  II      to                       Z5 
+0000010 610  NN1     maturity                 T3+ 
+0000010 611  .       .                        
+0000011 001  -----   -----                    
+0000012 010  JJ      Determining              A2.2 A7+ X6+ 
+0000012 020  CS      if                       Z7 
+0000012 030  JJ      solar                    W1 W2 O3 
+0000012 040  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000012 050  VVZ     makes                    X2.5+[i19.2.1 S1.2.6+[i19.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000012 060  JJ      economic                 I1.3- I2.1 
+0000012 070  NN1     sense                    X2.5+[i19.2.2 S1.2.6+[i19.2.2 A4.1 Q3 X3 S1.2.6+ E1 X2.1 X9.1+ A8 
+0000012 080  II      to                       Z5 
+0000012 090  AT      the                      Z5 
+0000012 100  NN      poultry                  I4/L2c[i20.2.1 L2 
+0000012 110  NN1     industry                 I4/L2c[i20.2.2 I4c I2.1c 
+0000012 120  VM      will                     T1.1.3 
+0000012 130  VBI     be                       Z5 A3+ 
+0000012 140  RR      rigorously               A1.7+ A4.2+ 
+0000012 150  VVN     evaluated                A5.1 N2 
+0000012 160  II      during                   Z5 
+0000012 170  MC      three                    N1 T1.2 T3 
+0000012 180  NNT2    years                    T1.3 
+0000012 190  IO      of                       Z5 
+0000012 200  NN1     study                    P1 X2.4 H2 Q1.2 C1 
+0000012 210  II      at                       Z5 
+0000012 220  AT      the                      Z5 
+0000012 230  NN1     pilot                    M5/I3.2/S2mf M4/I3.2/S2mf X2.4 Y1 
+0000012 231  ,       ,                        
+0000012 240  JJ      solar-powered            Z99 
+0000012 250  NN      poultry                  L2 
+0000012 260  NN1     house                    H1 P1/S5+c G1.1c 
+0000012 261  .       .                        
+0000012 262  -----   -----                    
+0000012 270  AT1     A                        Z5 
+0000012 280  NN1     research                 X2.4 
+0000012 290  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000012 300  VVN     comprised                A1.8+ 
+0000012 310  IO      of                       Z5 
+0000012 320  NN1     University               Z3c[i21.3.1 P1/H1c 
+0000012 330  IO      of                       Z3c[i21.3.2 Z5 
+0000012 340  NP1     Delaware                 Z3c[i21.3.3 Z2 
+0000012 350  NN1     faculty                  X9.1 H2 S5+c P1/I3.1/S2mfc 
+0000012 351  ,       ,                        
+0000012 360  NN2     students                 P1/S2mf 
+0000012 370  CC      and                      Z5 
+0000012 380  NN2     professionals            I3.2+/S2mf X9.1+/S2mf 
+0000012 390  VM      will                     T1.1.3 
+0000012 400  VVI     monitor                  X2.4 
+0000012 410  AT      the                      Z5 
+0000012 420  NN1     house                    H1 P1/S5+c G1.1c 
+0000012 430  TO      to                       Z5 
+0000012 440  VVI     assess                   X2.4/A5 P1 I1.3 
+0000012 450  AT      the                      Z5 
+0000012 460  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000012 461  GE      's                       Z5 
+0000012 470  NN1     efficiency               X9.1+/I3.2 N3.8+ A1.5.2+ 
+0000012 480  II      in                       Z5 
+0000012 490  VVG     collecting               A9+ 
+0000012 500  CC      and                      Z5 
+0000012 510  VVG     using                    A1.5.1 S7.1+ 
+0000012 520  JJ      solar                    W1 W2 O3 
+0000012 530  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000012 531  .       .                        
+0000012 532  -----   -----                    
+0000012 540  NN1     Weather                  W4 
+0000012 550  NN      data                     X2.2/X2.4 Q1.1 
+0000012 560  II      at                       Z5 
+0000012 570  AT      the                      Z5 
+0000012 580  NN1     project                  A1.1.1 P1 
+0000012 590  NN1     site                     M7 
+0000012 600  RR      also                     N5++ 
+0000012 610  VM      will                     T1.1.3 
+0000012 620  VBI     be                       Z5 A3+ 
+0000012 630  VVN     monitored                X2.4 
+0000012 631  .       .                        
+0000013 001  -----   -----                    
+0000014 010  II      On                       Z5 
+0000014 020  JJ      sunny                    W4 E4.1+ 
+0000014 030  NNT2    days                     T1.3 
+0000014 031  ,       ,                        
+0000014 040  AT      the                      Z5 
+0000014 050  JJ      solar                    W1 W2 O3 
+0000014 060  NN1     radiation                Y1 
+0000014 070  VM      will                     T1.1.3 
+0000014 080  VBI     be                       Z5 A3+ 
+0000014 090  VVN     converted                A2.1+ S9 K5.1 
+0000014 100  II      to                       Z5 
+0000014 110  NN1     electricity              O3 
+0000014 111  .       .                        
+0000014 112  -----   -----                    
+0000014 120  DD1     This                     Z8 M6 Z5 
+0000014 130  VM      will                     T1.1.3 
+0000014 140  VBI     be                       A3+ Z5 
+0000014 150  JJ      used                     T1.1.1[i22.2.1 A6.2+[i22.2.1 
+0000014 160  II      to                       T1.1.1[i22.2.2 A6.2+[i22.2.2 Z5 
+0000014 170  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000014 180  AT      the                      Z5 
+0000014 190  NN      poultry                  L2 
+0000014 200  NN1     house                    H1 P1/S5+c G1.1c 
+0000014 201  ;       ;                        
+0000014 210  DD      any                      N5.1+ N5 
+0000014 220  JJ      additional               N5++ 
+0000014 230  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000014 240  CST     that                     Z8 Z5 
+0000014 241  VBZ     's                       Z5 A3+ 
+0000014 250  VVN     required                 X7+ S6+ 
+0000014 260  VM      will                     T1.1.3 
+0000014 270  VBI     be                       Z5 A3+ 
+0000014 280  VVN     drawn                    A1.5.1[i23.2.1 C1 M2 A9+ X5.1+ I1.2 O4.2+ X2.1 K5.1 
+0000014 290  II      from                     A1.5.1[i23.2.2 Z5 
+0000014 300  NP1     Delmarva                 Z1mf[i24.2.1 Z3c[i24.2.1 
+0000014 310  NP1@    Power                    Z1mf[i24.2.2 Z3c[i24.2.2 
+0000014 311  GE      's                       Z5 
+0000014 320  NN1     grid                     O2 O3 Q1.2 
+0000014 321  .       .                        
+0000014 322  -----   -----                    
+0000014 330  II      At                       N6[i25.2.1 Z5 
+0000014 340  NNT2    times                    N6[i25.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 
+0000014 350  RRQ     when                     Z5 
+0000014 360  AT      the                      Z5 
+0000014 370  JJ      photovoltaic             Z99 
+0000014 380  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000014 390  VVZ     produces                 A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000014 400  DAR     more                     N5++ 
+0000014 410  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000014 420  CSN     than                     Z5 
+0000014 430  AT      the                      Z5 
+0000014 440  NN2     loads                    N5+ 
+0000014 450  VV0     require                  X7+ S6+ 
+0000014 451  ,       ,                        
+0000014 460  JJ      excess                   N5.2+ 
+0000014 470  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000014 480  VM      will                     T1.1.3 
+0000014 490  VBI     be                       Z5 A3+ 
+0000014 500  VVN     directed                 M6 Q2.2 S7.1+ K4 
+0000014 510  II      to                       Z5 
+0000014 520  AT1     a                        Z5 
+0000014 530  NN1     back-up                  S8+ 
+0000014 540  NN1     battery                  O3 G3 G3/S5+c F4 
+0000014 550  NN1     bank                     I1/H1 I1.1/I2.1c W3/M4 A9+/H1 O2 M6 
+0000014 560  CC      and                      Z5 
+0000014 570  II      to                       Z5 
+0000014 580  AT      the                      Z5 
+0000014 590  NN1     grid                     O2 O3 Q1.2 
+0000014 600  II      via                      Z5 
+0000014 610  JJ      net                      N5 
+0000014 620  NN1     metering                 Z99 
+0000014 621  .       .                        
+0000014 622  -----   -----                    
+0000014 630  NN1     Delmarva                 Z99 
+0000014 640  NN1     Power                    S7.1+ O3 S1.2.5+ N2@ 
+0000014 650  VHZ     has                      Z5 A9+ A2.2 S4 
+0000014 660  VVN     agreed                   A6.1+ Q2.2 
+0000014 670  TO      to                       Z5 
+0000014 680  VVI     give                     S7.2+[i26.3.1 A9- A1.1.1 
+0000014 690  NN1     credit                   S7.2+[i26.3.2 I1.1 A5.1+ X2.1 P1 
+0000014 700  IF      for                      S7.2+[i26.3.3 Z5 
+0000014 710  NN1     energy                   X5.2+ Y1 
+0000014 720  VVN     sent                     M2 A2.2 
+0000014 730  II      to                       Z5 
+0000014 740  APPGE   its                      Z8 
+0000014 750  NN1     grid                     O2 O3 Q1.2 
+0000014 760  II      at                       Z5 
+0000014 770  AT      the                      Z5 
+0000014 780  JJ      current                  T1.1.2 
+0000014 790  NN1     market                   I2.2 I2.2/H1 
+0000014 800  NN1     rate                     N3.8 N5 I1.3 
+0000014 801  .       .                        
+0000015 001  -----   -----                    
+0000016 010  NP1     Charles                  Z1mf[i27.2.1 Z3c[i27.2.1 Z1m 
+0000016 020  NP1     C.                       Z1mf[i27.2.2 Z3c[i27.2.2 
+0000016 021  NULL    <quote>                  
+0000016 022  -----   -----                    
+0000016 030  VV0     Chick                    L2mfn S2.1f 
+0000016 031  NULL    </quote>                 
+0000016 032  -----   -----                    
+0000016 040  NP1     Allen                    Z2[i28.2.1 Z1mf[i28.2.1 Z1mf 
+0000016 050  MC      III                      Z2[i28.2.2 Z1mf[i28.2.2 N1 
+0000016 051  ,       ,                        
+0000016 060  JJ      chief                    S7.1+/S2mf[i29.2.1 S7.1+ 
+0000016 070  NN1     executive                S7.1+/S2mf[i29.2.2 
+0000016 080  NN1     officer                  G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
+0000016 090  IO      of                       Z5 
+0000016 100  NP1     Allen                    Z1mf 
+0000016 110  NN1     Family                   S4c A4.1c 
+0000016 120  NN2     Foods                    F1 
+0000016 130  CC      and                      Z5 
+0000016 140  AT1     a                        Z5 
+0000016 150  NN1     UD                       Z99 
+0000016 160  NN1     alumnus                  N4/P1/S5+ 
+0000016 161  ,       ,                        
+0000016 170  VVD     offered                  A9- Q2.2 
+0000016 180  AT      the                      Z5 
+0000016 190  NN1     use                      A1.5.1 
+0000016 200  IO      of                       Z5 
+0000016 210  AT1     a                        Z5 
+0000016 220  JJ      company-owned            I2.1/A9+ 
+0000016 230  NN1     farm                     F4/M7 
+0000016 240  II      in                       Z5 
+0000016 250  NP1     Laurel                   Z1mf 
+0000016 260  IF      for                      Z5 
+0000016 270  AT      the                      Z5 
+0000016 280  NN1     pilot                    M5/I3.2/S2mf M4/I3.2/S2mf X2.4 Y1 
+0000016 290  NN1     study                    P1 X2.4 H2 Q1.2 C1 
+0000016 291  .       .                        
+0000016 292  NULL    <quote>                  
+0000016 293  -----   -----                    
+0000016 300  PPIS2   We                       Z8 
+0000016 310  VV0     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000016 320  IW      with                     Z5 
+0000016 330  MC      550                      N1 T1.2 T3 T1.3 N3.2 
+0000016 340  JJ      independent              S5- 
+0000016 350  NN2     contractors              I2.1/S2mf 
+0000016 360  II      on                       Z5 
+0000016 370  NP1     Delmarva                 Z99 
+0000016 380  PNQS    who                      Z8 
+0000016 390  VV0     raise                    M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000016 400  APPGE   our                      Z8 
+0000016 410  NN2     chicks                   L2mfn S2.1f 
+0000016 411  ,       ,                        
+0000016 412  NULL    </quote>                 
+0000016 413  -----   -----                    
+0000016 420  NP1     Allen                    Z1mf 
+0000016 430  VVD     said                     Q2.1 
+0000016 431  .       .                        
+0000016 432  NULL    <quote>                  
+0000016 433  -----   -----                    
+0000016 440  PPIS1   I                        Z8mf 
+0000016 450  VBDZ    was                      A3+ Z5 
+0000016 460  JJ      happy                    E4.1+ E4.2+ 
+0000016 470  TO      to                       Z5 
+0000016 480  VHI     have                     A9+ Z5 A2.2 S4 
+0000016 490  AT      the                      Z5 
+0000016 500  NN1     opportunity              A1.4 
+0000016 510  TO      to                       Z5 
+0000016 520  VVI     collaborate              S1.1.3+ S8+ 
+0000016 530  II      on                       Z5 
+0000016 540  AT1     a                        Z5 
+0000016 550  NN1     research                 X2.4[i30.2.1 X2.4 
+0000016 560  NN1     project                  X2.4[i30.2.2 A1.1.1 P1 
+0000016 570  CST     that                     Z8 Z5 
+0000016 580  VHZ     has                      A9+ Z5 A2.2 S4 
+0000016 590  AT      the                      Z5 
+0000016 600  JJ      potential                A7+ 
+0000016 610  TO      to                       Z5 
+0000016 620  VVI     reduce                   N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000016 630  NN2     costs                    I1.3 
+0000016 640  IF      for                      Z5 
+0000016 650  DD2     these                    Z5 Z8 
+0000016 660  NN2     growers                  F4/S2mf 
+0000016 661  .       .                        
+0000016 662  -----   -----                    
+0000016 670  PPIS1   I                        Z8mf 
+0000016 680  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000016 690  TO      to                       Z5 
+0000016 700  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000016 710  PN1     anything                 Z8 
+0000016 720  PPIS1   I                        Z8mf 
+0000016 730  VV0%    can                      A1.1.1 
+0000016 740  TO      to                       Z5 
+0000016 750  VVI     maintain                 A9+ T2++ S8+ A1.1.1 Q2.2 
+0000016 760  AT      the                      Z5 
+0000016 770  JJ      economic                 I1.3- I2.1 
+0000016 780  NN1     viability                A7+ L1% 
+0000016 790  IO      of                       Z5 
+0000016 800  AT      the                      Z5 
+0000016 810  NP1     Delmarva                 Z99 
+0000016 820  NN      poultry                  I4/L2c[i31.2.1 L2 
+0000016 830  NN1     industry                 I4/L2c[i31.2.2 I4c I2.1c 
+0000016 831  .       .                        
+0000016 832  NULL    </quote>                 
+0000016 833  -----   -----                    
+0000018 010  CSA     As                       Z5 
+0000018 020  NP1     America                  Z2 
+0000018 030  VVZ     turns                    M1[i32.2.1 S1.1.1[i32.2.1 T2+[i32.2.1 A2.1+[i32.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000018 040  II      to                       M1[i32.2.2 S1.1.1[i32.2.2 T2+[i32.2.2 A2.1+[i32.2.2 Z5 
+0000018 050  NN1     ethanol                  Z99 
+0000018 060  II      as                       Z5 
+0000018 070  AT1     a                        Z5 
+0000018 080  NN1     fuel                     O1 
+0000018 090  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000018 091  ,       ,                        
+0000018 100  NP1     Allen                    Z1mf 
+0000018 110  VVD     suggested                Q2.2 Q1.1 
+0000018 120  AT      the                      Z5 
+0000018 130  NN1     nation                   G1.1c S5+c 
+0000018 131  NULL    <quote>                  
+0000018 132  -----   -----                    
+0000018 140  XX      not                      Z6 
+0000018 150  VV0     forget                   X2.2- 
+0000018 160  AT      the                      Z5 
+0000018 170  NN1     value                    A11.1+ I1.3 G2.2 A4.1 N1 
+0000018 180  IO      of                       Z5 
+0000018 190  AT      the                      Z3c[i33.2.1 Z5 
+0000018 200  NN1     sun                      Z3c[i33.2.2 W1 W2 W4 
+0000018 201  ,       ,                        
+0000018 210  CC      and                      Z5 
+0000018 220  AT      the                      Z5 
+0000018 230  RR      truly                    A5.2+ A5.4+ 
+0000018 240  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000018 250  NN1     energy                   X5.2+ Y1 
+0000018 260  PPH1    it                       Z8 
+0000018 270  VVZ     produces                 A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000018 271  .       .                        
+0000018 272  -----   -----                    
+0000018 280  AT      The                      Z3c[i34.2.1 Z5 
+0000018 290  NN1     sun                      Z3c[i34.2.2 W1 W2 W4 
+0000018 300  VBZ     is                       A3+ Z5 
+0000018 310  AT1     a                        Z5 
+0000018 320  JJ      renewable                T3-/A2.1 
+0000018 330  NN1     energy                   X5.2+ Y1 
+0000018 340  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000018 341  ;       ;                        
+0000018 350  PPIS2   we                       Z8 
+0000018 360  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000018 370  VV0     need                     S6+ 
+0000018 380  TO      to                       Z5 
+0000018 390  VVI     learn                    X2.3+ P1 
+0000018 400  RRQ     how                      Z5 A13.3 
+0000018 410  TO      to                       Z5 
+0000018 420  VVI     use                      A1.5.1 S7.1+ 
+0000018 430  PPH1    it                       Z8 
+0000018 431  .       .                        
+0000018 432  NULL    </quote>                 
+0000018 433  -----   -----                    
+0000020 010  VVG     Noting                   Q2.1 Q1.2 
+0000020 020  AT      the                      Z5 
+0000020 030  JJ      rainy                    A12-[i35.2.1 W4 
+0000020 040  NNT1    day                      A12-[i35.2.2 T1.3 
+0000020 041  ,       ,                        
+0000020 050  NP1     Allen                    Z1mf 
+0000020 060  VVD     reminded                 X4.1 
+0000020 070  DD2     those                    Z8 Z5 
+0000020 080  II      in                       Z5 
+0000020 090  NN1     attendance               S1.1.3+ 
+0000020 100  DD1     that                     Z5 Z8 
+0000020 101  NULL    <quote>                  
+0000020 102  -----   -----                    
+0000020 110  AT      the                      Z3c[i36.2.1 Z5 
+0000020 120  NN1     sun                      Z3c[i36.2.2 W1 W2 W4 
+0000020 130  VBZ     is                       A3+ Z5 
+0000020 140  RP      out                      M6 
+0000020 141  -       -                        
+0000020 150  PPH1    it                       Z8 
+0000020 160  VBZ     is                       Z5 A3+ 
+0000020 170  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000020 180  VVN     obscured                 A10- 
+0000020 190  II      by                       Z5 
+0000020 200  NN2     clouds                   W4 
+0000020 201  .       .                        
+0000020 202  NULL    </quote>                 
+0000020 203  -----   -----                    
+0000022 010  AT      The                      Z5 
+0000022 020  NN1     project                  A1.1.1 P1 
+0000022 030  VVZ     combines                 A2.2 A1.8+ S5+c F4 
+0000022 040  MC      two                      N1 T3 T1.2 
+0000022 050  IO      of                       Z5 
+0000022 060  AT      the                      Z5 
+0000022 070  NN1     University               P1/H1c 
+0000022 071  GE      's                       Z5 
+0000022 080  NN2     strengths                S1.2.5+ O4.1 S7.1+ X9.1+ N5 
+0000022 081  ,       ,                        
+0000022 090  VV0     UD                       Z99 
+0000022 100  NNB     President                G1.1/S7.1+/S2mf 
+0000022 110  NP1     David                    Z1mf[i38.3.1 Z3c[i38.3.1 Z1m Z1mf[i37.2.1 Z3c[i37.2.1 
+0000022 120  NP1     P.                       Z1mf[i38.3.2 Z3c[i38.3.2 Z1mf[i37.2.2 Z3c[i37.2.2 Z1mf[i39.2.1 Z3c[i39.2.1 
+0000022 130  NP1     Roselle                  Z3c[i38.3.3 Z1mf[i38.3.3 Z1mf[i39.2.2 Z3c[i39.2.2 
+0000022 140  VVD     said                     Q2.1 
+0000022 141  .       .                        
+0000022 142  NULL    <quote>                  
+0000022 143  -----   -----                    
+0000022 150  AT      The                      Z5 
+0000022 160  NN1     University               P1/H1c 
+0000022 170  VHZ     has                      Z5 A9+ A2.2 S4 
+0000022 180  RR      long                     T1.3+ 
+0000022 190  VBN     been                     A3+ Z5 
+0000022 200  AT1     a                        Z5 
+0000022 210  NN1     leader                   S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000022 220  II      in                       Z5 
+0000022 230  JJ      solar                    W1 W2 O3 
+0000022 240  NN1     cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000022 250  NN1     technology               Y1 
+0000022 260  CC      and                      Z5 
+0000022 270  VBZ     is                       Z5 A3+ 
+0000022 280  RR      well                     A11.1+[i40.2.1 A5.1+ A13.3 A7+ B2+ Z4 
+0000022 290  VVN     known                    A11.1+[i40.2.2 X2.2+ S3.2/B1% 
+0000022 300  IF      for                      Z5 
+0000022 310  APPGE   its                      Z8 
+0000022 320  NN      poultry                  L2 
+0000022 330  NN1     research                 X2.4 
+0000022 340  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000022 341  ,       ,                        
+0000022 342  NULL    </quote>                 
+0000022 343  -----   -----                    
+0000022 350  PPHS1   he                       Z8m 
+0000022 360  VVD     said                     Q2.1 
+0000022 361  .       .                        
+0000022 362  NULL    <quote>                  
+0000022 363  -----   -----                    
+0000022 370  PPH1    It                       Z8 
+0000022 380  VBDZ    was                      A3+ Z5 
+0000022 390  AT1     a                        Z5 
+0000022 400  JJ      no-brainer               X9.1- 
+0000022 410  TO      to                       Z5 
+0000022 420  VVI     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000022 430  AT      the                      Z5 
+0000022 440  MC      two                      N1 T3 T1.2 
+0000022 450  RL      together                 S5+ T1.1.2 M6 
+0000022 451  .       .                        
+0000022 452  NULL    </quote>                 
+0000022 453  -----   -----                    
+0000024 010  AT      The                      Z5 
+0000024 020  NN1     collaboration            S1.1.3+ S8+ 
+0000024 030  IO      of                       Z5 
+0000024 040  NN1     government               G1.1c 
+0000024 041  ,       ,                        
+0000024 050  NN1     academia                 P1 
+0000024 060  CC      and                      Z5 
+0000024 070  NN1     industry                 I4c I2.1c 
+0000024 080  II      in                       Z5 
+0000024 090  DA      such                     Z5 Z8 
+0000024 100  NN2     projects                 A1.1.1 P1 
+0000024 110  VBZ     is                       A3+ Z5 
+0000024 111  NULL    <quote>                  
+0000024 112  -----   -----                    
+0000024 120  II      at                       Z5 
+0000024 130  AT      the                      Z5 
+0000024 140  NN1     heart                    B1 M6 A11.1+ E1 X5.2+ 
+0000024 150  IO      of                       Z5 
+0000024 160  AT      the                      Z5 
+0000024 170  NP1     Land                     Z1mf[i41.2.1 Z3c[i41.2.1 
+0000024 180  NP1     Grant                    Z1mf[i41.2.2 Z3c[i41.2.2 Z1mf 
+0000024 190  NN1     mission                  X7+ G3 S9 S9/H1 
+0000024 191  ,       ,                        
+0000024 192  NULL    </quote>                 
+0000024 193  -----   -----                    
+0000024 200  NP1@    Roselle                  Z99 
+0000024 210  VVD     said                     Q2.1 
+0000024 211  .       .                        
+0000025 001  -----   -----                    
+0000026 010  NN1     Gov                      Z99 
+0000026 011  .       .                        
+0000026 012  -----   -----                    
+0000026 020  NP1     Ruth                     Z1mf[i43.3.1 Z3c[i43.3.1 Z1f Z1mf[i42.2.1 Z3c[i42.2.1 
+0000026 030  NP1     Ann                      Z1mf[i43.3.2 Z3c[i43.3.2 Z1f Z1mf[i42.2.2 Z3c[i42.2.2 Z1mf[i44.2.1 Z3c[i44.2.1 
+0000026 040  NP1     Minner                   Z3c[i43.3.3 Z1mf[i43.3.3 Z1mf[i44.2.2 Z3c[i44.2.2 
+0000026 050  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000026 060  CST     that                     Z5 Z8 
+0000026 070  AT      the                      Z5 
+0000026 080  NN1     state                    G1.1c O4.1 
+0000026 090  VHZ     has                      Z5 A9+ A2.2 S4 
+0000026 100  VVN@    become                   A2.1+ O4.2+ 
+0000026 110  VVN     known                    X2.2+ S3.2/B1% 
+0000026 120  IF      for                      Z5 
+0000026 130  DA      such                     Z5 Z8 
+0000026 140  JJ      collaborative            S1.1.3+ S8+ 
+0000026 150  NN2     efforts                  X8+ O2 
+0000026 151  ,       ,                        
+0000026 160  CC      and                      Z5 
+0000026 170  VVD@    called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000026 180  PPHO2   them                     Z8mfn 
+0000026 181  NULL    <quote>                  
+0000026 182  -----   -----                    
+0000026 190  AT      the                      Z5 
+0000026 200  NP1     Delaware                 Z2[i45.2.1 Z2 
+0000026 210  NN1     way                      Z2[i45.2.2 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000026 211  .       .                        
+0000026 212  NULL    </quote>                 
+0000028 001  NULL    <quote>                  
+0000028 002  -----   -----                    
+0000028 010  PPH1    It                       Z8 
+0000028 020  VBZ     is                       A3+ Z5 
+0000028 030  JJ      vital                    A11.1+ X5.2+ 
+0000028 040  CST     that                     Z8 Z5 
+0000028 050  PPIS2   we                       Z8 
+0000028 060  VV0     continue                 T2++ 
+0000028 070  TO      to                       Z5 
+0000028 080  VVI     explore                  M1 X2.4 
+0000028 090  NN2     ways                     X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000028 100  TO      to                       Z5 
+0000028 110  VVI     take                     S8+[i47.3.1 G2.2-[i47.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ S1.2.2+[i46.2.1 
+0000028 120  NN1     advantage                S8+[i47.3.2 G2.2-[i47.3.2 A5.1+ K5.2 S1.2.2+[i46.2.2 
+0000028 130  IO      of                       G2.2-[i47.3.3 S8+[i47.3.3 Z5 
+0000028 140  JJ      alternative              A6.1- N6 
+0000028 150  NN1     energy                   X5.2+ Y1 
+0000028 160  NN2     sources                  T2+ Q1.1 X2.2 W3/M4 
+0000028 161  ,       ,                        
+0000028 162  NULL    </quote>                 
+0000028 163  -----   -----                    
+0000028 170  NP1     Minner                   Z99 
+0000028 180  VVD     said                     Q2.1 
+0000028 181  .       .                        
+0000029 001  -----   -----                    
+0000030 010  NP1     U.S.                     Z8 
+0000030 020  NNB     Senator                  G1.2/S2mf 
+0000030 030  NP1     Thomas                   Z1mf[i49.3.1 Z3c[i49.3.1 Z1mf Z1mf[i48.2.1 Z3c[i48.2.1 
+0000030 040  NP1     R.                       Z1mf[i49.3.2 Z3c[i49.3.2 Z1mf[i48.2.2 Z3c[i48.2.2 Z1mf[i50.2.1 Z3c[i50.2.1 
+0000030 050  NP1     Carper                   Z3c[i49.3.3 Z1mf[i49.3.3 Z1mf[i50.2.2 Z3c[i50.2.2 
+0000030 051  (       (                        
+0000030 060  NP1     D-Del.                   Z99 
+0000030 061  )       )                        
+0000030 070  VVD     said                     Q2.1 
+0000030 080  CST     that                     Z5 Z8 
+0000030 090  JJ@     rising                   M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 
+0000030 100  NN1     carbon                   O1.3[i51.2.1 O1.1 Q1.2@ 
+0000030 110  NN1     dioxide                  O1.3[i51.2.2 O1 
+0000030 120  NN2     emissions                A9- 
+0000030 121  ,       ,                        
+0000030 130  JJ      high                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000030 140  NN1     demand                   Q2.2 S6+ X7+ 
+0000030 150  IF      for                      Z5 
+0000030 160  NN1     electricity              O3 
+0000030 170  CC      and                      Z5 
+0000030 180  JJ      environmental            W5 W3 
+0000030 190  NN2     concerns                 E6- I2.1 
+0000030 200  VV0     make                     X9.2+[i52.2.1 M1[i52.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000030 210  PPH1    it                       X9.2+[i52.2.2 M1[i52.2.2 Z8 
+0000030 220  JJ      imperative               A11.1+ Q3 
+0000030 230  CST     that                     Z5 Z8 
+0000030 240  AT      the                      Z5 
+0000030 250  NN1     nation                   G1.1c S5+c 
+0000030 260  VVZ     seeks                    X2.4 
+0000030 270  NN2     alternatives             A6.1- 
+0000030 271  .       .                        
+0000030 272  NULL    <quote>                  
+0000030 273  -----   -----                    
+0000030 280  RGQ@    How                      Z5 A13.3 
+0000030 290  JJ      smart                    O4.2+ X9.1+ S1.2.6+ 
+0000030 300  VBZ     is                       A3+ Z5 
+0000030 310  PPH1    it                       Z8 
+0000030 320  TO      to                       Z5 
+0000030 330  VVI     capture                  A9+ 
+0000030 340  AT      the                      Z5 
+0000030 350  NN1     energy                   X5.2+ Y1 
+0000030 360  IO      of                       Z5 
+0000030 370  AT      the                      Z3c[i53.2.1 Z5 
+0000030 380  NN1     sun                      Z3c[i53.2.2 W1 W2 W4 
+0000030 381  ?       ?                        
+0000030 382  NULL    </quote>                 
+0000030 383  -----   -----                    
+0000030 390  PPHS1   he                       Z8m 
+0000030 400  VVD     asked                    Q2.2 
+0000030 401  .       .                        
+0000030 402  NULL    <quote>                  
+0000030 403  -----   -----                    
+0000030 410  DD1     This                     M6 Z5 Z8 
+0000030 420  NN1     project                  A1.1.1 P1 
+0000030 430  NN1%    can                      O2 F2% 
+0000030 440  VVZ     helps                    S8+ 
+0000030 450  NN2     growers                  F4/S2mf 
+0000030 460  VVI     keep                     A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000030 470  NN2     chickens                 L2mfn F1 E5-/S2mf 
+0000030 480  JJ      alive                    L1+ X5.2+ 
+0000030 481  ,       ,                        
+0000030 490  VV0     help                     S8+ 
+0000030 500  VVI     prevent                  S8- 
+0000030 510  NN2     brownouts                Z99 
+0000030 520  CC      and                      Z5 
+0000030 530  VV0     provide                  A9- S6+ 
+0000030 540  VVN     needed                   S6+ 
+0000030 550  NN1     electricity              O3 
+0000030 551  .       .                        
+0000030 552  NULL    </quote>                 
+0000030 553  -----   -----                    
+0000032 010  NP1@    Carper                   Z99 
+0000032 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000032 030  CST     that                     Z8 Z5 
+0000032 040  CS      while                    Z5 
+0000032 050  AT1     a                        Z5 
+0000032 060  NN1     student                  P1/S2mf 
+0000032 070  II      at                       Z5 
+0000032 080  NP1     UD                       Z99 
+0000032 090  PPHS1   he                       Z8m 
+0000032 100  RR      once                     N6- T1.1.1 
+0000032 110  VVN     designed                 C1 X7+ 
+0000032 120  AT1     a                        Z5 
+0000032 130  JJ      solar                    W1 W2 O3 
+0000032 140  NN1     panel                    S5+c H5 O3 O2 
+0000032 150  CCB     but                      Z5 
+0000032 160  RR      never                    T1/Z6 
+0000032 170  VVD     envisioned               X2.6+ 
+0000032 180  PPH1    it                       Z8 
+0000032 190  VM      could                    A7+ 
+0000032 200  VBI     be                       A3+ Z5 
+0000032 210  JJ      used                     T1.1.1[i54.2.1 A6.2+[i54.2.1 
+0000032 220  II      to                       T1.1.1[i54.2.2 A6.2+[i54.2.2 Z5 
+0000032 230  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000032 240  AT1     a                        Z5 
+0000032 250  NN1     chicken                  L2mfn F1 E5-/S2mf 
+0000032 260  NN1     house                    H1 P1/S5+c G1.1c 
+0000032 261  .       .                        
+0000033 001  -----   -----                    
+0000034 010  NP1     Robin                    Z1mf[i56.3.1 Z3c[i56.3.1 Z1mf Z1mf[i55.2.1 Z3c[i55.2.1 
+0000034 020  NP1     W.                       Z1mf[i56.3.2 Z3c[i56.3.2 Z1mf[i55.2.2 Z3c[i55.2.2 Z1mf[i57.2.1 Z3c[i57.2.1 
+0000034 030  NP1     Morgan                   Z3c[i56.3.3 Z1mf[i56.3.3 Z1mf Z1mf[i57.2.2 Z3c[i57.2.2 
+0000034 031  ,       ,                        
+0000034 040  NN1     dean                     P1/S7.1+/S2mf S9/S7.1+/S2.2m S7.2+/S2.2m 
+0000034 050  IO      of                       Z5 
+0000034 060  NP1     UD                       Z99 
+0000034 061  GE      's                       Z5 
+0000034 070  NN1     College                  P1/H1c 
+0000034 080  IO      of                       Z5 
+0000034 090  NN1     Agriculture              F4 
+0000034 100  CC      and                      Z5 
+0000034 110  JJ      Natural                  W3[i58.2.1 W5[i58.2.1 A6.2+ A9+ A5.4+ W3 W5 B1 K2 
+0000034 120  NN2     Resources                W3[i58.2.2 W5[i58.2.2 A9+ W3 
+0000034 121  ,       ,                        
+0000034 130  VVD     said                     Q2.1 
+0000034 140  CST     that                     Z5 Z8 
+0000034 150  AT      the                      Z5 
+0000034 160  NN1     project                  A1.1.1 P1 
+0000034 170  VVD     began                    T2+ 
+0000034 180  II      as                       Z5 
+0000034 190  AT1     a                        Z5 
+0000034 200  NN1     modeling                 A5.4- A10+ C1 
+0000034 210  NN1     effort                   X8+ O2 
+0000034 220  II      by                       Z5 
+0000034 230  AT      the                      Z5 
+0000034 240  NN1     UD                       Z99 
+0000034 250  NN1     Center                   M6 H1c M7c G1.2c K5.1mfn 
+0000034 260  IF      for                      Z5 
+0000034 270  NN1     Energy                   X5.2+ Y1 
+0000034 280  CC      and                      Z5 
+0000034 290  JJ      Environmental            W5 W3 
+0000034 300  NN1     Policy                   X7+ Q1.2 
+0000034 301  ,       ,                        
+0000034 310  CC      and                      Z5 
+0000034 320  RT      then                     N4 Z5 T1.2 
+0000034 330  VVD     took                     X9.2+[i59.2.1 M5[i59.2.1 M2[i59.2.1 N5-/A2.1[i59.2.1 K1[i59.2.1 M1[i59.2.1 A1.1.1[i59.2.1 A5.4-[i59.2.1 A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000034 340  RP      off                      X9.2+[i59.2.2 M5[i59.2.2 M2[i59.2.2 N5-/A2.1[i59.2.2 K1[i59.2.2 M1[i59.2.2 A1.1.1[i59.2.2 A5.4-[i59.2.2 M6 K1 A1.1.1 A1.9 
+0000034 350  II      at                       Z5 
+0000034 360  AT1     a                        Z5 
+0000034 370  NN1     meeting                  S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+ 
+0000034 380  IO      of                       Z5 
+0000034 390  AT      the                      Z5 
+0000034 400  NP1     Delaware                 Z2 
+0000034 410  NN1     Science                  Y1 
+0000034 420  CC      and                      Z5 
+0000034 430  NN1     Technology               Y1 
+0000034 440  NN1     Council                  G1.1c S7.1+/S5+c 
+0000034 441  ,       ,                        
+0000034 450  CS      when                     Z5 
+0000034 460  AT      the                      Z5 
+0000034 470  NN1     topic                    X4.1 
+0000034 480  IO      of                       Z5 
+0000034 490  VVG     rising                   M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 
+0000034 500  NN1     electricity              O3 
+0000034 510  NN2     costs                    I1.3 
+0000034 520  VBDZ    was                      Z5 A3+ 
+0000034 530  VVN     discussed                Q2.1 Q2.2 
+0000034 531  .       .                        
+0000034 532  -----   -----                    
+0000034 540  AT      The                      Z5 
+0000034 550  NN1     council                  G1.1c S7.1+/S5+c 
+0000034 551  ,       ,                        
+0000034 560  DDQ     which                    Z8 Z5 
+0000034 570  VBZ     is                       Z5 A3+ 
+0000034 580  VVN     chaired                  S7.1+ 
+0000034 590  II      by                       Z5 
+0000034 600  NP1     Delaware                 Z2 
+0000034 610  NNB     Lt.                      Z99 
+0000034 620  NP1     Gov                      Z99 
+0000034 621  .       .                        
+0000034 622  -----   -----                    
+0000034 630  NP1     John                     Z1mf[i60.2.1 Z3c[i60.2.1 Z1m S9/O1.2 
+0000034 640  NP1     Carney                   Z1mf[i60.2.2 Z3c[i60.2.2 
+0000034 641  ,       ,                        
+0000034 650  VBZ     is                       A3+ Z5 
+0000034 660  AT1     a                        Z5 
+0000034 670  NN1     group                    S5+c A4.1c B3% 
+0000034 680  IO      of                       Z5 
+0000034 690  NN1     state                    G1.1c O4.1 
+0000034 700  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000034 710  CC      and                      Z5 
+0000034 720  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000034 730  CC      and                      Z5 
+0000034 740  JJ      academic                 P1 A1.6 
+0000034 750  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000034 760  PNQS    who                      Z8 
+0000034 770  VV0     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000034 780  TO      to                       Z5 
+0000034 790  VVI     advance                  M1 A5.1+/A2.1+ I1.1 T4+ S8+ X2.1 
+0000034 800  NN1     technology               Y1 
+0000034 810  II      in                       Z5 
+0000034 820  NP1     Delaware                 Z2 
+0000034 821  .       .                        
+0000035 001  -----   -----                    
+0000036 010  AT      The                      Z5 
+0000036 020  NN1     pilot                    M5/I3.2/S2mf M4/I3.2/S2mf X2.4 Y1 
+0000036 030  JJ      photovoltaic             Z99 
+0000036 040  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000036 041  ,       ,                        
+0000036 050  DDQ     which                    Z8 Z5 
+0000036 060  VBZ     is                       Z5 A3+ 
+0000036 070  VVN     designed                 C1 X7+ 
+0000036 080  TO      to                       Z5 
+0000036 090  VVI     evaluate                 A5.1 N2 
+0000036 100  AT1     a                        Z5 
+0000036 110  NN1     variety                  A6.3+ A4.1 K4 
+0000036 120  IO      of                       Z5 
+0000036 130  NN1     use                      A1.5.1 
+0000036 140  NN2     options                  X7+ I2.1 P1 
+0000036 150  CC      and                      Z5 
+0000036 160  VV0     generate                 A2.2 O3 
+0000036 170  JJ      extensive                N5+ N3.6+ 
+0000036 180  NN1     research                 X2.4 
+0000036 190  NN      data                     X2.2/X2.4 Q1.1 
+0000036 191  ,       ,                        
+0000036 200  VV0     cost                     I1.3 I1.2 
+0000036 210  RR      approximately            A13.4 
+0000036 220  NNU     $500,000                 Z99 
+0000036 221  ,       ,                        
+0000036 230  CCB     but                      Z5 
+0000036 240  AT      the                      Z5 
+0000036 250  NN1     project                  A1.1.1 P1 
+0000036 260  VBZ     is                       A3+ Z5 
+0000036 270  JJ      eligible                 A1.2+ S4 
+0000036 280  IF      for                      Z5 
+0000036 290  AT1     a                        Z5 
+0000036 300  NN1     rebate                   I1.1 
+0000036 310  IO      of                       Z5 
+0000036 320  NNU     $250,000                 Z99 
+0000036 330  II      from                     Z5 
+0000036 340  AT      the                      Z5 
+0000036 350  NP1     Delaware                 Z2 
+0000036 360  JJ      Green                    O4.3 W5 L3 X9.1- 
+0000036 370  NN1     Energy                   X5.2+ Y1 
+0000036 380  NN1     Program                  Y2 X7+ Q4.3 Q1.2 P1 
+0000036 381  .       .                        
+0000036 382  -----   -----                    
+0000036 390  JJ      Solar-powered            Z99 
+0000036 400  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000036 410  RR      also                     N5++ 
+0000036 420  VBR     are                      A3+ Z5 
+0000036 430  JJ      eligible                 A1.2+ S4 
+0000036 440  IF      for                      Z5 
+0000036 450  NN1     state                    G1.1c O4.1 
+0000036 460  CC      and                      Z5 
+0000036 470  JJ      federal                  S5+ 
+0000036 480  NN1     tax                      I1.1/G1.1 
+0000036 490  NN2     credits                  I1.1 A5.1+ X2.1 P1 Q4.3 
+0000036 491  .       .                        
+0000037 001  -----   -----                    
+0000038 010  VVG     Assisting                S8+ 
+0000038 020  II      in                       Z5 
+0000038 030  AT      the                      Z5 
+0000038 040  NN1     ribbon                   B5 O2 
+0000038 050  VVG     cutting                  A1.1.1 N5-/A2.1 T2- Q4.3 K5.1 B1 
+0000038 060  II      at                       Z5 
+0000038 070  AT      the                      Z5 
+0000038 080  JJ      new                      T3- 
+0000038 090  JJ      solar                    W1 W2 O3 
+0000038 100  NN      poultry                  L2 
+0000038 110  NN1     house                    H1 P1/S5+c G1.1c 
+0000038 120  VBR     are                      A3+ Z5 
+0000038 121  (       (                        
+0000038 130  II      from                     Z5 
+0000038 140  JJ      left                     M6 G1.2 N5.2+ 
+0000038 141  )       )                        
+0000038 150  NP1     U.S.                     Z8 
+0000038 160  NNB     Sen.                     B3/S2mf 
+0000038 170  NP1     Thomas                   Z1mf[i62.3.1 Z3c[i62.3.1 Z1mf Z1mf[i61.2.1 Z3c[i61.2.1 
+0000038 180  NP1     R.                       Z1mf[i62.3.2 Z3c[i62.3.2 Z1mf[i61.2.2 Z3c[i61.2.2 Z1mf[i63.2.1 Z3c[i63.2.1 
+0000038 190  NP1     Carper                   Z3c[i62.3.3 Z1mf[i62.3.3 Z1mf[i63.2.2 Z3c[i63.2.2 
+0000038 191  ;       ;                        
+0000038 200  NP1     Delaware                 Z2 
+0000038 210  NN1     Gov                      Z99 
+0000038 211  .       .                        
+0000038 212  -----   -----                    
+0000038 220  NP1     Ruth                     Z1mf[i65.3.1 Z3c[i65.3.1 Z1f Z1mf[i64.2.1 Z3c[i64.2.1 
+0000038 230  NP1     Ann                      Z1mf[i65.3.2 Z3c[i65.3.2 Z1f Z1mf[i64.2.2 Z3c[i64.2.2 Z1mf[i66.2.1 Z3c[i66.2.1 
+0000038 240  NP1     Minner                   Z3c[i65.3.3 Z1mf[i65.3.3 Z1mf[i66.2.2 Z3c[i66.2.2 
+0000038 241  ;       ;                        
+0000038 250  NP1     Jim                      Z1mf[i67.2.1 Z3c[i67.2.1 Z1m 
+0000038 260  NP1     Rand                     Z1mf[i67.2.2 Z3c[i67.2.2 
+0000038 261  ,       ,                        
+0000038 270  NN1     leader                   S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000038 280  IO      of                       Z5 
+0000038 290  NN1     research                 X2.4[i68.3.1 X2.4 
+0000038 300  CC      and                      X2.4[i68.3.2 Z5 
+0000038 310  NN1     development              X2.4[i68.3.3 A2.1+ A5.1+/A2.1 H1 
+0000038 320  IF      for                      Z5 
+0000038 330  NP1     GE                       Z3 
+0000038 340  NN1     Energy                   X5.2+ Y1 
+0000038 341  ;       ;                        
+0000038 350  NP1     David                    Z1mf[i69.2.1 Z3c[i69.2.1 Z1m 
+0000038 360  NP1     Weir                     Z1mf[i69.2.2 Z3c[i69.2.2 
+0000038 361  ,       ,                        
+0000038 370  NN1     director                 S7.1+/S2mf K4/S2mf 
+0000038 380  IO      of                       Z5 
+0000038 390  AT      the                      Z5 
+0000038 400  NP1     Delaware                 Z2 
+0000038 410  NN1     Biotechnology            Y1/L1 Y1/B3 
+0000038 420  NN1     Institute                P1/S5+c X2.4/S5+c 
+0000038 421  ;       ;                        
+0000038 430  NP1     John                     Z1mf[i70.2.1 Z3c[i70.2.1 Z1m S9/O1.2 
+0000038 440  NP1     Hughes                   Z1mf[i70.2.2 Z3c[i70.2.2 Z1mf 
+0000038 441  ,       ,                        
+0000038 450  NN1     secretary                I3.2/S2mf S7.1+/S2mf 
+0000038 460  IO      of                       Z5 
+0000038 470  AT      the                      Z5 
+0000038 480  NP1     Delaware                 Z2 
+0000038 490  NN1     Department               H2/S5+c X2.2 
+0000038 500  IO      of                       Z5 
+0000038 510  JJ      Natural                  W3[i71.2.1 W5[i71.2.1 A6.2+ A9+ A5.4+ W3 W5 B1 K2 
+0000038 520  NN2     Resources                W3[i71.2.2 W5[i71.2.2 A9+ W3 
+0000038 521  ;       ;                        
+0000038 530  NP1     Charles                  Z1mf[i73.3.1 Z3c[i73.3.1 Z1m Z1mf[i72.2.1 Z3c[i72.2.1 
+0000038 540  NP1     C.                       Z1mf[i73.3.2 Z3c[i73.3.2 Z1mf[i72.2.2 Z3c[i72.2.2 Z1mf[i74.2.1 Z3c[i74.2.1 
+0000038 550  NP1     Allen                    Z3c[i73.3.3 Z1mf[i73.3.3 Z1mf Z1mf[i74.2.2 Z3c[i74.2.2 Z2[i75.2.1 Z1mf[i75.2.1 
+0000038 560  MC      III                      N1 Z2[i75.2.2 Z1mf[i75.2.2 
+0000038 570  IO      of                       Z5 
+0000038 580  NP1     Allen                    Z1mf 
+0000038 590  NN1     Family                   S4c A4.1c 
+0000038 600  NN2     Foods                    F1 
+0000038 601  ;       ;                        
+0000038 610  NP1     Chris                    Z1mf[i76.2.1 Z3c[i76.2.1 Z1mf 
+0000038 620  NP1     Sherring                 Z1mf[i76.2.2 Z3c[i76.2.2 
+0000038 621  ,       ,                        
+0000038 630  JJ      vice                     S7.1+/S2mf[i77.2.1 
+0000038 640  NN1     president                S7.1+/S2mf[i77.2.2 G1.1/S7.1+/S2mf 
+0000038 650  IO      of                       Z5 
+0000038 660  NP1     WorldWater               Z99 
+0000038 661  NULL    &;                       
+0000038 670  NP1@    Power                    Z1mf[i78.2.1 Z3c[i78.2.1 
+0000038 680  NP1     Corp.                    Z1mf[i78.2.2 Z3c[i78.2.2 
+0000038 681  ;       ;                        
+0000038 690  NP1     Robin                    Z1mf[i79.2.1 Z3c[i79.2.1 Z1mf 
+0000038 700  NP1     Morgan                   Z1mf[i79.2.2 Z3c[i79.2.2 Z1mf 
+0000038 701  ,       ,                        
+0000038 710  NN1     dean                     P1/S7.1+/S2mf S9/S7.1+/S2.2m S7.2+/S2.2m 
+0000038 720  IO      of                       Z5 
+0000038 730  NP1     UD                       Z99 
+0000038 731  GE      's                       Z5 
+0000038 740  NN1     College                  P1/H1c 
+0000038 750  IO      of                       Z5 
+0000038 760  NN1     Agriculture              F4 
+0000038 770  CC      and                      Z5 
+0000038 780  JJ      Natural                  W3[i80.2.1 W5[i80.2.1 A6.2+ A9+ A5.4+ W3 W5 B1 K2 
+0000038 790  NN2     Resources                W3[i80.2.2 W5[i80.2.2 A9+ W3 
+0000038 791  ;       ;                        
+0000038 800  NP1     Michael                  Z1m 
+0000038 810  VV0     Scuse                    Z99 
+0000038 811  ,       ,                        
+0000038 820  NN1     secretary                I3.2/S2mf S7.1+/S2mf 
+0000038 830  IO      of                       Z5 
+0000038 840  AT      the                      Z5 
+0000038 850  NP1     Delaware                 Z2 
+0000038 860  NN1     Department               H2/S5+c X2.2 
+0000038 870  IO      of                       Z5 
+0000038 880  NN1     Agriculture              F4 
+0000038 881  ;       ;                        
+0000038 890  NP1     Michael                  Z1mf[i81.2.1 Z3c[i81.2.1 Z1m 
+0000038 900  NP1     Bowman                   Z1mf[i81.2.2 Z3c[i81.2.2 
+0000038 901  ,       ,                        
+0000038 910  NN1     chairman                 S7.1+/S2mf 
+0000038 920  CC      and                      Z5 
+0000038 930  NN1     president                G1.1/S7.1+/S2mf 
+0000038 940  IO      of                       Z5 
+0000038 950  NP1     Delaware                 Z2 
+0000038 960  NN1     Technology               Y1 
+0000038 970  NN1     Park                     M7/L3 
+0000038 971  ;       ;                        
+0000038 980  NP1     Frank                    Z1mf[i82.2.1 Z3c[i82.2.1 Z1 
+0000038 990  NP1     Smith                    Z1mf[i82.2.2 Z3c[i82.2.2 Z1mf 
+0000038 991  ,       ,                        
+0000038 000  NP1     C.O.O.                   X3.2 
+0000038 010  IO      of                       Z5 
+0000038 020  NP1     WorldWater               Z99 
+0000038 021  NULL    &;                       
+0000038 030  NP1@    Power                    Z1mf[i83.2.1 Z3c[i83.2.1 
+0000038 040  NP1     Corp.                    Z1mf[i83.2.2 Z3c[i83.2.2 
+0000038 041  ;       ;                        
+0000038 050  CC      and                      Z5 
+0000038 060  NP1     Elizabeth                Z1f 
+0000038 070  CC      and                      Z5 
+0000038 080  NP1     Harry                    Z1mf[i84.2.1 Z3c[i84.2.1 Z1mf 
+0000038 090  NP1@    King                     Z1mf[i84.2.2 Z3c[i84.2.2 
+0000038 091  ,       ,                        
+0000038 100  PNQS    who                      Z8 
+0000038 110  VV0     operate                  A1.1.1 B3 
+0000038 120  AT      the                      Z5 
+0000038 130  NN1     farm                     F4/M7 
+0000038 140  CS      where                    M6 
+0000038 150  AT      the                      Z5 
+0000038 160  NN1     house                    H1 P1/S5+c G1.1c 
+0000038 170  VBZ     is                       Z5 A3+ 
+0000038 180  VVN     located                  M6 A10+ 
+0000038 181  .       .                        
+0000039 001  -----   -----                    
+0000040 010  RR21    In                       N5++[i85.2.1 
+0000040 020  RR22    addition                 N5++[i85.2.2 
+0000040 021  ,       ,                        
+0000040 030  NN      poultry                  L2 
+0000040 040  NN2     growers                  F4/S2mf 
+0000040 050  VM      can                      A7+ 
+0000040 060  VVI     apply                    Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+ 
+0000040 070  IF      for                      Z5 
+0000040 080  JJ      renewable                T3-/A2.1 
+0000040 090  NN1     energy                   X5.2+ Y1 
+0000040 100  VVZ     grants                   A9+ 
+0000040 110  II      from                     Z5 
+0000040 120  AT      the                      Z5 
+0000040 130  NP1     U.S.                     Z8 
+0000040 140  NN1     Department               H2/S5+c X2.2 
+0000040 150  IO      of                       Z5 
+0000040 160  NN1     Agriculture              F4 
+0000040 161  ,       ,                        
+0000040 170  CC      and                      Z5 
+0000040 180  PPHS2   they                     Z8mfn 
+0000040 190  VM      will                     T1.1.3 
+0000040 200  VBI     be                       A3+ Z5 
+0000040 210  JK      able                     X9.1+ 
+0000040 220  TO      to                       Z5 
+0000040 230  VVI     earn                     A9+/I1 S1.1.4+ 
+0000040 231  NULL    <quote>                  
+0000040 232  -----   -----                    
+0000040 240  JJ      green                    O4.3 W5 L3 X9.1- 
+0000040 250  NN2     credits                  I1.1 A5.1+ X2.1 P1 Q4.3 
+0000040 251  NULL    </quote>                 
+0000040 252  -----   -----                    
+0000040 260  IF      for                      Z5 
+0000040 270  APPGE   their                    Z8 
+0000040 280  NN1     use                      A1.5.1 
+0000040 290  IO      of                       Z5 
+0000040 300  JJ      alternative              A6.1- N6 
+0000040 310  NN1     technology               Y1 
+0000040 320  CC      and                      Z5 
+0000040 330  VV0     sell                     I2.2 
+0000040 340  DD2     these                    Z5 Z8 
+0000040 350  NN2     credits                  I1.1 A5.1+ X2.1 P1 Q4.3 
+0000040 360  II      to                       Z5 
+0000040 370  JJ      other                    A6.1- 
+0000040 380  NN2     businesses               I2.1 A1.1.1 A5.1+++ 
+0000040 381  .       .                        
+0000042 001  NULL    <quote>                  
+0000042 002  -----   -----                    
+0000042 010  NN1     Success                  X9.2+ 
+0000042 020  II      in                       Z5 
+0000042 030  DD1     this                     M6 Z5 Z8 
+0000042 040  NN1     initiative               A1.1.1 X5.2+ 
+0000042 050  VM      will                     T1.1.3 
+0000042 060  VHI     have                     A9+ Z5 A2.2 S4 
+0000042 070  AT1     a                        N5+[i86.3.1 Z5 
+0000042 080  NN1     number                   N5+[i86.3.2 N5 N1 Q1.3 K2 Q4.2 
+0000042 090  IO      of                       N5+[i86.3.3 Z5 
+0000042 100  JJ      important                A11.1+ 
+0000042 110  NN2     benefits                 S8+ I1.1/G1.1 
+0000042 111  ,       ,                        
+0000042 112  NULL    </quote>                 
+0000042 113  -----   -----                    
+0000042 120  NP1     David                    Z1mf[i88.3.1 Z3c[i88.3.1 Z1m Z1mf[i87.2.1 Z3c[i87.2.1 
+0000042 130  NP1     S.                       Z1mf[i88.3.2 Z3c[i88.3.2 Z1mf[i87.2.2 Z3c[i87.2.2 Z1mf[i89.2.1 Z3c[i89.2.1 
+0000042 140  NP1     Weir                     Z3c[i88.3.3 Z1mf[i88.3.3 Z1mf[i89.2.2 Z3c[i89.2.2 
+0000042 141  ,       ,                        
+0000042 150  NN1     director                 S7.1+/S2mf K4/S2mf 
+0000042 160  IO      of                       Z5 
+0000042 170  AT      the                      Z5 
+0000042 180  NP1     Delaware                 Z2 
+0000042 190  NN1     Biotechnology            Y1/L1 Y1/B3 
+0000042 200  NN1     Institute                P1/S5+c X2.4/S5+c 
+0000042 201  ,       ,                        
+0000042 210  VVD     said                     Q2.1 
+0000042 211  .       .                        
+0000042 212  NULL    <quote>                  
+0000042 213  -----   -----                    
+0000042 220  MD      First                    N4 
+0000042 221  ,       ,                        
+0000042 230  PPH1    it                       Z8 
+0000042 240  VM      will                     T1.1.3 
+0000042 250  VVI     improve                  A5.1+/A2.1 
+0000042 260  AT      the                      Z5 
+0000042 270  NN1     profitability            I1.1 
+0000042 280  CC      and                      Z5 
+0000042 290  NN1     sustainability           T2++ 
+0000042 300  IO      of                       Z5 
+0000042 310  AT      the                      Z5 
+0000042 320  NN      poultry                  I4/L2c[i90.2.1 L2 
+0000042 330  NN1     industry                 I4/L2c[i90.2.2 I4c I2.1c 
+0000042 340  II      in                       Z5 
+0000042 350  NP1     Delaware                 Z2 
+0000042 351  ,       ,                        
+0000042 360  RR      thereby                  Z5 
+0000042 370  VVG     strengthening            S1.2.5+/A2.1 O4.1/A2.1 
+0000042 380  AT      the                      Z5 
+0000042 390  NN1     state                    G1.1c O4.1 
+0000042 391  GE      's                       Z5 
+0000042 400  NN1     economy                  I2.1 I1.3- 
+0000042 401  .       .                        
+0000042 402  -----   -----                    
+0000042 410  PPH1    It                       Z8 
+0000042 420  VM      will                     T1.1.3 
+0000042 430  VVI     help                     S8+ 
+0000042 440  VVI     retain                   A9+ 
+0000042 450  NN2     jobs                     I3.1 A1.1.1 
+0000042 460  II      in                       Z5 
+0000042 470  AT      the                      Z5 
+0000042 480  NN      poultry                  I4/L2c[i91.2.1 L2 
+0000042 490  NN1     industry                 I4/L2c[i91.2.2 I4c I2.1c 
+0000042 500  CC      and                      Z5 
+0000042 510  VV0     create                   A1.1.1 A2.2 E1 
+0000042 520  JJ      new                      T3- 
+0000042 530  NN2     jobs                     I3.1 A1.1.1 
+0000042 540  II      in                       Z5 
+0000042 550  JJ      solar                    W1 W2 O3 
+0000042 560  NN1     cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000042 570  NN1     production               A1.1.1 A10+ K4 K3 Q4.3 
+0000042 571  .       .                        
+0000042 572  -----   -----                    
+0000042 580  CC      And                      Z5 
+0000042 590  PPH1    it                       Z8 
+0000042 600  VM      will                     T1.1.3 
+0000042 610  VVI     demonstrate              A10+ G1.2 
+0000042 620  AT1     a                        Z5 
+0000042 630  NN1     process                  A1.1.1 X4.2 
+0000042 640  RRQ     whereby                  Z5 
+0000042 650  AT      the                      Z5 
+0000042 660  NN1     public                   S5+ A10+ S5+c 
+0000042 661  ,       ,                        
+0000042 670  JJ      private                  A10- S5- G1.1- 
+0000042 680  CC      and                      Z5 
+0000042 690  JJ      academic                 P1 A1.6 
+0000042 700  NN2     sectors                  A4.1 S5+ M7 N2@ 
+0000042 710  VM      can                      A7+ 
+0000042 720  VVI     get                      M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1- 
+0000042 730  RL      together                 S5+ T1.1.2 M6 
+0000042 740  TO      to                       Z5 
+0000042 750  VVI     solve                    X9.2+ 
+0000042 760  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
+0000042 770  NN2     problems                 A12- X4.1 N2 B2- 
+0000042 771  .       .                        
+0000043 001  NULL    </quote>                 
+0000044 001  NULL    <quote>                  
+0000044 002  -----   -----                    
+0000044 010  EX      There                    Z5 
+0000044 020  VBZ     is                       A3+ Z5 
+0000044 030  MC1     one                      N1 T3 T1.2 
+0000044 040  NN1     caveat                   A1.3+ 
+0000044 041  ,       ,                        
+0000044 042  NULL    </quote>                 
+0000044 043  -----   -----                    
+0000044 050  NP1     Weir                     H1/M4 
+0000044 060  VVD     said                     Q2.1 
+0000044 061  .       .                        
+0000044 062  NULL    <quote>                  
+0000044 063  -----   -----                    
+0000044 070  IF      For                      Z5 
+0000044 080  NP1     Delaware                 Z2 
+0000044 090  TO      to                       Z5 
+0000044 100  VBI     be                       A3+ Z5 
+0000044 110  AT1     a                        Z5 
+0000044 120  NN1     leader                   S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000044 130  II      in                       Z5 
+0000044 140  JJ      alternative              A6.1- N6 
+0000044 150  NN1     energy                   X5.2+ Y1 
+0000044 160  NN2     technologies             Y1 
+0000044 161  ,       ,                        
+0000044 170  AT      the                      Z5 
+0000044 180  NN1     enactment                Z99 
+0000044 190  IO      of                       Z5 
+0000044 200  JJ      appropriate              A1.2+ 
+0000044 210  NN1     legislation              G2.1 
+0000044 220  VM      will                     T1.1.3 
+0000044 230  VBI     be                       Z5 A3+ 
+0000044 240  VVN     required                 X7+ S6+ 
+0000044 241  .       .                        
+0000044 242  NULL    </quote>                 
+0000046 001  NULL    <quote>                  
+0000046 002  -----   -----                    
+0000046 010  DD1     This                     M6 Z5 Z8 
+0000046 020  NN1     project                  A1.1.1 P1 
+0000046 030  VBZ     is                       A3+ Z5 
+0000046 040  JJ      important                A11.1+ 
+0000046 050  TO      to                       Z5 
+0000046 060  VVI     help                     S8+ 
+0000046 070  APPGE   our                      Z8 
+0000046 080  NN      poultry                  I4/L2c[i92.2.1 L2 
+0000046 090  NN1     industry                 I4/L2c[i92.2.2 I4c I2.1c 
+0000046 100  VV0     stay                     M8 T2++ H4 
+0000046 110  JJ      competitive              S7.3+ 
+0000046 120  CC      and                      Z5 
+0000046 130  APPGE   our                      Z8 
+0000046 140  NN2     producers                K4/S7.1+/S2mf A1.1.1/S2mf 
+0000046 150  VV0     remain                   T2++ M8 N5.2+ 
+0000046 160  JJ      profitable               I1.1+ A1.5.2+ 
+0000046 161  ,       ,                        
+0000046 170  RG      as                       N5++[i93.2.1 A13 
+0000046 180  RR      well                     N5++[i93.2.2 A5.1+ A13.3 A7+ B2+ Z4 
+0000046 190  CSA     as                       Z5 
+0000046 200  VVN     cut                      A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3 
+0000046 210  APPGE   our                      Z8 
+0000046 220  NN1     dependence               A2.2 S7.1- 
+0000046 230  II      on                       Z5 
+0000046 240  JJ      foreign                  M7 
+0000046 250  NN1     oil                      O1.2 C1 C1/O1 
+0000046 251  ,       ,                        
+0000046 252  NULL    </quote>                 
+0000046 253  -----   -----                    
+0000046 260  NP1     Delaware                 Z2 
+0000046 270  NN1     Secretary                I3.2/S2mf S7.1+/S2mf 
+0000046 280  IO      of                       Z5 
+0000046 290  NN1     Agriculture              F4 
+0000046 300  NP1     Michael                  Z1m 
+0000046 310  VV0     Scuse                    Z99 
+0000046 320  VVN@    said                     Q2.1 
+0000046 321  .       .                        
+0000048 001  NULL    <quote>                  
+0000048 002  -----   -----                    
+0000048 010  JJ      Solar                    W1 W2 O3 
+0000048 020  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000048 030  VVZ     provides                 A9- S6+ 
+0000048 040  AT1     a                        Z5 
+0000048 050  JJ      clean                    O4.2+ G2.2+ 
+0000048 051  ,       ,                        
+0000048 060  JJ      safe                     A15+ A7+ 
+0000048 070  CC      and                      Z5 
+0000048 080  JJ      sustainable              T2++ 
+0000048 090  NN1     energy                   X5.2+ Y1 
+0000048 100  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000048 110  CST     that                     Z8 Z5 
+0000048 120  VHZ     has                      A9+ Z5 A2.2 S4 
+0000048 130  AT      the                      Z5 
+0000048 140  JJ      potential                A7+ 
+0000048 150  TO      to                       Z5 
+0000048 160  VVI     eliminate                A9- E3/L1- 
+0000048 170  JJ      standby                  A1.1.1 
+0000048 180  NN2     generators               O3 
+0000048 190  CC      and                      Z5 
+0000048 200  APPGE   their                    Z8 
+0000048 210  JJ      subsequent               N4 
+0000048 220  NN1     pollution                W5 
+0000048 221  ,       ,                        
+0000048 222  NULL    </quote>                 
+0000048 223  -----   -----                    
+0000048 230  NP1     John                     Z1mf[i95.3.1 Z3c[i95.3.1 Z1m S9/O1.2 Z1mf[i94.2.1 Z3c[i94.2.1 
+0000048 240  NP1     A.                       Z1mf[i95.3.2 Z3c[i95.3.2 Z1mf[i94.2.2 Z3c[i94.2.2 Z1mf[i96.2.1 Z3c[i96.2.1 
+0000048 250  NP1     Hughes                   Z3c[i95.3.3 Z1mf[i95.3.3 Z1mf Z1mf[i96.2.2 Z3c[i96.2.2 
+0000048 251  ,       ,                        
+0000048 260  NN1     secretary                I3.2/S2mf S7.1+/S2mf 
+0000048 270  IO      of                       Z5 
+0000048 280  AT      the                      Z5 
+0000048 290  NP1     Delaware                 Z2 
+0000048 300  NN1     Department               H2/S5+c X2.2 
+0000048 310  IO      of                       Z5 
+0000048 320  JJ      Natural                  W3[i97.2.1 W5[i97.2.1 A6.2+ A9+ A5.4+ W3 W5 B1 K2 
+0000048 330  NN2     Resources                W3[i97.2.2 W5[i97.2.2 A9+ W3 
+0000048 340  CC      and                      Z5 
+0000048 350  JJ      Environmental            W5 W3 
+0000048 360  NN1     Control                  S7.1+ A1.7+ O2 
+0000048 361  ,       ,                        
+0000048 370  VVD     said                     Q2.1 
+0000048 371  .       .                        
+0000050 001  NULL    <quote>                  
+0000050 002  -----   -----                    
+0000050 010  NP1     Delaware                 Z2 
+0000050 011  GE      's                       Z5 
+0000050 020  NN      poultry                  I4/L2c[i98.2.1 L2 
+0000050 030  NN1     industry                 I4/L2c[i98.2.2 I4c I2.1c 
+0000050 040  VBZ     is                       A3+ Z5 
+0000050 050  JJ@     very                     A4.2+ A5.2+% A13.3 
+0000050 060  NN1     energy                   X5.2+ Y1 
+0000050 070  JJ      intensive                N5+ X8+ 
+0000050 071  .       .                        
+0000050 072  -----   -----                    
+0000050 080  II      From                     Z5 
+0000050 090  DD1     this                     M6 Z5 Z8 
+0000050 100  NN1     research                 X2.4 
+0000050 101  ,       ,                        
+0000050 110  PPIS2   we                       Z8 
+0000050 120  VM      will                     T1.1.3 
+0000050 130  VVI     gain                     A9+ N5+/A2.1 
+0000050 140  JJ      valuable                 I1.3+ A1.5.2+ 
+0000050 150  NN1     information              X2.2+ 
+0000050 160  II      on                       Z5 
+0000050 170  AT      the                      Z5 
+0000050 180  NN2     benefits                 S8+ I1.1/G1.1 
+0000050 190  IO      of                       Z5 
+0000050 200  JJ      solar                    W1 W2 O3 
+0000050 210  NN1     technology               Y1 
+0000050 220  IF      for                      Z5 
+0000050 230  AT      the                      Z5 
+0000050 240  NN1     agriculture              I4/F4c[i99.2.1 F4 
+0000050 250  NN1     industry                 I4/F4c[i99.2.2 I4c I2.1c 
+0000050 260  CC      and                      Z5 
+0000050 270  IF      for                      Z5 
+0000050 280  PPIO2   us                       Z8 
+0000050 290  DB      all                      N5.1+ 
+0000050 291  ,       ,                        
+0000050 292  NULL    </quote>                 
+0000050 293  -----   -----                    
+0000050 300  PPHS1   he                       Z8m 
+0000050 310  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000050 311  .       .                        
+0000051 001  -----   -----                    
+0000052 010  VVG     Following                M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4 
+0000052 020  AT      the                      Z5 
+0000052 030  NNT1    morning                  T1.3 
+0000052 040  NN1     ribbon                   B5 O2 
+0000052 050  NN1     cutting                  A1.1.1 N5-/A2.1 T2- Q4.3 Q4.2 L3 M7/M3 K5.1 B1 
+0000052 051  ,       ,                        
+0000052 060  AT1     an                       Z5 
+0000052 070  JJ      open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000052 080  NN1     house                    H1 P1/S5+c G1.1c 
+0000052 090  VBDZ    was                      Z5 A3+ 
+0000052 100  VVN     held                     M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+ 
+0000052 110  CC      and                      Z5 
+0000052 120  DAR     more                     N5++ 
+0000052 130  CSN     than                     Z5 
+0000052 140  MC      100                      N1 T1.2 T3 T1.3 N3.2 
+0000052 150  NN      people                   S2mfc 
+0000052 160  VVD     attended                 S1.1.3+ X5.1+ 
+0000052 161  .       .                        
+0000053 001  -----   -----                    
+0000054 010  II      About                    Z5 
+0000054 020  AT      the                      Z5 
+0000054 030  NN1     project                  A1.1.1 P1 
+0000054 040  NN2     participants             S1.1.3+mfn 
+0000056 010  NP1     UD                       Z99 
+0000056 011  GE      's                       Z5 
+0000056 020  NN1     College                  P1/H1c 
+0000056 030  IO      of                       Z5 
+0000056 040  NN1     Agriculture              F4 
+0000056 050  CC      and                      Z5 
+0000056 060  JJ      Natural                  W3[i100.2.1 W5[i100.2.1 A6.2+ A9+ A5.4+ W3 W5 B1 K2 
+0000056 070  NN2     Resources                W3[i100.2.2 W5[i100.2.2 A9+ W3 
+0000056 080  VVZ@    offers                   A9- Q2.2 
+0000056 090  DAR     more                     N5++ 
+0000056 100  CSN     than                     Z5 
+0000056 110  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000056 120  JJ      academic                 P1 A1.6 
+0000056 130  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000056 140  VVN     related                  A2.2 S3.1 X2.5+ Q2.1 
+0000056 150  II      to                       Z5 
+0000056 160  NN1     science                  Y1 
+0000056 161  ,       ,                        
+0000056 170  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000056 171  ,       ,                        
+0000056 180  NN1     economics                I1c 
+0000056 190  CC      and                      Z5 
+0000056 200  NN1     engineering              Y1 S7.1+ A1.1.1 
+0000056 210  NN1     technology               Y1 
+0000056 211  .       .                        
+0000056 212  -----   -----                    
+0000056 220  AT      The                      Z5 
+0000056 230  NN1     college                  P1/H1c 
+0000056 240  VBZ     is                       Z5 A3+ 
+0000056 250  VVN     known                    X2.2+ S3.2/B1% 
+0000056 260  IF      for                      Z5 
+0000056 270  APPGE   its                      Z8 
+0000056 280  JJ      integrated               A1.8+ S5+ A2.2 N2% 
+0000056 290  NN      poultry                  L2 
+0000056 300  NN1     research                 X2.4 
+0000056 310  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000056 311  ,       ,                        
+0000056 320  DDQ     which                    Z8 Z5 
+0000056 330  VV0@    range                    A6.3+ O4.1 
+0000056 340  II      from                     Z5 
+0000056 350  JJ      molecular                O1 
+0000056 360  II      to                       Z5 
+0000056 370  JJ      organismal               Z99 
+0000056 380  CC      and                      Z5 
+0000056 390  JJ      applied                  A1.5.2+ Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+ 
+0000056 400  NN2     studies                  P1 X2.4 H2 Q1.2 C1 
+0000056 401  .       .                        
+0000057 001  -----   -----                    
+0000058 010  NP1     UD                       Z99 
+0000058 011  GE      's                       Z5 
+0000058 020  NN1     Center                   M6 H1c M7c G1.2c K5.1mfn 
+0000058 030  IF      for                      Z5 
+0000058 040  NN1     Energy                   X5.2+ Y1 
+0000058 041  NULL    &;                       
+0000058 050  JJ      Environmental            W5 W3 
+0000058 060  NN1     Policy                   X7+ Q1.2 
+0000058 070  VBZ     is                       A3+ Z5 
+0000058 080  AT1     a                        Z5 
+0000058 090  JJ      leading                  S7.1+ A11.1+ A2.2 M2 A1.1.1 
+0000058 100  NN1     institution              S5+c S7.1+ H1c S1.1.1 T2+ 
+0000058 110  IF      for                      Z5 
+0000058 120  JJ      interdisciplinary        P1 
+0000058 130  NN1     graduate                 P1/S2mf 
+0000058 140  NN1     education                P1 X2.3+ 
+0000058 141  ,       ,                        
+0000058 150  NN1     research                 X2.4 
+0000058 160  CC      and                      Z5 
+0000058 170  NN1     advocacy                 Q2.2/G2.1 Q2.2 
+0000058 180  II      in                       Z5 
+0000058 190  NN1     energy                   X5.2+ Y1 
+0000058 200  CC      and                      Z5 
+0000058 210  JJ      environmental            W5 W3 
+0000058 220  NN1     policy                   X7+ Q1.2 
+0000058 221  .       .                        
+0000059 001  -----   -----                    
+0000060 010  AT      The                      Z5 
+0000060 020  NP1     Delaware                 Z2 
+0000060 030  NN1     Science                  Y1 
+0000060 031  NULL    &;                       
+0000060 040  NN1     Technology               Y1 
+0000060 050  NN1     Council                  G1.1c S7.1+/S5+c 
+0000060 060  VBZ     is                       Z5 A3+ 
+0000060 070  VVN     made                     A5.2-[i101.2.1 B4[i101.2.1 N5[i101.2.1 S3.1[i101.2.1 A1.8+[i101.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000060 080  RP      up                       A5.2-[i101.2.2 B4[i101.2.2 N5[i101.2.2 S3.1[i101.2.2 A1.8+[i101.2.2 
+0000060 090  IO      of                       Z5 
+0000060 100  JJ      academic                 P1 A1.6 
+0000060 101  ,       ,                        
+0000060 110  JJ      public                   S5+ A10+ 
+0000060 120  CC      and                      Z5 
+0000060 130  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000060 140  NN2     representatives          Q2.1/S2mf G1.1/S2mf I2.2/S2mf A4.1 
+0000060 150  VVN     charged                  I1.3 O3 G2.1 M1 G3% 
+0000060 160  IW      with                     Z5 
+0000060 170  VVG     providing                A9- 
+0000060 180  JJ      strategic                X7+ G3 
+0000060 190  NN1     advice                   Q2.2/S8+ 
+0000060 200  CC      and                      Z5 
+0000060 210  NN1     guidance                 S8+ 
+0000060 220  II      on                       Z5 
+0000060 230  NN1     science                  Y1 
+0000060 240  CC      and                      Z5 
+0000060 250  NN1     technology               Y1 
+0000060 260  VVZ@    matters                  A11.1+ 
+0000060 270  JJ      important                A11.1+ 
+0000060 280  II      to                       Z5 
+0000060 290  AT      the                      Z5 
+0000060 300  NN1     prosperity               I1.1+ 
+0000060 310  IO      of                       Z5 
+0000060 320  NP1     Delaware                 Z2 
+0000060 321  .       .                        
+0000061 001  -----   -----                    
+0000062 010  NP1     Allen                    Z1mf 
+0000062 020  NN1     Family                   S4c A4.1c 
+0000062 030  NN2     Foods                    F1 
+0000062 040  JJ      Inc.                     I2.1 
+0000062 050  VBZ     is                       A3+ Z5 
+0000062 060  AT1     an                       Z5 
+0000062 070  NN1     industry                 I4c I2.1c 
+0000062 080  NN1     leader                   S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000062 090  CC      and                      Z5 
+0000062 100  AT1     a                        Z5 
+0000062 110  JJ      global                   W3 M7 A1.8+ O4.4 
+0000062 120  NN1     exporter                 I2.2/S2mf 
+0000062 130  IO      of                       Z5 
+0000062 140  JJ      premium                  I1.1 I1.3 A11.1+ 
+0000062 150  NN      poultry                  L2 
+0000062 160  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000062 161  .       .                        
+0000062 162  -----   -----                    
+0000062 170  VVN     Based                    T2+ M6 A2.2 
+0000062 180  II      in                       Z5 
+0000062 190  NP1     Seaford                  Z99 
+0000062 191  ,       ,                        
+0000062 200  NP1     Allen                    Z1mf 
+0000062 210  NN1     Family                   S4c A4.1c 
+0000062 220  NN2     Foods                    F1 
+0000062 230  VVZ@    processes                A1.1.1 Y2 M1 
+0000062 240  DAR     more                     N5++ 
+0000062 250  CSN     than                     Z5 
+0000062 260  MC      2.5                      N1[i102.2.1 T1.3[i102.2.1 I1[i102.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000062 270  NNO     million                  N1[i102.2.2 T1.3[i102.2.2 I1[i102.2.2 N1 I1 
+0000062 280  NN2     birds                    L2mfn S2.1f 
+0000062 290  II      per                      Z5 
+0000062 300  NNT1    week                     T1.3 
+0000062 310  CC      and                      Z5 
+0000062 320  NN2     packs                    O2 N5 S5+ 
+0000062 330  RG      about                    A13.4 
+0000062 340  MC      12                       N1[i103.2.1 T1.3[i103.2.1 I1[i103.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000062 350  NNO     million                  N1[i103.2.2 T1.3[i103.2.2 I1[i103.2.2 N1 I1 
+0000062 360  NN2     pounds                   M7 
+0000062 370  IO      of                       Z5 
+0000062 380  JJ@     finished                 T2- O4.1 X9.2- 
+0000062 390  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000062 400  II      per                      Z5 
+0000062 410  NNT1    week                     T1.3 
+0000062 411  .       .                        
+0000062 412  -----   -----                    
+0000062 420  AT      The                      Z5 
+0000062 430  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000062 440  VVZ     employs                  I3.1 A1.5.1 
+0000062 450  DAR     more                     N5++ 
+0000062 460  CSN     than                     Z5 
+0000062 470  MC      3,000                    N1 T1.2 T3 T1.3 N3.2 
+0000062 480  NN      people                   S2mfc 
+0000062 490  II      at                       Z5 
+0000062 500  NN2     locations                M7 
+0000062 510  II      in                       Z5 
+0000062 520  NP1     Delaware                 Z2 
+0000062 521  ,       ,                        
+0000062 530  NP1     Maryland                 Z2 Z3c 
+0000062 540  CC      and                      Z5 
+0000062 550  ND1     North                    Z2[i104.2.1 M6 
+0000062 560  NP1     Carolina                 Z2[i104.2.2 Z2 
+0000062 561  .       .                        
+0000063 001  -----   -----                    
+0000064 010  JJR     WorldWater               Z99 
+0000064 011  NULL    &;                       
+0000064 020  NN1     Power                    S7.1+ O3 S1.2.5+ N2@ 
+0000064 030  NN1     Corp                     I2.1 
+0000064 031  .       .                        
+0000064 032  -----   -----                    
+0000064 040  VBZ     is                       A3+ Z5 
+0000064 050  AT1     a                        Z5 
+0000064 060  NN1     leader                   S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000064 070  II      in                       Z5 
+0000064 080  JJ      solar                    W1 W2 O3 
+0000064 090  JJ      electric                 O3 
+0000064 100  NN1     engineering              Y1 S7.1+ A1.1.1 
+0000064 101  ,       ,                        
+0000064 110  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000064 120  NN1     management               S7.1+c 
+0000064 130  NN2     solutions                X4.2 O1.2 
+0000064 131  ,       ,                        
+0000064 140  JJ      solar                    W1 W2 O3 
+0000064 150  NN1     energy                   X5.2+ Y1 
+0000064 160  NN2     installations            A1.1.1 S1.1.1 
+0000064 170  CC      and                      Z5 
+0000064 180  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000064 181  .       .                        
+0000064 182  -----   -----                    
+0000064 190  AT      The                      Z5 
+0000064 200  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000064 210  VBZ     is                       A3+ Z5 
+0000064 220  JJ      responsible              A2.2 S6+ S7.1 S1.2.6+ X6+ 
+0000064 230  IF      for                      Z5 
+0000064 240  JJ      major                    A11.1+ N3.2+ 
+0000064 250  NN2     breakthroughs            X9.2+ 
+0000064 260  II      in                       Z5 
+0000064 270  JJ      solar                    W1 W2 O3 
+0000064 280  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000064 290  NN1     technology               Y1 
+0000064 300  CC      and                      Z5 
+0000064 310  VVZ     holds                    M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+ 
+0000064 320  JJ      numerous                 N5+ 
+0000064 330  JJ      solar-related            Z99 
+0000064 340  NN2     patents                  A9+/Q1.2 
+0000064 341  .       .                        
+0000065 001  -----   -----                    
+0000066 010  NP1     GE                       Z3 
+0000066 020  NN1     Energy                   X5.2+ Y1 
+0000066 030  VBZ     is                       A3+ Z5 
+0000066 040  MC1     one                      T3 N1 T1.2 
+0000066 050  IO      of                       Z5 
+0000066 060  AT      the                      Z5 
+0000066 070  NN1     world                    W1 S5+c A4.1 N5+ 
+0000066 071  GE      's                       Z5 
+0000066 080  JJ      leading                  S7.1+ A11.1+ A2.2 M2 A1.1.1 
+0000066 090  NN2     suppliers                I2.2/S2mfc A9-/S2mfc 
+0000066 100  IO      of                       Z5 
+0000066 110  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000066 120  NN1     generation               T1.3 S5+c 
+0000066 130  CC      and                      Z5 
+0000066 140  NN1     energy                   X5.2+ Y1 
+0000066 150  NN1     delivery                 M2 Q2.1 X9.2+ B3 S9% 
+0000066 160  NN2     technologies             Y1 
+0000066 161  .       .                        
+0000066 162  -----   -----                    
+0000066 170  NP1     GE                       Z3 
+0000066 180  NN1     Energy                   X5.2+ Y1 
+0000066 190  VVZ     works                    I3.1 A1.1.1 X9.2+ A2.2 
+0000066 200  II      in                       Z5 
+0000066 210  DB      all                      N5.1+ 
+0000066 220  NN2     areas                    M7 A4.1 N3.6 
+0000066 230  IO      of                       Z5 
+0000066 240  AT      the                      Z5 
+0000066 250  NN1     energy                   I4/X5.2+c[i105.2.1 X5.2+ Y1 
+0000066 260  NN1     industry                 I4/X5.2+c[i105.2.2 I4c I2.1c 
+0000066 261  ,       ,                        
+0000066 270  II      including                A1.8+ 
+0000066 280  JJ      renewable                T3-/A2.1 
+0000066 290  NN2     resources                A9+ W3 
+0000066 300  II21    such                     Z5[i106.2.1 
+0000066 310  II22    as                       Z5[i106.2.2 Z5 
+0000066 320  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000066 321  ,       ,                        
+0000066 330  NN1     wind                     W4 B1 
+0000066 331  ,       ,                        
+0000066 340  JJ      solar                    W1 W2 O3 
+0000066 350  CC      and                      Z5 
+0000066 360  NN2     biogas                   Z99 
+0000066 361  .       .                        
+0000066 362  -----   -----                    
+0000066 370  PPH1    It                       Z8 
+0000066 380  VBZ     is                       A3+ Z5 
+0000066 390  AT1     an                       Z5 
+0000066 400  NN1     industry                 I4c I2.1c 
+0000066 410  NN1     leader                   S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000066 420  II      in                       Z5 
+0000066 430  AT      the                      Z5 
+0000066 440  JJ      integrated               A1.8+ S5+ A2.2 N2% 
+0000066 450  NN1     design                   C1 X7+ B5 
+0000066 460  IO      of                       Z5 
+0000066 470  JJ      solar                    W1 W2 O3 
+0000066 480  JJ      electric                 O3 
+0000066 490  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000066 491  .       .                        
+0000069 001  NULL    **8;7;text               

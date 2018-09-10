@@ -1,0 +1,604 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     Greenwich                Z2 
+0000002 020  JJ      Mean                     S1.2.2+ S1.2.1- N2 
+0000002 030  NNT1    Time                     Z3c 
+0000002 031  (       (                        
+0000002 040  RA      GMT                      Z3/T1 
+0000002 041  )       )                        
+0000002 050  CC      and                      Z5 
+0000002 060  JJ      Coordinated              S7.1+ O4.1 
+0000002 070  JJ      Universal                W3 M7 A1.8+ N5.1+ X2.2 A5.2+ 
+0000002 080  NNT1    Time                     Z3c 
+0000002 081  (       (                        
+0000002 090  NP1     UTC                      Z99 
+0000002 091  )       )                        
+0000002 100  VM      will                     T1.1.3 
+0000002 110  RR      both                     Z5 
+0000002 120  VVI     become                   A2.1+ O4.2+ 
+0000002 130  JJ      obsolete                 T3--- 
+0000002 140  CSA     as                       Z5 
+0000002 150  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000002 160  NN2     standards                A5.1 G2.2 Q1.1 O2@ 
+0000002 170  II      as                       Z5 
+0000002 180  AT      the                      Z5 
+0000002 190  NN1     world                    W1 S5+c A4.1 N5+ 
+0000002 191  GE      's                       Z5 
+0000002 200  JJ      prime                    A11.1+++ A5.1+++ A4.2+ 
+0000002 210  NN1     meridian                 W3 W1 B3 N5.1+ 
+0000002 220  VBZ     is                       A3+ Z5 
+0000002 230  TO      to                       Z5 
+0000002 240  VVI     move                     M2 M1 A2.1+ E1 H4/A2.1 
+0000002 250  II      from                     Z5 
+0000002 260  APPGE   its                      Z8 
+0000002 270  JJ      long                     N3.7+ T1.3+ N3.3+ N3.2+ 
+0000002 280  NN1     standing                 S7.1 
+0000002 290  RL      home                     H4 M6 
+0000002 300  II      in                       Z5 
+0000002 310  NP1     Greenwich                Z2 
+0000002 311  ,       ,                        
+0000002 320  NP1     London                   Z2 
+0000002 321  (       (                        
+0000002 330  NP1     U.K.                     Z2 
+0000002 331  )       )                        
+0000002 340  II      to                       Z5 
+0000002 350  NP1     Paris                    Z2 Z1f 
+0000002 351  (       (                        
+0000002 360  NP1     France                   Z2 Z1mf 
+0000002 361  )       )                        
+0000002 362  .       .                        
+0000002 363  -----   -----                    
+0000002 370  AT      The                      Z5 
+0000002 380  NN1     change                   A2.1+ I1 B1 
+0000002 390  VM      will                     T1.1.3 
+0000002 400  VVI     take                     A1.1.1[i1.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ A1.1.1[i2.2.1 
+0000002 410  NN1     place                    A1.1.1[i1.2.2 M7 H1 A1.2 P1 A1.1.1[i2.2.2 
+0000002 420  II      at                       Z5 
+0000002 430  NNT1    midnight                 T1.2 
+0000002 440  II      between                  Z5 
+0000002 450  NPM1    June                     T1.3[i3.2.1 T1.3 
+0000002 460  MC      30                       T1.3[i3.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000002 470  CC      and                      Z5 
+0000002 480  NPM1    July                     T1.3 
+0000002 490  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000002 491  ,       ,                        
+0000002 500  MC      2014                     N1 T1.2 T3 T1.3 N3.2 
+0000002 501  ,       ,                        
+0000002 510  AT      the                      Z5 
+0000002 520  JJ      International            M7 
+0000002 530  NN1     Timekeeping              T1 
+0000002 540  NN1     Committee                S7.1+/S5+c 
+0000002 541  (       (                        
+0000002 550  NP1     ITC                      Z3c 
+0000002 551  )       )                        
+0000002 560  VVD     announced                Q2.2 
+0000002 570  II      in                       Z5 
+0000002 580  AT1     a                        Z5 
+0000002 590  NN1     press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
+0000002 600  VV0     release                  A1.7- A9- 
+0000002 610  DD1     this                     Z3c[i4.2.1 M6 Z5 Z8 
+0000002 620  NNT1    morning                  Z3c[i4.2.2 T1.3 
+0000002 621  .       .                        
+0000003 001  -----   -----                    
+0000004 010  NN1     Illustration             A4.1 C1 
+0000004 020  NN1     image                    O4.1 A8 X2.1 C1 
+0000006 010  NP1     Paris                    Z2 Z1f 
+0000006 011  ,       ,                        
+0000006 020  NP1     France                   Z2 Z1mf 
+0000006 030  VM      will                     T1.1.3 
+0000006 040  VBI     be                       A3+ Z5 
+0000006 050  AT      the                      Z5 
+0000006 060  JJ      new                      T3- 
+0000006 070  NN1     center                   M6 H1c M7c G1.2c K5.1mfn 
+0000006 080  IO      of                       Z5 
+0000006 090  NN1     world                    W1 S5+c A4.1 N5+ 
+0000006 100  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000006 101  .       .                        
+0000007 001  -----   -----                    
+0000008 010  NNU     thinkstockphoto.com      N3.3 N3.7 
+0000010 010  NN2     Clocks                   O2/T1 N3.1 Q2.1% 
+0000010 020  II      around                   Z5 
+0000010 030  AT      the                      Z5 
+0000010 040  NN1     world                    W1 S5+c A4.1 N5+ 
+0000010 050  VM      will                     T1.1.3 
+0000010 060  VHI     have                     A9+ Z5 A2.2 S4 
+0000010 070  VBI     be                       Z5 A3+ 
+0000010 080  VVN     set                      S8-[i5.2.1 M2[i5.2.1 M6[i5.2.1 M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000010 090  RP      back                     S8-[i5.2.2 M2[i5.2.2 M6[i5.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000010 100  MC      9                        N1 T1.2 T3 T1.3 N3.2 
+0000010 110  NNT2    minutes                  T1.3 Q1.2 
+0000010 120  CC      and                      Z5 
+0000010 130  MC      21                       N1 T1.2 T3 T1.3 N3.2 
+0000010 140  NNT2    seconds                  T1.3 T1.2 
+0000010 141  ,       ,                        
+0000010 150  AT      the                      Z5 
+0000010 160  JJ      International            M7 
+0000010 170  NN1     Timekeeping              T1 
+0000010 180  NN1     Committee                S7.1+/S5+c 
+0000010 181  (       (                        
+0000010 190  NP1     ITC                      Z3c 
+0000010 191  )       )                        
+0000010 200  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000010 210  VVN     announced                Q2.2 
+0000010 211  .       .                        
+0000011 001  -----   -----                    
+0000011 010  RL      Forward                  M6 T1.1.3 
+0000011 020  MC      9                        N1 T1.2 T3 T1.3 N3.2 
+0000011 030  NNT2    minutes                  T1.3 Q1.2 
+0000011 040  MC      21                       N1 T1.2 T3 T1.3 N3.2 
+0000011 050  NNT2    seconds                  T1.3 T1.2 
+0000013 010  NN2     Clocks                   O2/T1 N3.1 Q2.1% 
+0000013 020  II      around                   Z5 
+0000013 030  AT      the                      Z5 
+0000013 040  NN1     globe                    W1 O4.4 
+0000013 050  VM      will                     T1.1.3 
+0000013 060  VHI     have                     S6+[i6.2.1 A9+ Z5 A2.2 S4 
+0000013 070  TO      to                       S6+[i6.2.2 Z5 
+0000013 080  VBI     be                       Z5 A3+ 
+0000013 090  VVN     adjusted                 A2.1+ 
+0000013 100  TO      to                       Z5 
+0000013 110  VVI     reflect                  A10+ Y1/M2 X3.4 X2.1 A5.1 
+0000013 120  JJ      mean                     S1.2.2+ S1.2.1- N2 
+0000013 130  JJ      solar                    W1 W2 O3 
+0000013 140  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000013 150  II      in                       Z5 
+0000013 160  NP1     Paris                    Z2 Z1f 
+0000013 161  ,       ,                        
+0000013 170  RR      commonly                 A6.2+ 
+0000013 180  VVN     referred                 Q2.2 Q1.2 
+0000013 190  II      to                       Z5 
+0000013 200  CSA     as                       Z5 
+0000013 210  NP1     Paris                    Z2 Z1f 
+0000013 220  JJ      Mean                     S1.2.2+ S1.2.1- N2 
+0000013 230  NNT1    Time                     Z3c 
+0000013 231  (       (                        
+0000013 240  NP1     PMT                      B2- 
+0000013 241  )       )                        
+0000013 242  .       .                        
+0000013 243  -----   -----                    
+0000013 250  PPH1    It                       Z8 
+0000013 260  VBZ     is                       A3+ Z5 
+0000013 270  MC      9                        T3 N1 T1.2 T1.3 N3.2 
+0000013 280  NNT2    minutes                  T1.3 Q1.2 
+0000013 290  CC      and                      Z5 
+0000013 300  MC      21                       N1 T1.2 T3 T1.3 N3.2 
+0000013 310  NNT2    seconds                  T1.3 T1.2 
+0000013 320  II21    ahead                    N4[i7.2.1 N4[i8.2.1 A5.1++[i8.2.1 
+0000013 330  II22    of                       N4[i7.2.2 N4[i8.2.2 A5.1++[i8.2.2 
+0000013 340  AT      the                      Z5 
+0000013 350  JJ      current                  T1.1.2 
+0000013 360  JJ      local                    M7 
+0000013 370  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000013 371  ,       ,                        
+0000013 380  DDQ     which                    Z8 Z5 
+0000013 390  VBZ     is                       Z5 A3+ 
+0000013 400  VVN     determined               A2.2 A7+ X6+ 
+0000013 410  II      on                       Z5 
+0000013 420  AT      the                      Z5 
+0000013 430  NN1     basis                    A2.2 T2+ X4.2 
+0000013 440  IO      of                       Z5 
+0000013 450  FU      UTC/GMT                  Z99 
+0000013 451  .       .                        
+0000014 001  -----   -----                    
+0000015 010  VV0     Prepare                  A1.1.1 F1 
+0000015 020  APPGE   your                     Z8 
+0000015 030  NN1     computer                 Y2 
+0000015 040  IF      for                      Z5 
+0000015 050  AT      the                      Z5 
+0000015 060  NN1     switch                   O3 A2.1+ 
+0000015 061  !       !                        
+0000017 001  NULL    <quote>                  
+0000017 002  -----   -----                    
+0000017 010  II      From                     Z5 
+0000017 020  NPM1    July                     T1.3 
+0000017 021  ,       ,                        
+0000017 030  NP1     Paris                    Z2 Z1f 
+0000017 040  VM      will                     T1.1.3 
+0000017 050  VBI     be                       A3+ Z5 
+0000017 060  AT      the                      Z5 
+0000017 070  JJ      new                      T3- 
+0000017 080  NN1     center                   M6 H1c M7c G1.2c K5.1mfn 
+0000017 090  IO      of                       Z5 
+0000017 100  NN1     world                    W1 S5+c A4.1 N5+ 
+0000017 110  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000017 111  NULL    </quote>                 
+0000017 112  -----   -----                    
+0000017 113  ,       ,                        
+0000017 120  NP1     ITC                      Z3c 
+0000017 130  NN1     director                 S7.1+/S2mf K4/S2mf 
+0000017 140  NP1     Christophe               Z1mf[i9.2.1 Z3c[i9.2.1 
+0000017 150  NP1     L'Heureux                Z1mf[i9.2.2 Z3c[i9.2.2 
+0000017 160  VVD     summarized               Q2.2 
+0000017 170  AT      the                      Z5 
+0000017 180  NN1     change                   A2.1+ I1 B1 
+0000017 181  .       .                        
+0000017 182  NULL    <quote>                  
+0000017 183  -----   -----                    
+0000017 190  NP1     PMT                      B2- 
+0000017 200  VM      will                     T1.1.3 
+0000017 210  VBI     be                       A3+ Z5 
+0000017 220  AT      the                      Z5 
+0000017 230  JJ      new                      T3- 
+0000017 240  RA      GMT                      Z3/T1 
+0000017 241  .       .                        
+0000017 242  NULL    </quote>                 
+0000017 243  -----   -----                    
+0000019 010  II21    According                Z5[i10.2.1 Z5 
+0000019 020  II22    to                       Z5[i10.2.2 Z5 
+0000019 030  NNB     Mr.                      Z1m[i12.2.1 S2.2m Z1m[i11.2.1 
+0000019 040  NP1     L'Heureux                Z1m[i12.2.2 Z1m[i11.2.2 
+0000019 041  ,       ,                        
+0000019 050  PPH1    it                       Z8 
+0000019 060  VM      will                     T1.1.3 
+0000019 070  VBI     be                       A3+ Z5 
+0000019 080  AT1     a                        Z5 
+0000019 090  JJ      minor                    A11.1- N3.2- 
+0000019 100  NN1     change                   A2.1+ I1 B1 
+0000019 110  IF      for                      Z5 
+0000019 120  DAT     most                     N5+++ 
+0000019 130  NN      people                   S2mfc 
+0000019 140  II      around                   Z5 
+0000019 150  AT      the                      Z5 
+0000019 160  NN1     world                    W1 S5+c A4.1 N5+ 
+0000019 161  .       .                        
+0000019 162  NULL    <quote>                  
+0000019 163  -----   -----                    
+0000019 170  RR      Simply                   A13.6 A14 A12+ 
+0000019 180  VV0     turn                     M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000019 190  APPGE   your                     Z8 
+0000019 200  NN1     clock                    O2/T1 
+0000019 210  II      from                     Z5 
+0000019 220  NNT1    midnight                 T1.2 
+0000019 230  II      to                       Z5 
+0000019 240  MC      12:09:21                 N1 T1.2 T3 T1.3 N3.2 
+0000019 250  RA      a.m.                     T1.3 
+0000019 251  (       (                        
+0000019 260  MC      00:09:21                 N1 T1.2 T3 T1.3 N3.2 
+0000019 261  )       )                        
+0000019 270  II      on                       Z5 
+0000019 280  NPM1    July                     T1.3 
+0000019 290  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000019 291  .       .                        
+0000019 292  NULL    </quote>                 
+0000019 293  -----   -----                    
+0000021 010  PPHS1   He                       Z8m 
+0000021 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000021 030  CST     that                     Z5 Z8 
+0000021 040  AT      the                      Z5 
+0000021 050  NN1     committee                S7.1+/S5+c 
+0000021 060  VVZ     works                    I3.1 A1.1.1 X9.2+ A2.2 
+0000021 070  RR      closely                  A13.4 A4.2+ N3.3- 
+0000021 080  IW      with                     Z5 
+0000021 090  AT      the                      Z5 
+0000021 100  JJ      International            M7 
+0000021 110  NN1     Bureau                   G1.1 H5 
+0000021 120  IO      of                       Z5 
+0000021 130  NN2     Weights                  N3.5 A11.1 O2/K5.1 N3.5+ 
+0000021 140  CC      and                      Z5 
+0000021 150  NN2     Measures                 N3.1 F2 K2 
+0000021 151  (       (                        
+0000021 160  NP1     BIPM                     Z99 
+0000021 161  )       )                        
+0000021 162  ,       ,                        
+0000021 170  DDQ     which                    Z8 Z5 
+0000021 180  RR      incidentally             Z4 
+0000021 190  VBZ     is                       Z5 A3+ 
+0000021 200  RR      also                     N5++ 
+0000021 210  VVN     based                    T2+ M6 A2.2 
+0000021 220  II      in                       Z5 
+0000021 230  NP1     Paris                    Z2 Z1f 
+0000021 231  ,       ,                        
+0000021 240  TO      to                       Z5 
+0000021 250  VVI     make                     A7+[i13.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000021 260  JJ      sure                     A7+[i13.2.2 A7+ Z4 
+0000021 270  CST     that                     Z5 Z8 
+0000021 280  AT      the                      Z5 
+0000021 290  NN1     world                    W1 S5+c A4.1 N5+ 
+0000021 291  GE      's                       Z5 
+0000021 300  JJ      atomic                   Y1 
+0000021 310  NN2     clocks                   O2/T1 
+0000021 320  VM      will                     T1.1.3 
+0000021 330  VBI     be                       Z5 A3+ 
+0000021 340  VVN     adjusted                 A2.1+ 
+0000021 350  RR      accordingly              A1.2+ A2.2 
+0000021 351  .       .                        
+0000022 001  -----   -----                    
+0000023 010  VV0     See                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000023 020  AT1     a                        Z5 
+0000023 030  NNT1    Time                     Z3c 
+0000023 040  NN1     Zone                     M7 W3 T1.1 O4.4 
+0000023 050  NN1     Map                      Q1.2/W3 
+0000023 060  VVG     showing                  A10+ S1.1.1 
+0000023 070  AT      the                      Z5 
+0000023 080  JJ      new                      T3- 
+0000023 090  NN1     meridian                 W3 W1 B3 N5.1+ 
+0000024 010  RP      Back                     M6 N6+ T1.1.1 S1.1.2+ 
+0000024 020  II      to                       Z5 
+0000024 030  NP1     Paris                    Z2 Z1f 
+0000024 040  NN1     meridian                 W3 W1 B3 N5.1+ 
+0000024 050  II      after                    Z5 
+0000024 060  MC      100                      N1 T1.2 T3 T1.3 N3.2 
+0000024 070  NNT2    years                    T1.3 
+0000026 010  II      Before                   Z5 
+0000026 020  AT      the                      Z5 
+0000026 030  NP1     Greenwich                Z2 
+0000026 040  NN1     meridian                 W3 W1 B3 N5.1+ 
+0000026 050  VBDZ    was                      Z5 A3+ 
+0000026 060  RR      officially               G1.1 S7.4+ 
+0000026 070  VVN     declared                 Q2.2 K5.1% 
+0000026 080  AT      the                      Z5 
+0000026 090  NN1     world                    W1 S5+c A4.1 N5+ 
+0000026 091  GE      's                       Z5 
+0000026 100  JJ      prime                    A11.1+++ A5.1+++ A4.2+ 
+0000026 110  NN1     meridian                 W3 W1 B3 N5.1+ 
+0000026 120  II      at                       Z5 
+0000026 130  AT      the                      Z5 
+0000026 140  JJ      International            M7 
+0000026 150  NN1     Meridian                 W3 W1 B3 N5.1+ 
+0000026 160  NN1     Conference               S1.1.3+ 
+0000026 170  II      in                       Z5 
+0000026 180  NP1     Washington               Z1mf[i14.2.1 Z3c[i14.2.1 Z2 Z1mf 
+0000026 190  NP1     D.C.                     Z1mf[i14.2.2 Z3c[i14.2.2 Z2 Z3c 
+0000026 200  II      in                       Z5 
+0000026 210  MC      1884                     N1 T1.2 T3 T1.3 N3.2 
+0000026 211  ,       ,                        
+0000026 220  NP1     Paris                    Z2 Z1f 
+0000026 230  VBDZ    was                      A3+ Z5 
+0000026 240  APPGE   its                      Z8 
+0000026 250  RGT     most                     A13.2 
+0000026 260  JJ      potent                   S7.1+ S1.2.5+ O4.1 F2+ 
+0000026 270  NN1     rival                    S7.3+/S2mf 
+0000026 271  .       .                        
+0000026 272  -----   -----                    
+0000026 280  RR      Even                     A13.1 
+0000026 290  RG      as                       A13 
+0000026 300  RR      late                     T4- T1.1 
+0000026 310  CSA     as                       Z5 
+0000026 320  MC      1914                     N1 T1.2 T3 T1.3 N3.2 
+0000026 321  ,       ,                        
+0000026 330  AT      the                      Z5 
+0000026 340  NP1     Paris                    Z2 Z1f 
+0000026 350  NN1     meridian                 W3 W1 B3 N5.1+ 
+0000026 360  VBDZ    was                      Z5 A3+ 
+0000026 370  RR      unofficially             G1.1- S7.4- 
+0000026 380  VVN     used                     A1.5.1 S7.1+ 
+0000026 390  II      by                       Z5 
+0000026 400  DA2     many                     N5+ 
+0000026 410  II      around                   Z5 
+0000026 420  AT      the                      Z5 
+0000026 430  NN1     world                    W1 S5+c A4.1 N5+ 
+0000026 440  IF      for                      Z5 
+0000026 450  NN1     timekeeping              T1 
+0000026 460  CC      and                      Z5 
+0000026 470  NN1     navigation               M4 
+0000026 480  NN2     purposes                 X7+ A2.2 A1.5.1 
+0000026 481  .       .                        
+0000028 001  NULL    <quote>                  
+0000028 002  -----   -----                    
+0000028 010  MC      2014                     N1 T1.2 T3 T1.3 N3.2 
+0000028 020  VBZ     is                       A3+ Z5 
+0000028 030  AT1     a                        Z5 
+0000028 040  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000028 050  NN1     choice                   X7+ A6.3+ 
+0000028 051  NULL    </quote>                 
+0000028 052  -----   -----                    
+0000028 053  ,       ,                        
+0000028 060  NNB     Mr.                      Z1m[i16.2.1 S2.2m Z1m[i15.2.1 
+0000028 070  NP1     L'Heureux                Z1m[i16.2.2 Z1m[i15.2.2 
+0000028 080  VVD     said                     Q2.1 
+0000028 081  .       .                        
+0000028 082  NULL    <quote>                  
+0000028 083  -----   -----                    
+0000028 090  NP1     Paris                    Z2 Z1f 
+0000028 100  VHZ     has                      Z5 A9+ A2.2 S4 
+0000028 110  VVN     waited                   T1.3 A3+ A11.1+ S1.1.1% 
+0000028 120  IF      for                      Z5 
+0000028 130  RR      exactly                  A4.2+ A5.3+ 
+0000028 140  MC      100                      N1 T1.2 T3 T1.3 N3.2 
+0000028 150  NNT2    years                    T1.3 
+0000028 151  .       .                        
+0000028 152  -----   -----                    
+0000028 160  PPH1    It                       Z8 
+0000028 170  VBZ     is                       A3+ Z5 
+0000028 180  RR      only                     A14 
+0000028 190  JJ      fair                     G2.2+ A5.1+ O4.2+ O4.3 W4 N5 
+0000028 200  TO      to                       Z5 
+0000028 210  VVI     let                      S7.4+ I2.2/H1 T2- 
+0000028 220  PPIO2   us                       Z8 
+0000028 230  VHI     have                     X8+[i17.3.1 Q2.2[i17.3.1 A9+ Z5 A2.2 S4 
+0000028 240  AT1     a                        X8+[i17.3.2 Q2.2[i17.3.2 Z5 
+0000028 250  NN1     go                       X8+[i17.3.3 Q2.2[i17.3.3 X8+ T2+ S1.1.2+ 
+0000028 260  II      after                    Z5 
+0000028 270  DA      such                     A13.3[i18.2.1 Z5 Z8 
+0000028 280  AT1     a                        A13.3[i18.2.2 Z5 
+0000028 290  JJ      long                     N3.7+ T1.3+ N3.3+ N3.2+ 
+0000028 300  NN1     period                   T1.3 B1 Q3 P1/T1.3 
+0000028 310  IO      of                       Z5 
+0000028 320  JJ      British                  Z2 Z2/S2mfnc 
+0000028 330  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000028 340  NN1     rule                     G2.1 X4.2 A6.2+ S7.1+ Q3 
+0000028 341  .       .                        
+0000028 342  NULL    </quote>                 
+0000028 343  -----   -----                    
+0000030 010  NN2     Pros                     I3.2+ S8+ 
+0000030 020  CC      and                      Z5 
+0000030 030  NN2     cons                     G2.1/A5.2- G2.1-/S2mf S8- 
+0000030 040  IO      of                       Z5 
+0000030 050  AT      the                      Z5 
+0000030 060  NN1     meridian                 W3 W1 B3 N5.1+ 
+0000030 070  VV0     switch                   A2.1+ 
+0000031 010  JJ      Sour                     X3.1 S1.2.1- 
+0000031 020  NN1     mood                     E1 E3- 
+0000031 030  II      in                       Z5 
+0000031 040  NP1     Greenwich                Z2 
+0000031 041  ,       ,                        
+0000031 050  VVG     scolding                 Q2.2/E2- Q2.2/E3- 
+0000031 060  NN2     farmers                  F4/S2mf 
+0000033 010  NP1     Pierre                   Z1mf[i19.2.1 Z3c[i19.2.1 Z1m 
+0000033 020  NP1     Bontemps                 Z1mf[i19.2.2 Z3c[i19.2.2 
+0000033 021  ,       ,                        
+0000033 030  AT1     a                        Z5 
+0000033 040  JJ      French                   Z2 
+0000033 050  NN1     ITC                      Z3c 
+0000033 060  NN1     delegate                 G1.1/S2mf 
+0000033 061  ,       ,                        
+0000033 070  VVD     apologized               Q2.2/S1.2.4+ 
+0000033 080  IF      for                      Z5 
+0000033 090  AT      the                      Z5 
+0000033 100  NN1     inconvenience            A12- S8- 
+0000033 110  AT      the                      Z5 
+0000033 120  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000033 130  NN1     change                   A2.1+ I1 B1 
+0000033 140  VM      may                      A7+ 
+0000033 150  VVI     cause                    A2.2 
+0000033 151  ,       ,                        
+0000033 160  CCB     but                      Z5 
+0000033 170  VVD     maintained               A9+ T2++ S8+ A1.1.1 Q2.2 
+0000033 180  CST     that                     Z5 Z8 
+0000033 190  DAT     most                     N5+++ 
+0000033 200  NN      people                   S2mfc 
+0000033 210  VM      wo                       T1.1.3 
+0000033 211  XX      n't                      Z6 
+0000033 220  VVI     mind                     E6+ E2- S8+ A1.3 
+0000033 221  .       .                        
+0000033 222  NULL    <quote>                  
+0000033 223  -----   -----                    
+0000033 230  CS      If                       Z7 
+0000033 240  PPIS2   we                       Z8 
+0000033 250  VV0     inform                   X2.2+ X2.4 Q2.1 
+0000033 260  NN      people                   S2mfc 
+0000033 270  II      about                    Z5 
+0000033 280  AT      the                      Z5 
+0000033 290  JJ      historical               T1.1.1 T3+ 
+0000033 300  NN1     background               T1.1.1 A2.2 M6 S1.1.1 P1 A11.1- A1.8- 
+0000033 301  ,       ,                        
+0000033 310  PPIS1   I                        Z8mf 
+0000033 320  VV0     think                    X2.1 
+0000033 330  PPHS2   they                     Z8mfn 
+0000033 340  VM      will                     T1.1.3 
+0000033 350  VVI     understand               X2.5+ 
+0000033 351  .       .                        
+0000033 352  -----   -----                    
+0000033 360  PPIS2   We                       Z8 
+0000033 370  II      at                       Z5 
+0000033 380  AT      the                      Z5 
+0000033 390  NN1     committee                S7.1+/S5+c 
+0000033 400  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000033 401  XX      n't                      Z6 
+0000033 410  VVI     think                    X2.1 
+0000033 420  CST     that                     Z5 Z8 
+0000033 430  AT      the                      Z5 
+0000033 440  NN1     world                    W1 S5+c A4.1 N5+ 
+0000033 450  VM      will                     T1.1.3 
+0000033 460  RR      even                     A13.1 
+0000033 470  VVI     notice                   X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1 
+0000033 480  DA      such                     A13.3[i20.2.1 Z5 Z8 
+0000033 490  AT1     a                        A13.3[i20.2.2 Z5 
+0000033 500  JJ      minor                    A11.1- N3.2- 
+0000033 510  NN1     change                   A2.1+ I1 B1 
+0000033 511  .       .                        
+0000033 512  NULL    </quote>                 
+0000033 513  -----   -----                    
+0000035 010  RR      However                  Z4 
+0000035 011  ,       ,                        
+0000035 020  DA2     many                     N5+ 
+0000035 030  VH0     have                     Z5 A9+ A2.2 S4 
+0000035 040  RR      already                  T1.1.1 
+0000035 050  VVN     voiced                   Q2.1 
+0000035 060  APPGE   their                    Z8 
+0000035 070  NN1     disapproval              E2- 
+0000035 071  .       .                        
+0000035 072  -----   -----                    
+0000035 080  AT      The                      Z5 
+0000035 090  JJ      online                   Y2 
+0000035 100  NN1     forum                    S1.1.3+c M7 
+0000035 110  II      at                       Z5 
+0000035 120  AT      the                      Z5 
+0000035 130  JJ      British                  Z2 Z2/S2mfnc 
+0000035 140  NN1     Association              S5+c A6.1+/X2.1 
+0000035 150  IO      of                       Z5 
+0000035 160  NN2     Farmers                  F4/S2mf 
+0000035 161  GE      '                        Z5 
+0000035 170  NN1     website                  Y2 
+0000035 180  VVN     abounded                 N5.2+ 
+0000035 190  IW      with                     Z5 
+0000035 200  NN1     criticism                Q2.2/E2- X2.4 
+0000035 201  .       .                        
+0000035 202  NULL    <quote>                  
+0000035 203  -----   -----                    
+0000035 210  DDQ     What                     Z8 Z5 
+0000035 220  VM      will                     T1.1.3 
+0000035 230  APPGE   my                       Z8 
+0000035 240  NN2     animals                  L2mfn S5+c O2c 
+0000035 250  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000035 251  ?       ?                        
+0000035 252  NULL    </quote>                 
+0000035 253  -----   -----                    
+0000035 254  ,       ,                        
+0000035 260  MC1     one                      N1 T3 T1.2 
+0000035 270  NN1     comment                  Q2.1 
+0000035 280  VVD     read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000035 281  ,       ,                        
+0000035 282  NULL    <quote>                  
+0000035 283  -----   -----                    
+0000035 290  VD0     Do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000035 300  AT      the                      Z5 
+0000035 310  NN1     French                   Z2/S2mf Z2/Q3 
+0000035 320  VVI     think                    X2.1 
+0000035 330  APPGE   my                       Z8 
+0000035 340  NN2     cows                     L2fn S2.1f/O4.2- 
+0000035 350  VV0     know                     X2.2+ S3.2/B1% 
+0000035 360  DDQ     what                     Z8 Z5 
+0000035 370  NP1     Paris                    Z2 Z1f 
+0000035 380  JJ      Mean                     S1.2.2+ S1.2.1- N2 
+0000035 390  NNT1    Time                     Z3c 
+0000035 400  VBZ     is                       A3+ Z5 
+0000035 401  ?       ?                        
+0000035 402  NULL    </quote>                 
+0000035 403  -----   -----                    
+0000037 010  NP1     Simon                    Z1mf[i21.2.1 Z3c[i21.2.1 Z1m 
+0000037 020  NP1     Redcliffe                Z1mf[i21.2.2 Z3c[i21.2.2 Z3c 
+0000037 030  II      from                     Z5 
+0000037 040  AT      the                      Z5 
+0000037 050  NP1     Greenwich                Z3c[i22.2.1 Z2 
+0000037 060  JJ      Royal                    Z3c[i22.2.2 S7.1+ 
+0000037 070  NN1     Observatory              Y1/H1 
+0000037 080  VM      could                    A7+ 
+0000037 081  XX      n't                      Z6 
+0000037 090  RR@     quite                    A13.5 A13.6 A13.2 
+0000037 100  VVI     hide                     A10- 
+0000037 110  APPGE   his                      Z8m 
+0000037 120  NN1     dismay                   E6- 
+0000037 121  .       .                        
+0000037 122  NULL    <quote>                  
+0000037 123  -----   -----                    
+0000037 130  PPIS2   We                       Z8 
+0000037 140  VV0     wish                     X7+ 
+0000037 150  PPHO2   them                     Z8mfn 
+0000037 160  NN1     luck                     A1.4 X9.2+ 
+0000037 161  .       .                        
+0000037 162  -----   -----                    
+0000037 170  PPIS1   I                        Z8mf 
+0000037 180  VV0     hope                     X2.6+ E4.1+ X9.2+ A5.1+ 
+0000037 190  AT      the                      Z5 
+0000037 200  NN      people                   S2mfc 
+0000037 210  II      at                       Z5 
+0000037 220  AT      the                      Z5 
+0000037 230  NP1     Paris                    Z2 Z1f 
+0000037 240  NN1     Observatory              Y1/H1 
+0000037 250  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000037 251  XX      n't                      Z6 
+0000037 260  VVI     mess                     X9.2-[i23.2.1 A1.1.2[i23.2.1 A1.1.1/A12- F1/G3 
+0000037 270  PPH1    it                       Z8 
+0000037 280  RP      up                       X9.2-[i23.2.2 A1.1.2[i23.2.2 
+0000037 281  NULL    </quote>                 
+0000037 282  -----   -----                    
+0000037 283  ,       ,                        
+0000037 290  PPHS1   he                       Z8m 
+0000037 300  VVD     said                     Q2.1 
+0000037 310  II      in                       Z5 
+0000037 320  AT1     a                        Z5 
+0000037 330  JJ      televised                Q4.3 
+0000037 340  NN1     statement                Q2.1 I1/Q1.2 
+0000037 341  .       .                        
+0000040 001  NULL    **8;7;text               

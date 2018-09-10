@@ -1,0 +1,663 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  RR      Okay                     A5.1+ 
+0000002 011  ,       ,                        
+0000002 020  CS@     so                       Z5 
+0000002 030  APPGE   its                      Z8 
+0000002 040  VBN     been                     A3+ Z5 
+0000002 050  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
+0000002 060  TO      to                       Z5 
+0000002 070  VVI     keep                     Q2.1-[i1.2.1 X3.2-[i1.2.1 E4.2+/A2.2[i1.2.1 A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000002 080  PPH1    it                       Z8 
+0000002 090  JJ      quiet                    Q2.1-[i1.2.2 X3.2-[i1.2.2 E4.2+/A2.2[i1.2.2 X3.2- E3+ A10- A1.1.1/N5- 
+0000002 100  CC      and                      Z5 
+0000002 110  EX      there                    Z5 
+0000002 120  VH0     have                     Z5 A9+ A2.2 S4 
+0000002 130  VBN     been                     A3+ Z5 
+0000002 140  AT1     a                        Z5 
+0000002 150  DA2     few                      N5- 
+0000002 160  NN2     near-leaks               Z99 
+0000002 170  II      along                    M6[i2.3.1 T1.1.2[i2.3.1 Z5 
+0000002 180  AT      the                      M6[i2.3.2 T1.1.2[i2.3.2 Z5 
+0000002 190  NN1     way                      M6[i2.3.3 T1.1.2[i2.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000002 191  ,       ,                        
+0000002 200  CCB     but                      Z5 
+0000002 210  PPIS2   we                       Z8 
+0000002 220  VM      can                      A7+ 
+0000002 230  RR      finally                  N4 
+0000002 240  VVI     confirm                  A7+ Q2.2 S9@ 
+0000002 250  CST     that                     Z5 Z8 
+0000002 260  AT      the                      Z5 
+0000002 270  NN2     rumours                  Q2.2 
+0000002 280  VBR     are                      A3+ Z5 
+0000002 290  JJ      true                     A5.2+ A5.4+ 
+0000002 300  AT      the                      Z5 
+0000002 310  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000002 320  MD      first                    N4 
+0000002 330  JJ      driverless               Z99 
+0000002 340  NN1     pizza                    F1 
+0000002 350  NN1     delivery                 M2 Q2.1 X9.2+ B3 S9% 
+0000002 360  NN1     vehicle                  M3fn X4.2 
+0000002 370  VBZ     is                       A3+ Z5 
+0000002 380  RL      here                     M6 T1.1.2 T1.2 
+0000002 381  !       !                        
+0000003 001  -----   -----                    
+0000004 010  NN1     Youve                    Z99 
+0000004 020  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000004 030  VVZ     Googles                  Z3c/Y2 
+0000004 040  JJ      self-driving             Z99 
+0000004 050  NN2     cars                     M3fn 
+0000004 051  ,       ,                        
+0000004 060  NN1     youve                    Z99 
+0000004 070  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000004 080  APPGE   our                      Z8 
+0000004 090  NN1     drone                    L2mn X3.2+ 
+0000004 100  NN2     deliveries               M2 Q2.1 X9.2+ B3 S9% 
+0000004 110  IW      with                     Z5 
+0000004 120  AT      the                      Z5 
+0000004 130  NN1     DomiCopter               Z99 
+0000004 140  CC      and                      Z5 
+0000004 150  RT      now                      T1.1.2 Z4 
+0000004 160  VV0     youre                    Z99 
+0000004 170  VVGK    going                    T1.1.3[i3.2.1 
+0000004 180  TO      to                       T1.1.3[i3.2.2 Z5 
+0000004 190  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000004 200  AT1     a                        Z5 
+0000004 210  NN1     world                    W1 S5+c A4.1 N5+ 
+0000004 220  MD      first                    N4 
+0000004 230  II      in                       Z5 
+0000004 240  NN1     pizza                    F1 
+0000004 250  NN1     delivery                 M2 Q2.1 X9.2+ B3 S9% 
+0000004 260  NN1     history                  T1.1.1 P1/T1.1.1 Q2.1 B2 
+0000004 270  CSA     as                       Z5 
+0000004 280  NN2     Dominos                  K5.2 
+0000004 290  VVZ     introduces               S1.1.1 T2+ 
+0000004 300  AT      the                      Z5 
+0000004 301  NULL    <quote>                  
+0000004 302  -----   -----                    
+0000004 310  NP1     Domi-No-Driver           Z99 
+0000004 311  NULL    </quote>                 
+0000004 312  -----   -----                    
+0000004 320  AT      the                      Z5 
+0000004 330  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000004 340  MD      first                    N4 
+0000004 350  JJ      driverless               Z99 
+0000004 360  NN1     pizza                    F1 
+0000004 370  NN1     delivery                 M2 Q2.1 X9.2+ B3 S9% 
+0000004 380  NN1     vehicle                  M3fn X4.2 
+0000004 381  .       .                        
+0000005 001  -----   -----                    
+0000006 010  CCB     But                      Z5 
+0000006 020  DDQ     what                     Z8 Z5 
+0000006 030  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000006 040  DD1     that                     Z8 Z5 
+0000006 050  VVI     mean                     Q1.1 X7+ 
+0000006 060  IF      for                      Z5 
+0000006 070  PPY     you                      Z8mf 
+0000006 071  ,       ,                        
+0000006 080  APPGE   our                      Z8 
+0000006 090  JJ      devoted                  S7.1- A9- 
+0000006 100  NN2     customers                I2.2/S2mf 
+0000006 101  ?       ?                        
+0000006 102  -----   -----                    
+0000006 110  RR      Well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000006 120  DDQ     what                     Z8 Z5 
+0000006 130  PPH1    it                       Z8 
+0000006 140  VVZ     boils                    A11.1+[i4.2.1 A1.1.1[i4.2.1 O4.6+ E3- 
+0000006 150  RP      down                     A11.1+[i4.2.2 A1.1.1[i4.2.2 X6+[i5.2.1 A2.2[i5.2.1 M6[i5.2.1 N5.1+[i5.2.1 
+0000006 160  TO      to                       Z5 X6+[i5.2.2 A2.2[i5.2.2 M6[i5.2.2 N5.1+[i5.2.2 
+0000006 170  VBZ     is                       A3+ Z5 
+0000006 180  CST     that                     Z8 Z5 
+0000006 190  II21    as                       Z5[i6.2.1 Z5 
+0000006 200  II22    of                       Z5[i6.2.2 
+0000006 210  RT      today                    T1.1.2 
+0000006 211  ,       ,                        
+0000006 220  NN2     customers                I2.2/S2mf 
+0000006 230  VVG     placing                  M2 X2.2+ I3.1 Q2.2 
+0000006 240  NN2     orders                   S7.1+/Q2.2 I2.2/Q2.2 A4.1 N4 G2.1+ G2.1 Q1.2/I1.1 O4.2+ 
+0000006 250  II      through                  Z5 
+0000006 260  AT      the                      Z5 
+0000006 270  NN2     Dominos                  K5.2 
+0000006 280  NN1     website                  Y2 
+0000006 290  CC      and                      Z5 
+0000006 300  JJ      mobile                   M1/N3.8+ A2.1+ 
+0000006 310  NN1     app                      Z99 
+0000006 320  VM      will                     T1.1.3 
+0000006 330  RR      soon                     T1.1.3/N3.8+ 
+0000006 340  VHI     have                     A9+ Z5 A2.2 S4 
+0000006 350  AT      the                      Z5 
+0000006 360  NN1     option                   X7+ I2.1 P1 
+0000006 370  TO      to                       Z5 
+0000006 380  VHI     have                     A9+ Z5 A2.2 S4 
+0000006 390  APPGE   their                    Z8 
+0000006 400  NN1     pizza                    F1 
+0000006 410  VVN     delivered                M2 Q2.1 X9.2+ B3 S9% 
+0000006 420  II      by                       Z5 
+0000006 430  AT      the                      Z5 
+0000006 440  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000006 450  MD      first                    N4 
+0000006 460  JJ      autonomous               S5- 
+0000006 470  NN1     delivery                 M2 Q2.1 X9.2+ B3 S9% 
+0000006 480  NN1     vehicle                  M3fn X4.2 
+0000006 481  ;       ;                        
+0000006 490  AT      the                      Z5 
+0000006 500  FO      #DomiNoDriver            Z99 
+0000006 501  .       .                        
+0000007 001  -----   -----                    
+0000008 010  PPIS2   We                       Z8 
+0000008 020  NN1     cant                     Q2.1 
+0000008 030  VV0     wait                     T1.3 A3+ A11.1+ S1.1.1% 
+0000008 040  TO      to                       Z5 
+0000008 050  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000008 060  NN2     peoples                  S2mf 
+0000008 070  NN2     reactions                A1.1.1 A6.1- B2- Y1 
+0000008 080  CS      when                     Z5 
+0000008 090  PPHS2   they                     Z8mfn 
+0000008 100  VV0@    order                    S7.1+/Q2.2 I2.2/Q2.2 
+0000008 110  AT1     a                        N5[i7.2.1 S4[i7.2.1 Z5 
+0000008 120  NN1     couple                   N5[i7.2.2 S4[i7.2.2 N5+ S4c 
+0000008 130  IO      of                       Z5 
+0000008 140  JJ      Meatilicous              Z99 
+0000008 150  JJ      deep                     N3.7+ N5+ O4.3 A4.2+ E4.1- X3.2 
+0000008 160  NN2     pans                     O2 
+0000008 170  CC      and                      Z5 
+0000008 180  PPHS2   they                     Z8mfn 
+0000008 190  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000008 200  AT1     a                        Z5 
+0000008 210  JJ      self-driving             Z99 
+0000008 220  NN2     Dominos                  K5.2 
+0000008 230  NN1     delivery                 M2 Q2.1 X9.2+ B3 S9% 
+0000008 240  NN1     bike                     M3fn 
+0000008 250  VVG     rolling                  A1.1.1[i8.2.1 M1[i8.2.1 M2[i8.2.1 F3[i8.2.1 M1 M2 A1.1.1 
+0000008 260  RP      up                       A1.1.1[i8.2.2 M1[i8.2.2 M2[i8.2.2 F3[i8.2.2 
+0000008 261  .       .                        
+0000008 262  -----   -----                    
+0000008 270  CC      And                      Z5 
+0000008 271  ,       ,                        
+0000008 280  CS      while                    Z5 
+0000008 290  PPIS2   we                       Z8 
+0000008 300  VV0     love                     E2+ 
+0000008 310  JJ      surprising               X2.6- A6.2- 
+0000008 320  NN      people                   S2mfc 
+0000008 330  CC      and                      Z5 
+0000008 340  VVG     pushing                  M2 M1 S7.1+ X8+ I2.2 F3 A13.4 
+0000008 350  NN2     boundaries               M7 A1.7+ 
+0000008 351  ,       ,                        
+0000008 360  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000008 370  XX      not                      Z6 
+0000008 380  AT      the                      Z5 
+0000008 381  (       (                        
+0000008 390  RR      only                     A14 
+0000008 391  )       )                        
+0000008 400  NN1     reason                   A2.2 X2.1 
+0000008 410  VBDR    were                     Z5 A3+ 
+0000008 420  VVG     making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000008 430  DD1     this                     M6 Z5 Z8 
+0000008 440  NN1     step                     M1 T1.2 H5 O2 A2.1+ A1.1.1 K1@ K5.1@ 
+0000008 450  II      in                       Z5 
+0000008 460  AT      the                      Z5 
+0000008 470  NN2     Dominos                  K5.2 
+0000008 480  NN1     journey                  M1 
+0000008 481  .       .                        
+0000009 001  -----   -----                    
+0000010 010  NP1     Phil                     Z1mf[i9.2.1 Z3c[i9.2.1 P1 
+0000010 020  NP1     Zozra                    Z1mf[i9.2.2 Z3c[i9.2.2 
+0000010 021  ,       ,                        
+0000010 030  NN1     Director                 S7.1+/S2mf K4/S2mf 
+0000010 040  IO      of                       Z5 
+0000010 050  AT      the                      Z5 
+0000010 060  NN2     Dominos                  K5.2 
+0000010 070  NN1     Pizza                    F1 
+0000010 080  NN1     Redevelopment            A2.1+ 
+0000010 090  CC      and                      Z5 
+0000010 100  JJ      New                      T3- 
+0000010 110  NN1     Knowledge                X2.2+ S3.2/B1% 
+0000010 120  NN1     division                 A6.1- N2 G2.1/S5+c G3/S5+c G1.2 K5.2/S5+c 
+0000010 130  VVN     elaborated               Q2.2 A5.1+/A2.1 
+0000010 140  II      on                       Z5 
+0000010 150  AT      the                      Z5 
+0000010 160  NN1     reason                   A2.2 X2.1 
+0000010 170  II      behind                   Z5 
+0000010 180  AT      the                      Z5 
+0000010 190  JJT     latest                   T3--- T4--- 
+0000010 200  NN2     Dominos                  K5.2 
+0000010 210  NN1     innovation               T3- 
+0000010 211  :       :                        
+0000010 212  NULL    <quote>                  
+0000010 213  -----   -----                    
+0000010 220  NN1     Weve                     Z99 
+0000010 230  VBN     been                     Z5 A3+ 
+0000010 240  VVG     toying                   X2.1 A1.1.1 
+0000010 250  IW      with                     Z5 
+0000010 260  JJ      driverless               Z99 
+0000010 270  NN2     deliveries               M2 Q2.1 X9.2+ B3 S9% 
+0000010 280  IF      for                      T1.3[i10.3.1 Z5 
+0000010 290  AT1     a                        T1.3[i10.3.2 Z5 
+0000010 300  NNT1@   while                    T1.3[i10.3.3 T1.3 
+0000010 301  ,       ,                        
+0000010 310  CCB     but                      Z5 
+0000010 320  PPIS2   we                       Z8 
+0000010 330  VVD     needed                   S6+ 
+0000010 340  TO      to                       Z5 
+0000010 350  VVI     make                     A7+[i11.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000010 360  JJ      sure                     A7+[i11.2.2 A7+ Z4 
+0000010 370  AT      the                      Z5 
+0000010 380  NN1     tech                     Y1/P1 Y1 
+0000010 390  VBDZ    was                      A3+ Z5 
+0000010 400  JK      able                     X9.1+ 
+0000010 410  TO      to                       Z5 
+0000010 420  VVI     match                    A6[i12.2.1 A6.1+ 
+0000010 430  RP      up                       A6[i12.2.2 
+0000010 440  IW      with                     Z5 
+0000010 450  APPGE   our                      Z8 
+0000010 460  NN2     ideas                    X4.1 
+0000010 461  .       .                        
+0000010 462  -----   -----                    
+0000010 470  CS21    Now                      Z5[i13.2.1 Z5 
+0000010 480  CS22    that                     Z5[i13.2.2 Z5 Z8 
+0000010 490  NN1     weve                     Z99 
+0000010 500  VVD     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000010 510  AT      the                      Z5 
+0000010 520  NN2     bikes                    M3fn 
+0000010 530  CC      and                      Z5 
+0000010 540  AT      the                      Z5 
+0000010 550  NN1     automation               A1.1.1/S5- 
+0000010 560  II      to                       Z5 
+0000010 570  AT      the                      Z5 
+0000010 580  JJ      right                    A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 
+0000010 590  NN1     level                    N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 
+0000010 591  ,       ,                        
+0000010 600  PPIS2   we                       Z8 
+0000010 610  NN1     cant                     Q2.1 
+0000010 620  VV0     wait                     T1.3 A3+ A11.1+ S1.1.1% 
+0000010 630  TO      to                       Z5 
+0000010 640  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000010 650  AT      the                      Z5 
+0000010 660  NP1     Domi-No-Drivers          Z99 
+0000010 670  RP      out                      M6 
+0000010 680  II      on                       M1[i14.3.1 Z5 
+0000010 690  AT      the                      M1[i14.3.2 Z5 
+0000010 700  NN1     road                     M1[i14.3.3 M3 X4.2 
+0000010 701  .       .                        
+0000010 702  NULL    </quote>                 
+0000010 703  -----   -----                    
+0000012 010  NP1@    Zozra                    Z99 
+0000012 020  VVD     went                     T2++[i15.2.1 M1[i15.2.1 Q2.1/N5+[i15.2.1 A1.1.1[i15.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000012 030  RP      on                       T2++[i15.2.2 M1[i15.2.2 Q2.1/N5+[i15.2.2 A1.1.1[i15.2.2 M6 A1.1.1 
+0000012 040  TO      to                       Z5 
+0000012 050  VVI     say                      Q2.1 Z4% 
+0000012 051  ;       ;                        
+0000012 052  NULL    <quote>                  
+0000012 053  -----   -----                    
+0000012 060  VBDR    Were                     Z5 A3+ 
+0000012 070  XX      not                      Z6 
+0000012 080  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000012 090  PPH1    it                       Z8 
+0000012 100  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000012 110  IF      for                      Z5 
+0000012 120  AT      the                      Z5 
+0000012 130  NN1%    wow                      Z4[i16.2.1 Z4 
+0000012 140  NN1     factor                   Z4[i16.2.2 A2.2 A4.1 N2 I2.1/S2mf@ 
+0000012 141  ,       ,                        
+0000012 150  EX      there                    Z5 
+0000012 160  VBR     are                      A3+ Z5 
+0000012 170  AT1     a                        Z5 
+0000012 180  NN1     range                    N3.3 K2 A6.3+ N5 A4.1 M7/K5.1 M7/G3 N2 W3 F1/O2 
+0000012 190  IO      of                       Z5 
+0000012 200  NN1     innovation               T3- 
+0000012 210  NN2     benefits                 S8+ I1.1/G1.1 
+0000012 220  RG      too                      N5.2+ A13.3 
+0000012 230  AT      the                      Z5 
+0000012 240  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000012 250  PPIS2   we                       Z8 
+0000012 260  VV0     save                     I1.1 B3 A9+ S8+ A1.9 K5.1 S9 
+0000012 270  II      by                       Z5 
+0000012 280  XX      not                      Z6 
+0000012 290  VHG     having                   A9+ Z5 A2.2 S4 
+0000012 300  AT1     a                        Z5 
+0000012 310  NN1     driver                   M3/S2mf O2 
+0000012 320  VVZ     means                    Q1.1 X7+ 
+0000012 330  AT      the                      Z5 
+0000012 340  NP1     Domi-No-Driver           Z99 
+0000012 350  VM      can                      A7+ 
+0000012 360  VVI     carry                    M2 A9+ Q4 S7.4+ B1% B2-% 
+0000012 370  MC      four                     N6+[i17.2.1 A13.3[i17.2.1 N1 T3 T1.2 
+0000012 380  NNT2    times                    N6+[i17.2.2 A13.3[i17.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 
+0000012 390  RG@     as                       A13 
+0000012 400  DA2     many                     N5+ 
+0000012 410  NN2     pizzas                   F1 
+0000012 420  CSA     as                       Z5 
+0000012 430  APPGE   our                      Z8 
+0000012 440  JJ      previous                 N4 
+0000012 450  NN1     generation               T1.3 S5+c 
+0000012 460  IO      of                       Z5 
+0000012 470  NP1     PDVs                     Z99 
+0000012 471  (       (                        
+0000012 480  NN      People                   S2mfc 
+0000012 490  JJ      Driven                   M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000012 500  NN2     Vehicles                 M3fn X4.2 
+0000012 501  )       )                        
+0000012 502  .       .                        
+0000012 503  -----   -----                    
+0000012 510  AT      The                      Z5 
+0000012 520  NN1     fact                     A5.2+ X2.2 
+0000012 530  NN1     weve                     Z99 
+0000012 540  VVN     developed                A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000012 550  II      on                       Z5 
+0000012 560  AT      the                      Z5 
+0000012 570  NP1     L.I.D.A.R                Z99 
+0000012 571  (       (                        
+0000012 580  JJ      Light                    W2 O4.3 N3.5- N5- N3.2- A12+ X3.2- F1 A11.1- O4.2+ 
+0000012 590  NN1     Detection                A10+ 
+0000012 600  CC      and                      Z5 
+0000012 610  VVG     Ranging                  A6.3+ O4.1 
+0000012 611  )       )                        
+0000012 620  NN1     technology               Y1 
+0000012 630  VVN     used                     A1.5.1 S7.1+ 
+0000012 640  II      in                       Z5 
+0000012 650  NP1     Googles                  Z3c/Y2 
+0000012 660  JJ      driverless               Z99 
+0000012 670  NN2     cars                     M3fn 
+0000012 680  CC      and                      Z5 
+0000012 690  VVN     equipped                 A9 X9.1+ 
+0000012 700  APPGE   our                      Z8 
+0000012 710  NN2@    Domi-No-Drivers          Z99 
+0000012 720  IW      with                     Z5 
+0000012 730  NP1     H.U.N.G.A.R              Z99 
+0000012 731  (       (                        
+0000012 740  NN1     Hunger                   F1-/B1 X7+ 
+0000012 750  NN1     Detection                A10+ 
+0000012 760  CC      and                      Z5 
+0000012 770  VVG     Ranging                  A6.3+ O4.1 
+0000012 771  )       )                        
+0000012 780  TO      to                       Z5 
+0000012 790  VVI     help                     S8+ 
+0000012 800  PPHO2   them                     Z8mfn 
+0000012 810  VVI     detect                   A10+ 
+0000012 820  CC      and                      Z5 
+0000012 830  VVI     navigate                 M6 M1 X9.2+ M6/L2 
+0000012 840  JJ      real-time                Y2 T1.1.2 
+0000012 850  NN2     obstacles                S8- 
+0000012 851  ,       ,                        
+0000012 860  VVZ     shows                    A10+ S1.1.1 
+0000012 870  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000012 880  RGQ@    how                      Z5 A13.3 
+0000012 890  JJ      safe                     A15+ A7+ 
+0000012 900  CC      and                      Z5 
+0000012 910  JJ      sophisticated            O4.2+ X9.1+ 
+0000012 920  PPHS2   they                     Z8mfn 
+0000012 930  VBR     are                      A3+ Z5 
+0000012 931  .       .                        
+0000012 932  -----   -----                    
+0000012 940  NP1@    Weve                     Z99 
+0000012 950  VVD     tried                    X8+ X2.4 Q2.2 G2.1 A12- 
+0000012 960  TO      to                       Z5 
+0000012 970  VVI     think                    X2.1 
+0000012 980  IO      of                       Z5 
+0000012 990  PPH1    it                       Z8 
+0000012 000  II      from                     Z5 
+0000012 010  AT1     every                    N5.1+ 
+0000012 020  NN1     angle                    O4.4 X4.1 
+0000012 030  RR      so                       Z5 A13.3 
+0000012 040  DB      all                      N5.1+ 
+0000012 050  PPY     you                      Z8mf 
+0000012 060  VH0     have                     S6+[i18.2.1 A9+ Z5 A2.2 S4 
+0000012 070  TO      to                       S6+[i18.2.2 Z5 
+0000012 080  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000012 090  VBZ     is                       A3+ Z5 
+0000012 100  NN1     place                    M7 H1 A1.2 P1 
+0000012 110  APPGE   your                     Z8 
+0000012 120  NN1     order                    S7.1+/Q2.2 I2.2/Q2.2 A4.1 N4 G2.1+ G2.1 Q1.2/I1.1 O4.2+ 
+0000012 130  CC      and                      Z5 
+0000012 140  VV0     enjoy                    E2+ A9+ E4.1+ 
+0000012 150  VV0     hassle                   A12- 
+0000012 160  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000012 161  .       .                        
+0000012 162  NULL    </quote>                 
+0000012 163  -----   -----                    
+0000014 010  AT1     Every                    N5.1+ 
+0000014 020  NP1     Domi-No-Driver           Z99 
+0000014 030  VM      will                     T1.1.3 
+0000014 040  RR      also                     N5++ 
+0000014 050  VVI     come                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000014 060  VVN     equipped                 A9 X9.1+ 
+0000014 070  IW      with                     Z5 
+0000014 080  NN2     Dominos                  K5.2 
+0000014 090  VVD     patented                 A11.2+ A9+ O4.1 A9+/Q1.2 
+0000014 100  NP1     P.I                      Z99 
+0000014 101  .       .                        
+0000014 102  -----   -----                    
+0000014 103  (       (                        
+0000014 110  NN1     Pizza                    F1 
+0000014 120  NN1     Interface                Q1.1 S1.1.1 Y2 
+0000014 121  )       )                        
+0000014 130  NN1     intelligence             X9.1+ X2.2+ S1.2.6+ 
+0000014 140  CST     that                     Z8 Z5 
+0000014 150  VM      can                      A7+ 
+0000014 160  VVI     hone                     A1.1.1 
+0000014 170  II      into                     Z5 
+0000014 180  NN2     customers                I2.2/S2mf 
+0000014 190  NN2     coordinates              N2 
+0000014 200  II      via                      Z5 
+0000014 210  APPGE   their                    Z8 
+0000014 220  NN2     smartphones              Z99 
+0000014 230  TO      to                       Z5 
+0000014 240  VVI     calculate                N2 X7+ 
+0000014 250  AT      the                      Z5 
+0000014 260  RGT     most                     A13.2 
+0000014 270  JJ      efficient                X9.1+/I3.2 N3.8+ A1.5.2+ 
+0000014 280  NN1     route                    M6 X4.2 
+0000014 290  IO      of                       Z5 
+0000014 300  NN1     delivery                 M2 Q2.1 X9.2+ B3 S9% 
+0000014 310  CC      and                      Z5 
+0000014 320  VV0     deliver                  M2 Q2.1 X9.2+ B3 S9% 
+0000014 330  AT      the                      Z5 
+0000014 340  NN1     pizza                    F1 
+0000014 350  II      on                       A1.1.1[i19.3.1 M1[i19.3.1 Z5 
+0000014 360  AT      the                      A1.1.1[i19.3.2 M1[i19.3.2 Z5 
+0000014 370  NN1     go                       A1.1.1[i19.3.3 M1[i19.3.3 X8+ T2+ S1.1.2+ 
+0000014 371  ,       ,                        
+0000014 380  VVG     completing               T2- Q1.2 
+0000014 390  AT      the                      Z5 
+0000014 400  NN1     effectiveness            X9.2+ 
+0000014 410  IO      of                       Z5 
+0000014 420  AT      the                      Z5 
+0000014 430  JJ      driverless               Z99 
+0000014 440  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
+0000014 441  .       .                        
+0000015 001  -----   -----                    
+0000016 010  CSA     As                       Z5 
+0000016 020  NP1     Simon                    Z1mf[i20.2.1 Z3c[i20.2.1 Z1m 
+0000016 030  NP1     Wallis                   Z1mf[i20.2.2 Z3c[i20.2.2 Z1mf Z3c 
+0000016 031  ,       ,                        
+0000016 040  NN1     Marketing                I2.2 
+0000016 050  NN1     Director                 S7.1+/S2mf K4/S2mf 
+0000016 060  II      at                       Z5 
+0000016 070  NN2     Dominos                  K5.2 
+0000016 080  NN1     Pizza                    F1 
+0000016 090  NP1     UK                       Z2 
+0000016 100  VVD     commented                Q2.1 
+0000016 101  :       :                        
+0000016 102  NULL    <quote>                  
+0000016 103  -----   -----                    
+0000016 110  CS      While                    Z5 
+0000016 120  APPGE   its                      Z8 
+0000016 130  JJ      important                A11.1+ 
+0000016 140  CST     that                     Z8 Z5 
+0000016 150  PPIS2   we                       Z8 
+0000016 160  VV0     maintain                 A9+ T2++ S8+ A1.1.1 Q2.2 
+0000016 170  AT      the                      Z5 
+0000016 180  JJ      handmade                 O4.1 
+0000016 190  NN1     touch                    X3.3 X4.2 N5- 
+0000016 200  CS      when                     Z5 
+0000016 210  PPH1    it                       Z8 
+0000016 220  VVZ     comes                    A4.1[i21.2.1 M1[i21.2.1 B1[i21.2.1 N5[i21.2.1 X6+[i21.2.1 X2.1[i21.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000016 230  II      to                       A4.1[i21.2.2 M1[i21.2.2 B1[i21.2.2 N5[i21.2.2 X6+[i21.2.2 X2.1[i21.2.2 Z5 
+0000016 240  AT      the                      Z5 
+0000016 250  APPGE   our                      Z8 
+0000016 260  NN1     pizza                    F1 
+0000016 270  NN1     production               A1.1.1 A10+ K4 K3 Q4.3 
+0000016 280  TO      to                       Z5 
+0000016 290  VVI     make                     A7+[i22.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000016 300  JJ      sure                     A7+[i22.2.2 A7+ Z4 
+0000016 310  NN1     theyre                   Z99 
+0000016 320  MC      100                      N5[i23.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000016 330  NNU     percent                  N5[i23.2.2 N5 
+0000016 340  JJ      fresh                    T3- O4.2+ B1 W4 S1.2.3+ 
+0000016 341  ,       ,                        
+0000016 350  II      in                       Z5 
+0000016 360  AT      the                      Z5 
+0000016 370  MD      next                     N4 
+0000016 380  MC      five                     N1 T3 T1.2 
+0000016 390  NNT2    years                    T1.3 
+0000016 400  RR      nearly                   A13.4 
+0000016 410  AT1     every                    N5.1+ 
+0000016 420  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000016 430  IO      of                       Z5 
+0000016 440  AT      the                      Z5 
+0000016 450  NN1     service                  I4/S8+[i25.2.1 S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ I4/S8+c[i24.2.1 
+0000016 460  NN1     industry                 I4/S8+[i25.2.2 I4c I2.1c I4/S8+c[i24.2.2 
+0000016 470  VM      will                     T1.1.3 
+0000016 480  VBI     be                       A3+ Z5 
+0000016 490  JJ      automated                A1.1.1/S5- 
+0000016 500  CC      and                      Z5 
+0000016 510  PPIS2   we                       Z8 
+0000016 520  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000016 530  TO      to                       Z5 
+0000016 540  VVI     ensure                   A7+ 
+0000016 550  CST     that                     Z5 Z8 
+0000016 560  NN2     Dominos                  K5.2 
+0000016 570  VBZ     is                       A3+ Z5 
+0000016 580  II21    ahead                    N4[i26.2.1 N4[i27.2.1 A5.1++[i27.2.1 
+0000016 590  II22    of                       N4[i26.2.2 N4[i27.2.2 A5.1++[i27.2.2 
+0000016 600  DD1     that                     Z5 Z8 
+0000016 610  NN1     trend                    A6.2+ A2.1+ 
+0000016 611  .       .                        
+0000016 612  -----   -----                    
+0000016 620  NN2     Thats                    Z5 Z8 A13.3 A6.1+ 
+0000016 630  RRQ     why                      A2.2 
+0000016 640  PPIS2   we                       Z8 
+0000016 650  VBR     are                      A3+ Z5 
+0000016 660  II      beyond                   Z5 
+0000016 670  JJ      excited                  X5.2+ 
+0000016 680  TO      to                       Z5 
+0000016 690  VVI     announce                 Q2.2 
+0000016 700  DD1     that                     Z5 Z8 
+0000016 710  JJ      driverless               Z99 
+0000016 720  NN2     deliveries               M2 Q2.1 X9.2+ B3 S9% 
+0000016 730  VBR     are                      Z5 A3+ 
+0000016 740  VVG     becoming                 A2.1+ O4.2+ 
+0000016 750  AT1     a                        Z5 
+0000016 760  NN1     reality                  A3+ A5.2+ 
+0000016 770  II      at                       Z5 
+0000016 780  NN2     Dominos                  K5.2 
+0000016 790  NN2     thanks                   S1.2.4+ 
+0000016 800  II      to                       Z5 
+0000016 810  AT      the                      Z5 
+0000016 820  NN1     introduction             T2+ Q4 S1.1.1 
+0000016 830  IO      of                       Z5 
+0000016 840  AT      the                      Z5 
+0000016 850  NP1     Domi-No-Driver           Z99 
+0000016 851  :       :                        
+0000016 860  AT      the                      Z5 
+0000016 870  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000016 880  MD      first                    N4 
+0000016 890  VVZ     auto-nom-nom-nom-ous     Z99 
+0000016 900  NN1     delivery                 M2 Q2.1 X9.2+ B3 S9% 
+0000016 910  NN1     vehicle                  M3fn X4.2 
+0000016 920  DDQ     which                    Z8 Z5 
+0000016 930  VM      will                     T1.1.3 
+0000016 940  RR      soon                     T1.1.3/N3.8+ 
+0000016 950  VBI     be                       Z5 A3+ 
+0000016 960  VVG     coming                   A4.1[i28.2.1 M1[i28.2.1 B1[i28.2.1 N5[i28.2.1 X6+[i28.2.1 X2.1[i28.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000016 970  II      to                       A4.1[i28.2.2 M1[i28.2.2 B1[i28.2.2 N5[i28.2.2 X6+[i28.2.2 X2.1[i28.2.2 Z5 
+0000016 980  AT1     a                        Z5 
+0000016 990  NN1     street                   M3/H3 
+0000016 000  RL      near                     N3.3- 
+0000016 010  PPY     you                      Z8mf 
+0000016 011  .       .                        
+0000016 012  NULL    </quote>                 
+0000016 013  -----   -----                    
+0000018 010  NP1     **30;7;TOOLONG           Z99 
+0000020 010  RR      So                       Z5 A13.3 
+0000020 011  ,       ,                        
+0000020 020  JJ      noble                    G2.2+ S7.1+ O4.2+ 
+0000020 030  NN1     pizza                    F1/E2+mf[i29.2.1 F1 
+0000020 040  NN2     lovers                   F1/E2+mf[i29.2.2 S3.2/S2mf E2+/S2mf 
+0000020 041  ,       ,                        
+0000020 050  CS      while                    Z5 
+0000020 060  EX      there                    Z5 
+0000020 070  VM      might                    A7+ 
+0000020 080  XX      not                      Z6 
+0000020 090  VBI     be                       A3+ Z5 
+0000020 100  AT1     a                        Z5 
+0000020 110  NN1     need                     S6+ 
+0000020 120  TO      to                       Z5 
+0000020 130  VVI     reinvent                 N6+/X2.1 
+0000020 140  AT      the                      Z5 
+0000020 150  NN1     wheel                    O2 N4 
+0000020 151  ,       ,                        
+0000020 160  NN2     theres                   Z5 M6 T1.2 
+0000020 170  PN1     nothing                  Z6/Z8 
+0000020 180  JJ      wrong                    A5.3- A5.1- G2.2- B2- 
+0000020 190  IW      with                     Z5 
+0000020 200  VVG     putting                  M2 Q2.1 Q2.2 A1.1.1 
+0000020 210  AT1     a                        Z5 
+0000020 220  NN1     bit                      N5- N5.1- O2 Y2 
+0000020 230  IO      of                       Z5 
+0000020 240  NN1     thought                  X4.1 
+0000020 250  II      into                     Z5 
+0000020 260  NN2     whats                    Z8 Z5 
+0000020 270  VVN     attached                 A1.7+ A2.2 
+0000020 280  II      to                       Z5 
+0000020 290  DD2     those                    Z5 Z8 
+0000020 300  NN2     wheels                   O2 N4 M3 
+0000020 301  ,       ,                        
+0000020 310  TO      to                       Z5 
+0000020 320  VVI     make                     A7+[i30.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000020 330  JJ      sure                     A7+[i30.2.2 A7+ Z4 
+0000020 340  CST     that                     Z5 Z8 
+0000020 350  APPGE   your                     Z8 
+0000020 360  NN2     pizzas                   F1 
+0000020 370  VBR     are                      Z5 A3+ 
+0000020 380  VVN     delivered                M2 Q2.1 X9.2+ B3 S9% 
+0000020 390  II      to                       Z5 
+0000020 400  PPY     you                      Z8mf 
+0000020 410  RR      even                     A13.1 
+0000020 420  JJR     speedier                 N3.8+ 
+0000020 430  CSN     than                     Z5 
+0000020 440  RT      before                   N4 
+0000020 441  .       .                        
+0000021 001  -----   -----                    
+0000022 010  VV0     Wed                      S4 
+0000022 020  VV0     love                     E2+ 
+0000022 030  TO      to                       Z5 
+0000022 040  VVI     hear                     X3.2 X2.3+ G2.1@ 
+0000022 050  DDQ     what                     Z8 Z5 
+0000022 060  PPY     you                      Z8mf 
+0000022 070  VV0     think                    X2.1 
+0000022 071  ,       ,                        
+0000022 080  RR      so                       Z5 A13.3 
+0000022 090  RRQ     why                      A2.2 
+0000022 100  XX      not                      Z6 
+0000022 110  VVI     join                     A2.2 S5+ A1.8+ A1.1.1 
+0000022 120  AT      the                      Z5 
+0000022 130  NN1     conversation             Q2.1 
+0000022 140  CC      and                      Z5 
+0000022 150  VV0     let                      Q2.1[i31.2.1 S7.4+ I2.2/H1 T2- 
+0000022 160  PPIO2   us                       Z8 
+0000022 170  VVI     know                     Q2.1[i31.2.2 X2.2+ S3.2/B1% 
+0000022 180  DDQ     what                     Z8 Z5 
+0000022 190  PPY     you                      Z8mf 
+0000022 200  VV0     think                    X2.1 
+0000022 210  II      about                    Z5 
+0000022 220  AT      the                      Z5 
+0000022 230  JJ      new                      T3- 
+0000022 240  NN1     addition                 N5++ N2 
+0000022 250  II      to                       Z5 
+0000022 260  AT      the                      Z5 
+0000022 270  NN2     Dominos                  K5.2 
+0000022 280  VV0@    team                     S5+ 
+0000022 281  ?       ?                        
+0000022 290  FO      #DomiNoDriver            Z99 
+0000025 001  NULL    **8;38;text              
