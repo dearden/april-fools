@@ -1,0 +1,662 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     Donald                   Z1mf[i1.2.1 Z3c[i1.2.1 Z1mf 
+0000002 020  NN1     Trump                    Z1mf[i1.2.2 Z3c[i1.2.2 Z1mf 
+0000002 030  VVD     said                     Q2.1 
+0000002 040  RT      again                    N6+ Z4 
+0000002 050  II      on                       Z5 
+0000002 060  NPD1    Sunday                   T1.3 
+0000002 070  CST     that                     Z8 Z5 
+0000002 080  PPHS1   he                       Z8m 
+0000002 090  VBZ     is                       A3+ Z5 
+0000002 100  JJ      open-minded              S7.4+/A1.7- 
+0000002 110  II      about                    Z5 
+0000002 120  NN1     climate                  W4 A1.1.1 E1 
+0000002 130  NN1     change                   A2.1+ I1 B1 
+0000002 140  NN1     --                       Z99 
+0000002 150  CCB     but                      Z5 
+0000002 160  RR      also                     N5++ 
+0000002 170  CST     that                     Z8 Z5 
+0000002 180  PN1     nobody                   Z8/Z6cmf 
+0000002 190  RR      really                   A13.3 A5.2+ 
+0000002 200  VVZ     knows                    X2.2+ S3.2/B1% 
+0000002 210  AT      the                      Z5 
+0000002 220  NN1     truth                    A5.2+ 
+0000002 230  II      about                    Z5 
+0000002 240  AT      the                      Z5 
+0000002 250  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000002 251  ,       ,                        
+0000002 260  DDQ     which                    Z8 Z5 
+0000002 270  VVZ     contradicts              A6.1-/Q2.2 A6.1- 
+0000002 280  AT      the                      Z5 
+0000002 290  NN1     fact                     A5.2+ X2.2 
+0000002 300  CST     that                     Z5 Z8 
+0000002 310  EX      there                    Z5 
+0000002 320  VBZ     is                       A3+ Z5 
+0000002 330  JJ      near-universal           Z99 
+0000002 340  JJ      scientific               Y1 
+0000002 350  NN1     agreement                A6.1+ Q2.2 
+0000002 360  II      on                       Z5 
+0000002 370  AT      the                      Z5 
+0000002 380  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000002 381  .       .                        
+0000003 001  -----   -----                    
+0000004 010  II      In                       Z5 
+0000004 020  AT1     an                       Z5 
+0000004 030  NN1     interview                Q2.1 
+0000004 040  IW      with                     Z5 
+0000004 050  NP1     Fox                      Z1mf 
+0000004 060  NN1     News                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000004 070  NPD1    Sunday                   T1.3 
+0000004 071  ,       ,                        
+0000004 080  NN1     moderator                S7.1+/S2mf 
+0000004 090  NP1     Chris                    Z1mf[i2.2.1 Z3c[i2.2.1 Z1mf 
+0000004 100  NP1     Wallace                  Z1mf[i2.2.2 Z3c[i2.2.2 Z1mf 
+0000004 110  VVD     pointed                  A10+[i3.2.1 A10+ M6 H1 
+0000004 120  RP      out                      A10+[i3.2.2 M6 
+0000004 130  II      to                       Z5 
+0000004 140  NNB     Mr.                      Z1m[i4.2.1 S2.2m 
+0000004 150  NP1     Trump                    Z1m[i4.2.2 Z1mf 
+0000004 160  CST     that                     Z8 Z5 
+0000004 170  II      in                       Z5 
+0000004 180  AT      the                      Z5 
+0000004 190  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000004 200  IO      of                       N6+[i5.3.1 T1.2[i5.3.1 Z5 
+0000004 210  AT1     a                        N6+[i5.3.2 T1.2[i5.3.2 Z5 
+0000004 220  NNT1    week                     N6+[i5.3.3 T1.2[i5.3.3 T1.3 
+0000004 230  PPHS1   he                       Z8m 
+0000004 240  NN1     bothmet                  Z99 
+0000004 250  IW      with                     Z5 
+0000004 260  DA      former                   T2- N4 
+0000004 270  NNB     Vice                     S7.1+/S2mf[i6.2.1 
+0000004 280  NNB     President                S7.1+/S2mf[i6.2.2 
+0000004 290  NP1     Al                       Z1mf[i7.2.1 Z3c[i7.2.1 Z1m 
+0000004 300  NP1     Gore                     Z1mf[i7.2.2 Z3c[i7.2.2 
+0000004 310  CC      and                      Z5 
+0000004 320  VVD@    appointed                S7.1+ 
+0000004 330  NP1     Oklahoma                 Z2 
+0000004 340  NN1     Attorney                 G2.1/S2mf 
+0000004 350  NNB     General                  N5+ A4.2- G3/S7.1+/S2mf B3/H1 
+0000004 360  NP1     Scott                    Z1mf[i8.2.1 Z3c[i8.2.1 Z1mf 
+0000004 370  NP1     Pruitt                   Z1mf[i8.2.2 Z3c[i8.2.2 
+0000004 371  ,       ,                        
+0000004 380  AT1     a                        Z5 
+0000004 390  NN1     climate                  W4 A1.1.1 E1 
+0000004 400  NN1     change                   A2.1+ I1 B1 
+0000004 410  NN1     denier                   N3.5 
+0000004 420  PNQS    who                      Z8 
+0000004 430  VHZ     has                      Z5 A9+ A2.2 S4 
+0000004 440  VVN     opposed                  S8-/E2- A6.1- 
+0000004 450  DA2     many                     N5+ 
+0000004 460  JJ      environmental            W5 W3 
+0000004 470  NN2     regulations              G2.1 A1.7+/G1.1 
+0000004 471  ,       ,                        
+0000004 480  TO      to                       Z5 
+0000004 490  VVI     head                     S7.1+ K5.1 M1 N5 A2.1+ A11.1+ Q1.2 T1.1.3 
+0000004 500  AT      the                      Z5 
+0000004 510  JJ      Environmental            W5 W3 
+0000004 520  NN1     Protection               S8+/A15+ A10- 
+0000004 530  NN1     Agency                   I2.2/S5+c G1.1c 
+0000004 531  .       .                        
+0000004 532  -----   -----                    
+0000004 540  RRQ     Where                    M6 
+0000004 541  ,       ,                        
+0000004 550  NP1     Wallace                  Z1mf 
+0000004 560  VVD     asked                    Q2.2 
+0000004 561  ,       ,                        
+0000004 570  VDZ     does                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000004 580  NNB     Mr.                      Z1m[i9.2.1 S2.2m 
+0000004 590  NP1     Trump                    Z1m[i9.2.2 Z1mf 
+0000004 600  VVZ     stands                   M6 M2 M8 M1 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+ 
+0000004 610  II      on                       Z5 
+0000004 620  NN1     climate                  W4 A1.1.1 E1 
+0000004 630  NN1     change                   A2.1+ I1 B1 
+0000004 631  ?       ?                        
+0000005 001  -----   -----                    
+0000006 010  PPIS1   I                        Z8mf 
+0000006 011  VBM     'm                       A3+ Z5 
+0000006 020  RG      very                     A13.3 
+0000006 030  JJ      open-minded              S7.4+/A1.7- 
+0000006 031  .       .                        
+0000006 032  -----   -----                    
+0000006 040  PPIS1   I                        Z8mf 
+0000006 041  VBM     'm                       A3+ Z5 
+0000006 050  RR      still                    T2++ Z4 E3+ 
+0000006 060  JJ      open-minded              S7.4+/A1.7- 
+0000006 061  ,       ,                        
+0000006 070  PPHS1   he                       Z8m 
+0000006 080  VVD     said                     Q2.1 
+0000006 081  .       .                        
+0000006 082  -----   -----                    
+0000006 090  PN1     Nobody                   Z8/Z6cmf 
+0000006 100  RR      really                   A13.3 A5.2+ 
+0000006 110  VVZ     knows                    X2.2+ S3.2/B1% 
+0000006 111  .       .                        
+0000007 001  -----   -----                    
+0000008 010  RR      However                  Z4 
+0000008 011  ,       ,                        
+0000008 020  EX      there                    Z5 
+0000008 030  VBZ     is                       A3+ Z5 
+0000008 040  AT1     a                        Z5 
+0000008 050  JJ      near-universal           Z99 
+0000008 060  JJ      scientific               Y1 
+0000008 070  NN1     consensus                A6.1+ 
+0000008 080  CST     that                     Z5 Z8 
+0000008 090  NN1     climate                  W4 A1.1.1 E1 
+0000008 100  NN1     change                   A2.1+ I1 B1 
+0000008 110  VBZ     is                       A3+ Z5 
+0000008 120  AT1     a                        Z5 
+0000008 130  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
+0000008 140  NN1     phenomenon               A3 X3.4 A1.1.1 
+0000008 150  NN1     --                       Z99 
+0000008 160  II      despite                  Z5 
+0000008 170  JJ      continued                T2++ 
+0000008 180  NN1     opposition               S8-/E2- S7.3+ A6.1- 
+0000008 190  II      to                       Z5 
+0000008 200  AT      the                      Z5 
+0000008 210  NN1     notion                   X4.1 
+0000008 220  II      among                    Z5 
+0000008 230  RR      primarily                A13.2 
+0000008 240  JJ@     Republican               G1.2 
+0000008 250  NN2     politicians              G1.2/S2mf 
+0000008 251  .       .                        
+0000008 252  -----   -----                    
+0000008 260  NP1     NASA                     Z1 
+0000008 261  GE      's                       Z5 
+0000008 270  NN1     website                  Y2 
+0000008 280  II      on                       Z5 
+0000008 290  NN1     climate                  W4 A1.1.1 E1 
+0000008 300  NN1     change                   A2.1+ I1 B1 
+0000008 301  ,       ,                        
+0000008 310  REX21   for                      Z5[i10.2.1 
+0000008 320  REX22   example                  Z5[i10.2.2 
+0000008 321  ,       ,                        
+0000008 330  VVZ     notes                    Q2.1 Q1.2 
+0000008 340  CST     that                     Z5 Z8 
+0000008 350  RR      approximately            A13.4 
+0000008 360  MC      97                       N5[i11.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000008 370  NNU     percent                  N5[i11.2.2 N5 
+0000008 380  IO      of                       Z5 
+0000008 390  NN1     publishing               Q4 
+0000008 400  NN1     climate                  W4 A1.1.1 E1 
+0000008 410  NN2     scientists               Y1/S2mf 
+0000008 420  VV0     agree                    A6.1+ Q2.2 
+0000008 430  CST     that                     Z5 Z8 
+0000008 440  JJ      human                    S2 S1.2.1+ 
+0000008 450  NN2     activities               A1.1.1 
+0000008 460  VBR     are                      A3+ Z5 
+0000008 470  RG      very                     A13.3 
+0000008 480  JJ      likely                   A7+ A1.2+ 
+0000008 490  JJ      responsible              A2.2 S6+ S7.1 S1.2.6+ X6+ 
+0000008 500  IF      for                      Z5 
+0000008 510  VVG     rising                   M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 
+0000008 520  NN2     temperatures             O4.6 
+0000008 521  .       .                        
+0000009 001  -----   -----                    
+0000010 010  APPGE   His                      Z8m 
+0000010 020  NN2     comments                 Q2.1 
+0000010 030  VVD     came                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000010 040  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000010 050  NNT2    days                     T1.3 
+0000010 060  II      after                    Z5 
+0000010 070  APPGE   his                      Z8m 
+0000010 080  NN1     transition               A2.1+ 
+0000010 090  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000010 100  VVD     created                  A1.1.1 A2.2 E1 
+0000010 110  AT1     a                        Z5 
+0000010 120  NN1     questionnaire            Q1.2 
+0000010 130  IW      with                     Z5 
+0000010 140  MC      74                       N1 T1.2 T3 T1.3 N3.2 
+0000010 150  NN2     questions                Q2.2 X4.1 
+0000010 160  IF      for                      Z5 
+0000010 170  NN1     Energy                   X5.2+/S5+c[i12.2.1 X5.2+ Y1 
+0000010 180  NN1     Department               X5.2+/S5+c[i12.2.2 H2/S5+c X2.2 
+0000010 190  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000010 200  TO      to                       Z5 
+0000010 210  VVI     identify                 X2.2+ A10+ X2.5+ 
+0000010 220  NN2     employees                I3.1/S2mf 
+0000010 230  PNQS    who                      Z8 
+0000010 240  VHD     had                      Z5 A9+ A2.2 S4 
+0000010 250  VBN     been                     A3+ Z5 
+0000010 260  JJ      involved                 A1.8+ A12- X5.2+ 
+0000010 270  II      in                       Z5 
+0000010 280  JJ      international            M7 
+0000010 290  NN1     climate                  W4 A1.1.1 E1 
+0000010 300  NN2     talks                    Q2.1 
+0000010 310  II      over                     T1.1.1[i13.5.1 Z5 
+0000010 320  AT      the                      T1.1.1[i13.5.2 Z5 
+0000010 330  MD      last                     T1.1.1[i13.5.3 N4 T1.1.1[i14.3.1 
+0000010 340  MC      five                     T1.1.1[i13.5.4 N1 T3 T1.2 T1.1.1[i14.3.2 
+0000010 350  NNT2    years                    T1.1.1[i13.5.5 T1.3 T1.1.1[i14.3.3 
+0000010 351  ,       ,                        
+0000010 360  II31    as                       N5++[i15.2.1 Z5 
+0000010 370  II32    well                     N5++[i15.2.2 
+0000010 380  II33    as                       Z5 
+0000010 390  NN2     employees                I3.1/S2mf 
+0000010 400  PNQS    who                      Z8 
+0000010 410  VH0     have                     Z5 A9+ A2.2 S4 
+0000010 420  VVN     helped                   S8+ 
+0000010 430  VVI     develop                  A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000010 440  NP1     Obama                    Z99 
+0000010 450  NN1     administration           S7.1+c A9- 
+0000010 460  NN1     climate                  W4 A1.1.1 E1 
+0000010 470  NN2     policies                 X7+ Q1.2 
+0000010 471  .       .                        
+0000011 001  -----   -----                    
+0000012 010  AT      The                      Z5 
+0000012 020  NN1     questionnaire            Q1.2 
+0000012 021  ,       ,                        
+0000012 030  VVN     obtained                 A9+ 
+0000012 040  II      by                       Z5 
+0000012 050  NP1     CBS                      Q1.3 
+0000012 060  NN1     News                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000012 070  CC      and                      Z5 
+0000012 080  MD      first                    N4 
+0000012 090  VVN     reported                 Q2.2 S7.1- 
+0000012 100  II      by                       Z5 
+0000012 110  NP1     Bloomberg                Z3c 
+0000012 120  NN1     News                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000012 121  ,       ,                        
+0000012 130  VVZ     asks                     Q2.2 
+0000012 131  ,       ,                        
+0000012 140  REX21   for                      Z5[i16.2.1 
+0000012 150  REX22   example                  Z5[i16.2.2 
+0000012 151  ,       ,                        
+0000012 160  DDQ     Which                    Z3c 
+0000012 170  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000012 180  II      within                   Z5 
+0000012 181  (       &lsqb;                   
+0000012 190  AT      the                      Z5 
+0000012 200  NN1     Department               H2/S5+c X2.2 
+0000012 210  IO      of                       Z5 
+0000012 220  NN1     Energy                   X5.2+ Y1 
+0000012 221  )       &rsqb;                   
+0000012 230  VBR     are                      A3+ Z5 
+0000012 240  JJ      essential                S6+ A4.2+ 
+0000012 250  II      to                       Z5 
+0000012 260  VVG     meeting                  S3.1 M6 A1.1.1 X9.2+ A6.1+ 
+0000012 270  AT      the                      Z5 
+0000012 280  NN2     goals                    K5.1 X7+ 
+0000012 290  IO      of                       Z5 
+0000012 300  NNB     President                G1.1/S7.1+/S2mf 
+0000012 310  NP1     Obama                    Z99 
+0000012 311  GE      's                       Z5 
+0000012 320  NN1     Climate                  W4 A1.1.1 E1 
+0000012 330  NN1     Action                   A1.1.1 G3 
+0000012 340  NN1     Plan                     X7+ C1/H1 
+0000012 341  ?       ?                        
+0000013 001  -----   -----                    
+0000014 010  NNB     Mr.                      Z1m[i18.2.1 S2.2m Z1m[i17.2.1 
+0000014 020  NP1     Trump                    Z1m[i18.2.2 Z1mf Z1m[i17.2.2 
+0000014 021  GE      's                       Z5 
+0000014 030  NN1     answer                   Q2.2 X4.1 X9.2+ 
+0000014 040  NPD1    Sunday                   T1.3 
+0000014 050  II      on                       Z5 
+0000014 060  AT      the                      Z5 
+0000014 070  NN1     climate                  W4 A1.1.1 E1 
+0000014 080  NN1     change                   A2.1+ I1 B1 
+0000014 090  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000014 100  VBZ     is                       A3+ Z5 
+0000014 110  JJ      similar                  A6.1+ 
+0000014 120  II      to                       Z5 
+0000014 130  AT      the                      Z5 
+0000014 140  PN1     one                      Z8 
+0000014 150  PPHS1   he                       Z8m 
+0000014 160  VVD     gave                     S7.1-[i19.2.1 T2-[i19.2.1 A9-[i19.2.1 A9- A1.1.1 
+0000014 170  II      in                       S7.1-[i19.2.2 T2-[i19.2.2 A9-[i19.2.2 Z5 
+0000014 180  AT1     a                        Z5 
+0000014 190  NN1     meeting                  S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+ 
+0000014 200  IW      with                     Z5 
+0000014 210  AT      the                      Z5 
+0000014 220  JJ      editorial                Q1.2 Q4 
+0000014 230  NN1     board                    S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
+0000014 240  IO      of                       Z5 
+0000014 250  AT      The                      Z5 
+0000014 260  NP1     New                      Z3c[i23.3.1 Z1mf[i21.3.1 Z3c[i21.3.1 Z1mf[i20.2.1 Z3c[i20.2.1 Z2[i22.2.1 
+0000014 270  NP1     York                     Z3c[i23.3.2 Z2 Z1mf Z1mf[i21.3.2 Z3c[i21.3.2 Z1mf[i20.2.2 Z3c[i20.2.2 Z2[i22.2.2 Z1mf[i24.2.1 Z3c[i24.2.1 
+0000014 280  NNT2    Times                    Z3c[i23.3.3 Z3 Z3c[i21.3.3 Z1mf[i21.3.3 Z1mf[i24.2.2 Z3c[i24.2.2 Z1mf[i25.2.1 
+0000014 290  MD      last                     N4 Z1mf[i25.2.2 T1.1.1[i26.2.1 
+0000014 300  NNT1    month                    T1.3 T1.1.1[i26.2.2 
+0000014 310  NN1     --                       Z99 
+0000014 320  II      after                    Z5 
+0000014 330  AT1     a                        Z5 
+0000014 340  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000014 350  II      in                       Z5 
+0000014 360  DDQ     which                    Z8 Z5 
+0000014 370  NNB     Mr.                      Z1m[i27.2.1 S2.2m 
+0000014 380  NP1     Trump                    Z1m[i27.2.2 Z1mf 
+0000014 390  RR      repeatedly               N6+ 
+0000014 400  VVD     insisted                 S7.1+/Q2.2 
+0000014 410  NN1     climate                  W4 A1.1.1 E1 
+0000014 420  NN1     change                   A2.1+ I1 B1 
+0000014 430  VBDZ    was                      A3+ Z5 
+0000014 440  AT1     a                        Z5 
+0000014 450  NN1     hoax                     A5.2- 
+0000014 460  VVN     invented                 X2.1 A5.2- 
+0000014 470  II      by                       Z5 
+0000014 480  NP1     China                    Z2 
+0000014 481  .       .                        
+0000015 001  -----   -----                    
+0000016 010  PPIS1   I                        Z8mf 
+0000016 020  VH0     have                     A9+ Z5 A2.2 S4 
+0000016 030  AT1     a                        Z5 
+0000016 040  RG      very                     A13.3 
+0000016 050  JJ      open                     X6-[i28.2.1 A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000016 060  NN1     mind                     X6-[i28.2.2 X1 
+0000016 061  ,       ,                        
+0000016 070  PPHS1   he                       Z8m 
+0000016 080  VVD     said                     Q2.1 
+0000016 090  II      at                       T1.1.1[i29.3.1 T1.1.2[i29.3.1 Z5 
+0000016 100  AT      the                      T1.1.1[i29.3.2 T1.1.2[i29.3.2 Z5 
+0000016 110  NNT1    time                     T1.1.1[i29.3.3 T1.1.2[i29.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000016 111  .       .                        
+0000016 112  -----   -----                    
+0000016 120  CC      And                      Z5 
+0000016 130  PPIS1   I                        Z8mf 
+0000016 131  VBM     'm                       Z5 A3+ 
+0000016 140  VVGK    going                    T1.1.3[i30.2.1 
+0000016 150  TO      to                       T1.1.3[i30.2.2 Z5 
+0000016 160  VVI     study                    P1 X2.4 
+0000016 170  AT1     a                        N5+[i31.2.1 N6+[i31.2.1 A13.3[i31.2.1 Z5 
+0000016 180  NN1     lot                      N5+[i31.2.2 N6+[i31.2.2 A13.3[i31.2.2 
+0000016 190  IO      of                       Z5 
+0000016 200  AT      the                      Z5 
+0000016 210  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000016 220  CST     that                     Z8 Z5 
+0000016 230  VVD     happened                 A2.1+ A3+ X7- 
+0000016 240  II      on                       Z5 
+0000016 250  PPH1    it                       Z8 
+0000016 260  CC      and                      Z5 
+0000016 270  PPIS2   we                       Z8 
+0000016 271  VBR     're                      Z5 A3+ 
+0000016 280  VVGK    going                    T1.1.3[i32.2.1 
+0000016 290  TO      to                       T1.1.3[i32.2.2 Z5 
+0000016 300  VVI     look                     X3.4[i33.2.1 X2.4[i33.2.1 X2.1[i33.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000016 310  II      at                       X3.4[i33.2.2 X2.4[i33.2.2 X2.1[i33.2.2 Z5 A1.1.1[i34.2.1 
+0000016 320  PPH1    it                       Z8 A1.1.1[i34.2.2 
+0000016 330  RG      very                     A13.3 
+0000016 340  RR      carefully                A1.3+ 
+0000016 341  .       .                        
+0000016 342  -----   -----                    
+0000016 350  CCB     But                      Z5 
+0000016 360  PPIS1   I                        Z8mf 
+0000016 370  VH0     have                     A9+ Z5 A2.2 S4 
+0000016 380  AT1     an                       Z5 
+0000016 390  JJ      open                     X6-[i35.2.1 A10+ S1.2.1+ X6- X5.2+ A7+ 
+0000016 400  NN1     mind                     X6-[i35.2.2 X1 
+0000016 401  .       .                        
+0000017 001  -----   -----                    
+0000018 010  RR      Still                    T2++ Z4 E3+ 
+0000018 011  ,       ,                        
+0000018 020  NNB     Mr.                      Z1m[i37.2.1 S2.2m Z1m[i36.2.1 
+0000018 030  NP1     Trump                    Z1m[i37.2.2 Z1mf Z1m[i36.2.2 
+0000018 040  VVD     said                     Q2.1 
+0000018 050  APPGE   his                      Z8m 
+0000018 060  NN1     reason                   A2.2 X2.1 
+0000018 070  IF      for                      Z5 
+0000018 080  VVG     choosing                 X7+ 
+0000018 090  NP1     Pruitt                   Z99 
+0000018 100  NN1     --                       Z99 
+0000018 110  PNQO    whom                     Z8 
+0000018 120  DA2     many                     N5+ 
+0000018 130  JJ      environmental            W5 W3 
+0000018 140  NN2     groups                   S5+ A4.1 B3% 
+0000018 150  RR      immediately              N3.8+ T1.1.2/A11.1+ N4 
+0000018 160  JJ@     blasted                  Z4 O4.2- 
+0000018 170  NN1     --                       Z99 
+0000018 180  VBDZ    was                      A3+ Z5 
+0000018 190  TO      to                       Z5 
+0000018 200  VVI     speed                    N3.8+/A2.1[i38.2.1 N3.8+ 
+0000018 210  RP      up                       N3.8+/A2.1[i38.2.2 
+0000018 220  AT      the                      Z5 
+0000018 230  NN1     process                  A1.1.1 X4.2 
+0000018 240  IF      for                      Z5 
+0000018 250  NN1@    permit                   S7.4+ 
+0000018 260  NN2     approvals                S7.4+ E2+ G1.1 
+0000018 270  CC      and                      S2mf[i39.2.1 Z5 
+0000018 280  JJ      other                    S2mf[i39.2.2 A6.1- 
+0000018 290  NP1     EPA                      Z99 
+0000018 300  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000018 301  .       .                        
+0000019 001  -----   -----                    
+0000020 010  CS      If                       Z7 
+0000020 020  PPY     you                      Z8mf 
+0000020 030  VV0     look                     X3.4[i40.2.1 X2.4[i40.2.1 X2.1[i40.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000020 040  II      at                       X3.4[i40.2.2 X2.4[i40.2.2 X2.1[i40.2.2 Z5 
+0000020 050  DDQ     what                     Z5 Z8 
+0000020 060  NP1     China                    Z2 
+0000020 061  VBZ     's                       Z5 A3+ 
+0000020 070  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000020 071  .       .                        
+0000020 072  -----   -----                    
+0000020 080  CS      If                       Z7 
+0000020 090  PPY     you                      Z8mf 
+0000020 100  VV0     look                     X3.4[i41.2.1 X2.4[i41.2.1 X2.1[i41.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000020 110  II      at                       X3.4[i41.2.2 X2.4[i41.2.2 X2.1[i41.2.2 Z5 
+0000020 120  DDQ     what                     Z8 Z5 
+0000020 130  NN1     --                       Z99 
+0000020 140  PPIS1   I                        Z8mf 
+0000020 150  VM      could                    A7+ 
+0000020 160  VVI     name                     Q2.2 
+0000020 170  NN1     country                  G1.1c W3 F4/M7 K2 
+0000020 180  II      after                    Z5 
+0000020 190  NN1     country                  G1.1c W3 F4/M7 K2 
+0000020 191  ,       ,                        
+0000020 200  PPHS1   he                       Z8m 
+0000020 210  VVD     said                     Q2.1 
+0000020 211  .       .                        
+0000020 212  -----   -----                    
+0000020 220  PPY     You                      Z8mf 
+0000020 230  VV0     look                     X3.4[i42.2.1 X2.4[i42.2.1 X2.1[i42.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000020 240  II      at                       X3.4[i42.2.2 X2.4[i42.2.2 X2.1[i42.2.2 Z5 
+0000020 250  DDQ     what                     Z8 Z5 
+0000020 251  VBZ     's                       Z5 A3+ 
+0000020 260  VVG     happening                A2.1+ A3+ X7- 
+0000020 270  II      in                       Z5 
+0000020 280  NP1     Mexico                   Z2 Z3c 
+0000020 290  RRQ     where                    M6 
+0000020 300  APPGE   our                      Z8 
+0000020 310  NN      people                   S2mfc 
+0000020 320  VBR     are                      A3+ Z5 
+0000020 330  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000020 340  JJ      --                       Z99 
+0000020 350  NN2     plants                   L3 I4/H1c O2 A10-/S2mf 
+0000020 360  VBR     are                      Z5 A3+ 
+0000020 370  VBG     being                    Z5 A3+ 
+0000020 380  VVN     built                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000020 390  CC      and                      Z5 
+0000020 400  PPHS2   they                     Z8mfn 
+0000020 410  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000020 411  XX      n't                      Z6 
+0000020 420  VVI     wait                     T1.3 A3+ A11.1+ S1.1.1% 
+0000020 430  MC      10                       N1 T1.2 T3 T1.3 N3.2 
+0000020 440  NNT2    years                    T1.3 
+0000020 450  TO      to                       Z5 
+0000020 460  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000020 470  AT1     an                       Z5 
+0000020 480  NN1     approval                 S7.4+ E2+ G1.1 
+0000020 490  TO      to                       Z5 
+0000020 500  VVI     build                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000020 510  AT1     a                        Z5 
+0000020 520  NN1     plant                    L3 I4/H1c O2 A10-/S2mf 
+0000020 521  ,       ,                        
+0000020 530  RR      okay                     A5.1+ 
+0000020 531  ?       ?                        
+0000020 532  -----   -----                    
+0000020 540  PPHS2   They                     Z8mfn 
+0000020 550  VV0     build                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000020 560  PPH1    it                       Z8 
+0000020 570  II      like                     Z5 
+0000020 580  AT      the                      Z5 
+0000020 590  JJ      following                N4 
+0000020 600  NNT1    day                      T1.3 
+0000020 610  CC      or                       Z5 
+0000020 620  AT      the                      Z5 
+0000020 630  JJ      following                N4 
+0000020 640  NNT1    week                     T1.3 
+0000020 641  .       .                        
+0000020 642  -----   -----                    
+0000020 650  PPIS2   We                       Z8 
+0000020 660  VM      ca                       A7+ 
+0000020 661  XX      n't                      Z6 
+0000020 670  VVI     let                      S7.4+ I2.2/H1 T2- 
+0000020 680  DB      all                      N5.1+ 
+0000020 690  IO      of                       Z5 
+0000020 700  DD2     these                    Z5 Z8 
+0000020 710  NN2     permits                  S7.4+ 
+0000020 720  CST     that                     Z8 Z5 
+0000020 730  VV0     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000020 740  RT      forever                  T2+++ N6+++ 
+0000020 750  TO      to                       Z5 
+0000020 760  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000020 770  VV0     stop                     T2- S8- M8 H4 A1.1.1@ 
+0000020 780  APPGE   our                      Z8 
+0000020 790  NN2     jobs                     I3.1 A1.1.1 
+0000020 791  .       .                        
+0000021 001  -----   -----                    
+0000022 010  II21    As                       Z5[i43.2.1 Z5 
+0000022 020  II22    for                      Z5[i43.2.2 
+0000022 030  AT      the                      Z5 
+0000022 040  NP1     Paris                    Z2 Z1f 
+0000022 050  NN1     Agreement                A6.1+ Q2.2 
+0000022 051  ,       ,                        
+0000022 060  AT      the                      Z5 
+0000022 070  NN1     landmark                 M7/A11.2+ A11.1+ 
+0000022 080  JJ      international            M7 
+0000022 090  NN1     climate                  W4 A1.1.1 E1 
+0000022 100  NN1     agreement                A6.1+ Q2.2 
+0000022 110  CST     that                     Z8 Z5 
+0000022 120  VVD     went                     M1[i44.2.1 X2.4[i44.2.1 T2+[i44.2.1 N2[i44.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000022 130  II      into                     M1[i44.2.2 X2.4[i44.2.2 T2+[i44.2.2 N2[i44.2.2 Z5 
+0000022 140  NN1     effect                   A2.2 A8 
+0000022 150  DD1     this                     M6 Z5 Z8 
+0000022 160  NN1     fall                     M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- W3/M4 S9 K5 
+0000022 161  ,       ,                        
+0000022 170  NNB     Mr.                      Z1m[i45.2.1 S2.2m 
+0000022 180  NP1     Trump                    Z1m[i45.2.2 Z1mf 
+0000022 190  VVD     said                     Q2.1 
+0000022 200  PPHS1   he                       Z8m 
+0000022 210  VBZ     is                       Z5 A3+ 
+0000022 220  VVG     studying                 P1 X2.4 
+0000022 230  AT      the                      Z5 
+0000022 240  NN1     agreement                A6.1+ Q2.2 
+0000022 250  NN1     --                       Z99 
+0000022 260  CCB     but                      Z5 
+0000022 270  CST@    that                     Z8 Z5 
+0000022 280  PPHS1   he                       Z8m 
+0000022 290  VVZ@    worries                  E6- 
+0000022 300  PPH1    it                       Z8 
+0000022 310  VM      will                     T1.1.3 
+0000022 320  VVI     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000022 330  AT      the                      Z5 
+0000022 340  NP1     U.S.                     Z8 
+0000022 350  II      at                       Z5 
+0000022 360  AT1     a                        Z5 
+0000022 370  JJ      competitive              S7.3+ 
+0000022 380  NN1     disadvantage             A5.1- 
+0000022 381  .       .                        
+0000022 382  -----   -----                    
+0000022 390  JJ      International            M7 
+0000022 400  NN1     energy                   X5.2+ Y1 
+0000022 410  CC      and                      Z5 
+0000022 420  NN1     environment              W5 W3 E1 Y2 O4.1 
+0000022 430  NN2     experts                  X2.2+/S2mf X9.1+/S2mf 
+0000022 440  VV0     worry                    E6- 
+0000022 450  CST     that                     Z5 Z8 
+0000022 460  NNB     Mr.                      Z1m[i46.2.1 S2.2m 
+0000022 470  NP1     Trump                    Z1m[i46.2.2 Z1mf 
+0000022 471  ,       ,                        
+0000022 480  PNQS    who                      Z8 
+0000022 490  VVD     said                     Q2.1 
+0000022 500  RRR     earlier                  N4 T1.1.1 T4++ 
+0000022 510  DD1     this                     M6 Z5 Z8 
+0000022 520  NNT1    year                     T1.3 P1c 
+0000022 530  CST     that                     Z8 Z5 
+0000022 540  PPHS1   he                       Z8m 
+0000022 550  VM      would                    A7+ 
+0000022 560  VVI     tear                     A1.1.2[i47.2.1 A1.1.1 A1.1.2 
+0000022 570  RP      up                       A1.1.2[i47.2.2 
+0000022 580  AT      the                      Z5 
+0000022 590  NP1     Paris                    Z2 Z1f 
+0000022 600  NN1     deal                     N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
+0000022 601  ,       ,                        
+0000022 610  VM      could                    A7+ 
+0000022 620  VVI     throw                    M2 A2.2 Q2.2 A1.1.1 X2.5- 
+0000022 630  AT      the                      Z5 
+0000022 640  JJ      entire                   N5.1+ 
+0000022 650  NN1     agreement                A6.1+ Q2.2 
+0000022 660  II      into                     Z5 
+0000022 670  NN1     jeopardy                 A15- 
+0000022 671  .       .                        
+0000023 001  -----   -----                    
+0000024 010  NP1     Paris                    Z2 Z1f 
+0000024 011  ,       ,                        
+0000024 020  PPIS1   I                        Z8mf 
+0000024 021  VBM     'm                       Z5 A3+ 
+0000024 030  VVG     studying                 P1 X2.4 
+0000024 031  ,       ,                        
+0000024 040  PPHS1   he                       Z8m 
+0000024 050  VVD     said                     Q2.1 
+0000024 051  .       .                        
+0000024 052  -----   -----                    
+0000024 060  PPIS1   I                        Z8mf 
+0000024 070  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000024 080  VVI     say                      Q2.1 Z4% 
+0000024 090  DD1     this                     M6 Z5 Z8 
+0000024 091  :       :                        
+0000024 100  PPIS1   I                        Z8mf 
+0000024 110  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000024 111  XX      n't                      Z6 
+0000024 120  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
+0000024 130  DD1     that                     Z5 Z8 
+0000024 140  NN1     agreement                A6.1+ Q2.2 
+0000024 150  TO      to                       Z5 
+0000024 160  VVI     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000024 170  PPIO2   us                       Z8 
+0000024 180  II      at                       Z5 
+0000024 190  AT1     a                        Z5 
+0000024 200  JJ      competitive              S7.3+ 
+0000024 210  NN1     disadvantage             A5.1- 
+0000024 220  IW      with                     Z5 
+0000024 230  JJ      other                    A6.1- 
+0000024 240  NN2     countries                M7 
+0000024 241  .       .                        
+0000024 242  -----   -----                    
+0000024 250  CC      And                      Z5 
+0000024 260  CSA     as                       Z5 
+0000024 270  PPY     you                      Z4[i48.2.1 Z8mf 
+0000024 280  VV0     know                     Z4[i48.2.2 X2.2+ S3.2/B1% 
+0000024 281  ,       ,                        
+0000024 290  EX      there                    Z5 
+0000024 300  VBR     are                      A3+ Z5 
+0000024 310  JJ      different                A6.1- 
+0000024 320  NNT2    times                    T1 T1.2 T1.3 T1.1.2 N6 N1 
+0000024 330  CC      and                      Z5 
+0000024 340  JJ      different                A6.1- 
+0000024 350  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000024 360  VVZ     limits                   A1.7+ 
+0000024 370  II      on                       Z5 
+0000024 380  DD1     that                     Z5 Z8 
+0000024 390  NN1     agreement                A6.1+ Q2.2 
+0000024 391  .       .                        
+0000024 392  -----   -----                    
+0000024 400  PPIS1   I                        Z8mf 
+0000024 410  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000024 411  XX      n't                      Z6 
+0000024 420  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
+0000024 430  DD1     that                     Z8 Z5 
+0000024 440  TO      to                       Z5 
+0000024 450  VVI     give                     A9- A1.1.1 
+0000024 460  NP1     China                    Z2 
+0000024 461  ,       ,                        
+0000024 470  CC      or                       Z5 
+0000024 480  JJ      other                    A6.1- 
+0000024 490  NN2     countries                M7 
+0000024 500  VVG     signing                  Q1.2 Q1.1 G2.1 I3.1 S9 
+0000024 510  NN2     agreements               A6.1+ Q2.2 
+0000024 520  AT1     an                       Z5 
+0000024 530  NN1     advantage                A5.1+ K5.2 
+0000024 540  II      over                     Z5 
+0000024 550  PPIO2   us                       Z8 
+0000024 551  .       .                        
+0000026 001  NULL    **8;7;text               

@@ -1,0 +1,826 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVG     Waiting                  T1.3 A3+ A11.1+ S1.1.1% 
+0000002 020  IF      For                      Z5 
+0000002 030  NP1     Godot                    Z1 
+0000002 031  ,       ,                        
+0000002 040  AT      the                      Z5 
+0000002 050  JJ      classic                  A4.1 A5.1+ T3+ 
+0000002 060  NP1     Samuel                   Z1mf[i1.2.1 Z3c[i1.2.1 Z1m 
+0000002 070  NP1     Beckett                  Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 080  NN1     play                     K4 K5.1 
+0000002 090  IO      of                       Z5 
+0000002 100  NN1     futility                 A1.5.2- 
+0000002 110  CC      and                      Z5 
+0000002 120  NN1     alienation               A6.1- A1.8- A2.2/E2- 
+0000002 121  ,       ,                        
+0000002 130  VBZ     is                       Z5 A3+ 
+0000002 140  VVG     coming                   A4.1[i2.2.1 M1[i2.2.1 B1[i2.2.1 N5[i2.2.1 X6+[i2.2.1 X2.1[i2.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000002 150  II      to                       A4.1[i2.2.2 M1[i2.2.2 B1[i2.2.2 N5[i2.2.2 X6+[i2.2.2 X2.1[i2.2.2 Z5 
+0000002 160  NN1     Marvel                   Z3c 
+0000002 170  NN2     Comics                   E4.1+ E4.1+/S2mf E4.1+/Q4.2 
+0000002 171  ,       ,                        
+0000002 180  NN1     courtesy                 S1.2.4+ 
+0000002 190  IO      of                       Z5 
+0000002 200  NN1     writer                   Q4.1/S2mf Q1.2/S2mf 
+0000002 210  NP1     Brian                    Z1mf[i4.3.1 Z3c[i4.3.1 Z1m Z1mf[i3.2.1 Z3c[i3.2.1 
+0000002 220  NP1     Michael                  Z1mf[i4.3.2 Z3c[i4.3.2 Z1m Z1mf[i3.2.2 Z3c[i3.2.2 Z1mf[i5.2.1 Z3c[i5.2.1 
+0000002 230  NP1     Bendis                   Z3c[i4.3.3 Z1mf[i4.3.3 Z1mf[i5.2.2 Z3c[i5.2.2 
+0000002 240  CC      and                      Z5 
+0000002 250  NN1     artist                   C1/S2mf K4/S2mf K2/S2mf 
+0000002 260  NP1     Alex                     Z1mf[i6.2.1 Z3c[i6.2.1 Z1mf 
+0000002 270  NP1     Maleev                   Z1mf[i6.2.2 Z3c[i6.2.2 
+0000002 271  .       .                        
+0000004 001  NULL    <quote>                  
+0000004 002  -----   -----                    
+0000004 010  PPH1    It                       Z8 
+0000004 011  VBZ     's                       A3+ Z5 
+0000004 020  AT1     a                        Z5 
+0000004 030  JJ      natural                  A6.2+ A9+ A5.4+ W3 W5 B1 K2 
+0000004 031  ,       ,                        
+0000004 032  NULL    </quote>                 
+0000004 033  -----   -----                    
+0000004 040  VVZ     says                     Q2.1 
+0000004 050  JJ      editor-in-chief          Q4/I3.2/S2mf 
+0000004 060  NP1     Joe                      Z1mf[i7.2.1 Z3c[i7.2.1 Z1m 
+0000004 070  NP1     Quesada                  Z1mf[i7.2.2 Z3c[i7.2.2 
+0000004 071  .       .                        
+0000004 072  NULL    <quote>                  
+0000004 073  -----   -----                    
+0000004 080  II      In                       Z5 
+0000004 090  DB      all                      N5.1+ 
+0000004 100  APPGE   my                       Z8 
+0000004 110  NNT2    years                    T1.3 
+0000004 120  II      in                       Z5 
+0000004 130  AT      the                      Z5 
+0000004 140  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000004 141  ,       ,                        
+0000004 150  PPIS1   I                        Z8mf 
+0000004 160  VH0     have                     Z5 A9+ A2.2 S4 
+0000004 170  RR      rarely                   N6- 
+0000004 180  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000004 190  AT1     a                        Z5 
+0000004 200  RGR     more                     A13.3 
+0000004 210  JJ      natural                  A6.2+ A9+ A5.4+ W3 W5 B1 K2 
+0000004 220  NN1@    fit                      B2- N3.2/A5.1+ E6- 
+0000004 230  IO      of                       Z5 
+0000004 240  NN1     talent                   X9.1+ 
+0000004 250  CC      and                      Z5 
+0000004 260  NN1     material                 O1 B5 O2 X2.2 S1.2 
+0000004 261  .       .                        
+0000004 262  NULL    </quote>                 
+0000004 263  -----   -----                    
+0000006 010  VV0     Godot                    Z1 
+0000006 011  ,       ,                        
+0000006 020  IF      for                      Z5 
+0000006 030  AT      the                      Z5 
+0000006 040  NN1     edification              Z99 
+0000006 050  IO      of                       Z5 
+0000006 060  NN2     comics                   E4.1+/E2+mf[i8.2.1 E4.1+/S2mf E4.1+/Q4.2 
+0000006 070  NN2     fans                     E4.1+/E2+mf[i8.2.2 S2/E2+mf O2 
+0000006 080  PNQS    who                      Z8 
+0000006 090  VH0     have                     Z5 A9+ A2.2 S4 
+0000006 091  XX      n't                      Z6 
+0000006 100  VVN     heard                    X2.2+[i9.2.1 X3.2 X2.3+ G2.1@ 
+0000006 110  IO      of                       X2.2+[i9.2.2 Z5 
+0000006 120  PPH1    it                       Z8 
+0000006 121  ,       ,                        
+0000006 130  VBZ     is                       A3+ Z5 
+0000006 140  AT      the                      Z5 
+0000006 150  NN1     story                    Q2.1 X4.1 Q4 
+0000006 160  IO      of                       Z5 
+0000006 170  MC      two                      N1 T3 T1.2 
+0000006 180  NN2     men                      S2.2m 
+0000006 181  ,       ,                        
+0000006 190  NP1     Vladimir                 Z99 
+0000006 200  CC      and                      Z5 
+0000006 210  NP1     Estragon                 Z99 
+0000006 211  ,       ,                        
+0000006 220  PNQS    who                      Z8 
+0000006 230  VV0     wait                     T1.3 A3+ A11.1+ S1.1.1% 
+0000006 240  RR21    at                       N5+[i10.2.1 N4[i10.2.1 
+0000006 250  RR22    length                   N5+[i10.2.2 N4[i10.2.2 
+0000006 260  IF      for                      Z5 
+0000006 270  AT      the                      Z5 
+0000006 280  NN1     arrival                  M1 T2- 
+0000006 290  IO      of                       Z5 
+0000006 300  AT1     a                        Z5 
+0000006 310  MD      third                    N4 N5 N1 
+0000006 311  ,       ,                        
+0000006 320  AT      the                      Z5 
+0000006 330  JJ      unseen                   X3.4- 
+0000006 340  CCB     but                      Z5 
+0000006 350  JJ      much-discussed           Z99 
+0000006 360  NN1     Godot                    Z1 
+0000006 361  .       .                        
+0000006 362  -----   -----                    
+0000006 370  APPGE   Their                    Z8 
+0000006 380  NN2     conversations            Q2.1 
+0000006 390  VBR     are                      A3+ Z5 
+0000006 400  JJ      circular                 O4.4 
+0000006 410  CC      and                      Z5 
+0000006 420  JJ      repetitive               N6+ 
+0000006 421  ,       ,                        
+0000006 430  RR      often                    N6+ 
+0000006 440  VVG     ending                   T2- 
+0000006 450  IW      with                     Z5 
+0000006 460  NN2     exchanges                A9/S1.1.2+ Q2.1/E3- G3 M1/S1.1.2+ I2.2/H1 Q1.3/H1 
+0000006 470  VV0@    like                     E2+ 
+0000006 471  ,       ,                        
+0000006 472  NULL    <quote>                  
+0000006 473  -----   -----                    
+0000006 480  PPIS2   We                       Z8 
+0000006 490  VM      ca                       A7+ 
+0000006 491  XX      n't                      Z6 
+0000006 500  VVI     leave                    M1 M2 A1.1.1 A1.9 A9- T2- 
+0000006 501  .       .                        
+0000006 502  NULL    </quote>                 
+0000006 503  NULL    <quote>                  
+0000006 504  -----   -----                    
+0000006 510  RRQ     Why                      A2.2 
+0000006 520  XX      not                      Z6 
+0000006 521  ?       ?                        
+0000006 522  NULL    </quote>                 
+0000006 523  NULL    <quote>                  
+0000006 524  -----   -----                    
+0000006 530  PPIS2   We                       Z8 
+0000006 531  VBR     're                      Z5 A3+ 
+0000006 540  VVG     waiting                  T1.3 A3+ A11.1+ S1.1.1% 
+0000006 550  IF      for                      Z5 
+0000006 560  NN1     Godot                    Z1 
+0000006 561  .       .                        
+0000006 562  NULL    </quote>                 
+0000006 563  -----   -----                    
+0000006 570  VV0     Godot                    Z1 
+0000006 580  RR      never                    T1/Z6 
+0000006 590  VVZ     shows                    A10+[i11.2.1 S1.2.3+[i11.2.1 S1.1.3+[i11.2.1 A10+ S1.1.1 
+0000006 600  RP      up                       A10+[i11.2.2 S1.2.3+[i11.2.2 S1.1.3+[i11.2.2 
+0000006 601  ,       ,                        
+0000006 610  CC      and                      Z5 
+0000006 620  PPIS2   we                       Z8 
+0000006 630  VV0@    last                     T2++ T1.3 
+0000006 640  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000006 650  AT      the                      Z5 
+0000006 660  MC      two                      N1 T3 T1.2 
+0000006 670  VVZ     leads                    S7.1+ A2.2 M2 A1.1.1 
+0000006 680  CS      after                    Z5 
+0000006 690  PPHS2   they                     Z8mfn 
+0000006 700  VV0     decide                   X6+ 
+0000006 710  TO      to                       Z5 
+0000006 720  VVI     leave                    M1 M2 A1.1.1 A1.9 A9- T2- 
+0000006 721  ,       ,                        
+0000006 730  CCB     but                      Z5 
+0000006 740  VV0     remain                   T2++ M8 N5.2+ 
+0000006 750  VVG     standing                 M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2. 
+0000006 760  II      in                       Z5 
+0000006 770  AT      the                      Z5 
+0000006 780  DA      same                     A6.1+++ 
+0000006 790  NN1     spot                     O4.4 O2 B2- M7 N5- Q4.3 
+0000006 791  ,       ,                        
+0000006 800  VVN     doomed                   A5.1-/A2.1 
+0000006 810  TO      to                       Z5 
+0000006 820  VVI     remain                   T2++ M8 N5.2+ 
+0000006 830  RL      there                    M6 T1.2 
+0000006 840  RT      forever                  T2+++ N6+++ 
+0000006 841  .       .                        
+0000007 001  -----   -----                    
+0000008 010  II      In                       Z5 
+0000008 020  AT1     an                       Z5 
+0000008 030  NN1     interview                Q2.1 
+0000008 031  ,       ,                        
+0000008 040  NP1     Bendis                   Z99 
+0000008 050  VVD     wrote                    Q1.2 I2.1 
+0000008 051  ,       ,                        
+0000008 052  NULL    <quote>                  
+0000008 053  -----   -----                    
+0000008 060  PPIS1   I                        Z8mf 
+0000008 070  VBM     am                       Z5 A3+ 
+0000008 080  RR      tremendously             A13.3 A5.1+ 
+0000008 090  VVN@    excited                  X5.2+ 
+0000008 100  II      about                    Z5 
+0000008 110  DD1     this                     M6 Z5 Z8 
+0000008 120  NN1     project                  A1.1.1 P1 
+0000008 121  .       .                        
+0000008 122  -----   -----                    
+0000008 130  PPIS1   I                        Z8mf 
+0000008 140  VVD     learned                  X2.3+ P1 
+0000008 150  DB      all                      N5.1+ 
+0000008 160  PPIS1   I                        Z8mf 
+0000008 170  VV0     know                     X2.2+ S3.2/B1% 
+0000008 180  II      about                    Z5 
+0000008 190  NN1     dialogue                 Q2.1 
+0000008 200  CC      and                      Z5 
+0000008 210  JJ      dramatic                 K4 E1/N5.2+ N3.8++ 
+0000008 220  VVG     pacing                   M1 N3.8 
+0000008 230  II      from                     Z5 
+0000008 240  AT      the                      Z5 
+0000008 250  NN1     play                     K4 K5.1 
+0000008 251  ,       ,                        
+0000008 260  CC      and                      Z5 
+0000008 270  VH0     have                     Z5 A9+ A2.2 S4 
+0000008 280  RR      long                     T1.3+ 
+0000008 290  VDN     done                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000008 300  DDQV    whatever                 Z8 Z5 
+0000008 310  PPIS1   I                        Z8mf 
+0000008 320  VM      could                    A7+ 
+0000008 330  TO      to                       Z5 
+0000008 340  VVI     bring                    M2 A2.2 
+0000008 350  APPGE   its                      Z8 
+0000008 360  NN1     intensity                N5 
+0000008 370  CC      and                      Z5 
+0000008 380  NN1     suspense                 E6- 
+0000008 390  II      to                       Z5 
+0000008 400  AT      the                      Z5 
+0000008 410  NN1     superhero                Z99 
+0000008 420  NN1     genre                    Q4/A4.1 
+0000008 421  .       .                        
+0000008 422  NULL    </quote>                 
+0000008 423  -----   -----                    
+0000010 010  PPHS1   He                       Z8m 
+0000010 020  VVZ     points                   A10+[i12.2.1 A10+ M6 H1 
+0000010 030  RP      out                      A10+[i12.2.2 M6 
+0000010 040  AT1     an                       Z5 
+0000010 050  NN1     exchange                 A9/S1.1.2+ Q2.1/E3- G3 M1/S1.1.2+ I2.2/H1 Q1.3/H1 
+0000010 060  II      in                       Z5 
+0000010 070  MC1     one                      N1 T3 T1.2 
+0000010 080  IO      of                       Z5 
+0000010 090  APPGE   his                      Z8m 
+0000010 100  JJ      classic                  A4.1 A5.1+ T3+ 
+0000010 110  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000010 120  IO      of                       Z5 
+0000010 130  NP1     DAREDEVIL                Z99 
+0000010 131  ,       ,                        
+0000010 140  CS      where                    M6 
+0000010 150  NP1     Daredevil                Z99 
+0000010 160  VVZ     says                     Q2.1 
+0000010 161  ,       ,                        
+0000010 162  NULL    <quote>                  
+0000010 163  -----   -----                    
+0000010 170  PPIS1   I                        Z8mf 
+0000010 180  VM      ca                       A7+ 
+0000010 181  XX      n't                      Z6 
+0000010 190  VVI     spend                    I1.2 A1.5.1 T1.3 
+0000010 200  AT      the                      Z5 
+0000010 210  NN1     rest                     E3+ K1 T2-/T1.3 O2 N5.1- 
+0000010 220  IO      of                       Z5 
+0000010 230  APPGE   my                       Z8 
+0000010 240  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000010 250  NN1     fighting                 S8- X8+ E3- G1.2 
+0000010 260  NN1     Bullseye                 Z3c 
+0000010 261  .       .                        
+0000010 262  NULL    </quote>                 
+0000010 263  -----   -----                    
+0000010 270  NP1@    Foggy                    Z1mf[i13.2.1 Z3c[i13.2.1 
+0000010 280  NP1     Nelson                   Z1mf[i13.2.2 Z3c[i13.2.2 Z1mf 
+0000010 290  VVZ     says                     Q2.1 
+0000010 291  ,       ,                        
+0000010 292  NULL    <quote>                  
+0000010 293  -----   -----                    
+0000010 300  RT      Then                     N4 Z5 T1.2 
+0000010 310  VVD     quit                     T2- I3.1- M1 
+0000010 311  .       .                        
+0000010 312  NULL    </quote>                 
+0000010 313  -----   -----                    
+0000010 320  NN1     Daredevil                Z99 
+0000010 330  VVZ     says                     Q2.1 
+0000010 331  ,       ,                        
+0000010 332  NULL    <quote>                  
+0000010 333  -----   -----                    
+0000010 340  PPIS1   I                        Z8mf 
+0000010 350  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000010 360  VVI     quit                     T2- I3.1- M1 
+0000010 361  .       .                        
+0000010 362  NULL    </quote>                 
+0000010 363  -----   -----                    
+0000010 370  NP1@    Foggy                    Z1mf[i14.2.1 Z3c[i14.2.1 
+0000010 380  NP1     Nelson                   Z1mf[i14.2.2 Z3c[i14.2.2 Z1mf 
+0000010 390  VVZ     says                     Q2.1 
+0000010 391  ,       ,                        
+0000010 392  NULL    <quote>                  
+0000010 393  -----   -----                    
+0000010 400  JJ      Fine                     A5.1+ A4.2+ O4.5 O4.1 W4 N3.2- 
+0000010 401  ,       ,                        
+0000010 410  VVD     Quit                     T2- I3.1- M1 
+0000010 420  RR      already                  T1.1.1 
+0000010 421  .       .                        
+0000010 422  NULL    </quote>                 
+0000010 423  -----   -----                    
+0000010 430  NN1     Daredevil                Z99 
+0000010 440  VVZ     says                     Q2.1 
+0000010 441  ,       ,                        
+0000010 442  NULL    <quote>                  
+0000010 443  -----   -----                    
+0000010 450  PPIS1   I                        Z8mf 
+0000010 460  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000010 461  .       .                        
+0000010 462  -----   -----                    
+0000010 470  PPIS1   I                        Z8mf 
+0000010 480  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000010 490  VVI     quit                     T2- I3.1- M1 
+0000010 491  .       .                        
+0000010 492  -----   -----                    
+0000010 500  PPIS1   I                        Z8mf 
+0000010 510  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000010 511  .       .                        
+0000010 512  NULL    </quote>                 
+0000010 513  -----   -----                    
+0000010 520  NP1@    Foggy                    Z1mf[i15.2.1 Z3c[i15.2.1 
+0000010 530  NP1     Nelson                   Z1mf[i15.2.2 Z3c[i15.2.2 Z1mf 
+0000010 540  VVZ     says                     Q2.1 
+0000010 541  ,       ,                        
+0000010 542  NULL    <quote>                  
+0000010 543  -----   -----                    
+0000010 550  JJ      Good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000010 551  .       .                        
+0000010 552  -----   -----                    
+0000010 560  RR      So                       Z5 A13.3 
+0000010 570  PPY     you                      Z8mf 
+0000010 580  VV0     quit                     T2- I3.1- M1 
+0000010 581  .       .                        
+0000010 582  NULL    </quote>                 
+0000010 583  -----   -----                    
+0000010 590  NN1     Daredevil                Z99 
+0000010 600  VVZ     says                     Q2.1 
+0000010 601  ,       ,                        
+0000010 602  NULL    <quote>                  
+0000010 603  -----   -----                    
+0000010 610  CCB     But                      Z5 
+0000010 620  PPIS1   I                        Z8mf 
+0000010 630  VM      ca                       A7+ 
+0000010 631  XX      n't                      Z6 
+0000010 640  VVI     quit                     T2- I3.1- M1 
+0000010 641  .       .                        
+0000010 642  NULL    </quote>                 
+0000010 643  -----   -----                    
+0000010 650  NP1@    Foggy                    Z1mf[i16.2.1 Z3c[i16.2.1 
+0000010 660  NP1     Nelson                   Z1mf[i16.2.2 Z3c[i16.2.2 Z1mf 
+0000010 670  VVZ     says                     Q2.1 
+0000010 671  ,       ,                        
+0000010 672  NULL    <quote>                  
+0000010 673  -----   -----                    
+0000010 680  RRQ     Why                      A2.2 
+0000010 690  VM      ca                       A7+ 
+0000010 691  XX      n't                      Z6 
+0000010 700  PPY     you                      Z8mf 
+0000010 710  VVI     quit                     T2- I3.1- M1 
+0000010 711  ?       ?                        
+0000010 712  NULL    </quote>                 
+0000010 713  -----   -----                    
+0000010 720  NN1     Daredevil                Z99 
+0000010 730  VVZ     says                     Q2.1 
+0000010 731  ,       ,                        
+0000010 732  NULL    <quote>                  
+0000010 733  -----   -----                    
+0000010 740  CS      Because                  Z5/A2.2 
+0000010 750  PPIS1   I                        Z8mf 
+0000010 760  VH0     have                     S6+[i17.2.1 A9+ Z5 A2.2 S4 
+0000010 770  TO      to                       S6+[i17.2.2 Z5 
+0000010 780  VVI     fight                    S8- X8+ E3- G1.2 
+0000010 790  NN1     Bullseye                 Z3c 
+0000010 791  .       .                        
+0000010 792  NULL    </quote>                 
+0000010 793  -----   -----                    
+0000010 800  NP1@    Foggy                    Z1mf[i18.2.1 Z3c[i18.2.1 
+0000010 810  NP1     Nelson                   Z1mf[i18.2.2 Z3c[i18.2.2 Z1mf 
+0000010 820  VVZ     says                     Q2.1 
+0000010 821  ,       ,                        
+0000010 822  NULL    <quote>                  
+0000010 823  -----   -----                    
+0000010 830  CCB     But                      Z5 
+0000010 840  PPY     you                      Z8mf 
+0000010 850  VVD     said                     Q2.1 
+0000010 860  PPY     you                      Z8mf 
+0000010 870  VBDR    were                     Z5 A3+ 
+0000010 880  VVGK    going                    T1.1.3[i19.2.1 
+0000010 890  TO      to                       T1.1.3[i19.2.2 Z5 
+0000010 900  VVI     quit                     T2- I3.1- M1 
+0000010 901  .       .                        
+0000010 902  NULL    </quote>                 
+0000010 903  -----   -----                    
+0000010 910  NN1     Daredevil                Z99 
+0000010 920  VVZ     says                     Q2.1 
+0000010 921  .       .                        
+0000010 922  NULL    <quote>                  
+0000010 923  -----   -----                    
+0000010 930  PPIS1   I                        Z8mf 
+0000010 940  VBM     am                       A3+ Z5 
+0000010 941  .       .                        
+0000010 942  -----   -----                    
+0000010 950  CS31    As                       Z5[i20.3.1 Z5 
+0000010 960  CS32    soon                     Z5[i20.3.2 
+0000010 970  CS33    as                       Z5[i20.3.3 Z5 
+0000010 980  PPIS1   I                        Z8mf 
+0000010 990  VV0     fight                    S8- X8+ E3- G1.2 
+0000010 000  NN1     Bullseye                 Z3c 
+0000010 001  .       .                        
+0000010 002  NULL    </quote>                 
+0000010 003  -----   -----                    
+0000012 010  NP1     Bendis                   Z99 
+0000012 020  VVZ     says                     Q2.1 
+0000012 021  ,       ,                        
+0000012 022  NULL    <quote>                  
+0000012 023  -----   -----                    
+0000012 030  AT      The                      Z5 
+0000012 040  JJ      circular                 O4.4 
+0000012 050  NN1     logic                    X2.1 S1.2.6+ N2 
+0000012 060  CC      and                      Z5 
+0000012 070  JJ      overwhelming             X9.2+/S7.3 X9.2+/G3 E1 N5+++ 
+0000012 080  NN1     sense                    A4.1 Q3 X3 S1.2.6+ E1 X2.1 X9.1+ A8 
+0000012 090  IO      of                       Z5 
+0000012 100  NN1     futility                 A1.5.2- 
+0000012 110  RG      so                       A13.3 
+0000012 120  RR      memorably                A11.2+ X2.2+ 
+0000012 130  VVN     conveyed                 Q2.1 M2 
+0000012 140  II      in                       Z5 
+0000012 150  NP1     Beckett                  Z99 
+0000012 151  GE      's                       Z5 
+0000012 160  NN1     masterpiece              C1 A1.1.1/A5.1+ 
+0000012 170  VBZ     is                       A3+ Z5 
+0000012 180  RR      exactly                  A4.2+ A5.3+ 
+0000012 190  DDQ     what                     Z8 Z5 
+0000012 200  NP1     Stan                     Z2[i22.2.1 Z3c[i22.2.1 Z1mf[i22.2.1 Z1m Z1mf[i21.2.1 Z3c[i21.2.1 
+0000012 210  NP1     Lee                      Z2[i22.2.2 Z3c[i22.2.2 Z1mf[i22.2.2 Z1mf Z1mf[i21.2.2 Z3c[i21.2.2 
+0000012 211  GE      's                       Z5 
+0000012 220  NN2     creations                A1.1.1 A2.2 
+0000012 230  VM      would                    A7+ 
+0000012 240  VVI     experience               A2.1+/A3+ X3 
+0000012 250  CSW@    if                       Z7 
+0000012 260  PPHS2   they                     Z8mfn 
+0000012 270  VVD     lived                    H4 L1+ A3 
+0000012 280  II      in                       Z5 
+0000012 290  AT      the                      Z5 
+0000012 300  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
+0000012 310  NN1     world                    W1 S5+c A4.1 N5+ 
+0000012 311  .       .                        
+0000012 312  NULL    </quote>                 
+0000012 313  -----   -----                    
+0000014 010  VVG     Waiting                  T1.3 A3+ A11.1+ S1.1.1% 
+0000014 020  IF      For                      Z5 
+0000014 030  NP1     Godot                    Z1 
+0000014 040  VVZ     takes                    A1.1.1[i23.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ A1.1.1[i24.2.1 
+0000014 050  NN1     place                    A1.1.1[i23.2.2 M7 H1 A1.2 P1 A1.1.1[i24.2.2 
+0000014 060  II      on                       Z5 
+0000014 070  AT1     a                        Z5 
+0000014 080  JJ      deserted                 N5-/S2 
+0000014 090  NN1     road                     M3 X4.2 
+0000014 091  ,       ,                        
+0000014 100  II      on                       Z5 
+0000014 110  AT1     a                        Z5 
+0000014 120  JJ      spartan                  A1.7+ 
+0000014 130  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
+0000014 140  IW      with                     Z5 
+0000014 150  DA1     little                   N5- 
+0000014 160  NN1     backdrop                 M6 
+0000014 161  .       .                        
+0000014 162  -----   -----                    
+0000014 170  NP1     Alex                     Z1mf[i25.2.1 Z3c[i25.2.1 Z1mf 
+0000014 180  NP1     Maleev                   Z1mf[i25.2.2 Z3c[i25.2.2 
+0000014 190  VM      will                     T1.1.3 
+0000014 200  VBI     be                       Z5 A3+ 
+0000014 210  VVG     designing                C1 X7+ 
+0000014 220  APPGE   his                      Z8m 
+0000014 230  JJ      comic                    K1/Q4.1[i26.2.1 E4.1+ 
+0000014 240  NN1     book                     K1/Q4.1[i26.2.2 Q4.1 Q1.2 K5.1/I1 
+0000014 250  NN1     version                  A4.1 Q2.1 
+0000014 260  TO      to                       Z5 
+0000014 270  VVI     mirror                   A6.1+ 
+0000014 280  DD1     that                     Z5 Z8 
+0000014 290  NN1     look                     A8 X3.4 X2.4 O4.1 
+0000014 291  ,       ,                        
+0000014 300  II      by                       Z5 
+0000014 310  VVG     positioning              M6 
+0000014 320  APPGE   his                      Z8m 
+0000014 330  JJ      blocky                   Z99 
+0000014 331  ,       ,                        
+0000014 340  JJ      shadow-drenched          Z99 
+0000014 350  NN2     figures                  N5 N1 B1 S2mf C1 O4.4 O2 
+0000014 360  II      against                  Z5 
+0000014 370  JJ      single-color             Z99 
+0000014 380  NN2     backgrounds              T1.1.1 A2.2 M6 S1.1.1 P1 A11.1- A1.8- 
+0000014 381  .       .                        
+0000015 001  -----   -----                    
+0000016 010  DAT     Most                     N5+++ 
+0000016 020  IO      of                       Z5 
+0000016 030  AT      the                      Z5 
+0000016 040  NN2     pages                    Q1.2 T1.3 S7.1-/S2.2m 
+0000016 050  VM      will                     T1.1.3 
+0000016 060  VBI     be                       Z5 A3+ 
+0000016 070  VVN     designed                 C1 X7+ 
+0000016 080  CSA     as                       Z5 
+0000016 090  JJ      nine-panel               Z99 
+0000016 100  NN2     grids                    O2 O3 Q1.2 
+0000016 110  VVG     alternating              A2.1+ S1.1.2+ 
+0000016 120  II      between                  Z5 
+0000016 130  NN2     headshots                Z99 
+0000016 140  IO      of                       Z5 
+0000016 150  NP1     Vladimir                 Z99 
+0000016 160  CC      and                      Z5 
+0000016 170  NP1     Estragon                 Z99 
+0000016 171  .       .                        
+0000016 172  -----   -----                    
+0000016 180  NP1     Vladimir                 Z99 
+0000016 190  VM      will                     T1.1.3 
+0000016 200  VVI     say                      Q2.1 Z4% 
+0000016 201  ,       ,                        
+0000016 202  NULL    <quote>                  
+0000016 203  -----   -----                    
+0000016 210  PPIS2   We                       Z8 
+0000016 220  VM      ca                       A7+ 
+0000016 221  XX      n't                      Z6 
+0000016 230  VVI     leave                    M1 M2 A1.1.1 A1.9 A9- T2- 
+0000016 231  .       .                        
+0000016 232  NULL    </quote>                 
+0000016 233  -----   -----                    
+0000016 240  RT      Then                     N4 Z5 T1.2 
+0000016 250  EX      there                    Z5 
+0000016 260  VM      will                     T1.1.3 
+0000016 270  VBI     be                       A3+ Z5 
+0000016 280  MC      four                     N1 T3 T1.2 
+0000016 290  JJ      identical                A6.1+++ 
+0000016 300  NN2     headshots                Z99 
+0000016 310  IO      of                       Z5 
+0000016 320  NP1     Estragon                 Z99 
+0000016 321  ,       ,                        
+0000016 330  VVG     absorbing                A1.1.1 T1.3+ X2.3+ X5.2+ 
+0000016 340  DD1     this                     M6 Z5 Z8 
+0000016 350  NN1     information              X2.2+ 
+0000016 351  ,       ,                        
+0000016 360  CS      before                   Z5 
+0000016 370  AT1     a                        Z5 
+0000016 380  MD      fifth                    N1 
+0000016 390  JJ      identical                A6.1+++ 
+0000016 400  NN1     headshot                 Z99 
+0000016 410  IO      of                       Z5 
+0000016 420  NP1     Estragon                 Z99 
+0000016 430  VVZ     asks                     Q2.2 
+0000016 431  ,       ,                        
+0000016 432  NULL    <quote>                  
+0000016 433  -----   -----                    
+0000016 440  RRQ     Why                      A2.2 
+0000016 450  XX      not                      Z6 
+0000016 451  ?       ?                        
+0000016 452  NULL    </quote>                 
+0000016 453  -----   -----                    
+0000016 460  NN1     Vladmir                  Z99 
+0000016 461  VBZ     's                       Z5 A3+ 
+0000016 470  VVG     responding               S1.1.2+ Q2.2 
+0000016 480  MC      five                     N1 T3 T1.2 
+0000016 490  NN1     reaction                 A1.1.1 A6.1- B2- Y1 
+0000016 500  NN2     shots                    G3 G3/S2mf K5.1 Y1 C1 Q4.3 X8+ B3@ F2@ 
+0000016 510  VM      will                     T1.1.3 
+0000016 520  VVI     culminate                T2- 
+0000016 530  II      in                       Z5 
+0000016 540  APPGE   his                      Z8m 
+0000016 550  NN1     response                 Q2.1 S1.1.2+ 
+0000016 551  ,       ,                        
+0000016 552  NULL    <quote>                  
+0000016 553  -----   -----                    
+0000016 560  PPIS2   We                       Z8 
+0000016 561  VBR     're                      Z5 A3+ 
+0000016 570  VVG     waiting                  T1.3 A3+ A11.1+ S1.1.1% 
+0000016 580  IF      for                      Z5 
+0000016 590  NN1     Godot                    Z1 
+0000016 591  .       .                        
+0000016 592  NULL    </quote>                 
+0000016 593  -----   -----                    
+0000018 010  CCB     But                      Z5 
+0000018 020  EX      there                    Z5 
+0000018 030  VM      will                     T1.1.3 
+0000018 040  RR      also                     N5++ 
+0000018 050  VBI     be                       A3+ Z5 
+0000018 060  DA2     several                  N5 
+0000018 070  MC      two                      N1 T3 T1.2 
+0000018 080  NN1     page                     Q1.2 T1.3 S7.1-/S2.2m 
+0000018 090  VVZ     spreads                  A1.1.1 N3.6+/A2.1 N3.3+/A2.1 N5+/A2.1 N5 T1.3 
+0000018 100  IW      with                     Z5 
+0000018 110  AT      the                      Z5 
+0000018 120  MC      two                      N1 T3 T1.2 
+0000018 130  NN2     men                      S2.2m 
+0000018 140  VVG     standing                 M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2. 
+0000018 150  RL      together                 S5+ T1.1.2 M6 
+0000018 160  II      in                       Z5 
+0000018 170  AT1     a                        Z5 
+0000018 180  NN1     pool                     W3/M4 K5.1/H1 N5+ K5.1 I1/A1.4 
+0000018 190  IO      of                       Z5 
+0000018 200  NN1     shadow                   O4.3 S2mf 
+0000018 201  ,       ,                        
+0000018 210  CS      while                    Z5 
+0000018 220  MC      fifteen                  N1 T1.2 T3 T1.3 N3.2 
+0000018 230  NNT2    minutes                  T1.3 Q1.2 
+0000018 240  IO      of                       Z5 
+0000018 250  AT      the                      Z5 
+0000018 260  NN1     play                     K4 K5.1 
+0000018 270  VBZ     is                       Z5 A3+ 
+0000018 280  VVN     expressed                Q1.1 B1% 
+0000018 290  II      through                  Z5 
+0000018 300  JJ      nested                   O4.1 
+0000018 310  NN1     word                     Q3 Q2.1 S9@ 
+0000018 320  NN2     balloons                 M5 K6 O4.4 
+0000018 330  VVN     positioned               M6 
+0000018 340  II      in                       Z5 
+0000018 350  NN2     layers                   O2 A4.1 
+0000018 360  TO      to                       Z5 
+0000018 370  VVI     reflect                  A10+ Y1/M2 X3.4 X2.1 A5.1 
+0000018 380  JJ      rapid-fire               Z99 
+0000018 390  NN1     dialogue                 Q2.1 
+0000018 391  .       .                        
+0000019 001  -----   -----                    
+0000020 010  NP1     Bendis                   Z99 
+0000020 020  VVZ     stresses                 Q2.2 A1.1.2 
+0000020 030  CST     that                     Z5 Z8 
+0000020 040  AT      the                      Z5 
+0000020 050  JJ      ongoing                  T2++ 
+0000020 060  NN      series                   N4c Q4.3c 
+0000020 070  VBZ     is                       Z5 A3+ 
+0000020 080  VVN     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000020 090  II      within                   Z5 
+0000020 100  NN1     Marvel                   Z3c 
+0000020 110  NN1     continuity               T2++ 
+0000020 120  CC      and                      Z5 
+0000020 130  VM      will                     T1.1.3 
+0000020 140  VHI     have                     A9+ Z5 A2.2 S4 
+0000020 141  NULL    <quote>                  
+0000020 142  -----   -----                    
+0000020 150  JJ      enormous                 N3.2+++ 
+0000020 160  NN2     repercussions            A2.2 
+0000020 170  II      on                       Z5 
+0000020 180  AT      the                      Z5 
+0000020 190  NN121   status                   A3/T1.3[i27.2.1 S7.1 A4.1 A11.1 Z3c[i28.2.1 T1.1.2[i28.2.1 
+0000020 200  NN122   quo                      A3/T1.3[i27.2.2 Z3c[i28.2.2 T1.1.2[i28.2.2 
+0000020 201  NULL    </quote>                 
+0000020 202  -----   -----                    
+0000020 210  DA2     several                  N5 
+0000020 220  NNT2    years                    T1.3 
+0000020 230  II@     down                     M6[i29.3.1 Z5 
+0000020 240  AT      the                      M6[i29.3.2 Z5 
+0000020 250  NN1     line                     M6[i29.3.3 O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000020 251  .       .                        
+0000022 001  NULL    <quote>                  
+0000022 002  -----   -----                    
+0000022 010  VVZ     Avengers                 S7.3+/E3-/S2mf 
+0000022 020  JJ      Disassembled             Z99 
+0000022 021  ,       ,                        
+0000022 030  NN1     World                    G3[i30.2.1 W1 S5+c A4.1 N5+ 
+0000022 040  NN1     War                      G3[i30.2.2 G3 S7.3 
+0000022 050  NN1     Hulk                     M4 N3.2+/S2mf 
+0000022 051  ,       ,                        
+0000022 060  JJ      Civil                    G3[i31.2.1 G1.1 S1.2.4+ G2.1 H1% 
+0000022 070  NN1     War                      G3[i31.2.2 G3 S7.3 
+0000022 071  ,       ,                        
+0000022 080  JJ      Secret                   A10- 
+0000022 090  NN1     Invasion                 G3 X7- N5+ 
+0000022 091  ,       ,                        
+0000022 100  JJ      Dark                     W2- O4.3 E4.1- X2.2- O4.2- 
+0000022 110  NN1     Reign                    S7.1+ 
+0000022 111  ,       ,                        
+0000022 120  CC      and                      Z5 
+0000022 130  VVG     Waiting                  T1.3 A3+ A11.1+ S1.1.1% 
+0000022 140  IF      For                      Z5 
+0000022 150  NP1     Godot                    Z1 
+0000022 160  VBR     are                      A3+ Z5 
+0000022 170  DB      all                      N5.1+ 
+0000022 180  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000022 190  IO      of                       Z5 
+0000022 200  MC1     one                      N1 T3 T1.2 
+0000022 210  JJ      vast                     N3.2+ N5+ 
+0000022 220  NN1     umbrella                 B5 S5+ 
+0000022 230  NN1     conspiracy               G2.1- G2.2- 
+0000022 231  ,       ,                        
+0000022 232  NULL    </quote>                 
+0000022 233  -----   -----                    
+0000022 240  PPHS1   he                       Z8m 
+0000022 250  VVZ     confides                 Q2.2/A10+ 
+0000022 251  .       .                        
+0000022 252  NULL    <quote>                  
+0000022 253  -----   -----                    
+0000022 260  AT      The                      Z5 
+0000022 270  NN2     clues                    X4.1 
+0000022 280  VBR     are                      A3+ Z5 
+0000022 290  RL      there                    M6 T1.2 
+0000022 291  .       .                        
+0000022 292  -----   -----                    
+0000022 300  PPIS2   We                       Z8 
+0000022 301  VH0     've                      Z5 A9+ A2.2 
+0000022 310  VBN     been                     Z5 A3+ 
+0000022 320  VVG     planting                 F4 M2 
+0000022 330  PPHO2   them                     Z8mfn 
+0000022 340  IF      for                      Z5 
+0000022 350  NNT2    years                    T1.3 
+0000022 351  .       .                        
+0000022 352  -----   -----                    
+0000022 360  PPIS1   I                        Z8mf 
+0000022 370  VV0     promise                  S6+ A7+ 
+0000022 380  PPY     you                      Z8mf 
+0000022 381  ,       ,                        
+0000022 390  CST     that                     Z8 Z5 
+0000022 400  CS      when                     Z5 
+0000022 410  NP1     Godot                    Z1 
+0000022 420  RR      finally                  N4 
+0000022 430  VVZ     comes                    M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000022 440  VVG     walking                  M1 L2 X9.2+/A12+ 
+0000022 450  II      down                     N3.3-[i32.3.1 Z5 
+0000022 460  AT      the                      N3.3-[i32.3.2 Z5 
+0000022 470  NN1     road                     N3.3-[i32.3.3 M3 X4.2 
+0000022 480  CC      and                      Z5 
+0000022 490  PPIS2   we                       Z8 
+0000022 500  VV0     learn                    X2.3+ P1 
+0000022 510  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000022 520  RRQ     why                      A2.2 
+0000022 530  PPH1    it                       Z8 
+0000022 531  VHZ     's                       Z5 A9+ A2.2 
+0000022 540  VVN     taken                    X2.1/T1.3+[i33.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000022 550  PPHO1   him                      Z8m 
+0000022 560  RG      so                       A13.3 
+0000022 570  RR      long                     X2.1/T1.3+[i33.2.2 T1.3+ 
+0000022 580  TO      to                       Z5 
+0000022 590  RR      finally                  N4 
+0000022 600  VVI     show                     A10+[i34.2.1 S1.2.3+[i34.2.1 S1.1.3+[i34.2.1 A10+ S1.1.1 
+0000022 610  RP      up                       A10+[i34.2.2 S1.2.3+[i34.2.2 S1.1.3+[i34.2.2 
+0000022 611  ,       ,                        
+0000022 620  PN1     everybody                Z8/N5.1+c 
+0000022 621  VBZ     's                       Z5 A3+ 
+0000022 630  VVGK    gon                      T1.1.3 
+0000022 631  TO      na                       Z5 
+0000022 640  VVI     say                      Q2.1 Z4% 
+0000022 641  ,       ,                        
+0000022 650  RR21    Of                       Z4[i35.2.1 
+0000022 660  RR22    course                   Z4[i35.2.2 Z4 
+0000022 661  !       !                        
+0000022 662  -----   -----                    
+0000022 670  PPIS1   I                        Z8mf 
+0000022 680  VM      should                   S6+ A7+ 
+0000022 690  VHI     have                     Z5 A9+ A2.2 S4 
+0000022 700  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000022 710  DD1     this                     M6 Z5 Z8 
+0000022 720  DB      all                      N5.1+ 
+0000022 730  RP      along                    M6 
+0000022 731  !       !                        
+0000022 732  "@      '                        
+0000023 001  NULL    </quote>                 
+0000024 001  NULL    <quote>                  
+0000024 002  -----   -----                    
+0000024 010  CC      And                      Z5 
+0000024 020  DD1     that                     Z8 Z5 
+0000024 021  ,       ,                        
+0000024 022  NULL    </quote>                 
+0000024 023  -----   -----                    
+0000024 030  PPHS1   he                       Z8m 
+0000024 040  VVZ     concludes                X6+ T2- 
+0000024 041  ,       ,                        
+0000024 042  NULL    <quote>                  
+0000024 043  -----   -----                    
+0000024 050  VBZ     is                       Z5 A3+ 
+0000024 060  VVGK    going                    T1.1.3[i36.2.1 
+0000024 070  TO      to                       T1.1.3[i36.2.2 Z5 
+0000024 080  VVI     set                      T2+[i37.2.1 S7.1+[i37.2.1 O2[i37.2.1 A1.1.1[i37.2.1 M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000024 090  RP      up                       T2+[i37.2.2 S7.1+[i37.2.2 O2[i37.2.2 A1.1.1[i37.2.2 
+0000024 100  AT      the                      Z5 
+0000024 110  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
+0000024 120  NN1     crossover                M6 A2.1+ M3 
+0000024 130  NN1     event                    A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
+0000024 140  IO      of                       Z5 
+0000024 150  DB      all                      T1.3+[i38.2.1 N5.1+ 
+0000024 160  NNT1    time                     T1.3+[i38.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000024 161  ,       ,                        
+0000024 170  DDQ     which                    Z8 Z5 
+0000024 180  VBZ     is                       Z5 A3+ 
+0000024 190  VVN     based                    A2.2[i39.2.1 T2+ M6 A2.2 
+0000024 200  II      on                       A2.2[i39.2.2 Z5 
+0000024 210  NP1     Ionesco                  Z99 
+0000024 211  GE      's                       Z5 
+0000024 220  NN1     Rhinoceros               Z99 
+0000024 221  .       .                        
+0000024 222  -----   -----                    
+0000024 230  PPHS1   He                       Z8m 
+0000024 231  VBZ     's                       A3+ Z5 
+0000024 240  XX      not                      Z6 
+0000024 250  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000024 260  AT1     a                        Z5 
+0000024 270  NN1     Hulk                     M4 N3.2+/S2mf 
+0000024 280  NN1     villain                  G2.1-/S2mf 
+0000024 281  !       !                        
+0000024 282  -----   -----                    
+0000024 290  EX      There                    Z5 
+0000024 291  VBZ     's                       A3+ Z5 
+0000024 300  AT1     a                        Z5 
+0000024 310  JJ@     hidden                   A10- 
+0000024 320  NN1     explanation              Q2.2/A7+ A2.2 
+0000024 321  !       !                        
+0000024 322  -----   -----                    
+0000024 330  AT      The                      Z5 
+0000024 340  NN1     Internet                 Y2 
+0000024 341  VBZ     's                       Z5 A3+ 
+0000024 350  VVGK    going                    T1.1.3[i40.2.1 
+0000024 360  TO      to                       T1.1.3[i40.2.2 Z5 
+0000024 370  VVI     crack                    A1.1.2 X3.2 X9.2+ B2-/X1 Q2.2/E4.1+ 
+0000024 380  II      in                       A2.1+[i41.2.1 Z5 
+0000024 390  DB      half                     A2.1+[i41.2.2 N5 
+0000024 400  CS      when                     Z5 
+0000024 410  DD1     this                     Z8 M6 Z5 
+0000024 420  PN1     one                      Z8 
+0000024 430  VVZ     hits                     E3- A1.1.1 A2.1+ A11.2+ A10+ M1 G3 
+0000024 440  AT      the                      Z5 
+0000024 450  NN2     stands                   I2.2/H5 H5 H1 S8- 
+0000024 451  !       !                        
+0000024 452  NULL    </quote>                 
+0000027 001  NULL    **8;7;text               

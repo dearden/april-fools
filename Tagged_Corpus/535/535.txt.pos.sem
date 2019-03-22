@@ -1,0 +1,1470 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  JJ      Local                    M7 
+0000002 020  NN1     television               Q4.3 
+0000002 030  NN2     viewers                  Q4.3/S2mf C1/S2mf O2 
+0000002 040  II      around                   Z5 
+0000002 050  AT      the                      Z5 
+0000002 060  NP1     United                   Z2c[i3.2.1 Z2c[i2.2.1 Z3c Z1mf[i1.2.1 Z3c[i1.2.1 
+0000002 070  NP1     States                   Z2c[i3.2.2 Z2c[i2.2.2 Z2 Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 080  VBDR    were                     Z5 A3+ 
+0000002 090  RR      recently                 T3--- 
+0000002 100  VVN     alerted                  X2.2+/A15- 
+0000002 110  II      to                       Z5 
+0000002 120  AT1     a                        Z5 
+0000002 121  NULL    <quote>                  
+0000002 122  -----   -----                    
+0000002 130  JJ      troubling                Z99 
+0000002 140  NN1     trend                    A6.2+ A2.1+ 
+0000002 141  NULL    </quote>                 
+0000002 142  -----   -----                    
+0000002 150  DD1     that                     Z8 Z5 
+0000002 151  VBZ     's                       A3+ Z5 
+0000002 152  NULL    <quote>                  
+0000002 153  -----   -----                    
+0000002 160  RR      extremely                A13.3 
+0000002 170  JJ      dangerous                A15- 
+0000002 180  II      to                       Z5 
+0000002 190  NN1     democracy                G1.2 
+0000002 191  .       .                        
+0000002 192  NULL    </quote>                 
+0000002 193  -----   -----                    
+0000004 010  NP1     Sinclair                 Z1mf 
+0000004 020  NN1     Broadcast                Q4.3 
+0000004 030  NN1     Group                    S5+c A4.1c B3% 
+0000004 031  ,       ,                        
+0000004 040  MC1     one                      N1 T3 T1.2 
+0000004 050  IO      of                       Z5 
+0000004 060  NP1     America                  Z2 
+0000004 061  GE      's                       Z5 
+0000004 070  JJ      dominant                 S7.1+ A11.1+ A11.2+ 
+0000004 080  NN1     television               Q4.3c[i4.2.1 Q4.3 
+0000004 090  NN1     station                  Q4.3c[i4.2.2 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
+0000004 100  NN2     owners                   A9+/S2mf 
+0000004 101  ,       ,                        
+0000004 110  VVD     commanded                S7.1+ X9.1+ 
+0000004 120  APPGE   its                      Z8 
+0000004 130  NN2     anchors                  M4/O2 Q4.3/S2mf 
+0000004 140  TO      to                       Z5 
+0000004 150  VVI     deliver                  M2 Q2.1 X9.2+ B3 S9% 
+0000004 160  AT1     a                        Z5 
+0000004 170  JJ@     scripted                 Z99 
+0000004 180  NN1     commentary               Q2.1 
+0000004 181  ,       ,                        
+0000004 190  NN1     warning                  X2.2+/A15- A1.3+ 
+0000004 200  NN2     audiences                K1/S2mfc S2mfc 
+0000004 210  II      about                    Z5 
+0000004 211  NULL    <quote>                  
+0000004 212  -----   -----                    
+0000004 220  PN1     one                      S1.1.2-[i5.2.1 O4.4[i5.2.1 Z8 
+0000004 230  VVD     sided                    S1.1.2-[i5.2.2 O4.4[i5.2.2 S5+ 
+0000004 240  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000004 250  NN2     stories                  Q2.1 X4.1 
+0000004 260  VVG     plaguing                 X7- 
+0000004 270  APPGE   our                      Z8 
+0000004 280  NN1     country                  G1.1c W3 F4/M7 K2 
+0000004 281  NULL    </quote>                 
+0000004 282  -----   -----                    
+0000004 290  CC      and                      Z5 
+0000004 300  NN      media                    Q4c 
+0000004 310  NN2     outlets                  Q2.1 I2.2 I2.2/H1 H2 A1.1.1 
+0000004 320  CST     that                     Z8 Z5 
+0000004 330  VV0     publish                  Q4 
+0000004 331  NULL    <quote>                  
+0000004 332  -----   -----                    
+0000004 340  JJ      fake                     A5.4- 
+0000004 350  NN2     stories                  Q2.1 X4.1 
+0000004 360  CST     that                     Z8 Z5 
+0000004 370  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000004 380  VBR     are                      A3+ Z5 
+0000004 381  XX      n't                      Z6 
+0000004 390  JJ      true                     A5.2+ A5.4+ 
+0000004 391  .       .                        
+0000004 392  NULL    </quote>                 
+0000004 393  -----   -----                    
+0000006 010  DD1     This                     Z8 M6 Z5 
+0000006 020  VM      might                    A7+ 
+0000006 030  VVI     sound                    A6.1+[i6.2.1 X3.2 Q2.2 A8 N3.1% 
+0000006 040  II      like                     A6.1+[i6.2.2 Z5 
+0000006 050  AT1     a                        Z5 
+0000006 060  NN      media                    Q4c 
+0000006 070  NN1     literacy                 Q1.2 
+0000006 080  NN1     lesson                   P1 S9/Q4.1 
+0000006 081  ,       ,                        
+0000006 090  VVN     offered                  A9- Q2.2 
+0000006 100  II      in                       Z5 
+0000006 110  AT      the                      Z5 
+0000006 120  JJ      public                   S5+ A10+ 
+0000006 130  NN1     interest                 X5.2+ I1.1 S8+ S1.1.3+ 
+0000006 131  .       .                        
+0000006 132  -----   -----                    
+0000006 140  CCB     But                      Z5 
+0000006 150  AT      the                      Z5 
+0000006 160  NN1     invocation               Q2.2/S9 
+0000006 170  IO      of                       Z5 
+0000006 171  NULL    <quote>                  
+0000006 172  -----   -----                    
+0000006 180  JJ      biased                   E2++ G2.2- 
+0000006 190  CC      and                      Z5 
+0000006 200  JJ      false                    A5.2- A5.4- G2.2- 
+0000006 210  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000006 211  NULL    </quote>                 
+0000006 212  -----   -----                    
+0000006 220  RR      so                       Z5 A13.3 
+0000006 230  RR      closely                  A13.4 A4.2+ N3.3- 
+0000006 240  VVZ     echoes                   X3.2 
+0000006 250  NN2     charges                  I1.3 O3 G2.1 M1 G3% 
+0000006 260  II      from                     Z5 
+0000006 270  AT      the                      Z5 
+0000006 280  NN1     Trump                    Z1mf 
+0000006 290  NN1     administration           S7.1+c A9- 
+0000006 300  CST     that                     Z5 Z8 
+0000006 310  DA2     many                     N5+ 
+0000006 320  NN2     observers                X3.4/S2mf Q4.2/I3.2/S2mf 
+0000006 330  VVD     cried                    E4.1- Q2.2 
+0000006 340  NN1     foul                     K5.1/S7.4- 
+0000006 341  .       .                        
+0000007 001  -----   -----                    
+0000008 010  NP1     Sinclair                 Z1mf 
+0000008 011  GE      's                       Z5 
+0000008 020  NN1     record                   Q1.2 K3 T1.1.1 A5.1+++ 
+0000008 030  IO      of                       Z5 
+0000008 040  NN1     broadcasting             Q4.3 
+0000008 050  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000008 060  JJ      content                  E4.2+ 
+0000008 070  JJ      favorable                A5.1+ S8+ 
+0000008 080  II      to                       Z5 
+0000008 090  AT      the                      Z5 
+0000008 100  NN1     Trump                    Z1mf 
+0000008 110  NN1     administration           S7.1+c A9- 
+0000008 111  ,       ,                        
+0000008 120  II      including                A1.8+ 
+0000008 130  JJ@     mandated                 Z99 
+0000008 140  NN1     program                  Y2 X7+ Q4.3 Q1.2 P1 
+0000008 150  NN2     segments                 N5.1- N2@ 
+0000008 160  II21    such                     Z5[i7.2.1 
+0000008 170  II22    as                       Z5[i7.2.2 Z5 
+0000008 180  AT      the                      Z5 
+0000008 181  NULL    <quote>                  
+0000008 182  -----   -----                    
+0000008 190  NN1     Terrorism                G2.1- 
+0000008 200  JJ      Alert                    X5.1+ X2.2+ 
+0000008 210  NN1     Desk                     H5 
+0000008 211  ,       ,                        
+0000008 212  NULL    </quote>                 
+0000008 213  -----   -----                    
+0000008 220  CC      and                      Z5 
+0000008 221  NULL    <quote>                  
+0000008 222  -----   -----                    
+0000008 230  JJ      Bottom                   A11.1+++[i8.2.1 N4 M6 B1 A5.1--- 
+0000008 240  NN1     Line                     A11.1+++[i8.2.2 O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000008 250  IW      with                     Z5 
+0000008 260  NP1     Boris                    Z99 
+0000008 261  ,       ,                        
+0000008 262  NULL    </quote>                 
+0000008 263  -----   -----                    
+0000008 270  IW      with                     Z5 
+0000008 280  DA      former                   T2- N4 
+0000008 290  NN1     Trump                    Z1mf 
+0000008 300  NN1     administration           S7.1+c A9- 
+0000008 310  NN1     official                 G1.1/S2mf S7.1+/S2mf 
+0000008 320  NP1     Boris                    Z1mf[i9.2.1 Z3c[i9.2.1 
+0000008 330  NP1     Epshteyn                 Z1mf[i9.2.2 Z3c[i9.2.2 
+0000008 331  ,       ,                        
+0000008 340  VVZ     provides                 A9- S6+ 
+0000008 350  JJ      additional               N5++ 
+0000008 360  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000008 370  IO      of                       Z5 
+0000008 380  JJ      partisan                 S5+ 
+0000008 390  NN1     bias                     E2++ G2.2- B5 
+0000008 391  .       .                        
+0000009 001  -----   -----                    
+0000010 010  RR      So                       Z5 A13.3 
+0000010 011  ,       ,                        
+0000010 020  VBZ     is                       A3+ Z5 
+0000010 030  PPH1    it                       Z8 
+0000010 040  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000010 041  ,       ,                        
+0000010 050  CSA     as                       Z5 
+0000010 060  DD      some                     N5 Z5 
+0000010 070  NN2     commentators             Q2.2/S2mf 
+0000010 080  VBR     are                      Z5 A3+ 
+0000010 090  VVG     suggesting               Q2.2 Q1.1 
+0000010 091  ,       ,                        
+0000010 100  TO      to                       Z5 
+0000010 110  VVI     restore                  A2.1+ C1 A9- 
+0000010 120  AT      the                      Z5 
+0000010 130  NN1     Fairness                 G2.2+ 
+0000010 140  NN1     Doctrine                 S9 X4.1 
+0000010 141  ,       ,                        
+0000010 150  DDQ     which                    Z8 Z5 
+0000010 160  VMK     used                     T1.1.1[i10.2.1 A6.2+[i10.2.1 
+0000010 170  TO      to                       T1.1.1[i10.2.2 A6.2+[i10.2.2 Z5 
+0000010 180  VVI     require                  X7+ S6+ 
+0000010 190  NN2     broadcasters             Q4.3/S2mf 
+0000010 191  NULL    <quote>                  
+0000010 192  -----   -----                    
+0000010 200  TO      to                       Z5 
+0000010 210  VVI     present                  A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4 
+0000010 220  JJ      controversial            A6.2- 
+0000010 230  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000010 240  IO      of                       Z5 
+0000010 250  JJ      public                   S5+ A10+ 
+0000010 260  NN1     importance               A11.1+ 
+0000010 270  CC      and                      Z5 
+0000010 280  TO      to                       Z5 
+0000010 290  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000010 300  RR      so                       Z5 A13.3 
+0000010 310  II      in                       Z5 
+0000010 320  AT1     a                        Z5 
+0000010 330  NN1     manner                   S1.1.1 X4.2 
+0000010 340  CST     that                     Z8 Z5 
+0000010 350  VBDZ    was                      A3+ Z5 
+0000010 360  JJ      fair                     G2.2+ A5.1+ O4.2+ O4.3 W4 N5 
+0000010 370  CC      and                      Z5 
+0000010 380  JJ      balanced                 A5.3+ A5.1+ E3+/S1.2.6+ O4.1 
+0000010 381  NULL    </quote>                 
+0000010 382  -----   -----                    
+0000010 383  ?       ?                        
+0000010 384  -----   -----                    
+0000010 390  DD1     That                     Z5 Z8 
+0000010 400  NN1     policy                   X7+ Q1.2 
+0000010 401  ,       ,                        
+0000010 410  VVN     adopted                  A9+ S4 
+0000010 420  II      by                       Z5 
+0000010 430  AT      the                      Z5 
+0000010 440  JJ      Federal                  S5+ 
+0000010 450  NN2     Communications           Q2.1 Q1.2 Q1.3 Q4.3 
+0000010 460  NN1     Commission               A1.1.1 I1.1/I2.2 G1.1 G3/S7.1+ 
+0000010 470  II      in                       Z5 
+0000010 480  MC      1949                     N1 T1.2 T3 T1.3 N3.2 
+0000010 481  ,       ,                        
+0000010 490  VBDZ    was                      Z5 A3+ 
+0000010 500  VVN     repealed                 T2- 
+0000010 510  II      in                       Z5 
+0000010 520  MC      1987                     N1 T1.2 T3 T1.3 N3.2 
+0000010 521  .       .                        
+0000010 522  -----   -----                    
+0000010 530  PPH1    It                       Z8 
+0000010 540  RR      supposedly               X2.1 
+0000010 550  JJ      sustained                T2++ A2.2 S8+ A9+ A1.1.1 B1 
+0000010 560  JJ      responsible              A2.2 S6+ S7.1 S1.2.6+ X6+ 
+0000010 570  JJ      political                G1.2 
+0000010 580  NN1     debate                   Q2.2 
+0000010 590  II      on                       Z5 
+0000010 600  AT      the                      Z5 
+0000010 610  NN1     nation                   G1.1c S5+c 
+0000010 611  GE      's                       Z5 
+0000010 620  NN2     airwaves                 Q4.3 
+0000010 630  CS      until                    Z5 
+0000010 640  APPGE   its                      Z8 
+0000010 650  NN1     disappearance            A10- M1 A3- 
+0000010 660  II      during                   Z5 
+0000010 670  AT      the                      Z5 
+0000010 680  NP1     Reagan                   Z1mf 
+0000010 690  NN1     administration           S7.1+c A9- 
+0000010 691  .       .                        
+0000011 001  -----   -----                    
+0000012 010  PPIS1   I                        Z8mf 
+0000012 020  VM      would                    A7+ 
+0000012 030  VVI     argue                    Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 
+0000012 040  DD1     that                     Z5 Z8 
+0000012 050  JJ      nostalgic                T1.1.1 
+0000012 060  NN2     calls                    Q2.2 S1.1.1 Q1.3 X7+ S9% 
+0000012 070  IF      for                      Z5 
+0000012 080  AT      the                      Z5 
+0000012 090  NN1     restoration              A2.1+ C1 A9- T1.1.1% 
+0000012 100  IO      of                       Z5 
+0000012 110  AT1     a                        Z5 
+0000012 120  JJ      golden                   O4.3 A11.1+ A5.1+ 
+0000012 130  NN1     age                      T3 T1.3 
+0000012 140  IO      of                       Z5 
+0000012 150  JJ      civil                    G1.1 S1.2.4+ G2.1 H1% 
+0000012 160  JJ      political                G1.2 
+0000012 170  NN1     discussion               Q2.1 Q2.2 
+0000012 180  II      on                       Z5 
+0000012 190  NP1     America                  Z2 
+0000012 191  GE      's                       Z5 
+0000012 200  NN2     airwaves                 Q4.3 
+0000012 210  VV0@    mistake                  A5.3- 
+0000012 220  DDQ     what                     Z8 Z5 
+0000012 230  RR      actually                 A5.4+ A14 
+0000012 240  VVD     happened                 A2.1+ A3+ X7- 
+0000012 250  II      in                       Z5 
+0000012 260  DD2     those                    Z5 Z8 
+0000012 270  NNT2    decades                  T1.3 
+0000012 271  .       .                        
+0000013 001  -----   -----                    
+0000014 010  NNT1    Airtime                  Q4.3 N5.1/T1.1 
+0000014 020  IF      for                      Z5 
+0000014 030  NN2     Nazis                    G1.2 G1.2/S2mf 
+0000014 031  ,       ,                        
+0000014 040  NN2     socialists               G1.2/S2mf 
+0000014 041  ,       ,                        
+0000014 050  NN2     communists               G1.2/S2mf 
+0000016 010  NN1     Politics                 G1.2c 
+0000016 020  CC      and                      Z5 
+0000016 030  NN1     broadcasting             Q4.3 
+0000016 040  VH0     have                     Z5 A9+ A2.2 S4 
+0000016 050  VBN     been                     Z5 A3+ 
+0000016 060  RR      consistently             A6.1+ 
+0000016 070  VVN     intertwined              A2.2 O4.1 
+0000016 080  II      in                       Z5 
+0000016 090  JJ      American                 Z2 
+0000016 100  NN1     history                  T1.1.1 P1/T1.1.1 Q2.1 B2 
+0000016 101  .       .                        
+0000016 102  -----   -----                    
+0000016 110  CSA     As                       Z5 
+0000016 120  PPIS1   I                        Z8mf 
+0000016 130  VH0     have                     Z5 A9+ A2.2 S4 
+0000016 140  VVN     found                    A10+ X2.1 X6+.1 
+0000016 150  II      in                       Z5 
+0000016 160  APPGE   my                       Z8[i11.2.1 Z8 
+0000016 170  DA      own                      Z8[i11.2.2 A9+ S5- 
+0000016 180  NN1     research                 X2.4 
+0000016 181  ,       ,                        
+0000016 190  AT      the                      Z5 
+0000016 200  JJ      commercial               I2.1 
+0000016 210  NN1     broadcasting             Q4.3/S5+c[i12.2.1 Q4.3 
+0000016 220  NN1     community                Q4.3/S5+c[i12.2.2 S5+c 
+0000016 221  (       (                        
+0000016 230  II      including                A1.8+ 
+0000016 240  NN2     advertisers              I2.2/Q2.1/S2mf Z3c/Q4.2 
+0000016 241  )       )                        
+0000016 250  VHZ     has                      Z5 A9+ A2.2 S4 
+0000016 260  RR      consistently             A6.1+ 
+0000016 270  VVN     aligned                  S5+ O4.4 M2 A6.1+/A2.1 
+0000016 280  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000016 290  NN1     content                  Q2.1 A1.8+ N5 E4.1+% 
+0000016 300  CC      and                      Z5 
+0000016 310  NN1     commentary               Q2.1 
+0000016 320  II      in                       Z5 
+0000016 330  NN2     ways                     X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000016 340  JJ      favorable                A5.1+ S8+ 
+0000016 350  II      to                       Z5 
+0000016 360  AT      the                      Z5 
+0000016 370  NP1     White                    Z3c[i13.2.1 Z2[i13.2.1 Z1mf 
+0000016 380  NN1     House                    Z3c[i13.2.2 Z2[i13.2.2 H1 P1/S5+c G1.1c 
+0000016 381  .       .                        
+0000017 001  -----   -----                    
+0000018 010  CCB     But                      Z5 
+0000018 020  DA      such                     Z5 Z8 
+0000018 030  NN2     episodes                 A3+/A11.1+ A6.2- Q4 B2- 
+0000018 040  VBR     are                      Z5 A3+ 
+0000018 050  RR      often                    N6+ 
+0000018 060  RR      conveniently             A12+ S8+ 
+0000018 070  VVN     forgotten                X2.2- 
+0000018 071  .       .                        
+0000019 001  -----   -----                    
+0000020 010  CSA     As                       Z5 
+0000020 020  NP1     Mitchell                 Z1mf[i14.2.1 Z3c[i14.2.1 Z1mf 
+0000020 030  NP1     Stephens                 Z1mf[i14.2.2 Z3c[i14.2.2 Z1m 
+0000020 031  GE      '                        Z5 
+0000020 040  JJ      new                      T3- 
+0000020 050  NN1     biography                Q4.1 
+0000020 060  IO      of                       Z5 
+0000020 070  NN1     journalist               Q4.2/I3.2/S2mf 
+0000020 080  NP1     Lowell                   Z1mf[i15.2.1 Z3c[i15.2.1 
+0000020 090  NP1     Thomas                   Z1mf[i15.2.2 Z3c[i15.2.2 Z1mf 
+0000020 100  VVZ     recounts                 Q2.1 N1/N6+ 
+0000020 101  ,       ,                        
+0000020 110  CC      and                      Z5 
+0000020 120  RG@     as                       A13 
+0000020 130  JJ      numerous                 N5+ 
+0000020 140  JJR     earlier                  N4 T1.1.1 T4++ 
+0000020 150  NN2     scholars                 P1/S2mf 
+0000020 160  VVD@    detailed                 Q2.2 
+0000020 161  ,       ,                        
+0000020 170  NP1     U.S.                     Z8 
+0000020 180  NN1     broadcast                Q4.3 
+0000020 190  NN1     journalism               Q4.2 
+0000020 200  VVD     originated               T2+ 
+0000020 210  RRR     more                     A13.3 N6++ 
+0000020 220  II@     as                       Z5 
+0000020 230  JJ      subjective               E1 
+0000020 240  CC      and                      Z5 
+0000020 250  JJ      biased                   E2++ G2.2- 
+0000020 260  NN1     commentary               Q2.1 
+0000020 270  CSN     than                     Z5 
+0000020 280  II@     as                       Z5 
+0000020 290  NN1     reportage                Q4 
+0000020 291  .       .                        
+0000021 001  -----   -----                    
+0000022 010  AT      The                      Z5 
+0000022 020  JJ      vast                     N3.2+ N5+ 
+0000022 030  NN1     majority                 N5+++c 
+0000022 040  IO      of                       Z5 
+0000022 050  MC2     1930s                    T1.3 N1 T3 
+0000022 060  NN1     radio                    Q4.3 Q1.3 
+0000022 061  NULL    <quote>                  
+0000022 062  -----   -----                    
+0000022 070  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000022 071  NULL    </quote>                 
+0000022 072  -----   -----                    
+0000022 080  VBDZ    was                      A3+ Z5 
+0000022 090  RR      politically              G1.2 
+0000022 100  JJ      slanted                  O4.4 S5+ 
+0000022 110  NN1     analysis                 X2.4 Y1 
+0000022 120  II      by                       Z5 
+0000022 130  JJ      veteran                  G3/S2mf T3+/S2mf 
+0000022 140  NN2     journalists              Q4.2/I3.2/S2mf 
+0000022 150  II      like                     Z5 
+0000022 160  NP1     Thomas                   Z1mf 
+0000022 161  ,       ,                        
+0000022 170  NP1     H.V.                     Z1mf[i16.2.1 Z3c[i16.2.1 
+0000022 180  NP1     Kaltenborn               Z1mf[i16.2.2 Z3c[i16.2.2 
+0000022 190  CC      and                      Z5 
+0000022 200  NP1     Boake                    Z1mf[i17.2.1 Z3c[i17.2.1 
+0000022 210  NP1     Carter                   Z1mf[i17.2.2 Z3c[i17.2.2 Z1 
+0000022 211  .       .                        
+0000022 212  -----   -----                    
+0000022 220  NP1@    Kaltenborn               Z99 
+0000022 221  ,       ,                        
+0000022 230  REX21   for                      Z5[i18.2.1 
+0000022 240  REX22   example                  Z5[i18.2.2 
+0000022 241  ,       ,                        
+0000022 250  VBDZ    was                      A3+ Z5 
+0000022 260  JJ      notable                  A11.2+ A11.1+ 
+0000022 270  IF      for                      Z5 
+0000022 280  APPGE   his                      Z8m 
+0000022 290  JJ      anti-union               G1.2 
+0000022 300  NN2     commentaries             Q2.1 
+0000022 301  .       .                        
+0000023 001  -----   -----                    
+0000024 010  AT      The                      Z5 
+0000024 020  JJ      uncertain                A7- 
+0000024 030  NN1     nature                   W5 A4.1 S1.2 A6.2+ 
+0000024 040  IO      of                       Z5 
+0000024 050  JJ      early                    T4+ T1.1.1 
+0000024 060  NN1     broadcast                Q4.3 
+0000024 070  NN1     regulation               G2.1 A1.7+/G1.1 
+0000024 071  ,       ,                        
+0000024 080  VVN     combined                 A2.2 A1.8+ S5+c F4 
+0000024 090  IW      with                     Z5 
+0000024 100  NN1     pressure                 N3.5 S7.1+ E6- 
+0000024 110  II      from                     Z5 
+0000024 120  JJ@     organized                S7.1+ O4.1 S5+@ 
+0000024 130  NN1     interest                 X5.2+ I1.1 S8+ S1.1.3+ 
+0000024 140  NN2     groups                   S5+ A4.1 B3% 
+0000024 150  CC      and                      Z5 
+0000024 160  NN2     politicians              G1.2/S2mf 
+0000024 161  ,       ,                        
+0000024 170  DB      all                      N5.1+ 
+0000024 180  VVD     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000024 190  AT      the                      Z5 
+0000024 200  JJ      exact                    A5.3+ 
+0000024 210  NN2     parameters               A1.7+ N3.1 N2 
+0000024 220  IO      of                       Z5 
+0000024 230  JJ      political                G1.2 
+0000024 240  NN1     speech                   Q2.1 Q3 
+0000024 250  II      on                       Z5 
+0000024 260  JJ      American                 Z2 
+0000024 270  NN1     radio                    Q4.3 Q1.3 
+0000024 280  JJ      ambiguous                Q3 A7- 
+0000024 290  II      in                       Z5 
+0000024 300  AT      the                      Z5 
+0000024 310  MC2     1930s                    T1.3 N1 T3 
+0000024 311  .       .                        
+0000025 001  -----   -----                    
+0000026 010  NN1     Library                  Q4.1/H1c 
+0000026 020  IO      of                       Z5 
+0000026 030  NN1     Congress                 Z3c 
+0000026 031  ,       ,                        
+0000026 040  NP1     CC                       N3.4 
+0000026 050  II      BY                       Z5 
+0000028 010  RR      So                       Z5 A13.3 
+0000028 020  AT      the                      Z5 
+0000028 030  NN2     networks                 S5+ Q4.3 Y2 
+0000028 040  VVD     lent                     A9- 
+0000028 050  APPGE   their                    Z8 
+0000028 060  NN2     microphones              Q2.1/O3 
+0000028 070  II      to                       Z5 
+0000028 080  AT1     a                        Z5 
+0000028 090  JJ      wide                     N3.7+ N5+ A4.2- A6.3+ X9.2-@ K5.1@ 
+0000028 100  NN1     range                    N3.3 K2 A6.3+ N5 A4.1 M7/K5.1 M7/G3 N2 W3 F1/O2 
+0000028 110  IO      of                       Z5 
+0000028 120  NN2     views                    X2.1 X3.4 
+0000028 130  II      from                     Z5 
+0000028 140  AT      the                      Z5 
+0000028 150  NN2     quasi-fascists           Z99 
+0000028 160  II      like                     Z5 
+0000028 170  NNB     Father                   Z1m[i19.2.1 
+0000028 180  NP1     Charles                  Z1m[i19.2.2 Z1m Z1mf[i20.2.1 Z3c[i20.2.1 
+0000028 190  NP1     Coughlin                 Z99 Z1mf[i20.2.2 Z3c[i20.2.2 
+0000028 191  (       (                        
+0000028 200  AT      the                      Z5 
+0000028 201  NULL    <quote>                  
+0000028 202  -----   -----                    
+0000028 210  NN1     Radio                    Q4.3 Q1.3 
+0000028 220  NN1     Priest                   S9/S2mf 
+0000028 221  NULL    </quote>                 
+0000028 222  -----   -----                    
+0000028 223  )       )                        
+0000028 224  ,       ,                        
+0000028 230  TO      to                       Z5 
+0000028 240  VVI     homespun                 Z99 
+0000028 250  NN2     socialists               G1.2/S2mf 
+0000028 260  II      like                     Z5 
+0000028 270  NP1     Huey                     Z99 
+0000028 280  JJ      Long                     N3.7+ T1.3+ N3.3+ N3.2+ 
+0000028 290  CC      and                      Z5 
+0000028 300  NN1     union                    I3.1/S5+c S5+c S4 Z3c 
+0000028 310  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000028 320  II      like                     Z5 
+0000028 330  AT      the                      Z5 
+0000028 340  JJ      American                 Z2 
+0000028 350  NN1     Federation               S5+c 
+0000028 360  IO      of                       Z5 
+0000028 370  NN1     Labor                    A1.1.1 A12- I3.1/S5+ B1 
+0000028 371  GE      's                       Z5 
+0000028 380  NP1     William                  Z2[i21.2.1 Z1m Z1mf[i22.2.1 Z3c[i22.2.1 
+0000028 390  NP1@    Green                    Z2[i21.2.2 Z1mf[i22.2.2 Z3c[i22.2.2 
+0000028 391  .       .                        
+0000028 392  -----   -----                    
+0000028 400  CSA     As                       Z5 
+0000028 410  NP1     Douglas                  Z1mf[i23.2.1 Z3c[i23.2.1 Z1m 
+0000028 420  NP1     Craig                    Z1mf[i23.2.2 Z3c[i23.2.2 Z1mf 
+0000028 421  ,       ,                        
+0000028 430  NP1     David                    Z1mf[i24.2.1 Z3c[i24.2.1 Z1m 
+0000028 440  NP1     Goodman                  Z1mf[i24.2.2 Z3c[i24.2.2 Z1mf 
+0000028 450  CC      and                      Z5 
+0000028 460  JJ      numerous                 N5+ 
+0000028 470  JJ      other                    A6.1- 
+0000028 480  NN2     scholars                 P1/S2mf 
+0000028 490  VH0     have                     Z5 A9+ A2.2 S4 
+0000028 500  VVN     pointed                  A10+[i25.2.1 A10+ M6 H1 
+0000028 510  RP      out                      A10+[i25.2.2 M6 
+0000028 511  ,       ,                        
+0000028 520  JJ      political                G1.2 
+0000028 530  NN1     broadcasting             Q4.3 
+0000028 540  II      in                       Z5 
+0000028 550  AT      the                      Z5 
+0000028 560  MC2     1930s                    T1.3 N1 T3 
+0000028 570  VBDZ    was                      A3+ Z5 
+0000028 580  JJ      vibrant                  X5.2+ O4.3 
+0000028 581  ,       ,                        
+0000028 590  JJ      fertile                  O4.1 B1 X9.2+ 
+0000028 600  CC      and                      Z5 
+0000028 610  JJ      diverse                  A6.3+ 
+0000028 620  II      to                       A13.5[i26.3.1 Z5 
+0000028 630  AT1     an                       A13.5[i26.3.2 Z5 
+0000028 640  NN1     extent                   A13.5[i26.3.3 N5 N3.6 
+0000028 650  JJ      unmatched                A6.1- 
+0000028 660  II      to                       Z5 
+0000028 670  AT      the                      Z5 
+0000028 680  JJ      present                  T1.1.2[i27.2.1 T1.1.2 A3+ 
+0000028 690  NNT1    day                      T1.1.2[i27.2.2 T1.3 
+0000028 691  .       .                        
+0000029 001  -----   -----                    
+0000030 010  REX21   For                      Z5[i28.2.1 
+0000030 020  REX22   example                  Z5[i28.2.2 
+0000030 021  :       :                        
+0000030 030  II      In                       Z5 
+0000030 040  MC      1936                     N1 T1.2 T3 T1.3 N3.2 
+0000030 041  ,       ,                        
+0000030 050  RR      both                     Z5 
+0000030 060  NP1     CBS                      Q1.3 
+0000030 070  CC      and                      Z5 
+0000030 080  NP1     NBC                      Z99 
+0000030 090  VVD     aired                    B4 Q2.1 
+0000030 100  JJ      Nazi                     G1.2 
+0000030 110  NN1     propaganda               G1.2 
+0000030 120  II      from                     Z5 
+0000030 130  AT      the                      Z5 
+0000030 140  NP1     Berlin                   Z1mf[i29.2.1 Z3c[i29.2.1 Z2 Z1mf Z3c 
+0000030 150  JJ      Olympic                  Z1mf[i29.2.2 Z3c[i29.2.2 Z3c 
+0000030 160  NN2     Games                    K5.1 K5.2 A1.1.1 
+0000030 161  .       .                        
+0000030 162  -----   -----                    
+0000030 170  PPHS2   They                     Z8mfn 
+0000030 180  RR      also                     N5++ 
+0000030 190  VV0     broadcast                Q4.3 
+0000030 200  JJ      live                     L1+ A3+ Q4.3 K2/K3 K1 O3 G3 
+0000030 210  II      from                     Z5 
+0000030 220  AT      the                      Z5 
+0000030 230  JJ      Communist                G1.2[i30.2.1 G1.2 
+0000030 240  NN1     Party                    G1.2[i30.2.2 K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000030 250  IO      of                       Z5 
+0000030 260  AT      the                      Z5 
+0000030 270  NP1     United                   Z2c[i33.2.1 Z2c[i32.2.1 Z3c Z1mf[i31.2.1 Z3c[i31.2.1 
+0000030 280  NP1     States                   Z2c[i33.2.2 Z2c[i32.2.2 Z2 Z1mf[i31.2.2 Z3c[i31.2.2 
+0000030 290  IO      of                       Z5 
+0000030 300  NP1     America                  Z2 
+0000030 310  VVG     nominating               X7+/Q2.2 
+0000030 320  NN1     convention               A6.2+ S1.1.3+ A6.1+/G1.1 
+0000030 321  .       .                        
+0000030 322  -----   -----                    
+0000030 330  NN2     Programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000030 340  VV0@    like                     E2+ 
+0000030 341  NULL    <quote>                  
+0000030 342  -----   -----                    
+0000030 350  NN1     University               Z3c[i34.3.1 P1/H1c 
+0000030 360  IO      of                       Z3c[i34.3.2 Z5 
+0000030 370  NP1     Chicago                  Z3c[i34.3.3 Z2 Z3c Z1mf[i35.2.1 Z3c[i35.2.1 
+0000030 380  NP1     Roundtable               S1.1.3+ Z1mf[i35.2.2 Z3c[i35.2.2 
+0000030 381  ,       ,                        
+0000030 382  NULL    </quote>                 
+0000030 383  -----   -----                    
+0000030 390  CC      and                      Z5 
+0000030 391  NULL    <quote>                  
+0000030 392  -----   -----                    
+0000030 400  NP1     America                  Z2 
+0000030 401  GE      's                       Z5 
+0000030 410  NNL1    Town                     M7 
+0000030 420  NN1     Meeting                  S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+ 
+0000030 430  IO      of                       Z5 
+0000030 440  AT      the                      Z5 
+0000030 450  NN1     Air                      O1.3 A8 W1 Q4.3 M1 
+0000030 451  NULL    </quote>                 
+0000030 452  -----   -----                    
+0000030 460  VVN     aired                    B4 Q2.1 
+0000030 470  JJ      provocative              X5.2+ E3- S3.2 
+0000030 480  JJ      political                G1.2 
+0000030 490  NN1     discussion               Q2.1 Q2.2 
+0000030 500  CST     that                     Z8 Z5 
+0000030 510  VVD     engaged                  A1.1.1 S1.1.3+ X5.2+ I3.1 G3@ 
+0000030 520  CC      and                      Z5 
+0000030 530  JJ      educated                 P1 
+0000030 540  JJ      American                 Z2 
+0000030 550  NN2     audiences                K1/S2mfc S2mfc 
+0000030 560  II      by                       Z5 
+0000030 570  VVG     exposing                 A10+ A15- G2.2-/S3.2 
+0000030 580  PPHO2   them                     Z8mfn 
+0000030 590  II      to                       Z5 
+0000030 600  JJ      diverse                  A6.3+ 
+0000030 610  NN2     viewpoints               X2.1 X4.1 X3.4/M7 
+0000030 611  .       .                        
+0000031 001  -----   -----                    
+0000032 010  NN2     Airwaves                 Q4.3 
+0000032 020  VV0     rein                     O2 A1.7+ S7.1+ 
+0000032 030  PPX2    themselves               Z8 
+0000032 040  RP@     in                       M6 
+0000034 010  CCB     But                      Z5 
+0000034 020  CSA     as                       Z5 
+0000034 030  NN1     war                      G3 S7.3 
+0000034 040  VVD     neared                   M1/N3.3- 
+0000034 041  ,       ,                        
+0000034 050  NP1     U.S.                     Z8 
+0000034 060  JJ      political                G1.2 
+0000034 070  NN1     broadcasting             Q4.3 
+0000034 080  VVD     narrowed                 N3.7- N5- 
+0000034 090  APPGE   its                      Z8 
+0000034 100  NN1     range                    N3.3 K2 A6.3+ N5 A4.1 M7/K5.1 M7/G3 N2 W3 F1/O2 
+0000034 101  .       .                        
+0000035 001  -----   -----                    
+0000036 010  AT      The                      Z5 
+0000036 020  NP1     Roosevelt                Z99 
+0000036 030  NN1     administration           S7.1+c A9- 
+0000036 040  VVD     began                    T2+ 
+0000036 050  TO      to                       Z5 
+0000036 060  RR      carefully                A1.3+ 
+0000036 070  VVI     police                   G2.1 G2.2 
+0000036 080  AT      the                      Z5 
+0000036 090  NN2     airwaves                 Q4.3 
+0000036 091  .       .                        
+0000036 092  -----   -----                    
+0000036 100  NP1     CBS                      Q1.3 
+0000036 101  GE      '                        Z5 
+0000036 110  RR      highly                   A13.3 
+0000036 120  VVN     rated                    A5.1 
+0000036 130  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000036 140  NN1     commentator              Q2.2/S2mf 
+0000036 141  ,       ,                        
+0000036 150  NP1     Boake                    Z1mf[i36.2.1 Z3c[i36.2.1 
+0000036 160  NP1     Carter                   Z1mf[i36.2.2 Z3c[i36.2.2 Z1 
+0000036 161  ,       ,                        
+0000036 170  VHD     had                      Z5 A9+ A2.2 S4 
+0000036 180  RR      often                    N6+ 
+0000036 190  VVN     criticized               Q2.2/E2- 
+0000036 200  NNB     President                G1.1/S7.1+/S2mf 
+0000036 210  NP1     Roosevelt                Z99 
+0000036 211  GE      's                       Z5 
+0000036 220  NN2     policies                 X7+ Q1.2 
+0000036 221  .       .                        
+0000036 222  -----   -----                    
+0000036 230  CCB     But                      Z5 
+0000036 240  CS      when                     Z5 
+0000036 250  PPHS1   he                       Z8m 
+0000036 260  VVD     applauded                E2+ X3.2+ 
+0000036 270  AT      the                      Z5 
+0000036 280  NN1     Anschluss                Z99 
+0000036 281  ,       ,                        
+0000036 290  NP1     Germany                  Z2 
+0000036 291  GE      's                       Z5 
+0000036 300  NN1     annexation               A9+ G1.2 G3 
+0000036 310  IO      of                       Z5 
+0000036 320  NP1     Austria                  Z2 Z1 
+0000036 330  II      in                       Z5 
+0000036 340  MC      1938                     N1 T1.2 T3 T1.3 N3.2 
+0000036 341  ,       ,                        
+0000036 350  CC      and                      Z5 
+0000036 360  JJ@     expressed                Q1.1 B1% 
+0000036 370  NN1     admiration               S7.2+ E2+ 
+0000036 380  IF      for                      Z5 
+0000036 390  JJ      Nazi                     G1.2 
+0000036 400  NN2     policies                 X7+ Q1.2 
+0000036 401  ,       ,                        
+0000036 410  AT      the                      Z5 
+0000036 420  NP1     White                    Z3c[i37.2.1 Z2[i37.2.1 Z1mf 
+0000036 430  NN1     House                    Z3c[i37.2.2 Z2[i37.2.2 H1 P1/S5+c G1.1c 
+0000036 440  VVD     acted                    A1.1.1 T1.1.2 A8 K4 
+0000036 441  .       .                        
+0000037 001  -----   -----                    
+0000038 010  CSA     As                       Z5 
+0000038 020  NN      media                    Q4c 
+0000038 030  NN1     historian                P1/T1.1.1/S2mf 
+0000038 040  NP1     David                    Z1mf[i38.2.1 Z3c[i38.2.1 Z1m 
+0000038 050  NP1     Culbert                  Z1mf[i38.2.2 Z3c[i38.2.2 
+0000038 060  VVD     revealed                 A10+ 
+0000038 061  ,       ,                        
+0000038 070  NP1     Roosevelt                Z99 
+0000038 071  GE      's                       Z5 
+0000038 080  NN1     adviser                  S8+/S2mf 
+0000038 090  NP1     Stephen                  Z2[i40.2.1 Z3c[i40.2.1 Z1mf[i40.2.1 Z1m Z1mf[i39.2.1 Z3c[i39.2.1 
+0000038 100  NP1     T.                       Z2[i40.2.2 Z3c[i40.2.2 Z1mf[i40.2.2 Z1mf[i39.2.2 Z3c[i39.2.2 
+0000038 110  RR      Early                    T4+ 
+0000038 120  RR      secretly                 A10- 
+0000038 130  VVD     contacted                Q2.2 
+0000038 140  NP1     CBS                      Q1.3 
+0000038 150  CC      and                      Z5 
+0000038 160  NP1     Carter                   Z1 
+0000038 161  GE      's                       Z5 
+0000038 170  NN1     sponsor                  A9-/I1.1/S2mf S8+/S2mf 
+0000038 171  ,       ,                        
+0000038 180  JJ      General                  N5+ A4.2- 
+0000038 190  NN2     Foods                    F1 
+0000038 191  ,       ,                        
+0000038 200  TO      to                       Z5 
+0000038 210  VVI     silence                  X3.2- 
+0000038 220  NP1     Carter                   Z1 
+0000038 221  .       .                        
+0000038 222  -----   -----                    
+0000038 230  II      Despite                  Z5 
+0000038 240  JJ      high                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000038 250  NN2     ratings                  A5.1 M4/S2mf I1.3/H1 N5 
+0000038 260  CC      and                      Z5 
+0000038 270  AT1     a                        Z5 
+0000038 280  JJ      popular                  E2+ S5+ 
+0000038 290  NN1@    following                S5+ M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 
+0000038 291  ,       ,                        
+0000038 300  NP1     Carter                   Z1 
+0000038 301  GE      's                       Z5 
+0000038 310  NP1     CBS                      Q1.3 
+0000038 320  NN1     contract                 I2.1 G2.1 
+0000038 330  VBDZ    was                      A3+ Z5 
+0000038 340  XX      not                      Z6 
+0000038 350  JJ      renewed                  T2+/A2.1 
+0000038 351  .       .                        
+0000038 352  -----   -----                    
+0000038 360  II      Within                   Z5 
+0000038 370  NNT2    weeks                    T1.3 
+0000038 380  PPHS1   he                       Z8m 
+0000038 390  VBDZ    was                      Z5 A3+ 
+0000038 400  VVN     gone                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000038 401  .       .                        
+0000039 001  -----   -----                    
+0000040 010  NN1     Broadcasting             Q4.3 
+0000040 011  GE      's                       Z5 
+0000040 020  NN1     self-censorship          Z99 
+0000040 030  II      under                    Z5 
+0000040 040  NN1     government               G1.1c 
+0000040 050  NN1     pressure                 N3.5 S7.1+ E6- 
+0000040 060  VVN     expanded                 N3.2+/A2.1 Q2.2/N5++ A4.2-/A2.1 
+0000040 070  II      at                       Z5 
+0000040 080  AT      the                      Z5 
+0000040 090  NN1     start                    T2+ E5- 
+0000040 100  IO      of                       Z5 
+0000040 110  NN1     World                    Z3[i42.3.1 W1 S5+c A4.1 N5+ G3[i41.2.1 
+0000040 120  NN1     War                      Z3[i42.3.2 G3 S7.3 G3[i41.2.2 
+0000040 130  MC      II                       Z3[i42.3.3 N1 
+0000040 131  .       .                        
+0000040 132  -----   -----                    
+0000040 140  VVG     Circumscribing           A1.7+ 
+0000040 150  JJ      critical                 Q2.2/E2- X2.4 A11.1+ A15- 
+0000040 160  NN1     analysis                 X2.4 Y1 
+0000040 170  CC      and                      Z5 
+0000040 180  VVG     channeling               Z99 
+0000040 190  NN1     commentary               Q2.1 
+0000040 200  II      to                       Z5 
+0000040 210  AT      the                      Z5 
+0000040 220  JJ      political                G1.2 
+0000040 230  NN1     center                   M6 H1c M7c G1.2c K5.1mfn 
+0000040 240  JJ      pleased                  E4.2+ E2+ 
+0000040 250  NN2     advertisers              I2.2/Q2.1/S2mf Z3c/Q4.2 
+0000040 260  CC      and                      Z5 
+0000040 270  NN2     politicians              G1.2/S2mf 
+0000040 271  .       .                        
+0000041 001  -----   -----                    
+0000042 010  IW      With                     Z5 
+0000042 020  AT      the                      Z5 
+0000042 030  NN1     assistance               S8+ 
+0000042 040  IO      of                       Z5 
+0000042 050  DA      such                     Z5 Z8 
+0000042 060  NN1     broadcasting             Q4.3 
+0000042 070  NN2     pioneers                 T2+/S2mf 
+0000042 080  CSA     as                       Z5 
+0000042 090  NP1     Edward                   Z1mf[i44.3.1 Z3c[i44.3.1 Z1m Z1mf[i43.2.1 Z3c[i43.2.1 
+0000042 100  NP1     R.                       Z1mf[i44.3.2 Z3c[i44.3.2 Z1mf[i43.2.2 Z3c[i43.2.2 Z1mf[i45.2.1 Z3c[i45.2.1 
+0000042 110  NP1     Murrow                   Z3c[i44.3.3 Z1mf[i44.3.3 Z1mf[i45.2.2 Z3c[i45.2.2 
+0000042 111  ,       ,                        
+0000042 120  JJ      subjective               E1 
+0000042 130  NN1     radio                    Q4.3 Q1.3 
+0000042 140  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000042 150  NN1     commentary               Q2.1 
+0000042 160  VVD     morphed                  A2.1+/N3.8+ Y2 
+0000042 170  II      into                     Z5 
+0000042 180  AT      the                      Z5 
+0000042 190  NN1     type                     A4.1 A6.2+ S1.2 Q1.2 
+0000042 200  IO      of                       Z5 
+0000042 210  JJ      observational            X3.4 X2.4 
+0000042 220  NN1     reporting                Q2.2 S7.1- 
+0000042 230  RT      now                      T1.1.2 Z4 
+0000042 240  VVN     identified               X2.2+ A10+ X2.5+ 
+0000042 250  CSA     as                       Z5 
+0000042 260  VVN     broadcast                Q4.3 
+0000042 270  NN1     journalism               Q4.2 
+0000042 271  .       .                        
+0000043 001  -----   -----                    
+0000044 010  AT      The                      Z5 
+0000044 020  RGT     most                     A13.2 
+0000044 030  JJ      famous                   X2.2+ 
+0000044 040  NN1     example                  A4.1 
+0000044 050  IO      of                       Z5 
+0000044 060  DD1     this                     M6 Z5 Z8 
+0000044 070  NN1@    shift                    A2.1+ S5+c T1.3/I3.1 
+0000044 080  VVD     occurred                 A2.1+ A3+ X2.1 
+0000044 090  II      in                       Z5 
+0000044 100  MC      1943                     N1 T1.2 T3 T1.3 N3.2 
+0000044 101  .       .                        
+0000044 102  -----   -----                    
+0000044 110  DD1     That                     Z5 Z8 
+0000044 120  NNT1    year                     T1.3 P1c 
+0000044 130  NP1     Cecil                    Z1mf[i46.2.1 Z3c[i46.2.1 Z1mf 
+0000044 140  NP1     Brown                    Z1mf[i46.2.2 Z3c[i46.2.2 Z1mf 
+0000044 141  ,       ,                        
+0000044 150  NP1     CBS                      Q1.3 
+0000044 151  GE      's                       Z5 
+0000044 160  JJ      top-rated                Z99 
+0000044 170  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000044 180  NN1     analyst                  Y2/S2mf I2.1/S2mf Y1/S2mf B3/S2mf 
+0000044 190  CC      and                      Z5 
+0000044 200  NN1     author                   Q4.1/S2mf 
+0000044 210  IO      of                       Z5 
+0000044 220  AT      the                      Z5 
+0000044 230  JJ      best-selling             X9.2++ 
+0000044 231  NULL    <quote>                  
+0000044 232  -----   -----                    
+0000044 240  NP1     Suez                     Z99 
+0000044 250  II      to                       Z5 
+0000044 260  NP1     Singapore                Z2 
+0000044 261  ,       ,                        
+0000044 262  NULL    </quote>                 
+0000044 263  -----   -----                    
+0000044 270  VVN     dared                    E5+ 
+0000044 280  TO      to                       Z5 
+0000044 290  VVI     criticize                Q2.2/E2- 
+0000044 300  AT      the                      Z5 
+0000044 310  NN1     war                      G3[i47.2.1 G3 S7.3 
+0000044 320  NN1     effort                   G3[i47.2.2 X8+ O2 
+0000044 330  PPHS1   he                       Z8m 
+0000044 340  VVD     witnessed                X3.4 G2.1 A10+@ S9 
+0000044 350  II      on                       Z5 
+0000044 360  AT      the                      Z5 
+0000044 370  JJ      American                 Z2 
+0000044 380  NN1     homefront                Z99 
+0000044 381  .       .                        
+0000044 382  -----   -----                    
+0000044 390  NP1     Brown                    Z1mf 
+0000044 400  VBDZ    was                      Z5 A3+ 
+0000044 410  VVN     fired                    I3.1- G3 M2 A2.2 Q2.2 
+0000044 411  ,       ,                        
+0000044 420  CC      and                      Z5 
+0000044 430  APPGE   his                      Z8m 
+0000044 440  NN1     dismissal                A11.1- X2.1- I3.1- S7.4+/M1 G2.1 
+0000044 450  VVD     proved                   A5.2+ X2.4 
+0000044 460  AT1     a                        Z5 
+0000044 470  NN1     warning                  X2.2+/A15- A1.3+ 
+0000044 480  II      to                       Z5 
+0000044 490  AT1     every                    N5.1+[i48.3.1 N5.1+ 
+0000044 500  JJ      other                    N5.1+[i48.3.2 A6.1- 
+0000044 510  NN1     broadcast                N5.1+[i48.3.3 Q4.3 
+0000044 520  NN1     commentator              Q2.2/S2mf 
+0000044 521  .       .                        
+0000045 001  -----   -----                    
+0000046 010  XX      Not                      Z6 
+0000046 020  PN1     everyone                 Z8/N5.1+c 
+0000046 030  VBDZ    was                      A3+ Z5 
+0000046 040  JJ      happy                    E4.1+ E4.2+ 
+0000046 050  IW      with                     Z5 
+0000046 060  AT      the                      Z5 
+0000046 070  NN1     neutering                Z99 
+0000046 080  IO      of                       Z5 
+0000046 090  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000046 100  CC      and                      Z5 
+0000046 110  NN1     opinion                  X2.1 X2.1/A5 X6+ 
+0000046 120  II      on                       Z5 
+0000046 130  JJ      American                 Z2 
+0000046 140  NN2     airwaves                 Q4.3 
+0000046 141  .       .                        
+0000046 142  -----   -----                    
+0000046 150  II31    In                       A2.2[i49.3.1 Z5 
+0000046 160  II32    response                 A2.2[i49.3.2 
+0000046 170  II33    to                       A2.2[i49.3.3 Z5 
+0000046 180  AT      the                      Z5 
+0000046 190  JJ@     Brown                    Z1mf 
+0000046 200  NN1     firing                   I3.1- G3 M2 A2.2 Q2.2 
+0000046 201  ,       ,                        
+0000046 210  NP1     FCC                      Z99 
+0000046 220  NN1     Chair                    H5 S7.1+mf P1 
+0000046 230  NP1     James                    Z1mf[i50.2.1 Z3c[i50.2.1 Z1m 
+0000046 240  NP1     Lawrence                 Z1mf[i50.2.2 Z3c[i50.2.2 Z1mf 
+0000046 250  NN1     Fly                      L2 M5 
+0000046 260  VVD     criticized               Q2.2/E2- 
+0000046 270  DDQ     what                     Z8 Z5 
+0000046 280  PPHS1   he                       Z8m 
+0000046 290  VVD     considered               X2.1 X2.4 X6 
+0000046 300  JJ      corporate                S5+ I2.1/S5+ 
+0000046 310  NN1     censorship               Q4/S7.4- 
+0000046 311  .       .                        
+0000048 001  NULL    <quote>                  
+0000048 002  -----   -----                    
+0000048 010  PPH1    It                       Z8 
+0000048 011  VBZ     's                       A3+ Z5 
+0000048 020  RR21    a                        A13.6[i51.2.1 N6-[i51.2.1 
+0000048 030  RR22    little                   A13.6[i51.2.2 N6-[i51.2.2 A13.7 
+0000048 040  JJ      strange                  A6.2- 
+0000048 041  ,       ,                        
+0000048 042  NULL    </quote>                 
+0000048 043  -----   -----                    
+0000048 050  NN1     Fly                      L2 M5 
+0000048 060  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000048 070  AT      the                      Z5 
+0000048 080  NN1     press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
+0000048 081  ,       ,                        
+0000048 082  NULL    <quote>                  
+0000048 083  -----   -----                    
+0000048 090  TO      to                       Z5 
+0000048 100  VVI     reach                    M1 N3.3 Q2.1 X9.2+ 
+0000048 110  AT      the                      Z5 
+0000048 120  NN1     conclusion               X6+ T2- 
+0000048 130  CST     that                     Z5 Z8 
+0000048 140  DB      all                      N5.1+ 
+0000048 150  NN2     Americans                Z2/S2mf 
+0000048 160  VBR     are                      A3+ Z5 
+0000048 170  TO      to                       Z5 
+0000048 180  VVI     enjoy                    E2+ A9+ E4.1+ 
+0000048 190  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000048 200  NN1     speech                   Q2.1 Q3 
+0000048 210  II      except                   Z5 
+0000048 220  NN1     radio                    Q4.3 Q1.3 
+0000048 230  NN2     commentators             Q2.2/S2mf 
+0000048 231  .       .                        
+0000048 232  NULL    </quote>                 
+0000048 233  -----   -----                    
+0000050 010  CCB     But                      Z5 
+0000050 020  VVG     removing                 M2 
+0000050 030  JJ      partisan                 S5+ 
+0000050 040  NN1     politics                 G1.2c 
+0000050 050  II      from                     Z5 
+0000050 060  NN1     broadcast                Q4.3 
+0000050 070  NN1     journalism               Q4.2 
+0000050 080  JJ      increased                N5+/A2.1 
+0000050 090  NN1     advertising              I2.2/Q2.1 X2.2+ A10+ 
+0000050 100  NN1     revenue                  G1.1/I1 I1.1+ Z3c 
+0000050 110  CC      and                      Z5 
+0000050 120  VVD     proved                   A5.2+ X2.4 
+0000050 130  RR      remarkably               A13.3 
+0000050 140  JJ      lucrative                I1.1+ 
+0000050 150  IF      for                      Z5 
+0000050 160  NP1     U.S.                     Z8 
+0000050 170  NN2     broadcasters             Q4.3/S2mf 
+0000050 180  II      during                   Z5 
+0000050 190  NN1     World                    Z3[i53.3.1 W1 S5+c A4.1 N5+ G3[i52.2.1 
+0000050 200  NN1     War                      Z3[i53.3.2 G3 S7.3 G3[i52.2.2 
+0000050 210  MC      II                       Z3[i53.3.3 N1 
+0000050 211  .       .                        
+0000051 001  -----   -----                    
+0000052 010  IW      With                     Z5 
+0000052 020  AT      the                      Z5 
+0000052 030  NN1     lesson                   P1 S9/Q4.1 
+0000052 040  VVD     learned                  X2.3+ P1 
+0000052 041  ,       ,                        
+0000052 050  CC      and                      Z5 
+0000052 060  IW      with                     Z5 
+0000052 070  AT      the                      Z5 
+0000052 080  NN1     support                  S8+ O2 I1.1 B5% 
+0000052 090  IO      of                       Z5 
+0000052 100  AT      the                      Z5 
+0000052 110  NN1     advertising              I2.2/S5+c[i54.2.1 I2.2/Q2.1 X2.2+ A10+ 
+0000052 120  NN1     community                I2.2/S5+c[i54.2.2 S5+c 
+0000052 121  ,       ,                        
+0000052 130  NP1     America                  Z2 
+0000052 131  GE      's                       Z5 
+0000052 140  NN2     broadcasters             Q4.3/S2mf 
+0000052 150  VVD     aimed                    X7+ M6 
+0000052 160  TO      to                       Z5 
+0000052 170  VVI     address                  Q1.2 Q2.2 A1.1.1 
+0000052 180  RR      only                     A14 
+0000052 190  AT      the                      Z5 
+0000052 191  NULL    <quote>                  
+0000052 192  -----   -----                    
+0000052 200  JJ      vital                    A11.1+ X5.2+ 
+0000052 210  NN1     center                   M6 H1c M7c G1.2c K5.1mfn 
+0000052 211  NULL    </quote>                 
+0000052 212  -----   -----                    
+0000052 220  IO      of                       Z5 
+0000052 230  JJ      American                 Z2 
+0000052 240  NN1     politics                 G1.2c 
+0000052 250  II      in                       Z5 
+0000052 260  AT      the                      Z5 
+0000052 270  JJ      postwar                  T1.3 
+0000052 280  NNT2    years                    T1.3 
+0000052 281  .       .                        
+0000053 001  -----   -----                    
+0000054 010  RR      Still                    T2++ Z4 E3+ 
+0000054 011  ,       ,                        
+0000054 020  NN1     politics                 G1.2c 
+0000054 030  VVD     persisted                T2++ 
+0000056 010  PPH1    It                       Z8 
+0000056 020  VM      would                    A7+ 
+0000056 021  ,       ,                        
+0000056 030  RR      however                  Z4 
+0000056 031  ,       ,                        
+0000056 040  VBI     be                       A3+ Z5 
+0000056 050  AT1     a                        Z5 
+0000056 060  NN1     mistake                  A5.3- 
+0000056 070  TO      to                       Z5 
+0000056 080  VVI     believe                  X2.1 S9% 
+0000056 090  CST     that                     Z5 Z8 
+0000056 100  AT      the                      Z5 
+0000056 110  NN1     Fairness                 G2.2+ 
+0000056 120  NN1     Doctrine                 S9 X4.1 
+0000056 130  VVD     silenced                 X3.2- 
+0000056 140  JJ      fractious                Z99 
+0000056 150  JJ      political                G1.2 
+0000056 160  NN1     discourse                Q2.1 Q1.2 
+0000056 170  II      on                       Z5 
+0000056 180  AT      the                      Z5 
+0000056 190  JJ      American                 Z2 
+0000056 200  NN2     airwaves                 Q4.3 
+0000056 201  .       .                        
+0000057 001  -----   -----                    
+0000058 010  II      Throughout               Z5 
+0000058 020  AT      the                      Z5 
+0000058 030  NNT2    decades                  T1.3 
+0000058 040  CST     that                     Z5 Z8 
+0000058 050  AT      the                      Z5 
+0000058 060  NN1     Fairness                 G2.2+ 
+0000058 070  NN1     Doctrine                 S9 X4.1 
+0000058 080  VVD     remained                 T2++ M8 N5.2+ 
+0000058 090  JJ      official                 G1.1 S7.4+ 
+0000058 100  NN1     policy                   X7+ Q1.2 
+0000058 101  ,       ,                        
+0000058 110  JJ      controversial            A6.2- 
+0000058 120  JJ      political                G1.2 
+0000058 130  NN2     broadcasts               Q4.3 
+0000058 140  VVD     aired                    B4 Q2.1 
+0000058 150  RR      regularly                N6+ 
+0000058 160  II      on                       Z5 
+0000058 170  JJ      American                 Z2 
+0000058 180  NN1     television               Q4.3 
+0000058 190  CC      and                      Z5 
+0000058 200  NN1     radio                    Q4.3 Q1.3 
+0000058 201  .       .                        
+0000058 202  -----   -----                    
+0000058 210  EX      There                    Z5 
+0000058 220  VBDZ    was                      A3+ Z5 
+0000058 230  NP1     Joe                      Z1mf[i55.2.1 Z3c[i55.2.1 Z1m 
+0000058 240  NP1     Pyne                     Z1mf[i55.2.2 Z3c[i55.2.2 
+0000058 241  ,       ,                        
+0000058 250  DDQGE   whose                    Z8 
+0000058 260  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000058 270  II      at                       Z5 
+0000058 280  APPGE   its                      Z8 
+0000058 290  NN1     zenith                   W1 N5.1+ 
+0000058 300  II      in                       Z5 
+0000058 310  AT      the                      Z5 
+0000058 320  MC2     1960s                    T1.3 N1 T3 
+0000058 330  VVD     attracted                O4.2+ S3.2 O3 
+0000058 340  AT1     a                        Z5 
+0000058 350  JJ@     reported                 Q2.2 
+0000058 360  MC      10                       N1[i56.2.1 T1.3[i56.2.1 I1[i56.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000058 370  NNO     million                  N1[i56.2.2 T1.3[i56.2.2 I1[i56.2.2 N1 I1 
+0000058 380  NN2     viewers                  Q4.3/S2mf C1/S2mf O2 
+0000058 381  .       .                        
+0000058 382  -----   -----                    
+0000058 390  NP1     Pyne                     Z99 
+0000058 400  VVD     insulted                 Q2.2/S1.2.4- S7.2- 
+0000058 410  AT      the                      Z5 
+0000058 420  NN2     hippies                  A6.2-/S2mf 
+0000058 421  ,       ,                        
+0000058 430  NP1     Klansmen                 Z99 
+0000058 440  CC      and                      Z5 
+0000058 450  JJ      civil                    G1.2[i57.2.1 G1.1 S1.2.4+ G2.1 H1% 
+0000058 460  NN2     rights                   G1.2[i57.2.2 S7.4+ G2.2+ M6 G1.2 
+0000058 470  NN2     activists                G1.2/S2mf 
+0000058 480  PPHS1   he                       Z8m 
+0000058 490  VVD     invited                  Q2.2 
+0000058 500  II      to                       Z5 
+0000058 510  APPGE   his                      Z8m 
+0000058 520  NN1     studio                   C1/H2 Q4.3/H1c H1 
+0000058 521  .       .                        
+0000058 522  -----   -----                    
+0000058 530  CS      Though                   Z5 
+0000058 540  AT      the                      Z5 
+0000058 550  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000058 560  VBZ     is                       Z5 A3+ 
+0000058 570  VVN     recalled                 X2.2+ I3.1-/G1.2 I2.2/T2- K5.2 A6.1+ 
+0000058 580  RT      today                    T1.1.2 
+0000058 590  RRR     more                     A13.3 N6++ 
+0000058 600  IF      for                      Z5 
+0000058 610  APPGE   its                      Z8 
+0000058 620  NN1     outrageousness           Z99 
+0000058 621  ,       ,                        
+0000058 630  PPH1    it                       Z8 
+0000058 640  VBDZ    was                      A3+ Z5 
+0000058 650  AT1     a                        Z5 
+0000058 660  JJ      political                G1.2 
+0000058 670  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000058 680  CC      and                      Z5 
+0000058 690  NP1     Pyne                     Z99 
+0000058 700  VVD     propagated               T2++ F4 
+0000058 710  AT1     a                        Z5 
+0000058 720  NN1     conservative             G1.2/S2mf A2.1-/S2mf 
+0000058 721  ,       ,                        
+0000058 730  NN1     law-and-order            Z99 
+0000058 731  ,       ,                        
+0000058 740  JJ      patriotic                S6+ 
+0000058 750  NN1     message                  Q1.1 Q1.3/Y2 
+0000058 751  .       .                        
+0000059 001  -----   -----                    
+0000060 010  RT      Then                     N4 Z5 T1.2 
+0000060 020  EX      there                    Z5 
+0000060 021  VBZ     's                       A3+ Z5 
+0000060 030  NP1     Bob                      Z1mf[i58.2.1 Z3c[i58.2.1 Z1 
+0000060 040  NP1     Grant                    Z1mf[i58.2.2 Z3c[i58.2.2 Z1mf 
+0000060 041  ,       ,                        
+0000060 050  PNQS    who                      Z8 
+0000060 060  VV0     broadcast                Q4.3 
+0000060 070  AT1     a                        Z5 
+0000060 080  JJ      popular                  E2+ S5+ 
+0000060 090  NN1     radio                    Q4.3 Q1.3 
+0000060 100  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000060 110  II      in                       Z5 
+0000060 120  NP1     New                      Z1mf[i60.3.1 Z3c[i60.3.1 Z1mf[i59.2.1 Z3c[i59.2.1 Z2[i61.2.1 
+0000060 130  NP1     York                     Z1mf[i60.3.2 Z3c[i60.3.2 Z2 Z1mf Z1mf[i59.2.2 Z3c[i59.2.2 Z2[i61.2.2 Z2[i62.2.1 Z3c[i62.2.1 Z1mf[i63.2.1 Z3c[i63.2.1 
+0000060 140  NN1     City                     Z3c[i60.3.3 Z1mf[i60.3.3 M7/I2.1c Z3c Z2[i62.2.2 Z3c[i62.2.2 Z1mf[i63.2.2 Z3c[i63.2.2 
+0000060 150  II      throughout               Z5 
+0000060 160  AT      the                      Z5 
+0000060 170  MC2     1970s                    T1.3 N1 T3 
+0000060 171  .       .                        
+0000060 172  -----   -----                    
+0000060 180  NP1     Grant                    Z1mf 
+0000060 181  GE      's                       Z5 
+0000060 182  NULL    <quote>                  
+0000060 183  -----   -----                    
+0000060 190  JJ      arch                     X9.1+/E4.1+ A11.1+/S7.1+ 
+0000060 200  NN1     disdain                  S7.2- 
+0000060 210  IF      for                      Z5 
+0000060 220  NN2     liberals                 G1.2/S2mf 
+0000060 221  ,       ,                        
+0000060 230  JJ      prominent                A11.1+ A11.2+ 
+0000060 240  JJ      black                    O4.3 G2.2- A5.1- E4.1- S5+ 
+0000060 250  NN      people                   S2mfc 
+0000060 251  ,       ,                        
+0000060 260  NN1     welfare                  S8+ I1 G1.1c 
+0000060 270  NN2     recipients               A9+/S2mf 
+0000060 271  ,       ,                        
+0000060 280  NN2     feminists                S2.1/G1.2f 
+0000060 281  ,       ,                        
+0000060 290  JJ      gay                      S3.2/B1 O4.2+ E4.1+ 
+0000060 300  NN      people                   S2mfc 
+0000060 301  ,       ,                        
+0000060 310  CC      and                      Z5 
+0000060 320  PN1     anyone                   Z8mfc 
+0000060 330  PNQS    who                      Z8 
+0000060 340  VVD     disagreed                A6.1- E2- 
+0000060 350  IW      with                     Z5 
+0000060 360  PPHO1   him                      Z8m 
+0000060 361  ,       ,                        
+0000060 362  NULL    </quote>                 
+0000060 363  -----   -----                    
+0000060 370  VVD     wrote                    Q1.2 I2.1 
+0000060 380  AT      The                      Z5 
+0000060 390  NP1     New                      Z3c[i67.3.1 Z1mf[i65.3.1 Z3c[i65.3.1 Z1mf[i64.2.1 Z3c[i64.2.1 Z2[i66.2.1 
+0000060 400  NP1     York                     Z3c[i67.3.2 Z2 Z1mf Z1mf[i65.3.2 Z3c[i65.3.2 Z1mf[i64.2.2 Z3c[i64.2.2 Z2[i66.2.2 Z1mf[i68.2.1 Z3c[i68.2.1 
+0000060 410  NNT2    Times                    Z3c[i67.3.3 Z3 Z3c[i65.3.3 Z1mf[i65.3.3 Z1mf[i68.2.2 Z3c[i68.2.2 
+0000060 411  ,       ,                        
+0000060 412  NULL    <quote>                  
+0000060 413  -----   -----                    
+0000060 420  VBDZ    was                      A3+ Z5 
+0000060 430  JJ      familiar                 A6.2+ S1.2.1+ 
+0000060 440  II      to                       Z5 
+0000060 450  APPGE   his                      Z8m 
+0000060 460  NN2     listeners                X3.2/S2mf 
+0000060 461  .       .                        
+0000060 462  NULL    </quote>                 
+0000060 463  -----   -----                    
+0000062 010  RR      Nationally               M7/N5.1+ 
+0000062 020  VVD     syndicated               I2.2 
+0000062 030  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000062 040  VV0@    like                     E2+ 
+0000062 041  NULL    <quote>                  
+0000062 042  -----   -----                    
+0000062 050  NP1     Donohue                  Z99 
+0000062 051  NULL    </quote>                 
+0000062 052  -----   -----                    
+0000062 060  VVN     offered                  A9- Q2.2 
+0000062 070  JJ      liberal                  A1.7- G1.2 N5+ 
+0000062 080  NN2     perspectives             X4.1 C1 
+0000062 081  ,       ,                        
+0000062 090  CC      and                      Z5 
+0000062 100  RR      even                     A13.1 
+0000062 110  AT      the                      Z5 
+0000062 111  NULL    <quote>                  
+0000062 112  -----   -----                    
+0000062 120  NP1     CBS                      Q1.3 
+0000062 130  NNT1    Evening                  Z3c[i69.2.1 T1.3 
+0000062 140  NN1     News                     Z3c[i69.2.2 X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000062 141  NULL    </quote>                 
+0000062 142  -----   -----                    
+0000062 150  VVN     brought                  M2/N6+[i70.2.1 T2+/N6+[i70.2.1 M2[i70.2.1 M2 A2.2 
+0000062 160  RP      back                     M2/N6+[i70.2.2 T2+/N6+[i70.2.2 M2[i70.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000062 170  NN1     commentary               Q2.1 
+0000062 171  ,       ,                        
+0000062 180  IW      with                     Z5 
+0000062 190  JJ      veteran                  G3/S2mf T3+/S2mf 
+0000062 200  NN1     journalist               Q4.2/I3.2/S2mf 
+0000062 210  NP1     Eric                     Z1mf[i71.2.1 Z3c[i71.2.1 Z1m 
+0000062 220  NP1     Sevareid                 Z1mf[i71.2.2 Z3c[i71.2.2 
+0000062 230  VVG     providing                A9- 
+0000062 240  NN1     perspective              X4.1 C1 
+0000062 250  II      on                       Z5 
+0000062 260  AT      the                      Z5 
+0000062 270  JJ      daily                    T1.1.2 N6+ 
+0000062 280  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000062 290  DD1     each                     N5.1+ 
+0000062 300  NN1     weeknight                Z99 
+0000062 301  .       .                        
+0000063 001  -----   -----                    
+0000064 010  PPIS1   I                        Z8mf 
+0000064 011  VBM     'm                       Z5 A3+ 
+0000064 020  XX      not                      Z6 
+0000064 030  VVG     equating                 A6.1+ 
+0000064 040  AT      the                      Z5 
+0000064 050  JJ      well-reasoned            Z99 
+0000064 051  ,       ,                        
+0000064 060  RR      often                    N6+ 
+0000064 070  JJ      brilliant                A5.1+++ X9.1+++ O4.3 
+0000064 080  JJ      political                G1.2 
+0000064 090  NN1     commentary               Q2.1 
+0000064 100  VVN     offered                  A9- Q2.2 
+0000064 110  II      by                       Z5 
+0000064 120  NP1     Eric                     Z1mf[i72.2.1 Z3c[i72.2.1 Z1m 
+0000064 130  NP1     Sevareid                 Z1mf[i72.2.2 Z3c[i72.2.2 
+0000064 140  II      to                       Z5 
+0000064 150  NP1     Sinclair                 Z1mf 
+0000064 160  NN1     Broadcast                Q4.3 
+0000064 170  NN1     Group                    S5+c A4.1c B3% 
+0000064 171  GE      's                       Z5 
+0000064 180  JJ      transparent              O4.3 
+0000064 190  JJ      political                G1.2 
+0000064 200  NN1     advocacy                 Q2.2/G2.1 Q2.2 
+0000064 201  .       .                        
+0000064 202  -----   -----                    
+0000064 210  NP1@    Sevareid                 Z99 
+0000064 220  VVD     reached                  M1 N3.3 Q2.1 X9.2+ 
+0000064 230  AT1     a                        Z5 
+0000064 240  RR      much                     A13.3 N6+ 
+0000064 250  JJR     larger                   N3.2++ N5++ A11.1++ 
+0000064 260  NN1     percentage               N5 
+0000064 270  IO      of                       Z5 
+0000064 280  AT      the                      Z5 
+0000064 290  JJ      American                 Z2 
+0000064 300  NN1     populace                 S2/N5c 
+0000064 310  CSN     than                     Z5 
+0000064 320  DB      all                      N5.1+ 
+0000064 330  AT      the                      Z5 
+0000064 340  NP1     Sinclair                 Z1mf 
+0000064 350  VVZ     newscasts                Z99 
+0000064 360  JJ      combined                 A2.2 A1.8+ S5+c F4 
+0000064 361  ,       ,                        
+0000064 370  CC      and                      Z5 
+0000064 380  PPHS1   he                       Z8m 
+0000064 390  VBDZ    was                      A3+ Z5 
+0000064 400  RR      therefore                Z5 
+0000064 410  RG      far                      N3.3+ A13.3 X9.2+ 
+0000064 420  RGR     more                     A13.3 
+0000064 430  JJ      influential              S7.1+ A2.2 
+0000064 431  .       .                        
+0000065 001  -----   -----                    
+0000066 010  CCB     But                      Z5 
+0000066 020  TO      to                       Z5 
+0000066 030  VVI     express                  Q1.1 B1% 
+0000066 040  NN1     surprise                 X2.6- 
+0000066 050  CST     that                     Z5 Z8 
+0000066 060  NP1     Sinclair                 Z1mf 
+0000066 070  RT      now                      T1.1.2 Z4 
+0000066 080  VVZ%    shapes                   O4.4 A2.2 
+0000066 090  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000066 100  NN1     content                  Q2.1 A1.8+ N5 E4.1+% 
+0000066 110  CC      and                      Z5 
+0000066 120  NN1     commentary               Q2.1 
+0000066 130  TO      to                       Z5 
+0000066 140  VBI     be                       A3+ Z5 
+0000066 150  RGR     more                     A13.3 
+0000066 160  JJ      hospitable               S1.2.1+ 
+0000066 170  II      to                       Z5 
+0000066 180  JJ      political                G1.2 
+0000066 190  NN1     advertising              I2.2/Q2.1 X2.2+ A10+ 
+0000066 191  ,       ,                        
+0000066 200  CC      and                      Z5 
+0000066 210  RGR     more                     A13.3 
+0000066 220  JJ      supportive               S8+ 
+0000066 230  IO      of                       Z5 
+0000066 240  AT      the                      Z5 
+0000066 250  JJ      current                  T1.1.2 
+0000066 260  NN1     administration           S7.1+c A9- 
+0000066 261  ,       ,                        
+0000066 270  VVZ     ignores                  X5.1- A1.9 
+0000066 280  AT      the                      Z5 
+0000066 290  NN1     fact                     A5.2+ X2.2 
+0000066 300  CST     that                     Z5 Z8 
+0000066 310  JJ      political                G1.2 
+0000066 320  NN1     commentary               Q2.1 
+0000066 330  VHZ     has                      Z5 A9+ A2.2 S4 
+0000066 340  RR      always                   N6+++ 
+0000066 350  VVN     sold                     I2.2 
+0000066 360  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000066 370  II      in                       Z5 
+0000066 380  AT      the                      Z5 
+0000066 390  JJ      American                 Z2 
+0000066 400  JJ      commercial               I2.1 
+0000066 410  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000066 411  .       .                        
+0000067 001  -----   -----                    
+0000068 010  PPIS1   I                        Z8mf 
+0000068 020  VV0     believe                  X2.1 S9% 
+0000068 030  NP1     Sinclair                 Z1mf 
+0000068 031  GE      's                       Z5 
+0000068 040  NN1     management               S7.1+c 
+0000068 050  VHZ     has                      Z5 A9+ A2.2 S4 
+0000068 060  VVN     identified               X2.2+ A10+ X2.5+ 
+0000068 070  AT1     an                       Z5 
+0000068 080  JJ      underutilized            A1.5.1/N5- 
+0000068 090  NN1     segment                  N5.1- N2@ 
+0000068 100  IO      of                       Z5 
+0000068 110  AT      the                      Z5 
+0000068 120  JJ      local                    M7 
+0000068 130  NN1     TV                       Q4.3 S2.1/S2.2m 
+0000068 140  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000068 150  NN1     advertising              I2.2/Q2.1 X2.2+ A10+ 
+0000068 160  VV0     market                   I2.2 
+0000068 170  AT      the                      Z5 
+0000068 180  JJ      pro-Trump                Z99 
+0000068 190  NN1     segment                  N5.1- N2@ 
+0000068 200  II      as                       Z5 
+0000068 210  AT      the                      Z5 
+0000068 220  MC      2018                     N1 T1.2 T3 T1.3 N3.2 
+0000068 230  NN1     midterm                  Z99 
+0000068 240  NN2     elections                G1.2/X7+ 
+0000068 250  NN1     approach                 X4.2 M1 E1 S1.1.1 
+0000068 251  .       .                        
+0000068 252  -----   -----                    
+0000068 260  AT      The                      Z5 
+0000068 270  NN1     broadcaster              Q4.3/S2mf 
+0000068 280  VBZ     is                       Z5 A3+ 
+0000068 290  RT      now                      T1.1.2 Z4 
+0000068 300  VVG     shaping                  O4.4 A2.2 
+0000068 310  APPGE   its                      Z8 
+0000068 320  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000068 330  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000068 340  II      to                       Z5 
+0000068 350  RGR     more                     A13.3 
+0000068 360  RR      effectively              A5.4+ X9.2+ 
+0000068 370  VV0     appeal                   O4.2+ Q2.2 G2.1 E2+ 
+0000068 380  II      to                       Z5 
+0000068 390  AT      the                      Z5 
+0000068 400  NN1     audience                 K1/S2mfc S2mfc S1.1.3+ 
+0000068 410  IF      for                      Z5 
+0000068 420  AT      the                      Z5 
+0000068 430  JJ      political                G1.2 
+0000068 440  NN2     advertisements           I2.2/Q2.1 X2.2+ A10+ 
+0000068 450  PPH1    it                       Z8 
+0000068 460  VVZ     seeks                    X2.4 
+0000068 470  TO      to                       Z5 
+0000068 480  VVI     sell                     I2.2 
+0000068 490  DD1     this                     M6 Z5 Z8 
+0000068 500  NN1     fall                     M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- W3/M4 S9 K5 
+0000068 501  .       .                        
+0000069 001  -----   -----                    
+0000070 010  DD1     This                     M6 Z5 Z8 
+0000070 020  JJ      economic                 I1.3- I2.1 
+0000070 030  NN1     interest                 X5.2+ I1.1 S8+ S1.1.3+ 
+0000070 040  RR      closely                  A13.4 A4.2+ N3.3- 
+0000070 050  VVZ     aligns                   M2 S5+ A6.1+/A2.1 
+0000070 060  IW      with                     Z5 
+0000070 070  NP1     Sinclair                 Z1mf 
+0000070 071  GE      's                       Z5 
+0000070 080  JJ      current                  T1.1.2 
+0000070 090  JJ      political                G1.2 
+0000070 100  CC      and                      Z5 
+0000070 110  JJ      regulatory               A1.7-/G1.1 
+0000070 120  NN2     imperatives              Q3 
+0000070 121  .       .                        
+0000070 122  -----   -----                    
+0000070 130  PPH1    It                       Z8 
+0000070 140  VVZ     makes                    A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000070 150  AT      the                      Z5 
+0000070 160  NN1     propagating              T2++ F4 
+0000070 170  IO      of                       Z5 
+0000070 180  JJ      biased                   E2++ G2.2- 
+0000070 190  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000070 200  NN1     content                  Q2.1 A1.8+ N5 E4.1+% 
+0000070 210  RR      even                     A13.1 
+0000070 220  RGR     more                     A13.3 
+0000070 230  JJ      effective                X9.2+ 
+0000070 240  II      from                     Z5 
+0000070 250  NP1     Sinclair                 Z1mf 
+0000070 251  GE      's                       Z5 
+0000070 260  NN1     perspective              X4.1 C1 
+0000070 261  .       .                        
+0000071 001  -----   -----                    
+0000072 010  NP1     Sinclair                 Z1mf 
+0000072 020  RR      clearly                  A7+ A11.2+ A12+ 
+0000072 030  VVZ     hopes                    X2.6+ E4.1+ X9.2+ A5.1+ 
+0000072 040  CST     that                     Z5 Z8 
+0000072 050  AT      the                      Z5 
+0000072 060  JJ      political                G1.2 
+0000072 070  NN2     consultants              B3/S2mf Q2.1/S8+/S2mf 
+0000072 080  PNQS    who                      Z8 
+0000072 090  VV0     purchase                 I2.2 
+0000072 100  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000072 110  NN2     ads                      I2.2/Q2.1 X2.2+ A10+ 
+0000072 111  ,       ,                        
+0000072 120  CC      and                      Z5 
+0000072 130  AT      the                      Z5 
+0000072 140  JJ      federal                  S5+ 
+0000072 150  NN2     regulators               O2 S7.1+/S2mf 
+0000072 160  PNQS    who                      Z8 
+0000072 170  VM      must                     S6+ A7+ 
+0000072 180  VVI     approve                  S7.4+ E2+ G1.1 
+0000072 190  APPGE   their                    Z8 
+0000072 200  JJ@     planned                  X7+ 
+0000072 210  NN1     purchase                 I2.2 
+0000072 220  IO      of                       Z5 
+0000072 230  NN1     Tribune                  Z3/Q4.2 
+0000072 240  NN1     Broadcasting             Q4.3 
+0000072 241  GE      's                       Z5 
+0000072 250  MC      42                       N1 T1.2 T3 T1.3 N3.2 
+0000072 260  NN2     stations                 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
+0000072 261  ,       ,                        
+0000072 270  VM      will                     T1.1.3 
+0000072 280  VVI     appreciate               E2+ X2.5+ S1.1.1 I1.1++ 
+0000072 290  APPGE   their                    Z8 
+0000072 300  JJ      recent                   T3- 
+0000072 310  NN      media                    Q4c 
+0000072 320  NN1     literacy                 Q1.2 
+0000072 330  NN2     efforts                  X8+ O2 
+0000072 331  .       .                        
+0000074 001  NULL    **8;7;text               

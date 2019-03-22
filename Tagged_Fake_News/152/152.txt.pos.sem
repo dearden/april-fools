@@ -1,0 +1,2508 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VV0     Let                      S7.4+ I2.2/H1 T2- 
+0000002 020  PPIO2   us                       Z8 
+0000002 030  RT      now                      T1.1.2 Z4 
+0000002 040  VVI     address                  Q1.2 Q2.2 A1.1.1 
+0000002 050  AT      the                      Z5 
+0000002 060  JJT     greatest                 A5.1+++ A11.1+++ N3.2+++ N5+++ X5.2+++ 
+0000002 070  JJ      American                 Z2 
+0000002 080  NN1     mystery                  X2.2- X2.5- A6.2- 
+0000002 090  II      at                       T1.1.2[i1.3.1 Z5 
+0000002 100  AT      the                      T1.1.2[i1.3.2 Z5 
+0000002 110  NN1     moment                   T1.1.2[i1.3.3 T1.2 T1.1.2 N3 
+0000002 111  :       :                        
+0000002 120  DDQ     what                     Z8 Z5 
+0000002 130  VVZ     motivates                A2.2 X5.2+ 
+0000002 140  AT      the                      Z5 
+0000002 150  NN2     supporters               S8+/S2mf K5.1/S2mf Q1.1% 
+0000002 160  IO      of                       Z5 
+0000002 170  JJ@     Republican               G1.2 
+0000002 180  JJ      presidential             G1.1/S7.1+ 
+0000002 190  NN1     candidate                G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
+0000002 200  NP1     Donald                   Z1mf[i2.2.1 Z3c[i2.2.1 Z1mf 
+0000002 210  NN1     Trump                    Z1mf[i2.2.2 Z3c[i2.2.2 Z1mf 
+0000002 211  ?       ?                        
+0000003 001  -----   -----                    
+0000004 010  PPIS1   I                        Z8mf 
+0000004 020  VV0     call                     Q2.2 S1.1.1 Q1.3 S9% 
+0000004 030  PPH1    it                       Z8 
+0000004 040  AT1     a                        Z5 
+0000004 050  NN1     mystery                  X2.2- X2.5- A6.2- 
+0000004 060  CS      because                  Z5/A2.2 
+0000004 070  AT      the                      Z5 
+0000004 080  JJ      working-class            S5+c 
+0000004 090  JJ      white                    O4.3 G2.2+ 
+0000004 100  NN      people                   S2mfc 
+0000004 110  PNQS    who                      Z8 
+0000004 120  VV0     make                     A5.2-[i3.2.1 B4[i3.2.1 N5[i3.2.1 S3.1[i3.2.1 A1.1.1[i3.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000004 130  RP      up                       A5.2-[i3.2.2 B4[i3.2.2 N5[i3.2.2 S3.1[i3.2.2 A1.1.1[i3.2.2 
+0000004 140  AT      the                      Z5 
+0000004 150  NN1     bulk                     N5+++ 
+0000004 160  IO      of                       Z5 
+0000004 170  NN1     Trump                    Z1mf 
+0000004 171  GE      's                       Z5 
+0000004 180  NN1     fan                      E2+/S2mf O2 O4.4 
+0000004 190  NN1     base                     M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000004 200  VV0     show                     A10+[i4.2.1 S1.2.3+[i4.2.1 S1.1.3+[i4.2.1 A10+ S1.1.1 
+0000004 210  RP      up                       A10+[i4.2.2 S1.2.3+[i4.2.2 S1.1.3+[i4.2.2 
+0000004 220  II      in                       Z5 
+0000004 230  JJ      amazing                  O4.2+ X2.6- A6.2- 
+0000004 240  NN2     numbers                  N5 N1 Q1.3 K2 Q4.2 
+0000004 250  IF      for                      Z5 
+0000004 260  AT      the                      Z5 
+0000004 270  NN1     candidate                G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
+0000004 271  ,       ,                        
+0000004 280  VVG     filling                  N5.1+ I3.1 Q1.2@ 
+0000004 290  NN2     stadiums                 K5.1/H1 
+0000004 300  CC      and                      Z5 
+0000004 310  NN1     airport                  M5/M7 
+0000004 320  NN2     hangars                  M5/H1 
+0000004 321  ,       ,                        
+0000004 330  CCB     but                      Z5 
+0000004 340  APPGE   their                    Z8 
+0000004 350  NN2     views                    X2.1 X3.4 
+0000004 351  ,       ,                        
+0000004 360  RR31    by                       A13.2[i5.3.1 
+0000004 370  RR32    and                      A13.2[i5.3.2 
+0000004 380  RR33    large                    A13.2[i5.3.3 
+0000004 381  ,       ,                        
+0000004 390  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000004 400  XX      not                      Z6 
+0000004 410  VVI     appear                   A8 A10+ A3+ G2.1 K4 Q4 
+0000004 420  II      in                       Z5 
+0000004 430  APPGE   our                      Z8 
+0000004 440  NN1     prestige                 S7.2+ A5.1+ A11.1+ 
+0000004 450  NN2     newspapers               Q4.2 
+0000004 451  .       .                        
+0000004 452  -----   -----                    
+0000004 460  II      On                       Z5 
+0000004 470  APPGE   their                    Z8 
+0000004 480  NN1     opinion                  X2.1 X2.1/A5 X6+ 
+0000004 490  NN2     pages                    Q1.2 T1.3 S7.1-/S2.2m 
+0000004 491  ,       ,                        
+0000004 500  DD2     these                    Z5 Z8 
+0000004 510  NN2     publications             Q4 
+0000004 520  VV0     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000004 530  NN1     care                     S8+ G1.1/S8+ B3 A1.3 E6- 
+0000004 540  TO      to                       Z5 
+0000004 550  VVI     represent                Q1.1 A6.2+ S1.1.3 A5.4- K4 
+0000004 560  JJ      demographic              S5+ 
+0000004 570  NN2     categories               A4.1 
+0000004 580  IO      of                       Z5 
+0000004 590  RR      nearly                   A13.4 
+0000004 600  AT1     every                    N5.1+ 
+0000004 610  NN1     kind                     A4.1 
+0000004 611  ,       ,                        
+0000004 620  CCB     but                      Z5 
+0000004 630  JJ      blue-collar              I3.1 
+0000004 640  VBZ     is                       A3+ Z5 
+0000004 650  PN1     one                      Z8 
+0000004 660  PPHS2   they                     Z8mfn 
+0000004 670  RR      persistently             T2++ 
+0000004 680  VV0     overlook                 M6 X3.4- X3.4 
+0000004 681  .       .                        
+0000004 682  -----   -----                    
+0000004 690  AT      The                      Z5 
+0000004 700  NN2     views                    X2.1 X3.4 
+0000004 710  IO      of                       Z5 
+0000004 720  JJ      working-class            S5+c 
+0000004 730  NN      people                   S2mfc 
+0000004 740  VBR     are                      A3+ Z5 
+0000004 750  RG      so                       A13.3 
+0000004 760  JJ      foreign                  M7 
+0000004 770  II      to                       Z5 
+0000004 780  DD1     that                     Z5 Z8 
+0000004 790  NN1     universe                 W1 A4.1 
+0000004 800  CST     that                     Z8 Z5 
+0000004 810  CS      when                     Z5 
+0000004 820  NP1     New                      Z3c[i9.3.1 Z1mf[i7.3.1 Z3c[i7.3.1 Z1mf[i6.2.1 Z3c[i6.2.1 Z2[i8.2.1 
+0000004 830  NP1     York                     Z3c[i9.3.2 Z2 Z1mf Z1mf[i7.3.2 Z3c[i7.3.2 Z1mf[i6.2.2 Z3c[i6.2.2 Z2[i8.2.2 Z1mf[i10.2.1 Z3c[i10.2.1 
+0000004 840  NNT2    Times                    Z3c[i9.3.3 Z3 Z3c[i7.3.3 Z1mf[i7.3.3 Z1mf[i10.2.2 Z3c[i10.2.2 
+0000004 850  NN1     columnist                Q4.2/S2mf 
+0000004 860  NP1     Nick                     Z1mf[i11.2.1 Z3c[i11.2.1 Z1m 
+0000004 870  NP1     Kristof                  Z1mf[i11.2.2 Z3c[i11.2.2 
+0000004 880  VVD     wanted                   X7+ S6+ A7+ S3.2 A9- 
+0000004 890  TO      to                       Z5 
+0000004 900  VVI     engage                   A1.1.1 S1.1.3+ X5.2+ I3.1 G3@ 
+0000004 910  AT1     a                        Z5 
+0000004 920  NN1     Trump                    Z3/S2mf[i12.2.1 Z1mf 
+0000004 930  NN1     supporter                Z3/S2mf[i12.2.2 S8+/S2mf K5.1/S2mf Q1.1% 
+0000004 940  MD      last                     T1.1.1[i13.2.1 N4 
+0000004 950  NNT1    week                     T1.1.1[i13.2.2 T1.3 
+0000004 951  ,       ,                        
+0000004 960  PPHS1   he                       Z8m 
+0000004 970  VVD     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000004 980  PN1     one                      Z8 
+0000004 990  RP      up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
+0000004 991  ,       ,                        
+0000004 000  II21    along                    Z5[i14.2.1 Z5 
+0000004 010  II22    with                     Z5[i14.2.2 
+0000004 020  DD1     this                     M6 Z5 Z8 
+0000004 030  JJ      imaginary                A5.2- 
+0000004 040  NN1     person                   S2mfc 
+0000004 041  GE      's                       Z5 
+0000004 050  NN2     responses                Q2.1 S1.1.2+ 
+0000004 060  II      to                       Z5 
+0000004 070  APPGE   his                      Z8m 
+0000004 080  NN2     questions                Q2.2 X4.1 
+0000004 081  .       .                        
+0000005 001  -----   -----                    
+0000006 010  RRQ     When                     Z5 
+0000006 020  NN2     members                  S5+/S2mf B1 
+0000006 030  IO      of                       Z5 
+0000006 040  AT      the                      Z5 
+0000006 050  JJ      professional             I3.2+ I3.1 X9.1+ A5.1+ 
+0000006 060  NN1     class                    P1c A4.1 S5+c O4.2+ 
+0000006 070  VV0     wish                     X7+ 
+0000006 080  TO      to                       Z5 
+0000006 090  VVI     understand               X2.5+ 
+0000006 100  AT      the                      Z5 
+0000006 110  JJ      working-class            S5+c 
+0000006 120  JJ      Other                    A6.1- 
+0000006 121  ,       ,                        
+0000006 130  PPHS2   they                     Z8mfn 
+0000006 140  RR      traditionally            S1.1.1 A6.2+ T3++ 
+0000006 150  VV0     consult                  Q2.1 Q1.1/S8+ 
+0000006 160  NN2     experts                  X2.2+/S2mf X9.1+/S2mf 
+0000006 170  II      on                       Z5 
+0000006 180  AT      the                      Z5 
+0000006 190  NN1     subject                  X4.1 C1/S2mf Q3 P1 S7.1-/S2mf 
+0000006 191  .       .                        
+0000006 192  -----   -----                    
+0000006 200  CC      And                      Z5 
+0000006 210  CS      when                     Z5 
+0000006 220  DD2     these                    Z5 Z8 
+0000006 230  NN2     authorities              G1.1 S7.1+ S7.4+ X2.2+ 
+0000006 240  VBR     are                      Z5 A3+ 
+0000006 250  VVN@    asked                    Q2.2 
+0000006 260  TO      to                       Z5 
+0000006 270  VVI     explain                  Q2.2/A7+ A2.2 
+0000006 280  AT      the                      Z5 
+0000006 290  NN1     Trump                    Z1mf 
+0000006 300  NN1     movement                 M1 S5+c K2 A2.1+ 
+0000006 301  ,       ,                        
+0000006 310  PPHS2   they                     Z8mfn 
+0000006 320  RR      always                   N6+++ 
+0000006 330  VV0     seem                     A8 
+0000006 340  TO      to                       Z5 
+0000006 350  VVI     zero                     N5--- 
+0000006 360  RP@     in                       M6 
+0000006 370  II      on                       Z5 
+0000006 380  MC1     one                      N1 T3 T1.2 
+0000006 390  JJ      main                     A11.1+ N5+++ 
+0000006 400  NN1     accusation               Q2.2 G2.1 
+0000006 401  :       :                        
+0000006 410  NN1     bigotry                  S1.2.3+ 
+0000006 411  .       .                        
+0000006 412  -----   -----                    
+0000006 420  JJ      Only                     A14 
+0000006 430  NN1     racism                   S5+/Z2 
+0000006 431  ,       ,                        
+0000006 440  PPHS2   they                     Z8mfn 
+0000006 450  VV0     tell                     Q2.2 Q2.1 X3 A10+ 
+0000006 460  PPIO2   us                       Z8 
+0000006 461  ,       ,                        
+0000006 470  VBZ     is                       A3+ Z5 
+0000006 480  JJ      capable                  X9.1+ 
+0000006 490  IO      of                       Z5 
+0000006 500  VVG     powering                 A1.1.1 
+0000006 510  AT1     a                        Z5 
+0000006 520  NN1     movement                 M1 S5+c K2 A2.1+ 
+0000006 530  II      like                     Z5 
+0000006 540  NN1     Trump                    Z1mf 
+0000006 541  VBZ     's                       A3+ Z5 
+0000006 542  ,       ,                        
+0000006 550  DDQ     which                    Z8 Z5 
+0000006 560  VBZ     is                       Z5 A3+ 
+0000006 570  VVG     blowing                  A1.1.1 X9.2- B1 W4 I1.2 A1.5.1/N5.1+ E5- O3 A2.1+ 
+0000006 580  II      through                  Z5 
+0000006 590  AT      the                      Z5 
+0000006 600  JJ@     inherited                A9+/S4 A9+/N4 
+0000006 610  NN1     structure                O4.1 H1 S7.1 O2 A4.1 X4.2 B1 
+0000006 620  IO      of                       Z5 
+0000006 630  AT      the                      Z5 
+0000006 640  NN1     Republican               G1.2/S2mf 
+0000006 650  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000006 660  II      like                     Z5 
+0000006 670  AT1     a                        Z5 
+0000006 680  NN1     tornado                  W4 
+0000006 690  II      through                  Z5 
+0000006 700  AT1     a                        Z5 
+0000006 710  NN1     cluster                  S5+ N5+ W1 Q3 N2 K2 G3 Y2 
+0000006 720  IO      of                       Z5 
+0000006 730  NP1     McMansions               Z99 
+0000006 731  .       .                        
+0000007 001  -----   -----                    
+0000008 010  VV0     Trump                    K5.2 
+0000008 020  PPX1    himself                  Z8m 
+0000008 030  VVZ     provides                 A9- S6+ 
+0000008 040  RG      rather                   A13.5 
+0000008 050  JJ      excellent                A5.1+++ 
+0000008 060  NN1     evidence                 A5.2+ X2.2 G2.1 
+0000008 070  IF      for                      Z5 
+0000008 080  DD1     this                     M6 Z5 Z8 
+0000008 090  NN1     finding                  A10+ X2.1 X6+ 
+0000008 091  .       .                        
+0000008 092  -----   -----                    
+0000008 100  AT      The                      Z5 
+0000008 110  NN1     man                      S2.2m 
+0000008 120  VBZ     is                       A3+ Z5 
+0000008 130  AT1     an                       Z5 
+0000008 140  NN1     insult                   Q2.2/S1.2.4- S7.2- 
+0000008 150  NN1     clown                    E4.1+/S2mf K1/S2mf S1.2.6-/S2mf 
+0000008 160  PNQS    who                      Z8 
+0000008 170  VHZ     has                      Z5 A9+ A2.2 S4 
+0000008 180  RR      systematically           X4.2 
+0000008 190  VVN     gone                     M1[i15.2.1 E2[i15.2.1 N5-/A2.1[i15.2.1 S7.1-/A2.1[i15.2.1 A1.1.1[i15.2.1 B2-[i15.2.1 P1%[i15.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000008 200  RP      down                     M1[i15.2.2 E2[i15.2.2 N5-/A2.1[i15.2.2 S7.1-/A2.1[i15.2.2 A1.1.1[i15.2.2 B2-[i15.2.2 P1%[i15.2.2 
+0000008 210  AT      the                      Z5 
+0000008 220  NN1     list                     Q1.2 N4 M4 
+0000008 230  IO      of                       Z5 
+0000008 240  JJ      American                 Z2 
+0000008 250  JJ      ethnic                   S5+c[i16.2.1 S5+ 
+0000008 260  NN2     groups                   S5+c[i16.2.2 S5+ A4.1 B3% 
+0000008 270  CC      and                      Z5 
+0000008 280  VVD     offended                 S1.2.4- G2.1- 
+0000008 290  PPHO2   them                     Z8mfn 
+0000008 300  DD1     each                     N5.1+ 
+0000008 310  II      in                       N4[i17.2.1 Z5 
+0000008 320  NN1     turn                     N4[i17.2.2 N4 M1 O4.4 A2.1+ B2- K4 T1.3/I3.1 
+0000008 321  .       .                        
+0000008 322  -----   -----                    
+0000008 330  PPHS1   He                       Z8m 
+0000008 340  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
+0000008 350  TO      to                       Z5 
+0000008 360  VVI     deport                   M2/G1.1 
+0000008 370  NNO2    millions                 N1 N5+ I1 
+0000008 380  II      upon                     Z5 
+0000008 390  NNO2    millions                 N1 N5+ I1 
+0000008 400  IO      of                       Z5 
+0000008 410  JJ      undocumented             Q1.2- X2.2- 
+0000008 420  NN2     immigrants               M1/M7/S2mf 
+0000008 421  .       .                        
+0000008 422  -----   -----                    
+0000008 430  PPHS1   He                       Z8m 
+0000008 440  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
+0000008 450  TO      to                       Z5 
+0000008 460  VVI     bar                      S7.4- A1.7+ S8- 
+0000008 470  NN2     Muslims                  S9/S2mf 
+0000008 480  II      from                     Z5 
+0000008 490  VVG     visiting                 S1.1.1 M1 
+0000008 500  AT      the                      Z5 
+0000008 510  NP1     United                   Z2c[i20.2.1 Z2c[i19.2.1 Z3c Z1mf[i18.2.1 Z3c[i18.2.1 
+0000008 520  NP1     States                   Z2c[i20.2.2 Z2c[i19.2.2 Z2 Z1mf[i18.2.2 Z3c[i18.2.2 
+0000008 521  .       .                        
+0000008 522  -----   -----                    
+0000008 530  PPHS1   He                       Z8m 
+0000008 540  VVZ     admires                  S7.2+ E2+ 
+0000008 550  JJ      various                  A6.3+ 
+0000008 560  JJ      foreign                  M7 
+0000008 570  NN2     strongmen                S7.1+ 
+0000008 580  CC      and                      Z5 
+0000008 590  NN2     dictators                S7.1+/S2mf Q2.2/S2mf 
+0000008 591  ,       ,                        
+0000008 600  CC      and                      Z5 
+0000008 610  VHZ     has                      Z5 A9+ A2.2 S4 
+0000008 620  RR      even                     A13.1 
+0000008 630  VVN     retweeted                Z99 
+0000008 640  AT1     a                        Z5 
+0000008 650  NN1     quote                    Q2.2 I1.3 
+0000008 660  II      from                     Z5 
+0000008 670  NP1     Mussolini                Z99 
+0000008 671  .       .                        
+0000008 672  -----   -----                    
+0000008 680  DD1     This                     M6 Z5 Z8 
+0000008 690  JJ      gold-plated              Z99 
+0000008 700  NN1     buffoon                  Z99 
+0000008 710  VHZ     has                      A9+ Z5 A2.2 S4 
+0000008 720  II      in                       N4[i21.2.1 Z5 
+0000008 730  NN1     turn                     N4[i21.2.2 N4 M1 O4.4 A2.1+ B2- K4 T1.3/I3.1 
+0000008 740  VVN     drawn                    C1 M2 A9+ X5.1+ I1.2 O4.2+ X2.1 K5.1 
+0000008 750  AT      the                      Z5 
+0000008 760  JJ      enthusiastic             X5.2+ 
+0000008 770  NN1     endorsement              S8+/Q2.2 Q1.2 
+0000008 780  IO      of                       Z5 
+0000008 790  JJ      leading                  S7.1+ A11.1+ A2.2 M2 A1.1.1 
+0000008 800  NN2     racists                  S5+/Z2/S2mf 
+0000008 810  II      from                     Z5 
+0000008 820  II      across                   Z5 
+0000008 830  AT      the                      Z5 
+0000008 840  NN1     spectrum                 A6.3+ O4.3 Y1 
+0000008 850  IO      of                       Z5 
+0000008 860  NN1     intolerance              S7.4- 
+0000008 861  ,       ,                        
+0000008 870  AT1     a                        Z5 
+0000008 880  JJ      gorgeous                 O4.2+ 
+0000008 890  NN1     mosaic                   C1 
+0000008 900  IO      of                       Z5 
+0000008 910  NN2     haters                   Z99 
+0000008 911  ,       ,                        
+0000008 920  DD1     each                     N5.1+ 
+0000008 930  IO      of                       Z5 
+0000008 940  PPHO2   them                     Z8mfn 
+0000008 950  VVG     quivering                M1 E5- 
+0000008 960  RR      excitedly                X5.2+ 
+0000008 970  II      at                       Z5 
+0000008 980  AT      the                      Z5 
+0000008 990  NN1     prospect                 A7+ X2.6+ X3.4 
+0000008 000  IO      of                       Z5 
+0000008 010  VVG     getting                  A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000008 020  AT1     a                        Z5 
+0000008 030  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
+0000008 031  ,       ,                        
+0000008 040  JJ      honest-to-god            Z99 
+0000008 050  NN1     bigot                    S1.2.3+/S2mf 
+0000008 060  II      in                       Z5 
+0000008 070  AT      the                      Z5 
+0000008 080  NP1     White                    Z3c[i22.2.1 Z2[i22.2.1 Z1mf 
+0000008 090  NN1     House                    Z3c[i22.2.2 Z2[i22.2.2 H1 P1/S5+c G1.1c 
+0000008 091  .       .                        
+0000009 001  -----   -----                    
+0000011 010  DB      All                      N5.1+ 
+0000011 020  DD1     this                     M6 Z5 Z8 
+0000011 030  NN1     stuff                    O1 O2 
+0000011 040  VBZ     is                       A3+ Z5 
+0000011 050  RG      so                       A13.3 
+0000011 060  JJ      insane                   B2-/X1 S1.2.6- 
+0000011 061  ,       ,                        
+0000011 070  RG      so                       A13.3 
+0000011 080  RR      wildly                   A13.3 A1.7- 
+0000011 090  JJ      outrageous               N5.2+ S1.2.4- 
+0000011 091  ,       ,                        
+0000011 100  CST     that                     Z5 Z8 
+0000011 110  AT      the                      Z5 
+0000011 120  NN1     commentariat             Z99 
+0000011 130  VHZ     has                      Z5 A9+ A2.2 S4 
+0000011 140  VVN     deemed                   X2.1 X6 
+0000011 150  PPH1    it                       Z8 
+0000011 160  TO      to                       Z5 
+0000011 170  VBI     be                       A3+ Z5 
+0000011 180  AT      the                      Z5 
+0000011 190  NN1     entirety                 N5.1+ 
+0000011 200  IO      of                       Z5 
+0000011 210  AT      the                      Z5 
+0000011 220  NN1     Trump                    Z1mf 
+0000011 230  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000011 231  .       .                        
+0000011 232  -----   -----                    
+0000011 240  NN1     Trump                    Z1mf K5.2 
+0000011 250  VVZ     appears                  A8 A10+ A3+ G2.1 K4 Q4 
+0000011 260  TO      to                       Z5 
+0000011 270  VBI     be                       A3+ Z5 
+0000011 280  AT1     a                        Z5 
+0000011 290  NN1     racist                   S5+/Z2/S2mf 
+0000011 291  ,       ,                        
+0000011 300  RR      so                       Z5 A13.3 
+0000011 310  NN1     racism                   S5+/Z2 
+0000011 320  VM      must                     S6+ A7+ 
+0000011 330  VBI     be                       A3+ Z5 
+0000011 340  DDQ     what                     Z8 Z5 
+0000011 350  VVZ     motivates                A2.2 X5.2+ 
+0000011 360  APPGE   his                      Z8m 
+0000011 370  NN2     armies                   G3c N5+ 
+0000011 380  IO      of                       Z5 
+0000011 390  NN2     followers                S7.1-/S2mf 
+0000011 391  .       .                        
+0000011 392  -----   -----                    
+0000011 400  CC      And                      Z5 
+0000011 410  RR      so                       Z5 A13.3 
+0000011 411  ,       ,                        
+0000011 420  II      on                       Z5 
+0000011 430  NPD1    Saturday                 T1.3 
+0000011 431  ,       ,                        
+0000011 440  NP1     New                      Z3c[i26.3.1 Z1mf[i24.3.1 Z3c[i24.3.1 Z1mf[i23.2.1 Z3c[i23.2.1 Z2[i25.2.1 
+0000011 450  NP1     York                     Z3c[i26.3.2 Z2 Z1mf Z1mf[i24.3.2 Z3c[i24.3.2 Z1mf[i23.2.2 Z3c[i23.2.2 Z2[i25.2.2 Z1mf[i27.2.1 Z3c[i27.2.1 
+0000011 460  NNT2    Times                    Z3c[i26.3.3 Z3 Z3c[i24.3.3 Z1mf[i24.3.3 Z1mf[i27.2.2 Z3c[i27.2.2 
+0000011 470  NN1     columnist                Q4.2/S2mf 
+0000011 480  NP1     Timothy                  Z1mf[i28.2.1 Z3c[i28.2.1 Z1m 
+0000011 490  NP1     Egan                     Z1mf[i28.2.2 Z3c[i28.2.2 
+0000011 500  VVD     blamed                   Q2.2/G2.2- G2.1 
+0000011 510  PN21    none                     Z6/Z8c 
+0000011 520  PN22    other                    A6.1- A6.1-/Z8 
+0000011 530  CSN     than                     Z5 
+0000011 540  AT      the                      Z5 
+0000011 550  NN      people                   S2mfc 
+0000011 560  IF      for                      Z5 
+0000011 570  NN1     Trump                    Z1mf 
+0000011 571  GE      's                       Z5 
+0000011 580  NN1     racism                   S5+/Z2 
+0000011 581  :       :                        
+0000011 590  NP1     Donald                   Z1mf[i29.2.1 Z3c[i29.2.1 Z1mf 
+0000011 600  NN1     Trump                    Z1mf[i29.2.2 Z3c[i29.2.2 Z1mf 
+0000011 601  GE      's                       Z5 
+0000011 610  NN2     supporters               S8+/S2mf K5.1/S2mf Q1.1% 
+0000011 620  VV0     know                     X2.2+ S3.2/B1% 
+0000011 630  RR      exactly                  A4.2+ A5.3+ 
+0000011 640  DDQ     what                     Z8 Z5 
+0000011 650  PPHS1   he                       Z8m 
+0000011 660  VVZ     stands                   Q3[i30.2.1 M6 M2 M8 M1 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+ 
+0000011 670  IF      for                      Q3[i30.2.2 Z5 
+0000011 671  :       :                        
+0000011 680  NN1     hatred                   E2- 
+0000011 690  IO      of                       Z5 
+0000011 700  NN2     immigrants               M1/M7/S2mf 
+0000011 701  ,       ,                        
+0000011 710  JJ      racial                   S5+ 
+0000011 720  NN1     superiority              A5.1++ S7.1++ S1.2.3+ 
+0000011 721  ,       ,                        
+0000011 730  AT1     a                        Z5 
+0000011 740  JJ@     sneering                 Z99 
+0000011 750  NN1     disregard                X5.1- S7.2- 
+0000011 760  IO      of                       Z5 
+0000011 770  AT      the                      Z5 
+0000011 780  JJ      basic                    A6.2+ A11.1+ A12+ 
+0000011 790  NN1     civility                 S1.2.4+ 
+0000011 800  CST     that                     Z8 Z5 
+0000011 810  VVZ     binds                    S6+ A1.7+ A2.2 A1.1.1 
+0000011 820  AT1     a                        Z5 
+0000011 830  NN1     society                  S5+c 
+0000011 831  .       .                        
+0000012 001  -----   -----                    
+0000013 010  NN2     Stories                  Q2.1 X4.1 
+0000013 020  VVG     marveling                Z99 
+0000013 030  II      at                       Z5 
+0000013 040  AT      the                      Z5 
+0000013 050  NN1     stupidity                S1.2.6- X9.1- 
+0000013 060  IO      of                       Z5 
+0000013 070  NN1     Trump                    Z1mf 
+0000013 080  NN2     voters                   G1.2/S2mf 
+0000013 090  VBR     are                      Z5 A3+ 
+0000013 100  VVN     published                Q4 
+0000013 110  RR      nearly                   A13.4 
+0000013 120  AT1     every                    N6+[i31.2.1 N5.1+ 
+0000013 130  NNT1    day                      N6+[i31.2.2 T1.3 
+0000013 131  .       .                        
+0000013 132  -----   -----                    
+0000013 140  NN2     Articles                 Q4.2 O2 Q3 G2.1/P1@ 
+0000013 150  CST     that                     Z8 Z5 
+0000013 160  VV0     accuse                   Q2.2 G2.1 
+0000013 170  NN1     Trump                    Z1mf 
+0000013 171  GE      's                       Z5 
+0000013 180  NN2     followers                S7.1-/S2mf 
+0000013 190  IO      of                       Z5 
+0000013 200  VBG     being                    A3+ Z5 
+0000013 210  NN2     bigots                   S1.2.3+/S2mf 
+0000013 220  VH0     have                     Z5 A9+ A2.2 S4 
+0000013 230  VVN     appeared                 A8 A10+ A3+ G2.1 K4 Q4 
+0000013 240  II      by                       Z5 
+0000013 250  AT      the                      Z5 
+0000013 260  NNO2    hundreds                 N5+ 
+0000013 261  ,       ,                        
+0000013 270  CS      if                       Z7 
+0000013 280  XX      not                      Z6 
+0000013 290  AT      the                      Z5 
+0000013 300  NNO2    thousands                N1 N5+ I1 
+0000013 301  .       .                        
+0000013 302  -----   -----                    
+0000013 310  NN2     Conservatives            G1.2/S2mf A2.1-/S2mf 
+0000013 320  VH0     have                     Z5 A9+ A2.2 S4 
+0000013 330  VVN     written                  Q1.2 I2.1 
+0000013 340  PPHO2   them                     Z8mfn 
+0000013 341  ;       ;                        
+0000013 350  NN2     liberals                 G1.2/S2mf 
+0000013 360  VH0     have                     Z5 A9+ A2.2 S4 
+0000013 370  VVN     written                  Q1.2 I2.1 
+0000013 380  PPHO2   them                     Z8mfn 
+0000013 381  ;       ;                        
+0000013 390  JJ      impartial                G2.2+/E2 
+0000013 400  NN2     professionals            I3.2+/S2mf X9.1+/S2mf 
+0000013 410  VH0     have                     Z5 A9+ A2.2 S4 
+0000013 420  VVN     written                  Q1.2 I2.1 
+0000013 430  PPHO2   them                     Z8mfn 
+0000013 431  .       .                        
+0000013 432  -----   -----                    
+0000013 440  AT      The                      Z5 
+0000013 450  NN1     headline                 Q4.2 
+0000013 460  IO      of                       Z5 
+0000013 470  AT1     a                        Z5 
+0000013 480  JJ      recent                   T3- 
+0000013 490  NN1@    Huffington               Z99 
+0000013 500  NN1     Post                     Q1.2 O2 I3.1 M6 
+0000013 510  NN1     column                   O2 S5+c Q4.2 
+0000013 520  VVD     announced                Q2.2 
+0000013 521  ,       ,                        
+0000013 530  RR      bluntly                  A5.2+ 
+0000013 531  ,       ,                        
+0000013 540  DD1     that                     Z5 Z8 
+0000013 550  NN1     Trump                    Z1mf 
+0000013 560  VVD     Won                      S7.1+ A9+ 
+0000013 570  JJ      Super                    A5.1+ 
+0000013 580  NPD1    Tuesday                  T1.3 
+0000013 590  CS      Because                  Z5/A2.2 
+0000013 600  NP1     America                  Z2 
+0000013 610  VBZ     is                       A3+ Z5 
+0000013 620  JJ      Racist                   S5+/Z2 
+0000013 621  .       .                        
+0000013 622  -----   -----                    
+0000013 630  ZZ1     A                        Z5 
+0000013 640  NP1     New                      Z3c[i35.3.1 Z1mf[i33.3.1 Z3c[i33.3.1 Z1mf[i32.2.1 Z3c[i32.2.1 Z2[i34.2.1 
+0000013 650  NP1     York                     Z3c[i35.3.2 Z2 Z1mf Z1mf[i33.3.2 Z3c[i33.3.2 Z1mf[i32.2.2 Z3c[i32.2.2 Z2[i34.2.2 Z1mf[i36.2.1 Z3c[i36.2.1 
+0000013 660  NNT2    Times                    Z3c[i35.3.3 Z3 Z3c[i33.3.3 Z1mf[i33.3.3 Z1mf[i36.2.2 Z3c[i36.2.2 
+0000013 670  NN1     reporter                 Q4.2/S2mf 
+0000013 680  VVD     proved                   A5.2+ X2.4 
+0000013 690  DD1     that                     Z5 Z8 
+0000013 700  NN1     Trump                    Z1mf 
+0000013 701  GE      's                       Z5 
+0000013 710  NN2     followers                S7.1-/S2mf 
+0000013 720  VBDR    were                     A3+ Z5 
+0000013 730  NN2     bigots                   S1.2.3+/S2mf 
+0000013 740  II      by                       Z5 
+0000013 750  VVG     coordinating             S7.1+ T1.1.2 
+0000013 760  AT1     a                        Z5 
+0000013 770  NN1     map                      Q1.2/W3 
+0000013 780  IO      of                       Z5 
+0000013 790  NN1     Trump                    Z1mf 
+0000013 800  NN1     support                  S8+ O2 I1.1 B5% 
+0000013 810  IW      with                     Z5 
+0000013 820  AT1     a                        Z5 
+0000013 830  NN1     map                      Q1.2/W3 
+0000013 840  IO      of                       Z5 
+0000013 850  JJ      racist                   S5+/Z2 
+0000013 860  NN1     Google                   Z3c/Y2 
+0000013 870  NN2     searches                 X2.4 
+0000013 871  .       .                        
+0000013 872  -----   -----                    
+0000013 880  PN1     Everyone                 Z8/N5.1+c 
+0000013 890  VVZ     knows                    X2.2+ S3.2/B1% 
+0000013 900  PPH1    it                       Z8 
+0000013 901  :       :                        
+0000013 910  NN1     Trump                    Z1mf 
+0000013 911  GE      's                       Z5 
+0000013 920  NN2     followers                S7.1-/S2mf 
+0000013 921  GE      '                        Z5 
+0000013 930  NN2     passions                 X5.2+ S3.2 S9@ E4.1-@ 
+0000013 940  VBR     are                      A3+ Z5 
+0000013 950  PN1     nothing                  Z6/Z8 
+0000013 960  DAR     more                     N5++ 
+0000013 970  CSN     than                     Z5 
+0000013 980  AT      the                      Z5 
+0000013 990  JJ      ignorant                 X9.1- S1.2.4- 
+0000013 000  NN2     blurtings                Z99 
+0000013 010  IO      of                       Z5 
+0000013 020  AT      the                      Z5 
+0000013 030  JJ      white                    O4.3 G2.2+ 
+0000013 040  JJ      American                 Z2 
+0000013 050  NN1     id                       X2 
+0000013 051  ,       ,                        
+0000013 060  VVN     driven                   M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000013 070  II      to                       Z5 
+0000013 080  NN1     madness                  B2-/X1 S1.2.6- X5.2+ 
+0000013 090  II      by                       Z5 
+0000013 100  AT      the                      Z5 
+0000013 110  NN1     presence                 M6 A3+ S1.1.3+ S1.2 S9 
+0000013 120  IO      of                       Z5 
+0000013 130  AT1     a                        Z5 
+0000013 140  JJ      black                    O4.3 G2.2- A5.1- E4.1- S5+ 
+0000013 150  NN1     man                      S2.2m 
+0000013 160  II      in                       Z5 
+0000013 170  AT      the                      Z5 
+0000013 180  NP1     White                    Z3c[i37.2.1 Z2[i37.2.1 Z1mf 
+0000013 190  NN1     House                    Z3c[i37.2.2 Z2[i37.2.2 H1 P1/S5+c G1.1c 
+0000013 191  .       .                        
+0000013 192  -----   -----                    
+0000013 200  AT      The                      Z5 
+0000013 210  NN1     Trump                    Z1mf 
+0000013 220  NN1     movement                 M1 S5+c K2 A2.1+ 
+0000013 230  VBZ     is                       A3+ Z5 
+0000013 240  AT1     a                        Z5 
+0000013 250  JJ      one-note                 K2 
+0000013 260  NN1     phenomenon               A3 X3.4 A1.1.1 
+0000013 261  ,       ,                        
+0000013 270  AT1     a                        Z5 
+0000013 280  JJ      vast                     N3.2+ N5+ 
+0000013 290  NN1     surge                    N5+/A2.1 
+0000013 300  IO      of                       Z5 
+0000013 310  NN1     race-hate                Z99 
+0000013 311  .       .                        
+0000013 312  -----   -----                    
+0000013 320  APPGE   Its                      Z8 
+0000013 330  NN2     partisans                S8+/S2mf 
+0000013 340  VBR     are                      A3+ Z5 
+0000013 350  XX      not                      Z5[i38.2.1 Z6 
+0000013 360  RR      only                     Z5[i38.2.2 A14 
+0000013 370  JJ      incomprehensible         X2.5- 
+0000013 371  ,       ,                        
+0000013 380  PPHS2   they                     Z8mfn 
+0000013 390  VBR     are                      A3+ Z5 
+0000013 400  XX      not                      Z6[i39.2.1 Z6 
+0000013 410  RR      really                   Z6[i39.2.2 A13.3 A5.2+ 
+0000013 420  II      worth                    I1.3 A1.5.2+ S1.1.4+ N5 Z3 Z1mf Z2 
+0000013 430  NNU     comprehending.           Z99 
+0000015 010  FU      *                        Z5 
+0000015 020  FU      *                        Z5 
+0000015 030  FU      *                        Z5 
+0000016 010  CC      Or                       A13.4[i40.2.1 Z5 
+0000016 020  RR      so                       A13.4[i40.2.2 Z5 A13.3 
+0000016 030  PPIS2   we                       Z8 
+0000016 031  VBR     're                      Z5 A3+ 
+0000016 040  VVN     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000016 041  .       .                        
+0000016 042  -----   -----                    
+0000016 050  MD      Last                     T1.1.1[i41.2.1 N4 
+0000016 060  NNT1    week                     T1.1.1[i41.2.2 T1.3 
+0000016 061  ,       ,                        
+0000016 070  PPIS1   I                        Z8mf 
+0000016 080  VVD     decided                  X6+ 
+0000016 090  TO      to                       Z5 
+0000016 100  VVI     watch                    X3.4 S7.1 X2.4 A1.3+ 
+0000016 110  DA2     several                  N5 
+0000016 120  NNT2    hours                    T1.3 
+0000016 130  IO      of                       Z5 
+0000016 140  NN1     Trump                    Z1mf 
+0000016 150  NN2     speeches                 Q2.1 Q3 
+0000016 160  IF      for                      Z5 
+0000016 170  PPX1    myself                   Z8mf 
+0000016 171  .       .                        
+0000016 172  -----   -----                    
+0000016 180  PPIS1   I                        Z8mf 
+0000016 190  VVD     saw                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000016 200  AT      the                      Z5 
+0000016 210  NN1     man                      S2.2m 
+0000016 220  NN1     ramble                   M1/K1 
+0000016 230  CC      and                      Z5 
+0000016 240  NN1     boast                    S1.2.3+/Q2.2 
+0000016 250  CC      and                      Z5 
+0000016 260  VV0     threaten                 E3-/Q2.2 A15- X2.6+/O4.2- A7+ 
+0000016 270  CC      and                      Z5 
+0000016 280  RR      even                     A13.1 
+0000016 290  VV0     seem                     A8 
+0000016 300  TO      to                       Z5 
+0000016 310  VVI     gloat                    S1.2.3+ 
+0000016 320  RRQ     when                     Z5 
+0000016 330  NN2     protesters               G1.2/S2mf 
+0000016 340  VBDR    were                     Z5 A3+ 
+0000016 350  VVN     ejected                  M2 X7- A1.8- 
+0000016 360  II      from                     Z5 
+0000016 370  AT      the                      Z5 
+0000016 380  NN2     arenas                   K5.1/H1 K1/H1 M7 X4.1 
+0000016 390  II      in                       Z5 
+0000016 400  DDQ     which                    Z8 Z5 
+0000016 410  PPHS1   he                       Z8m 
+0000016 420  VVD     spoke                    Q2.1 
+0000016 421  .       .                        
+0000016 422  -----   -----                    
+0000016 430  PPIS1   I                        Z8mf 
+0000016 440  VBDZ    was                      Z5 A3+ 
+0000016 450  VVN     disgusted                O4.2- 
+0000016 460  II      by                       Z5 
+0000016 470  DD2     these                    Z5 Z8 
+0000016 480  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000016 481  ,       ,                        
+0000016 490  CSA     as                       Z5 
+0000016 500  PPIS1   I                        Z8mf 
+0000016 510  VH0     have                     Z5 A9+ A2.2 S4 
+0000016 520  VBN     been                     Z5 A3+ 
+0000016 530  VVN     disgusted                O4.2- 
+0000016 540  II      by                       Z5 
+0000016 550  NN1     Trump                    Z1mf 
+0000016 560  IF      for                      Z5 
+0000016 570  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000016 580  NNT2    years                    T1.3 
+0000016 581  .       .                        
+0000016 582  -----   -----                    
+0000016 590  CCB     But                      Z5 
+0000016 600  PPIS1   I                        Z8mf 
+0000016 610  RR      also                     N5++ 
+0000016 620  VVD     noticed                  X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1 
+0000016 630  PN1     something                Z8 
+0000016 640  JJ      surprising               X2.6- A6.2- 
+0000016 641  .       .                        
+0000016 642  -----   -----                    
+0000016 650  II      In                       Z5 
+0000016 660  DD1     each                     N5.1+ 
+0000016 670  IO      of                       Z5 
+0000016 680  AT      the                      Z5 
+0000016 690  NN2     speeches                 Q2.1 Q3 
+0000016 700  PPIS1   I                        Z8mf 
+0000016 710  VVD     watched                  X3.4 S7.1 X2.4 A1.3+ 
+0000016 711  ,       ,                        
+0000016 720  NN1     Trump                    Z1mf 
+0000016 730  VVD     spent                    I1.2 A1.5.1 T1.3 
+0000016 740  AT1     a                        Z5 
+0000016 750  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000016 760  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000016 770  IO      of                       Z5 
+0000016 780  APPGE   his                      Z8m 
+0000016 790  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000016 800  VVG     talking                  Q2.1 
+0000016 810  II      about                    Z5 
+0000016 820  AT1     an                       Z5 
+0000016 830  RR      entirely                 A13.2 
+0000016 840  JJ      legitimate               G2.2+ 
+0000016 850  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000016 851  ,       ,                        
+0000016 860  PN1     one                      Z8 
+0000016 870  CST     that                     Z8 Z5 
+0000016 880  VM      could                    A7+ 
+0000016 890  RR      even                     A13.1 
+0000016 900  VBI     be                       Z5 A3+ 
+0000016 910  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000016 920  JJ      leftwing                 G1.2 
+0000016 921  .       .                        
+0000017 001  -----   -----                    
+0000018 010  UH      Yes                      Z4 
+0000018 011  ,       ,                        
+0000018 020  NP1     Donald                   Z1mf[i42.2.1 Z3c[i42.2.1 Z1mf 
+0000018 030  NN1     Trump                    Z1mf[i42.2.2 Z3c[i42.2.2 Z1mf 
+0000018 040  VVN     talked                   Q2.1 
+0000018 050  II      about                    Z5 
+0000018 060  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000018 061  .       .                        
+0000018 062  -----   -----                    
+0000018 070  II      In                       A5.2+[i43.2.1 Z5 
+0000018 080  NN1     fact                     A5.2+[i43.2.2 A5.2+ X2.2 
+0000018 081  ,       ,                        
+0000018 090  TO      to                       Z5 
+0000018 100  VVI     judge                    G2.1 X6 
+0000018 110  II      by                       Z5 
+0000018 120  RGQ@    how                      Z5 A13.3 
+0000018 130  DA1     much                     N5+ I1.3+ 
+0000018 140  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000018 150  PPHS1   he                       Z8m 
+0000018 160  VVD     spent                    I1.2 A1.5.1 T1.3 
+0000018 170  VVG     talking                  Q2.1 
+0000018 180  II      about                    Z5 
+0000018 190  PPH1    it                       Z8 
+0000018 191  ,       ,                        
+0000018 200  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000018 210  VM      may                      A7+ 
+0000018 220  VBI     be                       A3+ Z5 
+0000018 230  APPGE   his                      Z8m 
+0000018 240  JJ      single                   N5--- S5- S3.2- M3 
+0000018 250  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
+0000018 260  NN1     concern                  E6- I2.1 
+0000018 270  XX      not                      Z6 
+0000018 280  JJ      white                    O4.3 G2.2+ 
+0000018 290  NN1     supremacy                S7.1+ 
+0000018 291  .       .                        
+0000018 292  -----   -----                    
+0000018 300  XX      Not                      Z6 
+0000018 310  RR      even                     A13.1 
+0000018 320  APPGE   his                      Z8m 
+0000018 330  NN1     plan                     X7+ C1/H1 
+0000018 340  TO      to                       Z5 
+0000018 350  VVI     build                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000018 360  AT1     a                        Z5 
+0000018 370  NN1     wall                     H2 O2 N5+ S8- 
+0000018 380  II      along                    Z5 
+0000018 390  AT      the                      Z5 
+0000018 400  JJ      Mexican                  Z2 
+0000018 410  NN1     border                   M7/G1.1 O2 B5 L3/H3 
+0000018 411  ,       ,                        
+0000018 420  AT      the                      Z5 
+0000018 430  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000018 440  DD1     that                     Z5 Z8 
+0000018 450  MD      first                    N4 
+0000018 460  VVD     won                      S7.1+ A9+ 
+0000018 470  PPHO1   him                      Z8m 
+0000018 480  JJ      political                G1.2 
+0000018 490  NN1     fame                     X2.2+ 
+0000018 491  .       .                        
+0000018 492  -----   -----                    
+0000018 500  PPHS1   He                       Z8m 
+0000018 510  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000018 520  PPH1    it                       Z8 
+0000018 530  RT      again                    N6+ Z4 
+0000018 540  II      during                   Z5 
+0000018 550  AT      the                      Z5 
+0000018 560  NN1     debate                   Q2.2 
+0000018 570  II      on                       Z5 
+0000018 580  MC      3                        N1 T1.2 T3 T1.3 N3.2 
+0000018 590  NPM1    March                    T1.3 
+0000018 591  :       :                        
+0000018 600  VVD     asked                    Q2.2 
+0000018 610  II      about                    Z5 
+0000018 620  APPGE   his                      Z8m 
+0000018 630  JJ      political                G1.2 
+0000018 640  NN1     excommunication          Z99 
+0000018 650  II      by                       Z5 
+0000018 660  NP1     Mitt                     Z1mf[i44.2.1 Z3c[i44.2.1 
+0000018 670  NP1     Romney                   Z1mf[i44.2.2 Z3c[i44.2.2 
+0000018 671  ,       ,                        
+0000018 680  PPHS1   he                       Z8m 
+0000018 690  VVD     chose                    X7+ 
+0000018 700  TO      to                       Z5 
+0000018 710  VVI     pivot                    M1 
+0000018 720  CC      and                      Z5 
+0000018 730  VVI     talk                     Q2.1 
+0000018 740  II      about                    Z5 
+0000018 750  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000018 751  .       .                        
+0000019 001  -----   -----                    
+0000020 010  PPH1    It                       Z8 
+0000020 020  VVZ     seems                    A8 
+0000020 030  TO      to                       Z5 
+0000020 040  VVI     obsess                   X5.2+/N5.2+ 
+0000020 050  PPHO1   him                      Z8m 
+0000020 051  :       :                        
+0000020 060  AT      the                      Z5 
+0000020 070  JJ      destructive              A1.1.2 S8- 
+0000020 080  NN1     free-trade               I2.2 I2.1c/S5- 
+0000020 090  VVZ     deals                    A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2 
+0000020 100  APPGE   our                      Z8 
+0000020 110  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000020 120  VH0     have                     Z5 A9+ A2.2 S4 
+0000020 130  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000020 131  ,       ,                        
+0000020 140  AT      the                      Z5 
+0000020 150  DA2     many                     N5+ 
+0000020 160  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000020 170  CST     that                     Z8 Z5 
+0000020 180  VH0     have                     Z5 A9+ A2.2 S4 
+0000020 190  VVN     moved                    M2 M1 A2.1+ E1 H4/A2.1 
+0000020 200  APPGE   their                    Z8 
+0000020 210  NN1     production               A1.1.1 A10+ K4 K3 Q4.3 
+0000020 220  NN2     facilities               H1 O2 S8+ X9.1+ 
+0000020 230  II      to                       Z5 
+0000020 240  JJ      other                    A6.1- 
+0000020 250  NN2     lands                    W3 M7 
+0000020 251  ,       ,                        
+0000020 260  AT      the                      Z5 
+0000020 270  NN1     phone                    Q1.3[i45.2.1 Q1.3 
+0000020 280  NN2     calls                    Q1.3[i45.2.2 Q2.2 S1.1.1 Q1.3 X7+ S9% 
+0000020 290  PPHS1   he                       Z8m 
+0000020 300  VM      will                     T1.1.3 
+0000020 310  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000020 320  II      to                       Z5 
+0000020 330  DD2     those                    Z5 Z8 
+0000020 340  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000020 341  GE      '                        Z5 
+0000020 350  NN2     CEOs                     S7.1+/S2mf 
+0000020 360  BCL21   in                       Z5[i46.3.1 Z5[i47.2.1 
+0000020 370  BCL22   order                    Z5[i46.3.2 Z5[i47.2.2 
+0000020 380  TO      to                       Z5[i46.3.3 Z5 
+0000020 390  VVI     threaten                 E3-/Q2.2 A15- X2.6+/O4.2- A7+ 
+0000020 400  PPHO2   them                     Z8mfn 
+0000020 410  IW      with                     Z5 
+0000020 420  JJ      steep                    O4.4 N5+ I1.3+ 
+0000020 430  NN2     tariffs                  I1.3 
+0000020 440  CS      unless                   Z5 
+0000020 450  PPHS2   they                     Z8mfn 
+0000020 460  VV0     move                     M1[i48.2.1 M2[i48.2.1 A2.1+[i48.2.1 T1.1.3[i48.2.1 M2 M1 A2.1+ E1 H4/A2.1 
+0000020 470  RP      back                     M1[i48.2.2 M2[i48.2.2 A2.1+[i48.2.2 T1.1.3[i48.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000020 480  II      to                       Z5 
+0000020 490  AT      the                      Z5 
+0000020 500  NP1     US                       Z8 
+0000020 501  .       .                        
+0000021 001  -----   -----                    
+0000022 010  NN1     Trump                    Z1mf K5.2 
+0000022 020  VVD     embellished              O4.1 Q2.2 
+0000022 030  DD1     this                     M6 Z5 Z8 
+0000022 040  NN1     vision                   X4.1 X3.4 X7+ S9@ 
+0000022 050  IW      with                     Z5 
+0000022 060  DD1     another                  A6.1- N5++ 
+0000022 070  JJ      favorite                 E2+++ 
+0000022 080  JJ      leftwing                 G1.2 
+0000022 090  NN1     idea                     X4.1 X7+ 
+0000022 091  :       :                        
+0000022 100  II      under                    Z5 
+0000022 110  APPGE   his                      Z8m 
+0000022 120  NN1     leadership               S7.1+ 
+0000022 121  ,       ,                        
+0000022 130  AT      the                      Z5 
+0000022 140  NN1     government               G1.1c 
+0000022 150  VM      would                    A7+ 
+0000022 160  VVI     start                    T2+ E5- E3- 
+0000022 170  JJ      competitive              S7.3+ 
+0000022 180  NN1     bidding                  I2.2 Q2.2 
+0000022 190  II      in                       Z5 
+0000022 200  AT      the                      Z5 
+0000022 210  NN1     drug                     I4/B3c[i49.2.1 B3 F3 
+0000022 220  NN1     industry                 I4/B3c[i49.2.2 I4c I2.1c 
+0000022 221  .       .                        
+0000022 222  -----   -----                    
+0000022 223  (       (                        
+0000022 230  PPIS2   We                       Z8 
+0000022 240  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000022 241  XX      n't                      Z6 
+0000022 250  RR      competitively            S7.3+ 
+0000022 260  VVI     bid                      I2.2 Q2.2 
+0000022 261  !       !                        
+0000022 270  PPHS1   he                       Z8m 
+0000022 280  VVD     marveled                 Z99 
+0000022 290  DD1     another                  A6.1- N5++ 
+0000022 300  JJ      true                     A5.2+ A5.4+ 
+0000022 310  NN1     fact                     A5.2+ X2.2 
+0000022 311  ,       ,                        
+0000022 320  AT1     a                        Z5 
+0000022 330  JJ      legendary                X2.2+++ S9/Q2.1 
+0000022 340  NN1     boondoggle               Z99 
+0000022 350  VVN     brought                  M2 A2.2 
+0000022 360  II      to                       Z5 
+0000022 370  PPY     you                      Z8mf 
+0000022 380  II      by                       Z5 
+0000022 390  AT      the                      Z5 
+0000022 400  NP1     George                   Z1mf[i51.3.1 Z3c[i51.3.1 Z1m Z1mf[i50.2.1 Z3c[i50.2.1 
+0000022 410  NP1@    W                        Z1mf[i51.3.2 Z3c[i51.3.2 Z1mf[i50.2.2 Z3c[i50.2.2 Z1mf[i52.2.1 Z3c[i52.2.1 
+0000022 420  NP1     Bush                     Z3c[i51.3.3 Z1mf[i51.3.3 Z3c Z1mf Z1mf[i52.2.2 Z3c[i52.2.2 
+0000022 430  NN1     administration           S7.1+c A9- 
+0000022 431  .       .                        
+0000022 432  )       )                        
+0000022 433  -----   -----                    
+0000022 440  NN1     Trump                    Z1mf K5.2 
+0000022 450  VVD     extended                 N3.3 T1.3 A1.7- N3.2+/A2.1 N5+/A2.1 T1.3+/A2.1 A9- 
+0000022 460  AT      the                      Z5 
+0000022 470  NN1     critique                 X2.4/Q1.2 
+0000022 480  II      to                       Z5 
+0000022 490  AT      the                      Z5 
+0000022 500  JJ      military-industrial      Z99 
+0000022 510  NN1     complex                  H1 B2-/X1 
+0000022 511  ,       ,                        
+0000022 520  VVG     describing               Q2.2 
+0000022 530  RRQ     how                      Z5 A13.3 
+0000022 540  AT      the                      Z5 
+0000022 550  NN1     government               G1.1c 
+0000022 560  VBZ     is                       Z5 A3+ 
+0000022 570  VVN     forced                   S7.1+ A1.1.1 E3- 
+0000022 580  TO      to                       Z5 
+0000022 590  VVI     buy                      I2.2 
+0000022 600  JJ      lousy                    A5.1- 
+0000022 610  CCB     but                      Z5 
+0000022 620  JJ      expensive                I1.3+ 
+0000022 630  NN2     airplanes                M5 
+0000022 640  NN2     thanks                   S1.2.4+ 
+0000022 650  II      to                       Z5 
+0000022 660  AT      the                      Z5 
+0000022 670  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000022 680  IO      of                       Z5 
+0000022 690  NN1     industry                 I4c I2.1c 
+0000022 700  NN2     lobbyists                G1.2/S2mf 
+0000022 701  .       .                        
+0000023 001  -----   -----                    
+0000024 010  RR      Thus                     Z5/A2.2 
+0000024 020  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000024 030  PPHS1   he                       Z8m 
+0000024 040  VVI     hint                     Q2.2 
+0000024 050  II      at                       Z5 
+0000024 060  APPGE   his                      Z8m 
+0000024 070  JJ      curious                  X5.2+ A6.2- 
+0000024 080  NN1     selling                  I2.2 
+0000024 090  NN1     proposition              Q2.2 X4.1 
+0000024 091  :       :                        
+0000024 100  CS      because                  Z5/A2.2 
+0000024 110  PPHS1   he                       Z8m 
+0000024 120  VBZ     is                       A3+ Z5 
+0000024 130  RR      personally               S5- 
+0000024 140  RG      so                       A13.3 
+0000024 150  JJ      wealthy                  I1.1+ 
+0000024 151  ,       ,                        
+0000024 160  AT1     a                        Z5 
+0000024 170  NN1     fact                     A5.2+ X2.2 
+0000024 180  II      about                    Z5 
+0000024 190  DDQ     which                    Z8 Z5 
+0000024 200  PPHS1   he                       Z8m 
+0000024 210  VVZ     loves                    E2+ 
+0000024 220  TO      to                       Z5 
+0000024 230  VVI     boast                    S1.2.3+/Q2.2 
+0000024 231  ,       ,                        
+0000024 240  VV0     Trump                    Z1mf 
+0000024 250  PPX1    himself                  Z8m 
+0000024 260  VBZ     is                       A3+ Z5 
+0000024 270  JJ      unaffected               A2.1- 
+0000024 280  II      by                       Z5 
+0000024 290  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000024 300  NN2     lobbyists                G1.2/S2mf 
+0000024 310  CC      and                      Z5 
+0000024 320  NN2     donations                A9- 
+0000024 321  .       .                        
+0000024 322  -----   -----                    
+0000024 330  CC      And                      Z5 
+0000024 340  CS      because                  Z5/A2.2 
+0000024 350  PPHS1   he                       Z8m 
+0000024 360  VBZ     is                       A3+ Z5 
+0000024 370  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
+0000024 380  II      from                     Z5 
+0000024 390  AT      the                      Z5 
+0000024 400  JJ@     corrupting               G2.2- A1.1.2 A5.1- 
+0000024 410  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000024 420  IO      of                       Z5 
+0000024 430  JJ      modern                   T3- 
+0000024 440  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000024 450  NN1     finance                  I1 
+0000024 451  ,       ,                        
+0000024 460  JJ      famous                   X2.2+ 
+0000024 470  JJ      deal-maker               Z99 
+0000024 480  NN1     Trump                    Z1mf 
+0000024 490  VM      can                      A7+ 
+0000024 500  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000024 510  NN2     deals                    N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
+0000024 520  II      on                       S1.1.1[i53.3.1 Z5 
+0000024 530  APPGE   our                      S1.1.1[i53.3.2 Z8 
+0000024 540  NN1     behalf                   S1.1.1[i53.3.3 S1.1.1 
+0000024 550  CST     that                     Z8 Z5 
+0000024 560  VBR     are                      A3+ Z5 
+0000024 570  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000024 580  II21    instead                  A6.1-[i54.2.1 
+0000024 590  II22    of                       A6.1-[i54.2.2 
+0000024 600  JJ      bad                      A5.1- G2.2- O4.2- B2- 
+0000024 601  .       .                        
+0000024 602  -----   -----                    
+0000024 610  AT      The                      Z5 
+0000024 620  NN1     chance                   A1.4 A7+ 
+0000024 630  CST     that                     Z8 Z5 
+0000024 640  PPHS1   he                       Z8m 
+0000024 650  VM      will                     T1.1.3 
+0000024 660  RR      actually                 A5.4+ A14 
+0000024 670  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000024 680  RR      so                       Z5 A13.3 
+0000024 681  ,       ,                        
+0000024 690  RR21    of                       Z4[i55.2.1 
+0000024 700  RR22    course                   Z4[i55.2.2 Z4 
+0000024 701  ,       ,                        
+0000024 710  VBZ     is                       A3+ Z5 
+0000024 720  JJ      small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
+0000024 721  .       .                        
+0000024 722  -----   -----                    
+0000024 730  PPHS1   He                       Z8m 
+0000024 740  VVZ     appears                  A8 A10+ A3+ G2.1 K4 Q4 
+0000024 750  TO      to                       Z5 
+0000024 760  VBI     be                       A3+ Z5 
+0000024 770  AT1     a                        Z5 
+0000024 780  NN1     hypocrite                A6.1-/X2.1mf 
+0000024 790  II      on                       Z5 
+0000024 800  DD1     this                     M6 Z5 Z8 
+0000024 810  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000024 820  II31    as                       N5++[i56.2.1 Z5 
+0000024 830  II32    well                     N5++[i56.2.2 
+0000024 840  II33    as                       Z5 
+0000024 850  RG      so                       N5[i57.2.1 A13.3 
+0000024 860  DA2     many                     N5[i57.2.2 N5+ 
+0000024 870  JJ      other                    A6.1- 
+0000024 880  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000024 881  .       .                        
+0000024 882  -----   -----                    
+0000024 890  CCB     But                      Z5 
+0000024 900  RR21    at                       A13.7[i58.2.1 
+0000024 910  RR22    least                    A13.7[i58.2.2 A13.7 
+0000024 920  VV0     Trump                    Z1mf 
+0000024 930  VBZ     is                       Z5 A3+ 
+0000024 940  VVG     saying                   Q2.1 Z4% 
+0000024 950  DD1     this                     M6 Z5 Z8 
+0000024 960  NN1     stuff                    O1 O2 
+0000024 961  .       .                        
+0000025 001  -----   -----                    
+0000026 010  DB      All                      N5.1+ 
+0000026 020  DD1     this                     Z8 M6 Z5 
+0000026 030  VVD@    surprised                X2.6- 
+0000026 040  PPIO1   me                       Z8mf 
+0000026 050  CS      because                  Z5/A2.2 
+0000026 051  ,       ,                        
+0000026 060  IF      for                      Z5 
+0000026 070  DB      all                      N5.1+ 
+0000026 080  AT      the                      Z5 
+0000026 090  NN2     articles                 Q4.2 O2 Q3 G2.1/P1@ 
+0000026 100  II      about                    Z5 
+0000026 110  NN1     Trump                    Z1mf 
+0000026 120  PPIS1   I                        Z8mf 
+0000026 130  VHD     had                      Z5 A9+ A2.2 S4 
+0000026 140  VVN     read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000026 150  II      in                       Z5 
+0000026 160  JJ      recent                   T3- 
+0000026 170  NNT2    months                   T1.3 
+0000026 171  ,       ,                        
+0000026 180  PPIS1   I                        Z8mf 
+0000026 190  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000026 191  XX      n't                      Z6 
+0000026 200  VVI     recall                   X2.2+ I3.1-/G1.2 I2.2/T2- K5.2 A6.1+ 
+0000026 210  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000026 220  VVG     coming                   A1.1.1[i59.2.1 M1[i59.2.1 T1.1.3[i59.2.1 A13.4[i59.2.1 P1%[i59.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000026 230  RP      up                       A1.1.1[i59.2.2 M1[i59.2.2 T1.1.3[i59.2.2 A13.4[i59.2.2 P1%[i59.2.2 
+0000026 240  RG      very                     A13.3 
+0000026 250  RR      often                    N6+ 
+0000026 251  .       .                        
+0000026 252  -----   -----                    
+0000026 260  NN1     Trump                    Z1mf K5.2 
+0000026 270  VBZ     is                       A3+ Z5 
+0000026 280  JJ      supposed                 S6+ X7+ 
+0000026 290  TO      to                       Z5 
+0000026 300  VBI     be                       A3+ Z5 
+0000026 310  II      on                       Z5 
+0000026 320  AT1     a                        Z5 
+0000026 330  JJ      one-note                 K2 
+0000026 340  NN1     crusade                  S8+ G3 S9 
+0000026 350  IF      for                      Z5 
+0000026 360  NN1     whiteness                O4.3 A5.4+ 
+0000026 361  .       .                        
+0000026 362  -----   -----                    
+0000026 370  VM      Could                    A7+ 
+0000026 380  PPH1    it                       Z8 
+0000026 390  VBI     be                       A3+ Z5 
+0000026 400  CST     that                     Z5 Z8 
+0000026 410  DB      all                      N5.1+ 
+0000026 420  DD1     this                     M6 Z5 Z8 
+0000026 430  NN1     trade                    I2.2/O2[i60.2.1 I2.2[i60.2.1 I2.2 I2.1 I3.1 I2.2/N5 
+0000026 440  NN1     stuff                    I2.2/O2[i60.2.2 I2.2[i60.2.2 O1 O2 
+0000026 450  VBZ     is                       A3+ Z5 
+0000026 460  AT1     a                        Z5 
+0000026 470  NN1     key                      O2 X9.2+ Q1.2 
+0000026 480  II      to                       Z5 
+0000026 490  VVG     understanding            X2.5+ 
+0000026 500  AT      the                      Z5 
+0000026 510  NN1     Trump                    Z1mf 
+0000026 520  NN1     phenomenon               A3 X3.4 A1.1.1 
+0000026 521  ?       ?                        
+0000028 010  FU      *                        Z5 
+0000028 020  FU      *                        Z5 
+0000028 030  FU      *                        Z5 
+0000029 010  NN1     Trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000029 020  VBZ     is                       A3+ Z5 
+0000029 030  AT1     an                       Z5 
+0000029 040  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000029 050  CST     that                     Z8 Z5 
+0000029 060  VVZ     polarizes                Z99 
+0000029 070  NN2     Americans                Z2/S2mf 
+0000029 080  II      by                       Z5 
+0000029 090  JJ      socio-economic           S1.1.1/I2.1 
+0000029 100  NN1     status                   S7.1 A4.1 A11.1 
+0000029 101  .       .                        
+0000029 102  -----   -----                    
+0000029 110  II      To                       Z5 
+0000029 120  AT      the                      Z5 
+0000029 130  JJ      professional             I3.2+ I3.1 X9.1+ A5.1+ 
+0000029 140  NN1     class                    P1c A4.1 S5+c O4.2+ 
+0000029 141  ,       ,                        
+0000029 150  DDQ     which                    Z8 Z5 
+0000029 160  VVZ     encompasses              A1.8+ 
+0000029 170  AT      the                      Z5 
+0000029 180  JJ      vast                     N3.2+ N5+ 
+0000029 190  NN1     majority                 N5+++c 
+0000029 200  IO      of                       Z5 
+0000029 210  APPGE   our                      Z8 
+0000029 220  NN      media                    Q4c 
+0000029 230  NN2     figures                  N5 N1 B1 S2mf C1 O4.4 O2 
+0000029 231  ,       ,                        
+0000029 240  NN2     economists               I2.1/S2mf 
+0000029 241  ,       ,                        
+0000029 250  NP1     Washington               Z2 Z1mf 
+0000029 260  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000029 270  CC      and                      Z5 
+0000029 280  JJ      Democratic               G1.2 
+0000029 290  NN2     powerbrokers             Z99 
+0000029 291  ,       ,                        
+0000029 300  DDQ     what                     Z8 Z5 
+0000029 310  PPHS2   they                     Z8mfn 
+0000029 320  VV0     call                     Q2.2 S1.1.1 Q1.3 S9% 
+0000029 330  JJ      free                     I2.2[i61.2.1 I2.1c/S5-[i61.2.1 S6- A1.7- A1.5.1- I1.3- 
+0000029 340  NN1     trade                    I2.2[i61.2.2 I2.1c/S5-[i61.2.2 I2.2 I2.1 I3.1 I2.2/N5 
+0000029 350  VBZ     is                       A3+ Z5 
+0000029 360  PN1     something                Z8 
+0000029 370  RG      so                       A13.3 
+0000029 380  RR      obviously                Z4 A11.2+ 
+0000029 390  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000029 400  CC      and                      Z5 
+0000029 410  JJ      noble                    G2.2+ S7.1+ O4.2+ 
+0000029 420  PPH1    it                       Z8 
+0000029 430  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000029 431  XX      n't                      Z6 
+0000029 440  VVI     require                  X7+ S6+ 
+0000029 450  NN1     explanation              Q2.2/A7+ A2.2 
+0000029 460  CC      or                       Z5 
+0000029 470  NN1     inquiry                  Q2.2 X2.4 
+0000029 480  CC      or                       Z5 
+0000029 490  RR      even                     A13.1 
+0000029 500  VVN     thought                  X2.1 
+0000029 501  .       .                        
+0000029 502  -----   -----                    
+0000029 510  NN1     Republican               G1.2/S2mf 
+0000029 520  CC      and                      Z5 
+0000029 530  JJ      Democratic               G1.2 
+0000029 540  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000029 550  RR      alike                    A6.1+ 
+0000029 560  VV0     agree                    A6.1+ Q2.2 
+0000029 570  II      on                       Z5 
+0000029 580  DD1     this                     Z8 M6 Z5 
+0000029 581  ,       ,                        
+0000029 590  CC      and                      Z5 
+0000029 600  AT      no                       Z6 
+0000029 610  NN1     amount                   N5 
+0000029 620  IO      of                       Z5 
+0000029 630  NN2     facts                    A5.2+ X2.2 
+0000029 640  VM      can                      A7+ 
+0000029 650  VVI     move                     M2 M1 A2.1+ E1 H4/A2.1 
+0000029 660  PPHO2   them                     Z8mfn 
+0000029 670  II      from                     Z5 
+0000029 680  APPGE   their                    Z8 
+0000029 690  NN1     Econ                     Z2[i62.2.1 Z1mf[i62.2.1 P1 
+0000029 700  MC      101                      Z2[i62.2.2 Z1mf[i62.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000029 710  NN1     dream                    X4.1 X7+ A5.2- 
+0000029 711  .       .                        
+0000030 001  -----   -----                    
+0000031 010  II      To                       Z5 
+0000031 020  AT      the                      Z5 
+0000031 030  JJ      remaining                T2++ M8 N5.2+ 
+0000031 040  MC      80                       N1 T1.2 T3 T1.3 N3.2 
+0000031 050  CC      or                       Z5 
+0000031 060  NNU     90%                      N5 
+0000031 070  IO      of                       Z5 
+0000031 080  NP1     America                  Z2 
+0000031 081  ,       ,                        
+0000031 090  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000031 100  VVZ     means                    Q1.1 X7+ 
+0000031 110  PN1     something                Z8 
+0000031 120  RG      very                     A13.3 
+0000031 130  JJ      different                A6.1- 
+0000031 131  .       .                        
+0000031 132  -----   -----                    
+0000031 140  EX      There                    Z5 
+0000031 141  VBZ     's                       A3+ Z5 
+0000031 150  AT1     a                        Z5 
+0000031 160  NN1     video                    Q4.3 
+0000031 170  VVG     going                    M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000031 180  RP      around                   M6 
+0000031 190  II      on                       Z5 
+0000031 200  AT      the                      Z5 
+0000031 210  NN1     internet                 Y2 
+0000031 220  DD2     these                    T1.1.2[i63.2.1 Z5 Z8 
+0000031 230  NNT2    days                     T1.1.2[i63.2.2 T1.3 
+0000031 240  CST     that                     Z8 Z5 
+0000031 250  VVZ     shows                    A10+ S1.1.1 
+0000031 260  AT1     a                        Z5 
+0000031 270  NN1     room                     H2 N3.6 
+0000031 280  JJ      full                     N5.1+ I3.2+ 
+0000031 290  IO      of                       Z5 
+0000031 300  NN2     workers                  I3.1/S2mf 
+0000031 310  II      at                       Z5 
+0000031 320  AT1     a                        Z5 
+0000031 330  NN1     Carrier                  M3 M5/G3fn B2-/S2mf 
+0000031 340  NN1     air                      O4.6[i65.2.1 O1.3 A8 W1 Q4.3 M1 O4.6/O3[i64.2.1 
+0000031 350  NN1     conditioning             O4.6[i65.2.2 B4 P1 O4.6/O3[i64.2.2 L3[i66.2.1 I4/B4c[i66.2.1 
+0000031 360  NN1     plant                    L3 I4/H1c O2 A10-/S2mf L3[i66.2.2 I4/B4c[i66.2.2 
+0000031 370  II      in                       Z5 
+0000031 380  NP1     Indiana                  Z2 
+0000031 390  VBG     being                    Z5 A3+ 
+0000031 400  VVN     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000031 410  II      by                       Z5 
+0000031 420  AT1     an                       Z5 
+0000031 430  NN1     officer                  G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
+0000031 440  IO      of                       Z5 
+0000031 450  AT      the                      Z5 
+0000031 460  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000031 470  CST     that                     Z5 Z8 
+0000031 480  AT      the                      Z5 
+0000031 490  NN1     factory                  I4/H1c 
+0000031 500  VBZ     is                       Z5 A3+ 
+0000031 510  VBG     being                    Z5 A3+ 
+0000031 520  VVN     moved                    M2 M1 A2.1+ E1 H4/A2.1 
+0000031 530  II      to                       Z5 
+0000031 540  NP1     Monterrey                Z99 
+0000031 541  ,       ,                        
+0000031 550  NP1     Mexico                   Z2 Z3c 
+0000031 551  ,       ,                        
+0000031 560  CC      and                      Z5 
+0000031 570  CST     that                     Z8 Z5 
+0000031 580  PPHS2   they                     Z8mfn 
+0000031 581  VBR     're                      Z5 A3+ 
+0000031 590  RR@     all                      A13.2 
+0000031 600  VVGK    going                    T1.1.3[i67.2.1 
+0000031 610  TO      to                       T1.1.3[i67.2.2 Z5 
+0000031 620  VVI     lose                     X9.2- A9- M6/A5.3- L1- 
+0000031 630  APPGE   their                    Z8 
+0000031 640  NN2     jobs                     I3.1 A1.1.1 
+0000031 641  .       .                        
+0000032 001  -----   -----                    
+0000033 010  CSA     As                       Z5 
+0000033 020  PPIS1   I                        Z8mf 
+0000033 030  VVD     watched                  X3.4 S7.1 X2.4 A1.3+ 
+0000033 040  PPH1    it                       Z8 
+0000033 041  ,       ,                        
+0000033 050  PPIS1   I                        Z8mf 
+0000033 060  VVD     thought                  X2.1 
+0000033 070  IO      of                       Z5 
+0000033 080  DB      all                      N5.1+ 
+0000033 090  AT      the                      Z5 
+0000033 100  NN2     arguments                Q2.1 Q2.1/A6.1- Q2.1/E3- 
+0000033 110  II      over                     Z5 
+0000033 120  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000033 130  CST     that                     Z8 Z5 
+0000033 140  PPIS2   we                       Z8 
+0000033 141  VH0     've                      Z5 A9+ A2.2 
+0000033 150  VHN     had                      A9+ Z5 A2.2 S4 
+0000033 160  II      in                       Z5 
+0000033 170  DD1     this                     M6 Z5 Z8 
+0000033 180  NN1     country                  G1.1c W3 F4/M7 K2 
+0000033 190  CS      since                    Z5 
+0000033 200  AT      the                      Z5 
+0000033 210  JJ      early                    T1.3[i68.2.1 T3[i68.2.1 T4+ T1.1.1 
+0000033 220  MC2     1990s                    T1.3[i68.2.2 T3[i68.2.2 T1.3 N1 T3 
+0000033 221  ,       ,                        
+0000033 230  DB      all                      N5.1+ 
+0000033 240  AT      the                      Z5 
+0000033 250  JJ      sweet                    X3.1 O4.2+ 
+0000033 260  NN2     words                    Q3 
+0000033 270  II      from                     Z5 
+0000033 280  APPGE   our                      Z8 
+0000033 290  NN2     economists               I2.1/S2mf 
+0000033 300  II      about                    Z5 
+0000033 310  AT      the                      Z5 
+0000033 320  RR      scientifically           Y1 
+0000033 330  JJ      proven                   A5.2+ X2.4 
+0000033 340  NN1     benevolence              S8+ 
+0000033 350  IO      of                       Z5 
+0000033 360  JJ      free                     I2.2[i69.2.1 I2.1c/S5-[i69.2.1 S6- A1.7- A1.5.1- I1.3- 
+0000033 370  NN1     trade                    I2.2[i69.2.2 I2.1c/S5-[i69.2.2 I2.2 I2.1 I3.1 I2.2/N5 
+0000033 371  ,       ,                        
+0000033 380  DB      all                      N5.1+ 
+0000033 390  AT      the                      Z5 
+0000033 400  NN2     ways                     X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000033 410  II      in                       Z5 
+0000033 420  DDQ     which                    Z8 Z5 
+0000033 430  APPGE   our                      Z8 
+0000033 440  NN2     newspapers               Q4.2 
+0000033 450  VV0     mock                     Q2.2/S1.2.4- S7.2- 
+0000033 460  NN      people                   S2mfc 
+0000033 470  PNQS    who                      Z8 
+0000033 480  VV0     say                      Q2.1 Z4% 
+0000033 490  CST     that                     Z5 Z8 
+0000033 500  NN2     treaties                 G3 G1.1 G2.1 
+0000033 510  II      like                     Z5 
+0000033 520  AT      the                      Z5 
+0000033 530  NP1     North                    M6 
+0000033 540  JJ      American                 Z2 
+0000033 550  JJ      Free                     I2.2[i70.2.1 I2.1c/S5-[i70.2.1 S6- A1.7- A1.5.1- I1.3- 
+0000033 560  NN1     Trade                    I2.2[i70.2.2 I2.1c/S5-[i70.2.2 I2.2 I2.1 I3.1 I2.2/N5 
+0000033 570  NN1     Agreement                A6.1+ Q2.2 
+0000033 580  VV0     allow                    S7.4+ S8+ X2.1 
+0000033 590  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000033 600  TO      to                       Z5 
+0000033 610  VVI     move                     M2 M1 A2.1+ E1 H4/A2.1 
+0000033 620  NN2     jobs                     I3.1 A1.1.1 
+0000033 630  II      to                       Z5 
+0000033 640  NP1     Mexico                   Z2 Z3c 
+0000033 641  .       .                        
+0000034 001  -----   -----                    
+0000035 010  RR      Well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000035 011  ,       ,                        
+0000035 020  RL      here                     M6 T1.1.2 T1.2 
+0000035 030  VBZ     is                       A3+ Z5 
+0000035 040  AT1     a                        Z5 
+0000035 050  NN1     video                    Q4.3 
+0000035 060  IO      of                       Z5 
+0000035 070  AT1     a                        Z5 
+0000035 080  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000035 090  VVG     moving                   M2 M1 A2.1+ E1 H4/A2.1 
+0000035 100  APPGE   its                      Z8 
+0000035 110  NN2     jobs                     I3.1 A1.1.1 
+0000035 120  II      to                       Z5 
+0000035 130  NP1     Mexico                   Z2 Z3c 
+0000035 131  ,       ,                        
+0000035 140  NN1     courtesy                 S1.2.4+ 
+0000035 150  IO      of                       Z5 
+0000035 160  NP1     Nafta                    Z99 
+0000035 161  .       .                        
+0000035 162  -----   -----                    
+0000035 170  DD1     This                     Z8 M6 Z5 
+0000035 180  VBZ     is                       A3+ Z5 
+0000035 190  DDQ     what                     Z8 Z5 
+0000035 200  PPH1    it                       Z8 
+0000035 210  VVZ     looks                    A6.1+[i71.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000035 220  II      like                     A6.1+[i71.2.2 Z5 
+0000035 221  .       .                        
+0000035 222  -----   -----                    
+0000035 230  AT      The                      Z5 
+0000035 240  NN1     Carrier                  M3 M5/G3fn B2-/S2mf 
+0000035 250  NN1     executive                S7.1+ I2.1/S2mf G1.1c S7.1+/S5+c 
+0000035 260  NN2     talks                    Q2.1 
+0000035 270  II      in                       Z5[i72.2.1 Z5 
+0000035 280  DD1     that                     Z5[i72.2.2 Z5 Z8 
+0000035 290  JJ      familiar                 A6.2+ S1.2.1+ 
+0000035 300  CC      and                      Z5 
+0000035 310  RR      highly                   A13.3 
+0000035 320  JJ      professional             I3.2+ I3.1 X9.1+ A5.1+ 
+0000035 330  NNU     HR                       Z3c 
+0000035 340  NN1     language                 Q3 Y2 
+0000035 350  II      about                    Z5 
+0000035 360  AT      the                      Z5 
+0000035 370  NN1     need                     S6+ 
+0000035 380  TO      to                       Z5 
+0000035 390  VVI     stay                     M8 T2++ H4 
+0000035 400  JJ      competitive              S7.3+ 
+0000035 410  CC      and                      Z5 
+0000035 420  AT      the                      Z5 
+0000035 430  RR      extremely                A13.3 
+0000035 440  JJ      price-sensitive          Z99 
+0000035 450  NN1     marketplace              I2.2/M7 I2.2 
+0000035 451  .       .                        
+0000035 452  -----   -----                    
+0000035 460  AT1     A                        Z5 
+0000035 470  NN1     worker                   I3.1/S2mf 
+0000035 480  NN2     shouts                   Q2.2/X3.2++ F2@ 
+0000035 490  VV0     Fuck                     S3.2/B1 E6+ 
+0000035 500  PPY     you                      Z8mf 
+0000035 501  !       !                        
+0000035 510  II      at                       Z5 
+0000035 520  AT      the                      Z5 
+0000035 530  NN1     executive                S7.1+ I2.1/S2mf G1.1c S7.1+/S5+c 
+0000035 531  .       .                        
+0000035 532  -----   -----                    
+0000035 540  AT      The                      Z5 
+0000035 550  NN1     executive                S7.1+ I2.1/S2mf G1.1c S7.1+/S5+c 
+0000035 560  VVZ     asks                     Q2.2 
+0000035 570  NN      people                   S2mfc 
+0000035 580  TO      to                       Z5 
+0000035 590  VVI     please                   E4.2+ E2+ X7+ 
+0000035 600  VBI     be                       A3+ Z5 
+0000035 610  JJ      quiet                    X3.2- E3+ A10- A1.1.1/N5- 
+0000035 620  CS@     so                       Z5 
+0000035 630  PPHS1   he                       Z8m 
+0000035 640  VM      can                      A7+ 
+0000035 650  VVI     share                    S1.1.2+ 
+0000035 660  APPGE   his                      Z8m 
+0000035 670  NN1     information              X2.2+ 
+0000035 671  .       .                        
+0000035 672  -----   -----                    
+0000035 680  APPGE   His                      Z8m 
+0000035 690  NN1     information              X2.2+ 
+0000035 700  II      about                    Z5 
+0000035 710  DB      all                      N5.1+ 
+0000035 720  IO      of                       Z5 
+0000035 730  PPHO2   them                     Z8mfn 
+0000035 740  VVG     losing                   X9.2- A9- M6/A5.3- L1- 
+0000035 750  APPGE   their                    Z8 
+0000035 760  NN2     jobs                     I3.1 A1.1.1 
+0000035 761  .       .                        
+0000036 001  -----   -----                    
+0000037 010  FU      *                        Z5 
+0000037 020  FU      *                        Z5 
+0000037 030  FU      *                        Z5 
+0000038 010  RT      Now                      T1.1.2 Z4 
+0000038 011  ,       ,                        
+0000038 020  PPIS1   I                        Z8mf 
+0000038 030  VH0     have                     A9+ Z5 A2.2 S4 
+0000038 040  AT      no                       Z6 
+0000038 050  JJ      special                  A4.2+ A6.2- 
+0000038 060  NN1     reason                   A2.2 X2.1 
+0000038 070  TO      to                       Z5 
+0000038 080  VVI     doubt                    A7- 
+0000038 090  AT      the                      Z5 
+0000038 100  NN1     suspicion                X2.1/A5.1- A7 N5--- 
+0000038 110  CST     that                     Z5 Z8 
+0000038 120  NP1     Donald                   Z1mf[i73.2.1 Z3c[i73.2.1 Z1mf 
+0000038 130  NN1     Trump                    Z1mf[i73.2.2 Z3c[i73.2.2 Z1mf 
+0000038 140  VBZ     is                       A3+ Z5 
+0000038 150  AT1     a                        Z5 
+0000038 160  NN1     racist                   S5+/Z2/S2mf 
+0000038 161  .       .                        
+0000038 162  -----   -----                    
+0000038 170  RR      Either                   Z5 
+0000038 180  PPHS1   he                       Z8m 
+0000038 190  VBZ     is                       A3+ Z5 
+0000038 200  PN1     one                      Z8 
+0000038 201  ,       ,                        
+0000038 210  CC      or                       Z5 
+0000038 211  (       (                        
+0000038 220  CSA     as                       Z5 
+0000038 230  AT      the                      Z5 
+0000038 240  JJ      comedian                 E4.1+/S2mf K4/S2mf Q4.3/S2mf 
+0000038 250  NP1     John                     Z1mf[i74.2.1 Z3c[i74.2.1 Z1m S9/O1.2 
+0000038 260  NP1     Oliver                   Z1mf[i74.2.2 Z3c[i74.2.2 Z1m 
+0000038 270  VVZ     puts                     M2 Q2.1 Q2.2 A1.1.1 
+0000038 280  PPH1    it                       Z8 
+0000038 281  )       )                        
+0000038 290  PPHS1   he                       Z8m 
+0000038 300  VBZ     is                       Z5 A3+ 
+0000038 310  VVG     pretending               A5.4- 
+0000038 320  TO      to                       Z5 
+0000038 330  VBI     be                       A3+ Z5 
+0000038 340  PN1     one                      Z8 
+0000038 341  ,       ,                        
+0000038 350  DDQ     which                    Z8 Z5 
+0000038 360  VVZ     amounts                  A3+[i75.2.1 N5+/A2.1 
+0000038 370  II      to                       A3+[i75.2.2 Z5 
+0000038 380  AT      the                      Z5 
+0000038 390  DA      same                     A6.1+++ 
+0000038 400  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
+0000038 401  .       .                        
+0000039 001  -----   -----                    
+0000040 010  CCB     But                      Z5 
+0000040 020  EX      there                    Z5 
+0000040 030  VBZ     is                       A3+ Z5 
+0000040 040  DD1     another                  A6.1- N5++ 
+0000040 050  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000040 060  TO      to                       Z5 
+0000040 070  VVI     interpret                X2.5+ Q3 
+0000040 080  AT      the                      Z5 
+0000040 090  NN1     Trump                    Z1mf 
+0000040 100  NN1     phenomenon               A3 X3.4 A1.1.1 
+0000040 101  .       .                        
+0000040 102  -----   -----                    
+0000040 110  AT1     A                        Z5 
+0000040 120  NN1     map                      Q1.2/W3 
+0000040 130  IO      of                       Z5 
+0000040 140  APPGE   his                      Z8m 
+0000040 150  NN1     support                  S8+ O2 I1.1 B5% 
+0000040 160  VM      may                      A7+ 
+0000040 170  VVI     coordinate               S7.1+ T1.1.2 
+0000040 180  IW      with                     Z5 
+0000040 190  JJ      racist                   S5+/Z2 
+0000040 200  NN1     Google                   Z3c/Y2 
+0000040 210  NN2     searches                 X2.4 
+0000040 211  ,       ,                        
+0000040 220  CCB     but                      Z5 
+0000040 230  PPH1    it                       Z8 
+0000040 240  NN2     coordinates              N2 
+0000040 250  RR      even                     A13.1 
+0000040 260  RRR     better                   A5.1++ G2.2++ O4.2++ 
+0000040 270  IW      with                     Z5 
+0000040 280  NN1     deindustrialization      Z99 
+0000040 290  CC      and                      Z5 
+0000040 300  NN1     despair                  E4.1- 
+0000040 301  ,       ,                        
+0000040 310  IW      with                     Z5 
+0000040 320  AT      the                      Z5 
+0000040 330  NN2     zones                    M7 W3 T1.1 O4.4 
+0000040 340  IO      of                       Z5 
+0000040 350  JJ      economic                 I1.3- I2.1 
+0000040 360  NN1     misery                   E4.1- 
+0000040 370  CST     that                     Z5 Z8 
+0000040 380  MC      30                       N1 T1.2 T3 T1.3 N3.2 
+0000040 390  NNT2    years                    T1.3 
+0000040 400  IO      of                       Z5 
+0000040 410  NP1     Washington               Z2 Z1mf 
+0000040 411  GE      's                       Z5 
+0000040 420  NN1     free-market              I2.2 
+0000040 430  NN1     consensus                A6.1+ 
+0000040 440  VH0     have                     Z5 A9+ A2.2 S4 
+0000040 450  VVN     brought                  M2 A2.2 
+0000040 460  AT      the                      Z5 
+0000040 470  NN1     rest                     E3+ K1 T2-/T1.3 O2 N5.1- 
+0000040 480  IO      of                       Z5 
+0000040 490  NP1     America                  Z2 
+0000040 491  .       .                        
+0000041 001  -----   -----                    
+0000042 010  PPH1    It                       Z8 
+0000042 020  VBZ     is                       A3+ Z5 
+0000042 030  II      worth                    I1.3 A1.5.2+ S1.1.4+ N5 Z3 Z1mf Z2 
+0000042 040  VVG     noting                   Q2.1 Q1.2 
+0000042 050  DD1     that                     Z5 Z8 
+0000042 060  NN1     Trump                    Z1mf 
+0000042 070  VBZ     is                       Z5 A3+ 
+0000042 080  VVG     making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000042 090  AT1     a                        Z5 
+0000042 100  NN1     point                    Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
+0000042 110  IO      of                       Z5 
+0000042 120  VVG     assailing                Q2.2 E3- G3 A1.1.1 
+0000042 130  CST     that                     Z5 Z8 
+0000042 140  NP1     Indiana                  Z2 
+0000042 150  NN1     air                      O4.6[i77.2.1 O1.3 A8 W1 Q4.3 M1 O4.6/O3[i76.2.1 
+0000042 160  NN1     conditioning             O4.6[i77.2.2 B4 P1 O4.6/O3[i76.2.2 B4/I2.1c[i78.2.1 
+0000042 170  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c B4/I2.1c[i78.2.2 
+0000042 180  II      from                     Z5 
+0000042 190  AT      the                      Z5 
+0000042 200  NN1     video                    Q4.3 
+0000042 210  II      in                       Z5 
+0000042 220  APPGE   his                      Z8m 
+0000042 230  NN2     speeches                 Q2.1 Q3 
+0000042 231  .       .                        
+0000042 232  -----   -----                    
+0000042 240  DDQ     What                     Z8 Z5 
+0000042 250  DD1     this                     Z8 M6 Z5 
+0000042 260  VVZ     suggests                 Q2.2 Q1.1 
+0000042 270  VBZ     is                       A3+ Z5 
+0000042 280  CST     that                     Z8 Z5 
+0000042 290  PPHS1   he                       Z8m 
+0000042 291  VBZ     's                       Z5 A3+ 
+0000042 300  VVG     telling                  Q2.2 Q2.1 X3 A10+ 
+0000042 310  AT1     a                        Z5 
+0000042 320  NN1     tale                     Q2.1 
+0000042 330  RG      as                       A13 
+0000042 340  DA1     much                     N5+ I1.3+ 
+0000042 350  II      about                    Z5 
+0000042 360  JJ      economic                 I1.3- I2.1 
+0000042 370  NN1     outrage                  E3- 
+0000042 380  CSA     as                       Z4[i79.3.1 A2.1-[i79.3.1 Z5 
+0000042 390  PPH1    it                       Z4[i79.3.2 A2.1-[i79.3.2 Z8 
+0000042 400  VBZ     is                       Z4[i79.3.3 A2.1-[i79.3.3 A3+ Z5 
+0000042 410  NN1     tale                     Q2.1 
+0000042 420  IO      of                       Z5 
+0000042 430  NN1     racism                   S5+/Z2 
+0000042 440  II      on                       Z5 
+0000042 450  AT      the                      Z5 
+0000042 460  NN1     march                    M1 G3 G1.2 
+0000042 461  .       .                        
+0000042 462  -----   -----                    
+0000042 470  DA2     Many                     N5+ 
+0000042 480  IO      of                       Z5 
+0000042 490  NN1     Trump                    Z1mf 
+0000042 491  GE      's                       Z5 
+0000042 500  NN2     followers                S7.1-/S2mf 
+0000042 510  VBR     are                      A3+ Z5 
+0000042 520  NN2     bigots                   S1.2.3+/S2mf 
+0000042 521  ,       ,                        
+0000042 530  RR21    no                       A7+[i80.2.1 Z6 
+0000042 540  RR22    doubt                    A7+[i80.2.2 
+0000042 541  ,       ,                        
+0000042 550  CCB     but                      Z5 
+0000042 560  DA2     many                     N5+ 
+0000042 570  DAR     more                     N5++ 
+0000042 580  VBR     are                      Z5 A3+ 
+0000042 590  RR      probably                 A7+ 
+0000042 600  VVN     excited                  X5.2+ 
+0000042 610  II      by                       Z5 
+0000042 620  AT      the                      Z5 
+0000042 630  NN1     prospect                 A7+ X2.6+ X3.4 
+0000042 640  IO      of                       Z5 
+0000042 650  AT1     a                        Z5 
+0000042 660  NN1     president                G1.1/S7.1+/S2mf 
+0000042 670  PNQS    who                      Z8 
+0000042 680  VVZ     seems                    A8 
+0000042 690  TO      to                       Z5 
+0000042 700  VVI     mean                     Q1.1 X7+ 
+0000042 710  PPH1    it                       Z8 
+0000042 720  CS      when                     Z5 
+0000042 730  PPHS1   he                       Z8m 
+0000042 740  VVZ     denounces                Q2.2/E2- 
+0000042 750  APPGE   our                      Z8 
+0000042 760  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000042 770  NN2     agreements               A6.1+ Q2.2 
+0000042 780  CC      and                      Z5 
+0000042 790  VVZ     promises                 S6+ A7+ 
+0000042 800  TO      to                       Z5 
+0000042 810  VVI     bring                    M2 A2.2 
+0000042 820  AT      the                      Z5 
+0000042 830  NN1     hammer                   O2 
+0000042 840  RP      down                     Z5 M6 N4 N5-- E4.1- S7.1- N3.1 Q1.2 O1.1 L2 Z1mf F1/B1 A1.1.1 
+0000042 850  II      on                       Z5 
+0000042 860  AT      the                      Z5 
+0000042 870  NN1     CEO                      S7.1+/S2mf 
+0000042 880  CST     that                     Z8 Z5 
+0000042 890  VVD     fired                    I3.1- G3 M2 A2.2 Q2.2 
+0000042 900  PPY     you                      Z8mf 
+0000042 910  CC      and                      Z5 
+0000042 920  VVD     wrecked                  A1.1.2 
+0000042 930  APPGE   your                     Z8 
+0000042 940  NN1     town                     M7 
+0000042 941  ,       ,                        
+0000042 950  II@     unlike                   Z5 
+0000042 960  NP1     Barack                   Z1mf[i81.2.1 Z3c[i81.2.1 
+0000042 970  NP1     Obama                    Z1mf[i81.2.2 Z3c[i81.2.2 
+0000042 980  CC      and                      Z5 
+0000042 990  NP1     Hillary                  Z1mf[i82.2.1 Z3c[i82.2.1 
+0000042 000  NP1     Clinton                  Z1mf[i82.2.2 Z3c[i82.2.2 Z1mf 
+0000042 001  .       .                        
+0000043 001  -----   -----                    
+0000044 010  RL      Here                     M6 T1.1.2 T1.2 
+0000044 020  VBZ     is                       A3+ Z5 
+0000044 030  AT      the                      Z5 
+0000044 040  RGT     most                     A13.2 
+0000044 050  JJ      salient                  A11.1+ 
+0000044 060  JJ      supporting               S8+ A1.1.1 K5.1 I1.1 A10+ 
+0000044 070  NN1     fact                     A5.2+ X2.2 
+0000044 071  :       :                        
+0000044 080  RRQ     when                     Z5 
+0000044 090  NN      people                   S2mfc 
+0000044 100  VV0     talk                     Q2.1 
+0000044 110  II      to                       Z5 
+0000044 120  JJ      white                    O4.3 G2.2+ 
+0000044 121  ,       ,                        
+0000044 130  JJ      working-class            S5+c 
+0000044 140  NN1     Trump                    Z3/S2mf[i83.2.1 Z1mf 
+0000044 150  NN2     supporters               Z3/S2mf[i83.2.2 S8+/S2mf K5.1/S2mf Q1.1% 
+0000044 151  ,       ,                        
+0000044 160  CS21%   instead                  A6.1-[i84.2.1 
+0000044 170  CS22    of                       A6.1-[i84.2.2 
+0000044 180  RR      simply                   A13.6 A14 A12+ 
+0000044 190  VVG     imagining                X2.1 A5.2- 
+0000044 200  DDQ     what                     Z8 Z5 
+0000044 210  PPHS2   they                     Z8mfn 
+0000044 220  VM      might                    A7+ 
+0000044 230  VVI     say                      Q2.1 Z4% 
+0000044 231  ,       ,                        
+0000044 240  PPHS2   they                     Z8mfn 
+0000044 250  VV0     find                     A10+ X2.1 X6+ 
+0000044 260  CST     that                     Z5 Z8 
+0000044 270  DDQ     what                     Z8 Z5 
+0000044 280  RRT@    most                     N5+++ 
+0000044 290  VVZ     concerns                 E6- A1.8+ S1.1.3+ 
+0000044 300  DD2     these                    Z5 Z8 
+0000044 310  NN      people                   S2mfc 
+0000044 320  VBZ     is                       A3+ Z5 
+0000044 330  AT      the                      Z5 
+0000044 340  NN1     economy                  I2.1 I1.3- 
+0000044 350  CC      and                      Z5 
+0000044 360  APPGE   their                    Z8 
+0000044 370  NN1     place                    M7 H1 A1.2 P1 
+0000044 380  II      in                       Z5 
+0000044 390  PPH1    it                       Z8 
+0000044 391  .       .                        
+0000044 392  -----   -----                    
+0000044 400  PPIS1   I                        Z8mf 
+0000044 410  VBM     am                       Z5 A3+ 
+0000044 420  VVG     referring                Q2.2 Q1.2 
+0000044 430  II      to                       Z5 
+0000044 440  AT1     a                        Z5 
+0000044 450  NN1     study                    P1 X2.4 H2 Q1.2 C1 
+0000044 460  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000044 470  VVN     published                Q4 
+0000044 480  II      by                       Z5 
+0000044 490  VVG     Working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000044 500  NP1     America                  Z2 
+0000044 501  ,       ,                        
+0000044 510  AT1     a                        Z5 
+0000044 520  JJ      political-action         Z99 
+0000044 530  NN1     auxiliary                S8+/S2mf Q3 
+0000044 540  IO      of                       Z5 
+0000044 550  AT      the                      Z5 
+0000044 560  NN1     AFL-CIO                  Z99 
+0000044 561  ,       ,                        
+0000044 570  DDQ     which                    Z8 Z5 
+0000044 580  VVD     interviewed              Q2.1 
+0000044 590  DD      some                     N5 Z5 
+0000044 600  MC      1,600                    N1 T1.2 T3 T1.3 N3.2 
+0000044 610  JJ      white                    O4.3 G2.2+ 
+0000044 620  JJ      working-class            S5+c 
+0000044 630  NN2     voters                   G1.2/S2mf 
+0000044 640  II      in                       Z5 
+0000044 650  AT      the                      Z5 
+0000044 660  NN2     suburbs                  H4/M7 
+0000044 670  IO      of                       Z5 
+0000044 680  NP1     Cleveland                Z2 Z3c Z1mf 
+0000044 690  CC      and                      Z5 
+0000044 700  NP1     Pittsburgh               Z99 
+0000044 710  II      in                       Z5 
+0000044 720  NPM1    December                 T1.3 
+0000044 730  CC      and                      Z5 
+0000044 740  NPM1    January                  T1.3 
+0000044 741  .       .                        
+0000045 001  -----   -----                    
+0000046 010  VV0     Support                  S8+ A1.1.1 K5.1 I1.1 A10+ 
+0000046 020  IF      for                      Z5 
+0000046 030  NP1     Donald                   Z1mf[i85.2.1 Z3c[i85.2.1 Z1mf 
+0000046 040  NN1     Trump                    Z1mf[i85.2.2 Z3c[i85.2.2 Z1mf 
+0000046 041  ,       ,                        
+0000046 050  AT      the                      Z5 
+0000046 060  NN1     group                    S5+c A4.1c B3% 
+0000046 070  VVD     found                    A10+ X2.1 X6+ 
+0000046 071  ,       ,                        
+0000046 080  VVD     ran                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000046 090  JJ      strong                   S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+ 
+0000046 100  II      among                    Z5 
+0000046 110  DD2     these                    Z5 Z8 
+0000046 120  NN      people                   S2mfc 
+0000046 121  ,       ,                        
+0000046 130  RR      even                     A13.1 
+0000046 140  II      among                    Z5 
+0000046 150  JJ      self-identified          Z99 
+0000046 160  NN2     Democrats                Z3c 
+0000046 161  ,       ,                        
+0000046 170  CCB     but                      Z5 
+0000046 180  XX      not                      Z6 
+0000046 190  CS      because                  Z5/A2.2 
+0000046 200  PPHS2   they                     Z8mfn 
+0000046 210  VBR     are                      A3+ Z5 
+0000046 220  DB      all                      N5.1+ 
+0000046 230  VVG     pining                   E4.1- 
+0000046 240  IF      for                      Z5 
+0000046 250  AT1     a                        Z5 
+0000046 260  NN1     racist                   S5+/Z2/S2mf 
+0000046 270  II      in                       Z5 
+0000046 280  AT      the                      Z5 
+0000046 290  NP1     White                    Z3c[i86.2.1 Z2[i86.2.1 Z1mf 
+0000046 300  NN1     House                    Z3c[i86.2.2 Z2[i86.2.2 H1 P1/S5+c G1.1c 
+0000046 301  .       .                        
+0000046 302  -----   -----                    
+0000046 310  APPGE   Their                    Z8 
+0000046 320  JJ      favorite                 E2+++ 
+0000046 330  NN1     aspect                   A4.1 A8 M6 
+0000046 340  IO      of                       Z5 
+0000046 350  NN1     Trump                    Z1mf 
+0000046 360  VBDZ    was                      A3+ Z5 
+0000046 370  APPGE   his                      Z8m 
+0000046 380  NN1     attitude                 X2.1/E1 
+0000046 381  ,       ,                        
+0000046 390  AT      the                      Z5 
+0000046 400  JJ      blunt                    O4.5 A5.2+ 
+0000046 410  CC      and                      Z5 
+0000046 420  JJ      forthright               A5.2+ 
+0000046 430  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000046 440  PPHS1   he                       Z8m 
+0000046 450  VVZ@    talks                    Q2.1 
+0000046 451  .       .                        
+0000046 452  -----   -----                    
+0000046 460  CS31    As                       Z5[i87.3.1 Z5 
+0000046 470  CS32    far                      Z5[i87.3.2 
+0000046 480  CS33    as                       Z5[i87.3.3 Z5 
+0000046 490  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000046 500  VBR     are                      A3+ Z5 
+0000046 510  JJ      concerned                E6- A1.8+ A2.2 S1.1.3+ 
+0000046 511  ,       ,                        
+0000046 520  NN1     immigration              M1/M7 
+0000046 530  VVN     placed                   M2 X2.2+ I3.1 Q2.2 
+0000046 540  MD      third                    N4 N5 N1 
+0000046 550  II      among                    Z5 
+0000046 560  AT      the                      Z5 
+0000046 570  NN2     matters                  X4.1 O1 
+0000046 580  DA      such                     Z5 Z8 
+0000046 590  NN2     voters                   G1.2/S2mf 
+0000046 600  VV0     care                     E6- E2+ S8+ B3 X7+ 
+0000046 610  II      about                    Z5 
+0000046 611  ,       ,                        
+0000046 620  RR      far                      A13.3 N3.3+ X9.2+ 
+0000046 630  II      behind                   Z5 
+0000046 640  APPGE   their                    Z8 
+0000046 650  NN1     number                   A11.1+++[i88.2.1 N5 N1 Q1.3 K2 Q4.2 
+0000046 660  MC1     one                      A11.1+++[i88.2.2 N1 T3 T1.2 
+0000046 670  NN1     concern                  E6- I2.1 
+0000046 671  :       :                        
+0000046 680  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000046 690  NN2     jobs                     I3.1 A1.1.1 
+0000046 700  FO      /                        Z5 
+0000046 710  AT      the                      Z5 
+0000046 720  NN1     economy                  I2.1 I1.3- 
+0000046 721  .       .                        
+0000047 001  -----   -----                    
+0000048 010  NN      People                   S2mfc 
+0000048 020  VBR     are                      A3+ Z5 
+0000048 030  RR      much                     A13.3 N6+ 
+0000048 040  RGR     more                     A13.3 
+0000048 050  JJ      frightened               E5- 
+0000048 060  CSN     than                     Z5 
+0000048 070  PPHS2   they                     Z8mfn 
+0000048 080  VBR     are                      A3+ Z5 
+0000048 090  JJ      bigoted                  S1.2.3+ 
+0000048 091  ,       ,                        
+0000048 100  VBZ     is                       A3+ Z5 
+0000048 110  RRQ     how                      Z5 A13.3 
+0000048 120  AT      the                      Z5 
+0000048 130  NN2     findings                 A10+ X2.1 X6+ 
+0000048 140  VBDR    were                     Z5 A3+ 
+0000048 150  VVN     described                Q2.2 
+0000048 160  II      to                       Z5 
+0000048 170  PPIO1   me                       Z8mf 
+0000048 180  II      by                       Z5 
+0000048 190  NP1     Karen                    Z1mf[i89.2.1 Z3c[i89.2.1 Z1f Z2/S2mf 
+0000048 200  NP1     Nussbaum                 Z1mf[i89.2.2 Z3c[i89.2.2 
+0000048 201  ,       ,                        
+0000048 210  AT      the                      Z5 
+0000048 220  NN1     executive                S7.1+ I2.1/S2mf G1.1c S7.1+/S5+c 
+0000048 230  NN1     director                 S7.1+/S2mf K4/S2mf 
+0000048 240  IO      of                       Z5 
+0000048 250  VVG     Working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000048 260  NP1     America                  Z2 
+0000048 261  .       .                        
+0000048 262  -----   -----                    
+0000048 270  AT      The                      Z5 
+0000048 280  NN1     survey                   X2.4 
+0000048 290  VVD     confirmed                A7+ Q2.2 S9@ 
+0000048 300  DDQ     what                     Z8 Z5 
+0000048 310  PPIS2   we                       Z8 
+0000048 320  VVD     heard                    X3.2 X2.3+ G2.1@ 
+0000048 330  DB      all                      T2++[i90.3.1 N6+[i90.3.1 N5.1+ 
+0000048 340  AT      the                      T2++[i90.3.2 N6+[i90.3.2 Z5 
+0000048 350  NNT1    time                     T2++[i90.3.3 N6+[i90.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000048 351  :       :                        
+0000048 360  NN      people                   S2mfc 
+0000048 370  VBR     are                      A3+ Z5 
+0000048 380  JJ21    fed                      E4.2-[i91.2.1 X5.2-[i91.2.1 
+0000048 390  JJ22    up                       E4.2-[i91.2.2 X5.2-[i91.2.2 X9.1+ 
+0000048 391  ,       ,                        
+0000048 400  NN      people                   S2mfc 
+0000048 410  VBR     are                      Z5 A3+ 
+0000048 420  VVG     hurting                  B2- E4.1- A1.1.2 
+0000048 421  ,       ,                        
+0000048 430  PPHS2   they                     Z8mfn 
+0000048 440  VBR     are                      A3+ Z5 
+0000048 450  RG      very                     A13.3 
+0000048 460  JJ      distressed               E6- E4.1- B2- 
+0000048 470  II      about                    Z5 
+0000048 480  AT      the                      Z5 
+0000048 490  NN1     fact                     A5.2+ X2.2 
+0000048 500  CST     that                     Z5 Z8 
+0000048 510  APPGE   their                    Z8 
+0000048 520  NN2     kids                     S2mf/T3- S4mf L2 
+0000048 530  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000048 531  XX      n't                      Z6 
+0000048 540  VHI     have                     A9+ Z5 A2.2 S4 
+0000048 550  AT1     a                        Z5 
+0000048 560  NN1     future                   T1.1.3 
+0000048 570  CC      and                      Z5 
+0000048 580  CST     that                     Z5 Z8 
+0000048 590  EX      there                    Z5 
+0000048 600  RR      still                    T2++ Z4 E3+ 
+0000048 610  VHZ     has                      Z5 A9+ A2.2 S4 
+0000048 611  XX      n't                      Z6 
+0000048 620  VBN     been                     A3+ Z5 
+0000048 630  AT1     a                        Z5 
+0000048 640  NN1     recovery                 B2+ A5.1+/A2.1 A9+ 
+0000048 650  II      from                     Z5 
+0000048 660  AT      the                      Z5 
+0000048 670  NN1     recession                I2.1/N5- 
+0000048 671  ,       ,                        
+0000048 680  CST     that                     Z5 Z8 
+0000048 690  AT1     every                    N5.1+ 
+0000048 700  NN1     family                   S4c A4.1c 
+0000048 710  RR      still                    T2++ Z4 E3+ 
+0000048 720  VVZ     suffers                  E4.1- B2- X3 A5.1-/A2.1 S7.4+ 
+0000048 730  II      from                     Z5 
+0000048 740  PPH1    it                       Z8 
+0000048 750  II      in                       Z5 
+0000048 760  MC1     one                      M6[i92.2.1 S1.1.2-[i92.2.1 N1 T3 T1.2 Z3c[i93.2.1 
+0000048 770  NN1     way                      M6[i92.2.2 S1.1.2-[i92.2.2 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 Z3c[i93.2.2 
+0000048 780  CC      or                       Z5 
+0000048 790  DD1     another                  A6.1- N5++ 
+0000048 791  .       .                        
+0000049 001  -----   -----                    
+0000050 010  NP1     Tom                      Z1mf[i94.2.1 Z3c[i94.2.1 Z1m 
+0000050 020  NP1     Lewandowski              Z1mf[i94.2.2 Z3c[i94.2.2 
+0000050 021  ,       ,                        
+0000050 030  AT      the                      Z5 
+0000050 040  NN1     president                G1.1/S7.1+/S2mf 
+0000050 050  IO      of                       Z5 
+0000050 060  AT      the                      Z5 
+0000050 070  ND1     Northeast                Z2[i95.2.1 
+0000050 080  NP1     Indiana                  Z2[i95.2.2 Z2 Z1mf[i96.2.1 Z3c[i96.2.1 
+0000050 090  JJ      Central                  Z3c Z1mf[i96.2.2 Z3c[i96.2.2 
+0000050 100  NN1     Labor                    A1.1.1 A12- I3.1/S5+ B1 
+0000050 110  NN1     Council                  G1.1c S7.1+/S5+c 
+0000050 120  II      in                       Z5 
+0000050 130  NP1     Fort                     Z2[i98.2.1 Z1mf[i97.2.1 Z3c[i97.2.1 
+0000050 140  NP1     Wayne                    Z2[i98.2.2 Z1mf Z1mf[i97.2.2 Z3c[i97.2.2 
+0000050 141  ,       ,                        
+0000050 150  VVZ     puts                     M2 Q2.1 Q2.2 A1.1.1 
+0000050 160  PPH1    it                       Z8 
+0000050 170  RR      even                     A13.1 
+0000050 180  RGR     more                     A13.3 
+0000050 190  RR      bluntly                  A5.2+ 
+0000050 200  CS      when                     Z5 
+0000050 210  PPIS1   I                        Z8mf 
+0000050 220  VVD     asked                    Q2.2 
+0000050 230  PPHO1   him                      Z8m 
+0000050 240  II      about                    Z5 
+0000050 250  JJ      working-class            S5+c 
+0000050 260  NN1     Trump                    Z1/E2+mf[i99.2.1 Z1mf 
+0000050 270  NN2     fans                     Z1/E2+mf[i99.2.2 S2/E2+mf O2 
+0000050 271  .       .                        
+0000050 272  -----   -----                    
+0000050 280  DD2     These                    Z5 Z8 
+0000050 290  NN      people                   S2mfc 
+0000050 300  VBR     are                      A3+ Z5 
+0000050 301  XX      n't                      Z6 
+0000050 310  JJ      racist                   S5+/Z2 
+0000050 311  ,       ,                        
+0000050 320  XX      not                      Z6 
+0000050 330  DD      any                      T1.1.2[i100.2.1 N5.1+ N5 
+0000050 340  DAR     more                     T1.1.2[i100.2.2 N5++ 
+0000050 350  CSN     than                     Z5 
+0000050 360  PN1     anybody                  Z8mfc 
+0000050 370  RR      else                     A6.1- Z4 
+0000050 380  VBZ     is                       A3+ Z5 
+0000050 381  ,       ,                        
+0000050 390  PPHS1   he                       Z8m 
+0000050 400  VVZ     says                     Q2.1 
+0000050 410  IO      of                       Z5 
+0000050 420  NN1     Trump                    Z3/S2mf[i101.2.1 Z1mf 
+0000050 430  NN2     supporters               Z3/S2mf[i101.2.2 S8+/S2mf K5.1/S2mf Q1.1% 
+0000050 440  PPHS1   he                       Z8m 
+0000050 450  VVZ     knows                    X2.2+ S3.2/B1% 
+0000050 451  .       .                        
+0000050 452  -----   -----                    
+0000050 460  CS      When                     Z5 
+0000050 470  NN1     Trump                    Z1mf 
+0000050 480  NN2     talks                    Q2.1 
+0000050 490  II      about                    Z5 
+0000050 500  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000050 501  ,       ,                        
+0000050 510  PPIS2   we                       Z8 
+0000050 520  VV0     think                    X2.1 
+0000050 530  II      about                    Z5 
+0000050 540  AT      the                      Z5 
+0000050 550  NP1     Clinton                  Z1mf 
+0000050 560  NN1     administration           S7.1+c A9- 
+0000050 561  ,       ,                        
+0000050 570  MD      first                    N4 
+0000050 580  IW      with                     Z5 
+0000050 590  NP1     Nafta                    Z99 
+0000050 600  CC      and                      Z5 
+0000050 610  RT      then                     N4 Z5 T1.2 
+0000050 620  IW      with                     Z5 
+0000050 621  (       &lsqb;                   
+0000050 630  JJ      Permanent                Z3c 
+0000050 640  JJ      Normal                   A6.2+ 
+0000050 650  NN1     Trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000050 660  NN2     Relations                A2.2 S1.1.1 S4 S3.2 
+0000050 661  )       &rsqb;                   
+0000050 670  NP1     China                    Z2 
+0000050 671  ,       ,                        
+0000050 680  CC      and                      Z5 
+0000050 690  RL      here                     M6 T1.1.2 T1.2 
+0000050 700  II      in                       Z5 
+0000050 710  ND1     Northeast                Z2[i102.2.1 
+0000050 720  NP1     Indiana                  Z2[i102.2.2 Z2 
+0000050 721  ,       ,                        
+0000050 730  PPIS2   we                       Z8 
+0000050 740  VVD     hemorrhaged              B2- 
+0000050 750  NN2     jobs                     I3.1 A1.1.1 
+0000050 751  .       .                        
+0000051 001  -----   -----                    
+0000052 010  PPHS2   They                     Z8mfn 
+0000052 020  VV0     look                     X3.4[i103.2.1 X2.4[i103.2.1 X2.1[i103.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000052 030  II      at                       X3.4[i103.2.2 X2.4[i103.2.2 X2.1[i103.2.2 Z5 
+0000052 040  DD1     that                     Z8 Z5 
+0000052 041  ,       ,                        
+0000052 050  CC      and                      Z5 
+0000052 060  RL      here                     M6 T1.1.2 T1.2 
+0000052 061  GE      's                       Z5 
+0000052 070  NN1     Trump                    Z1mf 
+0000052 080  VVG     talking                  Q2.1 
+0000052 090  II      about                    Z5 
+0000052 100  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000052 101  ,       ,                        
+0000052 110  II      in                       Z5 
+0000052 120  AT1     a                        Z5 
+0000052 130  JJ      ham-handed               X9.1- 
+0000052 140  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000052 141  ,       ,                        
+0000052 150  CCB     but                      Z5 
+0000052 160  RR21    at                       A13.7[i104.2.1 
+0000052 170  RR22    least                    A13.7[i104.2.2 A13.7 
+0000052 180  PPHS1   he                       Z8m 
+0000052 181  VBZ     's                       Z5 A3+ 
+0000052 190  VVG     representing             Q1.1 A6.2+ S1.1.3 A5.4- K4 
+0000052 200  RR      emotionally              E1 
+0000052 201  .       .                        
+0000052 202  -----   -----                    
+0000052 210  PPIS2   We                       Z8 
+0000052 211  VH0     've                      Z5 A9+ A2.2 
+0000052 220  VHN     had                      A9+ Z5 A2.2 S4 
+0000052 230  DB      all                      N5.1+ 
+0000052 240  AT      the                      Z5 
+0000052 250  JJ      political                G1.2 
+0000052 260  NN1     establishment            T2+ H1c G1.1c I3.1c 
+0000052 270  VVG     standing                 M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2. 
+0000052 280  II      behind                   Z5 
+0000052 290  AT1     every                    N5.1+ 
+0000052 300  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000052 310  NN1     deal                     N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
+0000052 311  ,       ,                        
+0000052 320  CC      and                      Z5 
+0000052 330  PPIS2   we                       Z8 
+0000052 340  VVD     endorsed                 S8+/Q2.2 Q1.2 
+0000052 350  DD      some                     N5 Z5 
+0000052 360  IO      of                       Z5 
+0000052 370  DD2     these                    Z5 Z8 
+0000052 380  NN      people                   S2mfc 
+0000052 381  ,       ,                        
+0000052 390  CC      and                      Z5 
+0000052 400  RT      then                     N4 Z5 T1.2 
+0000052 410  PPIS2   we                       Z8 
+0000052 411  VH0     've                      Z5 A9+ A2.2 
+0000052 420  VHN     had                      S6+[i105.2.1 A9+ Z5 A2.2 S4 
+0000052 430  TO      to                       S6+[i105.2.2 Z5 
+0000052 440  VVI     fight                    S8- X8+ E3- G1.2 
+0000052 450  PPHO2   them                     Z8mfn 
+0000052 460  TO      to                       Z5 
+0000052 470  VVI     get                      A2.2 A9+ Z5 X9.2+ A2.1+ M1 M2 X2.5+ E4.1- 
+0000052 480  PPHO2   them                     Z8mfn 
+0000052 490  TO      to                       Z5 
+0000052 500  VVI     represent                Q1.1 A6.2+ S1.1.3 A5.4- K4 
+0000052 510  PPIO2   us                       Z8 
+0000052 511  .       .                        
+0000053 001  -----   -----                    
+0000054 010  RT      Now                      T1.1.2 Z4 
+0000054 011  ,       ,                        
+0000054 020  VV0     let                      S7.4+ I2.2/H1 T2- 
+0000054 030  PPIO2   us                       Z8 
+0000054 040  VVI     stop                     T2- S8- M8 H4 A1.1.1@ 
+0000054 050  CC      and                      Z5 
+0000054 060  VVI     smell                    X3.5 X3 A8 
+0000054 070  AT      the                      Z5 
+0000054 080  NN1     perversity               S1.2.3+ G2.2- 
+0000054 081  .       .                        
+0000054 082  -----   -----                    
+0000054 090  JJ      Left                     M6 G1.2 N5.2+ 
+0000054 100  NN2     parties                  S1.1.3+ G1.2 S1.1.3+/S2mf S5+ 
+0000054 110  AT      the                      Z5 
+0000054 120  NN1     world                    W1 S5+c A4.1 N5+ 
+0000054 130  RP      over                     T2- M6 
+0000054 140  VBDR    were                     Z5 A3+ 
+0000054 150  VVN     founded                  T2+ A2.2 A1.1.1 
+0000054 160  TO      to                       Z5 
+0000054 170  VVI     advance                  M1 A5.1+/A2.1+ I1.1 T4+ S8+ X2.1 
+0000054 180  AT      the                      Z5 
+0000054 190  NN2     fortunes                 I1.1+++ A1.4 X9.2 T1.1.3/S9 
+0000054 200  IO      of                       Z5 
+0000054 210  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000054 220  NN      people                   S2mfc 
+0000054 221  .       .                        
+0000054 222  -----   -----                    
+0000054 230  CCB     But                      Z5 
+0000054 240  APPGE   our                      Z8 
+0000054 250  JJ      left                     M6 G1.2 N5.2+ 
+0000054 260  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000054 270  II      in                       Z5 
+0000054 280  NP1     America                  Z2 
+0000054 290  MC1     one                      N1 T3 T1.2 
+0000054 300  IO      of                       Z5 
+0000054 310  APPGE   our                      Z8 
+0000054 320  MC      two                      N1 T3 T1.2 
+0000054 330  NN1     monopoly                 S7.1+ S5- 
+0000054 340  NN2     parties                  S1.1.3+ G1.2 S1.1.3+/S2mf S5+ 
+0000054 350  VVD     chose                    X7+ 
+0000054 360  RR      long                     T1.1.1[i106.2.1 T1.3+ 
+0000054 370  RA      ago                      T1.1.1[i106.2.2 T1.1.1 
+0000054 380  TO      to                       Z5 
+0000054 390  VVI     turn                     A1.9[i107.4.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000054 400  APPGE   its                      A1.9[i107.4.2 Z8 
+0000054 410  NN1     back                     A1.9[i107.4.3 B1 M6 
+0000054 420  II      on                       A1.9[i107.4.4 Z5 
+0000054 430  DD2     these                    Z5 Z8 
+0000054 440  NN      people                   S2mfc 
+0000054 441  GE      's                       Z5 
+0000054 450  NN2     concerns                 E6- I2.1 
+0000054 451  ,       ,                        
+0000054 460  VVG     making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000054 470  PPX1    itself                   Z8 
+0000054 480  RR      instead                  A6.1- 
+0000054 490  II      into                     Z5 
+0000054 500  AT      the                      Z5 
+0000054 510  NN1     tribune                  Z3/Q4.2 
+0000054 520  IO      of                       Z5 
+0000054 530  AT      the                      Z5 
+0000054 540  JJ      enlightened              A5.1+ X2.3+ X9.1+ 
+0000054 550  JJ      professional             I3.2+ I3.1 X9.1+ A5.1+ 
+0000054 560  NN1     class                    P1c A4.1 S5+c O4.2+ 
+0000054 561  ,       ,                        
+0000054 570  AT1     a                        Z5 
+0000054 580  JJ      creative                 X2.1/A6.2- 
+0000054 590  NN1     class                    P1c A4.1 S5+c O4.2+ 
+0000054 600  CST     that                     Z8 Z5 
+0000054 610  VVZ     makes                    A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000054 620  JJ      innovative               T3- 
+0000054 630  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000054 640  II      like                     Z5 
+0000054 650  JJ      derivative               A2.2 Q3 
+0000054 660  NN2     securities               G2.1 A15+ E6+ I1.1 
+0000054 670  CC      and                      Z5 
+0000054 680  VV0     smartphone               Z99 
+0000054 690  NN2     apps                     Z99 
+0000054 691  .       .                        
+0000054 692  -----   -----                    
+0000054 700  AT      The                      Z5 
+0000054 710  JJ@     working                  I3.1 A1.1.1 X9.2+ 
+0000054 720  NN      people                   S2mfc 
+0000054 730  CST     that                     Z5 Z8 
+0000054 740  AT      the                      Z5 
+0000054 750  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000054 760  VMK     used                     T1.1.1[i108.2.1 A6.2+[i108.2.1 
+0000054 770  TO      to                       T1.1.1[i108.2.2 A6.2+[i108.2.2 Z5 
+0000054 780  VVI     care                     E6- E2+ S8+ B3 X7+ 
+0000054 790  II      about                    Z5 
+0000054 791  ,       ,                        
+0000054 800  NN2     Democrats                Z3c 
+0000054 810  VVD     figured                  X2.1 X2.5+ 
+0000054 811  ,       ,                        
+0000054 820  VHD     had                      S6+[i109.2.1 A9+ Z5 A2.2 S4 
+0000054 830  RL      nowhere                  M6/Z6 
+0000054 840  RR      else                     A6.1- Z4 
+0000054 850  TO      to                       S6+[i109.2.2 Z5 
+0000054 860  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000054 861  ,       ,                        
+0000054 870  II      in                       Z5 
+0000054 880  AT      the                      Z5 
+0000054 890  JJ      famous                   X2.2+ 
+0000054 900  JJ      Clinton-era              Z99 
+0000054 910  NN1     expression               Q3 E1/B1 
+0000054 911  .       .                        
+0000054 912  -----   -----                    
+0000054 920  AT      The                      Z5 
+0000054 930  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000054 940  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000054 950  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000054 951  XX      n't                      Z6 
+0000054 960  VVI     need                     S6+ 
+0000054 970  TO      to                       Z5 
+0000054 980  VVI     listen                   X3.2 
+0000054 990  II      to                       Z5 
+0000054 000  PPHO2   them                     Z8mfn 
+0000054 010  RR21    any                      A13.3 
+0000054 020  RR22    longer                   T1.3++ 
+0000054 021  .       .                        
+0000055 001  -----   -----                    
+0000056 010  DDQ     What                     Z8 Z5 
+0000056 020  NP1     Lewandowski              Z99 
+0000056 030  CC      and                      Z5 
+0000056 040  NP1     Nussbaum                 Z99 
+0000056 050  VBR     are                      Z5 A3+ 
+0000056 060  VVG     saying                   Q2.1 Z4% 
+0000056 061  ,       ,                        
+0000056 070  RT      then                     N4 Z5 T1.2 
+0000056 071  ,       ,                        
+0000056 080  VM      should                   S6+ A7+ 
+0000056 090  VBI     be                       A3+ Z5 
+0000056 100  JJ      obvious                  A11.2+ 
+0000056 110  II      to                       Z5 
+0000056 120  PN1     anyone                   Z8mfc 
+0000056 130  PNQS    who                      Z8 
+0000056 131  VBZ     's                       Z5 A3+ 
+0000056 140  VVN     dipped                   M1 M2 O4.4 F4 
+0000056 150  AT1     a                        Z5 
+0000056 160  NN1     toe                      B1 
+0000056 170  II      outside                  Z5 
+0000056 180  AT      the                      Z5 
+0000056 190  JJ      prosperous               I1.1+ 
+0000056 200  NN2     enclaves                 M7 
+0000056 210  II      on                       Z5 
+0000056 220  AT      the                      Z5 
+0000056 230  MC      two                      N1 T3 T1.2 
+0000056 240  NN2     coasts                   W3/M4 
+0000056 241  .       .                        
+0000056 242  -----   -----                    
+0000056 250  JJ      Ill-considered           Z99 
+0000056 260  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000056 270  NN2     deals                    N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
+0000056 280  CC      and                      Z5 
+0000056 290  JJ      generous                 S1.2.2- N5+ 
+0000056 300  NN1     bank                     I1/H1 I1.1/I2.1c W3/M4 A9+/H1 O2 M6 
+0000056 310  NN2     bailouts                 S8+/I1.2 
+0000056 320  CC      and                      Z5 
+0000056 330  JJ      guaranteed               A7+/Q2.2 
+0000056 340  NN2     profits                  I1.1 A5.1+ 
+0000056 350  IF      for                      Z5 
+0000056 360  NN1     insurance                I2.1c[i111.2.1 I1/A15- I1/I2.1c[i110.2.1 
+0000056 370  NN2     companies                I2.1c[i111.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c I1/I2.1c[i110.2.2 
+0000056 380  CCB     but                      Z5 
+0000056 390  AT      no                       Z6 
+0000056 400  NN1     recovery                 B2+ A5.1+/A2.1 A9+ 
+0000056 410  IF      for                      Z5 
+0000056 420  JJ      average                  A6.2+ A5.1 N2 
+0000056 430  NN      people                   S2mfc 
+0000056 431  ,       ,                        
+0000056 440  RR      ever                     T1.1 N6+++ A13 
+0000056 450  DD2     these                    Z5 Z8 
+0000056 460  NN2     policies                 X7+ Q1.2 
+0000056 470  VH0     have                     Z5 A9+ A2.2 S4 
+0000056 480  VVN     taken                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000056 490  APPGE   their                    Z8 
+0000056 500  NN1     toll                     I1.3 K2 N5 
+0000056 501  .       .                        
+0000056 502  -----   -----                    
+0000056 510  CSA     As                       Z5 
+0000056 520  NN1     Trump                    Z1mf 
+0000056 530  VVZ     says                     Q2.1 
+0000056 531  ,       ,                        
+0000056 540  PPIS2   we                       Z8 
+0000056 550  VH0     have                     Z5 A9+ A2.2 S4 
+0000056 560  VVN     rebuilt                  H1/N6+ A1.1.1/N6+ 
+0000056 570  NP1     China                    Z2 
+0000056 580  CC      and                      Z5 
+0000056 590  RR      yet                      T1.1.2 
+0000056 600  APPGE   our                      Z8 
+0000056 610  NN1     country                  G1.1c W3 F4/M7 K2 
+0000056 620  VBZ     is                       Z5 A3+ 
+0000056 630  VVG     falling                  A1.1.2[i112.2.1 E4.1-[i112.2.1 E4.1+[i112.2.1 M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 
+0000056 640  RL      apart                    A1.1.2[i112.2.2 E4.1-[i112.2.2 E4.1+[i112.2.2 N3.3+ A1.8- S1.1.3- 
+0000056 641  .       .                        
+0000056 642  -----   -----                    
+0000056 650  APPGE   Our                      Z8 
+0000056 660  NN1     infrastructure           I2.1/S8+ 
+0000056 670  VBZ     is                       Z5 A3+ 
+0000056 680  VVG     falling                  A1.1.2[i113.2.1 E4.1-[i113.2.1 E4.1+[i113.2.1 M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 
+0000056 690  RL      apart                    A1.1.2[i113.2.2 E4.1-[i113.2.2 E4.1+[i113.2.2 N3.3+ A1.8- S1.1.3- 
+0000056 700  APPGE   Our                      Z8 
+0000056 710  NN2     airports                 M5/M7 
+0000056 720  VBR     are                      A3+ Z5 
+0000056 721  ,       ,                        
+0000056 730  RR      like                     Z4 A6.1+ 
+0000056 731  ,       ,                        
+0000056 740  MD      Third                    M7[i114.2.1 N4 N5 N1 
+0000056 750  NN1     World                    M7[i114.2.2 W1 S5+c A4.1 N5+ 
+0000056 751  .       .                        
+0000057 001  -----   -----                    
+0000058 010  NN1     Trump                    Z1mf K5.2 
+0000058 011  GE      's                       Z5 
+0000058 020  NN2     words                    Q3 
+0000058 030  VV0     articulate               Q2.2 Q2.1 
+0000058 040  AT      the                      Z5 
+0000058 050  JJ      populist                 G1.2 
+0000058 060  NN1     backlash                 S8-[i115.2.1 A5.1- S8- 
+0000058 070  II      against                  S8-[i115.2.2 Z5 
+0000058 080  NN1     liberalism               G1.2 
+0000058 090  CST     that                     Z8 Z5 
+0000058 100  VHZ     has                      Z5 A9+ A2.2 S4 
+0000058 110  VBN     been                     Z5 A3+ 
+0000058 120  VVG@    building                 H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000058 130  RR      slowly                   N3.8- 
+0000058 140  IF      for                      Z5 
+0000058 150  NNT2    decades                  T1.3 
+0000058 160  CC      and                      Z5 
+0000058 170  VM      may                      A7+ 
+0000058 180  RG      very                     A13.3 
+0000058 190  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000058 200  VVI     occupy                   H4 A1.5.1 G3 X5.1+ A1.1.1 T1.3 
+0000058 210  AT      the                      Z5 
+0000058 220  NP1     White                    Z3c[i116.2.1 Z2[i116.2.1 Z1mf 
+0000058 230  NN1     House                    Z3c[i116.2.2 Z2[i116.2.2 H1 P1/S5+c G1.1c 
+0000058 240  PPX1    itself                   Z8 
+0000058 241  ,       ,                        
+0000058 250  CS      whereupon                Z5 
+0000058 260  AT      the                      Z5 
+0000058 270  JJ      entire                   N5.1+ 
+0000058 280  NN1     world                    W1 S5+c A4.1 N5+ 
+0000058 290  VM      will                     T1.1.3 
+0000058 300  VBI     be                       Z5 A3+ 
+0000058 310  VVN     required                 X7+ S6+ 
+0000058 320  TO      to                       Z5 
+0000058 330  VVI     take                     E4.1-[i118.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ X2.1/A13.3[i117.2.1 
+0000058 340  RR      seriously                E4.1-[i118.2.2 A13.3 Z4 E4.1- X2.1/A13.3[i117.2.2 
+0000058 350  APPGE   its                      Z8 
+0000058 360  JJ      demented                 S1.2.6- B2-/X1 
+0000058 370  NN2     ideas                    X4.1 
+0000058 371  .       .                        
+0000059 001  -----   -----                    
+0000060 010  RR      Yet                      T1.1.2 
+0000060 020  RR      still                    T2++ Z4 E3+ 
+0000060 030  PPIS2   we                       Z8 
+0000060 040  VM      can                      A7+ 
+0000060 041  XX      not                      Z6 
+0000060 050  VVI     bring                    M2 A2.2 
+0000060 060  PPX2    ourselves                Z8 
+0000060 070  TO      to                       Z5 
+0000060 080  VVI     look                     A8 X3.4 X2.4 X7+ Z4 
+0000060 090  AT      the                      Z5 
+0000060 100  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
+0000060 110  II      in                       Z5 
+0000060 120  AT      the                      Z5 
+0000060 130  NN2     eyes                     B1 X3.4 
+0000060 131  .       .                        
+0000060 132  -----   -----                    
+0000060 140  PPIS2   We                       Z8 
+0000060 150  VM      can                      A7+ 
+0000060 151  XX      not                      Z6 
+0000060 160  VVI     admit                    Q2.2 B3 A1.8+ S7.4+/M1 
+0000060 170  CST     that                     Z8 Z5 
+0000060 180  PPIS2   we                       Z8 
+0000060 190  NN2     liberals                 G1.2/S2mf 
+0000060 200  VV0     bear                     M2 E2+ A8 A9+ A1.1.1 M6 B1@ 
+0000060 210  DD      some                     N5 Z5 
+0000060 220  IO      of                       Z5 
+0000060 230  AT      the                      Z5 
+0000060 240  NN1     blame                    G2.1 G2.2- 
+0000060 250  IF      for                      Z5 
+0000060 260  APPGE   its                      Z8 
+0000060 270  NN1     emergence                M1 A10+ A1.1.1 
+0000060 271  ,       ,                        
+0000060 280  IF      for                      Z5 
+0000060 290  AT      the                      Z5 
+0000060 300  NN1     frustration              E4.2- S8- 
+0000060 310  IO      of                       Z5 
+0000060 320  AT      the                      Z5 
+0000060 330  JJ      working-class            S5+c 
+0000060 340  NNO2    millions                 N1 N5+ I1 
+0000060 341  ,       ,                        
+0000060 350  IF      for                      Z5 
+0000060 360  APPGE   their                    Z8 
+0000060 370  JJ@     blighted                 Z99 
+0000060 380  NN2     cities                   M7 
+0000060 390  CC      and                      Z5 
+0000060 400  APPGE   their                    Z8 
+0000060 410  JJ      downward                 M6 N5-/A2.1 A5.1-/A2.1 
+0000060 420  JJ@     spiraling                Z99 
+0000060 430  NN2     lives                    L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000060 431  .       .                        
+0000060 432  -----   -----                    
+0000060 440  RR      So                       Z5 A13.3 
+0000060 450  RR      much                     A13.3 N6+ 
+0000060 460  JJR     easier                   A12++ 
+0000060 470  TO      to                       Z5 
+0000060 480  VVI     scold                    Q2.2/E2- Q2.2/E3- 
+0000060 490  PPHO2   them                     Z8mfn 
+0000060 500  IF      for                      Z5 
+0000060 510  APPGE   their                    Z8 
+0000060 520  JJ      twisted                  O4.4 G2.2- B2-/X1 
+0000060 530  JJ      racist                   S5+/Z2 
+0000060 540  NN2     souls                    S9 E1 S2mf K2 
+0000060 541  ,       ,                        
+0000060 550  TO      to                       Z5 
+0000060 560  VVI     close                    A1.1.1 A10- T2- 
+0000060 570  APPGE   our                      Z8 
+0000060 580  NN2     eyes                     B1 X3.4 
+0000060 590  II      to                       Z5 
+0000060 600  AT      the                      Z5 
+0000060 610  JJ      obvious                  A11.2+ 
+0000060 620  NN1     reality                  A3+ A5.2+ 
+0000060 630  IO      of                       Z5 
+0000060 640  DDQ     which                    Z8 Z5 
+0000060 650  NN1     Trumpism                 Z99 
+0000060 660  VBZ     is                       A3+ Z5 
+0000060 670  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000060 680  AT1     a                        Z5 
+0000060 690  JJ      crude                    O4.2- S1.2.4- A12+ 
+0000060 700  CC      and                      Z5 
+0000060 710  JJ      ugly                     O4.2- 
+0000060 720  NN1     expression               Q3 E1/B1 
+0000060 721  :       :                        
+0000060 730  DD1     that                     Z5 Z8 
+0000060 740  NN1     neoliberalism            Z99 
+0000060 750  VHZ     has                      A9+ Z5 A2.2 S4 
+0000060 760  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000060 770  CC      and                      Z5 
+0000060 780  RR      truly                    A5.2+ A5.4+ 
+0000060 790  VVN     failed                   X9.2- A5.1-/A2.1 
+0000060 791  .       .                        
+0000061 001  -----   -----                    
+0000062 010  NP1     Thomas                   Z1mf[i119.2.1 Z3c[i119.2.1 Z1mf 
+0000062 020  NP1     Frank                    Z1mf[i119.2.2 Z3c[i119.2.2 Z1 
+0000062 030  VBZ     is                       A3+ Z5 
+0000062 040  AT      the                      Z5 
+0000062 050  NN1     author                   Q4.1/S2mf 
+0000062 060  IO      of                       Z5 
+0000062 070  VV0     Listen                   X3.2 
+0000062 071  ,       ,                        
+0000062 080  JJ      Liberal                  A1.7- G1.2 N5+ 
+0000062 090  CC      or                       Z5 
+0000062 100  DDQV    Whatever                 Z8 Z5 
+0000062 110  VVD     Happened                 A1.4[i120.2.1 A2.1+ A3+ X7- 
+0000062 120  II@     to                       A1.4[i120.2.2 Z5 
+0000062 130  AT      the                      Z5 
+0000062 140  NN1     Party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000062 150  IO      of                       Z5 
+0000062 160  AT      the                      Z5 
+0000062 170  NN      People                   S2mfc 
+0000062 171  ,       ,                        
+0000062 180  VVD     published                Q4 
+0000062 190  MC      15                       N1 T1.2 T3 T1.3 N3.2 
+0000062 200  NPM1    March                    T1.3 
+0000062 210  II      by                       Z5 
+0000062 220  JJ      Metropolitan             M7 
+0000062 230  NN2     Books                    Q4.1 Q1.2 I1/Q1.2 K5.1/I1 
+0000064 010  DD1     This                     M6 Z5 Z8 
+0000064 020  NN1     article                  Q4.2 O2 Q3 G2.1/P1@ 
+0000064 030  VBDZ    was                      Z5 A3+ 
+0000064 040  VVN     amended                  A2.1+ 
+0000064 050  II      on                       Z5 
+0000064 060  MC      9                        N1 T1.2 T3 T1.3 N3.2 
+0000064 070  NPM1    March                    T1.3[i121.2.1 T1.3 
+0000064 080  MC      2016                     T1.3[i121.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000064 090  TO      to                       Z5 
+0000064 100  VVI     reflect                  A10+ Y1/M2 X3.4 X2.1 A5.1 
+0000064 110  AT      the                      Z5 
+0000064 120  NN1     fact                     A5.2+ X2.2 
+0000064 130  CST     that                     Z5 Z8 
+0000064 140  NP1     Nafta                    Z99 
+0000064 150  VVZ     stands                   Q3[i122.2.1 M6 M2 M8 M1 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+ 
+0000064 160  IF      for                      Q3[i122.2.2 Z5 
+0000064 170  AT      the                      Z5 
+0000064 180  NP1     North                    M6 
+0000064 190  JJ      American                 Z2 
+0000064 200  JJ      Free                     I2.2[i123.2.1 I2.1c/S5-[i123.2.1 S6- A1.7- A1.5.1- I1.3- 
+0000064 210  NN1     Trade                    I2.2[i123.2.2 I2.1c/S5-[i123.2.2 I2.2 I2.1 I3.1 I2.2/N5 
+0000064 220  NN1     Agreement                A6.1+ Q2.2 
+0000064 221  .       .                        
+0000064 222  -----   -----                    
+0000064 230  AT1     An                       Z5 
+0000064 240  JJR     earlier                  N4 T1.1.1 T4++ 
+0000064 250  NN1     version                  A4.1 Q2.1 
+0000064 260  IO      of                       Z5 
+0000064 270  DD1     this                     M6 Z5 Z8 
+0000064 280  NN1     article                  Q4.2 O2 Q3 G2.1/P1@ 
+0000064 290  VVN     referred                 Q2.2 Q1.2 
+0000064 300  II      to                       Z5 
+0000064 310  PPH1    it                       Z8 
+0000064 320  II@     as                       Z5 
+0000064 330  ND1     North                    Z2[i124.2.1 M6 
+0000064 340  NP1     Atlantic                 Z2[i124.2.2 Z2 
+0000064 350  JJ      Free                     I2.2[i125.2.1 I2.1c/S5-[i125.2.1 S6- A1.7- A1.5.1- I1.3- 
+0000064 360  NN1     Trade                    I2.2[i125.2.2 I2.1c/S5-[i125.2.2 I2.2 I2.1 I3.1 I2.2/N5 
+0000064 370  NN1     Agreement                A6.1+ Q2.2 
+0000064 371  .       .                        
+0000066 001  NULL    **8;7;text               

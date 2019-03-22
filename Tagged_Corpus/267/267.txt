@@ -1,0 +1,25 @@
+Among the new semantic elements for section, footer, header, and the like, HTML5 also adds an element that can contain any other element and describes it as Not Safe For Work (commonly abbreviated to  <quote> “nsfw” </quote> ).
+
+Browsers can be configured by parents or workplace sysadmins never to show content marked as <nsfw>, thereby shielding faint-hearted people from obscenity and protecting employers from employees downloading things they shouldn't.
+
+It's not just a presentational element, although it does carry with it the default CSS:
+
+nsfw { display: none; }
+
+The user agent is forbidden from downloading any of the resources contained within the element if the browser's <nsfw> setting is  <quote> “on” </quote> .
+
+It works like this:
+
+<nsfw>
+<figure>
+<video src= <quote> "chickens.ogv" </quote>  autoplay>
+</video>
+<figcaption>Huge cockerel: two chicks, one coop.</figcaption>
+</figure>
+</nsfw>
+
+The entire figure is taken out of the document flow with no indication to the user that something is missing (which could tempt teenagers to circumvent the browser setting). Although the video is set to autoplay, it will never even be downloaded, meaning nothing compromising will be in the user's cache.
+
+The new element was suggested by Ian Hickson, the editor of the HTML5 spec and Google employee:  <quote> “Google builds a separate index for those who search using Google SafeSearch. Given that 72.3% of the Web is not safe for work but we currently have to analyse that using machines, semantically marked-up porn and foul language will dramatically reduce the time it takes to build our index, enhance its accuracy and, most importantly, protect little children.” </quote> 
+
+So far, it is not implemented in any browser, although in its recent IE9 announcement, Microsoft confirmed that IE9 and its Bing search engine will use a Microsoft-only extension <xxx> instead of the standard <nsfw>.

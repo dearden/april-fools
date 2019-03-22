@@ -1,0 +1,515 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000004 010  II      In                       Z5 
+0000004 020  MC1     one                      N1 T3 T1.2 
+0000004 030  IO      of                       Z5 
+0000004 040  RT      today                    T1.1.2 
+0000004 041  VBZ     's                       A3+ Z5 
+0000004 050  RGR     more                     A13.3 
+0000004 060  JJ      surprising               X2.6- A6.2- 
+0000004 070  NN2     announcements            Q2.2 
+0000004 071  ,       ,                        
+0000004 080  NN1     Apple                    Z3c 
+0000004 090  CC      and                      Z5 
+0000004 100  NP1     McDonald                 Z1mf 
+0000004 101  GE      's                       Z5 
+0000004 110  VBR     are                      Z5 A3+ 
+0000004 120  RT      today                    T1.1.2 
+0000004 130  VVG     partnering               S3.1 
+0000004 140  II      in                       Z5 
+0000004 150  AT1     a                        Z5 
+0000004 160  JJ      cross-brand              Z99 
+0000004 170  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000004 180  NN1     effort                   X8+ O2 
+0000004 181  .       .                        
+0000005 001  -----   -----                    
+0000006 010  AT      The                      Z5 
+0000006 020  MC      two                      N1 T3 T1.2 
+0000006 030  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000006 040  VVD     said                     Q2.1 
+0000006 050  CST     that                     Z8 Z5 
+0000006 060  PPHS2   they                     Z8mfn 
+0000006 070  VBR     are                      Z5 A3+ 
+0000006 080  VVG     looking                  S7.1-[i1.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000006 090  II      to                       S7.1-[i1.2.2 Z5 
+0000006 100  NN1     leverage                 M2 S7.1+ 
+0000006 110  AT      the                      Z5 
+0000006 120  NN2     similarities             A6.1+ 
+0000006 130  IO      of                       Z5 
+0000006 140  PPX221  each                     Z8[i2.2.1 
+0000006 150  PPX222  other                    Z8[i2.2.2 
+0000006 151  GE      's                       Z5 
+0000006 160  NN1     brand                    A4.1 Q1.1 
+0000006 170  TO      to                       Z5 
+0000006 180  VVI     expand                   N3.2+/A2.1 Q2.2/N5++ A4.2-/A2.1 
+0000006 190  APPGE   their                    Z8 
+0000006 200  JJ      respective               A6.1- 
+0000006 210  NN1     client                   I2.2/S2mf 
+0000006 220  NN2     bases                    M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000006 221  .       .                        
+0000006 222  -----   -----                    
+0000006 230  DB2     Both                     N5 
+0000006 240  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000006 250  VHD     had                      Z5 A9+ A2.2 S4 
+0000006 260  VBN     been                     A3+ Z5 
+0000006 270  II      in                       Z5 
+0000006 280  NN2     talks                    Q2.1 
+0000006 290  CS      since                    Z5 
+0000006 300  RR      late                     T4- T1.1 
+0000006 310  MC      2003                     N1 T1.2 T3 T1.3 N3.2 
+0000006 320  RRQ     when                     Z5 
+0000006 330  AT1     a                        Z5 
+0000006 340  NN1     deal                     N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
+0000006 350  TO      to                       Z5 
+0000006 360  VVI     distribute               A9- I2.2 M2/N3.6 
+0000006 370  NN2     iTunes                   Z99 
+0000006 380  IW      with                     Z5 
+0000006 390  JJ      Happy                    E4.1+ E4.2+ 
+0000006 400  NN2     Meals                    F1 
+0000006 410  VVD     fell                     X9.2-[i3.2.1 M1[i3.2.1 M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 
+0000006 420  RP@     through                  X9.2-[i3.2.2 M1[i3.2.2 M6 
+0000006 421  ,       ,                        
+0000006 430  VVG     making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000006 440  DD1     this                     M6 Z5 Z8 
+0000006 450  NN1     deal                     N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
+0000006 460  DAR     more                     N5++ 
+0000006 470  CSN     than                     Z5 
+0000006 480  DB      half                     N5 
+0000006 490  AT1     a                        Z5 
+0000006 500  NNT1    decade                   T1.3 
+0000006 510  II      in                       Z5 
+0000006 520  AT      the                      Z5 
+0000006 530  NN1@    making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000006 531  .       .                        
+0000008 001  NULL    <quote>                  
+0000008 002  -----   -----                    
+0000008 010  PPIS2   We                       Z8 
+0000008 020  VVD     realized                 X2.5+ X9.2+ 
+0000008 030  AT      the                      Z5 
+0000008 040  NN1     overlap                  N5.2+ A6.1+ 
+0000008 050  CS      when                     Z5 
+0000008 060  PPIS2   we                       Z8 
+0000008 070  VVD     started                  T2+ E5- E3- 
+0000008 080  VVG     selling                  I2.2 
+0000008 090  AT      the                      Z5 
+0000008 100  JJ      new                      T3- 
+0000008 110  NN1     13-                      Z99 
+0000008 120  CC      and                      Z5 
+0000008 130  JJ      15-inch                  Z99 
+0000008 140  NP1     Unibody                  Z1mf[i4.2.1 Z3c[i4.2.1 
+0000008 150  NP1     MacBooks                 Z1mf[i4.2.2 Z3c[i4.2.2 Z1mf[i5.2.1 
+0000008 160  MD      last                     T1.1.1[i7.2.1 N4 Z1mf[i5.2.2 T1.3[i6.2.1 
+0000008 170  NPM1    October                  T1.1.1[i7.2.2 T1.3 T1.3[i6.2.2 
+0000008 171  .       .                        
+0000008 172  -----   -----                    
+0000008 180  II      During                   Z5 
+0000008 190  APPGE   our                      Z8 
+0000008 200  JJ      busy                     A1.1.1/N5+ 
+0000008 210  NN1     holiday                  K1/T1.3 
+0000008 220  NNT1    season                   T1.3 
+0000008 221  ,       ,                        
+0000008 230  NN2     customers                I2.2/S2mf 
+0000008 240  VM      would                    A7+ 
+0000008 250  VVI     come                     M1[i8.2.1 A1.5.2+[i8.2.1 O4.2+[i8.2.1 S1.1.3+[i8.2.1 T2+[i8.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000008 260  II      in                       M1[i8.2.2 A1.5.2+[i8.2.2 O4.2+[i8.2.2 S1.1.3+[i8.2.2 T2+[i8.2.2 Z5 
+0000008 270  VVG     looking                  X2.4[i9.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000008 280  IF      for                      X2.4[i9.2.2 Z5 
+0000008 290  AT      the                      Z5 
+0000008 300  JJ      17-inch                  Z99 
+0000008 310  NN1     version                  A4.1 Q2.1 
+0000008 320  VVG     asking                   Q2.2 I1.3 
+0000008 330  CS      if                       Z7 
+0000008 340  PPIS2   we                       Z8 
+0000008 350  VHD     had                      A9+ Z5 A2.2 S4 
+0000008 360  AT      the                      Z5 
+0000008 370  JJ      Big                      F1[i10.2.1 N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000008 380  NP1     Mac                      F1[i10.2.2 Z1m Z3 
+0000008 381  ,       ,                        
+0000008 382  NULL    </quote>                 
+0000008 383  -----   -----                    
+0000008 390  VVD     explained                Q2.2/A7+ A2.2 
+0000008 400  NP1     Pullman                  Z1mf[i11.2.1 Z3c[i11.2.1 
+0000008 410  NP1     Legwand                  Z1mf[i11.2.2 Z3c[i11.2.2 
+0000008 411  ,       ,                        
+0000008 420  AT1     an                       Z5 
+0000008 430  NN1     Apple                    Z3c 
+0000008 440  NN1     Genius                   X9.1+/S2mf X9.1+ 
+0000008 450  II      at                       Z5 
+0000008 460  NN1     Apple                    Z3c 
+0000008 461  GE      's                       Z5 
+0000008 470  NN1     flagship                 M4fn A11.1+++ 
+0000008 480  NN1     Apple                    Z3c 
+0000008 490  NN1     Store                    I2.2/H1c A9+ A9+/H1 
+0000008 491  .       .                        
+0000009 001  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  NN1     confusion                X2.5- 
+0000010 030  RR      eventually               N4 
+0000010 040  VV0     lead                     S7.1+ A2.2 M2 A1.1.1 
+0000010 050  NN2     customers                I2.2/S2mf 
+0000010 060  II      to                       Z5 
+0000010 070  NP1     McDonald                 Z1mf 
+0000010 071  GE      's                       Z5 
+0000010 080  NN2     restaurants              F1/H1 
+0000010 081  ,       ,                        
+0000010 090  CS      where                    M6 
+0000010 100  PPHS2   they                     Z8mfn 
+0000010 110  VM      would                    A7+ 
+0000010 120  VVI     express                  Q1.1 B1% 
+0000010 130  APPGE   their                    Z8 
+0000010 140  NN1     desire                   X7+ S3.2 
+0000010 150  IF      for                      Z5 
+0000010 160  NN1     Apple                    Z3c 
+0000010 170  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000010 171  ,       ,                        
+0000010 180  RR      only                     A14 
+0000010 190  TO      to                       Z5 
+0000010 200  VBI     be                       Z5 A3+ 
+0000010 210  VVN     sold                     I2.2 
+0000010 220  NN1     apple                    L3 F1 
+0000010 230  NN2     slices                   O2 N5.1- 
+0000010 240  IW      with                     Z5 
+0000010 250  NN1     caramel                  F1[i12.2.1 F1 
+0000010 260  NN1@    dip                      F1[i12.2.2 O4.4 F1 O1 M4 
+0000010 261  .       .                        
+0000011 001  -----   -----                    
+0000012 010  NN1     Apple                    L3 F1 
+0000012 020  CC      and                      Z5 
+0000012 030  NP1     McDonald                 Z1mf 
+0000012 031  GE      's                       Z5 
+0000012 040  NN1     marketing                I2.2 
+0000012 050  NN2     teams                    S5+ K5.1/S5+ 
+0000012 060  VVD     saw                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000012 070  AT      the                      Z5 
+0000012 080  NN1     problem                  A12- X4.1 N2 B2- 
+0000012 090  CC      and                      Z5 
+0000012 100  VVD     came                     S5+[i13.2.1 X9.2+[i13.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 A4.1[i14.2.1 M1[i14.2.1 B1[i14.2.1 N5[i14.2.1 X6+[i14.2.1 X2.1[i14.2.1 
+0000012 110  RL      together                 S5+[i13.2.2 X9.2+[i13.2.2 S5+ T1.1.2 M6 
+0000012 120  TO      to                       Z5 A4.1[i14.2.2 M1[i14.2.2 B1[i14.2.2 N5[i14.2.2 X6+[i14.2.2 X2.1[i14.2.2 
+0000012 130  VVI     create                   A1.1.1 A2.2 E1 
+0000012 140  AT1     a                        Z5 
+0000012 150  JJ21    brand                    T3---[i15.2.1 
+0000012 160  JJ22    new                      T3---[i15.2.2 T3- 
+0000012 170  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000012 180  CST     that                     Z8 Z5 
+0000012 190  VM      would                    A7+ 
+0000012 200  RR      effectively              A5.4+ X9.2+ 
+0000012 210  VVI     bridge                   M1 A2.2/S3.1 
+0000012 220  AT      the                      Z5 
+0000012 230  MC      two                      N1 T3 T1.2 
+0000012 240  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000012 241  GE      's                       Z5 
+0000012 250  NN1     clientele                I2.2/S2c 
+0000012 251  :       :                        
+0000012 260  AT      the                      Z5 
+0000012 270  NN1     iMc                      Z99 
+0000012 271  .       .                        
+0000013 001  -----   -----                    
+0000014 010  VV0     Say                      Q2.1 Z4% 
+0000014 020  UH      Hello                    Z4 
+0000014 030  TO      to                       Z5 
+0000014 040  VVI     iMcSay                   Z99 
+0000014 050  UH      Hello                    Z4 
+0000014 060  II      to                       Z5 
+0000014 070  NN1     iMc                      Z99 
+0000016 010  AT      The                      Z5 
+0000016 020  NN1     iMc                      Z99 
+0000016 030  VBZ     is                       A3+ Z5 
+0000016 040  AT1     an                       Z5 
+0000016 050  DB      all                      N5.1+ 
+0000016 060  JJ      new                      T3- 
+0000016 070  NN1     food                     F1 
+0000016 080  NN1     menu                     F1/Q1.2 Y2/Q1.2 
+0000016 090  NN1     item                     O2 Q4 X4.1 
+0000016 100  CST     that                     Z8 Z5 
+0000016 110  VVZ     combines                 A2.2 A1.8+ S5+c F4 
+0000016 120  NP1     McDonald                 Z1mf 
+0000016 121  GE      's                       Z5 
+0000016 130  NN1     food-making-mastery      Z99 
+0000016 140  CC      and                      Z5 
+0000016 150  NN1     Apple                    Z3c 
+0000016 151  GE      's                       Z5 
+0000016 160  JJ      simplistic               A12+ 
+0000016 170  CC      and                      Z5 
+0000016 180  JJ      elegant                  O4.2+ 
+0000016 190  NN1     design                   C1 X7+ B5 
+0000016 200  NN2     cues                     Q1.1 K5.1 
+0000016 201  .       .                        
+0000016 202  -----   -----                    
+0000016 210  VDG     Doing                    A9-[i16.3.1 L1-[i16.3.1 T2-[i16.3.1 A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000016 220  RL      away                     A9-[i16.3.2 L1-[i16.3.2 T2-[i16.3.2 M6 A1.1.1% 
+0000016 230  IW      with                     A9-[i16.3.3 L1-[i16.3.3 T2-[i16.3.3 Z5 
+0000016 240  AT      the                      Z5 
+0000016 250  JJ      traditional              S1.1.1 A6.2+ T3++ 
+0000016 260  NN2     fixings                  A1.7+ X6+ S8+/A1.1.2- A5.1+/A2.1 X5.1+ G2.2- 
+0000016 270  II      in                       Z5 
+0000016 280  AT1     a                        Z5 
+0000016 290  NN1     burger                   F1 
+0000016 300  CST     that                     Z8 Z5 
+0000016 310  VM      would                    A7+ 
+0000016 320  VVI     distract                 X5.1- 
+0000016 330  II      from                     Z5 
+0000016 340  AT      the                      Z5 
+0000016 350  JJ      overall                  N5.1+ 
+0000016 360  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
+0000016 361  ,       ,                        
+0000016 370  AT      the                      Z5 
+0000016 380  NN1     iMc                      Z99 
+0000016 390  VVZ     contains                 A1.8+ A1.7+ 
+0000016 400  AT      no                       Z6 
+0000016 410  NN1     ketchup                  F1 
+0000016 411  ,       ,                        
+0000016 420  NN1     mustard                  F1 L3 O4.3 
+0000016 421  ,       ,                        
+0000016 430  NN1     cheese                   F1 
+0000016 431  ,       ,                        
+0000016 440  NN2     pickles                  F1 A12- 
+0000016 441  ,       ,                        
+0000016 450  NN1     lettuce                  F1 
+0000016 451  ,       ,                        
+0000016 460  NN1     tomato                   F1 
+0000016 461  ,       ,                        
+0000016 470  CC      or                       Z5 
+0000016 480  NN1     meat                     F1 A4.2+ 
+0000016 481  .       .                        
+0000018 001  NULL    <quote>                  
+0000018 002  -----   -----                    
+0000018 010  PPIS2   We                       Z8 
+0000018 011  VBR     're                      A3+ Z5 
+0000018 020  JJ      proud                    E4.2+/S1.2 S1.2.3+ 
+0000018 030  TO      to                       Z5 
+0000018 040  VVI     carry                    M2 A9+ Q4 S7.4+ B1% B2-% 
+0000018 050  AT      the                      Z5 
+0000018 060  NN1     iMc                      Z99 
+0000018 070  II      as                       Z5 
+0000018 080  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000018 090  IO      of                       Z5 
+0000018 100  APPGE   our                      Z8 
+0000018 110  JJ      permanent                T2+++ 
+0000018 120  NN1     menu                     F1/Q1.2 Y2/Q1.2 
+0000018 121  .       .                        
+0000018 122  -----   -----                    
+0000018 130  AT      The                      Z5 
+0000018 140  NN2     no-frills                Z99 
+0000018 150  NN1     nature                   W5 A4.1 S1.2 A6.2+ 
+0000018 160  IO      of                       Z5 
+0000018 170  AT      the                      Z5 
+0000018 180  NN1     iMc                      Z99 
+0000018 190  VVZ     represents               Q1.1 A6.2+ S1.1.3 A5.4- K4 
+0000018 200  AT      the                      Z5 
+0000018 210  MD      next                     N4 
+0000018 220  NN1     evolution                A2.1+ 
+0000018 230  IO      of                       Z5 
+0000018 240  JJ      fine                     A5.1+ A4.2+ O4.5 O4.1 W4 N3.2- 
+0000018 250  NN1     dining                   F1 
+0000018 251  ,       ,                        
+0000018 252  NULL    </quote>                 
+0000018 253  -----   -----                    
+0000018 260  VVD     said                     Q2.1 
+0000018 270  NP1     Joseph                   Z1mf[i18.3.1 Z3c[i18.3.1 Z1m Z1mf[i17.2.1 Z3c[i17.2.1 
+0000018 280  NP1     K.                       Z1mf[i18.3.2 Z3c[i18.3.2 Z1mf[i17.2.2 Z3c[i17.2.2 Z1mf[i19.2.1 Z3c[i19.2.1 
+0000018 290  NP1     Ng                       Z3c[i18.3.3 Z1mf[i18.3.3 Z1 Z1mf[i19.2.2 Z3c[i19.2.2 
+0000018 291  ,       ,                        
+0000018 300  NP1     McManager                Z99 
+0000018 310  II      at                       Z5 
+0000018 320  NP1     McDonald                 Z1mf 
+0000018 321  GE      's                       Z5 
+0000018 322  .       .                        
+0000018 323  NULL    <quote>                  
+0000018 324  -----   -----                    
+0000018 330  PPH1    It                       Z8 
+0000018 331  VBZ     's                       A3+ Z5 
+0000018 340  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000018 350  II      like                     Z5 
+0000018 360  AT      the                      Z5 
+0000018 370  JJ      new                      T3- 
+0000018 380  NN1     iPod                     Z99 
+0000018 390  NN1@    Shuffle                  M1 A2.1+ 
+0000018 391  .       .                        
+0000018 392  NULL    </quote>                 
+0000018 393  -----   -----                    
+0000020 010  AT      The                      Z5 
+0000020 020  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000020 030  VVD     hit                      E3- A1.1.1 A2.1+ A11.2+ A10+ M1 G3 
+0000020 040  RR      early                    T4+ 
+0000020 050  II      in                       Z5 
+0000020 060  AT      the                      N4/T1.3[i20.3.1 Z5 
+0000020 070  NNT1    day                      N4/T1.3[i20.3.2 T1.3 
+0000020 080  II      before                   N4/T1.3[i20.3.3 Z5 
+0000020 090  NP1     Wall                     Z2[i21.2.1 Z1mf[i22.2.1 Z3c[i22.2.1 
+0000020 100  NNL1    Street                   Z2[i21.2.2 Z2 Z1mf[i22.2.2 Z3c[i22.2.2 
+0000020 110  VVD     opened                   A1.1.1 T2+ 
+0000020 120  NN1     shop                     I2.2/H1c I4/H1c I2.2 I3.1 
+0000020 121  ,       ,                        
+0000020 130  CCB     but                      Z5 
+0000020 140  RR      already                  T1.1.1 
+0000020 150  NN1     stock                    A9+ F1 S4 O2 I1.1 
+0000020 160  NN2     analysts                 Y2/S2mf I2.1/S2mf Y1/S2mf B3/S2mf 
+0000020 170  VBR     are                      Z5 A3+ 
+0000020 180  VVG     seeing                   X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000020 190  DD1     this                     Z8 M6 Z5 
+0000020 200  II      as                       Z5 
+0000020 210  AT1     a                        Z5 
+0000020 211  NULL    <quote>                  
+0000020 212  -----   -----                    
+0000020 220  JJ      quick                    N3.8+ X9.1+ L1+% 
+0000020 230  NN1@    win                      X9.2+/S7.3 X9.2+/G3 A9+ 
+0000020 231  NULL    </quote>                 
+0000020 232  -----   -----                    
+0000020 240  IF      for                      Z5 
+0000020 250  AT      the                      Z5 
+0000020 260  JJ      fast                     F1[i23.2.1 N3.8+ 
+0000020 270  NN1     food                     F1[i23.2.2 F1 
+0000020 280  NN1     restaurant               F1/H1 
+0000020 290  NN1     giant                    S2/N3.2+mf N3.2+/S5 
+0000020 291  .       .                        
+0000022 001  NULL    <quote>                  
+0000022 002  -----   -----                    
+0000022 010  CS      Before                   Z5 
+0000022 020  AT      the                      Z5 
+0000022 030  NN1     advent                   S9/T1.3 T2+ 
+0000022 040  IO      of                       Z5 
+0000022 050  AT      the                      Z5 
+0000022 060  NN1     boutique                 I2.2/B5/H1 
+0000022 070  NN1     coffee                   F2/H1c[i24.2.1 F2 
+0000022 080  NN1     shop                     F2/H1c[i24.2.2 I2.2/H1c I4/H1c I2.2 I3.1 
+0000022 090  IW      with                     Z5 
+0000022 100  APPGE   its                      Z8 
+0000022 110  JJ      fancy                    O4.2+ 
+0000022 120  NN2     baristas                 Z99 
+0000022 121  ,       ,                        
+0000022 130  NP1     McDonald                 Z1mf 
+0000022 131  GE      's                       Z5 
+0000022 140  VBDZ    was                      A3+ Z5 
+0000022 150  AT      the                      Z5 
+0000022 160  NN1%    hang                     E6- 
+0000022 170  II21    out                      Z5[i25.2.1 Z5 Z5[i26.2.1 A9-[i26.2.1 
+0000022 180  II22    of                       Z5[i25.2.2 Z5[i26.2.2 A9-[i26.2.2 
+0000022 190  NN1     choice                   X7+ A6.3+ 
+0000022 200  IF      for                      Z5 
+0000022 210  AT      the                      Z5 
+0000022 220  JJ      young                    T3- 
+0000022 230  CC      and                      Z5 
+0000022 240  JJ      fashionable              O4.2+ E2+ T3- 
+0000022 241  ,       ,                        
+0000022 242  NULL    </quote>                 
+0000022 243  -----   -----                    
+0000022 250  JJ@     quipped                  Z99 
+0000022 260  NN1     analyst                  Y2/S2mf I2.1/S2mf Y1/S2mf B3/S2mf 
+0000022 270  NP1     Lisa                     Z1mf[i27.2.1 Z3c[i27.2.1 Z1f 
+0000022 280  NP1     Tuu                      Z1mf[i27.2.2 Z3c[i27.2.2 
+0000022 281  .       .                        
+0000022 282  NULL    <quote>                  
+0000022 283  -----   -----                    
+0000022 290  II      Through                  Z5 
+0000022 300  APPGE   its                      Z8 
+0000022 310  NN1     partnership              A9-[i28.2.1 S5+c S4 S3.2 
+0000022 320  IW      with                     A9-[i28.2.2 Z5 
+0000022 330  NN1     Apple                    Z3c 
+0000022 331  ,       ,                        
+0000022 340  NP1     McDonald                 Z1mf 
+0000022 341  GE      's                       Z5 
+0000022 350  NN1@    will                     X7+ G2.1/Q1.2 
+0000022 360  VVI     bring                    M2 A2.2 
+0000022 370  AT      the                      Z5 
+0000022 380  NN1     yuppie                   I1.1/S2mf 
+0000022 390  NP1     MacBook-owning           Z99 
+0000022 400  VV0@    crowd                    N5++ 
+0000022 410  RP      back                     M6 N6+ T1.1.1 S1.1.2+ 
+0000022 420  TO      to                       Z5 
+0000022 430  VVI     enjoy                    E2+ A9+ E4.1+ 
+0000022 440  AT1     a                        Z5 
+0000022 450  NN1     milkshake                F2 
+0000022 460  II21    instead                  A6.1-[i29.2.1 
+0000022 470  II22    of                       A6.1-[i29.2.2 
+0000022 480  APPGE   their                    Z8 
+0000022 490  JJ      usual                    A6.2+ 
+0000022 500  FU      **31;7;TOOLONG           Z99 
+0000022 510  FU      **33;39;TOOLONG          Z99 
+0000022 511  .       .                        
+0000022 512  NULL    </quote>                 
+0000022 513  -----   -----                    
+0000024 010  AT      The                      Z5 
+0000024 020  NN1     iMc                      Z99 
+0000024 030  VVZ     goes                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000024 040  II      on                       I2.2[i30.2.1 Z5 
+0000024 050  NN1     sale                     I2.2[i30.2.2 I2.2 I2.2/I1.3- 
+0000024 060  RT      today                    T1.1.2 
+0000024 070  VVG     starting                 T2+ E5- E3- 
+0000024 080  II      at                       Z5 
+0000024 090  NNU     $19.99                   Z99 
+0000024 100  IW      with                     Z5 
+0000024 110  NN2     add-ons                  N5++ 
+0000024 111  (       (                        
+0000024 120  NN1     cutlery                  F1/O2 
+0000024 121  ,       ,                        
+0000024 130  NN2     napkins                  B5 
+0000024 131  ,       ,                        
+0000024 140  NN2     pickles                  F1 A12- 
+0000024 141  ,       ,                        
+0000024 150  NN1     mayo                     Z99 
+0000024 151  )       )                        
+0000024 160  JJ      available                A3+ A9+ A1.2+/G1.2 S4 
+0000024 170  II      at                       Z5 
+0000024 180  AT1     an                       Z5 
+0000024 190  JJ      additional               N5++ 
+0000024 200  NN1     cost                     I1.3 
+0000024 201  .       .                        
+0000024 202  -----   -----                    
+0000024 210  AT      No                       Z6 
+0000024 220  NN1     meat                     F1 A4.2+ 
+0000024 230  VBZ     is                       A3+ Z5 
+0000024 240  JJ      available                A3+ A9+ A1.2+/G1.2 S4 
+0000024 250  II      at                       Z5 
+0000024 260  DD1     this                     M6 Z5 Z8 
+0000024 270  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000024 271  ,       ,                        
+0000024 280  RRQV    however                  Z4 
+0000024 290  NN2     reps                     I2.2/S2mf K4c 
+0000024 300  VV0     say                      Q2.1 Z4% 
+0000024 310  DD1     this                     Z8 M6 Z5 
+0000024 320  VBZ     is                       A3+ Z5 
+0000024 330  TO      to                       Z5 
+0000024 340  VVI     help                     S8+ 
+0000024 350  RRR     further                  N5++ N3.3++ T2++ 
+0000024 360  AT      the                      Z5 
+0000024 361  NULL    <quote>                  
+0000024 362  -----   -----                    
+0000024 363  "       "                        
+0000024 370  NN1     slimmed-down             Z99 
+0000024 371  "       "                        
+0000024 372  NULL    </quote>                 
+0000024 373  -----   -----                    
+0000024 380  NN1@    ideal                    X4.1 A5.1+++ 
+0000024 390  IO      of                       Z5 
+0000024 400  AT      the                      Z5 
+0000024 410  NN1     iMc                      Z99 
+0000024 411  .       .                        
+0000024 412  -----   -----                    
+0000024 420  NN2     Customers                I2.2/S2mf 
+0000024 430  VM      will                     T1.1.3 
+0000024 440  RR      also                     N5++ 
+0000024 450  VHI     have                     A9+ Z5 A2.2 S4 
+0000024 460  AT      the                      Z5 
+0000024 470  NN1     option                   X7+ I2.1 P1 
+0000024 480  TO      to                       Z5 
+0000024 490  VVI     upgrade                  A11.1+/A2.1 A5.1+/A2.1 
+0000024 500  II      to                       Z5 
+0000024 510  AT      the                      Z5 
+0000024 520  NN1     iMc                      Z99 
+0000024 530  NN1     Pro                      I3.2+/S2mf X9.1+/S2mf 
+0000024 531  ,       ,                        
+0000024 540  AT1     a                        Z5 
+0000024 550  JJ      vegetarian               F1 
+0000024 560  JJ      friendly                 S1.2.1+ S7.3-/K5.2 
+0000024 570  NP1     Quorn                    Z99 
+0000024 580  NN1     hamburger                F1 
+0000024 590  NN1     patty                    Z99 
+0000024 600  IF      for                      Z5 
+0000024 610  AT1     a                        Z5 
+0000024 620  MC      50                       N5[i31.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000024 630  NNU     percent                  N5[i31.2.2 N5 
+0000024 640  NN1     price                    I1.3 
+0000024 650  NN1     increase                 N5+/A2.1 
+0000024 651  .       .                        
+0000027 001  NULL    **8;73;text              

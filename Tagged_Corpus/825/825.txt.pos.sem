@@ -1,0 +1,824 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     SINGAPORE                Z2 
+0000002 011  -       -                        
+0000002 020  NP1     Singapore                Z2 
+0000002 030  VBZ     is                       Z5 A3+ 
+0000002 040  VVG     hoping                   X2.6+ E4.1+ X9.2+ A5.1+ 
+0000002 050  DD1     that                     Z5 Z8 
+0000002 060  NN1     building                 H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000002 070  NN1     expertise                X2.2+ X9.1+ 
+0000002 080  II      in                       Z5 
+0000002 090  JJ      high-tech                Y1 Y2 H1 
+0000002 100  NN2     niches                   O2 I3.1 
+0000002 110  II21    such                     Z5[i1.2.1 
+0000002 120  II22    as                       Z5[i1.2.2 Z5 
+0000002 130  NNU     3D                       O4.4 
+0000002 140  NN1     printing                 Q1.2 
+0000002 150  CC      and                      Z5 
+0000002 160  NN2     robotics                 Y2 
+0000002 170  VM      will                     T1.1.3 
+0000002 180  VVI     let                      S7.4+ I2.2/H1 T2- 
+0000002 190  PPH1    it                       Z8 
+0000002 200  VVI     sustain                  T2++ A2.2 S8+ A9+ A1.1.1 B1 
+0000002 210  AT1     a                        Z5 
+0000002 220  JJ      large                    N3.2+ N5+ A11.1+ 
+0000002 230  NN1     manufacturing            A1.1.1c[i2.2.1 A1.1.1 
+0000002 240  NN1     sector                   A1.1.1c[i2.2.2 A4.1 S5+ M7 N2@ 
+0000002 250  II      despite                  Z5 
+0000002 260  AT      the                      Z5 
+0000002 270  NN1     exit                     M1 T2- M7 L1-@ 
+0000002 280  IO      of                       Z5 
+0000002 290  DA2     many                     N5+ 
+0000002 300  JJ      labour-intensive         I3.1/S5+ 
+0000002 310  NN2     industries               I4 
+0000002 320  II      to                       Z5 
+0000002 330  JJR     cheaper                  I1.3-- O4.2-- 
+0000002 340  NN2     bases                    M7 T2+ A1.1.1 O1 K5.1@ B1% 
+0000002 350  RL      elsewhere                M6/A6.1- 
+0000002 360  II      in                       Z5 
+0000002 370  NP1     Asia                     Z2 
+0000002 371  .       .                        
+0000003 001  -----   -----                    
+0000004 010  II31    In                       A6.1+[i3.3.1 A2.2[i3.3.1 M6[i3.3.1 Z5 
+0000004 020  II32    line                     A6.1+[i3.3.2 A2.2[i3.3.2 M6[i3.3.2 
+0000004 030  II33    with                     A6.1+[i3.3.3 A2.2[i3.3.3 M6[i3.3.3 
+0000004 040  NN1     government               G1.1c 
+0000004 050  NN2     efforts                  X8+ O2 
+0000004 060  TO      to                       Z5 
+0000004 070  VVI     lift                     M2 A5.1+/A2.1 E4.1+/A2.1 G2.1 
+0000004 080  NN1     productivity             I2.1/N5+ 
+0000004 090  CC      and                      Z5 
+0000004 100  VVI     cut                      A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3 
+0000004 110  NN1     reliance                 S7.1- 
+0000004 120  II      on                       Z5 
+0000004 130  JJ      foreign                  M7 
+0000004 140  NN2     workers                  I3.1/S2mf 
+0000004 141  -       -                        
+0000004 150  DDQGE   whose                    Z8 
+0000004 160  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000004 170  NN2     numbers                  N5 N1 Q1.3 K2 Q4.2 
+0000004 180  VH0     have                     Z5 A9+ A2.2 S4 
+0000004 190  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000004 200  NN2     citizens                 G1.1/S2mf S5+/S2mf 
+0000004 210  JJ      unhappy                  E4.1- E2- A1.4- 
+0000004 211  -       -                        
+0000004 220  NP1     Singapore                Z2 
+0000004 221  GE      's                       Z5 
+0000004 230  JJ      Economic                 I1.3- I2.1 
+0000004 240  NN1     Development              A2.1+ A5.1+/A2.1 H1 
+0000004 250  NN1     Board                    S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
+0000004 251  (       (                        
+0000004 260  NP1     EDB                      Z99 
+0000004 261  )       )                        
+0000004 270  RR21    no                       T2-[i4.2.1 Z6 
+0000004 280  RR22    longer                   T2-[i4.2.2 T1.3++ 
+0000004 290  VVZ@    courts                   S3.2 X7+ 
+0000004 300  JJ      multinational            M7 
+0000004 310  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000004 320  CST     that                     Z8 Z5 
+0000004 330  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000004 340  TO      to                       Z5 
+0000004 350  VVI     employ                   I3.1 A1.5.1 
+0000004 360  DA2     many                     N5+ 
+0000004 370  JJ      low-cost                 I1.3- 
+0000004 380  NN2     employees                I3.1/S2mf 
+0000004 381  .       .                        
+0000005 001  -----   -----                    
+0000006 010  CCB     But                      Z5 
+0000006 020  PPH1    it                       Z8 
+0000006 030  RR      keenly                   X5.2+ 
+0000006 040  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
+0000006 050  TO      to                       Z5 
+0000006 060  VVI     pull                     M2 A9+ M1 
+0000006 070  II      in                       Z5 
+0000006 080  DAR     more                     N5++ 
+0000006 090  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000006 100  IF      for                      Z5 
+0000006 110  JJ      cutting-edge             T3- 
+0000006 120  NN1     production               A1.1.1 A10+ K4 K3 Q4.3 
+0000006 121  .       .                        
+0000008 001  NULL    <quote>                  
+0000008 002  -----   -----                    
+0000008 010  AT      The                      Z5 
+0000008 020  NN1     future                   T1.1.3 
+0000008 030  IO      of                       Z5 
+0000008 040  NN1     manufacturing            A1.1.1 
+0000008 050  IF      for                      Z5 
+0000008 060  PPIO2   us                       Z8 
+0000008 070  VBZ     is                       A3+ Z5 
+0000008 080  II      about                    Z5 
+0000008 090  JJ      disruptive               E3- 
+0000008 100  NN2     technologies             Y1 
+0000008 101  ,       ,                        
+0000008 110  NN2     areas                    M7 A4.1 N3.6 
+0000008 120  II      like                     Z5 
+0000008 130  NNU     3D                       O4.4 
+0000008 140  NN1     printing                 Q1.2 
+0000008 141  ,       ,                        
+0000008 150  NN1     automation               A1.1.1/S5- 
+0000008 160  CC      and                      Z5 
+0000008 170  NN2     robotics                 Y2 
+0000008 171  ,       ,                        
+0000008 172  NULL    </quote>                 
+0000008 173  -----   -----                    
+0000008 180  VV0     EDB                      Z99 
+0000008 190  JJ      Managing                 S7.1+/S2mf[i6.2.1 S7.1+ A1.1.1 X9.2+ S7.1+/S2mf[i5.2.1 
+0000008 200  NN1     Director                 S7.1+/S2mf[i6.2.2 S7.1+/S2mf K4/S2mf S7.1+/S2mf[i5.2.2 
+0000008 210  NP1     Yeoh                     Z1mf[i8.3.1 Z3c[i8.3.1 Z1 Z1mf[i7.2.1 Z3c[i7.2.1 
+0000008 220  NP1     Keat                     Z1mf[i8.3.2 Z3c[i8.3.2 Z1mf[i7.2.2 Z3c[i7.2.2 Z1mf[i9.2.1 Z3c[i9.2.1 
+0000008 230  NP1     Chuan                    Z3c[i8.3.3 Z1mf[i8.3.3 Z1mf[i9.2.2 Z3c[i9.2.2 
+0000008 240  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000008 250  NP1     Reuters                  Z3c 
+0000008 251  .       .                        
+0000009 001  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  JJ      economic                 I1.3- I2.1 
+0000010 030  NN1     planning                 X7+ 
+0000010 040  NN1     agency                   I2.2/S5+c G1.1c 
+0000010 050  VBZ     is                       Z5 A3+ 
+0000010 060  VVG     hoping                   X2.6+ E4.1+ X9.2+ A5.1+ 
+0000010 070  DAR     more                     N5++ 
+0000010 080  NN2     firms                    I2.1/S5+c 
+0000010 090  VM      will                     T1.1.3 
+0000010 100  VVI     follow                   M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4 
+0000010 110  NP1     Rolls-Royce              Z99 
+0000010 120  CC      and                      Z5 
+0000010 130  NP1     Procter                  Z3c 
+0000010 131  NULL    &;                       
+0000010 140  VV0     Gamble                   A15- I1/A1.4 K5.2/I1 
+0000010 150  TO      to                       Z5 
+0000010 160  VVI     take                     S8+[i11.3.1 G2.2-[i11.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ S1.2.2+[i10.2.1 
+0000010 170  NN1     advantage                S8+[i11.3.2 G2.2-[i11.3.2 A5.1+ K5.2 S1.2.2+[i10.2.2 
+0000010 180  IO      of                       G2.2-[i11.3.3 S8+[i11.3.3 Z5 
+0000010 190  JJ      new                      T3- 
+0000010 200  NN2     technologies             Y1 
+0000010 210  PPH1    it                       Z8 
+0000010 211  VBZ     's                       Z5 A3+ 
+0000010 220  VVG     trying                   X8+ X2.4 Q2.2 G2.1 A12- 
+0000010 230  TO      to                       Z5 
+0000010 240  VVI     promote                  S8+ I2.2/Q2.2 S7.1+/A2.1 
+0000010 241  ,       ,                        
+0000010 250  II31    as                       N5++[i12.2.1 Z5 
+0000010 260  II32    well                     N5++[i12.2.2 
+0000010 270  II33    as                       Z5 
+0000010 280  NP1     Singapore                Z2 
+0000010 281  GE      's                       Z5 
+0000010 290  JJ      low                      N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1- 
+0000010 300  NN1     tax                      I1.1/G1.1 
+0000010 310  NN2     rates                    N3.8 N5 I1.3 
+0000010 320  CC      and                      S2mf[i13.2.1 Z5 
+0000010 330  JJ      other                    S2mf[i13.2.2 A6.1- 
+0000010 340  NN2     incentives               X5.2+ 
+0000010 341  .       .                        
+0000011 001  -----   -----                    
+0000012 010  MD      Last                     T1.1.1[i14.2.1 N4 
+0000012 020  NNT1    week                     T1.1.1[i14.2.2 T1.3 
+0000012 021  ,       ,                        
+0000012 030  NP1@    P                        Z5 
+0000012 031  NULL    &G;                      
+0000012 040  VVD     opened                   A1.1.1 T2+ 
+0000012 050  AT1     a                        Z5 
+0000012 060  FO      S$250                    Z99 
+0000012 070  NNO     million                  N1 I1 
+0000012 071  (       (                        
+0000012 080  NNU     $198                     Z99/H1c[i15.2.1 
+0000012 090  NNO     million                  Z99/H1c[i15.2.2 N1 I1 
+0000012 091  )       )                        
+0000012 100  NN1     research                 X2.4 
+0000012 110  NN1     centre                   M6 H1c M7c G1.2c K5.1mfn 
+0000012 120  II      in                       Z5 
+0000012 130  AT      the                      Z5 
+0000012 140  NN1     city-state               Z99 
+0000012 150  CC      and                      Z5 
+0000012 160  VHZ     has                      Z5 A9+ A2.2 S4 
+0000012 170  VVN     signed                   Q1.2 Q1.1 G2.1 I3.1 S9 
+0000012 180  AT1     an                       Z5 
+0000012 190  NN1     agreement                A6.1+ Q2.2 
+0000012 200  IW      with                     Z5 
+0000012 210  NP1     Singapore                Z2 
+0000012 211  GE      's                       Z5 
+0000012 220  NN1     science                  Y1 
+0000012 230  CC      and                      Z5 
+0000012 240  NN1     technology               Y1 
+0000012 250  NN1     agency                   I2.2/S5+c G1.1c 
+0000012 260  VVG     giving                   A9- A1.1.1 
+0000012 270  PPH1    it                       Z8 
+0000012 280  NN1     access                   M1 A9+ A1.1.1 
+0000012 290  II      to                       Z5 
+0000012 300  NP1     Singapore                Z2 
+0000012 301  GE      's                       Z5 
+0000012 310  NN2     universities             P1/H1c 
+0000012 320  CC      and                      Z5 
+0000012 330  NN1     hospital                 B3/H1c 
+0000012 340  NN1     research                 X2.4 
+0000012 350  NN2     facilities               H1 O2 S8+ X9.1+ 
+0000012 351  .       .                        
+0000013 001  -----   -----                    
+0000014 010  NP1     Rolls                    Z3fnc[i17.2.1 Z3c Z1mf[i16.2.1 Z3c[i16.2.1 
+0000014 020  NP1     Royce                    Z3fnc[i17.2.2 Z1mf Z1mf[i16.2.2 Z3c[i16.2.2 
+0000014 030  VVD     signed                   Q1.2 Q1.1 G2.1 I3.1 S9 
+0000014 040  AT1     a                        Z5 
+0000014 050  FO      S$75                     Z99 
+0000014 060  NNO     million                  N1 I1 
+0000014 070  NN1     deal                     N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
+0000014 080  IW      with                     Z5 
+0000014 090  MC1     one                      N1 T3 T1.2 
+0000014 100  NN1     university               P1/H1c 
+0000014 110  MD      last                     T1.1.1[i19.2.1 N4 T1.3[i18.2.1 P1/S2mf[i18.2.1 
+0000014 120  NNT1    year                     T1.1.1[i19.2.2 T1.3 P1c T1.3[i18.2.2 P1/S2mf[i18.2.2 
+0000014 130  TO      to                       Z5 
+0000014 140  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000014 150  NN1     research                 X2.4 
+0000014 160  II      into                     Z5 
+0000014 170  JJ      computational            Z99 
+0000014 180  NN1     engineering              Y1 S7.1+ A1.1.1 
+0000014 190  CC      and                      S2mf[i20.2.1 Z5 
+0000014 200  JJ      other                    S2mf[i20.2.2 A6.1- 
+0000014 210  NN2     areas                    M7 A4.1 N3.6 
+0000014 211  .       .                        
+0000015 001  -----   -----                    
+0000016 010  AT      The                      Z5 
+0000016 020  NN1     EDB                      Z99 
+0000016 021  ,       ,                        
+0000016 030  DDQ     which                    Z8 Z5 
+0000016 040  VHZ     has                      Z5 A9+ A2.2 S4 
+0000016 050  VVN     helped                   S8+ 
+0000016 060  VVI     drive                    M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000016 070  AT      the                      Z5 
+0000016 080  NN1     island                   W3 
+0000016 081  GE      's                       Z5 
+0000016 090  NN1     transformation           A2.1+ 
+0000016 100  II      from                     Z5 
+0000016 110  AT1     a                        Z5 
+0000016 120  NN1     trading                  I2.2 
+0000016 130  NN1     outpost                  M7 
+0000016 140  II      to                       Z5 
+0000016 150  AT1     an                       Z5 
+0000016 160  JJ      economic                 I1.3- I2.1 
+0000016 170  NN1     powerhouse               S7.1+ X5.2+ 
+0000016 171  ,       ,                        
+0000016 180  VVD     lured                    X5.2+ 
+0000016 190  NN1     technology               Y1/I2.1c[i21.2.1 Y1 
+0000016 200  NN2     companies                Y1/I2.1c[i21.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000016 210  II      in                       Z5 
+0000016 220  AT      the                      Z5 
+0000016 230  JJ      late                     T3[i22.2.1 T1.3[i22.2.1 T4- L1- T1.1 
+0000016 240  MC2     1960s                    T3[i22.2.2 T1.3[i22.2.2 T1.3 N1 T3 
+0000016 250  CC      and                      Z5 
+0000016 260  MC2     1970s                    T1.3 N1 T3 
+0000016 270  IW      with                     Z5 
+0000016 280  NN2     incentives               X5.2+ 
+0000016 290  CC      and                      Z5 
+0000016 300  JJ      low-cost                 I1.3- 
+0000016 310  NN1     labour                   A1.1.1 A12- I3.1/S5+ B1 
+0000016 311  .       .                        
+0000017 001  -----   -----                    
+0000018 010  NN2     Operations               A1.1.1 B3 G3 
+0000018 020  TO      to                       Z5 
+0000018 030  VVI     assemble                 S5+ A9+ A1.1.1 
+0000018 040  NN2     televisions              Q4.3 
+0000018 050  CC      and                      Z5 
+0000018 060  NN2     components               O2 N5.1- 
+0000018 070  VH0     have                     Z5 A9+ A2.2 S4 
+0000018 080  VVN     gone                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000018 090  II      to                       Z5 
+0000018 100  JJ      Asian                    Z2 
+0000018 110  NN2     countries                M7 
+0000018 120  IW      with                     Z5 
+0000018 130  DA1     much                     N5+ I1.3+ 
+0000018 140  JJR     lower                    M6 N3.7-- N5-- I1.3-- A5.1-- A11.1-- E4.1-- X3.2-- G2.2-- S7.1-- 
+0000018 150  NN2     wages                    I1.1/I3.1 
+0000018 151  .       .                        
+0000018 152  -----   -----                    
+0000018 160  RR      However                  Z4 
+0000018 161  ,       ,                        
+0000018 170  VVG@    manufacturing            A1.1.1 
+0000018 180  RR      still                    T2++ Z4 E3+ 
+0000018 190  VVZ     accounts                 Q2.2[i23.2.1 A2.2[i23.2.1 N2[i23.2.1 Q2.2 
+0000018 200  IF      for                      Q2.2[i23.2.2 A2.2[i23.2.2 N2[i23.2.2 Z5 
+0000018 210  RG      about                    A13.4 
+0000018 220  MC      20                       N5[i24.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000018 230  NNU     percent                  N5[i24.2.2 N5 
+0000018 240  IO      of                       Z5 
+0000018 250  NP1     Singapore                Z2 
+0000018 251  GE      's                       Z5 
+0000018 260  JJ      gross                    N5.1+ O4.2- N5 
+0000018 270  JJ      domestic                 H4 S4 E3+/L2 M6 
+0000018 280  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000018 281  ,       ,                        
+0000018 290  CC      and                      Z5 
+0000018 300  AT      the                      Z5 
+0000018 310  NN1     government               G1.1c 
+0000018 320  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
+0000018 330  AT      the                      Z5 
+0000018 340  JJ      level                    O4.4 A4.2+ 
+0000018 350  TO      to                       Z5 
+0000018 360  VVI     remain                   T2++ M8 N5.2+ 
+0000018 370  MCMC    20-25                    N5[i25.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000018 380  NNU     percent                  N5[i25.2.2 N5 
+0000018 381  .       .                        
+0000018 382  -----   -----                    
+0000018 390  II      In                       Z5 
+0000018 400  JJ      rival                    S7.3 
+0000018 410  JJ      financial                I1 
+0000018 420  NN1     centre                   M6 H1c M7c G1.2c K5.1mfn 
+0000018 430  NP1     Hong                     Z2[i27.2.1 Z1m Z1mf[i26.2.1 Z3c[i26.2.1 
+0000018 440  NP1     Kong                     Z2[i27.2.2 Z2 Z1mf[i26.2.2 Z3c[i26.2.2 
+0000018 441  ,       ,                        
+0000018 450  NN1     manufacturing            A1.1.1 
+0000018 460  VVZ     makes                    A5.2-[i28.2.1 B4[i28.2.1 N5[i28.2.1 S3.1[i28.2.1 A1.1.1[i28.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000018 470  RP      up                       A5.2-[i28.2.2 B4[i28.2.2 N5[i28.2.2 S3.1[i28.2.2 A1.1.1[i28.2.2 
+0000018 480  RG      about                    A13.4 
+0000018 490  MC      2                        N5[i29.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000018 500  NNU     percent                  N5[i29.2.2 N5 
+0000018 510  IO      of                       Z5 
+0000018 520  AT      the                      Z5 
+0000018 530  NN1     economy                  I2.1 I1.3- 
+0000018 531  .       .                        
+0000019 001  -----   -----                    
+0000020 010  NP1     Singapore                Z2 
+0000020 020  VBZ     is                       Z5 A3+ 
+0000020 030  VVN     focused                  X5.1+ X3.4 A4.2+ 
+0000020 040  II      on                       Z5 
+0000020 050  VVG     developing               A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000020 060  AT1     a                        Z5 
+0000020 070  JJ      regional                 M7 
+0000020 080  NN1     manufacturing            A1.1.1 
+0000020 090  NN1     supply                   I2.2[i30.2.1 I4[i30.2.1 A9- A9+ S8+% 
+0000020 100  NN1     chain                    I2.2[i30.2.2 I4[i30.2.2 S5+/I2.1c O2 N4 B5 S7.1 
+0000020 101  ,       ,                        
+0000020 110  CS      where                    M6 
+0000020 120  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000020 130  VM      can                      A7+ 
+0000020 140  VVI     base                     T2+ M6 A2.2 
+0000020 150  JJ      labour-intensive         I3.1/S5+ 
+0000020 160  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
+0000020 170  II      in                       Z5 
+0000020 180  JJ      nearby                   N3.3- 
+0000020 190  NN2     countries                M7 
+0000020 191  ,       ,                        
+0000020 200  CS      while                    Z5 
+0000020 210  NN1     engineering              Y1 S7.1+ A1.1.1 
+0000020 220  CC      and                      Z5 
+0000020 230  NN1     design                   C1[i31.2.1 C1 X7+ B5 
+0000020 240  NN1     work                     C1[i31.2.2 I3.1 A1.1.1 Q4 K2 C1 
+0000020 250  VBZ     is                       Z5 A3+ 
+0000020 260  VDN     done                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000020 270  II      at                       Z5 
+0000020 280  NN1     home                     H4/H1c M6 
+0000020 281  .       .                        
+0000021 001  -----   -----                    
+0000022 010  VV0     SECURE                   A9+ A15+ A1.7+ 
+0000022 020  NN      DATA                     X2.2/X2.4 Q1.1 
+0000024 010  CC      And                      Z5 
+0000024 020  PPH1    it                       Z8 
+0000024 030  NN2     hosts                    S2mf B1@ Y2@ S9% 
+0000024 040  JJ      sophisticated            O4.2+ X9.1+ 
+0000024 050  NN1     manufacturing            A1.1.1 
+0000024 051  .       .                        
+0000024 052  -----   -----                    
+0000024 060  II      About                    Z5 
+0000024 070  MF      one-third                N5 
+0000024 080  IO      of                       Z5 
+0000024 090  AT      the                      Z5 
+0000024 100  NN1     world                    W1 S5+c A4.1 N5+ 
+0000024 101  GE      's                       Z5 
+0000024 110  NN1     hearing                  B3/X3.2[i32.2.1 B1/X3.2 G2.1 
+0000024 120  NN2     aids                     B3/X3.2[i32.2.2 B2- 
+0000024 130  VBR     are                      Z5 A3+ 
+0000024 140  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000024 150  II      in                       Z5 
+0000024 160  NP1     Singapore                Z2 
+0000024 161  ,       ,                        
+0000024 170  DA2     many                     N5+ 
+0000024 180  II      by                       Z5 
+0000024 190  JJ      German                   Z2 Z2/Q3 
+0000024 200  NN1     engineering              Y1 S7.1+ A1.1.1 
+0000024 210  NN1     conglomerate             S5+c N5+ 
+0000024 220  NP1     Siemens                  Z3c 
+0000024 230  FO      AG                       Z99 
+0000024 231  .       .                        
+0000025 001  -----   -----                    
+0000026 010  II21    But                      Z5[i33.2.1 Z5 
+0000026 020  II22    for                      Z5[i33.2.2 
+0000026 030  NN1     manufacturing            A1.1.1 
+0000026 040  RR21    in                       A4.2-[i34.2.1 
+0000026 050  RR22    general                  A4.2-[i34.2.2 
+0000026 051  ,       ,                        
+0000026 052  NULL    <quote>                  
+0000026 053  -----   -----                    
+0000026 060  PPH1    it                       Z8 
+0000026 061  VBZ     's                       A3+ Z5 
+0000026 070  XX      not                      Z6 
+0000026 080  JJ      possible                 A7+ 
+0000026 090  IF      for                      Z5 
+0000026 100  PPIO2   us                       Z8 
+0000026 110  TO      to                       Z5 
+0000026 120  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000026 130  PN1     everything               Z8/N5.1+ 
+0000026 140  II      in                       Z5 
+0000026 150  NP1     Singapore                Z2 
+0000026 151  ,       ,                        
+0000026 152  NULL    </quote>                 
+0000026 153  -----   -----                    
+0000026 160  VVD     said                     Q2.1 
+0000026 170  NP1     Yeoh                     Z1 
+0000026 171  .       .                        
+0000026 172  NULL    <quote>                  
+0000026 173  -----   -----                    
+0000026 180  NN2     Activities               A1.1.1 
+0000026 190  DDQ     which                    Z8 Z5 
+0000026 200  VBR     are                      A3+ Z5 
+0000026 210  RR      much                     A13.3 N6+ 
+0000026 220  DAR     more                     N5++ 
+0000026 230  NN1     labour                   A12-[i35.2.1 A1.1.1 A12- I3.1/S5+ B1 
+0000026 240  JJ      intensive                A12-[i35.2.2 N5+ X8+ 
+0000026 250  CC      and                      Z5 
+0000026 260  VM      ca                       A7+ 
+0000026 261  XX      n't                      Z6 
+0000026 270  VBI     be                       Z5 A3+ 
+0000026 280  VVN     sustained                T2++ A2.2 S8+ A9+ A1.1.1 B1 
+0000026 290  II      in                       Z5 
+0000026 300  NP1     Singapore                Z2 
+0000026 310  VM      will                     T1.1.3 
+0000026 320  VVI     need                     S6+ 
+0000026 330  TO      to                       Z5 
+0000026 340  VVI     move                     M1[i36.2.1 M2[i36.2.1 H4/A2.1[i36.2.1 M2 M1 A2.1+ E1 H4/A2.1 
+0000026 350  RP      out                      M1[i36.2.2 M2[i36.2.2 H4/A2.1[i36.2.2 M6 
+0000026 351  .       .                        
+0000026 352  NULL    </quote>                 
+0000026 353  -----   -----                    
+0000028 010  PPHS1   He                       Z8m 
+0000028 020  VBZ     is                       Z5 A3+ 
+0000028 030  VVG     hoping                   X2.6+ E4.1+ X9.2+ A5.1+ 
+0000028 040  JJR     higher-paid              Z99 
+0000028 050  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
+0000028 060  II      in                       Z5 
+0000028 070  NN2     sectors                  A4.1 S5+ M7 N2@ 
+0000028 080  II21    such                     Z5[i37.2.1 
+0000028 090  II22    as                       Z5[i37.2.2 Z5 
+0000028 100  NNU     3D                       O4.4 
+0000028 110  NN1     printing                 Q1.2 
+0000028 120  CC      and                      Z5 
+0000028 130  NN2     biologics                Z99 
+0000028 131  -       -                        
+0000028 140  VVG     making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000028 150  NN2     drugs                    B3 F3 
+0000028 160  II      from                     Z5 
+0000028 170  NN2     proteins                 O1 
+0000028 180  II      in                       Z5 
+0000028 190  NN1     cell                     B1 G2.1/H2 S9/H2 S5+c O3 
+0000028 200  NN2     cultures                 C1 S1.1.1 S5+ L1 
+0000028 210  II21    rather                   Z5[i39.2.1 Z5[i38.2.1 
+0000028 220  II22    than                     Z5[i39.2.2 Z5[i38.2.2 
+0000028 230  RR      synthetically            Z99 
+0000028 231  -       -                        
+0000028 240  VM      can                      A7+ 
+0000028 250  VVI     expand                   N3.2+/A2.1 Q2.2/N5++ A4.2-/A2.1 
+0000028 251  .       .                        
+0000029 001  -----   -----                    
+0000030 010  II      In                       Z5 
+0000030 020  AT      the                      Z5 
+0000030 030  NN1     service                  S8+/S5+[i41.2.1 S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ S8+c[i40.2.1 
+0000030 040  NN1     sector                   S8+/S5+[i41.2.2 A4.1 S5+ M7 N2@ S8+c[i40.2.2 
+0000030 041  ,       ,                        
+0000030 050  NP1     Singapore                Z2 
+0000030 060  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
+0000030 070  TO      to                       Z5 
+0000030 080  VVI     develop                  A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000030 090  NN2     technologies             Y1 
+0000030 100  IF      for                      Z5 
+0000030 110  NN1     e-commerce               I2.1/Y2 
+0000030 120  CC      and                      Z5 
+0000030 130  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000030 140  NN      data                     X2.2/X2.4 Q1.1 
+0000030 141  .       .                        
+0000031 001  -----   -----                    
+0000032 010  AT      The                      Z5 
+0000032 020  NN1     city-state               Z99 
+0000032 030  VHZ     has                      A9+ Z5 A2.2 S4 
+0000032 040  AT1     a                        Z5 
+0000032 050  NN1     target                   X7+ G3 K5.1 
+0000032 060  IO      of                       Z5 
+0000032 070  MC      2,500                    N1 T1.2 T3 T1.3 N3.2 
+0000032 080  NN      data                     X2.2/X2.4 Q1.1 
+0000032 090  NN1     analytics                Z99/I3.1c[i42.2.1 
+0000032 100  NN2     professionals            Z99/I3.1c[i42.2.2 I3.2+/S2mf X9.1+/S2mf 
+0000032 110  II      by                       Z5 
+0000032 120  MC      2017                     N1 T1.2 T3 T1.3 N3.2 
+0000032 121  .       .                        
+0000032 122  -----   -----                    
+0000032 130  RR      Already                  T1.1.1 
+0000032 131  ,       ,                        
+0000032 140  RG      about                    A13.4 
+0000032 150  DB      half                     N5 
+0000032 160  IO      of                       Z5 
+0000032 170  ND1     Southeast                Z99 
+0000032 180  NP1     Asia                     Z2 
+0000032 181  GE      's                       Z5 
+0000032 190  NN      data                     X2.2/X2.4 Q1.1 
+0000032 200  NN1     centre                   M6 H1c M7c G1.2c K5.1mfn 
+0000032 210  NN1     capacity                 N3.2 N3.4 N5.1+ X9.1+ I3.1 
+0000032 220  VBZ     is                       A3+ Z5 
+0000032 230  II      in                       Z5 
+0000032 240  NP1     Singapore                Z2 
+0000032 241  .       .                        
+0000034 001  NULL    <quote>                  
+0000034 002  -----   -----                    
+0000034 010  DD1     That                     Z8 Z5 
+0000034 011  VBZ     's                       A3+ Z5 
+0000034 020  XX      not                      Z6 
+0000034 030  CS      because                  Z5/A2.2 
+0000034 040  PPIS2   we                       Z8 
+0000034 050  VH0     have                     A9+ Z5 A2.2 S4 
+0000034 060  JJ      low-cost                 I1.3- 
+0000034 070  NN1     energy                   X5.2+ Y1 
+0000034 071  ,       ,                        
+0000034 080  PPIS2   we                       Z8 
+0000034 090  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000034 091  XX      nt                       S9/Q4.1 Z3c 
+0000034 092  ,       ,                        
+0000034 100  CC      or                       Z5 
+0000034 110  CS      because                  Z5/A2.2 
+0000034 120  APPGE   our                      Z8 
+0000034 130  NN1     weather                  W4 
+0000034 140  VBZ     is                       A3+ Z5 
+0000034 150  JJ      cool                     O4.6- S1.2.1- O4.2+ E6+ 
+0000034 151  ,       ,                        
+0000034 160  PPH1    it                       Z8 
+0000034 161  VBZ     's                       A3+ Z5 
+0000034 170  XX      not                      Z6 
+0000034 171  ,       ,                        
+0000034 180  CCB     but                      Z5 
+0000034 190  CS      because                  Z5/A2.2 
+0000034 200  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000034 210  VV0     feel                     X2.1 E1 X3 
+0000034 220  RG      very                     A13.3 
+0000034 230  JJ      confident                E6+ 
+0000034 240  II      about                    Z5 
+0000034 250  AT      the                      Z5 
+0000034 260  NN1     security                 G2.1 A15+ E6+ I1.1 
+0000034 270  IO      of                       Z5 
+0000034 280  AT      the                      Z5 
+0000034 290  NN      data                     X2.2/X2.4 Q1.1 
+0000034 300  VVG     residing                 H4 M6 
+0000034 310  II      in                       Z5 
+0000034 320  NP1     Singapore                Z2 
+0000034 321  ,       ,                        
+0000034 322  NULL    </quote>                 
+0000034 323  -----   -----                    
+0000034 330  VVD     said                     Q2.1 
+0000034 340  NP1     Yeoh                     Z1 
+0000034 341  ,       ,                        
+0000034 350  PNQS    who                      Z8 
+0000034 360  VHZ     has                      Z5 A9+ A2.2 S4 
+0000034 370  VVN     led                      S7.1+ A2.2 M2 A1.1.1 
+0000034 380  AT      the                      Z5 
+0000034 390  NN1     EDB                      Z99 
+0000034 400  II      since                    Z5 
+0000034 410  MC      2012                     N1 T1.2 T3 T1.3 N3.2 
+0000034 411  .       .                        
+0000035 001  -----   -----                    
+0000036 010  NP1     Singapore                Z2 
+0000036 011  GE      's                       Z5 
+0000036 020  NN2     shipyards                I4/M4c[i43.2.1 M4/M7 
+0000036 030  NN1     industry                 I4/M4c[i43.2.2 I4c I2.1c 
+0000036 040  VBZ     is                       A3+ Z5 
+0000036 050  PN1     one                      Z8 
+0000036 060  CST     that                     Z8 Z5 
+0000036 070  VM      may                      A7+ 
+0000036 080  VHI     have                     S6+[i44.2.1 A9+ Z5 A2.2 S4 
+0000036 090  TO      to                       S6+[i44.2.2 Z5 
+0000036 100  VVI     shrink                   N3.2-/A2.1 E2-@ 
+0000036 110  II      as                       Z5 
+0000036 120  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000036 130  IO      of                       Z5 
+0000036 140  AT      the                      Z5 
+0000036 150  NN1     government               G1.1c 
+0000036 151  GE      's                       Z5 
+0000036 160  NN1     productivity             I2.1/N5+ 
+0000036 170  NN1     drive                    M3 X5.2+ X8+ M3/H3 Y2 
+0000036 171  .       .                        
+0000036 172  -----   -----                    
+0000036 180  CS      While                    Z5 
+0000036 190  PPH1    it                       Z8 
+0000036 200  RR      currently                T1.1.2 
+0000036 210  VVZ     employs                  I3.1 A1.5.1 
+0000036 220  MC      120,000                  N1 T1.2 T3 T1.3 N3.2 
+0000036 230  IO      of                       Z5 
+0000036 240  AT      the                      Z5 
+0000036 250  NN1     city-state               Z99 
+0000036 251  GE      's                       Z5 
+0000036 260  MC      5.3                      N1[i45.2.1 T1.3[i45.2.1 I1[i45.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000036 270  NNO     million                  N1[i45.2.2 T1.3[i45.2.2 I1[i45.2.2 N1 I1 
+0000036 280  NN      people                   S2mfc 
+0000036 281  ,       ,                        
+0000036 290  AT      the                      Z5 
+0000036 300  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000036 310  IO      of                       Z5 
+0000036 320  JJ      foreign                  M7 
+0000036 330  NN2     workers                  I3.1/S2mf 
+0000036 340  II      versus                   Z5 
+0000036 350  JJ      local                    M7 
+0000036 360  VBZ     is                       A3+ Z5 
+0000036 370  MC1     5-to-1                   N1 T1.2 T3 T1.3 N3.2 
+0000036 371  ,       ,                        
+0000036 380  AT1     a                        Z5 
+0000036 390  NN1     ratio                    N2 
+0000036 400  AT      the                      Z5 
+0000036 410  NN1     government               G1.1c 
+0000036 420  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
+0000036 430  II      at                       Z5 
+0000036 440  MC1     3.5-to-1                 N1 T1.2 T3 T1.3 N3.2 
+0000036 450  II      by                       Z5 
+0000036 460  MC      2018                     N1 T1.2 T3 T1.3 N3.2 
+0000036 461  .       .                        
+0000037 001  -----   -----                    
+0000038 010  JJ      GLOBAL                   W3 M7 A1.8+ O4.4 
+0000038 011  ,       ,                        
+0000038 020  JJ      REGIONAL                 M7 
+0000038 030  NN2     HQS                      Z3c 
+0000040 010  MC1     One                      N1 T3 T1.2 
+0000040 020  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
+0000040 030  IO      of                       Z5 
+0000040 040  NN2     foreigners               Z2/S2mf I3.1/S2mf 
+0000040 050  AT      the                      Z5 
+0000040 060  NN1     government               G1.1c 
+0000040 070  VBZ     is                       A3+ Z5 
+0000040 080  JJ      keen                     X5.2+ X9.1+ 
+0000040 090  TO      to                       Z5 
+0000040 100  VVI     maintain                 A9+ T2++ S8+ A1.1.1 Q2.2 
+0000040 110  VBR     are                      A3+ Z5 
+0000040 120  JJ      top-level                M6 S7.1+++ A11.1+++ 
+0000040 130  NN2     executives               I2.1/S2mf G1.1 S7.1+/S5+c 
+0000040 131  ,       ,                        
+0000040 140  CSA     as                       Z5 
+0000040 150  PPH1    it                       Z8 
+0000040 160  VVZ     tries                    X8+ X2.4 Q2.2 G2.1 A12- 
+0000040 170  TO      to                       Z5 
+0000040 180  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000040 190  DAR     more                     N5++ 
+0000040 200  NN2     multinationals           M7/S5 
+0000040 210  TO      to                       Z5 
+0000040 220  VVI     set                      T2+[i46.2.1 S7.1+[i46.2.1 O2[i46.2.1 A1.1.1[i46.2.1 M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000040 230  RP      up                       T2+[i46.2.2 S7.1+[i46.2.2 O2[i46.2.2 A1.1.1[i46.2.2 
+0000040 240  JJ      regional                 M7 
+0000040 250  CC      or                       Z5 
+0000040 260  JJ      international            M7 
+0000040 270  NN      headquarters             S7.1+/H1c 
+0000040 271  .       .                        
+0000041 001  -----   -----                    
+0000042 010  MD      Last                     T1.1.1[i48.2.1 N4 T1.3[i47.2.1 P1/S2mf[i47.2.1 
+0000042 020  NNT1    year                     T1.1.1[i48.2.2 T1.3 P1c T1.3[i47.2.2 P1/S2mf[i47.2.2 
+0000042 021  ,       ,                        
+0000042 030  AT      the                      Z5 
+0000042 040  NN1     city-state               Z99 
+0000042 050  VVD     received                 A9+ S5+ 
+0000042 060  AT1     a                        Z5 
+0000042 070  NN1     boost                    S8+ 
+0000042 080  CS      when                     Z5 
+0000042 090  JJ      General                  N5+ A4.2- 
+0000042 100  NN2     Motors                   O2 M3fn 
+0000042 110  VVD     said                     Q2.1 
+0000042 120  PPH1    it                       Z8 
+0000042 130  VM      would                    A7+ 
+0000042 140  VVI     shift                    M2 M1 A2.1+ I2.2 
+0000042 150  AT1     a                        Z5 
+0000042 160  NN1     unit                     S5+c O2 H5 H1 N3.1 P1 N1 
+0000042 170  CST     that                     Z8 Z5 
+0000042 180  VVZ     oversees                 S7.1+ 
+0000042 190  DA1     much                     N5+ I1.3+ 
+0000042 200  IO      of                       Z5 
+0000042 210  APPGE   its                      Z8 
+0000042 220  JJ      international            M7 
+0000042 230  NN2     operations               A1.1.1 B3 G3 
+0000042 240  II      to                       Z5 
+0000042 250  NP1     Singapore                Z2 
+0000042 260  II      from                     Z5 
+0000042 270  NP1     Shanghai                 Z2 
+0000042 271  ,       ,                        
+0000042 280  AT1     a                        Z5 
+0000042 290  NNT1    decade                   T1.3 
+0000042 300  II      after                    Z5 
+0000042 310  AT      the                      Z5 
+0000042 320  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000042 330  VVD     left                     M1 M2 A1.1.1 A1.9 A9- T2- 
+0000042 340  AT      the                      Z5 
+0000042 350  NN1     island                   W3 
+0000042 351  .       .                        
+0000043 001  -----   -----                    
+0000044 010  NP1     Singapore                Z2 
+0000044 011  GE      's                       Z5 
+0000044 020  JJ      low                      N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1- 
+0000044 030  NN2     taxes                    I1.1/G1.1 
+0000044 040  CC      and                      Z5 
+0000044 050  JJ      high                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000044 060  NN1     living                   H4 L1+ I3.1 I1.1 S9% 
+0000044 070  NN2     standards                A5.1 G2.2 Q1.1 O2@ 
+0000044 080  VV0     make                     X9.2+[i49.2.1 M1[i49.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000044 090  PPH1    it                       X9.2+[i49.2.2 M1[i49.2.2 Z8 
+0000044 100  AT1     a                        Z5 
+0000044 110  JJ      popular                  E2+ S5+ 
+0000044 120  NN1     choice                   X7+ A6.3+ 
+0000044 121  .       .                        
+0000044 122  -----   -----                    
+0000044 130  AT1     A                        Z5 
+0000044 140  NN1     study                    P1 X2.4 H2 Q1.2 C1 
+0000044 150  II      by                       Z5 
+0000044 160  AT      the                      Z5 
+0000044 170  NN1     Frontier                 Z3c 
+0000044 180  NN1     strategy                 X7+ 
+0000044 190  NN1     group                    S5+c A4.1c B3% 
+0000044 200  II      in                       Z5 
+0000044 210  MC      2010                     N1 T1.2 T3 T1.3 N3.2 
+0000044 220  VVD     found                    A10+ X2.1 X6+ 
+0000044 230  MC      44                       N5[i50.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000044 240  NNU     percent                  N5[i50.2.2 N5 
+0000044 250  IO      of                       Z5 
+0000044 260  JJ      global                   W3 M7 A1.8+ O4.4 
+0000044 270  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000044 271  GE      '                        Z5 
+0000044 280  JJ      Asian                    Z2 
+0000044 290  NN      headquarters             S7.1+/H1c 
+0000044 300  VBDR    were                     A3+ Z5 
+0000044 310  II      in                       Z5 
+0000044 320  NP1     Singapore                Z2 
+0000044 321  ,       ,                        
+0000044 330  VVN     compared                 A6.1 A5.1 Q3 
+0000044 340  II      to                       Z5 
+0000044 350  MC      17                       N5[i51.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000044 360  NNU     percent                  N5[i51.2.2 N5 
+0000044 370  II      in                       Z5 
+0000044 380  NP1     Hong                     Z2[i53.2.1 Z1m Z1mf[i52.2.1 Z3c[i52.2.1 
+0000044 390  NP1     Kong                     Z2[i53.2.2 Z2 Z1mf[i52.2.2 Z3c[i52.2.2 
+0000044 400  CC      and                      Z5 
+0000044 410  MC      13                       N5[i54.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000044 420  NNU     percent                  N5[i54.2.2 N5 
+0000044 430  II      in                       Z5 
+0000044 440  NP1     Shanghai                 Z2 
+0000044 441  .       .                        
+0000045 001  -----   -----                    
+0000046 010  NP1     BASF                     Z99 
+0000046 020  CC      and                      Z5 
+0000046 030  NP1     IBM                      Z3c 
+0000046 040  VBR     are                      A3+ Z5 
+0000046 050  II      among                    Z5 
+0000046 060  NN2     corporates               I2.1/S5 
+0000046 070  CST     that                     Z8 Z5 
+0000046 080  VH0     have                     Z5 A9+ A2.2 S4 
+0000046 090  VVN     moved                    M2 M1 A2.1+ E1 H4/A2.1 
+0000046 100  JJ      global                   W3 M7 A1.8+ O4.4 
+0000046 110  NN2     units                    S5+c O2 H5 H1 N3.1 P1 N1 
+0000046 111  ,       ,                        
+0000046 120  VVN     led                      S7.1+ A2.2 M2 A1.1.1 
+0000046 130  II      by                       Z5 
+0000046 140  JJ      key                      A11.1+ 
+0000046 150  NN2     executives               I2.1/S2mf G1.1 S7.1+/S5+c 
+0000046 151  ,       ,                        
+0000046 160  II      to                       Z5 
+0000046 170  NP1     Singapore                Z2 
+0000046 171  .       .                        
+0000048 001  NULL    <quote>                  
+0000048 002  -----   -----                    
+0000048 010  DD2     These                    Z8 Z5 
+0000048 020  VBR     are                      A3+ Z5 
+0000048 030  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
+0000048 040  NN1     calibre                  X9.1 G3/N3.1 
+0000048 050  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000048 051  -       -                        
+0000048 060  AT      the                      Z5 
+0000048 070  NN1     question                 Q2.2 X4.1 
+0000048 080  IF      for                      Z5 
+0000048 090  PPIO2   us                       Z8 
+0000048 100  VBZ     is                       A3+ Z5 
+0000048 110  CSW     whether                  Z5 
+0000048 120  PPIS2   we                       Z8 
+0000048 130  VM      can                      A7+ 
+0000048 140  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000048 150  NN2     Singaporeans             Z2/S2mf 
+0000048 160  RR      eventually               N4 
+0000048 170  VVG     taking                   A9+[i55.2.1 S7.3+[i55.2.1 M2[i55.2.1 I3.1[i55.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000048 180  RP      on                       A9+[i55.2.2 S7.3+[i55.2.2 M2[i55.2.2 I3.1[i55.2.2 M6 A1.1.1 
+0000048 190  DD2     these                    Z5 Z8 
+0000048 200  NN2     positions                M6 M7 S7.1 I3.1 N4 S1.1.1 A1.1.1 K5.1% 
+0000048 201  ,       ,                        
+0000048 202  NULL    </quote>                 
+0000048 203  -----   -----                    
+0000048 210  VVD     said                     Q2.1 
+0000048 220  NP1     Yeoh                     Z1 
+0000048 221  .       .                        
+0000048 222  -----   -----                    
+0000048 223  (       (                        
+0000048 230  JJ      Additional               N5++ 
+0000048 240  NN1     reporting                Q2.2 S7.1- 
+0000048 250  II      by                       Z5 
+0000048 260  NP1     Brian                    Z1mf[i56.2.1 Z3c[i56.2.1 Z1m 
+0000048 270  NP1     Leonal                   Z1mf[i56.2.2 Z3c[i56.2.2 
+0000048 271  ;       ;                        
+0000048 280  VVG     Editing                  Q1.2 Q4 
+0000048 290  II      by                       Z5 
+0000048 300  NP1     Richard                  Z1mf[i57.2.1 Z3c[i57.2.1 Z1m 
+0000048 310  NP1     Borsuk                   Z1mf[i57.2.2 Z3c[i57.2.2 
+0000048 311  )       )                        
+0000051 001  NULL    **8;7;text               

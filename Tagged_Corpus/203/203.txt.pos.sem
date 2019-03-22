@@ -1,0 +1,122 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN1     Network                  S5+c Q4.3 Y2 
+0000002 020  MC      Ten                      N1 T3 
+0000002 030  NN2     plans                    X7+ C1/H1 
+0000002 040  TO      to                       Z5 
+0000002 050  VVI     announce                 Q2.2 
+0000002 060  CST     that                     Z8 Z5 
+0000002 070  VV0     Rove                     M1 
+0000002 080  NP1     McManus                  Z99 
+0000002 090  VM      will                     T1.1.3 
+0000002 100  VBI     be                       Z5 A3+ 
+0000002 110  VVG     stepping                 M1 S1.1.3+ 
+0000002 120  II21    aside                    A1.8-[i1.2.1 
+0000002 130  II22    from                     A1.8-[i1.2.2 Z5 
+0000002 140  APPGE   his                      Z8[i2.2.1 Z8m 
+0000002 150  NN1     self                     Z8[i2.2.2 S5- 
+0000002 160  VVN     titled                   Q2.2 
+0000002 170  NN1     chat                     Q4.3[i4.2.1 Q2.1 Q4.3[i3.2.1 
+0000002 180  NN1     show                     Q4.3[i4.2.2 A8 K4 S1.1.1 I2.2/S1.1.1 Q4.3[i3.2.2 
+0000002 190  TO      to                       Z5 
+0000002 200  VVI     focus                    X5.1+ X3.4 A4.2+ 
+0000002 210  II      on                       Z5 
+0000002 220  APPGE   his                      Z8m 
+0000002 230  NN1     production               A1.1.1/I2.1c[i5.2.1 A1.1.1 A10+ K4 K3 Q4.3 
+0000002 240  NN1     company                  A1.1.1/I2.1c[i5.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000002 250  JJ      Roving                   M1 
+0000002 260  NN2     Enterprises              I2.1 X8+ 
+0000002 261  .       .                        
+0000002 262  -----   -----                    
+0000002 270  II      In                       Z5 
+0000002 280  APPGE   his                      Z8m 
+0000002 290  NN1     place                    M7 H1 A1.2 P1 
+0000002 300  APPGE   his                      Z8m 
+0000002 310  JJ      longtime                 T1.3++ 
+0000002 320  NN1     sidekick                 Z99 
+0000002 330  CC      and                      Z5 
+0000002 340  JJ      Triple                   N5+ F2 
+0000002 350  NN1     M                        Q3 N3.3 N3.7 Z5 G1.1/S2 
+0000002 360  NN1     host                     S2mf B1@ Y2@ S9% 
+0000002 370  NP1     Peter                    Z1mf[i6.2.1 Z3c[i6.2.1 Z1m 
+0000002 380  NP1     Helliar                  Z1mf[i6.2.2 Z3c[i6.2.2 
+0000002 390  VM      will                     T1.1.3 
+0000002 400  VVI     take                     S7.1+/A2.1[i7.2.1 M2[i7.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000002 410  II      over                     S7.1+/A2.1[i7.2.2 M2[i7.2.2 Z5 
+0000002 420  AT      the                      Z5 
+0000002 430  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000002 440  IW      with                     Z5 
+0000002 450  AT1     a                        Z5 
+0000002 460  JJ      new                      T3- 
+0000002 470  NN1     title                    Q4 S7.1+ A9+ Q2.2 
+0000002 480  IO      of                       Z5 
+0000002 490  NP1     Pete'                    Z99 
+0000002 491  .       .                        
+0000003 001  -----   -----                    
+0000004 010  AT      The                      Z5 
+0000004 020  JJ@     relaunched               Z99 
+0000004 030  NN      series                   N4c Q4.3c 
+0000004 040  VBZ     is                       Z5 A3+ 
+0000004 050  VVN     expected                 X2.6+ B1 
+0000004 060  TO      to                       Z5 
+0000004 070  VVI     premiere                 N4 
+0000004 080  II      in                       Z5 
+0000004 090  NPM1    June                     T1.3 
+0000004 091  .       .                        
+0000004 092  -----   -----                    
+0000004 100  AT      The                      Z5 
+0000004 110  JJ      existing                 A3+ 
+0000004 120  NN1@    cast                     K4/S5+c O2 B3 A4.1 B2- 
+0000004 130  VM      will                     T1.1.3 
+0000004 140  VVI     remain                   T2++ M8 N5.2+ 
+0000004 141  .       .                        
+0000004 142  -----   -----                    
+0000004 150  NP1     McManus                  Z99 
+0000004 160  VBZ     is                       Z5 A3+ 
+0000004 170  VVN     expected                 X2.6+ B1 
+0000004 180  TO      to                       Z5 
+0000004 190  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000004 200  JJ      occasional               N6- 
+0000004 210  NN2     appearances              A10+ O4.1 A3+ G2.1 K5 Q4 
+0000004 220  CCB     but                      Z5 
+0000004 230  VBZ     is                       Z5 A3+ 
+0000004 240  VVN@    said                     Q2.1 
+0000004 250  TO      to                       Z5 
+0000004 260  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
+0000004 270  DAR     more                     N5++ 
+0000004 280  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000004 290  TO      to                       Z5 
+0000004 300  VVI     focus                    X5.1+ X3.4 A4.2+ 
+0000004 310  II      on                       Z5 
+0000004 320  APPGE   his                      Z8m 
+0000004 330  NN1     relationship             S3.1 S3.2 A2.2 S4 
+0000004 340  CC      and                      Z5 
+0000004 350  APPGE   his                      Z8m 
+0000004 360  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000004 361  .       .                        
+0000005 001  -----   -----                    
+0000006 010  AT1     A                        Z5 
+0000006 020  JJ      close                    N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4 
+0000006 030  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000006 040  VVD     revealed                 A10+ 
+0000006 050  PPHS1   He                       Z8m 
+0000006 060  VBZ     is                       A3+ Z5 
+0000006 070  RR21    a                        A13.6[i8.2.1 A13.7[i8.2.1 
+0000006 080  RR22    bit                      A13.6[i8.2.2 A13.7[i8.2.2 
+0000006 090  JJ      tired                    B1 B2- X5.2- O4.2- 
+0000006 100  IO      of                       Z5 
+0000006 110  AT      the                      Z5 
+0000006 120  NN1     grind                    X5.2- A1.1.1 X3.2 O4.5 X8+/S2mf K1 
+0000006 130  IO      of                       Z5 
+0000006 140  AT      the                      Z5 
+0000006 150  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000006 160  DD1     each                     N6+[i9.2.1 N5.1+ 
+0000006 170  NNT1    week                     N6+[i9.2.2 T1.3 
+0000006 180  CC      and                      Z5 
+0000006 190  VVD     wanted                   X7+ S6+ A7+ S3.2 A9- 
+0000006 200  TO      to                       Z5 
+0000006 210  VVI     grow                     N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000006 220  APPGE   his                      Z8m 
+0000006 230  NN1     company'                 Z99 
+0000006 231  .       .                        
+0000009 001  NULL    **8;7;text               

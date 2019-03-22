@@ -1,0 +1,402 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     St.                      Z2[i4.2.1 Z3c[i4.2.1 Z2[i3.2.1 Z3c[i3.2.1 Z2[i2.2.1 Z3c[i2.2.1 Z1mf[i2.2.1 Z1mf[i1.2.1 Z3c[i1.2.1 
+0000002 020  NP1     Petersburg               Z2[i4.2.2 Z3c[i4.2.2 Z2[i3.2.2 Z3c[i3.2.2 Z2 Z2[i2.2.2 Z3c[i2.2.2 Z1mf[i2.2.2 Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 021  ,       ,                        
+0000002 030  NP1     Fla.                     Z99 
+0000002 031  -       -                        
+0000002 040  AT      The                      Z5 
+0000002 050  NN1     Luczo                    Z99 
+0000002 060  NN1     Dragon                   S9 O4.2-/S2.1f 
+0000002 070  VVG     Racing                   S7.3+ M1/N3.8+ 
+0000002 080  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000002 090  VBZ     is                       Z5 A3+ 
+0000002 100  VVG     using                    A1.5.1 S7.1+ 
+0000002 110  NN1     HP                       Z3c 
+0000002 120  NN1     technology               Y1 
+0000002 130  II      at                       Z5 
+0000002 140  AT1     every                    N5.1+ 
+0000002 150  NN1     stage                    T1.2 N5.1- H2/K4 K4 A4.1 
+0000002 160  IO      of                       Z5 
+0000002 170  AT1     a                        Z5 
+0000002 180  NN1     race                     K5.1 S7.3+ S5+c 
+0000002 181  .       .                        
+0000003 001  -----   -----                    
+0000004 010  NN1     HP                       I2.2 
+0000004 020  NN2     workstations             Y2 
+0000004 021  ,       ,                        
+0000004 030  JJ      mobile                   M1/N3.8+ A2.1+ 
+0000004 040  NN2     PCs                      Y2 
+0000004 050  CC      and                      Z5 
+0000004 060  NN1     HP                       Z3c 
+0000004 070  NN1     OfficeJet                Z99 
+0000004 080  NN2     printers                 Q1.2/S2mf Q1.2/O2 
+0000004 090  VBR     are                      Z5 A3+ 
+0000004 100  VVN     used                     T1.1.1[i5.2.1 A6.2+[i5.2.1 A1.5.1 S7.1+ 
+0000004 110  TO      to                       T1.1.1[i5.2.2 A6.2+[i5.2.2 Z5 
+0000004 120  VVI     design                   C1 X7+ 
+0000004 130  AT      the                      Z5 
+0000004 140  NN2     cars                     M3fn 
+0000004 150  CC      and                      Z5 
+0000004 160  VVI     manage                   S7.1+ A1.1.1 X9.2+ 
+0000004 170  PN1     everything               Z8/N5.1+ 
+0000004 180  II      from                     Z5 
+0000004 190  AT      the                      Z5 
+0000004 200  NN1     telemetry                Q1.3 
+0000004 210  II      to                       Z5 
+0000004 220  AT      the                      Z5 
+0000004 230  NN1     engine                   O2 Y2@ 
+0000004 240  IO      of                       Z5 
+0000004 250  AT      the                      Z5 
+0000004 260  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000004 261  GE      's                       Z5 
+0000004 270  NN1     car                      M3fn 
+0000004 280  II      during                   Z5 
+0000004 290  AT      the                      Z5 
+0000004 300  NN1     race                     K5.1 S7.3+ S5+c 
+0000004 301  .       .                        
+0000004 302  -----   -----                    
+0000004 310  NP1     Raphael                  Z1mf[i6.2.1 Z3c[i6.2.1 
+0000004 320  NP1     Matos                    Z1mf[i6.2.2 Z3c[i6.2.2 
+0000004 321  ,       ,                        
+0000004 330  MC      2009                     N1 T1.2 T3 T1.3 N3.2 
+0000004 340  NN1     Apex                     M6 N2 X9.2+ 
+0000004 350  NP1     Brazil                   Z1mf[i8.3.1 Z3c[i8.3.1 Z2 Z1mf[i7.2.1 Z3c[i7.2.1 
+0000004 360  NP1     IndyCar                  Z1mf[i8.3.2 Z3c[i8.3.2 Z1mf[i7.2.2 Z3c[i7.2.2 Z1mf[i9.2.1 Z3c[i9.2.1 
+0000004 370  NP1     Rookie                   Z3c[i8.3.3 Z1mf[i8.3.3 Z1mf[i9.2.2 Z3c[i9.2.2 
+0000004 380  IO      of                       Z5 
+0000004 390  AT      the                      Z5 
+0000004 400  NNT1    Year                     T1.3 P1c 
+0000004 401  ,       ,                        
+0000004 410  VM      will                     T1.1.3 
+0000004 420  VBI     be                       A3+ Z5 
+0000004 430  II      behind                   M3[i10.3.1 Z5 
+0000004 440  AT      the                      M3[i10.3.2 Z5 
+0000004 450  NN1     wheel                    M3[i10.3.3 O2 N4 
+0000004 460  IO      of                       Z5 
+0000004 470  AT      the                      Z5 
+0000004 480  JJ      HP-powered               Z99 
+0000004 490  NN1     Luczo                    Z99 
+0000004 500  NN1     Dragon                   S9 O4.2-/S2.1f 
+0000004 510  NN1     race                     K5.1 S7.3+ S5+c 
+0000004 520  NN1     car                      M3fn 
+0000004 521  .       .                        
+0000004 522  -----   -----                    
+0000004 530  NP1@    Davey                    Z1mf[i11.2.1 Z3c[i11.2.1 
+0000004 540  NP1     Hamilton                 Z1mf[i11.2.2 Z3c[i11.2.2 Z1mf Z2 Z3c 
+0000004 541  ,       ,                        
+0000004 550  MC1     one                      N1 T3 T1.2 
+0000004 560  IO      of                       Z5 
+0000004 570  AT      the                      Z5 
+0000004 580  RGT     most                     A13.2 
+0000004 590  JJ      experienced              X2.2+ X9.1+ I3.2 
+0000004 600  NN2     drivers                  M3/S2mf O2 
+0000004 610  II      in                       Z5 
+0000004 620  AT      the                      Z5 
+0000004 630  NP1     IZOD                     Z1mf[i12.2.1 Z3c[i12.2.1 
+0000004 640  NP1     IndyCar                  Z1mf[i12.2.2 Z3c[i12.2.2 
+0000004 650  NN      Series                   N4c Q4.3c 
+0000004 651  ,       ,                        
+0000004 660  VM      will                     T1.1.3 
+0000004 670  VVI     pilot                    X2.4 M5 
+0000004 680  AT1     a                        Z5 
+0000004 690  MD      second                   N4 
+0000004 700  NN1     HP                       Z3c 
+0000004 710  NN1     Luczo                    Z99 
+0000004 720  NN1     Dragon                   S9 O4.2-/S2.1f 
+0000004 730  NN1     car                      M3fn 
+0000004 740  IF      for                      Z5 
+0000004 750  MC      three                    N1 T1.2 T3 
+0000004 760  NN2     races                    K5.1 S7.3+ S5+c 
+0000004 761  .       .                        
+0000005 001  -----   -----                    
+0000006 010  VVG     Using                    A1.5.1 S7.1+ 
+0000006 020  NN1     HP                       Z3c 
+0000006 030  NN1     technology               Y1 
+0000006 031  ,       ,                        
+0000006 040  AT      the                      Z5 
+0000006 050  NN1     Luczo                    Z99 
+0000006 060  NN1     Dragon                   S9 O4.2-/S2.1f 
+0000006 070  VVG     Racing                   S7.3+ M1/N3.8+ 
+0000006 080  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000006 090  VBZ     is                       A3+ Z5 
+0000006 100  JK      able                     X9.1+ 
+0000006 110  TO      to                       Z5 
+0000006 120  VVI     maximize                 N5.1+ 
+0000006 130  NN1     performance              K4 X9.2 A1.1.1 A12- 
+0000006 140  II      on                       N6[i13.3.1 Z5 
+0000006 150  CC      and                      N6[i13.3.2 Z5 
+0000006 160  II      off                      N6[i13.3.3 Z5 E2- G2.2-[i14.3.1 
+0000006 170  AT      the                      Z5 G2.2-[i14.3.2 
+0000006 180  NN1     track                    M3 O2 K3 A4.1 X4.1 K5.1/M7 G2.2-[i14.3.3 
+0000006 181  .       .                        
+0000006 182  -----   -----                    
+0000006 190  NN1     HP                       I2.2 
+0000006 200  NN1     technology               Y1 
+0000006 210  VBZ     is                       Z5 A3+ 
+0000006 220  VVN     used                     A1.5.1 S7.1+ 
+0000006 230  II      in                       Z5 
+0000006 240  AT1     every                    N5.1+ 
+0000006 250  NN1     aspect                   A4.1 A8 M6 
+0000006 260  IO      of                       Z5 
+0000006 270  NN1     performance              K4 X9.2 A1.1.1 A12- 
+0000006 271  ,       ,                        
+0000006 280  NN1     engineering              Y1 S7.1+ A1.1.1 
+0000006 281  ,       ,                        
+0000006 290  NN1     reliability              A5.1+ 
+0000006 291  ,       ,                        
+0000006 300  NN1     management               S7.1+c 
+0000006 301  ,       ,                        
+0000006 310  NN1     mobility                 M1 I1.1 
+0000006 311  ,       ,                        
+0000006 320  NN1     robustness               S1.2.5+ O4.1 
+0000006 321  ,       ,                        
+0000006 330  JJ      raw                      F1 O4.1 B2- X9.1- O4.6- A5.1- A5.2+@ 
+0000006 340  NN1     computing                Y2 N2 
+0000006 350  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000006 360  CC      and                      Z5 
+0000006 370  NNU     design.Off               Z99 
+0000006 380  AT      the                      Z5 
+0000006 390  NN1     track                    M3 O2 K3 A4.1 X4.1 K5.1/M7 
+0000006 391  ,       ,                        
+0000006 400  NN2     engineers                Y1/I3.2/S2mf 
+0000006 410  VV0     use                      A1.5.1 S7.1+ 
+0000006 420  NN1     HP                       Z3c 
+0000006 430  NN2     workstations             Y2 
+0000006 440  TO      to                       Z5 
+0000006 450  VVI     enhance                  A5.1+/A2.1 
+0000006 460  NN2     parts                    N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000006 470  VV0@    design                   C1 X7+ 
+0000006 471  ,       ,                        
+0000006 480  NN      data                     X2.2/X2.4 Q1.1 
+0000006 490  NN1     collection               A9+ I1 B5 
+0000006 491  ,       ,                        
+0000006 500  NN1     storage                  A9+ 
+0000006 501  ,       ,                        
+0000006 510  NN1     analysis                 X2.4 Y1 
+0000006 511  ,       ,                        
+0000006 520  NN1     simulation               A6.1+ 
+0000006 530  CC      and                      Z5 
+0000006 540  NN1     optimization             Z99 
+0000006 541  .       .                        
+0000006 542  -----   -----                    
+0000006 550  TO      To                       Z5 
+0000006 560  VVI     prepare                  A1.1.1 F1 
+0000006 570  IF      for                      Z5 
+0000006 580  DD1     each                     N5.1+ 
+0000006 590  NN1     race                     K5.1 S7.3+ S5+c 
+0000006 591  ,       ,                        
+0000006 600  NN2     engineers                Y1/I3.2/S2mf 
+0000006 610  II      on                       Z5 
+0000006 620  AT      the                      Z5 
+0000006 630  NN1     Luczo                    Z99 
+0000006 640  NN1     Dragon                   S9 O4.2-/S2.1f 
+0000006 650  VVG     Racing                   S7.3+ M1/N3.8+ 
+0000006 660  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000006 670  NN1     run                      M1/N3.8+ M1 B5 X8+ T1.3 X7/N5+ N5 K4 K5.1% 
+0000006 680  NN2     simulations              A6.1+ 
+0000006 690  TO      to                       Z5 
+0000006 700  VVI     understand               X2.5+ 
+0000006 710  RRQ     how                      Z5 A13.3 
+0000006 720  AT      the                      Z5 
+0000006 730  NN1     car                      M3fn 
+0000006 731  GE      's                       Z5 
+0000006 740  NN1     setup                    X4.2 
+0000006 750  VM      will                     T1.1.3 
+0000006 760  VVI     affect                   A2.1+ A5.4-/A8 
+0000006 770  NN1     performance              K4 X9.2 A1.1.1 A12- 
+0000006 780  IF      for                      Z5 
+0000006 790  AT1     a                        Z5 
+0000006 800  JJ@     given                    A4.2+ A9- 
+0000006 810  NN1     track                    M3 O2 K3 A4.1 X4.1 K5.1/M7 
+0000006 811  .       .                        
+0000006 812  -----   -----                    
+0000006 820  AT      The                      Z5 
+0000006 830  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000006 840  VVZ     needs                    S6+ 
+0000006 850  TO      to                       Z5 
+0000006 860  VVI     understand               X2.5+ 
+0000006 870  AT      the                      Z5 
+0000006 880  NN1     behavior                 S1.1.1 A1.1.1 
+0000006 890  IO      of                       Z5 
+0000006 900  AT      the                      Z5 
+0000006 910  NN1     car                      M3fn 
+0000006 920  CC      and                      Z5 
+0000006 930  AT      the                      Z5 
+0000006 940  NN1     effect                   A2.2 A8 
+0000006 950  IO      of                       Z5 
+0000006 960  NN2     changes                  A2.1+ I1 B1 
+0000006 970  II      in                       Z5 
+0000006 980  NNU     performance.Effectively  Z99 
+0000006 981  ,       ,                        
+0000006 990  AT      the                      Z5 
+0000006 000  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000006 010  VVZ     tries                    X8+ X2.4 Q2.2 G2.1 A12- 
+0000006 020  TO      to                       Z5 
+0000006 030  VVI     develop                  A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000006 040  CC      and                      Z5 
+0000006 050  VVI     optimize                 A5.1+++/A2.1 Y2 
+0000006 060  AT      the                      Z5 
+0000006 070  NN1     car                      M3fn 
+0000006 080  II      through                  Z5 
+0000006 090  NN2     simulations              A6.1+ 
+0000006 100  CC      and                      Z5 
+0000006 110  NN1     optimization             Z99 
+0000006 120  NN2     routines                 A6.2+ X4.2 K4 
+0000006 121  .       .                        
+0000006 122  -----   -----                    
+0000006 130  DD2     These                    Z5 Z8 
+0000006 140  NN2     simulations              A6.1+ 
+0000006 150  CC      and                      Z5 
+0000006 160  VV0     test                     P1 B3 X2.4 A12- 
+0000006 170  NN2     runs                     M1/N3.8+ M1 B5 X8+ T1.3 X7/N5+ N5 K4 K5.1% 
+0000006 180  VV0     generate                 A2.2 O3 
+0000006 190  JJ      massive                  N3.2+ 
+0000006 200  NN2     amounts                  N5 
+0000006 210  IO      of                       Z5 
+0000006 220  NN      data                     X2.2/X2.4 Q1.1 
+0000006 221  .       .                        
+0000006 222  -----   -----                    
+0000006 230  AT      The                      Z5 
+0000006 240  NN1     multicore                Z99 
+0000006 250  NN1     processing               A1.1.1 Y2 M1 
+0000006 260  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000006 270  IO      of                       Z5 
+0000006 280  NN1     HP                       Z3c 
+0000006 290  NN2     servers                  Y2 S9/S2mf 
+0000006 300  CC      and                      Z5 
+0000006 310  NN2     workstations             Y2 
+0000006 320  VVZ     allows                   S7.4+ S8+ X2.1 
+0000006 330  AT      the                      Z5 
+0000006 340  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000006 350  TO      to                       Z5 
+0000006 360  VVI     run                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000006 370  JJ      multiple                 N5+ 
+0000006 380  NN2     simulations              A6.1+ 
+0000006 390  CC      and                      Z5 
+0000006 400  NN2     optimizations            Z99 
+0000006 410  RR21    at                       N3.8+[i15.2.1 T1.1.2[i15.2.1 
+0000006 420  RR22    once                     N3.8+[i15.2.2 T1.1.2[i15.2.2 N6- T1.1.1 
+0000006 430  VVG     increasing               N5+/A2.1 
+0000006 440  AT      the                      Z5 
+0000006 450  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000006 451  GE      's                       Z5 
+0000006 460  NNU     efficiency.After         Z99 
+0000006 470  NNU2    miles                    N3.3 N3.3+ N3.7 N5+ A13.2 
+0000006 480  IO      of                       Z5 
+0000006 490  NN1     practice                 A1.1.1 I3.1/S5+c 
+0000006 500  VVZ     runs                     M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000006 501  ,       ,                        
+0000006 510  AT      the                      Z5 
+0000006 520  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000006 530  VVZ     identifies               X2.2+ A10+ X2.5+ 
+0000006 540  NN2     areas                    M7 A4.1 N3.6 
+0000006 550  II      on                       Z5 
+0000006 560  AT      the                      Z5 
+0000006 570  NN1     car                      M3fn 
+0000006 580  CST     that                     Z8 Z5 
+0000006 590  VV0     need                     S6+ 
+0000006 600  TO      to                       Z5 
+0000006 610  VBI     be                       Z5 A3+ 
+0000006 620  VVN     fine-tuned               A2.1+/A5.3+ 
+0000006 630  IF      for                      Z5 
+0000006 640  JJ      maximum                  N5.1+ 
+0000006 650  NN1     reliability              A5.1+ 
+0000006 660  CC      and                      Z5 
+0000006 670  NN1     functionality            A1.5.2+ 
+0000006 680  VVG     using                    A1.5.1 S7.1+ 
+0000006 690  NN1     HP                       Z3c 
+0000006 700  NN2     workstations             Y2 
+0000006 710  AT      the                      Z5 
+0000006 720  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000006 730  VBZ     is                       A3+ Z5 
+0000006 740  JK      able                     X9.1+ 
+0000006 750  TO      to                       Z5 
+0000006 760  VVI     redesign                 C1 
+0000006 770  DD1     each                     N5.1+ 
+0000006 780  NN1     aspect                   A4.1 A8 M6 
+0000006 790  IO      of                       Z5 
+0000006 800  AT      the                      Z5 
+0000006 810  NN1     car                      M3fn 
+0000006 820  IF      for                      Z5 
+0000006 830  JJ      optimal                  A5.1+++ 
+0000006 840  NNU     performance.On           Z99 
+0000006 850  AT      the                      Z5 
+0000006 860  NN1     track                    M3 O2 K3 A4.1 X4.1 K5.1/M7 
+0000006 861  ,       ,                        
+0000006 870  AT      the                      Z5 
+0000006 880  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000006 890  VVZ     uses                     A1.5.1 S7.1+ 
+0000006 900  NN1     HP                       Z3c 
+0000006 910  NN2     notebooks                Q1.2 Y2 
+0000006 920  TO      to                       Z5 
+0000006 930  VVI     monitor                  X2.4 
+0000006 940  AT1     every                    N5.1+ 
+0000006 950  NN1     move                     M1 M2 A2.1+ H4/A2.1 K5.2 
+0000006 960  AT      the                      Z5 
+0000006 970  NN1     car                      M3fn 
+0000006 980  VVZ     makes                    A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000006 990  CC      and                      Z5 
+0000006 000  RR      remotely                 A13.2 N3.3+ 
+0000006 010  VV0     adjust                   A2.1+ 
+0000006 020  NN1     suspension               T2- I3.1- O2 O1.2 
+0000006 021  ,       ,                        
+0000006 030  NN1     telemetry                Q1.3 
+0000006 040  CC      and                      Z5 
+0000006 050  NN1     engine                   O2 Y2@ 
+0000006 060  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000006 070  IF      for                      Z5 
+0000006 080  JJ      optimal                  A5.1+++ 
+0000006 090  NN1     performance              K4 X9.2 A1.1.1 A12- 
+0000006 100  II      during                   Z5 
+0000006 110  AT1     every                    N6+[i16.2.1 N5.1+ 
+0000006 120  NNT1    second                   N6+[i16.2.2 T1.3 T1.2 
+0000006 130  IO      of                       Z5 
+0000006 140  AT      the                      Z5 
+0000006 150  NN1     race                     K5.1 S7.3+ S5+c 
+0000006 151  .       .                        
+0000006 152  -----   -----                    
+0000006 160  CS      While                    Z5 
+0000006 170  AT      the                      Z5 
+0000006 180  NN1     car                      M3fn 
+0000006 190  VVZ     speeds                   N3.8+ 
+0000006 200  II      around                   Z5 
+0000006 210  AT      the                      Z5 
+0000006 220  NN1     track                    M3 O2 K3 A4.1 X4.1 K5.1/M7 
+0000006 230  II      at                       Z5 
+0000006 240  MC      220                      N3.3[i17.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000006 250  NNU2    miles                    N3.3[i17.2.2 N3.3 N3.3+ N3.7 N5+ A13.2 
+0000006 260  II      per                      Z5 
+0000006 270  NNT1    hour                     T1.3 
+0000006 271  ,       ,                        
+0000006 280  PPH1    it                       Z8 
+0000006 290  VBZ     is                       A3+ Z5 
+0000006 300  JJ      critical                 Q2.2/E2- X2.4 A11.1+ A15- 
+0000006 310  IF      for                      Z5 
+0000006 320  AT      the                      Z5 
+0000006 330  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000006 340  TO      to                       Z5 
+0000006 350  VBI     be                       A3+ Z5 
+0000006 360  JK      able                     X9.1+ 
+0000006 370  TO      to                       Z5 
+0000006 380  VVI     analyze                  X2.4 
+0000006 390  AT      the                      Z5 
+0000006 400  NN1     information              X2.2+ 
+0000006 410  PPHS2   they                     Z8mfn 
+0000006 411  VBR     're                      Z5 A3+ 
+0000006 420  VVG     receiving                A9+ S5+ 
+0000006 430  II      from                     Z5 
+0000006 440  NN2     sensors                  O3 
+0000006 450  II      on                       Z5 
+0000006 460  AT      the                      Z5 
+0000006 470  NN1     car                      M3fn 
+0000006 480  CC      and                      Z5 
+0000006 490  RR      immediately              N3.8+ T1.1.2/A11.1+ N4 
+0000006 500  VV0     understand               X2.5+ 
+0000006 510  RRQ     where                    M6 
+0000006 520  NN1     performance              K4 X9.2 A1.1.1 A12- 
+0000006 530  NN2     deficits                 N5- B2- 
+0000006 540  VM      may                      A7+ 
+0000006 550  VVI     lie                      A5.2- M1 T2++ M6 A3+ 
+0000006 551  .       .                        
+0000008 001  NULL    **8;7;text               

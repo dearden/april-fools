@@ -1,0 +1,816 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     Donald                   Z1mf[i1.2.1 Z3c[i1.2.1 Z1mf 
+0000002 020  NN1     Trump                    Z1mf[i1.2.2 Z3c[i1.2.2 Z1mf 
+0000002 030  VVZ     appears                  A8 A10+ A3+ G2.1 K4 Q4 
+0000002 040  TO      to                       Z5 
+0000002 050  VHI     have                     X2.2-[i2.4.1 A9+ Z5 A2.2 S4 X2.2+[i3.3.1 
+0000002 060  XX      not                      X2.2-[i2.4.2 Z6 
+0000002 070  AT1     a                        X2.2-[i2.4.3 Z5 X2.2+[i3.3.2 
+0000002 080  NN1     clue                     X2.2-[i2.4.4 X4.1 X2.2+[i3.3.3 
+0000002 090  RRQ     how                      Z5 A13.3 
+0000002 100  TO      to                       Z5 
+0000002 110  VVI     lead                     S7.1+ A2.2 M2 A1.1.1 
+0000002 120  AT1     a                        Z5 
+0000002 130  NN1     superpower               S7.1+/A11.1+ 
+0000002 131  .       .                        
+0000003 001  -----   -----                    
+0000004 010  DD1     That                     Z8 Z5 
+0000004 020  VBDZ    was                      A3+ Z5 
+0000004 030  AT      the                      Z5 
+0000004 040  NN1     conclusion               X6+ T2- 
+0000004 050  IO      of                       Z5 
+0000004 060  NP1     China                    Z2 
+0000004 061  GE      's                       Z5 
+0000004 070  JJ      Global                   Z1mf[i4.2.1 Z3c[i4.2.1 Z3c 
+0000004 080  NNT2    Times                    Z1mf[i4.2.2 Z3c[i4.2.2 Z3 
+0000004 090  NN1     newspaper                Q4.2 
+0000004 100  II      on                       Z5 
+0000004 110  NPD1    Monday                   T1.3[i5.2.1 T1.3 
+0000004 120  NNT1    morning                  T1.3[i5.2.2 T1.3 
+0000004 130  II      as                       Z5 
+0000004 140  AT      the                      Z5 
+0000004 150  NN1     country                  G1.1c W3 F4/M7 K2 
+0000004 151  GE      's                       Z5 
+0000004 160  NN      media                    Q4c 
+0000004 170  VVD     weighed                  N3.5[i6.2.1 N3.5 X2.1 E6- A2.1+ 
+0000004 180  RP@     in                       N3.5[i6.2.2 M6 
+0000004 190  II      on                       Z5 
+0000004 200  AT      the                      Z5 
+0000004 210  NNB     president-elect          G1.1/S7.1+/S2mf 
+0000004 211  GE      's                       Z5 
+0000004 220  JJT     latest                   T3--- T4--- 
+0000004 230  JJ      social                   S1.1.1 
+0000004 240  NN      media                    Q4c 
+0000004 250  NN2     assaults                 E3- X8+ 
+0000004 260  II      on                       Z5 
+0000004 270  NP1     Beijing                  Z2 Z3c 
+0000004 271  .       .                        
+0000005 001  -----   -----                    
+0000007 010  VD0     Do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000007 011  XX      n't                      Z6 
+0000007 020  VVI     let                      S7.4+ I2.2/H1 T2- 
+0000007 030  NP1     China                    Z2 
+0000007 040  NN2     ties                     B5 O2 S5+ S6+ A1.7+ K5.1/S7.3+ 
+0000007 050  VVI     slide                    M1 M2 A5.1-/A2.1 I1.1-/A2.1 K2 K5.2 
+0000007 060  II      into                     Z5 
+0000007 070  NN1     'full                    Z99 
+0000007 080  NN1     conflict                 A6.1- G3 E3- 
+0000007 090  NN1     mode'                    Z99 
+0000007 091  ,       ,                        
+0000007 100  NP1     Obama                    Z99 
+0000007 110  VVZ     urges                    Q2.2 
+0000007 120  NN1     Trump                    Z1mf 
+0000008 010  VVD     Read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000008 020  DAR     more                     N5++ 
+0000009 010  NN1     Trump                    Z1mf 
+0000009 020  VBZ     is                       Z5 A3+ 
+0000009 030  XX      not                      Z6 
+0000009 040  VVG     behaving                 S1.1.1 A1.1.1 
+0000009 050  II      as                       Z5 
+0000009 060  AT1     a                        Z5 
+0000009 070  NN1     president                G1.1/S7.1+/S2mf 
+0000009 080  PNQS    who                      Z8 
+0000009 090  VM      will                     T1.1.3 
+0000009 100  VVI     become                   A2.1+ O4.2+ 
+0000009 110  NN1     master                   S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m 
+0000009 120  IO      of                       Z5 
+0000009 130  AT      the                      Z5 
+0000009 140  NP1     White                    Z3c[i7.2.1 Z2[i7.2.1 Z1mf 
+0000009 150  NN1     House                    Z3c[i7.2.2 Z2[i7.2.2 H1 P1/S5+c G1.1c 
+0000009 160  II      in                       Z5 
+0000009 170  AT1     a                        Z5 
+0000009 180  NNT1    month                    T1.3 
+0000009 181  ,       ,                        
+0000009 190  AT      the                      Z5 
+0000009 200  JJ      Communist                G1.2[i8.2.1 G1.2 
+0000009 210  NN1     party                    G1.2[i8.2.2 K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000009 220  VVD     controlled               S7.1+ A1.7+ 
+0000009 230  NN1     newspaper                Q4.2 
+0000009 240  VVD     wrote                    Q1.2 I2.1 
+0000009 250  II      in                       Z5 
+0000009 260  AT1     an                       Z5 
+0000009 270  NN1     editorial                Q4.2 
+0000009 271  .       .                        
+0000009 272  -----   -----                    
+0000009 280  PPHS1   He                       Z8m 
+0000009 290  VVZ@    bears                    M2 E2+ A8 A9+ A1.1.1 M6 B1@ 
+0000009 300  AT      no                       Z6 
+0000009 310  NN1     sense                    A4.1 Q3 X3 S1.2.6+ E1 X2.1 X9.1+ A8 
+0000009 320  IO      of                       Z5 
+0000009 330  RRQ     how                      Z5 A13.3 
+0000009 340  TO      to                       Z5 
+0000009 350  VVI     lead                     S7.1+ A2.2 M2 A1.1.1 
+0000009 360  AT1     a                        Z5 
+0000009 370  NN1     superpower               S7.1+/A11.1+ 
+0000009 371  .       .                        
+0000010 001  -----   -----                    
+0000011 010  AT      The                      Z5 
+0000011 020  NN1     article                  Q4.2 O2 Q3 G2.1/P1@ 
+0000011 030  VVD     came                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000011 040  II      after                    Z5 
+0000011 050  AT      the                      Z5 
+0000011 060  NP1     US                       Z8 
+0000011 070  NNB     president-elect          G1.1/S7.1+/S2mf 
+0000011 080  RT      again                    N6+ Z4 
+0000011 090  JJ      used                     A1.5.1 T3+ 
+0000011 100  NN1     Twitter                  Z99 
+0000011 101  ,       ,                        
+0000011 110  DDQ     which                    Z8 Z5 
+0000011 120  VHZ     has                      Z5 A9+ A2.2 S4 
+0000011 130  VBN     been                     Z5 A3+ 
+0000011 140  VVN     blocked                  A10- S8- K4% 
+0000011 150  II      in                       Z5 
+0000011 160  NP1     China                    Z2 
+0000011 170  II      since                    Z5 
+0000011 180  MC      2009                     N1 T1.2 T3 T1.3 N3.2 
+0000011 181  ,       ,                        
+0000011 190  TO      to                       Z5 
+0000011 200  VVI     berate                   Q2.2/E3- 
+0000011 210  AT      the                      Z5 
+0000011 220  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000011 230  IO      of                       Z5 
+0000011 240  AT      the                      Z5 
+0000011 250  NN1     world                    W1 S5+c A4.1 N5+ 
+0000011 251  GE      's                       Z5 
+0000011 260  MD      second                   N4 
+0000011 270  JJT     largest                  N3.2+++ N5+++ A11.1+++ 
+0000011 280  NN1     economy                  I2.1 I1.3- 
+0000011 281  .       .                        
+0000012 001  -----   -----                    
+0000013 010  NP1     China                    Z2 
+0000013 020  VVZ     steals                   Z2[i9.2.1 Z3c[i9.2.1 Z1mf[i9.2.1 G2.1-/A9+ A9+ 
+0000013 030  NP1     United                   Z2[i9.2.2 Z3c[i9.2.2 Z1mf[i9.2.2 Z2c[i11.2.1 Z2c[i12.2.1 Z3c Z1mf[i10.2.1 Z3c[i10.2.1 
+0000013 040  NP1     States                   Z2c[i12.2.2 Z2c[i11.2.2 Z2 Z1mf[i10.2.2 Z3c[i10.2.2 
+0000013 050  NN1     Navy                     G3/M4c O4.3 
+0000013 060  NN1     research                 X2.4 
+0000013 070  NN1     drone                    L2mn X3.2+ 
+0000013 080  II      in                       Z5 
+0000013 090  JJ      international            M7 
+0000013 100  NN2     waters                   O1.2 W3/M4 B1 C1% 
+0000013 110  VVZ     rips                     A1.1.2 M2 E3- G2.2- M2[i13.2.1 
+0000013 120  PPH1    it                       Z8 
+0000013 130  II21    out                      Z5[i15.2.1 A9-[i15.2.1 Z5[i14.2.1 Z5 M2[i13.2.2 
+0000013 140  II22    of                       Z5[i15.2.2 A9-[i15.2.2 Z5[i14.2.2 
+0000013 150  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000013 160  CC      and                      Z5 
+0000013 170  VVZ     takes                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000013 180  PPH1    it                       Z8 
+0000013 190  II      to                       Z5 
+0000013 200  NP1     China                    Z2 
+0000013 210  II      in                       Z5 
+0000013 220  JJ      unpresidented            Z99 
+0000013 221  (       &lsqb;                   
+0000013 230  RR      sic                      Z5 
+0000013 231  )       &rsqb;                   
+0000013 240  VV0     act                      A1.1.1 T1.1.2 A8 K4 
+0000013 241  ,       ,                        
+0000013 250  NN1     Trump                    Z1mf 
+0000013 260  VVD     tweeted                  Z99 
+0000013 270  RR      early                    T4+ 
+0000013 280  II      on                       Z5 
+0000013 290  NPD1    Saturday                 T1.3[i16.2.1 T1.3 
+0000013 300  NNT1    morning                  T1.3[i16.2.2 T1.3 
+0000013 310  CS      after                    Z5 
+0000013 320  PPH1    it                       Z8 
+0000013 330  VVD     emerged                  M1 A10+ A1.1.1 
+0000013 340  AT      the                      Z5 
+0000013 350  JJ      Chinese                  Z2 Z2/Q3 Z2/S2mfnc 
+0000013 360  NN1     navy                     G3/M4c O4.3 
+0000013 370  VHD     had                      Z5 A9+ A2.2 S4 
+0000013 380  VVN     seized                   A9+ X9.2+/G3 S7.1+ 
+0000013 390  AT1     a                        Z5 
+0000013 400  NP1     US                       Z8 
+0000013 410  JJ      naval                    M4 
+0000013 420  NN1     drone                    L2mn X3.2+ 
+0000013 430  CST     that                     Z8 Z5 
+0000013 440  VHD     had                      Z5 A9+ A2.2 S4 
+0000013 450  VBN     been                     Z5 A3+ 
+0000013 460  VVG     operating                A1.1.1 B3 
+0000013 470  II      in                       Z5 
+0000013 480  AT      the                      Z5 
+0000013 490  ND1     South                    Z2[i17.2.1 Z3c[i17.2.1 M6 
+0000013 500  NP1     China                    Z2[i17.2.2 Z3c[i17.2.2 Z2 Z2[i18.2.1 
+0000013 510  NNL1    Sea                      W3/M4 Z2[i18.2.2 
+0000013 511  .       .                        
+0000014 001  -----   -----                    
+0000015 010  II      In                       Z5 
+0000015 020  AT1     a                        Z5 
+0000015 030  MD      second                   N4 
+0000015 040  NN1     tweet                    Z99 
+0000015 041  ,       ,                        
+0000015 050  NN1     Trump                    Z1mf 
+0000015 060  VVD     wrote                    Q1.2 I2.1 
+0000015 061  :       :                        
+0000017 010  DD2     Those                    Z5 Z8 
+0000017 020  MC      221                      N1 T1.2 T3 T1.3 N3.2 
+0000017 030  NN2     characters               S2mf K4/S2mf S1.2 S2mf/A6.2- Q1.2 A4.1 O4.2+ 
+0000017 040  VVN     threatened               E3-/Q2.2 A15- X2.6+/O4.2- A7+ 
+0000017 050  TO      to                       Z5 
+0000017 060  RRR     further                  N5++ N3.3++ T2++ 
+0000017 070  VVI     alienate                 A6.1- A1.8- A2.2/E2- 
+0000017 080  NP1     China                    Z2 
+0000017 081  GE      's                       Z5 
+0000017 090  NN2     rulers                   S7.1+/S2mf O2 
+0000017 091  ,       ,                        
+0000017 100  RR      already                  T1.1.1 
+0000017 110  VVG     reeling                  M1/E3- E4.1- 
+0000017 120  II      from                     Z5 
+0000017 130  NN1     Trump                    Z1mf 
+0000017 131  GE      's                       Z5 
+0000017 140  JJ      recent                   T3- 
+0000017 150  NN1     decision                 X6+ 
+0000017 160  TO      to                       Z5 
+0000017 170  VVI     hold                     M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+ 
+0000017 180  AT1     a                        Z5 
+0000017 190  JJ      10-minute                Z99 
+0000017 200  NN1     phone                    Q1.3[i19.2.1 Q1.3 
+0000017 210  NN1     call                     Q1.3[i19.2.2 Q2.2 S1.1.1 Q1.3 X7+ S9% 
+0000017 220  IW      with                     Z5 
+0000017 230  AT      the                      Z5 
+0000017 240  JJ      Taiwanese                Z2/S2mf 
+0000017 250  NN1     president                G1.1/S7.1+/S2mf 
+0000017 251  ,       ,                        
+0000017 260  FW      Tsai                     Z99 
+0000017 270  NN1     Ing-wen                  Z99 
+0000017 271  ,       ,                        
+0000017 280  CC      and                      Z5 
+0000017 290  NN1     threat                   E3-/Q2.2 A15- X2.6+/O4.2- A7+ 
+0000017 300  TO      to                       Z5 
+0000017 310  VVI     upend                    M2 
+0000017 320  JJ      long-standing            T2++ 
+0000017 330  NP1     US                       Z8 
+0000017 340  NN1     policy                   X7+ Q1.2 
+0000017 350  II      on                       Z5 
+0000017 360  NP1     Taiwan                   Z2 
+0000017 361  .       .                        
+0000018 001  -----   -----                    
+0000019 010  II      On                       Z5 
+0000019 020  NPD1    Friday                   T1.3 
+0000019 021  ,       ,                        
+0000019 030  NNB     President                G1.1/S7.1+/S2mf 
+0000019 040  NP1     Obama                    Z99 
+0000019 050  VVD     cautioned                Q2.2 
+0000019 060  NN1     Trump                    Z1mf 
+0000019 070  II      against                  Z5 
+0000019 080  VVG     allowing                 S7.4+ S8+ X2.1 
+0000019 090  NN2     relations                A2.2 S1.1.1 S4 S3.2 
+0000019 100  IW      with                     Z5 
+0000019 110  NP1     China                    Z2 
+0000019 120  NN1     slip                     A5.3- Q1.2 B5 C1/O1.2@ 
+0000019 130  II      into                     Z5 
+0000019 140  JJ      full                     N5.1+ I3.2+ 
+0000019 150  NN1     conflict                 A6.1- G3 E3- 
+0000019 160  NN1     mode                     X4.2 O4.2+ 
+0000019 161  .       .                        
+0000020 001  -----   -----                    
+0000021 010  II      In                       Z5 
+0000021 020  APPGE   its                      Z8 
+0000021 030  NN1     editorial                Q4.2 
+0000021 031  ,       ,                        
+0000021 040  AT      the                      Z5 
+0000021 050  RR      fervently                Z99 
+0000021 060  JJ      nationalist              M7/S5+ 
+0000021 070  JJ      Global                   Z1mf[i20.2.1 Z3c[i20.2.1 Z3c 
+0000021 080  NNT2    Times                    Z1mf[i20.2.2 Z3c[i20.2.2 Z3 
+0000021 081  ,       ,                        
+0000021 090  AT1     a                        Z5 
+0000021 100  JJ      state-run                G1.1/A1.1.1 
+0000021 110  NN1     tabloid                  Q4.2 
+0000021 120  CST     that                     Z8 Z5 
+0000021 130  RT      sometimes                N6 
+0000021 140  VVZ     reflects                 A10+ Y1/M2 X3.4 X2.1 A5.1 
+0000021 150  JJ      official                 G1.1 S7.4+ 
+0000021 160  NN1     thinking                 X2.1 
+0000021 161  ,       ,                        
+0000021 170  VVD     indicated                A10+ M6 Q1.1/M3 
+0000021 180  DA      such                     A13.3[i21.2.1 Z5 Z8 
+0000021 190  AT1     a                        A13.3[i21.2.2 Z5 
+0000021 200  NN1     deterioration            A5.1-/A2.2 
+0000021 210  VBDZ    was                      A3+ Z5 
+0000021 220  RR      certainly                A7+ 
+0000021 230  II      on                       A7+[i22.3.1 Z5 
+0000021 240  AT      the                      A7+[i22.3.2 Z5 
+0000021 250  NN2     cards                    A7+[i22.3.3 Q1.2 O1.1 I1.1/O2/Q1.1 K5.2 
+0000021 260  CS      if                       Z7 
+0000021 270  NN1     Trump                    Z1mf 
+0000021 280  VVD     continued                T2++ 
+0000021 290  TO      to                       Z5 
+0000021 300  VVI     act                      G2.2-[i23.2.1 A1.1.2[i23.2.1 A1.1.1 T1.1.2 A8 K4 
+0000021 310  RP      up                       G2.2-[i23.2.2 A1.1.2[i23.2.2 
+0000021 311  .       .                        
+0000022 001  -----   -----                    
+0000023 010  NN      People                   S2mfc 
+0000023 020  II      in                       Z5 
+0000023 030  NP1     China                    Z2 
+0000023 040  VBDR    were                     A3+ Z5 
+0000023 050  JJ      unsure                   A7- 
+0000023 060  CSW     whether                  Z5 
+0000023 070  AT      the                      Z5 
+0000023 080  NN1     billionaire              I1.1/S2mf 
+0000023 081  GE      's                       Z5 
+0000023 090  NN2     attacks                  E3- G3 B2- A1.1.2 Q2.2 
+0000023 100  II      on                       Z5 
+0000023 110  NP1     Beijing                  Z2 Z3c 
+0000023 120  VBDR    were                     A3+ Z5 
+0000023 130  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000023 140  IO      of                       Z5 
+0000023 150  NN2     attempts                 X8+ 
+0000023 160  TO      to                       Z5 
+0000023 170  VVI     wage                     A1.1.1 
+0000023 180  AT1     a                        Z5 
+0000023 190  JJ      psychological            X1 
+0000023 200  NN1     war                      G3 S7.3 
+0000023 210  CC      or                       Z5 
+0000023 220  RR      simply                   A13.6 A14 A12+ 
+0000023 230  AT1     an                       Z5 
+0000023 240  NN1     example                  A4.1 
+0000023 250  IO      of                       Z5 
+0000023 260  APPGE   his                      Z8m 
+0000023 270  NN1     amateurishness           Z99 
+0000023 271  .       .                        
+0000024 001  -----   -----                    
+0000025 010  CCB     But                      Z5 
+0000025 020  CS      if                       Z7 
+0000025 030  PPHS1   he                       Z8m 
+0000025 040  VVZ     treats                   S1.1.1 A9- X4.2 X2.1 B3 A1.1.1 
+0000025 050  NP1     China                    Z2 
+0000025 060  II      after                    Z5 
+0000025 070  VVG     assuming                 X2.1 A5.4-/A8 
+0000025 080  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000025 090  II      in                       Z5 
+0000025 100  AT      the                      Z5 
+0000025 110  DA      same                     A6.1+++ 
+0000025 120  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000025 130  CSA     as                       Z5 
+0000025 140  II      in                       Z5 
+0000025 150  APPGE   his                      Z8m 
+0000025 160  NN2     tweets                   Z99 
+0000025 161  ,       ,                        
+0000025 170  NP1     China                    Z2 
+0000025 180  VM      will                     T1.1.3 
+0000025 190  XX      not                      Z6 
+0000025 200  VVI     exercise                 K5.1 A1.5.1 
+0000025 210  NN1     restraint                A1.7+ E1-/E3+ 
+0000025 211  ,       ,                        
+0000025 220  AT      the                      Z5 
+0000025 230  NN1     newspaper                Q4.2 
+0000025 240  VVD     warned                   X2.2+/A15- A1.3+ 
+0000025 241  .       .                        
+0000025 242  -----   -----                    
+0000025 250  AT      The                      Z5 
+0000025 260  JJ      Chinese                  Z2 Z2/Q3 Z2/S2mfnc 
+0000025 270  NN1     government               G1.1c 
+0000025 280  VM      should                   S6+ A7+ 
+0000025 290  VBI     be                       Z5 A3+ 
+0000025 300  RR      fully                    A13.2 N5.1+ 
+0000025 310  VVN     prepared                 A1.1.1 F1 
+0000025 320  IF      for                      Z5 
+0000025 330  AT1     a                        Z5 
+0000025 340  JJ      hardline                 A1.7+ N5.2+ 
+0000025 350  NN1     Trump                    Z1mf 
+0000025 351  .       .                        
+0000026 001  -----   -----                    
+0000027 010  II      In                       Z5 
+0000027 020  AT1     an                       Z5 
+0000027 030  JJ      online                   Y2 
+0000027 040  NN1     video                    Q4.3 
+0000027 050  CST     that                     Z8 Z5 
+0000027 060  VHZ     has                      Z5 A9+ A2.2 S4 
+0000027 070  VBN     been                     Z5 A3+ 
+0000027 080  VVN     viewed                   X2.1 X3.4 X2.4 
+0000027 090  NNO2    hundreds                 N5+[i24.3.1 N5+ 
+0000027 100  IO      of                       N5+[i24.3.2 Z5 
+0000027 110  NNO2    thousands                N5+[i24.3.3 N1 N5+ I1 
+0000027 120  IO      of                       Z5 
+0000027 130  NNT2    times                    T1 T1.2 T1.3 T1.1.2 N6 N1 
+0000027 131  ,       ,                        
+0000027 140  AT      the                      Z5 
+0000027 150  NN1     newspaper                Q4.2 
+0000027 151  GE      's                       Z5 
+0000027 160  JJ      controversial            A6.2- 
+0000027 170  NN1     editor                   Q4/I3.2/S2mf Y2 
+0000027 171  ,       ,                        
+0000027 180  NP1     Hu                       Z1mf[i25.2.1 Z3c[i25.2.1 
+0000027 190  NP1     Xijin                    Z1mf[i25.2.2 Z3c[i25.2.2 
+0000027 191  ,       ,                        
+0000027 200  VVD     said                     Q2.1 
+0000027 201  :       :                        
+0000027 210  PPIS1   I                        Z8mf 
+0000027 220  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000027 221  XX      n't                      Z6 
+0000027 230  VVI     know                     X2.2+ S3.2/B1% 
+0000027 240  CSW@    if                       Z7 
+0000027 250  PPHS1   he                       Z8m 
+0000027 260  VBZ     is                       Z5 A3+ 
+0000027 270  VVG     playing                  K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000027 280  AT      the                      Z5 
+0000027 290  JJ      psychological            X1 
+0000027 300  NN1     card                     Q1.2 O1.1 I1.1/O2/Q1.1 K5.2 
+0000027 310  IW      with                     Z5 
+0000027 320  NP1     China                    Z2 
+0000027 330  CC      or                       Z5 
+0000027 340  VBZ     is                       A3+ Z5 
+0000027 350  II      in                       A5.2+[i26.2.1 Z5 
+0000027 360  NN1     fact                     A5.2+[i26.2.2 A5.2+ X2.2 
+0000027 370  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000027 380  JJ      unprofessional           I3.2- 
+0000027 390  NN1@    China                    Z2 
+0000027 400  VM      should                   S6+ A7+ 
+0000027 410  VVI     teach                    P1 
+0000027 420  PPHO1   him                      Z8m 
+0000027 430  DD      some                     N5 Z5 
+0000027 440  NN2     lessons                  P1 S9/Q4.1 
+0000027 450  CS@     so                       Z5 
+0000027 460  PPHS1   he                       Z8m 
+0000027 470  VM      might                    A7+ 
+0000027 480  VVI     learn                    X2.3+ P1 
+0000027 490  TO      to                       Z5 
+0000027 500  VVI     respect                  S7.2+ 
+0000027 510  NP1     China                    Z2 
+0000027 520  CS      after                    Z5 
+0000027 530  PPHS1   he                       Z8m 
+0000027 540  VBZ     is                       Z5 A3+ 
+0000027 550  VVN     sworn                    Q2.2[i27.2.1 Q2.2/S1.2.4- Q2.2 
+0000027 560  RP@     in                       Q2.2[i27.2.2 M6 
+0000027 561  .       .                        
+0000028 001  -----   -----                    
+0000029 010  AT1     A                        Z5 
+0000029 020  NN1     comment                  Q2.1 
+0000029 030  NN1     piece                    N5.1- O2 Q4 K2 K4 G3@ 
+0000029 040  II      on                       Z5 
+0000029 050  AT      the                      Z5 
+0000029 060  JJ      front                    M6 A11.1+ 
+0000029 070  NN1     page                     Q1.2 T1.3 S7.1-/S2.2m 
+0000029 080  IO      of                       Z5 
+0000029 090  AT      the                      Z5 
+0000029 100  JJ      overseas                 M6 
+0000029 110  NN1     edition                  Q4 
+0000029 120  IO      of                       Z5 
+0000029 130  AT      the                      Z5 
+0000029 140  JJ      Communist                G1.2[i28.2.1 G1.2 
+0000029 150  NN1     party                    G1.2[i28.2.2 K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000029 151  GE      's                       Z5 
+0000029 160  JJ      official                 G1.1 S7.4+ 
+0000029 170  NN1     mouthpiece               Z99 
+0000029 171  ,       ,                        
+0000029 180  AT      the                      Z5 
+0000029 190  NN      People                   S2mfc 
+0000029 191  GE      's                       Z5 
+0000029 200  NP1     Daily                    T1.1.2 N6+ Q4.2 B4/S2mf 
+0000029 201  ,       ,                        
+0000029 210  RR      also                     N5++ 
+0000029 220  VVD     suggested                Q2.2 Q1.1 
+0000029 230  NP1     Beijing                  Z2 Z3c 
+0000029 240  VM      would                    A7+ 
+0000029 250  XX      not                      Z6 
+0000029 260  VBI     be                       Z5 A3+ 
+0000029 270  VVN     cowed                    L2fn S2.1f/O4.2- 
+0000029 280  II      by                       Z5 
+0000029 290  NN1     Trump                    Z1mf 
+0000029 291  GE      's                       Z5 
+0000029 300  NN2     provocations             A2.2 
+0000029 301  .       .                        
+0000030 001  -----   -----                    
+0000031 010  PPH1    It                       Z8 
+0000031 020  VBZ     is                       A3+ Z5 
+0000031 030  JJ      difficult                A12- 
+0000031 040  TO      to                       Z5 
+0000031 050  VVI     understand               X2.5+ 
+0000031 060  APPGE   his                      Z8m 
+0000031 070  JJ      true                     A5.2+ A5.4+ 
+0000031 080  NN1     psychology               Y1/X1 
+0000031 081  ,       ,                        
+0000031 090  VVD     wrote                    Q1.2 I2.1 
+0000031 100  NP1     Hua                      Z1mf[i29.2.1 Z3c[i29.2.1 
+0000031 110  NP1     Yiwen                    Z1mf[i29.2.2 Z3c[i29.2.2 
+0000031 111  ,       ,                        
+0000031 120  PNQO    whom                     Z8 
+0000031 130  AT      the                      Z5 
+0000031 140  NN1     paper                    Q4.2c O1.1 Q1.2 P1/Q1.2 H5 
+0000031 150  VVN     described                Q2.2 
+0000031 160  II      as                       Z5 
+0000031 170  AT1     an                       Z5 
+0000031 180  JJ      international            M7 
+0000031 190  NN2     affairs                  A1.1.1 S1.1.1 S3.2 
+0000031 200  NN1     expert                   X2.2+/S2mf X9.1+/S2mf 
+0000031 201  .       .                        
+0000031 202  -----   -----                    
+0000031 210  CCB     But                      Z5 
+0000031 220  NP1     China                    Z2 
+0000031 230  VM      should                   S6+ A7+ 
+0000031 231  XX      n't                      Z6 
+0000031 240  VVI     spend                    I1.2 A1.5.1 T1.3 
+0000031 250  DA1     much                     N5+ I1.3+ 
+0000031 260  NN1     effort                   X8+ O2 
+0000031 270  VVG     trying                   X8+ X2.4 Q2.2 G2.1 A12- 
+0000031 280  TO      to                       Z5 
+0000031 290  VVI     guess                    X2.1/A7- 
+0000031 300  DDQ     what                     Z8 Z5 
+0000031 310  PPHS1   he                       Z8m 
+0000031 320  VBZ     is                       Z5 A3+ 
+0000031 330  VVG     thinking                 X2.1 
+0000031 331  .       .                        
+0000031 332  -----   -----                    
+0000031 340  PPIS2   We                       Z8 
+0000031 350  VM      should                   S6+ A7+ 
+0000031 360  RR      simply                   A13.6 A14 A12+ 
+0000031 370  VVI     stand                    M6 M2 M8 M1 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+ 
+0000031 380  NN1     firm                     I2.1/S5+c 
+0000031 381  ,       ,                        
+0000031 390  VV0     take                     S7.1+[i30.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000031 400  NN1     control                  S7.1+[i30.2.2 S7.1+ A1.7+ O2 
+0000031 410  IO      of                       Z5 
+0000031 420  AT      the                      Z5 
+0000031 430  NN1     situation                A3+ O4.1 M6 I3.1@ 
+0000031 440  CC      and                      Z5 
+0000031 450  VV0     handle                   A1.1.1 S7.1+ X9.2+ 
+0000031 460  PPH1    it                       Z8 
+0000031 470  RR      calmly                   E3+ E4.2+ 
+0000031 471  .       .                        
+0000032 001  -----   -----                    
+0000033 010  NP1     Bill                     Z1mf[i31.2.1 Z3c[i31.2.1 
+0000033 020  NP1@    Bishop                   Z1mf[i31.2.2 Z3c[i31.2.2 
+0000033 021  ,       ,                        
+0000033 030  AT1     a                        Z5 
+0000033 040  NP1     Washington               Z2 Z1mf 
+0000033 050  JJ      DC-based                 Z99 
+0000033 060  NN1@    China                    Z2 
+0000033 070  NN1     expert                   X2.2+/S2mf X9.1+/S2mf 
+0000033 071  ,       ,                        
+0000033 080  VVD     said                     Q2.1 
+0000033 090  PPHS1   he                       Z8m 
+0000033 100  VVD     sensed                   X3 
+0000033 110  JJ      abject                   A5.1-- E5- 
+0000033 120  NN1     despair                  E4.1- 
+0000033 130  II      in                       Z5 
+0000033 140  AT      the                      Z5 
+0000033 150  NP1     US                       Z8 
+0000033 160  NN1     capital                  I1.1 M7/G1.1 Q1.2 
+0000033 170  II      at                       Z5 
+0000033 180  RRQ     how                      Z5 A13.3 
+0000033 190  NN1     Trump                    Z1mf 
+0000033 200  VBDZ    was                      Z5 A3+ 
+0000033 210  VVG     conducting               A1.1.1 S1.1.1 K2 O4.1 
+0000033 220  JJ      US-China                 Z99 
+0000033 230  NN2     relations                A2.2 S1.1.1 S4 S3.2 
+0000033 240  II      through                  Z5 
+0000033 250  JJ@     misspelled               Z99 
+0000033 260  NN2     tweets                   Z99 
+0000033 261  .       .                        
+0000034 001  -----   -----                    
+0000035 010  DD1     This                     Z8 M6 Z5 
+0000035 020  VBZ     is                       A3+ Z5 
+0000035 030  JJ      unpresidented            Z99 
+0000035 040  NN1     behaviour                S1.1.1 A1.1.1 
+0000035 050  II      by                       Z5 
+0000035 060  AT1     a                        Z5 
+0000035 070  NNB     precedent-elect          Z99 
+0000035 071  ,       ,                        
+0000035 080  VVD     joked                    E4.1+ 
+0000035 090  NN1     Bishop                   S9/S7.1+/S2mf 
+0000035 091  .       .                        
+0000035 092  -----   -----                    
+0000035 100  PPH1    It                       Z8 
+0000035 110  VM      would                    A7+ 
+0000035 120  VBI     be                       A3+ Z5 
+0000035 130  JJ      funny                    E4.1+ A6.2- A12- B2- 
+0000035 140  CS      if                       Z7 
+0000035 150  AT      the                      Z5 
+0000035 160  NN2     stakes                   I1/A1.4 S1.1.2+ O2 
+0000035 170  VBDR    were                     A3+ Z5 
+0000035 171  XX      n't                      Z6 
+0000035 180  RG      so                       A13.3 
+0000035 190  JJ      high                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000035 191  .       .                        
+0000036 001  -----   -----                    
+0000038 010  NP1     China                    Z2 
+0000038 020  VM      should                   S6+ A7+ 
+0000038 030  VVI     plan                     X7+ 
+0000038 040  TO      to                       Z5 
+0000038 050  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000038 060  NP1     Taiwan                   Z2 
+0000038 070  II      by                       Z5 
+0000038 080  NN1     force                    E3- S7.1+ G2.1c N3 S5+c 
+0000038 090  II      after                    Z5 
+0000038 100  NN1     Trump                    Z1mf 
+0000038 110  NN1     call                     Q2.2 S1.1.1 Q1.3 X7+ S9% 
+0000038 111  ,       ,                        
+0000038 120  VV0     state                    Q2.1 
+0000038 130  NN      media                    Q4c 
+0000038 140  VVZ     says                     Q2.1 
+0000039 010  VVN     Read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000039 020  RRR     more                     A13.3 N6++ 
+0000040 010  DD1     This                     Z8 M6 Z5 
+0000040 020  VBZ     is                       A3+ Z5 
+0000040 030  XX      not                      Z6 
+0000040 040  AT1     a                        Z5 
+0000040 050  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000040 060  NN1     deal                     N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
+0000040 061  .       .                        
+0000040 062  -----   -----                    
+0000040 070  DD1     This                     Z8 M6 Z5 
+0000040 080  VBZ     is                       A3+ Z5 
+0000040 090  AT1     a                        Z5 
+0000040 100  JJ      political                G1.2 
+0000040 110  NN1     relationship             S3.1 S3.2 A2.2 S4 
+0000040 120  II      between                  Z5 
+0000040 130  JJ      nuclear                  Y1 B1 S5+% 
+0000040 140  NN2     powers                   S7.1+ O3 S1.2.5+ N2@ 
+0000040 150  PNQS    who                      Z8 
+0000040 160  VBR     are                      A3+ Z5 
+0000040 170  RR      already                  T1.1.1 
+0000040 180  II      on                       Z5 
+0000040 190  AT      the                      Z5 
+0000040 200  NN1     path                     M3 M1 X4.2 
+0000040 210  II      towards                  Z5 
+0000040 220  NN1     conflict                 A6.1- G3 E3- 
+0000040 230  II      in                       Z5 
+0000040 240  DA2     several                  N5 
+0000040 250  NN2     dimensions               A4.1 N3.2 
+0000040 251  ,       ,                        
+0000040 260  JJ      added                    N5+/A2.1 A1.8+ 
+0000040 270  NN1     Bishop                   S9/S7.1+/S2mf 
+0000040 271  ,       ,                        
+0000040 280  PNQS    who                      Z8 
+0000040 290  VVZ     publishes                Q4 
+0000040 300  AT      the                      Z5 
+0000040 310  JJ      influential              S7.1+ A2.2 
+0000040 320  NN1     Sinocism                 Z99 
+0000040 330  NN1     newsletter               Q4.2 
+0000040 331  .       .                        
+0000041 001  -----   -----                    
+0000042 010  DD1     This                     M6 Z5 Z8 
+0000042 020  NN1     kind                     A4.1 
+0000042 030  IO      of                       Z5 
+0000042 040  NN1     uncertainty              A7- 
+0000042 041  ,       ,                        
+0000042 050  DD1     this                     M6 Z5 Z8 
+0000042 060  NN1     kind                     A4.1 
+0000042 070  IO      of                       Z5 
+0000042 080  NN1     petulance                Z99 
+0000042 081  ,       ,                        
+0000042 090  DD1     this                     M6 Z5 Z8 
+0000042 100  NN1     kind                     A4.1 
+0000042 110  IO      of                       Z5 
+0000042 120  JJ      random                   A1.4 
+0000042 130  NN1@    tweeting                 Z99 
+0000042 140  VBZ     is                       A3+ Z5 
+0000042 150  XX      not                      Z6 
+0000042 160  AT1     a                        Z5 
+0000042 170  JJ      grand                    O4.2+ A11.1+ A5.1+ N3.2+ S1.2.3+ 
+0000042 180  NN1     strategy                 X7+ 
+0000042 190  CST     that                     Z8 Z5 
+0000042 200  VBZ     is                       Z5 A3+ 
+0000042 210  VVGK    going                    T1.1.3[i32.2.1 
+0000042 220  TO      to                       T1.1.3[i32.2.2 Z5 
+0000042 230  VVI     push                     M2 M1 S7.1+ X8+ I2.2 F3 I3.1- 
+0000042 240  AT      the                      Z5 
+0000042 250  JJ      Chinese                  Z2 Z2/Q3 Z2/S2mfnc 
+0000042 260  II21    on                       Z5[i33.2.1 Z5 
+0000042 270  II22    to                       Z5[i33.2.2 Z5 
+0000042 280  APPGE   their                    Z8 
+0000042 290  NN2     heels                    B5 B1 
+0000042 300  CS@     so                       Z5 
+0000042 310  PPHS2   they                     Z8mfn 
+0000042 320  VBR     are                      Z5 A3+ 
+0000042 330  VVGK    going                    T1.1.3[i34.2.1 
+0000042 340  TO      to                       T1.1.3[i34.2.2 Z5 
+0000042 350  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000042 360  NN2     concessions              S7.4+ A9- I2.2 I1.3- 
+0000042 361  .       .                        
+0000042 362  -----   -----                    
+0000042 370  DD1     This                     Z8 M6 Z5 
+0000042 380  VBZ     is                       A3+ Z5 
+0000042 390  JJ      juvenile                 T3- 
+0000042 391  ,       ,                        
+0000042 400  JJ      immature                 S1.2 T3- 
+0000042 401  ,       ,                        
+0000042 410  JJ      inexperienced            X2.2- X9.1- I3.2- 
+0000042 420  NN1     behaviour                S1.1.1 A1.1.1 
+0000042 430  CST     that                     Z8 Z5 
+0000042 440  VHZ     has                      A9+ Z5 A2.2 S4 
+0000042 450  AT      the                      Z5 
+0000042 460  JJ      potential                A7+ 
+0000042 470  TO      to                       Z5 
+0000042 480  VVI     lead                     A2.2[i35.2.1 M6[i35.2.1 S7.1+ A2.2 M2 A1.1.1 
+0000042 490  II      to                       A2.2[i35.2.2 M6[i35.2.2 Z5 
+0000042 500  DA2     many                     N5+ 
+0000042 510  NN2     problems                 A12- X4.1 N2 B2- 
+0000042 520  II      in                       Z5 
+0000042 530  AT      the                      Z5 
+0000042 540  JJ      US-China                 Z99 
+0000042 550  NN1     relationship             S3.1 S3.2 A2.2 S4 
+0000042 551  ,       ,                        
+0000042 560  DD      some                     N5 Z5 
+0000042 570  IO      of                       Z5 
+0000042 580  DDQ     which                    Z8 Z5 
+0000042 590  VM      could                    A7+ 
+0000042 600  VHI     have                     A9+ Z5 A2.2 S4 
+0000042 610  DD      some                     N5 Z5 
+0000042 620  RG      pretty                   A13.5 
+0000042 630  JJ      serious                  A11.1+ A15- E4.1- 
+0000042 640  CC      and                      Z5 
+0000042 650  JJ      damaging                 A1.1.2 
+0000042 660  NN2     ramifications            A2.2 
+0000042 661  .       .                        
+0000043 001  -----   -----                    
+0000044 010  NN1     Bishop                   S9/S7.1+/S2mf 
+0000044 020  VVD     questioned               Q2.2 
+0000044 030  AT      the                      Z5 
+0000044 040  JJ      Chinese                  Z2 Z2/Q3 Z2/S2mfnc 
+0000044 050  NN      media                    Q4c 
+0000044 051  GE      's                       Z5 
+0000044 060  NN1     suggestion               Q2.2 Q1.1 
+0000044 070  CST     that                     Z5 Z8 
+0000044 080  NN1     Trump                    Z1mf 
+0000044 081  GE      's                       Z5 
+0000044 090  NN2     tweets                   Z99 
+0000044 100  VBDR    were                     A3+ Z5 
+0000044 110  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000044 120  IO      of                       Z5 
+0000044 130  AT1     a                        Z5 
+0000044 140  JJ      wily                     X9.1+ 
+0000044 150  JJ      psychological            X1 
+0000044 160  NN1     ploy                     X4.2 
+0000044 170  TO      to                       Z5 
+0000044 180  VVI     force                    S7.1+ A1.1.1 E3- 
+0000044 190  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000044 200  NN2     concessions              S7.4+ A9- I2.2 I1.3- 
+0000044 210  II      from                     Z5 
+0000044 220  NP1     Beijing                  Z2 Z3c 
+0000044 221  .       .                        
+0000044 222  -----   -----                    
+0000044 230  PPIS1   I                        Z8mf 
+0000044 240  VM      would                    A7+ 
+0000044 241  XX      n't                      Z6 
+0000044 250  VVI     ascribe                  A2.2 A9+ Q2.2 
+0000044 260  JJ      brilliant                A5.1+++ X9.1+++ O4.3 
+0000044 270  JJ      psychological            X1 
+0000044 280  NN1     warfare                  G3 
+0000044 290  NN2     skills                   X9.1+ 
+0000044 300  II      to                       Z5 
+0000044 310  NP1     Donald                   Z1mf[i36.2.1 Z3c[i36.2.1 Z1mf 
+0000044 320  NN1     Trump                    Z1mf[i36.2.2 Z3c[i36.2.2 Z1mf 
+0000044 321  ,       ,                        
+0000044 330  PPHS1   he                       Z8m 
+0000044 340  VVD     said                     Q2.1 
+0000044 341  .       .                        
+0000045 001  -----   -----                    
+0000046 010  VBDZ    Was                      A3+ Z5 
+0000046 020  PPH1    it                       Z8 
+0000046 030  JJ      possible                 A7+ 
+0000046 040  NN1     Trump                    Z1mf 
+0000046 041  GE      's                       Z5 
+0000046 050  NN2     tweets                   Z99 
+0000046 060  VBDR    were                     A3+ Z5 
+0000046 070  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000046 080  IO      of                       Z5 
+0000046 090  AT1     an                       Z5 
+0000046 100  JJ      ingenious                X9.1+/A6.2- 
+0000046 110  JJ      new                      T3- 
+0000046 120  NN1     master                   X7+[i37.2.1 S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m 
+0000046 130  NN1     plan                     X7+[i37.2.2 X7+ C1/H1 
+0000046 140  IF      for                      Z5 
+0000046 150  JJ      Sino-US                  Z99 
+0000046 160  NN2     relations                A2.2 S1.1.1 S4 S3.2 
+0000046 170  CST     that                     Z8 Z5 
+0000046 180  VM      would                    A7+ 
+0000046 190  VVI     emerge                   M1 A10+ A1.1.1 
+0000046 200  II      after                    Z5 
+0000046 210  APPGE   his                      Z8m 
+0000046 220  NN1     inauguration             T2+ S1.1.1 
+0000046 230  II      on                       Z5 
+0000046 240  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000046 250  NPM1    January                  T1.3 
+0000046 251  ?       ?                        
+0000046 252  -----   -----                    
+0000046 260  NN1     Bishop                   S9/S7.1+/S2mf 
+0000046 270  VBDZ    was                      A3+ Z5 
+0000046 280  JJ      skeptical                A5.1-/X2.1 
+0000046 281  .       .                        
+0000047 001  -----   -----                    
+0000048 010  PPIS1   I                        Z8mf 
+0000048 020  VV0     think                    X2.1 
+0000048 030  DD1     that                     Z8 Z5 
+0000048 040  VBZ     is                       A3+ Z5 
+0000048 050  II      about                    Z5 
+0000048 060  RG      as                       A13 
+0000048 070  JJ      likely                   A7+ A1.2+ 
+0000048 080  CSA     as                       Z5 
+0000048 090  NN1     Xi                       N1 
+0000048 100  VVG     Jinping                  Z99 
+0000048 110  VVG     waking                   B1[i38.2.1 X5.1+[i38.2.1 X2.5+[i38.2.1 B1 
+0000048 120  RP      up                       B1[i38.2.2 X5.1+[i38.2.2 X2.5+[i38.2.2 
+0000048 130  II      on                       Z5 
+0000048 140  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000048 150  NPM1    December                 T1.3 
+0000048 151  ,       ,                        
+0000048 160  MC      2017                     N1 T1.2 T3 T1.3 N3.2 
+0000048 170  CC      and                      Z5 
+0000048 180  VVG     declaring                Q2.2 K5.1% 
+0000048 190  NP1     China                    Z2 
+0000048 200  AT1     a                        Z5 
+0000048 210  NN1     democracy                G1.2 
+0000048 211  .       .                        
+0000050 001  NULL    **8;7;text               

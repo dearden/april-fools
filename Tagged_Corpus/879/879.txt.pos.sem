@@ -1,0 +1,655 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     GENEVA/WASHINGTON        Z99 
+0000002 011  (       (                        
+0000002 020  NP1     Reuters                  Z3c 
+0000002 021  )       )                        
+0000002 022  -       -                        
+0000002 030  AT      The                      Z5 
+0000002 040  NN1     World                    W1 S5+c A4.1 N5+ 
+0000002 050  NN1     Trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000002 060  NN1     Organization             S5+c S7.1+ 
+0000002 070  II      on                       Z5 
+0000002 080  NPD1    Wednesday                T1.3 
+0000002 090  VVD     dealt                    A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2 
+0000002 100  AT1     a                        Z5 
+0000002 110  NN1     blow                     S8- A1.1.1 E3- E4.1- B1 W4 
+0000002 120  II      to                       Z5 
+0000002 130  AT1     a                        Z5 
+0000002 140  NP1     U.S.                     Z8 
+0000002 150  NN1     law                      G2.1 S6+ Y1 
+0000002 160  II      barring                  A6.1- 
+0000002 170  AT      the                      Z5 
+0000002 180  NN1     sale                     I2.2 I2.2/I1.3- 
+0000002 190  IO      of                       Z5 
+0000002 200  JJ      clove-flavored           Z99 
+0000002 210  NN2     cigarettes               F3 
+0000002 220  TO      to                       Z5 
+0000002 230  VVI     discourage               S8- 
+0000002 240  NN2     children                 S2mf/T3- S4mf 
+0000002 250  II      from                     Z5 
+0000002 260  NN1     smoking                  F3 O1.3 F1 
+0000002 261  ,       ,                        
+0000002 270  VVG     saying                   Q2.1 Z4% 
+0000002 280  PPH1    it                       Z8 
+0000002 290  VBDZ    was                      A3+ Z5 
+0000002 300  JJ      unfair                   G2.2- 
+0000002 310  II      to                       Z5 
+0000002 320  NP1     Indonesia                Z2 Z3c 
+0000002 330  CS      because                  Z5/A2.2 
+0000002 340  NN1     menthol                  O1.1 
+0000002 350  NN2     cigarettes               F3 
+0000002 360  VM      can                      A7+ 
+0000002 370  RR      still                    T2++ Z4 E3+ 
+0000002 380  VBI     be                       Z5 A3+ 
+0000002 390  VVN     sold                     I2.2 
+0000002 400  II      in                       Z5 
+0000002 410  AT      the                      Z5 
+0000002 420  NP1     United                   Z2c[i3.2.1 Z2c[i2.2.1 Z3c Z1mf[i1.2.1 Z3c[i1.2.1 
+0000002 430  NP1     States                   Z2c[i3.2.2 Z2c[i2.2.2 Z2 Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 431  .       .                        
+0000004 001  NULL    <quote>                  
+0000004 002  -----   -----                    
+0000004 010  AT      The                      Z5 
+0000004 020  NP1     United                   Z2c[i6.2.1 Z2c[i5.2.1 Z3c Z1mf[i4.2.1 Z3c[i4.2.1 
+0000004 030  NP1     States                   Z2c[i6.2.2 Z2c[i5.2.2 Z2 Z1mf[i4.2.2 Z3c[i4.2.2 
+0000004 040  VBZ     is                       A3+ Z5 
+0000004 050  RG      very                     A13.3 
+0000004 060  JJ      disappointed             E4.2- 
+0000004 070  IW      with                     Z5 
+0000004 080  AT      the                      Z5 
+0000004 090  NN1     outcome                  X9.2 
+0000004 100  IO      of                       Z5 
+0000004 110  DD1     this                     M6 Z5 Z8 
+0000004 120  NN1     dispute                  A6.1- 
+0000004 121  ,       ,                        
+0000004 122  NULL    </quote>                 
+0000004 123  -----   -----                    
+0000004 130  VV0     Nkenge                   Z99 
+0000004 140  NP1     Harmon                   Z99 
+0000004 141  ,       ,                        
+0000004 150  AT1     a                        Z5 
+0000004 160  NN1     spokeswoman              Q2.2/S2.1f 
+0000004 170  IF      for                      Z5 
+0000004 180  AT      the                      Z5 
+0000004 190  NP1     U.S.                     Z8 
+0000004 200  NN1     Trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000004 210  NN1     Representative           Q2.1/S2mf G1.1/S2mf I2.2/S2mf A4.1 
+0000004 211  GE      's                       Z5 
+0000004 220  NN1     Office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000004 221  ,       ,                        
+0000004 230  VVD     said                     Q2.1 
+0000004 231  .       .                        
+0000004 232  NULL    <quote>                  
+0000004 233  -----   -----                    
+0000004 240  AT      The                      Z5 
+0000004 250  NN1     ban                      S7.4- 
+0000004 260  II      on                       Z5 
+0000004 270  NN2     cigarettes               F3 
+0000004 280  IW      with                     Z5 
+0000004 290  NN2     flavors                  X3.1 O4.1 
+0000004 300  VBZ     is                       A3+ Z5 
+0000004 310  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000004 320  IO      of                       Z5 
+0000004 330  NN1     landmark                 M7/A11.2+ A11.1+ 
+0000004 340  NP1     U.S.                     Z8 
+0000004 350  NN1     legislation              G2.1 
+0000004 360  TO      to                       Z5 
+0000004 370  VVI     combat                   S8- 
+0000004 380  AT      the                      Z5 
+0000004 390  JJ      public                   B3c[i7.2.1 S5+ A10+ 
+0000004 400  NN1     health                   B3c[i7.2.2 B2 X9.2 
+0000004 410  NN1     crisis                   A12- 
+0000004 420  VVN     caused                   A2.2 
+0000004 430  II      by                       Z5 
+0000004 440  NN1     tobacco                  F3 
+0000004 450  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000004 451  .       .                        
+0000004 452  NULL    </quote>                 
+0000004 453  -----   -----                    
+0000006 010  NP1     Indonesia                Z2 Z3c 
+0000006 011  ,       ,                        
+0000006 020  AT      the                      Z5 
+0000006 030  NN1     world                    W1 S5+c A4.1 N5+ 
+0000006 031  GE      's                       Z5 
+0000006 040  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
+0000006 050  NN1     producer                 K4/S7.1+/S2mf A1.1.1/S2mf 
+0000006 060  IO      of                       Z5 
+0000006 070  NN1     clove                    L3 
+0000006 080  NN2     cigarettes               F3 
+0000006 090  CC      and                      Z5 
+0000006 100  AT      the                      Z5 
+0000006 110  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000006 120  IO      of                       Z5 
+0000006 130  AT      the                      Z5 
+0000006 140  JJ      vast                     N3.2+ N5+ 
+0000006 150  NN1     majority                 N5+++c 
+0000006 160  IO      of                       Z5 
+0000006 170  DD2     those                    Z8 Z5 
+0000006 180  VVN     smoked                   F3 O1.3 F1 
+0000006 190  II      in                       Z5 
+0000006 200  AT      the                      Z5 
+0000006 210  NP1     United                   Z2c[i10.2.1 Z2c[i9.2.1 Z3c Z1mf[i8.2.1 Z3c[i8.2.1 
+0000006 220  NP1     States                   Z2c[i10.2.2 Z2c[i9.2.2 Z2 Z1mf[i8.2.2 Z3c[i8.2.2 
+0000006 221  ,       ,                        
+0000006 230  VVD     brought                  M2 A2.2 
+0000006 240  AT      the                      Z5 
+0000006 250  NN1     World                    W1 S5+c A4.1 N5+ 
+0000006 260  NN1     Trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000006 270  NN1     Organization             S5+c S7.1+ 
+0000006 280  NN1     case                     A4.1 O2 G2.1 B3 X4.1 Q3 
+0000006 290  II      in                       Z5 
+0000006 300  NPM1    April                    T1.3[i11.2.1 T1.3 
+0000006 310  MC      2010                     T1.3[i11.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000006 311  .       .                        
+0000007 001  -----   -----                    
+0000008 010  AT      The                      Z5 
+0000008 020  NP1     U.S.                     Z1mf[i12.2.1 Z3c[i12.2.1 
+0000008 030  NN1     Congress                 Z1mf[i12.2.2 Z3c[i12.2.2 Z3c 
+0000008 040  VVD     passed                   M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
+0000008 050  NN1     legislation              G2.1 
+0000008 060  II      during                   Z5 
+0000008 070  NNB     President                G1.1/S7.1+/S2mf 
+0000008 080  NP1     Barack                   Z1mf[i13.2.1 Z3c[i13.2.1 
+0000008 090  NP1     Obama                    Z1mf[i13.2.2 Z3c[i13.2.2 
+0000008 091  GE      's                       Z5 
+0000008 100  MD      first                    T1.3[i14.2.1 P1/S2mf[i14.2.1 N4 
+0000008 110  NNT1    year                     T1.3[i14.2.2 P1/S2mf[i14.2.2 T1.3 P1c 
+0000008 120  II      in                       Z5 
+0000008 130  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000008 140  II      in                       Z5 
+0000008 150  MC      2009                     N1 T1.2 T3 T1.3 N3.2 
+0000008 160  VVG     banning                  S7.4- 
+0000008 170  AT      the                      Z5 
+0000008 180  NN1     production               A1.1.1 A10+ K4 K3 Q4.3 
+0000008 190  CC      and                      Z5 
+0000008 200  NN1     sale                     I2.2 I2.2/I1.3- 
+0000008 210  IO      of                       Z5 
+0000008 220  NN2     cigarettes               F3 
+0000008 230  IW      with                     Z5 
+0000008 240  NN2     flavors                  X3.1 O4.1 
+0000008 250  II21    such                     Z5[i15.2.1 
+0000008 260  II22    as                       Z5[i15.2.2 Z5 
+0000008 270  NN1     clove                    L3 
+0000008 271  ,       ,                        
+0000008 280  NN1     cinnamon                 F1 
+0000008 281  ,       ,                        
+0000008 290  NN1     strawberry               F1 
+0000008 300  CC      or                       Z5 
+0000008 310  NN1     cherry                   F1 L3 
+0000008 311  ,       ,                        
+0000008 320  CCB     but                      Z5 
+0000008 330  XX      not                      Z6 
+0000008 340  JJ      regular                  A6.2+ N6+ O4.1 I3.1 T2++ A13.3 
+0000008 350  CC      or                       Z5 
+0000008 360  VV0     menthol                  O1.1 
+0000008 370  NN2     cigarettes               F3 
+0000008 371  .       .                        
+0000009 001  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  NN1     WTO                      Z99 
+0000010 030  JJ      appellate                Z99 
+0000010 040  NN1     body                     B1 O2 S5+c O4.1 S2mf 
+0000010 050  II      on                       Z5 
+0000010 060  NPD1    Wednesday                T1.3 
+0000010 070  VVD     said                     Q2.1 
+0000010 080  AT      the                      Z5 
+0000010 090  NN1     ban                      S7.4- 
+0000010 100  II      on                       Z5 
+0000010 110  NN1     clove                    L3 
+0000010 120  NN2     cigarettes               F3 
+0000010 130  VBDZ    was                      A3+ Z5 
+0000010 140  JJ      discriminatory           A6.1- G2.2- 
+0000010 150  CS      because                  Z5/A2.2 
+0000010 160  AT1     a                        Z5 
+0000010 170  JJ      similar                  A6.1+ 
+0000010 180  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000010 181  ,       ,                        
+0000010 190  VV0     menthol                  O1.1 
+0000010 200  NN2     cigarettes               F3 
+0000010 201  ,       ,                        
+0000010 210  VM      can                      A7+ 
+0000010 220  RR      still                    T2++ Z4 E3+ 
+0000010 230  VBI     be                       Z5 A3+ 
+0000010 240  VVN     sold                     I2.2 
+0000010 250  II      in                       Z5 
+0000010 260  AT      the                      Z5 
+0000010 270  NP1     United                   Z2c[i18.2.1 Z2c[i17.2.1 Z3c Z1mf[i16.2.1 Z3c[i16.2.1 
+0000010 280  NP1     States                   Z2c[i18.2.2 Z2c[i17.2.2 Z2 Z1mf[i16.2.2 Z3c[i16.2.2 
+0000010 281  .       .                        
+0000011 001  -----   -----                    
+0000012 010  NP1     Matthew                  Z1mf[i19.2.1 Z3c[i19.2.1 Z1m S9/O1.2 
+0000012 020  NP1     Myers                    Z1mf[i19.2.2 Z3c[i19.2.2 
+0000012 021  ,       ,                        
+0000012 030  NN1     president                G1.1/S7.1+/S2mf 
+0000012 040  IO      of                       Z5 
+0000012 050  NN1     Campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000012 060  IF      for                      Z5 
+0000012 070  JJ      Tobacco-Free             Z99 
+0000012 080  NN2     Kids                     S2mf/T3- S4mf L2 
+0000012 081  ,       ,                        
+0000012 090  VVD     said                     Q2.1 
+0000012 100  AT      the                      Z5 
+0000012 110  NN1     WTO                      Z99 
+0000012 111  NULL    <quote>                  
+0000012 112  -----   -----                    
+0000012 120  RR      wrongly                  G2.2- A5.3- 
+0000012 130  VVN     concluded                X6+ T2- 
+0000012 140  CST     that                     Z5 Z8 
+0000012 150  AT1     a                        Z5 
+0000012 160  NN1     decision                 X6+ 
+0000012 170  II      by                       Z5 
+0000012 180  AT      the                      Z5 
+0000012 190  NP1     U.S.                     Z1mf[i20.2.1 Z3c[i20.2.1 
+0000012 200  NN1     Congress                 Z1mf[i20.2.2 Z3c[i20.2.2 Z3c 
+0000012 210  II      on                       Z5 
+0000012 220  RRQ     how                      Z5 A13.3 
+0000012 230  RRT     best                     A5.1+++ A13.2 G2.2+++ O4.2+++ 
+0000012 240  TO      to                       Z5 
+0000012 250  VVI     protect                  S8+/A15+ A10- 
+0000012 260  NP1     America                  Z2 
+0000012 261  GE      's                       Z5 
+0000012 270  NN2     children                 S2mf/T3- S4mf 
+0000012 280  II      from                     Z5 
+0000012 290  JJ@     flavored                 X3.1 F1 
+0000012 300  NN2     cigarettes               F3 
+0000012 310  CST     that                     Z8 Z5 
+0000012 320  VV0     serve                    S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
+0000012 330  CSA     as                       Z5 
+0000012 340  NN1     starter                  F1 O2 T2+ K5.1/S2mf 
+0000012 350  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000012 360  IF      for                      Z5 
+0000012 370  NN1     youth                    T3-/S2mf T3- 
+0000012 380  VVZ     violates                 A1.1.2 E3- G2.2- G2.1- 
+0000012 390  AT      the                      Z5 
+0000012 400  NN1     nation                   G1.1c S5+c 
+0000012 401  GE      's                       Z5 
+0000012 410  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000012 420  NN2     obligations              S6+ 
+0000012 421  .       .                        
+0000012 422  NULL    </quote>                 
+0000012 423  -----   -----                    
+0000014 010  ZZ1     A                        Z5 
+0000014 020  NP1     California               Z2 
+0000014 030  NN1     Democrat                 G1.2/S2mf 
+0000014 040  PNQS    who                      Z8 
+0000014 050  VVD     played                   K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000014 060  AT1     a                        Z5 
+0000014 070  JJ      leading                  S7.1+ A11.1+ A2.2 M2 A1.1.1 
+0000014 080  NN1     role                     I3.1 K4 S1.1.1 A1.1.1 
+0000014 090  II      in                       Z5 
+0000014 100  NN1     passage                  H2 Q3 M1 I1.2/M1@ 
+0000014 110  IO      of                       Z5 
+0000014 120  AT      the                      Z5 
+0000014 130  NN1     Family                   S4c A4.1c 
+0000014 140  NN1     Smoking                  F3 O1.3 F1 
+0000014 150  NN1     Prevention               S8- 
+0000014 160  CC      and                      Z5 
+0000014 170  NN1     Tobacco                  F3 
+0000014 180  NN1     Control                  S7.1+ A1.7+ O2 
+0000014 190  NN1     Act                      A1.1.1 K4 A5.4- G2.1 P1% 
+0000014 191  ,       ,                        
+0000014 200  VVD     said                     Q2.1 
+0000014 210  AT      the                      Z5 
+0000014 220  NN1     decision                 X6+ 
+0000014 230  VHD     had                      A9+ Z5 A2.2 S4 
+0000014 231  NULL    <quote>                  
+0000014 232  -----   -----                    
+0000014 240  JJ      serious                  A11.1+ A15- E4.1- 
+0000014 250  JJ      public                   B3c[i21.2.1 S5+ A10+ 
+0000014 260  NN1     health                   B3c[i21.2.2 B2 X9.2 
+0000014 270  NN2     implications             A2.2 
+0000014 271  NULL    </quote>                 
+0000014 272  -----   -----                    
+0000014 280  IF      for                      Z5 
+0000014 290  NP1     U.S.                     Z8 
+0000014 300  NN2     efforts                  X8+ O2 
+0000014 310  TO      to                       Z5 
+0000014 320  VVI     reduce                   N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000014 330  NN1     teen                     T3 
+0000014 340  NN1     smoking                  F3 O1.3 F1 
+0000014 341  ,       ,                        
+0000014 350  CCB     but                      Z5 
+0000014 360  VVD     vowed                    Q2.2 
+0000014 370  AT      the                      Z5 
+0000014 380  NN1     clove                    L3 
+0000014 390  NN1     cigarette                F3 
+0000014 400  NN1     ban                      S7.4- 
+0000014 410  VM      would                    A7+ 
+0000014 420  VVI     remain                   T2++ M8 N5.2+ 
+0000014 421  .       .                        
+0000016 001  NULL    <quote>                  
+0000016 002  -----   -----                    
+0000016 010  PPIS1   I                        Z8mf 
+0000016 020  VV0     believe                  X2.1 S9% 
+0000016 030  AT      the                      Z5 
+0000016 040  NP1     WTO                      Z99 
+0000016 041  GE      's                       Z5 
+0000016 050  NN1     interpretation           X2.5+ K2 Q3 
+0000016 060  VBZ     is                       A3+ Z5 
+0000016 070  JJ      wrong                    A5.3- A5.1- G2.2- B2- 
+0000016 080  II      on                       Z5 
+0000016 090  AT      the                      Z5 
+0000016 100  NN2     merits                   A5.1+ 
+0000016 110  CC      and                      Z5 
+0000016 120  JJ      wrong                    A5.3- A5.1- G2.2- B2- 
+0000016 130  II      in                       Z5 
+0000016 140  APPGE   its                      Z8 
+0000016 150  NN1     interference             S1.1.3+++ O3 
+0000016 160  IW      with                     Z5 
+0000016 170  APPGE   our                      Z8 
+0000016 180  NN2     efforts                  X8+ O2 
+0000016 190  TO      to                       Z5 
+0000016 200  VVI     protect                  S8+/A15+ A10- 
+0000016 210  AT      the                      Z5 
+0000016 220  JJ      American                 Z2 
+0000016 230  NN1     public                   S5+ A10+ S5+c 
+0000016 240  II      from                     Z5 
+0000016 250  NN1     tobacco                  F3 
+0000016 251  GE      's                       Z5 
+0000016 260  JJ      devastating              A1.1.2 E4.1- 
+0000016 270  NN2     effects                  A2.2 A8 
+0000016 271  ,       ,                        
+0000016 272  NULL    </quote>                 
+0000016 273  -----   -----                    
+0000016 280  JJ      Representative           A6.2+ G1.1 A4.1 S1.1.3 
+0000016 290  NP1     Henry                    Z1mf[i22.2.1 Z3c[i22.2.1 Z1mf 
+0000016 300  NP1     Waxman                   Z1mf[i22.2.2 Z3c[i22.2.2 
+0000016 310  VVD     said                     Q2.1 
+0000016 311  ,       ,                        
+0000016 320  VVG     noting                   Q2.1 Q1.2 
+0000016 330  AT      the                      Z5 
+0000016 340  NP1     U.S.                     Z8 
+0000016 350  NN1     law                      G2.1 S6+ Y1 
+0000016 360  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000016 370  XX      not                      Z6 
+0000016 380  VVI     distinguish              A6.1- X3 A5.1+ 
+0000016 390  RRQ     where                    M6 
+0000016 400  NN2     cigarettes               F3 
+0000016 410  VBR     are                      Z5 A3+ 
+0000016 420  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000016 421  .       .                        
+0000017 001  -----   -----                    
+0000018 010  NP1@    Harmon                   Z99 
+0000018 020  VVD     said                     Q2.1 
+0000018 030  AT      the                      Z5 
+0000018 040  NP1     U.S.                     Z8 
+0000018 050  NN1     Trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000018 060  NN1     Representative           Q2.1/S2mf G1.1/S2mf I2.2/S2mf A4.1 
+0000018 061  GE      's                       Z5 
+0000018 070  NN1     Office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000018 080  VBDZ    was                      Z5 A3+ 
+0000018 090  VVG     examining                X2.4 B3 P1 
+0000018 100  APPGE   its                      Z8 
+0000018 110  NN2     options                  X7+ I2.1 P1 
+0000018 120  IF      for                      Z5 
+0000018 130  VVG     complying                A1.1.1[i23.2.1 A6.1+ S7.1- 
+0000018 140  IW      with                     A1.1.1[i23.2.2 Z5 
+0000018 150  AT      the                      Z5 
+0000018 160  NN1     ruling                   S7.1+ Q1.2 X6+ 
+0000018 161  .       .                        
+0000019 001  -----   -----                    
+0000020 010  CS      If                       Z7 
+0000020 020  AT      the                      Z5 
+0000020 030  NN1     ban                      S7.4- 
+0000020 040  VVZ     remains                  T2++ M8 N5.2+ 
+0000020 041  ,       ,                        
+0000020 050  NP1     Indonesia                Z2 Z3c 
+0000020 060  VM      could                    A7+ 
+0000020 070  VVI     impose                   S6+ S7.1+/X7- 
+0000020 080  JJ      retaliatory              Z99 
+0000020 090  NN2     duties                   S6+ G1.1/I1.3 T1.3/I3.1 
+0000020 100  II      on                       Z5 
+0000020 110  AT      the                      Z5 
+0000020 120  NP1     U.S.                     Z8 
+0000020 130  VVZ     exports                  I2.2/M2 
+0000020 140  JJ      equal                    A6.1+++ 
+0000020 150  II      to                       Z5 
+0000020 160  AT      the                      Z5 
+0000020 170  NN1     amount                   N5 
+0000020 180  IO      of                       Z5 
+0000020 190  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000020 200  PPH1    it                       Z8 
+0000020 210  VHZ     has                      Z5 A9+ A2.2 S4 
+0000020 220  VVN     lost                     X9.2- A9- M6/A5.3- L1- 
+0000020 221  ,       ,                        
+0000020 230  DDQ     which                    Z5 Z8 
+0000020 240  MC1     one                      N1 T3 T1.2 
+0000020 250  NN1     analyst                  Y2/S2mf I2.1/S2mf Y1/S2mf B3/S2mf 
+0000020 260  VVN     estimated                X6/A7- N2/A7- 
+0000020 270  II      at                       Z5 
+0000020 280  RG      about                    A13.4 
+0000020 290  NNU     $16                      Z99/H1c[i24.2.1 
+0000020 300  NNO     million                  Z99/H1c[i24.2.2 N1 I1 
+0000020 310  II      per                      Z5 
+0000020 320  NNT1    year                     T1.3 P1c 
+0000020 321  .       .                        
+0000021 001  -----   -----                    
+0000022 010  AT      The                      Z5 
+0000022 020  NP1     United                   Z2c[i27.2.1 Z2c[i26.2.1 Z3c Z1mf[i25.2.1 Z3c[i25.2.1 
+0000022 030  NP1     States                   Z2c[i27.2.2 Z2c[i26.2.2 Z2 Z1mf[i25.2.2 Z3c[i25.2.2 
+0000022 040  VM      could                    A7+ 
+0000022 050  RR      also                     N5++ 
+0000022 060  VVI     comply                   A6.1+ S7.1- 
+0000022 070  II      by                       Z5 
+0000022 080  VVG     offering                 A9- Q2.2 
+0000022 090  NP1     Indonesia                Z2 Z3c 
+0000022 100  JJ      new                      T3- 
+0000022 110  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000022 120  NN2     concessions              S7.4+ A9- I2.2 I1.3- 
+0000022 121  ,       ,                        
+0000022 130  CSA     as                       Z5 
+0000022 140  PPH1    it                       Z8 
+0000022 150  VHZ     has                      Z5 A9+ A2.2 S4 
+0000022 160  VDN     done                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000022 170  II      in                       Z5 
+0000022 180  DD      some                     N5 Z5 
+0000022 190  JJ      other                    A6.1- 
+0000022 200  NN2     disputes                 A6.1- 
+0000022 210  RRQ     where                    M6 
+0000022 220  NN1     Congress                 Z3c 
+0000022 230  VBDZ    was                      A3+ Z5 
+0000022 240  JJ      unwilling                X7- X5.2- 
+0000022 250  TO      to                       Z5 
+0000022 260  VVI     change                   A2.1+ I1 B5 
+0000022 270  AT      the                      Z5 
+0000022 280  NN1     law                      G2.1 S6+ Y1 
+0000022 281  .       .                        
+0000023 001  -----   -----                    
+0000024 010  NP1     Myers                    Z99 
+0000024 020  VVD     urged                    Q2.2 
+0000024 030  AT      the                      Z5 
+0000024 040  NN1     Food                     F1 
+0000024 050  CC      and                      Z5 
+0000024 060  NN1     Drug                     B3 F3 
+0000024 070  NN1     Administration           S7.1+c A9- 
+0000024 080  TO      to                       Z5 
+0000024 090  VVI     ban                      S7.4- 
+0000024 100  NN1     menthol                  O1.1 
+0000024 110  NN2     cigarettes               F3 
+0000024 111  ,       ,                        
+0000024 120  VVG     noting                   Q2.1 Q1.2 
+0000024 130  AT1     a                        Z5 
+0000024 140  JJ      scientific               Y1 
+0000024 150  JJ      advisory                 S8+/S7.1+/S5+[i28.2.1 S8+ 
+0000024 160  NN1     committee                S8+/S7.1+/S5+[i28.2.2 S7.1+/S5+c 
+0000024 170  VVN     created                  A1.1.1 A2.2 E1 
+0000024 180  II      by                       Z5 
+0000024 190  AT      the                      Z5 
+0000024 200  MC      2009                     N1 T1.2 T3 T1.3 N3.2 
+0000024 210  NN1     law                      G2.1 S6+ Y1 
+0000024 220  VHD     had                      Z5 A9+ A2.2 S4 
+0000024 230  VVN     recommended              Q2.2 
+0000024 240  CST     that                     Z5 Z8 
+0000024 250  DAR     more                     N5++ 
+0000024 260  CSN     than                     Z5 
+0000024 270  AT1     a                        T1.1.1[i29.3.1 Z5 
+0000024 280  NNT1    year                     T1.1.1[i29.3.2 T1.3 P1c 
+0000024 290  RA      ago                      T1.1.1[i29.3.3 T1.1.1 
+0000024 291  .       .                        
+0000026 001  NULL    <quote>                  
+0000026 002  -----   -----                    
+0000026 010  AT      The                      Z5 
+0000026 020  NN1     FDA                      Z99 
+0000026 030  VHZ     has                      Z5 A9+ A2.2 S4 
+0000026 040  VHN     had                      A9+ Z5 A2.2 S4 
+0000026 050  DAR     more                     N5++ 
+0000026 060  CSN     than                     Z5 
+0000026 070  DD      enough                   N5+ N6+ 
+0000026 080  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000026 090  TO      to                       Z5 
+0000026 100  VVI     determine                A2.2 A7+ X6+ 
+0000026 110  RRQ     how                      Z5 A13.3 
+0000026 120  TO      to                       Z5 
+0000026 130  VVI     implement                A1.1.1 A9-/O2 
+0000026 140  AT      the                      Z5 
+0000026 150  NN1     committee                S7.1+/S5+c 
+0000026 151  GE      's                       Z5 
+0000026 160  NN1     recommendation           Q2.2 
+0000026 161  ,       ,                        
+0000026 162  NULL    </quote>                 
+0000026 163  -----   -----                    
+0000026 170  NP1     Myers                    Z99 
+0000026 180  VVD     said                     Q2.1 
+0000026 181  .       .                        
+0000026 182  NULL    <quote>                  
+0000026 183  -----   -----                    
+0000026 190  PPH1    It                       Z8 
+0000026 200  VBZ     is                       A3+ Z5 
+0000026 210  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000026 220  IF      for                      Z5 
+0000026 230  AT      the                      Z5 
+0000026 240  NN1     FDA                      Z99 
+0000026 250  TO      to                       Z5 
+0000026 260  VVI     act                      A1.1.1 T1.1.2 A8 K4 
+0000026 261  .       .                        
+0000026 262  NULL    </quote>                 
+0000026 263  -----   -----                    
+0000028 010  DD1     That                     Z8 Z5 
+0000028 020  VM      would                    A7+ 
+0000028 030  VVI     affect                   A2.1+ A5.4-/A8 
+0000028 040  NN1     cigarette                F3 
+0000028 050  NN2     makers                   A1.1.1/S2mf 
+0000028 060  NP1     Lorillard                Z99 
+0000028 070  JJ      Inc                      I2.1 
+0000028 071  ,       ,                        
+0000028 080  AT      the                      Z5 
+0000028 090  NP1     Philip                   Z1mf[i31.3.1 Z3c[i31.3.1 Z1m Z1mf[i30.2.1 Z3c[i30.2.1 
+0000028 100  NP1     Morris                   Z1mf[i31.3.2 Z3c[i31.3.2 Z1mf Z1mf[i30.2.2 Z3c[i30.2.2 Z1mf[i32.2.1 Z3c[i32.2.1 
+0000028 110  NP1     USA                      Z3c[i31.3.3 Z1mf[i31.3.3 Z2 Z1mf[i32.2.2 Z3c[i32.2.2 
+0000028 120  NN1     unit                     S5+c O2 H5 H1 N3.1 P1 N1 
+0000028 130  IO      of                       Z5 
+0000028 140  NP1     Altria                   Z3c[i33.2.1 
+0000028 150  NN1     Group                    Z3c[i33.2.2 S5+c A4.1c B3% 
+0000028 151  ,       ,                        
+0000028 160  AT      the                      Z5 
+0000028 170  NP1     R.J.                     Z1mf[i34.2.1 Z3c[i34.2.1 
+0000028 180  NP1     Reynolds                 Z1mf[i34.2.2 Z3c[i34.2.2 
+0000028 190  NN1     Tobacco                  F3 
+0000028 200  NN1     Co.                      I2.1/S5c 
+0000028 210  NN1     unit                     S5+c O2 H5 H1 N3.1 P1 N1 
+0000028 220  IO      of                       Z5 
+0000028 230  NP1     Reynolds                 Z99 
+0000028 240  JJ      American                 Z2 
+0000028 250  JJ      Inc                      I2.1 
+0000028 251  ,       ,                        
+0000028 260  CC      and                      Z5 
+0000028 270  NP1     Liggett                  Z99 
+0000028 280  NN1     Vector                   Z99 
+0000028 290  VVZ@    Brands                   A4.1 Q1.1 
+0000028 300  NP1     LLC                      Z99 
+0000028 301  .       .                        
+0000029 001  -----   -----                    
+0000030 010  NP1     Mark                     Z1mf[i35.2.1 Z3c[i35.2.1 Z1m S9/O1.2 
+0000030 020  NP1     McMinimy                 Z1mf[i35.2.2 Z3c[i35.2.2 
+0000030 021  ,       ,                        
+0000030 030  AT1     a                        Z5 
+0000030 040  JJ      senior                   S7.1++ T3++ 
+0000030 050  NN1     policy                   X7+ Q1.2 
+0000030 060  NN1     analyst                  Y2/S2mf I2.1/S2mf Y1/S2mf B3/S2mf 
+0000030 070  IW      with                     Z5 
+0000030 080  NP1     Guggenheim               Z99 
+0000030 090  NN2     Securities               G2.1 A15+ E6+ I1.1 
+0000030 091  ,       ,                        
+0000030 100  VVD     said                     Q2.1 
+0000030 110  II      in                       Z5 
+0000030 120  AT1     a                        Z5 
+0000030 130  NN1     research                 X2.4 
+0000030 140  VV0     note                     Q2.1 Q1.2 
+0000030 150  CST     that                     Z8 Z5 
+0000030 160  PPHS1   he                       Z8m 
+0000030 170  VVD     doubted                  A7- 
+0000030 180  AT      the                      Z5 
+0000030 190  NP1     Obama                    Z99 
+0000030 200  NN1     administration           S7.1+c A9- 
+0000030 210  VM      would                    A7+ 
+0000030 220  VVI     take                     Z3c[i36.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000030 230  DD1     that                     Z3c[i36.2.2 Z5 Z8 
+0000030 240  NN1     step                     M1 T1.2 H5 O2 A2.1+ A1.1.1 K1@ K5.1@ 
+0000030 241  .       .                        
+0000031 001  -----   -----                    
+0000032 010  NP1     U.S.                     Z8 
+0000032 020  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000032 030  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000032 040  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000032 041  NULL    <quote>                  
+0000032 042  -----   -----                    
+0000032 050  JJ      forceful                 E6+ S1.2.5+ N3.2+ A5.1+ 
+0000032 060  NN2     arguments                Q2.1 Q2.1/A6.1- Q2.1/E3- 
+0000032 061  NULL    </quote>                 
+0000032 062  -----   -----                    
+0000032 070  II      against                  Z5 
+0000032 080  AT1     a                        Z5 
+0000032 090  NN1     ban                      S7.4- 
+0000032 100  II      on                       Z5 
+0000032 110  NN1     menthol                  O1.1 
+0000032 120  NN2     cigarettes               F3 
+0000032 130  II      in                       Z5 
+0000032 140  APPGE   their                    Z8 
+0000032 150  NN1     WTO                      Z99 
+0000032 160  NN1     appeal                   Q2.1 O4.2+ G2.1 
+0000032 161  ,       ,                        
+0000032 170  PPHS1   he                       Z8m 
+0000032 180  VVD     said                     Q2.1 
+0000032 181  .       .                        
+0000033 001  -----   -----                    
+0000034 010  PPH1    It                       Z8 
+0000034 020  VBZ     is                       A3+ Z5 
+0000034 030  JJ      unlikely                 A7- 
+0000034 040  AT      the                      Z5 
+0000034 050  NN1     FDA                      Z99 
+0000034 060  VM      would                    A7+ 
+0000034 070  VVI     ban                      S7.4- 
+0000034 080  CC      or                       Z5 
+0000034 090  NN1     phase                    T2-[i37.2.1 X2.5-[i37.2.1 T1.3 
+0000034 100  RP      out                      T2-[i37.2.2 X2.5-[i37.2.2 M6 
+0000034 110  NN1     menthol                  O1.1 
+0000034 120  NN2     cigarettes               F3 
+0000034 130  IW      without                  Z5 
+0000034 131  NULL    <quote>                  
+0000034 132  -----   -----                    
+0000034 140  AT      the                      Z5 
+0000034 150  NN1     emergence                M1 A10+ A1.1.1 
+0000034 160  IO      of                       Z5 
+0000034 170  JJ      new                      T3- 
+0000034 180  CC      and                      Z5 
+0000034 190  JJ      compelling               A5.2+/A8 
+0000034 200  NN1     information              X2.2+ 
+0000034 210  CST     that                     Z8 Z5 
+0000034 220  VVZ     indicts                  G2.1 
+0000034 230  DD1     this                     M6 Z5 Z8 
+0000034 240  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000034 250  II      as                       Z5 
+0000034 260  AT1     a                        Z5 
+0000034 270  JJ      special                  A4.2+ A6.2- 
+0000034 280  NN1     menace                   E5- A15- X2.6+/O4.2- A7+ 
+0000034 290  II      to                       Z5 
+0000034 300  JJ      public                   B3c[i38.2.1 S5+ A10+ 
+0000034 310  NN1     health                   B3c[i38.2.2 B2 X9.2 
+0000034 311  ,       ,                        
+0000034 312  NULL    </quote>                 
+0000034 313  -----   -----                    
+0000034 320  NP1     McMinimy                 Z99 
+0000034 330  VVD     said                     Q2.1 
+0000034 331  .       .                        
+0000036 001  NULL    **8;7;text               

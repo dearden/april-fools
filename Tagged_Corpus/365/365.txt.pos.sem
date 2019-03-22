@@ -1,0 +1,826 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  JJ      EXCLUSIVE                O4.2+ A14 A1.8- 
+0000002 011  :       :                        
+0000002 020  JJ      Leading                  S7.1+ A11.1+ A2.2 M2 A1.1.1 
+0000002 030  NN1     Game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000002 040  IO      of                       Z5 
+0000002 050  NN2     Thrones                  H5/S7.1+ S7.1+ 
+0000002 060  NN1     actor                    K4/S2.2m A1.1.1/S2mf@ 
+0000002 070  CC      and                      Z5 
+0000002 080  JJ      Emmy                     Z99 
+0000002 090  NN1     winner                   X9.2+/S7.3/S2mf X9.2+/G3/S2mf 
+0000002 100  NP1     Peter                    Z1mf[i1.2.1 Z3c[i1.2.1 Z1m 
+0000002 110  NP1     Dinklage                 Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 120  VM      will                     T1.1.3 
+0000002 130  XX      not                      Z6 
+0000002 140  VVI     return                   M1 A9- N6 
+0000002 150  II      to                       Z5 
+0000002 160  NP1     HBO                      Z99 
+0000002 161  GE      's                       Z5 
+0000002 170  NN1     flagship                 M4fn A11.1+++ 
+0000002 180  NN1     program                  Y2 X7+ Q4.3 Q1.2 P1 
+0000002 190  IF      for                      Z5 
+0000002 200  AT1     a                        Z5 
+0000002 210  MD      fourth                   N4 
+0000002 220  NNT1    season                   T1.3 
+0000002 230  II      in                       Z5 
+0000002 240  MC      2014                     N1 T1.2 T3 T1.3 N3.2 
+0000002 241  .       .                        
+0000002 242  -----   -----                    
+0000002 250  II      In                       Z5 
+0000002 260  AT1     a                        Z5 
+0000002 270  NN1     press                    Q4.2/S1.1.3+c[i2.2.1 
+0000002 280  NN1     conference               Q4.2/S1.1.3+c[i2.2.2 S1.1.3+ 
+0000002 290  AT      the                      Z5 
+0000002 300  NNT1    morning                  T1.3 
+0000002 310  IO      of                       Z5 
+0000002 320  NPM1    April                    T1.3[i3.2.1 T1.3 
+0000002 330  MD      1st                      T1.3[i3.2.2 N4 T1.3 
+0000002 331  ,       ,                        
+0000002 340  MC      2013                     N1 T1.2 T3 T1.3 N3.2 
+0000002 350  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000002 360  NN2     creators                 A1.1.1/S2mf A2.2/S2mf 
+0000002 370  NP1     David                    Z1mf[i4.2.1 Z3c[i4.2.1 Z1m 
+0000002 380  NP1     Benioff                  Z1mf[i4.2.2 Z3c[i4.2.2 
+0000002 381  ,       ,                        
+0000002 390  NP1     Dan                      Z1mf[i5.2.1 Z3c[i5.2.1 Z1m 
+0000002 400  NP1     Weiss                    Z1mf[i5.2.2 Z3c[i5.2.2 
+0000002 410  II      alongside                Z5 
+0000002 420  NP1     George                   Z1mf[i7.3.1 Z3c[i7.3.1 Z1m Z1mf[i6.2.1 Z3c[i6.2.1 
+0000002 430  NP1     R.R.                     Z1mf[i7.3.2 Z3c[i7.3.2 Z1mf[i6.2.2 Z3c[i6.2.2 Z1mf[i8.2.1 Z3c[i8.2.1 
+0000002 440  NP1     Martin                   Z3c[i7.3.3 Z1mf[i7.3.3 Z1mf Z1mf[i8.2.2 Z3c[i8.2.2 
+0000002 450  VVD     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000002 460  AT      the                      Z5 
+0000002 470  NN1     announcement             Q2.2 
+0000002 480  II      to                       Z5 
+0000002 490  JJ      stunned                  E5- 
+0000002 500  NN2     members                  S5+/S2mf B1 
+0000002 510  IO      of                       Z5 
+0000002 520  AT      the                      Z5 
+0000002 530  NN      media                    Q4c 
+0000002 531  .       .                        
+0000004 001  NULL    <quote>                  
+0000004 002  -----   -----                    
+0000004 010  RT      Today                    T1.1.2 
+0000004 020  VBZ     is                       A3+ Z5 
+0000004 030  RR      both                     Z5 
+0000004 040  AT1     a                        Z5 
+0000004 050  JJ      sad                      E4.1- A5.1- 
+0000004 060  NNT1    day                      T1.3 
+0000004 070  CC      and                      Z5 
+0000004 080  AT1     an                       Z5 
+0000004 090  JJ      exciting                 X5.2+ 
+0000004 100  PN1     one                      Z8 
+0000004 110  IF      for                      Z5 
+0000004 120  NP1     HBO                      Z99 
+0000004 121  GE      's                       Z5 
+0000004 130  NN1     Game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000004 140  IO      of                       Z5 
+0000004 150  NN2     Thrones                  H5/S7.1+ S7.1+ 
+0000004 151  ,       ,                        
+0000004 152  NULL    </quote>                 
+0000004 153  -----   -----                    
+0000004 160  NP1@    Benioff                  Z99 
+0000004 170  VVD     began                    T2+ 
+0000004 171  .       .                        
+0000004 172  NULL    <quote>                  
+0000004 173  -----   -----                    
+0000004 180  JJ      Sad                      E4.1- A5.1- 
+0000004 190  CS      because                  Z5/A2.2 
+0000004 200  PPIS2   we                       Z8 
+0000004 201  VH0     've                      Z5 A9+ A2.2 
+0000004 210  RR@     all                      A13.2 
+0000004 220  VVN     gotten                   A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 
+0000004 230  TO      to                       Z5 
+0000004 240  VVI     know                     X2.2+ S3.2/B1% 
+0000004 250  NP1     Peter                    Z1m 
+0000004 260  II      on                       Z5 
+0000004 270  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
+0000004 280  CC      and                      Z5 
+0000004 290  VVI     love                     E2+ 
+0000004 300  PPHO1   him                      Z8m 
+0000004 310  RR      dearly                   A13.3 
+0000004 320  II      as                       Z5 
+0000004 330  AT1     a                        Z5 
+0000004 340  NN1     friend                   S3.1/S2mf 
+0000004 341  .       .                        
+0000004 342  -----   -----                    
+0000004 350  PPIS2   We                       Z8 
+0000004 351  VM      'll                      T1.1.3 
+0000004 360  VVI     miss                     A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3- 
+0000004 370  PPHO1   him                      Z8m 
+0000004 380  RR      sorely                   A5.1- A13.3 
+0000004 381  .       .                        
+0000004 382  -----   -----                    
+0000004 390  JJ      Exciting                 X5.2+ 
+0000004 400  CS      because                  Z5/A2.2 
+0000004 410  PPIS2   we                       Z8 
+0000004 411  VBR     're                      Z5 A3+ 
+0000004 420  VVG     heading                  S7.1+ K5.1 M1 N5 A2.1+ A11.1+ Q1.2 T1.1.3 
+0000004 430  II      in                       Z5 
+0000004 440  AT1     an                       Z5 
+0000004 450  RR      entirely                 A13.2 
+0000004 460  JJ      new                      T3- 
+0000004 470  NN1     direction                M6 Q2.2 S7.1+ X4.2 K4 
+0000004 480  IW      with                     Z5 
+0000004 490  AT      the                      Z5 
+0000004 500  NN1     character                S2mf K4/S2mf S1.2 S2mf/A6.2- Q1.2 A4.1 O4.2+ 
+0000004 510  IO      of                       Z5 
+0000004 520  NP1     Tyrion                   Z99 
+0000004 530  NN1     Lannister                Z99 
+0000004 540  IF      for                      Z5 
+0000004 550  NNT1    season                   T1.3 
+0000004 560  MC      4                        N1 T1.2 T3 T1.3 N3.2 
+0000004 561  .       .                        
+0000004 562  NULL    </quote>                 
+0000004 563  -----   -----                    
+0000008 010  NN2     Members                  S5+/S2mf B1 
+0000008 020  IO      of                       Z5 
+0000008 030  AT      the                      Z5 
+0000008 040  NN1     press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
+0000008 050  VVD     began                    T2+ 
+0000008 060  TO      to                       Z5 
+0000008 070  VVI     stir                     A1.1.1 M1 
+0000008 080  CC      and                      Z5 
+0000008 090  VVI     murmur                   Q2.2/X3.2- X3.2- 
+0000008 100  II      in                       Z5 
+0000008 110  NN1     anticipation             X2.6+ 
+0000008 120  IO      of                       Z5 
+0000008 130  DDQ     what                     Z8 Z5 
+0000008 140  AT      the                      Z5 
+0000008 150  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000008 160  NN2     creators                 A1.1.1/S2mf A2.2/S2mf 
+0000008 161  ,       ,                        
+0000008 170  PNQS    who                      Z8 
+0000008 180  VHD     had                      Z5 A9+ A2.2 S4 
+0000008 190  VVN     seemed                   A8 
+0000008 200  RG      so                       A13.3 
+0000008 210  JJ      stable                   A2.1- S1.2 O4.1 
+0000008 220  CC      and                      Z5 
+0000008 230  JJ      reliable                 A5.1+ A5.3+ 
+0000008 240  II21    up                       Z5[i9.2.1 Z5 
+0000008 250  II22    until                    Z5[i9.2.2 Z5 
+0000008 260  DD1     this                     M6 Z5 Z8 
+0000008 270  NN1     moment                   T1.2 T1.1.2 N3 
+0000008 271  ,       ,                        
+0000008 280  VHD     had                      S6+[i10.2.1 A9+ Z5 A2.2 S4 
+0000008 290  TO      to                       S6+[i10.2.2 Z5 
+0000008 300  VVI     say                      Q2.1 Z4% 
+0000008 310  MD      next                     N4 
+0000008 311  .       .                        
+0000008 312  -----   -----                    
+0000008 320  NN1     Producer                 K4/S7.1+/S2mf A1.1.1/S2mf 
+0000008 330  NP1     Dan                      Z1mf[i11.2.1 Z3c[i11.2.1 Z1m 
+0000008 340  NP1     Weiss                    Z1mf[i11.2.2 Z3c[i11.2.2 
+0000008 350  VVD     continued                T2++ 
+0000008 360  AT      the                      Z5 
+0000008 370  NN1     explanation              Q2.2/A7+ A2.2 
+0000008 380  VVG     adding                   N5+/A2.1 N2 A1.8+ 
+0000008 381  ,       ,                        
+0000008 382  NULL    <quote>                  
+0000008 383  -----   -----                    
+0000008 390  PPH1    It                       Z8 
+0000008 400  VBDZ    was                      A3+ Z5 
+0000008 410  AT1     a                        Z5 
+0000008 420  JJ      unanimous                A6.1+ 
+0000008 430  NN1     decision                 X6+ 
+0000008 440  II      between                  Z5 
+0000008 450  NP1     David                    Z1m 
+0000008 451  ,       ,                        
+0000008 460  PPX1    myself                   Z8mf 
+0000008 461  ,       ,                        
+0000008 470  NP1     Peter                    Z1m 
+0000008 480  CC      and                      Z5 
+0000008 490  NP1     George                   Z1m 
+0000008 491  .       .                        
+0000008 492  -----   -----                    
+0000008 500  PPIS2   We                       Z8 
+0000008 510  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000008 520  TO      to                       Z5 
+0000008 530  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000008 540  NN1     Tyrion                   Z99 
+0000008 550  II      in                       Z5 
+0000008 560  AT1     a                        Z5 
+0000008 570  RGR     more                     A13.3 
+0000008 580  JJ      comedic                  Z99 
+0000008 581  ,       ,                        
+0000008 590  JJ      farcical                 E4.1+ S1.2.6- 
+0000008 600  NN1     direction                M6 Q2.2 S7.1+ X4.2 K4 
+0000008 610  CC      and                      Z5 
+0000008 620  PN1     everyone                 Z8/N5.1+c 
+0000008 630  II      including                A1.8+ 
+0000008 640  NP1     Peter                    Z1m 
+0000008 650  VVD     agreed                   A6.1+ Q2.2 
+0000008 660  CST     that                     Z8 Z5 
+0000008 670  PPHS1   he                       Z8m 
+0000008 680  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000008 690  VBDZ    was                      A3+ Z5 
+0000008 691  XX      n't                      Z6 
+0000008 700  AT      the                      Z5 
+0000008 710  NN1     man                      S2.2m 
+0000008 720  IF      for                      Z5 
+0000008 730  AT      the                      Z5 
+0000008 740  NN1     job                      I3.1 A1.1.1 A12- 
+0000008 741  .       .                        
+0000008 742  -----   -----                    
+0000008 750  PPIS1   I                        Z8mf 
+0000008 751  VM      'll                      T1.1.3 
+0000008 760  VVI     let                      S7.4+ I2.2/H1 T2- 
+0000008 770  AT      the                      Z5 
+0000008 780  JJ      other                    A6.1- 
+0000008 790  NN2     guys                     S2.2m O2 
+0000008 800  VVI     speak                    Q2.1 
+0000008 810  IF      for                      Z5 
+0000008 820  PPX2    themselves               Z8 
+0000008 830  II21    but                      Z5[i12.2.1 Z5 
+0000008 840  II22    for                      Z5[i12.2.2 
+0000008 850  PPIO1   me                       Z8mf 
+0000008 860  AT      the                      Z5 
+0000008 870  NN1     choice                   X7+ A6.3+ 
+0000008 880  VBDZ    was                      A3+ Z5 
+0000008 890  RG      as                       A13 
+0000008 900  JJ      clear                    A7+ A10+ O4.3 O4.1 N5.1+ W4 
+0000008 910  CSA     as                       Z5 
+0000008 920  AT1     a                        Z5 
+0000008 930  NN1     crystal                  O1.1 O2 
+0000008 940  NN1     crown                    B5/S7.1+ G1.1 B1 W4 I1 B3 O4.4 
+0000008 941  .       .                        
+0000008 942  -----   -----                    
+0000008 950  NP1     Warwick                  Z1mf[i13.2.1 Z3c[i13.2.1 Z2 Z1mf 
+0000008 960  NP1     Davis                    Z1mf[i13.2.2 Z3c[i13.2.2 Z1mf 
+0000008 970  VM      will                     T1.1.3 
+0000008 980  VBI     be                       A3+ Z5 
+0000008 990  APPGE   our                      Z8 
+0000008 000  JJ      new                      T3- 
+0000008 010  NN1     Tyrion                   Z99 
+0000008 020  NN1     Lannister                Z99 
+0000008 021  !       !                        
+0000008 022  NULL    </quote>                 
+0000008 023  -----   -----                    
+0000012 010  FU      **33;7;TOOLONG           Z99 
+0000012 020  JJ%     then                     Z5 T1.1.1 N4 T1.2 
+0000012 030  NP1     Warwick                  Z1mf[i14.2.1 Z3c[i14.2.1 Z2 Z1mf 
+0000012 040  NP1     Davis                    Z1mf[i14.2.2 Z3c[i14.2.2 Z1mf 
+0000012 041  ,       ,                        
+0000012 050  AT1     a                        Z5 
+0000012 060  JJ      British                  Z2 Z2/S2mfnc 
+0000012 070  NN1     comedian                 E4.1+/S2mf K4/S2mf Q4.3/S2mf 
+0000012 080  RRT     best                     A5.1+++ A13.2 G2.2+++ O4.2+++ 
+0000012 090  VVN     known                    X2.2+ S3.2/B1% 
+0000012 100  IF      for                      Z5 
+0000012 110  APPGE   his                      Z8m 
+0000012 120  NN2     roles                    I3.1 K4 S1.1.1 A1.1.1 
+0000012 130  II      in                       Z5 
+0000012 140  NN1     Star                     Z3c 
+0000012 150  NN2     Wars                     G3 S7.3 
+0000012 151  ,       ,                        
+0000012 160  NP1     Harry                    Z1mf[i15.2.1 Z3c[i15.2.1 Z1mf 
+0000012 170  NP1     Potter                   Z1mf[i15.2.2 Z3c[i15.2.2 
+0000012 180  CC      and                      Z5 
+0000012 190  AT      the                      Z5 
+0000012 200  NP1     HBO                      Z99 
+0000012 210  NN1     comedy                   E4.1+ K4 Q4.3 
+0000012 220  NN1     Life                     Z3c 
+0000012 221  VBZ     's                       A3+ Z5 
+0000012 230  RG      Too                      N5.2+ A13.3 
+0000012 240  JJ@     Short                    T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
+0000012 241  ,       ,                        
+0000012 250  VVN     stepped                  M1 
+0000012 260  II      into                     Z5 
+0000012 270  AT      the                      Z5 
+0000012 280  NN1     room                     H2 N3.6 
+0000012 290  II      to                       Z5 
+0000012 300  VVG     flashing                 O4.3/N6 A10+ N3.8+ G2.1- 
+0000012 310  NN2     cameras                  C1 Q4.3 
+0000012 320  CC      and                      Z5 
+0000012 330  RR      even                     A13.1 
+0000012 340  DAR     more                     N5++ 
+0000012 350  NN1     commotion                E3- X5.2+ 
+0000012 360  II      from                     Z5 
+0000012 370  NN2     members                  S5+/S2mf B1 
+0000012 380  IO      of                       Z5 
+0000012 390  AT      the                      Z5 
+0000012 400  NN1     press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
+0000012 401  .       .                        
+0000012 402  -----   -----                    
+0000012 410  NP1     Warwick                  Z2 Z1mf 
+0000012 420  RT      then                     N4 Z5 T1.2 
+0000012 430  VVD     took                     A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000012 440  AT1     a                        Z5 
+0000012 450  NN1     seat                     H5 B5 S1.1.3+ S7.1+ M7 
+0000012 460  II21    next                     Z5[i16.2.1 A13.4[i16.2.1 
+0000012 470  II22    to                       Z5[i16.2.2 A13.4[i16.2.2 Z5 
+0000012 480  NP1     Martin                   Z1mf 
+0000012 481  .       .                        
+0000013 001  -----   -----                    
+0000014 010  CS      When                     Z5 
+0000014 020  VVN@    asked                    Q2.2 
+0000014 030  CSW     whether                  Z5 
+0000014 040  PPHS1   he                       Z8m 
+0000014 050  VVD     approved                 S7.4+ E2+ G1.1 
+0000014 060  IO      of                       Z5 
+0000014 070  DD1     this                     M6 Z5 Z8 
+0000014 080  NN1     decision                 X6+ 
+0000014 081  ,       ,                        
+0000014 090  NP1     George                   Z1mf[i18.3.1 Z3c[i18.3.1 Z1m Z1mf[i17.2.1 Z3c[i17.2.1 
+0000014 100  NP1     R.R                      Z1mf[i18.3.2 Z3c[i18.3.2 Z1mf[i17.2.2 Z3c[i17.2.2 Z1mf[i19.2.1 Z3c[i19.2.1 
+0000014 110  NP1     Martin                   Z3c[i18.3.3 Z1mf[i18.3.3 Z1mf Z1mf[i19.2.2 Z3c[i19.2.2 
+0000014 120  VVD     responded                S1.1.2+ Q2.2 
+0000014 130  RR      enthusiastically         X5.2+ 
+0000014 131  :       :                        
+0000016 001  NULL    <quote>                  
+0000016 002  -----   -----                    
+0000016 010  NP1     Warwick                  Z2 Z1mf 
+0000016 020  VBDZ    was                      A3+ Z5 
+0000016 030  RR      actually                 A5.4+ A14 
+0000016 040  APPGE   my                       Z8 
+0000016 050  NN1@    pick                     X7+ A5.1+++ O2 
+0000016 060  RP      back                     M6 N6+ T1.1.1 S1.1.2+ 
+0000016 070  II      in                       Z5 
+0000016 080  MC      2009                     N1 T1.2 T3 T1.3 N3.2 
+0000016 090  RRQ     when                     Z5 
+0000016 100  PPIS2   we                       Z8 
+0000016 110  MD      first                    N4 
+0000016 120  VVD     began                    T2+ 
+0000016 130  VVG     looking                  X3.4[i20.2.1 X2.4[i20.2.1 X2.1[i20.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000016 140  II      at                       X3.4[i20.2.2 X2.4[i20.2.2 X2.1[i20.2.2 Z5 
+0000016 150  JJ      potential                A7+ 
+0000016 160  JJ@     cast                     K4/S5+c O2 B3 A4.1 B2- K4 M2 G1.2 S9 A9- A1.1.1 
+0000016 170  NN2     members                  S5+/S2mf B1 
+0000016 171  .       .                        
+0000016 172  -----   -----                    
+0000016 180  PPH1    It                       Z8 
+0000016 190  RR      finally                  N4 
+0000016 200  VVD     hit                      E3- A1.1.1 A2.1+ A11.2+ A10+ M1 G3 
+0000016 210  PPIO1   me                       Z8mf 
+0000016 220  MD      last                     T1.1.1[i21.2.1 N4 
+0000016 230  NNT1    week                     T1.1.1[i21.2.2 T1.3 
+0000016 240  CS      while                    Z5 
+0000016 250  VVG     taking                   A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000016 260  AT1     an                       Z5 
+0000016 270  JJ      indefinite               A7- 
+0000016 280  NN1     break                    K1/T1.3 T2- O2 A1.4 A1.1.2 
+0000016 290  II      from                     Z5 
+0000016 300  VVG     writing                  Q1.2 I2.1 
+0000016 310  AT      The                      Z5 
+0000016 320  NN2     Winds                    W4 B1 
+0000016 330  IO      of                       Z5 
+0000016 340  NNT1    Winter                   Z1mf 
+0000016 350  TO      to                       Z5 
+0000016 360  VVI     catch                    T1.1.2[i22.2.1 S7.3[i22.2.1 N4[i22.2.1 A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3 
+0000016 370  RP      up                       T1.1.2[i22.2.2 S7.3[i22.2.2 N4[i22.2.2 
+0000016 380  II      on                       Z5 
+0000016 390  DD      some                     N5 Z5 
+0000016 400  IO      of                       Z5 
+0000016 410  APPGE   my                       Z8 
+0000016 420  JJ      favorite                 E2+++ 
+0000016 430  NN2     movies                   Q4.3 
+0000016 431  .       .                        
+0000016 432  -----   -----                    
+0000016 440  PPIS1   I                        Z8mf 
+0000016 450  VV0     think                    X2.1 
+0000016 460  PPH1    it                       Z8 
+0000016 470  VBDZ    was                      A3+ Z5 
+0000016 480  APPGE   his                      Z8m 
+0000016 490  JJ      epic                     Q3 N3.2+ 
+0000016 500  NN1     role                     I3.1 K4 S1.1.1 A1.1.1 
+0000016 510  II      in                       Z5 
+0000016 520  NN1     Willow                   L3 
+0000016 530  CST     that                     Z8 Z5 
+0000016 540  RR      finally                  N4 
+0000016 550  VVD@    convinced                A7+/Q2.2 
+0000016 560  PPIO1   me                       Z8mf 
+0000016 561  .       .                        
+0000016 562  -----   -----                    
+0000016 570  DA      Such                     Z5 Z8 
+0000016 580  NN1     wit                      E1 X9.1+ X9.1+/S2mf Q2.2/X9.1+ Q1.2/X9.1+ 
+0000016 581  .       .                        
+0000016 582  -----   -----                    
+0000016 590  DA      Such                     Z5 Z8 
+0000016 600  NN1     tenderness               E3+ B2- 
+0000016 601  .       .                        
+0000016 602  NULL    </quote>                 
+0000016 603  -----   -----                    
+0000020 010  NP1     Warwick                  Z2 Z1mf 
+0000020 020  VHZ     has                      Z5 A9+ A2.2 S4 
+0000020 030  RR      reportedly               A8 
+0000020 040  VVN     asked                    Q2.2 
+0000020 050  IF      for                      Z5 
+0000020 060  MC1     1                        N1[i23.2.1 T1.3[i23.2.1 I1[i23.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000020 070  NNO     million                  N1[i23.2.2 T1.3[i23.2.2 I1[i23.2.2 N1 I1 
+0000020 080  NNU2    dollars                  I1 
+0000020 090  II      per                      Z5 
+0000020 100  NN1     episode                  A3+/A11.1+ A6.2- Q4 B2- 
+0000020 101  ,       ,                        
+0000020 110  VVG     amounting                A3+[i24.2.1 N5+/A2.1 
+0000020 120  II      to                       A3+[i24.2.2 Z5 
+0000020 130  RR      nearly                   A13.4 
+0000020 140  MC      20                       N5[i25.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000020 150  NNU     percent                  N5[i25.2.2 N5 
+0000020 160  IO      of                       Z5 
+0000020 170  AT      the                      Z5 
+0000020 180  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000020 181  GE      's                       Z5 
+0000020 190  MC      50                       N1[i26.2.1 T1.3[i26.2.1 I1[i26.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000020 200  NNO     million                  N1[i26.2.2 T1.3[i26.2.2 I1[i26.2.2 N1 I1 
+0000020 210  NNU1    dollar                   I1 
+0000020 220  II      per                      Z5 
+0000020 230  NNT1    season                   T1.3 
+0000020 240  NN1     budget                   I1 G1.1/I1 I1.3- 
+0000020 241  .       .                        
+0000020 242  NULL    <quote>                  
+0000020 243  -----   -----                    
+0000020 250  PPIS2   We                       Z8 
+0000020 260  VVD     felt                     X2.1 E1 X3 
+0000020 270  CST     that                     Z5 Z8 
+0000020 280  NP1     Warwick                  Z2 Z1mf 
+0000020 281  GE      's                       Z5 
+0000020 290  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
+0000020 300  CC      and                      Z5 
+0000020 310  NN1     star                     W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 
+0000020 320  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000020 330  VBDZ    was                      A3+ Z5 
+0000020 340  JJ      well                     B2+ 
+0000020 350  II      worth                    I1.3 A1.5.2+ S1.1.4+ N5 Z3 Z1mf Z2 
+0000020 360  AT      the                      Z5 
+0000020 370  NN1     investment               I1.1 
+0000020 371  ,       ,                        
+0000020 372  NULL    </quote>                 
+0000020 373  -----   -----                    
+0000020 380  NP1@    Weiss                    Z99 
+0000020 390  VVD     said                     Q2.1 
+0000020 391  .       .                        
+0000020 392  NULL    <quote>                  
+0000020 393  -----   -----                    
+0000020 400  PPIS2   We                       Z8 
+0000020 401  VM      'll                      T1.1.3 
+0000020 410  VBI     be                       Z5 A3+ 
+0000020 420  VVG     seeing                   X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000020 430  RR21@   a                        A13.3[i27.2.1 N6+[i27.2.1 
+0000020 440  RR22    lot                      A13.3[i27.2.2 N6+[i27.2.2 
+0000020 450  DAR     less                     N5-- 
+0000020 460  IO      of                       Z5 
+0000020 470  AT      the                      Z5 
+0000020 480  NN2     dragons                  S9/L2mfn S2.1f 
+0000020 490  CC      and                      Z5 
+0000020 500  VVZ     direwovlves              Z99 
+0000020 510  II21    due                      A2.2[i28.2.1 
+0000020 520  II22    to                       A2.2[i28.2.2 Z5 
+0000020 530  AT      the                      Z5 
+0000020 540  JJ      new                      T3- 
+0000020 550  NN1     budgeting                I1 
+0000020 560  CST     that                     Z8 Z5 
+0000020 570  VM      will                     T1.1.3 
+0000020 580  VHI     have                     S6+[i29.2.1 A9+ Z5 A2.2 S4 
+0000020 590  TO      to                       S6+[i29.2.2 Z5 
+0000020 600  VBI     be                       Z5 A3+ 
+0000020 610  VDN     done                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000020 620  TO      to                       Z5 
+0000020 630  VVI     compensate               S8+ 
+0000020 631  .       .                        
+0000020 632  -----   -----                    
+0000020 640  CCB     But                      Z5 
+0000020 650  II      in                       N4[i30.3.1 Z5 
+0000020 660  AT      the                      N4[i30.3.2 Z5 
+0000020 670  NN1     end                      N4[i30.3.3 M6 T2- O2 X7+ N4 
+0000020 680  PPH1    it                       Z8 
+0000020 681  VBZ     's                       A3+ Z5 
+0000020 690  AT1     a                        Z5 
+0000020 700  JJ      small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
+0000020 710  NN1     price                    I1.3 
+0000020 720  TO      to                       Z5 
+0000020 730  VVI     pay                      I1.2 A9- I1.1/I3.1 
+0000020 740  IF      for                      Z5 
+0000020 750  DD1     this                     M6 Z5 Z8 
+0000020 760  NN1     kind                     A4.1 
+0000020 770  IO      of                       Z5 
+0000020 780  VVG     acting                   A1.1.1 T1.1.2 A8 K4 
+0000020 790  NN2     gravitas                 S7.2+/A11.1+ 
+0000020 791  .       .                        
+0000020 792  NULL    </quote>                 
+0000020 793  -----   -----                    
+0000022 010  AT      The                      Z5 
+0000022 020  NN2     producers                K4/S7.1+/S2mf A1.1.1/S2mf 
+0000022 030  RR      also                     N5++ 
+0000022 040  VVN     noted                    Q2.1 Q1.2 
+0000022 050  CST     that                     Z8 Z5 
+0000022 051  ,       ,                        
+0000022 060  II      in                       Z5 
+0000022 070  AT1     an                       Z5 
+0000022 080  NN1     effort                   X8+ O2 
+0000022 090  TO      to                       Z5 
+0000022 100  VVI     maintain                 A9+ T2++ S8+ A1.1.1 Q2.2 
+0000022 110  NN1     continuity               T2++ 
+0000022 111  ,       ,                        
+0000022 120  NP1     Warwick                  Z1mf[i31.2.1 Z3c[i31.2.1 Z2 Z1mf 
+0000022 130  NP1     Davis                    Z1mf[i31.2.2 Z3c[i31.2.2 Z1mf 
+0000022 131  GE      '                        Z5 
+0000022 140  NN1     face                     B1 W3 O2 A8 S1.2.3+ 
+0000022 150  VM      will                     T1.1.3 
+0000022 160  VBI     be                       Z5 A3+ 
+0000022 170  RR      digitally                Y2 
+0000022 180  VVN     transposed               M6/A2.1 A2.1+ K2% 
+0000022 190  II      over                     Z5 
+0000022 200  NNB     Mr.                      Z1m[i32.2.1 S2.2m 
+0000022 210  NP1     Dinklage                 Z1m[i32.2.2 
+0000022 211  VBZ     's                       A3+ Z5 
+0000022 220  II      in                       Z5 
+0000022 230  DB      all                      N5.1+ 
+0000022 240  JJ      future                   T1.1.3 
+0000022 250  NN2     releases                 A1.7- A9- I2.2 K3 Q4 E6+ 
+0000022 260  IO      of                       Z5 
+0000022 270  NN1     Game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000022 280  IO      of                       Z5 
+0000022 290  NN2     Thrones                  Z2[i33.3.1 
+0000022 300  II      on                       Z2[i33.3.2 Z5 
+0000022 310  NP1     DVD                      Z2[i33.3.3 
+0000022 320  CC      and                      Z5 
+0000022 330  NP1     Blu-Ray                  Z99 
+0000022 331  .       .                        
+0000023 001  -----   -----                    
+0000024 010  II      At                       T1.1.2[i34.3.1 Z5 
+0000024 020  DD1     this                     T1.1.2[i34.3.2 M6 Z5 Z8 
+0000024 030  NN1     point                    T1.1.2[i34.3.3 Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
+0000024 040  DA2     many                     N5+ 
+0000024 050  NN2     members                  S5+/S2mf B1 
+0000024 060  IO      of                       Z5 
+0000024 070  AT      the                      Z5 
+0000024 080  NN      media                    Q4c 
+0000024 090  VVD     began                    T2+ 
+0000024 100  TO      to                       Z5 
+0000024 110  VVI     shout                    Q2.2[i35.2.1 Q2.2/X3.2++ 
+0000024 120  RP      out                      Q2.2[i35.2.2 M6 
+0000024 130  JJ      pertinent                A2.2 
+0000024 140  NN2     questions                Q2.2 X4.1 
+0000024 150  II21    such                     Z5[i36.2.1 
+0000024 160  II22    as                       Z5[i36.2.2 Z5 
+0000024 161  NULL    <quote>                  
+0000024 162  -----   -----                    
+0000024 170  RRQ     How                      Z5 A13.3 
+0000024 180  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000024 190  NP1     Peter                    Z1m 
+0000024 200  VVI     feel                     X2.1 E1 X3 
+0000024 210  II      about                    Z5 
+0000024 220  DB      all                      N5.1+ 
+0000024 230  DD1     this                     Z8 M6 Z5 
+0000024 231  ?       ?                        
+0000024 232  NULL    </quote>                 
+0000024 233  -----   -----                    
+0000024 240  CC      and                      Z5 
+0000024 241  NULL    <quote>                  
+0000024 242  -----   -----                    
+0000024 250  VBR     Are                      A3+ Z5 
+0000024 260  PPY     you                      Z8mf 
+0000024 270  FO      fuc@                     Z99 
+0000024 271  !       !                        
+0000024 280  FO      n6                       Z99 
+0000024 290  JJ      serious                  A11.1+ A15- E4.1- 
+0000024 300  NN1     right                    S7.4+ G2.2+ M6 G1.2 
+0000024 310  RT      now                      T1.1.2 Z4 
+0000024 311  ?       ?                        
+0000024 312  NULL    </quote>                 
+0000024 313  -----   -----                    
+0000024 320  CCB     but                      Z5 
+0000024 330  AT      the                      Z5 
+0000024 340  NN1     Game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000024 350  IO      of                       Z5 
+0000024 360  NN2     Thrones                  H5/S7.1+ S7.1+ 
+0000024 370  NN2     show-runners             Z99 
+0000024 380  VBDR    were                     A3+ Z5 
+0000024 390  RR      already                  T1.1.1 
+0000024 400  II      on                       M6[i37.3.1 A1.1.1[i37.3.1 T1.1.3[i37.3.1 Z5 
+0000024 410  APPGE   their                    M6[i37.3.2 A1.1.1[i37.3.2 T1.1.3[i37.3.2 Z8 
+0000024 420  NN1     way                      M6[i37.3.3 A1.1.1[i37.3.3 T1.1.3[i37.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 M6[i38.2.1 N5.2++[i38.2.1 O4.1[i38.2.1 
+0000024 430  II      out                      Z5 M6[i38.2.2 N5.2++[i38.2.2 O4.1[i38.2.2 
+0000024 440  AT      the                      Z5 
+0000024 450  NN1     door                     H2 H1@ 
+0000024 451  ,       ,                        
+0000024 460  VVG     waving                   Q1.1 M2 M1 
+0000024 470  CC      and                      Z5 
+0000024 480  VVG     patting                  E2+[i39.4.1 A1.1.1 
+0000024 490  PPX221  each                     Z8[i40.2.1 
+0000024 500  PPX222  other                    Z8[i40.2.2 
+0000024 510  II      on                       E2+[i39.4.2 Z5 
+0000024 520  AT      the                      E2+[i39.4.3 Z5 
+0000024 530  NN1     back                     E2+[i39.4.4 B1 M6 
+0000024 540  CSA     as                       Z5 
+0000024 550  PPHS2   they                     Z8mfn 
+0000024 560  VVD     went                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000024 561  .       .                        
+0000025 001  -----   -----                    
+0000026 010  NP1     Peter                    Z1mf[i41.2.1 Z3c[i41.2.1 Z1m 
+0000026 020  NP1     Dinklage                 Z1mf[i41.2.2 Z3c[i41.2.2 
+0000026 030  PPX1    himself                  Z8m 
+0000026 040  VM      could                    A7+ 
+0000026 050  XX      not                      Z6 
+0000026 060  VBI     be                       Z5 A3+ 
+0000026 070  VVN     reached                  M1 N3.3 Q2.1 X9.2+ 
+0000026 080  IF      for                      Z5 
+0000026 090  NN1     comment                  Q2.1 
+0000026 100  II      in                       Z5 
+0000026 110  AT1     a                        Z5 
+0000026 120  JJ      recent                   T3- 
+0000026 130  NN1     interview                Q2.1 
+0000026 140  AT      the                      Z5 
+0000026 150  NN1     actor                    K4/S2.2m A1.1.1/S2mf@ 
+0000026 160  VVD     expressed                Q1.1 B1% 
+0000026 170  VVG     feeling                  X2.1 E1 X3 
+0000026 180  JJ      anxious                  E6- 
+0000026 190  II      about                    Z5 
+0000026 200  VVG     devoting                 A9- 
+0000026 210  RG      so                       A13.3 
+0000026 220  DA1     much                     N5+ I1.3+ 
+0000026 230  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000026 240  II      to                       Z5 
+0000026 250  AT1     a                        Z5 
+0000026 260  JJ      single                   N5--- S5- S3.2- M3 
+0000026 270  NN1     project                  A1.1.1 P1 
+0000026 271  :       :                        
+0000028 001  NULL    <quote>                  
+0000028 002  -----   -----                    
+0000028 010  PPIS1   I                        Z8mf 
+0000028 011  VM      'll                      T1.1.3 
+0000028 020  VVI     tell                     Q2.2 Q2.1 X3 A10+ 
+0000028 030  PPY     you                      Z8mf 
+0000028 040  VV0%    true                     A5.2+ A5.4+ 
+0000028 041  ...     ..                       
+0000028 042  -----   -----                    
+0000028 050  NN1     Game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000028 060  IO      of                       Z5 
+0000028 070  NN2     Thrones                  H5/S7.1+ S7.1+ 
+0000028 080  VHZ     has                      Z5 A9+ A2.2 S4 
+0000028 090  VBN     been                     A3+ Z5 
+0000028 100  AT1     a                        Z5 
+0000028 110  JJ      wonderful                A5.1+ 
+0000028 120  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
+0000028 130  DB      all                      N5.1+ 
+0000028 140  RP      around                   M6 
+0000028 141  ,       ,                        
+0000028 150  RR      certainly                A7+ 
+0000028 151  .       .                        
+0000028 152  -----   -----                    
+0000028 160  CCB     But                      Z5 
+0000028 170  PPIS1   I                        Z8mf 
+0000028 180  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000028 190  VVI     wonder                   X2.1 
+0000028 200  CS      if                       Z7 
+0000028 210  PPIS1   I                        Z8mf 
+0000028 211  VBM     'm                       Z5 A3+ 
+0000028 220  XX      not                      Z6 
+0000028 230  VVG     limiting                 A1.7+ 
+0000028 240  PPX1    myself                   Z8mf 
+0000028 250  II      in                       Z5 
+0000028 260  DD      some                     N5 Z5 
+0000028 270  NN2     ways                     X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000028 271  .       .                        
+0000028 272  -----   -----                    
+0000028 280  PPIS1   I                        Z8mf 
+0000028 290  RR      recently                 T3--- 
+0000028 300  VHD     had                      S6+[i42.2.1 A9+ Z5 A2.2 S4 
+0000028 310  TO      to                       S6+[i42.2.2 Z5 
+0000028 320  VVI     turn                     X7-[i43.2.1 A1.1.1[i43.2.1 X3.2-/A2.1[i43.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000028 330  RP      down                     X7-[i43.2.2 A1.1.1[i43.2.2 X3.2-/A2.1[i43.2.2 
+0000028 340  AT1     a                        Z5 
+0000028 350  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000028 360  VVG     playing                  K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000028 370  NP1     Kelly                    Z1mf 
+0000028 371  GE      's                       Z5 
+0000028 380  JJT     newest                   T3--- 
+0000028 390  NN1     love                     S3.2 E2+ E2+/S2mf 
+0000028 400  NN1     interest                 X5.2+ I1.1 S8+ S1.1.3+ 
+0000028 410  II      on                       Z5 
+0000028 420  AT      The                      Z5 
+0000028 430  JJ      Big                      Y1/X2.1[i44.2.1 Y1/X4.1[i44.2.1 N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000028 440  NN1     Bang                     Y1/X2.1[i44.2.2 Y1/X4.1[i44.2.2 X3.2 A1.1.1 S3.2/B1 
+0000028 450  NN1     Theory                   X4.1 
+0000028 451  .       .                        
+0000028 452  -----   -----                    
+0000028 460  PPIS1   I                        Z8mf 
+0000028 470  VV0     love                     E2+ 
+0000028 480  CST     that                     Z8 Z5 
+0000028 490  VV0     show                     A10+ S1.1.1 
+0000028 491  !       !                        
+0000028 492  -----   -----                    
+0000028 500  PPH1    It                       Z8 
+0000028 510  VVD     killed                   L1- A12- A1.5.1 E4.1-/A2.2 
+0000028 520  PPIO1   me                       Z8mf 
+0000028 530  TO      to                       Z5 
+0000028 540  VHI     have                     S6+[i45.2.1 A9+ Z5 A2.2 S4 
+0000028 550  TO      to                       S6+[i45.2.2 Z5 
+0000028 560  VVI     turn                     X7-[i46.2.1 A1.1.1[i46.2.1 X3.2-/A2.1[i46.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000028 570  PPH1    it                       Z8 
+0000028 580  RP      down                     X7-[i46.2.2 A1.1.1[i46.2.2 X3.2-/A2.1[i46.2.2 
+0000028 581  .       .                        
+0000028 582  NULL    </quote>                 
+0000028 583  -----   -----                    
+0000030 010  DD1     This                     M6 Z5 Z8 
+0000030 020  NN1     reporter                 Q4.2/S2mf 
+0000030 021  ,       ,                        
+0000030 030  IF      for                      Z5 
+0000030 040  PN1     one                      Z8 
+0000030 041  ,       ,                        
+0000030 050  VVZ     stands                   M6 M2 M8 M1 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+ 
+0000030 060  II      in                       Z5 
+0000030 070  NN1     shock                    E5- B2- O3 
+0000030 080  CC      and                      Z5 
+0000030 090  NN1     awe                      E1 
+0000030 100  II      at                       Z5 
+0000030 110  AT      the                      Z5 
+0000030 120  NN1     decision                 X6+ 
+0000030 130  VVD     handed                   A9-[i47.2.1 A9- 
+0000030 140  RP      down                     A9-[i47.2.2 
+0000030 150  DD1     this                     Z8 M6 Z5 
+0000030 151  ,       ,                        
+0000030 160  AT      the                      Z5 
+0000030 170  MD      first                    N4 
+0000030 180  NNT1    day                      T1.3 
+0000030 190  IO      of                       Z5 
+0000030 200  NPM1    April                    T1.3 
+0000030 201  .       .                        
+0000030 202  -----   -----                    
+0000030 210  RT      Today                    T1.1.2 
+0000030 220  VBDZ    was                      A3+ Z5 
+0000030 230  JJ      supposed                 S6+ X7+ 
+0000030 240  TO      to                       Z5 
+0000030 250  VBI     be                       A3+ Z5 
+0000030 260  AT1     a                        Z5 
+0000030 270  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000030 280  NNT1    day                      T1.3 
+0000030 290  IF      for                      Z5 
+0000030 300  NN1     Game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000030 310  IO      of                       Z5 
+0000030 320  NN2     Thrones                  H5/E2+mf[i48.2.1 H5/S7.1+ S7.1+ 
+0000030 330  NN2     fans                     H5/E2+mf[i48.2.2 S2/E2+mf O2 
+0000030 340  IW      with                     Z5 
+0000030 350  NNT1    season                   T1.3 
+0000030 360  MC      3                        N1 T1.2 T3 T1.3 N3.2 
+0000030 370  VVG     kicking                  T2+[i49.2.1 K5.1[i49.2.1 X7-/M2[i49.2.1 Q2.2[i49.2.1 E3- A1.1.1 T2- 
+0000030 380  RP      off                      T2+[i49.2.2 K5.1[i49.2.2 X7-/M2[i49.2.2 Q2.2[i49.2.2 M6 K1 A1.1.1 A1.9 
+0000030 390  MD      last                     T1.1.1[i50.2.1 N4 
+0000030 400  NNT1    night                    T1.1.1[i50.2.2 T1.3 
+0000030 410  CC      and                      Z5 
+0000030 420  AT1     an                       Z5 
+0000030 430  RR      almost                   A13.4 
+0000030 440  JJ      assured                  A7+ S1.2.3+ 
+0000030 450  NN1     announcement             Q2.2 
+0000030 460  II      regarding                Z5 
+0000030 470  AT1     a                        Z5 
+0000030 480  MD      fourth                   N4 
+0000030 490  NNT1    season                   T1.3 
+0000030 491  .       .                        
+0000030 492  -----   -----                    
+0000030 500  PPIS1   I                        Z4[i51.2.1 Z8mf 
+0000030 510  VV0     suppose                  Z4[i51.2.2 X2.1 X7+ 
+0000030 520  PPIS2   we                       Z8 
+0000030 530  VM      should                   S6+ A7+ 
+0000030 540  DB      all                      N5.1+ 
+0000030 550  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000030 560  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000030 570  AT1     a                        Z5 
+0000030 580  JJ      deep                     N3.7+ N5+ O4.3 A4.2+ E4.1- X3.2 
+0000030 590  NN1     breath                   B1 N5-@ 
+0000030 600  CC      and                      Z5 
+0000030 610  VVI     trust                    X2.1 A9- E6+ X2.6 
+0000030 620  II      in                       Z5 
+0000030 630  AT      the                      Z5 
+0000030 640  NN1     wisdom                   X2.2+ S1.2.6+ A6.2+ 
+0000030 650  IO      of                       Z5 
+0000030 660  AT      the                      Z5 
+0000030 670  NN2     producers                K4/S7.1+/S2mf A1.1.1/S2mf 
+0000030 680  CC      and                      Z5 
+0000030 690  NN2     creators                 A1.1.1/S2mf A2.2/S2mf 
+0000030 700  CST     that                     Z8 Z5 
+0000030 710  VVD     brought                  M2 A2.2 
+0000030 720  PPIO2   us                       Z8 
+0000030 730  DD1     this                     M6 Z5 Z8 
+0000030 740  JJ      wonderful                A5.1+ 
+0000030 750  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000030 760  II      in                       Z4[i52.4.1 N4[i52.4.1 Z5 
+0000030 770  AT      the                      Z4[i52.4.2 N4[i52.4.2 Z5 
+0000030 780  MD      first                    Z4[i52.4.3 N4[i52.4.3 N4 
+0000030 790  NN1     place                    Z4[i52.4.4 N4[i52.4.4 M7 H1 A1.2 P1 
+0000030 791  .       .                        
+0000031 001  -----   -----                    
+0000032 010  PPIS2   We                       Z8 
+0000032 011  VM      'll                      T1.1.3 
+0000032 020  VVI     update                   T1.1.2 
+0000032 030  DD1     this                     M6 Z5 Z8 
+0000032 040  NN1     piece                    N5.1- O2 Q4 K2 K4 G3@ 
+0000032 050  CS      when                     Z5 
+0000032 060  PPIS2   we                       Z8 
+0000032 070  VV0     know                     X2.2+ S3.2/B1% 
+0000032 080  RRR     more                     A13.3 N6++ 
+0000032 090  II      about                    Z5 
+0000032 100  AT      the                      Z5 
+0000032 110  NN1     fate                     S9 A7+++/S7.1- A3+/S7.1- 
+0000032 120  IO      of                       Z5 
+0000032 130  NP1     Tyrion                   Z99 
+0000032 140  NN1     Lannister                Z99 
+0000032 141  .       .                        
+0000033 001  -----   -----                    
+0000034 010  UH      Goodbye                  Z4 
+0000034 011  ,       ,                        
+0000034 020  NP1     Peter                    Z1m 
+0000034 021  .       .                        
+0000037 001  NULL    **8;41;text              

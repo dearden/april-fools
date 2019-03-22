@@ -1,0 +1,801 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  II      As                       Z5 
+0000002 020  AT1     a                        Z5 
+0000002 030  NN1     retailer                 I2.2/S2mf 
+0000002 031  ,       ,                        
+0000002 040  APPGE   my                       Z8 
+0000002 050  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000002 060  VVZ     uses                     A1.5.1 S7.1+ 
+0000002 070  NN2     POS                      Q3 P1 
+0000002 080  NN2     terminals                M5/H1 M4/H1 O3 Y2 
+0000002 081  .       .                        
+0000002 082  -----   -----                    
+0000002 090  CS      While                    Z5 
+0000002 100  PPIS2   we                       Z8 
+0000002 110  VH0     have                     A9+ Z5 A2.2 S4 
+0000002 120  AT1     a                        N5+[i1.3.1 Z5 
+0000002 130  NN1     number                   N5+[i1.3.2 N5 N1 Q1.3 K2 Q4.2 
+0000002 140  IO      of                       N5+[i1.3.3 Z5 
+0000002 150  NN1     security                 G2.1 A15+ E6+ I1.1 
+0000002 160  VVZ     controls                 S7.1+ A1.7+ 
+0000002 170  II      in                       M6[i2.2.1 Z5 
+0000002 180  NN1     place                    M6[i2.2.2 M7 H1 A1.2 P1 
+0000002 181  ,       ,                        
+0000002 190  IW      with                     Z5 
+0000002 200  AT      the                      Z5 
+0000002 210  JJ      recent                   T3- 
+0000002 211  ...     ...                      
+0000003 001  -----   -----                    
+0000004 010  VV0     Sign                     Q1.2[i3.2.1 Q4.3@[i3.2.1 Q1.2 Q1.1 G2.1 I3.1 S9 
+0000004 020  RP@     in                       Q1.2[i3.2.2 Q4.3@[i3.2.2 M6 
+0000004 030  IF      for                      Z5 
+0000004 040  JJ      existing                 A3+ 
+0000004 050  NN2     members                  S5+/S2mf B1 
+0000004 060  VV0     Continue                 T2++ 
+0000004 070  VVG@    Reading                  Z2 Z3c 
+0000004 080  DD1     This                     M6 Z5 Z8 
+0000004 090  NN1     Article                  Q4.2 O2 Q3 G2.1/P1@ 
+0000004 100  VV0     Enjoy                    E2+ A9+ E4.1+ 
+0000004 110  DD1     this                     M6 Z5 Z8 
+0000004 120  NN1     article                  Q4.2 O2 Q3 G2.1/P1@ 
+0000004 130  II31    as                       N5++[i4.2.1 Z5 
+0000004 140  II32    well                     N5++[i4.2.2 
+0000004 150  II33    as                       Z5 
+0000004 160  DB      all                      N5.1+ 
+0000004 170  IO      of                       Z5 
+0000004 180  APPGE   our                      Z8 
+0000004 190  NN1     content                  Q2.1 A1.8+ N5 E4.1+% 
+0000004 191  ,       ,                        
+0000004 200  II      including                A1.8+ 
+0000004 210  NN2     E-Guides                 Z99 
+0000004 211  ,       ,                        
+0000004 220  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000004 221  ,       ,                        
+0000004 230  NN2     tips                     N5.1- M7/O4.2- I1 Q2.2 
+0000004 240  CC      and                      Z5 
+0000004 250  RRR     more                     A13.3 N6++ 
+0000004 251  .       .                        
+0000004 252  -----   -----                    
+0000004 260  NN1     Step                     M1 T1.2 H5 O2 A2.1+ A1.1.1 K1@ K5.1@ 
+0000004 270  MC      2                        N1 T1.2 T3 T1.3 N3.2 
+0000004 280  IO      of                       Z5 
+0000004 290  MC      2                        N1 T1.2 T3 T1.3 N3.2 
+0000004 291  :       :                        
+0000004 300  PPY     You                      Z8mf 
+0000004 310  VVD     forgot                   X2.2- 
+0000004 320  TO      to                       Z5 
+0000004 330  VVI     provide                  A9- S6+ 
+0000004 340  AT1     an                       Z5 
+0000004 350  NN1     Email                    Q1.3/Y2 
+0000004 360  NN1     Address                  H4 Q2.2 
+0000004 361  .       .                        
+0000004 362  -----   -----                    
+0000004 370  DD1     This                     M6 Z5 Z8 
+0000004 380  NN1     email                    Q1.3/Y2 
+0000004 390  NN1     address                  H4 Q2.2 
+0000004 400  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000004 401  XX      n't                      Z6 
+0000004 410  VVI     appear                   A8 A10+ A3+ G2.1 K4 Q4 
+0000004 420  TO      to                       Z5 
+0000004 430  VBI     be                       A3+ Z5 
+0000004 440  JJ      valid                    A5.2+ Q1.1 S7.4+ 
+0000004 441  .       .                        
+0000004 442  -----   -----                    
+0000004 450  DD1     This                     M6 Z5 Z8 
+0000004 460  NN1     email                    Q1.3/Y2 
+0000004 470  NN1     address                  H4 Q2.2 
+0000004 480  VBZ     is                       Z5 A3+ 
+0000004 490  RR      already                  T1.1.1 
+0000004 500  VVN     registered               Q1.2/G1.1 N3.1 A9+ Q2.1 A10+ X2.5+ 
+0000004 501  .       .                        
+0000004 502  -----   -----                    
+0000004 510  RR      Please                   Z4 
+0000004 520  NN1     login                    Z99 
+0000004 521  .       .                        
+0000004 522  -----   -----                    
+0000004 530  PPY     You                      Z8mf 
+0000004 540  VH0     have                     Z5 A9+ A2.2 S4 
+0000004 550  VVN     exceeded                 N5.2+ 
+0000004 560  AT      the                      Z5 
+0000004 570  JJ      maximum                  N5.1+ 
+0000004 580  NN1     character                S2mf K4/S2mf S1.2 S2mf/A6.2- Q1.2 A4.1 O4.2+ 
+0000004 590  NN1     limit                    N5.1 A1.7+ M7 
+0000004 591  .       .                        
+0000004 592  -----   -----                    
+0000004 600  RR      Please                   Z4 
+0000004 610  VV0     provide                  A9- S6+ 
+0000004 620  AT1     a                        Z5 
+0000004 630  JJ      Corporate                S5+ I2.1/S5+ 
+0000004 640  NN1     E-mail                   Y2/Q1.2[i5.2.1 Y2 
+0000004 650  NN1     Address                  Y2/Q1.2[i5.2.2 H4 Q2.2 
+0000004 651  .       .                        
+0000005 001  -----   -----                    
+0000006 010  II      By                       Z5 
+0000006 020  VVG     submitting               A9- S7.1- 
+0000006 030  APPGE   my                       Z8 
+0000006 040  NN1     Email                    Q1.3/Y2 
+0000006 050  NN1     address                  H4 Q2.2 
+0000006 060  PPIS1   I                        Z8mf 
+0000006 070  VV0     confirm                  A7+ Q2.2 S9@ 
+0000006 080  CST     that                     Z8 Z5 
+0000006 090  PPIS1   I                        Z8mf 
+0000006 100  VH0     have                     Z5 A9+ A2.2 S4 
+0000006 110  VVN     read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000006 120  CC      and                      Z5 
+0000006 130  VVN     accepted                 A9+ X2.5+ S1.2.1+ S7.4+ 
+0000006 140  AT      the                      Z5 
+0000006 150  NN2     Terms                    Q3 T1.3 A4.1 S6+ 
+0000006 160  IO      of                       Z5 
+0000006 170  NN1     Use                      A1.5.1 
+0000006 180  CC      and                      Z5 
+0000006 190  NN1     Declaration              Q2.2 
+0000006 200  IO      of                       Z5 
+0000006 210  NN1     Consent                  S7.4+ Q2.2 
+0000006 211  .       .                        
+0000006 212  -----   -----                    
+0000006 220  II      By                       Z5 
+0000006 230  VVG     submitting               A9- S7.1- 
+0000006 240  APPGE   your                     Z8 
+0000006 250  JJ      personal                 S5- S1.2.1+ 
+0000006 260  NN1     information              X2.2+ 
+0000006 261  ,       ,                        
+0000006 270  PPY     you                      Z8mf 
+0000006 280  VV0     agree                    A6.1+ Q2.2 
+0000006 290  CST     that                     Z5 Z8 
+0000006 300  NP1     TechTarget               Z99 
+0000006 310  CC      and                      Z5 
+0000006 320  APPGE   its                      Z8 
+0000006 330  NN2     partners                 S3.1/S2mf S3.2/S2mf S4mf 
+0000006 340  VM      may                      A7+ 
+0000006 350  VVI     contact                  Q2.2 
+0000006 360  PPY     you                      Z8mf 
+0000006 370  VVG     regarding                X2.1 
+0000006 380  JJ      relevant                 A1.2+ A1.5.2+ 
+0000006 390  NN1     content                  Q2.1 A1.8+ N5 E4.1+% 
+0000006 391  ,       ,                        
+0000006 400  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000006 410  CC      and                      Z5 
+0000006 420  JJ      special                  I1.3-[i6.2.1 A4.2+ A6.2- 
+0000006 430  NN2     offers                   I1.3-[i6.2.2 A9- Q2.2 I1.3- 
+0000006 431  .       .                        
+0000006 432  -----   -----                    
+0000006 440  PPY     You                      Z8mf 
+0000006 450  RR      also                     N5++ 
+0000006 460  VV0     agree                    A6.1+ Q2.2 
+0000006 470  CST     that                     Z5 Z8 
+0000006 480  APPGE   your                     Z8 
+0000006 490  JJ      personal                 S5- S1.2.1+ 
+0000006 500  NN1     information              X2.2+ 
+0000006 510  VM      may                      A7+ 
+0000006 520  VBI     be                       Z5 A3+ 
+0000006 530  VVN     transferred              M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5 
+0000006 540  CC      and                      Z5 
+0000006 550  VVN     processed                A1.1.1 Y2 M1 
+0000006 560  II      in                       Z5 
+0000006 570  AT      the                      Z5 
+0000006 580  NP1     United                   Z2c[i9.2.1 Z2c[i8.2.1 Z3c Z1mf[i7.2.1 Z3c[i7.2.1 
+0000006 590  NP1     States                   Z2c[i9.2.2 Z2c[i8.2.2 Z2 Z1mf[i7.2.2 Z3c[i7.2.2 
+0000006 591  ,       ,                        
+0000006 600  CC      and                      Z5 
+0000006 610  CST     that                     Z8 Z5 
+0000006 620  PPY     you                      Z8mf 
+0000006 630  VH0     have                     Z5 A9+ A2.2 S4 
+0000006 640  VVN     read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000006 650  CC      and                      Z5 
+0000006 660  VV0     agree                    A6.1+ Q2.2 
+0000006 670  II      to                       Z5 
+0000006 680  AT      the                      Z5 
+0000006 690  NN2     Terms                    Q3 T1.3 A4.1 S6+ 
+0000006 700  IO      of                       Z5 
+0000006 710  NN1     Use                      A1.5.1 
+0000006 720  CC      and                      Z5 
+0000006 730  AT      the                      Z5 
+0000006 740  NN1     Privacy                  A10- 
+0000006 750  NN1     Policy                   X7+ Q1.2 
+0000006 751  .       .                        
+0000007 001  -----   -----                    
+0000008 010  VV0     surge                    N5+/A2.1 
+0000008 020  II      in                       Z5 
+0000008 030  NN2     POS                      Q3 P1 
+0000008 040  NN1     malware                  Z99 
+0000008 041  ,       ,                        
+0000008 050  PPIS1   I                        Z8mf 
+0000008 060  VBM     am                       Z5 A3+ 
+0000008 070  VVG     wondering                X2.1 
+0000008 080  CSW@    if                       Z7 
+0000008 090  EX      there                    Z5 
+0000008 100  VBR     are                      A3+ Z5 
+0000008 110  DD      any                      N5 N5.1+ 
+0000008 120  JJ      additional               N5++ 
+0000008 130  NN2     measures                 N3.1 F2 K2 
+0000008 140  PPIS2   we                       Z8 
+0000008 150  VM      should                   S6+ A7+ 
+0000008 160  VVI     look                     X3.4[i10.2.1 X2.4[i10.2.1 X2.1[i10.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000008 170  II      at                       X3.4[i10.2.2 X2.4[i10.2.2 X2.1[i10.2.2 Z5 
+0000008 180  TO      to                       Z5 
+0000008 190  VVI     protect                  S8+/A15+ A10- 
+0000008 200  APPGE   our                      Z8 
+0000008 210  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000008 211  ?       ?                        
+0000009 001  -----   -----                    
+0000010 010  NP1     Cybercriminals           Z99 
+0000010 020  VBR     are                      Z5 A3+ 
+0000010 030  RR      always                   N6+++ 
+0000010 040  VVG     looking                  X2.4[i11.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000010 050  IF      for                      X2.4[i11.2.2 Z5 
+0000010 060  NN2     opportunities            A1.4 
+0000010 070  TO      to                       Z5 
+0000010 080  VVI     compromise               A6.1+/S1.1.2+ G2.2- 
+0000010 090  NN1     point-of-sale            I2.2 
+0000010 091  (       (                        
+0000010 100  NN2     POS                      Q3 P1 
+0000010 101  )       )                        
+0000010 110  NN2     terminals                M5/H1 M4/H1 O3 Y2 
+0000010 111  .       .                        
+0000010 112  -----   -----                    
+0000010 120  MC1     One                      N1 T3 T1.2 
+0000010 130  IO      of                       Z5 
+0000010 140  AT      the                      Z5 
+0000010 150  RGT     most                     A13.2 
+0000010 160  JJ      common                   A6.2+ N5++ S5+ O4.2- 
+0000010 170  NN2     methods                  X4.2 
+0000010 180  VVN     used                     A1.5.1 S7.1+ 
+0000010 190  IF      for                      Z5 
+0000010 200  NN2     attacks                  E3- G3 B2- A1.1.2 Q2.2 
+0000010 210  VBZ     is                       A3+ Z5 
+0000010 220  JJ      memory-scraping          Z99 
+0000010 230  NN1     malware                  Z99 
+0000010 231  ,       ,                        
+0000010 240  AT1     a                        Z5 
+0000010 250  NN1     type                     A4.1 A6.2+ S1.2 Q1.2 
+0000010 260  IO      of                       Z5 
+0000010 270  NN1     malware                  Z99 
+0000010 280  CST     that                     Z8 Z5 
+0000010 290  VVZ     locates                  M6 A10+ 
+0000010 300  CC      and                      Z5 
+0000010 310  VVZ     pilfers                  G2.1-/A9+ 
+0000010 320  JJ      sensitive                X2.5+/E1 E6- O4.1 B1 A4.2+ 
+0000010 330  NN      data                     X2.2/X2.4 Q1.1 
+0000010 340  II      from                     Z5 
+0000010 350  AT      the                      Z5 
+0000010 360  NN1     memory                   X2 X2.2+ S7.2+ Y2 
+0000010 370  IO      of                       Z5 
+0000010 380  AT      the                      Z5 
+0000010 390  NP2@    POS                      Q3 P1 
+0000010 400  NN1     terminal                 M5/H1 M4/H1 O3 Y2 
+0000010 401  .       .                        
+0000011 001  -----   -----                    
+0000012 010  MC      Two                      N1 T3 T1.2 
+0000012 020  IO      of                       Z5 
+0000012 030  AT      the                      Z5 
+0000012 040  RGT     most                     A13.2 
+0000012 050  JJ      recent                   T3- 
+0000012 060  NN2     examples                 A4.1 
+0000012 070  IO      of                       Z5 
+0000012 080  NN2     POS                      Q3 P1 
+0000012 090  NN1     malware                  Z99 
+0000012 100  NN2     attackers                Q2.2/S2mf E3-/S2mf G3/S2mf 
+0000012 110  VBR     are                      A3+ Z5 
+0000012 120  NP1     Dexter                   Z99 
+0000012 130  CC      and                      Z5 
+0000012 140  NP1     Kaptoxa                  Z99 
+0000012 141  .       .                        
+0000012 142  -----   -----                    
+0000012 150  AT      The                      Z5 
+0000012 160  NP1     Dexter                   Z99 
+0000012 170  NN1     malware                  Z99 
+0000012 171  ,       ,                        
+0000012 180  DDQ     which                    Z8 Z5 
+0000012 190  VBDZ    was                      Z5 A3+ 
+0000012 200  VVN@    discovered               A10+ 
+0000012 210  II      in                       Z5 
+0000012 220  NPM1    December                 T1.3 
+0000012 230  IO      of                       Z5 
+0000012 240  MC      2012                     N1 T1.2 T3 T1.3 N3.2 
+0000012 241  ,       ,                        
+0000012 250  VVD     infected                 B2 
+0000012 260  NNO2    hundreds                 N5+ 
+0000012 270  IO      of                       Z5 
+0000012 280  NN2     POS                      Q3 P1 
+0000012 290  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000012 300  II      across                   Z5 
+0000012 310  JJ      multiple                 N5+ 
+0000012 320  NN2     countries                M7 
+0000012 330  II      by                       Z5 
+0000012 340  VVG     injecting                B3 A9- Y1 
+0000012 350  PPX1    itself                   Z8 
+0000012 360  II      into                     Z5 
+0000012 370  AT      the                      Z5 
+0000012 380  NP1     Windows                  H2 T1.3 Y2 
+0000012 390  NN1     operating                Y2[i12.2.1 A1.1.1 B3 
+0000012 400  NN2     systems                  Y2[i12.2.2 X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000012 401  ,       ,                        
+0000012 410  VVG     staying                  M8 T2++ H4 
+0000012 420  JJ      active                   X5.2+ A1.1.1 
+0000012 430  II      through                  Z5 
+0000012 440  VVG     rewriting                Q1.2/N6+ 
+0000012 450  II      in                       Z5 
+0000012 460  AT      the                      Z5 
+0000012 470  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000012 480  NN1     registry                 G1.1/H1 
+0000012 490  NN1     key                      O2 X9.2+ Q1.2 
+0000012 491  ,       ,                        
+0000012 500  VVG     scraping                 A1.1.1 S7.1- 
+0000012 510  JJ      sensitive                X2.5+/E1 E6- O4.1 B1 A4.2+ 
+0000012 520  NN1     credit                   O2/I1[i13.2.1 I1.1 A5.1+ X2.1 P1 
+0000012 530  NN1     card                     O2/I1[i13.2.2 Q1.2 O1.1 I1.1/O2/Q1.1 K5.2 
+0000012 540  NN      data                     X2.2/X2.4 Q1.1 
+0000012 550  II      from                     Z5 
+0000012 560  AT      the                      Z5 
+0000012 570  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000012 571  ,       ,                        
+0000012 580  CC      and                      Z5 
+0000012 590  RR      finally                  N4 
+0000012 600  VVG     transferring             M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5 
+0000012 610  AT      the                      Z5 
+0000012 620  NN1     information              X2.2+ 
+0000012 630  II      to                       Z5 
+0000012 640  AT1     a                        Z5 
+0000012 650  JJ      remote                   N3.3+ S1.2.1- 
+0000012 660  JJ      command-and-control      Z99 
+0000012 670  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000012 671  .       .                        
+0000012 672  -----   -----                    
+0000012 680  AT1     A                        Z5 
+0000012 690  NNT1    year                     T1.3 P1c 
+0000012 700  RRR     later                    T4-- T1.1.3 N4 
+0000012 701  ,       ,                        
+0000012 710  AT      the                      Z5 
+0000012 720  JJT     second-largest           N3.2+++ N5+++ A11.1+++ 
+0000012 730  NN1     discount                 I1.3- 
+0000012 740  NN1     retailer                 I2.2/S2mf 
+0000012 750  II      in                       Z5 
+0000012 760  AT      the                      Z5 
+0000012 770  NP1     U.S.                     Z8 
+0000012 780  VVD     experienced              A2.1+/A3+ X3 
+0000012 790  AT1     a                        Z5 
+0000012 800  JJ      major                    A11.1+ N3.2+ 
+0000012 810  NN      data                     X2.2/X2.4 Q1.1 
+0000012 820  NN1     breach                   A1.9 O2 B1 
+0000012 830  II21    due                      A2.2[i14.2.1 
+0000012 840  II22    to                       A2.2[i14.2.2 Z5 
+0000012 850  NN2     POS                      Q3 P1 
+0000012 860  NN1     malware                  Z99 
+0000012 861  .       .                        
+0000012 862  -----   -----                    
+0000012 870  NN2     Reports                  Q2.2 X3.2 
+0000012 880  VH0     have                     Z5 A9+ A2.2 S4 
+0000012 890  VVN     revealed                 A10+ 
+0000012 900  DD1     that                     Z5 Z8 
+0000012 910  NN1     Target                   Z3c 
+0000012 911  GE      's                       Z5 
+0000012 920  NN2     POS                      Q3 P1 
+0000012 930  NN2     terminals                M5/H1 M4/H1 O3 Y2 
+0000012 940  VBDR    were                     Z5 A3+ 
+0000012 950  VVN     infected                 B2 
+0000012 960  IW      with                     Z5 
+0000012 970  NP1     Kaptoxa                  Z99 
+0000012 971  ,       ,                        
+0000012 980  AT1     a                        Z5 
+0000012 990  NN1     variety                  A6.3+ A4.1 K4 
+0000012 000  IO      of                       Z5 
+0000012 010  JJ      RAM-scraping             Z99 
+0000012 020  NN1     malware                  Z99 
+0000012 021  .       .                        
+0000012 022  -----   -----                    
+0000012 030  II      In                       Z5 
+0000012 040  DD1     this                     M6 Z5 Z8 
+0000012 050  NN1     breach                   A1.9 O2 B1 
+0000012 051  ,       ,                        
+0000012 060  NN2     attackers                Q2.2/S2mf E3-/S2mf G3/S2mf 
+0000012 070  VBDR    were                     A3+ Z5 
+0000012 080  JK      able                     X9.1+ 
+0000012 090  TO      to                       Z5 
+0000012 100  VVI     harvest                  F4 A9+ 
+0000012 110  AT      the                      Z5 
+0000012 120  NN1     credit                   O2/I1[i15.2.1 I1.1 A5.1+ X2.1 P1 
+0000012 130  NN1     card                     O2/I1[i15.2.2 Q1.2 O1.1 I1.1/O2/Q1.1 K5.2 
+0000012 140  NN1     information              X2.2+ 
+0000012 150  IO      of                       Z5 
+0000012 160  DAR     more                     N5++ 
+0000012 170  CSN     than                     Z5 
+0000012 180  MC      40                       N1[i16.2.1 T1.3[i16.2.1 I1[i16.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000012 190  NNO     million                  N1[i16.2.2 T1.3[i16.2.2 I1[i16.2.2 N1 I1 
+0000012 200  NN2     customers                I2.2/S2mf 
+0000012 201  .       .                        
+0000013 001  -----   -----                    
+0000014 010  RR      So                       Z5 A13.3 
+0000014 011  ,       ,                        
+0000014 020  DDQ     what                     Z8 Z5 
+0000014 030  VM      can                      A7+ 
+0000014 040  VBI     be                       Z5 A3+ 
+0000014 050  VDN     done                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000014 051  ?       ?                        
+0000014 052  -----   -----                    
+0000014 060  RRQ     How                      Z5 A13.3 
+0000014 070  VM      can                      A7+ 
+0000014 080  NN2     organizations            S5+c S7.1+ 
+0000014 090  VVI     protect                  S8+/A15+ A10- 
+0000014 100  PPX2    themselves               Z8 
+0000014 110  CC      and                      Z5 
+0000014 120  APPGE   their                    Z8 
+0000014 130  NN2     POS                      Q3 P1 
+0000014 140  NN2     terminals                M5/H1 M4/H1 O3 Y2 
+0000014 150  II      against                  Z5 
+0000014 160  DD1     this                     M6 Z5 Z8 
+0000014 170  RR      potentially              A7+ 
+0000014 180  JJ      disastrous               A5.1--- X9.2- 
+0000014 190  NN1     malware                  Z99 
+0000014 191  ?       ?                        
+0000015 001  -----   -----                    
+0000016 010  AT      The                      Z5 
+0000016 020  JJ      retail                   I2.2 
+0000016 030  NN1     industry                 I4c I2.1c 
+0000016 040  VVZ     represents               Q1.1 A6.2+ S1.1.3 A5.4- K4 
+0000016 050  AT1     a                        Z5 
+0000016 060  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000016 070  NN1     use                      A1.5.1 
+0000016 080  NN1     case                     A4.1 O2 G2.1 B3 X4.1 Q3 
+0000016 090  VVG     demonstrating            A10+ G1.2 
+0000016 100  RGQ@    how                      Z5 A13.3 
+0000016 110  JJ@     whitelisting             Z99 
+0000016 120  NN1     technology               Y1 
+0000016 130  VM      can                      A7+ 
+0000016 140  RR      effectively              A5.4+ X9.2+ 
+0000016 150  VVI     provide                  A9- S6+ 
+0000016 160  AT      the                      Z5 
+0000016 170  NN1     protection               S8+/A15+ A10- 
+0000016 180  VVN     needed                   S6+ 
+0000016 190  II      from                     Z5 
+0000016 200  JJ      unauthorized             S7.4- 
+0000016 210  NN2     processes                A1.1.1 X4.2 
+0000016 220  VVG     running                  M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000016 230  II      in                       Z5 
+0000016 240  NN2     POS                      Q3 P1 
+0000016 250  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000016 260  VMK     used                     T1.1.1[i17.2.1 A6.2+[i17.2.1 
+0000016 270  TO      to                       T1.1.1[i17.2.2 A6.2+[i17.2.2 Z5 
+0000016 280  VVI     process                  A1.1.1 Y2 M1 
+0000016 290  JJ      financial                I1 
+0000016 300  NN2     transactions             I2.2 S1.1.1 A1.1.1 
+0000016 301  .       .                        
+0000016 302  -----   -----                    
+0000016 310  NP1@    Whitelisting             Z99 
+0000016 320  VBZ     is                       A3+ Z5 
+0000016 330  AT1     an                       Z5 
+0000016 340  JJ      administrative           S7.1+ 
+0000016 350  NN1     process                  A1.1.1 X4.2 
+0000016 360  CST     that                     Z8 Z5 
+0000016 370  VVZ     allows                   S7.4+ S8+ X2.1 
+0000016 380  RR      only                     A14 
+0000016 390  JJ      pre-approved             Z99 
+0000016 400  NN2     applications             Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000016 410  TO      to                       Z5 
+0000016 420  VVI     execute                  L1- A1.1.1 
+0000016 430  II      in                       Z5 
+0000016 440  AT1     a                        Z5 
+0000016 450  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000016 451  .       .                        
+0000016 452  -----   -----                    
+0000016 460  PPH1    It                       Z8 
+0000016 470  VVZ     hardens                  O4.5/A2.1 
+0000016 480  AT      the                      Z5 
+0000016 490  NP2     OS                       Z5 
+0000016 500  CC      and                      Z5 
+0000016 510  NN2     applications             Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000016 520  TO      to                       Z5 
+0000016 530  VVI     ensure                   A7+ 
+0000016 540  CST     that                     Z5 Z8 
+0000016 550  NN2     executables              Z99 
+0000016 560  VM      can                      A7+ 
+0000016 561  XX      not                      Z6 
+0000016 570  VBI     be                       Z5 A3+ 
+0000016 580  VVN     deleted                  Q1.2 A1.1.2 
+0000016 581  ,       ,                        
+0000016 590  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000016 600  CC      or                       Z5 
+0000016 610  VVN     modified                 A2.1+ 
+0000016 620  CS      except                   Z5 
+0000016 630  II      by                       Z5 
+0000016 640  AT1     a                        Z5 
+0000016 650  JJ      trusted                  X2.1 A9- E6+ X2.6 
+0000016 660  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000016 661  .       .                        
+0000016 662  -----   -----                    
+0000016 670  II21    Due                      A2.2[i18.2.1 
+0000016 680  II22    to                       A2.2[i18.2.2 Z5 
+0000016 690  APPGE   their                    Z8 
+0000016 700  RR      generally                A6.2+ A4.2- A13.2 
+0000016 710  JJ      static                   M8 A2.1 
+0000016 720  NN1     nature                   W5 A4.1 S1.2 A6.2+ 
+0000016 721  ,       ,                        
+0000016 730  NN2     POS                      Q3 P1 
+0000016 740  NN2     terminals                M5/H1 M4/H1 O3 Y2 
+0000016 750  VBR     are                      Z5 A3+ 
+0000016 760  RR      highly                   A13.3 
+0000016 770  VVN     suited                   A1.2+ 
+0000016 780  TO      to                       Z5 
+0000016 790  VVI     benefit                  S8+ 
+0000016 800  II      from                     Z5 
+0000016 810  VVG     whitelisting             Z99 
+0000016 811  ,       ,                        
+0000016 820  II21    along                    Z5[i19.2.1 Z5 
+0000016 830  II22    with                     Z5[i19.2.2 
+0000016 840  NN2     ATMs                     I1/Y2 
+0000016 841  ,       ,                        
+0000016 850  NN2     kiosks                   I2.2/H1 
+0000016 860  CC      and                      S2mf[i20.2.1 Z5 
+0000016 870  JJ      other                    S2mf[i20.2.2 A6.1- 
+0000016 880  NN2     terminals                M5/H1 M4/H1 O3 Y2 
+0000016 890  CST     that                     Z8 Z5 
+0000016 900  VV0     process                  A1.1.1 Y2 M1 
+0000016 910  NN1     payment                  I1.1 
+0000016 920  NN      data                     X2.2/X2.4 Q1.1 
+0000016 921  .       .                        
+0000016 922  -----   -----                    
+0000016 930  RR      Properly                 A5.3+ S1.2.4+ A13.3 
+0000016 940  VVN     implemented              A1.1.1 A9-/O2 
+0000016 941  ,       ,                        
+0000016 950  VVG     whitelisting             Z99 
+0000016 960  II      in                       Z5 
+0000016 970  DD2     these                    Z5 Z8 
+0000016 980  NN2     endpoints                Z99 
+0000016 990  XX      not                      Z5[i21.2.1 Z6 
+0000016 000  RR      only                     Z5[i21.2.2 A14 
+0000016 010  VVZ     provides                 A9- S6+ 
+0000016 020  JJ      robust                   S1.2.5+ O4.1 
+0000016 030  NN1     security                 G2.1 A15+ E6+ I1.1 
+0000016 040  CCB     but                      Z5 
+0000016 050  RR      also                     N5++ 
+0000016 060  VVZ     satisfies                E4.2+ A1.2+ 
+0000016 070  AT1     a                        N5+[i22.3.1 Z5 
+0000016 080  NN1     number                   N5+[i22.3.2 N5 N1 Q1.3 K2 Q4.2 
+0000016 090  IO      of                       N5+[i22.3.3 Z5 
+0000016 100  NN1     Payment                  I1.1 
+0000016 110  NN1     Card                     I4/Q1.2c[i23.2.1 Q1.2 O1.1 I1.1/O2/Q1.1 K5.2 
+0000016 120  NN1     Industry                 I4/Q1.2c[i23.2.2 I4c I2.1c 
+0000016 130  NN      Data                     X2.2/X2.4 Q1.1 
+0000016 140  NN1     Security                 G2.1 A15+ E6+ I1.1 
+0000016 150  NN1     Standard                 A5.1 G2.2 Q1.1 O2@ 
+0000016 160  NN2     requirements             X7+ S6+ 
+0000016 161  .       .                        
+0000017 001  -----   -----                    
+0000018 010  RR      So                       Z5 A13.3 
+0000018 011  ,       ,                        
+0000018 020  RRQ     how                      Z5 A13.3 
+0000018 030  VM      should                   S6+ A7+ 
+0000018 040  NN1@    whitelisting             Z99 
+0000018 050  VBI     be                       Z5 A3+ 
+0000018 060  VVN     implemented              A1.1.1 A9-/O2 
+0000018 061  ?       ?                        
+0000018 062  -----   -----                    
+0000018 070  RR      Obviously                Z4 A11.2+ 
+0000018 071  ,       ,                        
+0000018 080  AT      the                      Z5 
+0000018 090  RGR     more                     A13.3 
+0000018 100  JJ      stringent                A1.7+ 
+0000018 110  AT      the                      Z5 
+0000018 120  NN1     process                  A1.1.1 X4.2 
+0000018 121  ,       ,                        
+0000018 130  AT      the                      Z5 
+0000018 140  DAR     more                     N5++ 
+0000018 150  NN1     protection               S8+/A15+ A10- 
+0000018 160  PPH1    it                       Z8 
+0000018 170  VVZ     provides                 A9- S6+ 
+0000018 171  .       .                        
+0000018 172  -----   -----                    
+0000018 180  NN2     Enterprises              I2.1 X8+ 
+0000018 190  VH0     have                     A9+ Z5 A2.2 S4 
+0000018 200  AT      the                      Z5 
+0000018 210  NN1     option                   X7+ I2.1 P1 
+0000018 220  IO      of                       Z5 
+0000018 230  RR      either                   Z5 
+0000018 240  VVG     employing                I3.1 A1.5.1 
+0000018 250  AT1     a                        Z5 
+0000018 260  JJ      third-party              S1.1.3-/S2mf 
+0000018 270  JJ@     whitelisting             Z99 
+0000018 280  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000018 290  CC      or                       Z5 
+0000018 300  VVG     creating                 A1.1.1 A2.2 E1 
+0000018 310  APPGE   their                    Z8[i24.2.1 Z8 
+0000018 320  DA      own                      Z8[i24.2.2 A9+ S5- 
+0000018 330  NN1     strategy                 X7+ 
+0000018 331  .       .                        
+0000018 332  -----   -----                    
+0000018 340  CS      When                     Z5 
+0000018 350  VVG     implementing             A1.1.1 A9-/O2 
+0000018 360  AT1     a                        Z5 
+0000018 370  JJ@     whitelisting             Z99 
+0000018 380  NN1     security                 G2.1 A15+ E6+ I1.1 
+0000018 390  NN1     strategy                 X7+ 
+0000018 400  II      in                       Z5 
+0000018 410  NN2     POS                      Q3 P1 
+0000018 420  NN2     terminals                M5/H1 M4/H1 O3 Y2 
+0000018 421  ,       ,                        
+0000018 430  JJ      various                  A6.3+ 
+0000018 440  NN1     deployment               M2 
+0000018 450  NN2     approaches               X4.2 M1 E1 S1.1.1 
+0000018 460  VV0     create                   A1.1.1 A2.2 E1 
+0000018 470  JJ      different                A6.1- 
+0000018 480  NN2     levels                   N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 
+0000018 490  IO      of                       Z5 
+0000018 500  NN1     success                  X9.2+ 
+0000018 501  .       .                        
+0000018 502  -----   -----                    
+0000018 510  EX      There                    Z5 
+0000018 520  VBR     are                      A3+ Z5 
+0000018 530  MC      five                     N1 T3 T1.2 
+0000018 540  JJ      main                     A11.1+ N5+++ 
+0000018 550  NN2     phases                   T1.3 
+0000018 560  II      in                       Z5 
+0000018 570  AT1     a                        Z5 
+0000018 580  JJ@     whitelisting             Z99 
+0000018 590  NN1     project                  A1.1.1 P1 
+0000018 591  :       :                        
+0000020 010  VVG     Documenting              Z99 
+0000020 020  AT      the                      Z5 
+0000020 030  NN2     requirements             X7+ S6+ 
+0000020 040  VVG     Designing                C1 X7+ 
+0000020 050  AT1     a                        Z5 
+0000020 060  NN1     strategy                 X7+ 
+0000020 070  NN1     Building                 H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000020 080  NN1     Testing                  P1 B3 X2.4 A12- 
+0000020 090  CC      and                      Z5 
+0000020 100  NN1     validation               S7.4+ A10+ 
+0000020 110  NN1     Deployment               M2 
+0000022 010  RR      Also                     N5++ 
+0000022 020  VV0     note                     Q2.1 Q1.2 
+0000022 030  CST     that                     Z8 Z5 
+0000022 040  CS      before                   Z5 
+0000022 050  AT1     a                        Z5 
+0000022 060  JJ@     whitelisting             Z99 
+0000022 070  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000022 080  VBZ     is                       Z5 A3+ 
+0000022 090  VVN     deployed                 M2 
+0000022 100  II      to                       Z5 
+0000022 110  DD      any                      N5.1+ N5 
+0000022 120  NN1     production               A1.1.1/X4.2[i25.2.1 A1.1.1 A10+ K4 K3 Q4.3 
+0000022 130  NN1     system                   A1.1.1/X4.2[i25.2.2 X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000022 131  ,       ,                        
+0000022 140  AT1     a                        Z5 
+0000022 150  JJ      robust                   S1.2.5+ O4.1 
+0000022 160  NN1     testing                  P1 B3 X2.4 A12- 
+0000022 170  NN1     plan                     X7+ C1/H1 
+0000022 180  CC      and                      Z5 
+0000022 190  NN1     incident                 A3+/A5.1- 
+0000022 200  NN1     response                 Q2.1 S1.1.2+ 
+0000022 210  NN1     procedure                X4.2 
+0000022 220  VM      must                     S6+ A7+ 
+0000022 230  VBI     be                       Z5 A3+ 
+0000022 240  VVN     written                  Q1.2 I2.1 
+0000022 250  CS21    so                       Z5[i26.2.1 Z5 
+0000022 260  CS22    that                     Z5[i26.2.2 Z5 Z8 
+0000022 270  JJ@     rogue                    S5- 
+0000022 280  NN2     processes                A1.1.1 X4.2 
+0000022 290  CC      or                       Z5 
+0000022 300  NN1     application              Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000022 310  VVZ     detects                  A10+ 
+0000022 320  VM      can                      A7+ 
+0000022 330  VBI     be                       Z5 A3+ 
+0000022 340  VVN     called                   Q2.2[i27.2.1 Q2.2 S1.1.1 Q1.3 S9% 
+0000022 350  RP      out                      Q2.2[i27.2.2 M6 
+0000022 360  CC      and                      Z5 
+0000022 370  VVN     responded                S1.1.2+ Q2.2 
+0000022 380  II      to                       Z5 
+0000022 390  RR      quickly                  N3.8+ 
+0000022 400  BCL21   in                       Z5[i28.3.1 Z5[i29.2.1 
+0000022 410  BCL22   order                    Z5[i28.3.2 Z5[i29.2.2 
+0000022 420  TO      to                       Z5[i28.3.3 Z5 
+0000022 430  VVI     minimize                 N5--- 
+0000022 440  AT      the                      Z5 
+0000022 450  NN1     risk                     A15- A1.4 
+0000022 460  CC      and                      Z5 
+0000022 470  VVI     reduce                   N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000022 480  AT      the                      Z5 
+0000022 490  NN1     impact                   A2.2 A1.1.1 
+0000022 500  II      to                       Z5 
+0000022 510  AT      the                      Z5 
+0000022 520  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000022 521  .       .                        
+0000023 001  -----   -----                    
+0000024 010  CS@     Once                     Z5 
+0000024 020  AT      the                      Z5 
+0000024 030  NN1     testing                  P1 B3 X2.4 A12- 
+0000024 040  CC      and                      Z5 
+0000024 050  NN1     validation               S7.4+ A10+ 
+0000024 060  NN1     phase                    T1.3 
+0000024 070  VBZ     is                       A3+ Z5 
+0000024 080  JJ      complete                 N5.1+ T2- N3.2+ 
+0000024 081  ,       ,                        
+0000024 090  AT      the                      Z5 
+0000024 100  JJ@     whitelisting             Z99 
+0000024 110  NN1     program                  Y2 X7+ Q4.3 Q1.2 P1 
+0000024 120  VM      can                      A7+ 
+0000024 130  VBI     be                       Z5 A3+ 
+0000024 140  VVN     pushed                   M2 M1 S7.1+ X8+ I2.2 F3 I3.1- 
+0000024 150  II      to                       Z5 
+0000024 160  NN1     production               A1.1.1/X4.2[i30.2.1 A1.1.1 A10+ K4 K3 Q4.3 
+0000024 170  NN2     systems                  A1.1.1/X4.2[i30.2.2 X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000024 180  II      through                  Z5 
+0000024 190  AT1     an                       Z5 
+0000024 200  JJ      existing                 A3+ 
+0000024 210  JJ@     patching                 Z99 
+0000024 220  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000024 230  CC      or                       Z5 
+0000024 240  VVN     packaged                 A1.1.1 
+0000024 250  II      as                       Z5 
+0000024 260  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000024 270  IO      of                       Z5 
+0000024 280  AT      the                      Z5 
+0000024 290  NP2     OS                       Z5 
+0000024 300  NN1     image                    O4.1 A8 X2.1 C1 
+0000024 310  IF      for                      Z5 
+0000024 320  JJ      new                      T3- 
+0000024 330  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000024 331  .       .                        
+0000024 332  -----   -----                    
+0000024 340  PPH1    It                       Z8 
+0000024 350  VBZ     is                       A3+ Z5 
+0000024 360  JJ      critical                 Q2.2/E2- X2.4 A11.1+ A15- 
+0000024 370  CST     that                     Z5 Z8 
+0000024 380  DD      any                      N5.1+ N5 
+0000024 390  JJ@     whitelisting             Z99 
+0000024 400  NN1     strategy                 X7+ 
+0000024 410  RR      also                     N5++ 
+0000024 420  VH0     have                     A9+ Z5 A2.2 S4 
+0000024 430  NN1     reporting                Q2.2 S7.1- 
+0000024 440  CC      and                      Z5 
+0000024 450  VVG     logging                  Q1.2 Y2 F4 
+0000024 460  NN2     features                 O4.1 Q4.2 Q4.3 W3 
+0000024 470  IF      for                      Z5 
+0000024 480  VVG     monitoring               X2.4 
+0000024 490  CC      and                      Z5 
+0000024 500  NN1     compliance               A6.1+ S7.1- 
+0000024 510  NN2     requirements             X7+ S6+ 
+0000024 511  .       .                        
+0000024 512  -----   -----                    
+0000024 520  DD2     These                    Z8 Z5 
+0000024 530  VM      will                     T1.1.3 
+0000024 540  RR      also                     N5++ 
+0000024 550  VVI     help                     S8+ 
+0000024 560  VVI     ensure                   A7+ 
+0000024 570  CST     that                     Z5 Z8 
+0000024 580  AT      the                      Z5 
+0000024 590  NN1     application              Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000024 600  VBZ     is                       Z5 A3+ 
+0000024 610  VVG     running                  M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000024 620  CC      and                      Z5 
+0000024 630  VBZ     is                       A3+ Z5 
+0000024 640  JJ      healthy                  B2+ X9.2+ A5.1+ 
+0000024 650  CSA     as                       Z5 
+0000024 660  VVN     expected                 X2.6+ B1 
+0000024 661  .       .                        
+0000024 662  -----   -----                    
+0000024 670  RR      Additionally             N5++ 
+0000024 671  ,       ,                        
+0000024 680  VM      should                   S6+ A7+ 
+0000024 690  EX      there                    Z5 
+0000024 700  VBI     be                       A3+ Z5 
+0000024 710  AT1     a                        Z5 
+0000024 720  NN1     reporting                Q2.2 S7.1- 
+0000024 730  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000024 731  ,       ,                        
+0000024 740  AT1     an                       Z5 
+0000024 750  NN1@    alert                    X2.6+/A15- 
+0000024 760  VM      will                     T1.1.3 
+0000024 770  VVI     notify                   Q2.1 
+0000024 780  AT      the                      Z5 
+0000024 790  JJ      appropriate              A1.2+ 
+0000024 800  NN1     support                  S8+ O2 I1.1 B5% 
+0000024 810  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000024 820  TO      to                       Z5 
+0000024 830  VVI     look                     X2.4[i31.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000024 840  II      into                     X2.4[i31.2.2 Z5 
+0000024 850  CC      and                      Z5 
+0000024 860  VVI     fix                      A1.7+ X6+ S8+/A1.1.2- A5.1+/A2.1 X5.1+ G2.2- 
+0000024 870  AT      the                      Z5 
+0000024 880  JJ@     reported                 Q2.2 
+0000024 890  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000024 891  .       .                        
+0000026 001  NULL    **8;7;text               

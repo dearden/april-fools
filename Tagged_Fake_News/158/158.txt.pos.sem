@@ -1,0 +1,1309 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  AT      The                      Z5 
+0000002 020  JJ      presidential             G1.1/S7.1+ 
+0000002 030  NN2     candidates               G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
+0000002 040  VH0     have                     A9+ Z5 A2.2 S4 
+0000002 050  RR      wildly                   A13.3 A1.7- 
+0000002 060  JJ      varying                  A6.1- A6.3+ A2.1+ 
+0000002 070  NN1     tax                      I1.1/G1.1 
+0000002 080  NN2     proposals                Q2.2 X7+ S3.2/Q2.2 
+0000002 081  .       .                        
+0000003 001  -----   -----                    
+0000004 010  NP1     Donald                   Z1mf[i1.2.1 Z3c[i1.2.1 Z1mf 
+0000004 020  NN1     Trump                    Z1mf[i1.2.2 Z3c[i1.2.2 Z1mf 
+0000004 030  CC      and                      Z5 
+0000004 040  NP1     Ted                      Z1mf[i2.2.1 Z3c[i2.2.1 Z1m 
+0000004 050  NP1     Cruz                     Z1mf[i2.2.2 Z3c[i2.2.2 Z2 
+0000004 060  VV0     propose                  Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
+0000004 070  JJ      massive                  N3.2+ 
+0000004 080  NN2     cuts                     A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
+0000004 090  CST     that                     Z8 Z5 
+0000004 100  VM      would                    A7+ 
+0000004 110  RR      greatly                  A13.3 A5.1+ 
+0000004 120  VVI     reduce                   N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000004 130  JJ      federal                  S5+ 
+0000004 140  NN1     income                   G1.1/I1[i3.2.1 I1.1 
+0000004 150  NN2     taxes                    G1.1/I1[i3.2.2 I1.1/G1.1 
+0000004 160  II      on                       Z5 
+0000004 170  PN1     everyone                 Z8/N5.1+c 
+0000004 171  ,       ,                        
+0000004 180  RR      especially               A14 
+0000004 190  AT      the                      Z5 
+0000004 200  JJ      wealthy                  I1.1+ 
+0000004 201  ,       ,                        
+0000004 210  CS      while                    Z5 
+0000004 220  VVG     cutting                  A1.1.1 N5-/A2.1 T2- Q4.3 K5.1 B1 
+0000004 230  AT1     a                        Z5 
+0000004 240  JJ      wide                     N3.7+ N5+ A4.2- A6.3+ X9.2-@ K5.1@ 
+0000004 250  NN1     host                     S2mf B1@ Y2@ S9% 
+0000004 260  IO      of                       Z5 
+0000004 270  NN1     government               G1.1c 
+0000004 280  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000004 281  .       .                        
+0000004 282  -----   -----                    
+0000004 290  RR      Meanwhile                T1.1.2 
+0000004 291  ,       ,                        
+0000004 300  NP1     Bernie                   Z1mf[i4.2.1 Z3c[i4.2.1 
+0000004 310  NP1     Sanders                  Z1mf[i4.2.2 Z3c[i4.2.2 
+0000004 320  VVZ     proposes                 Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
+0000004 330  RR      virtually                A13.4 
+0000004 340  AT      the                      Z5 
+0000004 350  JJ      opposite                 M6 A6.1- 
+0000004 351  :       :                        
+0000004 360  NN1     tax                      I1.1/G1.1 
+0000004 370  VVZ     increases                N5+/A2.1 
+0000004 380  II      on                       Z5 
+0000004 390  PN1     everyone                 Z8/N5.1+c 
+0000004 391  ,       ,                        
+0000004 400  IW      with                     Z5 
+0000004 410  NN2     hikes                    M1 I1.3+/A2.1 
+0000004 420  II      on                       Z5 
+0000004 430  AT      the                      Z5 
+0000004 440  JJ      wealthy                  I1.1+ 
+0000004 450  RR      especially               A14 
+0000004 451  ,       ,                        
+0000004 460  CS      while                    Z5 
+0000004 470  VVG     adding                   N5+/A2.1 N2 A1.8+ 
+0000004 480  JJ      comprehensive            A1.8+ P1 
+0000004 490  NN1     government               G1.1c 
+0000004 500  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000004 501  .       .                        
+0000004 502  -----   -----                    
+0000004 510  CC      And                      Z5 
+0000004 520  NP1     Hillary                  Z1mf[i5.2.1 Z3c[i5.2.1 
+0000004 530  NP1     Clinton                  Z1mf[i5.2.2 Z3c[i5.2.2 Z1mf 
+0000004 540  VVZ     proposes                 Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
+0000004 550  DA1     much                     N5+ I1.3+ 
+0000004 560  JJR     smaller                  N3.2-- N3.7-- N5-- T3-- A11.1-- S5--/I2.1 X3.2- A5.1-- 
+0000004 570  NN1     tax                      I1.1/G1.1 
+0000004 580  NN2     increases                N5+/A2.1 
+0000004 581  ,       ,                        
+0000004 590  RR@     all                      A13.2 
+0000004 600  VVN     focused                  X5.1+ X3.4 A4.2+ 
+0000004 610  II      on                       Z5 
+0000004 620  AT      the                      Z5 
+0000004 630  JJ      rich                     I1.1+ O4.1 N5+ X5.2+ E4.1+ 
+0000004 631  .       .                        
+0000005 001  -----   -----                    
+0000006 010  CCB     But                      Z5 
+0000006 020  DDQ     what                     Z8 Z5 
+0000006 030  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000006 040  APPGE   their                    Z8 
+0000006 050  NN2     plans                    X7+ C1/H1 
+0000006 060  VVI     mean                     Q1.1 X7+ 
+0000006 070  IF      for                      Z5 
+0000006 080  APPGE   your                     Z8 
+0000006 090  JJ      federal                  S5+ 
+0000006 100  NN1     tax                      I1.1/G1.1 
+0000006 110  NN1     liability                A1.5.2- I1.2 G2.1- 
+0000006 111  ?       ?                        
+0000007 001  -----   -----                    
+0000008 010  PPIS2   We                       Z8 
+0000008 020  VVD     partnered                A9-[i6.2.1 S3.1 
+0000008 030  IW      with                     A9-[i6.2.2 Z5 
+0000008 040  AT      the                      Z5 
+0000008 050  NN1     Tax                      I1.1/G1.1 
+0000008 060  NN1     Policy                   X7+ Q1.2 
+0000008 070  NN1     Center                   M6 H1c M7c G1.2c K5.1mfn 
+0000008 080  TO      to                       Z5 
+0000008 090  VVI     create                   A1.1.1 A2.2 E1 
+0000008 100  AT1     a                        Z5 
+0000008 110  NN1     calculator               Y2/N2 
+0000008 120  CST     that                     Z8 Z5 
+0000008 130  VM      will                     T1.1.3 
+0000008 140  VVI     estimate                 X6/A7- N2/A7- 
+0000008 150  RRQ     how                      Z5 A13.3 
+0000008 160  DD1     each                     N5.1+ 
+0000008 170  JJ      presidential             G1.1/S7.1+ 
+0000008 180  NN1     candidate                G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
+0000008 181  GE      's                       Z5 
+0000008 190  NN1     tax                      I1.1/G1.1 
+0000008 200  NN1     plan                     X7+ C1/H1 
+0000008 210  VM      would                    A7+ 
+0000008 220  VVI     affect                   A2.1+ A5.4-/A8 
+0000008 230  PPY     you                      Z8mf 
+0000008 240  CC      or                       Z5 
+0000008 241  ,       ,                        
+0000008 250  RGR     more                     A13.3 
+0000008 260  RR      accurately               A5.3+ 
+0000008 261  ,       ,                        
+0000008 270  NN      people                   S2mfc 
+0000008 280  VV0@    like                     E2+ 
+0000008 290  PPY     you                      Z8mf 
+0000008 291  .       .                        
+0000008 292  -----   -----                    
+0000008 300  REX21   For                      Z5[i7.2.1 
+0000008 310  REX22   example                  Z5[i7.2.2 
+0000008 311  ,       ,                        
+0000008 320  CS      if                       Z7 
+0000008 330  PPY     you                      Z8mf 
+0000008 340  VBR     are                      A3+ Z5 
+0000008 350  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000008 360  IO      of                       Z5 
+0000008 370  AT1     a                        N5[i8.2.1 S4[i8.2.1 Z5 
+0000008 380  NN1     couple                   N5[i8.2.2 S4[i8.2.2 N5+ S4c 
+0000008 390  IW      with                     Z5 
+0000008 400  MC      two                      N1 T3 T1.2 
+0000008 410  NN2     children                 S2mf/T3- S4mf 
+0000008 420  VVG     earning                  A9+/I1 S1.1.4+ 
+0000008 430  NNU     $38,000                  Z99 
+0000008 440  AT1     a                        Z5 
+0000008 450  NNT1    year                     T1.3 P1c 
+0000008 451  ,       ,                        
+0000008 460  DD1     this                     M6 Z5 Z8 
+0000008 470  NN1     calculator               Y2/N2 
+0000008 480  VVZ     tells                    Q2.2 Q2.1 X3 A10+ 
+0000008 490  PPY     you                      Z8mf 
+0000008 500  AT      the                      Z5 
+0000008 510  JJ      average                  A6.2+ A5.1 N2 
+0000008 520  NN1     change                   A2.1+ I1 B1 
+0000008 530  II      in                       Z5 
+0000008 540  JJ      federal                  S5+ 
+0000008 550  NN2     taxes                    I1.1/G1.1 
+0000008 560  IF      for                      Z5 
+0000008 570  DB      all                      N5.1+ 
+0000008 580  NN2     couples                  S3.2/S2mf 
+0000008 590  IW      with                     Z5 
+0000008 600  MC      two                      N1 T3 T1.2 
+0000008 610  NN2     children                 S2mf/T3- S4mf 
+0000008 620  PNQS    who                      Z8 
+0000008 630  VV0     earn                     A9+/I1 S1.1.4+ 
+0000008 640  II      between                  Z5 
+0000008 650  NNU     $35,000                  Z99 
+0000008 660  CC      and                      Z5 
+0000008 670  NNU     $40,000                  Z99 
+0000008 680  AT1     a                        Z5 
+0000008 690  NNT1    year                     T1.3 P1c 
+0000008 691  .       .                        
+0000009 001  -----   -----                    
+0000010 010  CS      Before                   Z5 
+0000010 020  PPY     you                      Z8mf 
+0000010 030  VV0     change                   A2.1+ I1 B5 
+0000010 040  APPGE   your                     Z8 
+0000010 050  NN1     vacation                 T1.3/P1- K1 
+0000010 060  NN2     plans                    X7+ C1/H1 
+0000010 070  VVN     based                    A2.2[i9.2.1 T2+ M6 A2.2 
+0000010 080  II      on                       A2.2[i9.2.2 Z5 
+0000010 090  DD2     these                    Z5 Z8 
+0000010 100  NN2     numbers                  N5 N1 Q1.3 K2 Q4.2 
+0000010 101  ,       ,                        
+0000010 110  VV0     keep                     A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000010 120  II      in                       X2.1[i10.2.1 Z5 
+0000010 130  NN1     mind                     X2.1[i10.2.2 X1 
+0000010 140  PPHS2   they                     Z8mfn 
+0000010 150  VBR     are                      A3+ Z5 
+0000010 160  JJ      only                     A14 
+0000010 170  NN2     estimates                X6/A7- N2/A7- I2.1/Q1.2 
+0000010 171  .       .                        
+0000010 172  -----   -----                    
+0000010 180  AT1     Every                    N5.1+ 
+0000010 190  NN1     taxpayer                 I1.1/S2mf 
+0000010 200  VHZ     has                      A9+ Z5 A2.2 S4 
+0000010 210  AT1     a                        Z5 
+0000010 220  RR      slightly                 A13.6 
+0000010 230  JJ      different                A6.1- 
+0000010 240  NN1     situation                A3+ O4.1 M6 I3.1@ 
+0000010 250  PN1     someone                  Z8mfc 
+0000010 260  VM      might                    A7+ 
+0000010 270  VBI     be                       Z5 A3+ 
+0000010 280  VVG     deducting                N5- 
+0000010 290  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000010 300  NN2     expenses                 I1.3 
+0000010 301  ,       ,                        
+0000010 310  REX21   for                      Z5[i11.2.1 
+0000010 320  REX22   example                  Z5[i11.2.2 
+0000010 321  ,       ,                        
+0000010 330  CS      while                    Z5 
+0000010 340  DD1     another                  A6.1- N5++ 
+0000010 350  NN1     person                   S2mfc 
+0000010 360  VM      will                     T1.1.3 
+0000010 370  VBI     be                       Z5 A3+ 
+0000010 380  VVG     paying                   I1.2 A9- I1.1/I3.1 
+0000010 390  AT1     a                        Z5 
+0000010 400  NN1     tax                      I1.1/G1.1 
+0000010 410  IF      for                      Z5 
+0000010 420  XX      not                      Z6 
+0000010 430  VVG     carrying                 M2 A9+ Q4 S7.4+ B1% B2-% 
+0000010 440  NN1     insurance                I1/A15- 
+0000010 450  NN1     coverage                 Q4/N5 A1.8+ N5 
+0000010 451  .       .                        
+0000010 452  -----   -----                    
+0000010 460  DD1     This                     Z8 M6 Z5 
+0000010 470  VVZ     creates                  A1.1.1 A2.2 E1 
+0000010 480  NNO2    millions                 N1 N5+ I1 
+0000010 490  IO      of                       Z5 
+0000010 500  JJ      different                A6.1- 
+0000010 510  NN2     scenarios                K4 Q1.2 X7+ 
+0000010 511  .       .                        
+0000011 001  -----   -----                    
+0000012 010  VVG     Accounting               Q2.2[i12.2.1 A2.2[i12.2.1 N2[i12.2.1 Q2.2 
+0000012 020  IF      for                      Q2.2[i12.2.2 A2.2[i12.2.2 N2[i12.2.2 Z5 
+0000012 030  DB      all                      N5.1+ 
+0000012 040  IO      of                       Z5 
+0000012 050  DD1     that                     Z8 Z5 
+0000012 060  VBZ     is                       A3+ Z5 
+0000012 070  RR      prohibitively            N5.2+ 
+0000012 080  JJ      complicated              A12- 
+0000012 090  CC      and                      Z5 
+0000012 100  JJ      time-consuming           T1.3+ 
+0000012 101  .       .                        
+0000012 102  -----   -----                    
+0000012 110  CCB     But                      Z5 
+0000012 120  DDQ     what                     Z8 Z5 
+0000012 130  PPIS2   we                       Z8 
+0000012 140  VH0     have                     Z5 A9+ A2.2 S4 
+0000012 150  VDN     done                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000012 160  VBZ     is                       A3+ Z5 
+0000012 170  VV0     simplify                 A12+/A2.1 
+0000012 180  AT      the                      Z5 
+0000012 190  NN1     process                  A1.1.1 X4.2 
+0000012 200  TO      to                       Z5 
+0000012 210  VVI     consider                 X2.1 X2.4 X6 
+0000012 220  RR      only                     A14 
+0000012 230  AT      the                      Z5 
+0000012 240  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
+0000012 250  NN2     factors                  A2.2 A4.1 N2 I2.1/S2mf@ 
+0000012 251  (       (                        
+0000012 260  NN1     income                   I1.1 
+0000012 261  ,       ,                        
+0000012 270  JJ      marital                  S4 
+0000012 280  NN1     status                   S7.1 A4.1 A11.1 
+0000012 281  ,       ,                        
+0000012 290  CC      and                      Z5 
+0000012 300  NN2     children                 S2mf/T3- S4mf 
+0000012 301  )       )                        
+0000012 310  CC      and                      Z5 
+0000012 320  JJ      only                     A14 
+0000012 330  NN1     look                     X3.4[i13.2.1 X2.4[i13.2.1 X2.1[i13.2.1 A8 X3.4 X2.4 O4.1 
+0000012 340  II      at                       X3.4[i13.2.2 X2.4[i13.2.2 X2.1[i13.2.2 Z5 
+0000012 350  AT      the                      Z5 
+0000012 360  MC      four                     N1 T3 T1.2 
+0000012 370  NN2     taxes                    I1.1/G1.1 
+0000012 380  IW      with                     Z5 
+0000012 390  AT      the                      Z5 
+0000012 400  JJT     largest                  N3.2+++ N5+++ A11.1+++ 
+0000012 410  NN1     impact                   A2.2 A1.1.1 
+0000012 411  (       (                        
+0000012 420  NN1     individual               S2mf 
+0000012 430  CC      and                      Z5 
+0000012 440  JJ      corporate                S5+ I2.1/S5+ 
+0000012 450  NN1     income                   G1.1/I1[i14.2.1 I1.1 
+0000012 460  NN2     taxes                    G1.1/I1[i14.2.2 I1.1/G1.1 
+0000012 461  ,       ,                        
+0000012 470  NN1     payroll                  I3.1 
+0000012 480  NN2     taxes                    I1.1/G1.1 
+0000012 481  ,       ,                        
+0000012 490  CC      and                      Z5 
+0000012 500  NN1     excise                   G1.1/I1c 
+0000012 510  NN2     taxes                    I1.1/G1.1 
+0000012 511  )       )                        
+0000012 512  .       .                        
+0000013 001  -----   -----                    
+0000014 010  VV0     Try                      X8+ X2.4 Q2.2 G2.1 A12- 
+0000014 020  PPH1    it                       Z8 
+0000014 030  PPX1    yourself                 Z8 
+0000014 040  RL      below                    M6 
+0000014 041  .       .                        
+0000015 001  -----   -----                    
+0000016 001  (       (                        
+0000016 010  VV0     Note                     Q2.1 Q1.2 
+0000016 011  :       :                        
+0000016 020  AT      The                      Z5 
+0000016 030  NN1     Tax                      I1.1/G1.1 
+0000016 040  NN1     Policy                   X7+ Q1.2 
+0000016 050  NN1     Center                   M6 H1c M7c G1.2c K5.1mfn 
+0000016 060  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000016 070  XX      not                      Z6 
+0000016 080  VVI     perform                  A1.1.1 K4 X9.2+ 
+0000016 090  AT1     an                       Z5 
+0000016 100  NN1     analysis                 X2.4 Y1 
+0000016 110  IO      of                       Z5 
+0000016 120  NP1     John                     Z1mf[i15.2.1 Z3c[i15.2.1 Z1m S9/O1.2 
+0000016 130  NP1     Kasich                   Z1mf[i15.2.2 Z3c[i15.2.2 
+0000016 131  GE      's                       Z5 
+0000016 140  NN1     tax                      I1.1/G1.1 
+0000016 150  NN1     plan                     X7+ C1/H1 
+0000016 160  CS      because                  Z5/A2.2 
+0000016 170  APPGE   his                      Z8m 
+0000016 180  NN1     plan                     X7+ C1/H1 
+0000016 190  VVZ     lacks                    A9- 
+0000016 200  JJ      sufficient               N5 
+0000016 210  NN1     detail                   A4.2+ S5+c B5 
+0000016 220  TO      to                       Z5 
+0000016 230  VVI     model                    A5.4- A10+ C1 
+0000016 231  .       .                        
+0000016 232  -----   -----                    
+0000016 240  PPHS2   They                     Z8mfn 
+0000016 250  VH0     have                     Z5 A9+ A2.2 S4 
+0000016 260  VVN     reached                  M1[i16.2.1 S1.1.1[i16.2.1 M1 N3.3 Q2.1 X9.2+ 
+0000016 270  RP      out                      M1[i16.2.2 S1.1.1[i16.2.2 M6 
+0000016 280  II      to                       Z5 
+0000016 290  AT      the                      Z5 
+0000016 300  NN1     Kasich                   Z99 
+0000016 310  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000016 320  II31    in                       X2.4[i17.3.1 Z5 
+0000016 330  II32    search                   X2.4[i17.3.2 
+0000016 340  II33    of                       X2.4[i17.3.3 
+0000016 350  DAR     more                     N5++ 
+0000016 360  NN2     details                  A4.2+ S5+c B5 
+0000016 361  ,       ,                        
+0000016 370  CC      and                      Z5 
+0000016 380  VM      will                     T1.1.3 
+0000016 390  VVI     analyze                  X2.4 
+0000016 400  AT      the                      Z5 
+0000016 410  NN1     plan                     X7+ C1/H1 
+0000016 420  CS      if                       Z7 
+0000016 430  PPHS2   they                     Z8mfn 
+0000016 440  VV0     receive                  A9+ S5+ 
+0000016 450  DD      enough                   N5+ N6+ 
+0000016 460  NN1     information              X2.2+ 
+0000016 470  TO      to                       Z5 
+0000016 480  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000016 490  RR      so                       Z5 A13.3 
+0000016 491  .       .                        
+0000016 492  )       )                        
+0000017 001  -----   -----                    
+0000018 010  AT      The                      Z5 
+0000018 020  NN1     calculator               Y2/N2 
+0000018 021  :       :                        
+0000018 030  RGQ@    How                      Z5 A13.3 
+0000018 040  DA1     much                     N5+ I1.3+ 
+0000018 050  VDZ     does                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000018 060  DD1     each                     N5.1+ 
+0000018 070  NN1     candidate                G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
+0000018 071  GE      's                       Z5 
+0000018 080  NN1     tax                      I1.1/G1.1 
+0000018 090  NN1     plan                     X7+ C1/H1 
+0000018 100  VV0     affect                   A2.1+ A5.4-/A8 
+0000018 110  PPY     you                      Z8mf 
+0000018 111  ?       ?                        
+0000019 001  -----   -----                    
+0000020 010  VV0     Read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000020 020  DD1     this                     M6 Z5 Z8 
+0000020 021  :       :                        
+0000020 030  NP1     Ezra                     Z1m 
+0000020 040  VVD     wrote                    Q1.2 I2.1 
+0000020 050  AT1     a                        Z5 
+0000020 060  NN1     piece                    N5.1- O2 Q4 K2 K4 G3@ 
+0000020 070  II      about                    Z5 
+0000020 080  DDQ     what                     Z8 Z5 
+0000020 090  AT      the                      Z5 
+0000020 100  NN1     tax                      I1.1/G1.1 
+0000020 110  NN1     calculator               Y2/N2 
+0000020 120  VVZ     tells                    Q2.2 Q2.1 X3 A10+ 
+0000020 130  PPIO2   us                       Z8 
+0000020 140  II      about                    Z5 
+0000020 150  AT      the                      Z5 
+0000020 160  NN2     candidates               G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
+0000020 161  .       .                        
+0000020 162  -----   -----                    
+0000020 170  II      On                       Z5 
+0000020 180  NP1     Cruz                     Z2 
+0000020 190  CC      and                      Z5 
+0000020 200  NN1     Trump                    Z1mf 
+0000020 201  ,       ,                        
+0000020 210  PPHS1   he                       Z8m 
+0000020 220  VVZ     writes                   Q1.2 I2.1 
+0000020 221  :       :                        
+0000022 010  II      In                       Z5 
+0000022 020  AT1     a                        Z5 
+0000022 030  NN1     sense                    A4.1 Q3 X3 S1.2.6+ E1 X2.1 X9.1+ A8 
+0000022 031  ,       ,                        
+0000022 040  DB2     both                     N5 
+0000022 050  VV0     GOP                      Z99 
+0000022 060  NN2     candidates               G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
+0000022 070  VBR     are                      Z5 A3+ 
+0000022 080  VVG     gaming                   I1/A1.4 K1 
+0000022 090  AT      the                      Z5 
+0000022 100  NN1     calculator               Y2/N2 
+0000022 101  :       :                        
+0000022 110  PPHS2   They                     Z8mfn 
+0000022 111  VH0     've                      Z5 A9+ A2.2 
+0000022 120  VVN     proposed                 Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
+0000022 130  JJ      tremendous               N3.2+ A5.1+ 
+0000022 140  NN2     cuts                     A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
+0000022 141  ,       ,                        
+0000022 150  CCB     but                      Z5 
+0000022 160  IW      without                  Z5 
+0000022 170  VVG     knowing                  X2.2+ S3.2/B1% 
+0000022 180  PNQS    who                      Z8 
+0000022 190  VM      will                     T1.1.3 
+0000022 200  VVI     pay                      I1.2 A9- I1.1/I3.1 
+0000022 210  IF      for                      Z5 
+0000022 220  DD2     those                    Z5 Z8 
+0000022 230  NN2     cuts                     A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
+0000022 231  ,       ,                        
+0000022 240  PPH1    it                       Z8 
+0000022 241  VBZ     's                       A3+ Z5 
+0000022 250  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
+0000022 260  TO      to                       Z5 
+0000022 270  VVI     know                     X2.2+ S3.2/B1% 
+0000022 280  PNQS    who                      Z8 
+0000022 290  VM      will                     T1.1.3 
+0000022 300  RR      truly                    A5.2+ A5.4+ 
+0000022 310  VBI     be                       Z5 A3+ 
+0000022 320  VVN     helped                   S8+ 
+0000022 330  CC      and                      Z5 
+0000022 340  PNQS    who                      Z8 
+0000022 350  VM      will                     T1.1.3 
+0000022 360  VBI     be                       Z5 A3+ 
+0000022 370  RR      badly                    A5.1- A13.3 
+0000022 380  VVN     hurt                     B2- E4.1- A1.1.2 
+0000022 381  .       .                        
+0000023 001  -----   -----                    
+0000023 010  II      On                       Z5 
+0000023 020  NP1     Sanders                  Z99 
+0000023 021  ,       ,                        
+0000023 030  PPHS1   he                       Z8m 
+0000023 040  VVZ     writes                   Q1.2 I2.1 
+0000023 041  :       :                        
+0000025 010  NP1     Sanders                  Z99 
+0000025 011  ,       ,                        
+0000025 020  RR      meanwhile                T1.1.2 
+0000025 021  ,       ,                        
+0000025 030  VVZ     proposes                 Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
+0000025 040  TO      to                       Z5 
+0000025 050  VVI     raise                    M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000025 060  NN2     taxes                    I1.1/G1.1 
+0000025 070  II      by                       Z5 
+0000025 080  DAR     more                     N5++ 
+0000025 090  CSN     than                     Z5 
+0000025 100  NN1     Trump                    Z1mf 
+0000025 110  VVZ     proposes                 Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
+0000025 120  TO      to                       Z5 
+0000025 130  VVI     cut                      A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3 
+0000025 140  PPHO2   them                     Z8mfn 
+0000025 141  .       .                        
+0000025 142  -----   -----                    
+0000025 150  CCB     But                      Z5 
+0000025 160  PPH1    it                       Z8 
+0000025 161  VBZ     's                       A3+ Z5 
+0000025 170  JJ      wrong                    A5.3- A5.1- G2.2- B2- 
+0000025 171  ,       ,                        
+0000025 180  PPIS1   I                        Z4[i18.2.1 Z8mf 
+0000025 190  VV0     think                    Z4[i18.2.2 X2.1 
+0000025 191  ,       ,                        
+0000025 200  TO      to                       Z5 
+0000025 210  VVI     view                     X2.1 X3.4 X2.4 
+0000025 220  NP1     Sanders                  Z99 
+0000025 221  GE      's                       Z5 
+0000025 230  NN1     plan                     X7+ C1/H1 
+0000025 240  CSA     as                       Z5 
+0000025 250  RR      primarily                A13.2 
+0000025 260  AT1     a                        Z5 
+0000025 270  NN1     change                   A2.1+ I1 B1 
+0000025 280  II      to                       Z5 
+0000025 290  NP1     America                  Z2 
+0000025 291  GE      's                       Z5 
+0000025 300  NN1     tax                      I1.1/G1.1 
+0000025 310  NN1     code                     G2.1 A10-/Q1.1 G2.2 A4.1 Y2@ B3% B1% 
+0000025 311  .       .                        
+0000025 312  -----   -----                    
+0000025 320  AT      The                      Z5 
+0000025 330  JJ      huge                     N3.2+++ 
+0000025 340  NN1     tax                      I1.1/G1.1 
+0000025 350  NN2     increases                N5+/A2.1 
+0000025 360  VBR     are                      A3+ Z5 
+0000025 370  AT1     a                        Z5 
+0000025 380  NN1     byproduct                Z99 
+0000025 390  IO      of                       Z5 
+0000025 400  NP1     Sanders                  Z99 
+0000025 401  GE      's                       Z5 
+0000025 410  NN2     plans                    X7+ C1/H1 
+0000025 420  TO      to                       Z5 
+0000025 430  VVI     nationalize              Z99 
+0000025 440  JJ      major                    A11.1+ N3.2+ 
+0000025 450  NN2     sectors                  A4.1 S5+ M7 N2@ 
+0000025 460  IO      of                       Z5 
+0000025 470  JJ      American                 Z2 
+0000025 480  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000025 481  .       .                        
+0000026 001  -----   -----                    
+0000026 010  VV0     Read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000026 020  AT      the                      Z5 
+0000026 030  JJ      full                     N5.1+ I3.2+ 
+0000026 040  NN1     analysis                 X2.4 Y1 
+0000026 050  RL      here                     M6 T1.1.2 T1.2 
+0000026 051  .       .                        
+0000027 001  -----   -----                    
+0000028 010  VV0     Update                   T1.1.2 
+0000028 020  II      on                       Z5 
+0000028 030  RRQ     why                      A2.2 
+0000028 040  NN2     rates                    N3.8 N5 I1.3 
+0000028 050  VBR     are                      A3+ Z5 
+0000028 060  JJR     higher                   N3.7++ N5++ A11.1++ S7.1++ A5.1++ T3-- X3.2 G2.2++ E4.1++ I1.3++ O4.2-- O4.6++ S9 
+0000028 070  CSN     than                     Z5 
+0000028 080  PPY     you                      Z8mf 
+0000028 090  VV0     think                    X2.1 
+0000028 091  :       :                        
+0000028 100  PPIS2   We                       Z8 
+0000028 101  VH0     've                      Z5 A9+ A2.2 
+0000028 110  VBN     been                     Z5 A3+ 
+0000028 120  VVG     getting                  A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000028 130  AT1     a                        N5+[i19.2.1 N6+[i19.2.1 A13.3[i19.2.1 Z5 
+0000028 140  NN1     lot                      N5+[i19.2.2 N6+[i19.2.2 A13.3[i19.2.2 
+0000028 150  IO      of                       Z5 
+0000028 160  NN2     questions                Q2.2 X4.1 
+0000028 170  II      about                    Z5 
+0000028 180  RRQ     why                      A2.2 
+0000028 190  APPGE   your                     Z8 
+0000028 200  JJ      current                  T1.1.2 
+0000028 210  JJ      effective                X9.2+ 
+0000028 220  NN1     tax                      I1.1/G1.1 
+0000028 230  NN1     rate                     N3.8 N5 I1.3 
+0000028 240  VBZ     is                       A3+ Z5 
+0000028 250  RG      so                       A13.3 
+0000028 260  JJ      high                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000028 261  .       .                        
+0000028 262  -----   -----                    
+0000028 270  RL      Here                     M6 T1.1.2 T1.2 
+0000028 271  VBZ     's                       A3+ Z5 
+0000028 280  AT1     a                        Z5 
+0000028 290  NN1     note                     Q1.2 K2 
+0000028 300  II      from                     Z5 
+0000028 310  NN1     Tax                      I1.1/G1.1 
+0000028 320  NN1     Policy                   X7+ Q1.2 
+0000028 330  NN1     Center                   M6 H1c M7c G1.2c K5.1mfn 
+0000028 340  NN1     director                 S7.1+/S2mf K4/S2mf 
+0000028 350  NP1     Len                      Z1mf[i20.2.1 Z3c[i20.2.1 Z1m 
+0000028 360  NP1     Burman                   Z1mf[i20.2.2 Z3c[i20.2.2 
+0000028 370  CST     that                     Z8 Z5 
+0000028 380  VVZ     explains                 Q2.2/A7+ A2.2 
+0000028 390  RRQ     why                      A2.2 
+0000028 400  DD1     this                     Z8 M6 Z5 
+0000028 410  VBZ     is                       Z5 A3+ 
+0000028 420  VVG     happening                A2.1+ A3+ X7- 
+0000028 421  :       :                        
+0000030 010  PPY     You                      Z8mf 
+0000030 020  VM      might                    A7+ 
+0000030 030  VBI     be                       Z5 A3+ 
+0000030 040  VVN%    surprised                X2.6- 
+0000030 050  II      at                       Z5 
+0000030 060  RGQ@    how                      Z5 A13.3 
+0000030 070  DA1     much                     N5+ I1.3+ 
+0000030 080  VVZ%    taxes                    I1.1/G1.1 A12- 
+0000030 090  PPY     you                      Z8mf 
+0000030 091  VBR     're                      Z5 A3+ 
+0000030 100  VVG     paying                   I1.2 A9- I1.1/I3.1 
+0000030 110  II      under                    Z5 
+0000030 120  JJ      current                  T1.1.2 
+0000030 130  NN1     law                      G2.1 S6+ Y1 
+0000030 131  .       .                        
+0000030 132  -----   -----                    
+0000030 140  PPIS2   We                       Z8 
+0000030 141  VBR     're                      A3+ Z5 
+0000030 150  II      including                A1.8+ 
+0000030 160  NN1     payroll                  I3.1 
+0000030 170  NN2     taxes                    I1.1/G1.1 
+0000030 171  ,       ,                        
+0000030 180  NN1     excise                   G1.1/I1c 
+0000030 190  NN2     taxes                    I1.1/G1.1 
+0000030 191  ,       ,                        
+0000030 200  CC      and                      Z5 
+0000030 210  JJ      corporate                S5+ I2.1/S5+ 
+0000030 220  NN1     income                   G1.1/I1[i21.2.1 I1.1 
+0000030 230  NN2     taxes                    G1.1/I1[i21.2.2 I1.1/G1.1 
+0000030 240  II31    as                       N5++[i22.2.1 Z5 
+0000030 250  II32    well                     N5++[i22.2.2 
+0000030 260  II33    as                       Z5 
+0000030 270  JJ      individual               N5- 
+0000030 280  NN1     income                   G1.1/I1[i23.2.1 I1.1 
+0000030 290  NN2     taxes                    G1.1/I1[i23.2.2 I1.1/G1.1 
+0000030 291  .       .                        
+0000030 292  -----   -----                    
+0000030 300  DAT     Most                     N5+++ 
+0000030 310  JJ@     working                  I3.1 A1.1.1 X9.2+ 
+0000030 320  NN      people                   S2mfc 
+0000030 330  RR      actually                 A5.4+ A14 
+0000030 340  VV0     pay                      I1.2 A9- I1.1/I3.1 
+0000030 350  RRR     more                     A13.3 N6++ 
+0000030 360  II      in                       Z5 
+0000030 370  NN1     payroll                  I3.1 
+0000030 380  NN1     tax                      I1.1/G1.1 
+0000030 390  CSN     than                     Z5 
+0000030 400  NN1     income                   G1.1/I1.2[i24.2.1 I1.1 G1.1/I1[i25.2.1 
+0000030 410  NN1     tax                      G1.1/I1.2[i24.2.2 I1.1/G1.1 G1.1/I1[i25.2.2 
+0000030 411  .       .                        
+0000030 412  -----   -----                    
+0000030 420  CC      And                      Z5 
+0000030 430  PPHS2   they                     Z8mfn 
+0000030 440  VV0     pay                      I1.2 A9- I1.1/I3.1 
+0000030 450  DA1     much                     N5+ I1.3+ 
+0000030 460  DAR     more                     N5++ 
+0000030 470  CS      if                       Z7 
+0000030 480  PPY     you                      Z8mf 
+0000030 490  VV0     include                  A1.8+ 
+0000030 500  AT      the                      Z5 
+0000030 510  NN1     employer                 I3.1/S2mf 
+0000030 511  GE      's                       Z5 
+0000030 520  NN1     portion                  N5 
+0000030 530  IO      of                       Z5 
+0000030 540  AT      the                      Z5 
+0000030 550  NN1     tax                      I1.1/G1.1 
+0000030 551  .       .                        
+0000030 552  -----   -----                    
+0000030 560  DAT     Most                     N5+++ 
+0000030 570  NN2     economists               I2.1/S2mf 
+0000030 580  VV0     think                    X2.1 
+0000030 590  NN2     employers                I3.1/S2mf 
+0000030 600  VV0     pass                     M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
+0000030 610  APPGE   their                    Z8 
+0000030 620  NN1     share                    S1.1.2+ I1.1 
+0000030 630  IO      of                       Z5 
+0000030 640  AT      the                      Z5 
+0000030 650  NN1     tax                      I1.1/G1.1 
+0000030 660  II21    on                       Z5[i26.2.1 Z5 
+0000030 670  II22    to                       Z5[i26.2.2 Z5 
+0000030 680  NN2     workers                  I3.1/S2mf 
+0000030 690  II      in                       Z5 
+0000030 700  AT      the                      Z5 
+0000030 710  NN1     form                     A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@ 
+0000030 720  IO      of                       Z5 
+0000030 730  JJR     lower                    M6 N3.7-- N5-- I1.3-- A5.1-- A11.1-- E4.1-- X3.2-- G2.2-- S7.1-- 
+0000030 740  NN2     wages                    I1.1/I3.1 
+0000030 741  .       .                        
+0000031 001  -----   -----                    
+0000031 010  VV0     Update                   T1.1.2 
+0000031 011  ,       ,                        
+0000031 020  II      plus                     Z5 
+0000031 030  AT1     a                        Z5 
+0000031 040  JJ@     FAQ                      Z99 
+0000031 050  NN1     section                  N5.1- S5+c B3 Y1 C1/H1@ 
+0000031 051  :       :                        
+0000031 060  TO      To                       Z5 
+0000031 070  VVI     calculate                N2 X7+ 
+0000031 080  AT      the                      Z5 
+0000031 090  NN1     tax                      I1.1/G1.1 
+0000031 100  NN1     rate                     N3.8 N5 I1.3 
+0000031 101  ,       ,                        
+0000031 110  PPIS2   we                       Z8 
+0000031 120  RR      originally               T1.1.1 
+0000031 130  JJ      used                     A1.5.1 T3+ 
+0000031 140  JJ@     adjusted                 A2.1+ 
+0000031 150  JJ      gross                    N5.1+ O4.2- N5 
+0000031 160  NN1     income                   I1.1 
+0000031 161  (       (                        
+0000031 170  NP1     AGI                      Z99 
+0000031 171  )       )                        
+0000031 172  ,       ,                        
+0000031 180  CCB     but                      Z5 
+0000031 190  PPIS2   we                       Z8 
+0000031 200  VVD     decided                  X6+ 
+0000031 210  TO      to                       Z5 
+0000031 220  VVI     switch                   A2.1+ 
+0000031 230  RP      over                     T2- M6 
+0000031 240  II      to                       Z5 
+0000031 250  JJ      expanded                 N3.2+/A2.1 Q2.2/N5++ A4.2-/A2.1 
+0000031 260  NN1     cash                     I1 
+0000031 270  NN1     income                   I1.1 
+0000031 271  (       (                        
+0000031 280  NP1     ECI                      Z99 
+0000031 281  )       )                        
+0000031 282  ,       ,                        
+0000031 290  CS      because                  Z5/A2.2 
+0000031 300  DD1     this                     M6 Z5 Z8 
+0000031 310  NN1     measure                  N3.1 F2 K2 
+0000031 320  VVZ     includes                 A1.8+ 
+0000031 330  NN1     income                   I1.1 
+0000031 340  CST     that                     Z8 Z5 
+0000031 350  VBZ     is                       A3+ Z5 
+0000031 360  XX      not                      Z6 
+0000031 370  II21    subject                  S7.1-[i27.2.1 Z5[i28.2.1 
+0000031 380  II22    to                       S7.1-[i27.2.2 Z5 Z5[i28.2.2 
+0000031 390  NN1     income                   G1.1/I1.2[i29.2.1 I1.1 G1.1/I1[i30.2.1 
+0000031 400  NN1     tax                      G1.1/I1.2[i29.2.2 I1.1/G1.1 G1.1/I1[i30.2.2 
+0000031 401  ,       ,                        
+0000031 410  II      like                     Z5 
+0000031 420  NN1     health                   B2 X9.2 
+0000031 430  NN1     insurance                I1/A15- 
+0000031 440  NN2     premiums                 I1.1 I1.3 A11.1+ 
+0000031 450  VVN     paid                     I1.2 A9- I1.1/I3.1 
+0000031 460  II      by                       Z5 
+0000031 470  NN2     employers                I3.1/S2mf 
+0000031 471  .       .                        
+0000031 472  -----   -----                    
+0000031 480  DD1     This                     Z8 M6 Z5 
+0000031 490  VVZ     allows                   S7.4+ S8+ X2.1 
+0000031 500  AT      the                      Z5 
+0000031 510  NN1     calculator               Y2/N2 
+0000031 520  TO      to                       Z5 
+0000031 530  VVI     provide                  A9- S6+ 
+0000031 540  AT1     a                        Z5 
+0000031 550  RGR     more                     A13.3 
+0000031 560  JJ      accurate                 A5.3+ 
+0000031 570  NN1     view                     X4.1 X3.4 A4.1 X7+ 
+0000031 580  IO      of                       Z5 
+0000031 590  APPGE   your                     Z8 
+0000031 600  NN1     tax                      I1.1/G1.1 
+0000031 610  NN1     rate                     N3.8 N5 I1.3 
+0000031 611  .       .                        
+0000031 612  -----   -----                    
+0000031 620  IF      For                      Z5 
+0000031 630  AT1     a                        Z5 
+0000031 640  JJR     longer                   T1.3++ N3.7++ N3.3++ N3.2++ 
+0000031 650  NN1     explanation              Q2.2/A7+ A2.2 
+0000031 651  ,       ,                        
+0000031 660  VV0     read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000031 670  DD1     this                     M6 Z5 Z8 
+0000031 680  NN1@    Q                        Z5 Z1m 
+0000031 681  NULL    &A.;                     
+0000033 010  DDQ     What                     Z8 Z5 
+0000033 020  PPIS2   we                       Z8 
+0000033 030  VVD     learned                  X2.3+ P1 
+0000033 040  II      from                     Z5 
+0000033 050  APPGE   our                      Z8 
+0000033 060  NN1     calculator               Y2/N2 
+0000034 010  VV0     Play                     A1.1.1[i31.2.1 K1[i31.2.1 K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000034 020  RP      around                   A1.1.1[i31.2.2 K1[i31.2.2 M6 
+0000034 030  IW      with                     Z5 
+0000034 040  JJ      different                A6.1- 
+0000034 050  NN2     incomes                  I1.1 
+0000034 060  II21    other                    A1.8-[i32.2.1 Z5[i33.2.1 
+0000034 070  II22    than                     A1.8-[i32.2.2 Z5[i33.2.2 
+0000034 080  APPGE   your                     Z8[i34.2.1 Z8 
+0000034 090  DA      own                      Z8[i34.2.2 A9+ S5- 
+0000034 100  TO      to                       Z5 
+0000034 110  VVI     get                      X2.3+[i35.3.1 A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000034 120  AT1     a                        X2.3+[i35.3.2 Z5 
+0000034 130  JJR     better                   A5.1++ G2.2++ O4.2++ 
+0000034 140  NN1     idea                     X2.3+[i35.3.3 X4.1 X7+ 
+0000034 150  IO      of                       Z5 
+0000034 160  RRQ     how                      Z5 A13.3 
+0000034 170  DD1     each                     N5.1+ 
+0000034 180  NN1     candidate                G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
+0000034 190  VVZ     deals                    A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2 
+0000034 200  IW      with                     Z5 
+0000034 210  AT      the                      Z5 
+0000034 220  JJ      poor                     I1.1- A5.1- N5- E4.1- X9.1- 
+0000034 221  ,       ,                        
+0000034 230  JJ      middle                   S5+c[i36.2.1 N4 M6 
+0000034 240  NN1     class                    S5+c[i36.2.2 P1c A4.1 S5+c O4.2+ 
+0000034 241  ,       ,                        
+0000034 250  CC      and                      Z5 
+0000034 260  JJ      wealthy                  I1.1+ 
+0000034 261  .       .                        
+0000035 001  -----   -----                    
+0000036 010  RR21    In                       Z4[i37.2.1 
+0000036 020  RR22    short                    Z4[i37.2.2 N5- T1.3- 
+0000036 021  ,       ,                        
+0000036 030  DDQ     what                     Z8 Z5 
+0000036 040  PPY     you                      Z8mf 
+0000036 041  VM      'll                      T1.1.3 
+0000036 050  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000036 060  VBZ     is                       A3+ Z5 
+0000036 061  :       :                        
+0000038 010  NP1     Clinton                  Z1mf 
+0000038 020  VVZ     proposes                 Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
+0000038 030  VVG     keeping                  A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000038 040  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000038 050  RR      mostly                   A13.2 
+0000038 060  AT      the                      Z5 
+0000038 070  DA      same                     A6.1+++ 
+0000038 071  .       .                        
+0000039 001  -----   -----                    
+0000039 010  NP1     Sanders                  Z99 
+0000039 020  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
+0000039 030  TO      to                       Z5 
+0000039 040  VVI     implement                A1.1.1 A9-/O2 
+0000039 050  JJ      massive                  N3.2+ 
+0000039 060  NN2     increases                N5+/A2.1 
+0000039 070  II      across                   N5.1+[i38.3.1 Z5 
+0000039 080  AT      the                      N5.1+[i38.3.2 Z5 
+0000039 090  NN1     board                    N5.1+[i38.3.3 S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
+0000039 091  ,       ,                        
+0000039 100  VVG@    including                A1.8+ 
+0000039 110  II      on                       Z5 
+0000039 120  AT      the                      Z5 
+0000039 130  JJ      poor                     I1.1- A5.1- N5- E4.1- X9.1- 
+0000039 131  .       .                        
+0000040 001  -----   -----                    
+0000040 010  NP1     Cruz                     Z2 
+0000040 020  CC      and                      Z5 
+0000040 030  VV0     Trump                    Z1mf 
+0000040 040  VV0     propose                  Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
+0000040 050  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000040 060  NN2     cuts                     A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
+0000040 070  IF      for                      Z5 
+0000040 080  PN1     everyone                 Z8/N5.1+c 
+0000040 090  CCB     but                      Z5 
+0000040 100  AT      the                      Z5 
+0000040 110  JJR     wealthier                I1.1+ 
+0000040 120  PPY     you                      Z8mf 
+0000040 130  VBR     are                      A3+ Z5 
+0000040 131  ,       ,                        
+0000040 140  AT      the                      Z5 
+0000040 150  RGR     more                     A13.3 
+0000040 160  PPY     you                      Z8mf 
+0000040 170  VV0     keep                     A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000040 180  II      in                       Z5 
+0000040 190  APPGE   your                     Z8 
+0000040 200  NN1     pocket                   B5 O2 I1.1 M7/N3.2- 
+0000040 201  .       .                        
+0000041 001  -----   -----                    
+0000041 010  CCB     But                      Z5 
+0000041 020  RRQ     how                      Z5 A13.3 
+0000041 030  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000041 040  DD1     this                     Z8 M6 Z5 
+0000041 050  VVI     affect                   A2.1+ A5.4-/A8 
+0000041 060  RGQ@    how                      Z5 A13.3 
+0000041 070  DA1     much                     N5+ I1.3+ 
+0000041 080  NN1     money                    I1 
+0000041 090  AT      the                      Z5 
+0000041 100  JJ      federal                  S5+ 
+0000041 110  NN1     government               G1.1c 
+0000041 120  VVZ     brings                   M2[i39.2.1 T2+[i39.2.1 S1.1.3+[i39.2.1 K1[i39.2.1 M2 A2.2 
+0000041 130  RP@     in                       M2[i39.2.2 T2+[i39.2.2 S1.1.3+[i39.2.2 K1[i39.2.2 M6 
+0000041 131  ?       ?                        
+0000042 001  -----   -----                    
+0000042 010  PPH1    It                       Z8 
+0000042 011  VBZ     's                       A3+ Z5 
+0000042 020  MC1     one                      T3 N1 T1.2 
+0000042 030  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
+0000042 040  TO      to                       Z5 
+0000042 050  VVI     know                     X2.2+ S3.2/B1% 
+0000042 060  RRQ     how                      Z5 A13.3 
+0000042 070  APPGE   your                     Z8 
+0000042 080  NN2     taxes                    I1.1/G1.1 
+0000042 090  VM      will                     T1.1.3 
+0000042 100  VVI     change                   A2.1+ I1 B5 
+0000042 101  ,       ,                        
+0000042 110  CCB     but                      Z5 
+0000042 120  PPY     you                      Z8mf 
+0000042 130  VM      ca                       A7+ 
+0000042 131  XX      n't                      Z6 
+0000042 140  VVI     view                     X2.1 X3.4 X2.4 
+0000042 150  PPH1    it                       Z8 
+0000042 160  II      in                       Z5 
+0000042 170  AT1     a                        Z5 
+0000042 180  NN1     vacuum                   B4 N5.1- Y1 
+0000042 181  .       .                        
+0000042 182  -----   -----                    
+0000042 190  DDQ     What                     Z8 Z5 
+0000042 200  AT      the                      Z5 
+0000042 210  JJ      federal                  S5+ 
+0000042 220  NN1     government               G1.1c 
+0000042 230  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000042 240  VM      can                      A7+ 
+0000042 250  VVI     affect                   A2.1+ A5.4-/A8 
+0000042 260  APPGE   your                     Z8 
+0000042 270  JJ      bottom                   A11.1+++[i40.2.1 N4 M6 B1 A5.1--- 
+0000042 280  NN1     line                     A11.1+++[i40.2.2 O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000042 281  ,       ,                        
+0000042 290  RR@     too                      N5++ 
+0000042 291  .       .                        
+0000043 001  -----   -----                    
+0000044 010  REX21   For                      Z5[i41.2.1 
+0000044 020  REX22   example                  Z5[i41.2.2 
+0000044 021  ,       ,                        
+0000044 030  NP1     Bernie                   Z1mf[i42.2.1 Z3c[i42.2.1 
+0000044 040  NP1     Sanders                  Z1mf[i42.2.2 Z3c[i42.2.2 
+0000044 041  GE      's                       Z5 
+0000044 050  NN1     plan                     X7+ C1/H1 
+0000044 060  VM      would                    A7+ 
+0000044 070  VVI     raise                    M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000044 080  NN2     taxes                    I1.1/G1.1 
+0000044 090  II      on                       Z5 
+0000044 100  PN1     everyone                 Z8/N5.1+c 
+0000044 101  ,       ,                        
+0000044 110  CCB     but                      Z5 
+0000044 120  PPH1    it                       Z8 
+0000044 130  VM      would                    A7+ 
+0000044 140  RR      also                     N5++ 
+0000044 150  VVI     pay                      I1.2 A9- I1.1/I3.1 
+0000044 160  IF      for                      Z5 
+0000044 170  NN1     health                   B3[i43.2.1 B2 X9.2 
+0000044 180  NN1     care                     B3[i43.2.2 S8+ G1.1/S8+ B3 A1.3 E6- 
+0000044 181  ,       ,                        
+0000044 190  NN1     education                P1 X2.3+ 
+0000044 191  ,       ,                        
+0000044 200  CC      and                      S2mf[i44.2.1 Z5 
+0000044 210  JJ      other                    S2mf[i44.2.2 A6.1- 
+0000044 220  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000044 230  CST     that                     Z8 Z5 
+0000044 240  PPY     you                      Z8mf 
+0000044 250  VM      would                    A7+ 
+0000044 260  RR21    no                       T2-[i45.2.1 Z6 
+0000044 270  RR22    longer                   T2-[i45.2.2 T1.3++ 
+0000044 280  VHI     have                     S6+[i46.2.1 A9+ Z5 A2.2 S4 
+0000044 290  TO      to                       S6+[i46.2.2 Z5 
+0000044 300  VVI     pay                      I1.2 A9- I1.1/I3.1 
+0000044 310  IF      for                      Z5 
+0000044 311  .       .                        
+0000044 312  -----   -----                    
+0000044 320  CC      And                      Z5 
+0000044 330  PPH1    it                       Z8 
+0000044 340  VVZ     goes                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000044 350  AT      the                      S3.2[i47.3.1 Z5 
+0000044 360  JJ      other                    S3.2[i47.3.2 A6.1- 
+0000044 370  NN1     way                      S3.2[i47.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000044 371  ,       ,                        
+0000044 380  RR@     too                      N5++ 
+0000044 381  .       .                        
+0000044 382  -----   -----                    
+0000044 390  CS      If                       Z7 
+0000044 400  NP1     Donald                   Z1mf[i48.2.1 Z3c[i48.2.1 Z1mf 
+0000044 410  NN1     Trump                    Z1mf[i48.2.2 Z3c[i48.2.2 Z1mf 
+0000044 411  GE      's                       Z5 
+0000044 420  NN1     tax                      I1.1/G1.1 
+0000044 430  NN1     plan                     X7+ C1/H1 
+0000044 440  VBDZ    was                      Z5 A3+ 
+0000044 450  VVN     implemented              A1.1.1 A9-/O2 
+0000044 451  ,       ,                        
+0000044 460  PN1     everyone                 Z8/N5.1+c 
+0000044 470  VM      would                    A7+ 
+0000044 480  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000044 490  AT1     a                        Z5 
+0000044 500  NN1     tax                      I1.1/G1.1 
+0000044 510  NN1     cut                      A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
+0000044 511  ,       ,                        
+0000044 520  CCB     but                      Z5 
+0000044 530  PPH1    it                       Z8 
+0000044 540  RR      also                     N5++ 
+0000044 550  VVZ     means                    Q1.1 X7+ 
+0000044 560  NN1     government               G1.1c 
+0000044 570  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000044 580  VM      would                    A7+ 
+0000044 590  VBI     be                       Z5 A3+ 
+0000044 600  VVN     cut                      A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3 
+0000044 601  ,       ,                        
+0000044 610  CS@     so                       Z5 
+0000044 620  PPY     you                      Z8mf 
+0000044 630  VM      would                    A7+ 
+0000044 640  VHI     have                     S6+[i49.2.1 A9+ Z5 A2.2 S4 
+0000044 650  TO      to                       S6+[i49.2.2 Z5 
+0000044 660  VVI     pay                      I1.2 A9- I1.1/I3.1 
+0000044 670  IF      for                      Z5 
+0000044 680  PPHO2   them                     Z8mfn 
+0000044 690  PPX1    yourself                 Z8 
+0000044 691  .       .                        
+0000045 001  -----   -----                    
+0000046 010  RR      So                       Z5 A13.3 
+0000046 020  DD1     this                     Z8 M6 Z5 
+0000046 030  VBZ     is                       A3+ Z5 
+0000046 040  RRQ     how                      Z5 A13.3 
+0000046 050  DD1     each                     N5.1+ 
+0000046 060  NN1     candidate                G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
+0000046 070  VVZ     deals                    A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2 
+0000046 080  IW      with                     Z5 
+0000046 090  DD1     this                     M6 Z5 Z8 
+0000046 100  NN1     balance                  O4.1/B1 A6.1+ S7.3 I1.1 
+0000046 101  :       :                        
+0000048 010  NP1     Donald                   Z1mf[i50.2.1 Z3c[i50.2.1 Z1mf 
+0000048 020  NN1     Trump                    Z1mf[i50.2.2 Z3c[i50.2.2 Z1mf 
+0000048 021  :       :                        
+0000048 030  APPGE   His                      Z8m 
+0000048 040  NN1     plan                     X7+ C1/H1 
+0000048 050  VM      would                    A7+ 
+0000048 060  VVI     cut                      A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3 
+0000048 070  JJ      federal                  S5+ 
+0000048 080  NN2     revenues                 G1.1/I1 I1.1+ Z3c 
+0000048 090  II      by                       Z5 
+0000048 100  AT1     an                       Z5 
+0000048 110  JJ@     estimated                X6/A7- N2/A7- 
+0000048 120  NNU     $9.5                     Z99 
+0000048 130  NNO     trillion                 N1 
+0000048 140  II      over                     Z5 
+0000048 150  AT      the                      Z5 
+0000048 160  MD      next                     T1.1.3[i51.2.1 N4 
+0000048 170  NNT1    decade                   T1.1.3[i51.2.2 T1.3 
+0000048 171  .       .                        
+0000048 172  -----   -----                    
+0000048 180  NN2     Cuts                     A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
+0000048 190  VM      would                    A7+ 
+0000048 200  VBI     be                       A3+ Z5 
+0000048 210  II      across                   N5.1+[i52.3.1 Z5 
+0000048 220  AT      the                      N5.1+[i52.3.2 Z5 
+0000048 230  NN1     board                    N5.1+[i52.3.3 S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
+0000048 231  ,       ,                        
+0000048 240  CCB     but                      Z5 
+0000048 250  DAT     most                     N5+++ 
+0000048 260  NN2     cuts                     A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
+0000048 270  VM      would                    A7+ 
+0000048 280  VBI     be                       A3+ Z5 
+0000048 290  IF      for                      Z5 
+0000048 300  JJR     wealthier                I1.1+ 
+0000048 310  NN2     households               S4c B4 
+0000048 311  .       .                        
+0000048 312  -----   -----                    
+0000048 320  APPGE   His                      Z8m 
+0000048 330  NN1     tax                      I1.1/G1.1 
+0000048 340  NN2     cuts                     A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
+0000048 350  VV0     promise                  S6+ A7+ 
+0000048 360  TO      to                       Z5 
+0000048 370  VVI     stimulate                A2.2 X5.2+ 
+0000048 380  JJ      economic                 I1.3- I2.1 
+0000048 390  NN1     growth                   N3.2+/A2.1 A5.1+/A2.1 L3 B2- 
+0000048 400  CC      and                      Z5 
+0000048 410  VVI     reduce                   N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000048 420  NN1     government               G1.1c 
+0000048 430  NN1     spending                 I1.2 A1.5.1 T1.3 
+0000048 431  ,       ,                        
+0000048 440  DDQ     which                    Z8 Z5 
+0000048 450  VM      could                    A7+ 
+0000048 460  VVI     cause                    A2.2 
+0000048 470  NN2     households               S4c B4 
+0000048 480  TO      to                       Z5 
+0000048 490  VVI     pay                      I1.2 A9- I1.1/I3.1 
+0000048 500  RRR     more                     A13.3 N6++ 
+0000048 510  IF      for                      Z5 
+0000048 520  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000048 530  CST     that                     Z8 Z5 
+0000048 540  VBR     are                      Z5 A3+ 
+0000048 550  RR      currently                T1.1.2 
+0000048 560  VVN     subsidized               Z99 
+0000048 570  II      by                       Z5 
+0000048 580  AT      the                      Z5 
+0000048 590  NN1     government               G1.1c 
+0000048 591  .       .                        
+0000048 592  -----   -----                    
+0000048 593  (       (                        
+0000048 600  RL      Here                     M6 T1.1.2 T1.2 
+0000048 610  VBR     are                      A3+ Z5 
+0000048 620  DAR     more                     N5++ 
+0000048 630  NN2     details                  A4.2+ S5+c B5 
+0000048 640  II      on                       Z5 
+0000048 650  NN1     Trump                    Z1mf 
+0000048 651  GE      's                       Z5 
+0000048 660  NN1     plan                     X7+ C1/H1 
+0000048 661  .       .                        
+0000048 662  )       )                        
+0000049 001  -----   -----                    
+0000050 010  NP1     Ted                      Z1mf[i53.2.1 Z3c[i53.2.1 Z1m 
+0000050 020  NP1     Cruz                     Z1mf[i53.2.2 Z3c[i53.2.2 Z2 
+0000050 021  :       :                        
+0000050 030  APPGE   His                      Z8m 
+0000050 040  NN1     plan                     X7+ C1/H1 
+0000050 050  VM      would                    A7+ 
+0000050 060  VVI     cut                      A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3 
+0000050 070  JJ      federal                  S5+ 
+0000050 080  NN2     revenues                 G1.1/I1 I1.1+ Z3c 
+0000050 090  II      by                       Z5 
+0000050 100  AT1     an                       Z5 
+0000050 110  JJ@     estimated                X6/A7- N2/A7- 
+0000050 120  NNU     $8.6                     Z99 
+0000050 130  NNO     trillion                 N1 
+0000050 140  II      over                     Z5 
+0000050 150  AT      the                      Z5 
+0000050 160  MD      next                     T1.1.3[i54.2.1 N4 
+0000050 170  NNT1    decade                   T1.1.3[i54.2.2 T1.3 
+0000050 171  .       .                        
+0000050 172  -----   -----                    
+0000050 180  RR      Much                     A13.3 N6+ 
+0000050 190  II      like                     Z5 
+0000050 200  NN1     Trump                    Z1mf 
+0000050 201  GE      's                       Z5 
+0000050 210  NN1     plan                     X7+ C1/H1 
+0000050 211  ,       ,                        
+0000050 220  NN2     cuts                     A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
+0000050 230  VM      would                    A7+ 
+0000050 240  VBI     be                       A3+ Z5 
+0000050 250  II      across                   N5.1+[i55.3.1 Z5 
+0000050 260  AT      the                      N5.1+[i55.3.2 Z5 
+0000050 270  NN1     board                    N5.1+[i55.3.3 S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
+0000050 271  ,       ,                        
+0000050 280  CCB     but                      Z5 
+0000050 290  DAT     most                     N5+++ 
+0000050 300  NN2     cuts                     A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
+0000050 310  VBR     are                      A3+ Z5 
+0000050 320  IF      for                      Z5 
+0000050 330  JJR     wealthier                I1.1+ 
+0000050 340  NN2     households               S4c B4 
+0000050 341  .       .                        
+0000050 342  -----   -----                    
+0000050 350  APPGE   His                      Z8m 
+0000050 360  NN1     tax                      I1.1/G1.1 
+0000050 370  NN2     cuts                     A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
+0000050 380  VV0     promise                  S6+ A7+ 
+0000050 390  TO      to                       Z5 
+0000050 400  VVI     stimulate                A2.2 X5.2+ 
+0000050 410  JJ      economic                 I1.3- I2.1 
+0000050 420  NN1     growth                   N3.2+/A2.1 A5.1+/A2.1 L3 B2- 
+0000050 430  CC      and                      Z5 
+0000050 440  VVI     reduce                   N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000050 450  NN1     government               G1.1c 
+0000050 460  NN1     spending                 I1.2 A1.5.1 T1.3 
+0000050 461  ,       ,                        
+0000050 470  DDQ     which                    Z8 Z5 
+0000050 480  VM      could                    A7+ 
+0000050 490  VVI     cause                    A2.2 
+0000050 500  NN2     households               S4c B4 
+0000050 510  TO      to                       Z5 
+0000050 520  VVI     pay                      I1.2 A9- I1.1/I3.1 
+0000050 530  RRR     more                     A13.3 N6++ 
+0000050 540  IF      for                      Z5 
+0000050 550  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000050 560  CST     that                     Z8 Z5 
+0000050 570  VBR     are                      Z5 A3+ 
+0000050 580  RR      currently                T1.1.2 
+0000050 590  VVN     subsidized               Z99 
+0000050 600  II      by                       Z5 
+0000050 610  AT      the                      Z5 
+0000050 620  NN1     government               G1.1c 
+0000050 621  .       .                        
+0000050 622  -----   -----                    
+0000050 623  (       (                        
+0000050 630  RL      Here                     M6 T1.1.2 T1.2 
+0000050 640  VBR     are                      A3+ Z5 
+0000050 650  DAR     more                     N5++ 
+0000050 660  NN2     details                  A4.2+ S5+c B5 
+0000050 670  II      on                       Z5 
+0000050 680  NP1     Cruz                     Z2 
+0000050 681  GE      's                       Z5 
+0000050 690  NN1     plan                     X7+ C1/H1 
+0000050 691  .       .                        
+0000050 692  )       )                        
+0000051 001  -----   -----                    
+0000052 010  NP1     Hillary                  Z1mf[i56.2.1 Z3c[i56.2.1 
+0000052 020  NP1     Clinton                  Z1mf[i56.2.2 Z3c[i56.2.2 Z1mf 
+0000052 021  :       :                        
+0000052 030  APPGE   Her                      Z8f 
+0000052 040  NN1     plan                     X7+ C1/H1 
+0000052 050  VM      would                    A7+ 
+0000052 060  VVI     raise                    M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000052 070  JJ      federal                  S5+ 
+0000052 080  NN2     revenues                 G1.1/I1 I1.1+ Z3c 
+0000052 090  II      by                       Z5 
+0000052 100  AT1     an                       Z5 
+0000052 110  JJ      additional               N5++ 
+0000052 120  NNU     $1.1                     Z99 
+0000052 130  NNO     trillion                 N1 
+0000052 140  II      over                     Z5 
+0000052 150  AT      the                      Z5 
+0000052 160  MD      next                     T1.1.3[i57.2.1 N4 
+0000052 170  NNT1    decade                   T1.1.3[i57.2.2 T1.3 
+0000052 171  .       .                        
+0000052 172  -----   -----                    
+0000052 180  DAT     Most                     N5+++ 
+0000052 190  NN2     increases                N5+/A2.1 
+0000052 200  VM      would                    A7+ 
+0000052 210  VBI     be                       A3+ Z5 
+0000052 220  IF      for                      Z5 
+0000052 230  JJR     wealthier                I1.1+ 
+0000052 240  NN2     households               S4c B4 
+0000052 241  ,       ,                        
+0000052 250  CS      while                    Z5 
+0000052 260  JJ      lower-income             I1.1-- 
+0000052 270  NN2     households               S4c B4 
+0000052 280  VBR     are                      Z5 A3+ 
+0000052 281  XX      n't                      Z6 
+0000052 290  VVN     affected                 A2.1+ A5.4-/A8 
+0000052 300  RR      much                     A13.3 N6+ 
+0000052 301  .       .                        
+0000052 302  -----   -----                    
+0000052 310  AT      The                      Z5 
+0000052 320  JJ      additional               N5++ 
+0000052 330  NN2     revenues                 G1.1/I1 I1.1+ Z3c 
+0000052 340  VM      will                     T1.1.3 
+0000052 350  VVI     pay                      I1.2 A9- I1.1/I3.1 
+0000052 360  IF      for                      Z5 
+0000052 370  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000052 380  CST     that                     Z8 Z5 
+0000052 390  VV0     benefit                  S8+ 
+0000052 400  DA2     many                     N5+ 
+0000052 410  NN2     Americans                Z2/S2mf 
+0000052 411  .       .                        
+0000052 412  -----   -----                    
+0000052 413  (       (                        
+0000052 420  RL      Here                     M6 T1.1.2 T1.2 
+0000052 430  VBR     are                      A3+ Z5 
+0000052 440  DAR     more                     N5++ 
+0000052 450  NN2     details                  A4.2+ S5+c B5 
+0000052 460  II      on                       Z5 
+0000052 470  NP1     Clinton                  Z1mf 
+0000052 471  GE      's                       Z5 
+0000052 480  NN1     plan                     X7+ C1/H1 
+0000052 481  .       .                        
+0000052 482  )       )                        
+0000053 001  -----   -----                    
+0000054 010  NP1     Bernie                   Z1mf[i58.2.1 Z3c[i58.2.1 
+0000054 020  NP1     Sanders                  Z1mf[i58.2.2 Z3c[i58.2.2 
+0000054 021  :       :                        
+0000054 030  APPGE   His                      Z8m 
+0000054 040  NN1     plan                     X7+ C1/H1 
+0000054 050  VM      would                    A7+ 
+0000054 060  VVI     raise                    M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000054 070  JJ      federal                  S5+ 
+0000054 080  NN2     revenues                 G1.1/I1 I1.1+ Z3c 
+0000054 090  II      by                       Z5 
+0000054 100  AT1     an                       Z5 
+0000054 110  JJ@     estimated                X6/A7- N2/A7- 
+0000054 120  NNU     $15.3                    Z99 
+0000054 130  NNO     trillion                 N1 
+0000054 140  II      over                     Z5 
+0000054 150  AT      the                      Z5 
+0000054 160  MD      next                     T1.1.3[i59.2.1 N4 
+0000054 170  NNT1    decade                   T1.1.3[i59.2.2 T1.3 
+0000054 171  .       .                        
+0000054 172  -----   -----                    
+0000054 180  PPHS1   He                       Z8m 
+0000054 190  VM      would                    A7+ 
+0000054 200  VVI     raise                    M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
+0000054 210  NN2     taxes                    I1.1/G1.1 
+0000054 220  IF      for                      Z5 
+0000054 230  RR      almost                   A13.4 
+0000054 240  DB      all                      N5.1+ 
+0000054 250  NN2     households               S4c B4 
+0000054 251  ,       ,                        
+0000054 260  CCB     but                      Z5 
+0000054 270  DAT     most                     N5+++ 
+0000054 280  NN2     increases                N5+/A2.1 
+0000054 290  VM      would                    A7+ 
+0000054 300  VBI     be                       A3+ Z5 
+0000054 310  IF      for                      Z5 
+0000054 320  JJR     wealthier                I1.1+ 
+0000054 330  NN2     households               S4c B4 
+0000054 331  ;       ;                        
+0000054 340  NN1     tax                      I1.1/G1.1 
+0000054 350  NN2     increases                N5+/A2.1 
+0000054 360  VM      would                    A7+ 
+0000054 370  VBI     be                       A3+ Z5 
+0000054 380  JJ      small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
+0000054 390  IF      for                      Z5 
+0000054 400  JJR     lower-                   Z99 
+0000054 410  CC      and                      Z5 
+0000054 420  JJ      middle-income            Z99 
+0000054 430  NN2     households               S4c B4 
+0000054 431  .       .                        
+0000054 432  -----   -----                    
+0000054 440  JJ      Additional               N5++ 
+0000054 450  NN2     revenues                 G1.1/I1 I1.1+ Z3c 
+0000054 460  VM      would                    A7+ 
+0000054 470  VVI     pay                      I1.2 A9- I1.1/I3.1 
+0000054 480  IF      for                      Z5 
+0000054 490  NN1     health                   B3[i60.2.1 B2 X9.2 
+0000054 500  NN1     care                     B3[i60.2.2 S8+ G1.1/S8+ B3 A1.3 E6- 
+0000054 501  ,       ,                        
+0000054 510  NN1     education                P1 X2.3+ 
+0000054 511  ,       ,                        
+0000054 520  CC      and                      S2mf[i61.2.1 Z5 
+0000054 530  JJ      other                    S2mf[i61.2.2 A6.1- 
+0000054 540  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000054 541  ,       ,                        
+0000054 550  CS@     so                       Z5 
+0000054 560  NN2     households               S4c B4 
+0000054 570  VM      would                    A7+ 
+0000054 580  VVI     pay                      I1.2 A9- I1.1/I3.1 
+0000054 590  DAR     less                     N5-- 
+0000054 600  CSN     than                     Z5 
+0000054 610  DDQ     what                     Z8 Z5 
+0000054 620  PPHS2   they                     Z8mfn 
+0000054 630  RR      currently                T1.1.2 
+0000054 640  VV0     pay                      I1.2 A9- I1.1/I3.1 
+0000054 650  IF      for                      Z5 
+0000054 660  DD2     those                    Z5 Z8 
+0000054 670  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000054 671  .       .                        
+0000054 672  -----   -----                    
+0000054 673  (       (                        
+0000054 680  RL      Here                     M6 T1.1.2 T1.2 
+0000054 690  VBR     are                      A3+ Z5 
+0000054 700  DAR     more                     N5++ 
+0000054 710  NN2     details                  A4.2+ S5+c B5 
+0000054 720  II      on                       Z5 
+0000054 730  NP1     Sanders                  Z99 
+0000054 731  GE      's                       Z5 
+0000054 740  NN1     plan                     X7+ C1/H1 
+0000054 741  .       .                        
+0000054 742  )       )                        
+0000056 001  NULL    **8;7;text               

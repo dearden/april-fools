@@ -1,0 +1,715 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN1     JPMorgan                 Z99 
+0000002 020  NN1     chief                    S7.1+ 
+0000002 030  NN1     operating                A1.1.1 B3 
+0000002 040  NN1     officer                  G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
+0000002 050  NP1     Matt                     Z1mf[i1.2.1 Z3c[i1.2.1 Z1m 
+0000002 060  NP1     Zames                    Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 070  VBZ     is                       Z5 A3+ 
+0000002 080  VVG     setting                  X7+[i2.4.1 M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000002 090  APPGE   his                      X7+[i2.4.2 Z8m 
+0000002 100  NN2     sights                   X7+[i2.4.3 X3.4 A8 M7 G3 
+0000002 110  II      on                       X7+[i2.4.4 Z5 
+0000002 120  NN1     Silicon                  O1.1 
+0000002 130  NN1     Valley                   W3 
+0000002 131  .       .                        
+0000003 001  -----   -----                    
+0000004 010  II      In                       Z5 
+0000004 020  AT1     a                        Z5 
+0000004 030  NN1     letter                   Q1.2 Q3 
+0000004 040  VVN     titled                   Q2.2 
+0000004 041  NULL    <quote>                  
+0000004 042  -----   -----                    
+0000004 043  "       "                        
+0000004 050  VVG     Redefining               A2.1+ 
+0000004 060  AT      the                      Z5 
+0000004 070  JJ      Financial                I2.1/I1[i3.2.1 I1 
+0000004 080  NN2     Services                 I2.1/I1[i3.2.2 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ I4/S8+c[i4.2.1 
+0000004 090  NN1     Industry                 I4c I2.1c I4/S8+c[i4.2.2 
+0000004 091  "       "                        
+0000004 092  NULL    </quote>                 
+0000004 093  -----   -----                    
+0000004 100  II      in                       Z5 
+0000004 110  NP1     JPMorgan                 Z99 
+0000004 111  GE      's                       Z5 
+0000004 120  JJ      328-page                 Z99 
+0000004 130  NN1     letter                   Q1.2 Q3 
+0000004 140  II      to                       Z5 
+0000004 150  NN2     shareholders             I1.1/S2mf 
+0000004 151  ,       ,                        
+0000004 160  NP1     Zames                    Z99 
+0000004 170  VVD     ran                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000004 180  II      through                  Z5 
+0000004 190  AT      the                      Z5 
+0000004 200  NN1     bank                     I1/H1 I1.1/I2.1c W3/M4 A9+/H1 O2 M6 
+0000004 201  GE      's                       Z5 
+0000004 210  NN1     tech                     Y1/P1 Y1 
+0000004 220  NN1     strategy                 X7+ 
+0000004 221  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NN2     Zames                    Z99 
+0000006 020  VVD     said                     Q2.1 
+0000006 030  JJ      attracting               O4.2+ S3.2 O3 
+0000006 040  NN1     tech                     Y1/P1 Y1 
+0000006 050  NN1     talent                   X9.1+ 
+0000006 060  II      from                     Z5 
+0000006 070  NN1     Silicon                  O1.1 
+0000006 080  NN1     Valley                   W3 
+0000006 090  CC      and                      Z5 
+0000006 100  NN1     technology               Y1/I2.1c[i5.2.1 Y1 
+0000006 110  NN2     firms                    Y1/I2.1c[i5.2.2 I2.1/S5+c 
+0000006 120  VBZ     is                       A3+ Z5 
+0000006 130  AT1     an                       Z5 
+0000006 140  JJ      integral                 A11.1+ 
+0000006 150  NN1     component                O2 N5.1- 
+0000006 160  II      to                       Z5 
+0000006 170  DD1     that                     Z5 Z8 
+0000006 180  NN1     strategy                 X7+ 
+0000006 181  .       .                        
+0000006 182  -----   -----                    
+0000006 190  AT      The                      Z5 
+0000006 200  NN1     letter                   Q1.2 Q3 
+0000006 210  VVD     said                     Q2.1 
+0000006 211  :       :                        
+0000008 001  NULL    <quote>                  
+0000008 002  -----   -----                    
+0000008 003  "       "                        
+0000008 010  JJ      Attracting               O4.2+ S3.2 O3 
+0000008 011  ,       ,                        
+0000008 020  VVG     retaining                A9+ 
+0000008 030  CC      and                      Z5 
+0000008 040  JJ      developing               A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000008 050  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
+0000008 060  NN1     technology               Y1 
+0000008 070  NN1     talent                   X9.1+ 
+0000008 080  VBZ     is                       A3+ Z5 
+0000008 090  JJ      paramount                A11.1+++ 
+0000008 091  ,       ,                        
+0000008 100  CC      and                      Z5 
+0000008 110  PPIS2   we                       Z8 
+0000008 120  VV0     cast                     K4 A4.1 M2 G1.2 S9 A9- A1.1.1 
+0000008 130  AT1     a                        Z5 
+0000008 140  JJ      net                      N5 
+0000008 150  JJ      far                      N3.3+ 
+0000008 160  CC      and                      Z5 
+0000008 170  JJ      wide                     N3.7+ N5+ A4.2- A6.3+ X9.2-@ K5.1@ 
+0000008 180  TO      to                       Z5 
+0000008 190  VVI     find                     A10+ X2.1 X6+ 
+0000008 200  AT      the                      Z5 
+0000008 210  JJT     best                     A5.1+++ G2.2+++ O4.2+++ 
+0000008 220  CC      and                      Z5 
+0000008 230  AT      the                      Z5 
+0000008 240  JJT     brightest                O4.3 X9.1+++ 
+0000008 241  .       .                        
+0000008 242  -----   -----                    
+0000008 250  II      In                       Z5 
+0000008 260  MC      2016                     N1 T1.2 T3 T1.3 N3.2 
+0000008 261  ,       ,                        
+0000008 270  NNU     32%                      N5 
+0000008 280  IO      of                       Z5 
+0000008 290  APPGE   our                      Z8 
+0000008 300  JJ      senior                   S7.1++ T3++ 
+0000008 310  NN2     hires                    I2.2 
+0000008 320  II      in                       Z5 
+0000008 330  NN1     technology               Y1 
+0000008 340  VVD     came                     M6[i6.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000008 350  II      from                     M6[i6.2.2 Z5 
+0000008 360  JJ      non-financial            I1/Z6 
+0000008 370  NN2     services                 S8+/I2.1c[i7.2.1 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000008 380  NN2     firms                    S8+/I2.1c[i7.2.2 I2.1/S5+c 
+0000008 381  .       .                        
+0000008 382  -----   -----                    
+0000008 390  PPIS2   We                       Z8 
+0000008 400  VHD     had                      A9+ Z5 A2.2 S4 
+0000008 410  AT1     a                        Z5 
+0000008 420  MC      10:1                     N1 T1.2 T3 T1.3 N3.2 
+0000008 430  NN1     applicant-to             Z99 
+0000008 440  NN1     position                 M6 M7 S7.1 I3.1 N4 S1.1.1 A1.1.1 K5.1% 
+0000008 450  NN1     ratio                    N2 
+0000008 460  IF      for                      Z5 
+0000008 470  APPGE   our                      Z8 
+0000008 480  NN1     Technology               Y1 
+0000008 490  NN1     Analyst                  Y2/S2mf I2.1/S2mf Y1/S2mf B3/S2mf 
+0000008 500  NN1     Program                  Y2 X7+ Q4.3 Q1.2 P1 
+0000008 501  ,       ,                        
+0000008 510  DDQ     which                    Z5 Z8 
+0000008 520  NN2     targets                  X7+ G3 K5.1 
+0000008 530  NN2     graduates                P1/S2mf 
+0000008 540  IO      of                       Z5 
+0000008 550  JJ      global                   W3 M7 A1.8+ O4.4 
+0000008 560  NN2     universities             P1/H1c 
+0000008 570  CST     that                     Z8 Z5 
+0000008 580  VH0     have                     A9+ Z5 A2.2 S4 
+0000008 590  JJ      strong                   S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+ 
+0000008 600  NN1     technology               Y1 
+0000008 610  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
+0000008 611  .       .                        
+0000008 612  "       "                        
+0000008 613  NULL    </quote>                 
+0000008 614  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  NN1     bank                     I1/H1 I1.1/I2.1c W3/M4 A9+/H1 O2 M6 
+0000010 030  VVZ     spends                   I1.2 A1.5.1 T1.3 
+0000010 040  DAR     more                     N5++ 
+0000010 050  CSN     than                     Z5 
+0000010 060  NNU     $9.5                     I1.2/Z99[i8.2.1 
+0000010 070  NNO     billion                  I1.2/Z99[i8.2.2 N1 I1 
+0000010 080  II      on                       Z5 
+0000010 090  NN1     technology               Y1 
+0000010 091  ,       ,                        
+0000010 100  II21    according                Z5[i9.2.1 Z5 
+0000010 110  II22    to                       Z5[i9.2.2 Z5 
+0000010 120  AT      the                      Z5 
+0000010 130  NN1     letter                   Q1.2 Q3 
+0000010 131  ,       ,                        
+0000010 140  IW      with                     Z5 
+0000010 150  AT1     an                       Z5 
+0000010 160  JJ      increasing               N5+/A2.1 
+0000010 170  NN1     percentage               N5 
+0000010 180  IO      of                       Z5 
+0000010 190  DD1     that                     Z5 Z8 
+0000010 200  NN1     budget                   I1 G1.1/I1 I1.3- 
+0000010 210  VVG     going                    M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000010 220  II      on                       Z5 
+0000010 230  JJ      new                      T3- 
+0000010 240  NN2     investments              I1.1 
+0000010 250  CC      and                      Z5 
+0000010 260  NN1     innovation               T3- 
+0000010 261  .       .                        
+0000012 001  NULL    <quote>                  
+0000012 002  -----   -----                    
+0000012 003  "       "                        
+0000012 010  APPGE   Our                      Z8 
+0000012 020  NN1     strategy                 X7+ 
+0000012 030  VBZ     is                       A3+ Z5 
+0000012 040  AT1     a                        Z5 
+0000012 050  NN1     combination              A6.3+ A2.1+ N1 M3fn 
+0000012 060  IO      of                       Z5 
+0000012 070  NN1@    build                    B1/O4.4 
+0000012 071  ,       ,                        
+0000012 080  VV0     buy                      I2.2 
+0000012 090  CC      and                      Z5 
+0000012 100  NN1     partner                  S3.1/S2mf S3.2/S2mf S4mf 
+0000012 110  BCL21   in                       Z5[i10.3.1 Z5[i11.2.1 
+0000012 120  BCL22   order                    Z5[i10.3.2 Z5[i11.2.2 
+0000012 130  TO      to                       Z5[i10.3.3 Z5 
+0000012 140  VVI     continue                 T2++ 
+0000012 150  VVG     delivering               M2 Q2.1 X9.2+ B3 S9% 
+0000012 160  AT      the                      Z5 
+0000012 170  JJT     best                     A5.1+++ G2.2+++ O4.2+++ 
+0000012 180  JJ      digital                  Y2 N1 
+0000012 190  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000012 200  CC      and                      Z5 
+0000012 210  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000012 220  II      at                       Z5 
+0000012 230  NN1     scale                    N3.2 N4 A4.1 K2 L2 O2 I1.1/I3.1 O1.1 N3.1 
+0000012 231  ,       ,                        
+0000012 232  "       "                        
+0000012 233  NULL    </quote>                 
+0000012 234  -----   -----                    
+0000012 240  NN2     Zames                    Z99 
+0000012 250  VVD     said                     Q2.1 
+0000012 251  .       .                        
+0000012 252  NULL    <quote>                  
+0000012 253  -----   -----                    
+0000012 254  "       "                        
+0000012 260  APPGE   Our                      Z8 
+0000012 270  NN2     relationships            S3.1 S3.2 A2.2 S4 
+0000012 280  IW      with                     Z5 
+0000012 290  AT      the                      Z5 
+0000012 300  JJ      external                 M6 G1.1/M7 
+0000012 310  NN1     technology               Y1 
+0000012 320  NN1     ecosystem                W5 W3 O4.1 
+0000012 330  VVD     helped                   S8+ 
+0000012 340  NN1     drive                    M3 X5.2+ X8+ M3/H3 Y2 
+0000012 350  NN1     value                    A11.1+ I1.3 G2.2 A4.1 N1 
+0000012 360  II      across                   Z5 
+0000012 370  APPGE   our                      Z8 
+0000012 380  NN1     technology               Y1 
+0000012 390  NN1     focus                    X5.1+ X3.4 A4.2+ A11.1+ 
+0000012 400  NN2     areas                    M7 A4.1 N3.6 
+0000012 401  ,       ,                        
+0000012 410  II      including                A1.8+ 
+0000012 420  JJ      next-generation          Z99 
+0000012 430  NN      data                     X2.2/X2.4 Q1.1 
+0000012 440  CC      and                      Z5 
+0000012 450  NN1     analytics                Z99 
+0000012 460  NN2     platforms                M3/M7 M4/H1 H5 X7+ B5 Y2 
+0000012 461  ,       ,                        
+0000012 470  II21    such                     Z5[i12.2.1 
+0000012 480  II22    as                       Z5[i12.2.2 Z5 
+0000012 490  NP1     Hadoop                   Z99 
+0000012 500  CC      and                      Z5 
+0000012 510  NN1     Spark                    O4.6+ O3 N5- X5.2+ S2@mf 
+0000012 511  .       .                        
+0000012 512  "       "                        
+0000012 513  NULL    </quote>                 
+0000012 514  -----   -----                    
+0000014 010  NN2     Zames                    Z99 
+0000014 020  VVD     highlighted              X5.1+ 
+0000014 030  AT1     a                        N5+[i13.3.1 Z5 
+0000014 040  NN1     number                   N5+[i13.3.2 N5 N1 Q1.3 K2 Q4.2 
+0000014 050  IO      of                       N5+[i13.3.3 Z5 
+0000014 060  NN2     fields                   F4 W3 M7 K5.1/M7 G3@ A4.1 
+0000014 070  II21    such                     Z5[i14.2.1 
+0000014 080  II22    as                       Z5[i14.2.2 Z5 
+0000014 090  NN1     machine                  X2.3+/Y2[i15.2.1 O2 Y2 
+0000014 100  NN1     learning                 X2.3+/Y2[i15.2.2 X2.3+ P1 
+0000014 110  CC      and                      Z5 
+0000014 120  NN2     robotics                 Y2 
+0000014 130  II      in                       Z5 
+0000014 140  DDQ     which                    Z8 Z5 
+0000014 150  AT      the                      Z5 
+0000014 160  NN1     bank                     I1/H1 I1.1/I2.1c W3/M4 A9+/H1 O2 M6 
+0000014 170  VVD     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000014 180  JJ      huge                     N3.2+++ 
+0000014 190  NN2     inroads                  X9.2+ S1.1.3+ 
+0000014 200  IW      with                     Z5 
+0000014 210  JJ      new                      T3- 
+0000014 220  NN2     initiatives              A1.1.1 
+0000014 221  .       .                        
+0000015 001  -----   -----                    
+0000016 010  RL      Here                     M6 T1.1.2 T1.2 
+0000016 020  VBR     are                      A3+ Z5 
+0000016 030  DD      some                     N5 Z5 
+0000016 040  IO      of                       Z5 
+0000016 050  AT      the                      Z5 
+0000016 060  NN2     highlights               X5.2+ O4.3/B4 
+0000016 070  II      from                     Z5 
+0000016 080  AT      the                      Z5 
+0000016 090  NN1     letter                   Q1.2 Q3 
+0000016 091  (       (                        
+0000016 100  NN1     emphasis                 A11.1+ 
+0000016 110  VVN     added                    N5+/A2.1 N2 A1.8+ 
+0000016 111  )       )                        
+0000016 112  :       :                        
+0000018 010  JJ      New                      T3- 
+0000018 020  NN1     design                   C1 X7+ B5 
+0000018 030  NN2     standards                A5.1 G2.2 Q1.1 O2@ 
+0000020 001  NULL    <quote>                  
+0000020 002  -----   -----                    
+0000020 003  "       "                        
+0000020 010  PPIS2   We                       Z8 
+0000020 020  VBR     are                      Z5 A3+ 
+0000020 030  RR      also                     N5++ 
+0000020 040  VVG     defining                 Q2.2 A2.2 
+0000020 050  NN1     design                   C1 X7+ B5 
+0000020 060  NN2     standards                A5.1 G2.2 Q1.1 O2@ 
+0000020 070  TO      to                       Z5 
+0000020 080  VVI     provide                  A9- S6+ 
+0000020 090  AT1     a                        Z5 
+0000020 100  JJ      common                   A6.2+ N5++ S5+ O4.2- 
+0000020 110  JJ      technical                Y1 I4 X9.1 
+0000020 120  NN1     framework                X4.2 
+0000020 130  IF      for                      Z5 
+0000020 140  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000020 150  IO      of                       Z5 
+0000020 160  NN2     applications             Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000020 170  IO      of                       Z5 
+0000020 180  AT1     a                        Z5 
+0000020 190  JJ      particular               A4.2+ X7+ 
+0000020 200  NN1     type                     A4.1 A6.2+ S1.2 Q1.2 
+0000020 201  ,       ,                        
+0000020 210  REX21   for                      Z5[i16.2.1 
+0000020 220  REX22   example                  Z5[i16.2.2 
+0000020 221  ,       ,                        
+0000020 230  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000020 240  NN      data                     X2.2/X2.4 Q1.1 
+0000020 250  NN2     analytics                X2.4 
+0000020 251  .       .                        
+0000020 252  -----   -----                    
+0000020 260  DD1     This                     Z8 M6 Z5 
+0000020 270  VM      will                     T1.1.3 
+0000020 280  RR      significantly            A11.1+ 
+0000020 290  VVI     reduce                   N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000020 300  VV0     rework                   A2.1+ 
+0000020 310  CC      and                      Z5 
+0000020 320  NN1     duplication              A6.1+ 
+0000020 330  II      in                       Z5 
+0000020 340  AT      the                      Z5 
+0000020 350  NN1     software                 Y2 
+0000020 360  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000020 370  NN1     life                     T1.3[i17.2.1 L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000020 380  NN1     cycle                    T1.3[i17.2.2 M3fn N6 B1 
+0000020 390  RRQ     where                    M6 
+0000020 391  ,       ,                        
+0000020 400  RR      previously               N4 
+0000020 401  ,       ,                        
+0000020 410  NN1     application              Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000020 420  NN2     developers               H1/S2mf C1/O1.2 
+0000020 430  VH0     have                     Z5 A9+ A2.2 S4 
+0000020 440  VHN     had                      S6+[i18.2.1 A9+ Z5 A2.2 S4 
+0000020 450  TO      to                       S6+[i18.2.2 Z5 
+0000020 460  VVI     create                   A1.1.1 A2.2 E1 
+0000020 470  APPGE   their                    Z8[i19.2.1 Z8 
+0000020 480  DA      own                      Z8[i19.2.2 A9+ S5- 
+0000020 490  JJ      one-off                  N6- 
+0000020 500  NN2     frameworks               X4.2 
+0000020 501  .       .                        
+0000020 502  "       "                        
+0000020 503  NULL    </quote>                 
+0000020 504  -----   -----                    
+0000022 010  AT1     A                        Z5 
+0000022 020  JJ      new                      T3- 
+0000022 030  JJ      private                  A10- S5- G1.1- 
+0000022 040  NN1     cloud                    W4 N5 
+0000024 001  NULL    <quote>                  
+0000024 002  -----   -----                    
+0000024 003  "       "                        
+0000024 010  II      In                       Z5 
+0000024 020  MC      2016                     N1 T1.2 T3 T1.3 N3.2 
+0000024 021  ,       ,                        
+0000024 030  PPIS2   we                       Z8 
+0000024 040  VVD     launched                 M4 M5 T2+ 
+0000024 050  AT1     a                        Z5 
+0000024 060  JJ      new                      T3- 
+0000024 070  JJ      private                  A10- S5- G1.1- 
+0000024 080  NN1     cloud                    W4 N5 
+0000024 090  NN1     platform                 M3/M7 M4/H1 H5 X7+ Y2 
+0000024 100  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000024 110  NP1     Gaia                     Z99 
+0000024 111  ,       ,                        
+0000024 120  VVN     designed                 C1 X7+ 
+0000024 130  TO      to                       Z5 
+0000024 140  VVI     provide                  A9- S6+ 
+0000024 150  NN2     developers               H1/S2mf C1/O1.2 
+0000024 160  IW      with                     Z5 
+0000024 170  JJ      rapid                    N3.8+ 
+0000024 180  NN1     agility                  B1 
+0000024 190  CS21    so                       Z5[i20.2.1 Z5 
+0000024 200  CS22    that                     Z5[i20.2.2 Z5 Z8 
+0000024 210  PPHS2   they                     Z8mfn 
+0000024 220  VV0     spend                    I1.2 A1.5.1 T1.3 
+0000024 230  DAR     more                     N5++ 
+0000024 240  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000024 250  VVG     developing               A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000024 260  CC      and                      Z5 
+0000024 270  DAR     less                     N5-- 
+0000024 280  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000024 290  NN1     provisioning             Z99 
+0000024 300  NN1     infrastructure           I2.1/S8+ 
+0000024 310  CC      and                      Z5 
+0000024 320  NN1     application              Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000024 330  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000024 331  .       .                        
+0000024 332  -----   -----                    
+0000024 340  RG      Over                     T3[i21.2.1 N5[i21.2.1 N5.2+ A13.2 
+0000024 350  MC      5,000                    T3[i21.2.2 N5[i21.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000024 360  NN2     developers               H1/S2mf C1/O1.2 
+0000024 370  RR      already                  T1.1.1 
+0000024 380  VH0     have                     Z5 A9+ A2.2 S4 
+0000024 390  VVN     begun                    T2+ 
+0000024 400  TO      to                       Z5 
+0000024 410  VVI     use                      A1.5.1 S7.1+ 
+0000024 420  NP1     Gaia                     Z99 
+0000024 421  .       .                        
+0000024 422  -----   -----                    
+0000024 430  II      By                       Z5 
+0000024 440  AT      the                      Z5 
+0000024 450  NN1     end                      M6 T2- O2 X7+ N4 
+0000024 460  IO      of                       Z5 
+0000024 470  MC      2017                     N1 T1.2 T3 T1.3 N3.2 
+0000024 471  ,       ,                        
+0000024 480  PPIS2   we                       Z8 
+0000024 490  VV0     expect                   X2.6+ B1 
+0000024 500  TO      to                       Z5 
+0000024 510  RRR     more                     A13.3 N6++ 
+0000024 520  CSN     than                     Z5 
+0000024 530  RR@     double                   N5+ F2 A6.1+/S2mf N5+/A2.1 
+0000024 540  AT      the                      Z5 
+0000024 550  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
+0000024 560  IO      of                       Z5 
+0000024 570  NN2     applications             Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000024 580  VVN     hosted                   S1.1.1 
+0000024 590  II      on                       Z5 
+0000024 600  AT      the                      Z5 
+0000024 610  NN1     platform                 M3/M7 M4/H1 H5 X7+ Y2 
+0000024 611  .       .                        
+0000024 612  "       "                        
+0000024 613  NULL    </quote>                 
+0000024 614  -----   -----                    
+0000026 010  JJ      New                      T3- 
+0000026 020  JJ      global                   W3 M7 A1.8+ O4.4 
+0000026 030  NN      data                     X2.2/X2.4 Q1.1 
+0000026 040  NN1     center                   M6 H1c M7c G1.2c K5.1mfn 
+0000026 050  NN1     strategy                 X7+ 
+0000028 001  NULL    <quote>                  
+0000028 002  -----   -----                    
+0000028 003  "       "                        
+0000028 010  II      In                       Z5 
+0000028 020  MC      2016                     N1 T1.2 T3 T1.3 N3.2 
+0000028 021  ,       ,                        
+0000028 030  PPIS2   we                       Z8 
+0000028 040  VVD     invested                 I1.1 
+0000028 050  II      in                       Z5 
+0000028 060  AT1     a                        Z5 
+0000028 070  JJ      new                      T3- 
+0000028 080  JJ      global                   W3 M7 A1.8+ O4.4 
+0000028 090  NN      data                     X2.2/X2.4 Q1.1 
+0000028 100  NN1     center                   M6 H1c M7c G1.2c K5.1mfn 
+0000028 110  NN1     strategy                 X7+ 
+0000028 120  TO      to                       Z5 
+0000028 130  VVI     consolidate              A7+/A2.1 S5+ 
+0000028 140  APPGE   our                      Z8 
+0000028 150  JJ      existing                 A3+ 
+0000028 160  NN2     facilities               H1 O2 S8+ X9.1+ 
+0000028 170  II      into                     Z5 
+0000028 180  DAR     fewer                    N5-- 
+0000028 181  ,       ,                        
+0000028 190  JJR     larger                   N3.2++ N5++ A11.1++ 
+0000028 191  ,       ,                        
+0000028 200  RGR     more                     A13.3 
+0000028 210  JJ      modular                  N5.1- 
+0000028 220  NN2     sites                    M7 
+0000028 221  .       .                        
+0000028 222  -----   -----                    
+0000028 230  II      In                       Z5 
+0000028 240  RR      early                    T4+ 
+0000028 250  MC      2017                     N1 T1.2 T3 T1.3 N3.2 
+0000028 251  ,       ,                        
+0000028 260  PPIS2   we                       Z8 
+0000028 270  VVD     opened                   A1.1.1 T2+ 
+0000028 280  APPGE   our                      Z8 
+0000028 290  MD      first                    N4 
+0000028 300  JJ      new                      T3- 
+0000028 310  JJ      state-of-the-art         Y1/A5.1+++ 
+0000028 320  NN      data                     X2.2/X2.4 Q1.1 
+0000028 330  NN1     center                   M6 H1c M7c G1.2c K5.1mfn 
+0000028 331  ,       ,                        
+0000028 340  DDQ     which                    Z8 Z5 
+0000028 350  VBZ     is                       A3+ Z5 
+0000028 360  AT      the                      Z5 
+0000028 370  JJ      strategic                X7+ G3 
+0000028 380  NN1     model                    O2/A5.4- A4.1 X4.2 A5.1+++ C1/S2mf B5/I3.2/S2mf 
+0000028 390  IF      for                      Z5 
+0000028 400  DB      all                      N5.1+ 
+0000028 410  NN1     future                   T1.1.3 
+0000028 420  VVZ     builds                   H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000028 430  RR      globally                 M7 A1.8+ 
+0000028 431  .       .                        
+0000028 432  "       "                        
+0000028 433  NULL    </quote>                 
+0000028 434  -----   -----                    
+0000030 010  JJ      New                      T3- 
+0000030 020  NN1     Market                   I2.2 I2.2/H1 
+0000030 030  NN1     Risk                     A15- A1.4 
+0000030 040  NN1     platform                 M3/M7 M4/H1 H5 X7+ Y2 
+0000032 001  NULL    <quote>                  
+0000032 002  -----   -----                    
+0000032 003  "       "                        
+0000032 010  MD      Last                     T1.1.1[i23.2.1 N4 T1.3[i22.2.1 P1/S2mf[i22.2.1 
+0000032 020  NNT1    year                     T1.1.1[i23.2.2 T1.3 P1c T1.3[i22.2.2 P1/S2mf[i22.2.2 
+0000032 021  ,       ,                        
+0000032 030  PPIS2   we                       Z8 
+0000032 040  VVD     re-engineered            A2.1+ 
+0000032 050  APPGE   our                      Z8 
+0000032 060  NN1     Market                   I2.2 I2.2/H1 
+0000032 070  NN1     Risk                     A15- A1.4 
+0000032 080  NN1     platform                 M3/M7 M4/H1 H5 X7+ Y2 
+0000032 081  ,       ,                        
+0000032 090  MC1     one                      N1 T3 T1.2 
+0000032 100  IO      of                       Z5 
+0000032 110  AT      the                      Z5 
+0000032 120  JJT     largest                  N3.2+++ N5+++ A11.1+++ 
+0000032 130  JJ      in-memory                Z99 
+0000032 140  NN1     risk                     A15- A1.4 
+0000032 150  NN1     analytics                Z99 
+0000032 160  NN2     platforms                M3/M7 M4/H1 H5 X7+ B5 Y2 
+0000032 170  II      in                       Z5 
+0000032 180  AT      the                      Z5 
+0000032 190  NN1     world                    W1 S5+c A4.1 N5+ 
+0000032 191  .       .                        
+0000032 192  -----   -----                    
+0000032 200  AT      The                      Z5 
+0000032 210  NN1     platform                 M3/M7 M4/H1 H5 X7+ Y2 
+0000032 220  RT      now                      T1.1.2 Z4 
+0000032 230  VVZ     manages                  S7.1+ A1.1.1 X9.2+ 
+0000032 240  RP      over                     T2- M6 
+0000032 250  MC1     1                        N1[i24.2.1 T1.3[i24.2.1 I1[i24.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000032 260  NNO     billion                  N1[i24.2.2 T1.3[i24.2.2 I1[i24.2.2 N1 I1 
+0000032 270  NN1     risk                     A15- A1.4 
+0000032 280  NN2     sensitivities            X2.5+/E1 O4.1 B2- 
+0000032 290  CC      and                      Z5 
+0000032 300  VVZ     provides                 A9- S6+ 
+0000032 310  NN1     visibility               X3.4 A11.2 
+0000032 320  MC      17                       N6+[i25.2.1 A13.3[i25.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000032 330  NNT2    times                    N6+[i25.2.2 A13.3[i25.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 
+0000032 340  RRR     faster                   N3.8++ 
+0000032 350  CSN     than                     Z5 
+0000032 360  AT      the                      Z5 
+0000032 370  JJ      prior                    N4/T1.1.1 A11.1+ 
+0000032 380  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000032 390  CS      while                    Z5 
+0000032 400  VVG     delivering               M2 Q2.1 X9.2+ B3 S9% 
+0000032 410  AT1     a                        Z5 
+0000032 420  RGR     more                     A13.3 
+0000032 430  JJ      granular                 O4.1 
+0000032 440  CC      and                      Z5 
+0000032 450  JJ      holistic                 N5.1+ 
+0000032 460  NN1     view                     X4.1 X3.4 A4.1 X7+ 
+0000032 470  IO      of                       Z5 
+0000032 480  AT      the                      Z5 
+0000032 490  NN1     firm                     I2.1/S5+c 
+0000032 491  GE      's                       Z5 
+0000032 500  NN1     risk                     A15- A1.4 
+0000032 510  NN1     exposure                 A15- A10+ Q4 C1 
+0000032 511  .       .                        
+0000032 512  "       "                        
+0000032 513  NULL    </quote>                 
+0000032 514  -----   -----                    
+0000034 010  NN2     Robotics                 Y2 
+0000036 001  NULL    <quote>                  
+0000036 002  -----   -----                    
+0000036 003  "       "                        
+0000036 010  PPIS2   We                       Z8 
+0000036 020  VVD     established              T2+ X6+ 
+0000036 030  AT1     an                       Z5 
+0000036 040  JJ      internal                 M6 A10- G1.1 
+0000036 050  NN1     center                   M6 H1c M7c G1.2c K5.1mfn 
+0000036 060  IO      of                       Z5 
+0000036 070  NN1     excellence               A5.1+++ 
+0000036 080  TO      to                       Z5 
+0000036 090  VVI     drive                    M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000036 100  RRT     best                     A5.1+++ A13.2 G2.2+++ O4.2+++ 
+0000036 110  VVZ@    practices                A1.1.1 
+0000036 120  RP      around                   M6 
+0000036 130  AT1     a                        Z5 
+0000036 140  JJ      growing                  N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000036 150  NN1     pipeline                 O2 
+0000036 160  IO      of                       Z5 
+0000036 170  JJ      robotic                  O3 
+0000036 180  NN1     process                  A1.1.1 X4.2 
+0000036 190  NN1     automation               A1.1.1/S5- 
+0000036 191  ,       ,                        
+0000036 200  II      including                A1.8+ 
+0000036 210  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000036 220  VV0@    access                   M1 A9+ A1.1.1 
+0000036 230  NN1     administration           S7.1+c A9- 
+0000036 231  ,       ,                        
+0000036 240  IF      for                      Z5 
+0000036 250  DDQ     which                    Z8 Z5 
+0000036 260  PPIS2   we                       Z8 
+0000036 270  VV0     expect                   X2.6+ B1 
+0000036 280  TO      to                       Z5 
+0000036 290  VVI     automate                 A1.1.1/S5- 
+0000036 300  MC      1.7                      N1[i26.2.1 T1.3[i26.2.1 I1[i26.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000036 310  NNO     million                  N1[i26.2.2 T1.3[i26.2.2 I1[i26.2.2 N1 I1 
+0000036 320  NN2     requests                 Q2.1 Q2.2 
+0000036 330  II      in                       Z5 
+0000036 340  MC      2017                     N1 T1.2 T3 T1.3 N3.2 
+0000036 341  .       .                        
+0000036 342  -----   -----                    
+0000036 350  PPIS2   We                       Z8 
+0000036 360  VH0     have                     A9+ Z5 A2.2 S4 
+0000036 370  NN1     line                     O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000036 380  IO      of                       Z5 
+0000036 390  NN1     sight                    X3.4 A8 G3 
+0000036 400  II      into                     Z5 
+0000036 410  DAR     more                     N5++ 
+0000036 420  CSN     than                     Z5 
+0000036 430  NNU     $30                      Z99/H1c[i27.2.1 
+0000036 440  NNO     million                  Z99/H1c[i27.2.2 N1 I1 
+0000036 450  NN1     run                      M1/N3.8+ M1 B5 X8+ T1.3 X7/N5+ N5 K4 K5.1% 
+0000036 460  NN1     rate                     N3.8 N5 I1.3 
+0000036 470  VVZ     saves                    I1.1 B3 A9+ S8+ A1.9 K5.1 S9 
+0000036 480  II      from                     Z5 
+0000036 490  JJ      robotic                  O3 
+0000036 500  NN1     process                  A1.1.1 X4.2 
+0000036 510  NN1     automation               A1.1.1/S5- 
+0000036 520  II      in                       Z5 
+0000036 530  MC      2017                     N1 T1.2 T3 T1.3 N3.2 
+0000036 531  ,       ,                        
+0000036 540  AT1     a                        Z5 
+0000036 550  NN2     savings                  I1.1 
+0000036 560  CST     that                     Z8 Z5 
+0000036 561  ,       ,                        
+0000036 570  VVN     coupled                  N5+ 
+0000036 580  IW      with                     Z5 
+0000036 590  JJ      other                    A6.1- 
+0000036 600  NN1     optimization             Z99 
+0000036 610  NN2     efforts                  X8+ O2 
+0000036 611  ,       ,                        
+0000036 620  VM      will                     T1.1.3 
+0000036 630  VVI     continue                 T2++ 
+0000036 640  TO      to                       Z5 
+0000036 650  VVI     increase                 N5+/A2.1 
+0000036 660  RR      substantially            N3.2+ A13.3 
+0000036 670  II      in                       Z5 
+0000036 680  AT      the                      Z5 
+0000036 690  NNT2    years                    T1.3 
+0000036 700  TO      to                       Z5 
+0000036 710  VVI     come                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000036 711  .       .                        
+0000036 712  "       "                        
+0000036 713  NULL    </quote>                 
+0000036 714  -----   -----                    
+0000038 010  VV0     Machine                  A1.1.1 
+0000038 020  NN1     learning                 X2.3+ P1 
+0000040 001  NULL    <quote>                  
+0000040 002  -----   -----                    
+0000040 003  "       "                        
+0000040 010  PPIS2   We                       Z8 
+0000040 020  VBR     are                      Z5 A3+ 
+0000040 030  VVG     initiating               T2+ 
+0000040 040  NN2     pilots                   M5/I3.2/S2mf M4/I3.2/S2mf X2.4 Y1 
+0000040 050  IF      for                      Z5 
+0000040 060  AT1     a                        Z5 
+0000040 070  JJ      broad                    A4.2- A6.3+ N3.7+ N5+ Q3 
+0000040 080  NN1     range                    N3.3 K2 A6.3+ N5 A4.1 M7/K5.1 M7/G3 N2 W3 F1/O2 
+0000040 090  IO      of                       Z5 
+0000040 100  NN1     machine                  X2.3+/Y2[i28.2.1 O2 Y2 
+0000040 110  NN1     learning                 X2.3+/Y2[i28.2.2 X2.3+ P1 
+0000040 120  NN1     use                      A1.5.1 
+0000040 130  NN2     cases                    A4.1 O2 G2.1 B3 X4.1 Q3 
+0000040 140  II      from                     Z5 
+0000040 150  VVG     detecting                A10+ 
+0000040 160  NN2     anomalies                A6.2- 
+0000040 170  IF      for                      Z5 
+0000040 180  NN1     fraud                    G2.1- G2.2- 
+0000040 190  CC      and                      Z5 
+0000040 200  NN1     cybersecurity            Z99 
+0000040 201  ,       ,                        
+0000040 210  II      to                       Z5 
+0000040 220  VVG     generating               A2.2 O3 
+0000040 230  JJ%     targeted                 X7+ 
+0000040 240  NN1     trading                  I2.2 
+0000040 250  NN2     strategies               X7+ 
+0000040 260  TO      to                       Z5 
+0000040 270  VVI     share                    S1.1.2+ 
+0000040 280  IW      with                     Z5 
+0000040 290  NN2     clients                  I2.2/S2mf 
+0000040 291  ,       ,                        
+0000040 300  II      to                       Z5 
+0000040 310  VVG     optimizing               A5.1+++/A2.1 Y2 
+0000040 320  APPGE   our                      Z8 
+0000040 330  NN1     client                   I2.2/S2mf 
+0000040 340  NN1     servicing                A1.1.1 S8+ 
+0000040 350  NN2     channels                 W3/M4 X4.2 Q4.3 Q1.3 O2 
+0000040 351  .       .                        
+0000040 352  -----   -----                    
+0000040 360  PPIS2   We                       Z8 
+0000040 370  VBR     are                      A3+ Z5 
+0000040 380  RR      only                     A14 
+0000040 390  II      at                       Z5 
+0000040 400  AT      the                      Z5 
+0000040 410  JJ      very                     A4.2+ A5.2+% A13.3 
+0000040 420  NN1     beginning                T2+ 
+0000040 430  IO      of                       Z5 
+0000040 440  VVG     tapping                  A1.1.1 X3.2 A1.5.1 Q2.2 G1.1/Q1.3 F4% 
+0000040 450  AT      the                      Z5 
+0000040 460  JJ      potential                A7+ 
+0000040 470  NN2     capabilities             X9.1+ 
+0000040 480  IO      of                       Z5 
+0000040 490  NN1     machine                  X2.3+/Y2[i29.2.1 O2 Y2 
+0000040 500  NN1     learning                 X2.3+/Y2[i29.2.2 X2.3+ P1 
+0000040 510  CC      and                      Z5 
+0000040 520  APPGE   its                      Z8 
+0000040 530  NN2     benefits                 S8+ I1.1/G1.1 
+0000040 540  II      to                       Z5 
+0000040 550  APPGE   our                      Z8 
+0000040 560  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000040 561  .       .                        
+0000040 562  "       "                        
+0000040 563  NULL    </quote>                 
+0000044 001  NULL    **8;7;text               

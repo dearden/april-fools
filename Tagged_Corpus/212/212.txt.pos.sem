@@ -1,0 +1,396 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     MELBOURNE                Z2 Z3c 
+0000002 011  ,       ,                        
+0000002 020  NP1     Australia                Z2 
+0000002 021  .       .                        
+0000002 022  -----   -----                    
+0000002 023  (       (                        
+0000002 030  NPM1    April                    T1.3 
+0000002 040  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
+0000002 041  ,       ,                        
+0000002 050  MC      2010                     N1 T1.2 T3 T1.3 N3.2 
+0000002 051  )       )                        
+0000002 060  VV0     ProBlogger               Z99 
+0000002 061  ,       ,                        
+0000002 070  AT      the                      Z5 
+0000002 080  NN1     web                      Y2 L2 O2 
+0000002 081  GE      's                       Z5 
+0000002 090  NNU     #1                       I1 
+0000002 100  NN1     Blog                     Z99 
+0000002 110  VVZ     Tips                     N5.1- M7/O4.2- I1 Q2.2 M2 
+0000002 120  NN1     site                     M7 
+0000002 121  ,       ,                        
+0000002 130  RT      today                    T1.1.2 
+0000002 140  VVD     announced                Q2.2 
+0000002 150  CST     that                     Z8 Z5 
+0000002 160  PPH1    it                       Z8 
+0000002 170  VHZ     has                      Z5 A9+ A2.2 S4 
+0000002 180  VBN     been                     Z5 A3+ 
+0000002 190  VVN     acquired                 A9+ 
+0000002 200  II      by                       Z5 
+0000002 210  NP1     Google                   Z3c/Y2 
+0000002 211  .       .                        
+0000003 001  -----   -----                    
+0000004 010  DD1     This                     M6 Z5 Z8 
+0000004 020  NN1     acquisition              A9+ 
+0000004 030  VM      will                     T1.1.3 
+0000004 040  VBI     be                       A3+ Z5 
+0000004 050  AT1     a                        Z5 
+0000004 060  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000004 070  IO      of                       Z5 
+0000004 080  NP1     Googles                  Z3c/Y2 
+0000004 090  NN1     extension                H1 T1.3+/A2.1 N3.2+/A2.1 N5+/A2.1 Q1.3 B4 
+0000004 100  IO      of                       Z5 
+0000004 110  AT      the                      Z5 
+0000004 120  JJ@     Blogger'                 Z99 
+0000004 130  NN1     brand                    A4.1 Q1.1 
+0000004 140  CC      and                      Z5 
+0000004 150  AT1     a                        Z5 
+0000004 160  NN1     precursor                N4 
+0000004 170  II      to                       Z5 
+0000004 180  APPGE   their                    Z8 
+0000004 190  JJ      new                      T3- 
+0000004 200  JJ      professional             I3.2+ I3.1 X9.1+ A5.1+ 
+0000004 210  JJ@     blogging                 Z99 
+0000004 220  NN1     suite                    H2 H5 K2 
+0000004 230  IO      of                       Z5 
+0000004 240  NN2     applications             Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000004 250  VV0     ProBlogger               Z99 
+0000004 251  .       .                        
+0000006 001  NULL    <quote>                  
+0000006 002  -----   -----                    
+0000006 010  NP1@    Blogging                 Z99 
+0000006 020  VVZ     continues                T2++ 
+0000006 030  TO      to                       Z5 
+0000006 040  VVI     grow                     N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000006 050  II      in                       Z5 
+0000006 060  NN1     popularity               E2+ 
+0000006 061  ,       ,                        
+0000006 070  XX      not                      Z5[i1.2.1 Z6 
+0000006 080  RR      only                     Z5[i1.2.2 A14 
+0000006 090  IF      for                      Z5 
+0000006 100  JJ      personal                 S5- S1.2.1+ 
+0000006 110  NN1     use                      A1.5.1 
+0000006 120  CCB     but                      Z5 
+0000006 130  II      by                       Z5 
+0000006 140  NN2     entrepreneurs            I2.1/S2mf 
+0000006 150  CC      and                      Z5 
+0000006 160  NN2     businesses               I2.1 A1.1.1 A5.1+++ 
+0000006 170  II      around                   Z5 
+0000006 180  AT      the                      Z5 
+0000006 190  NN1     world                    W1 S5+c A4.1 N5+ 
+0000006 191  .       .                        
+0000006 192  -----   -----                    
+0000006 200  RR      Once                     N6- T1.1.1 
+0000006 210  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000006 220  II      as                       Z5 
+0000006 230  AT1     a                        Z5 
+0000006 240  NN2     fools                    E4.1+/S2mf F1 
+0000006 250  VV0     game'                    Z99 
+0000006 260  NN1@    blogging                 Z99 
+0000006 270  VHZ     has                      A9+ Z5 A2.2 S4 
+0000006 280  RT      now                      T1.1.2 Z4 
+0000006 290  JJ21    grown                    T3+/A2.1[i2.2.1 N3.2+/A2.1[i2.2.1 S1.2.6+/A2.1[i2.2.1 T3+ 
+0000006 300  JJ22    up                       T3+/A2.1[i2.2.2 N3.2+/A2.1[i2.2.2 S1.2.6+/A2.1[i2.2.2 X9.1+ 
+0000006 301  .       .                        
+0000006 302  NULL    </quote>                 
+0000006 303  -----   -----                    
+0000006 310  VVD     said                     Q2.1 
+0000006 320  AT1     a                        Z5 
+0000006 330  NN1     Google                   Z3c/Y2 
+0000006 340  NN1     representative           Q2.1/S2mf G1.1/S2mf I2.2/S2mf A4.1 
+0000006 350  RT      today                    T1.1.2 
+0000006 351  .       .                        
+0000006 352  NULL    <quote>                  
+0000006 353  -----   -----                    
+0000006 360  NP1@    Google                   Z3c/Y2 
+0000006 361  GE      's                       Z5 
+0000006 370  JJ      new                      T3- 
+0000006 380  JJ      professional             I3.2+ I3.1 X9.1+ A5.1+ 
+0000006 390  JJ@     blogging                 Z99 
+0000006 400  NN1     suite                    H2 H5 K2 
+0000006 401  ,       ,                        
+0000006 410  NP1     ProBlogger               Z99 
+0000006 411  ,       ,                        
+0000006 420  VM      will                     T1.1.3 
+0000006 430  VVI     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000006 440  AT1     an                       Z5 
+0000006 450  JJ      amazing                  O4.2+ X2.6- A6.2- 
+0000006 460  NN1     array                    O2 A6.3+ N2 Y2 
+0000006 470  IO      of                       Z5 
+0000006 480  NN2     tools                    O2 X4.2 
+0000006 490  II      into                     Z5 
+0000006 500  AT      the                      Z5 
+0000006 510  NN2     hands                    B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000006 520  DD2     those                    Z8 Z5 
+0000006 530  VVG     wanting                  X7+ S6+ A7+ S3.2 A9- 
+0000006 540  TO      to                       Z5 
+0000006 550  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000006 560  APPGE   their                    Z8 
+0000006 570  NN1@    blogging                 Z99 
+0000006 580  II      to                       Z5 
+0000006 590  AT      the                      Z5 
+0000006 600  MD      next                     N4 
+0000006 610  NN1     level                    N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 
+0000006 611  .       .                        
+0000006 612  NULL    </quote>                 
+0000006 613  -----   -----                    
+0000006 620  VVD     said                     Q2.1 
+0000006 630  AT1     a                        Z5 
+0000006 640  NN1     Google                   Z3c/Y2 
+0000006 650  NN1     representative           Q2.1/S2mf G1.1/S2mf I2.2/S2mf A4.1 
+0000006 660  RT      today                    T1.1.2 
+0000006 661  .       .                        
+0000008 001  NULL    <quote>                  
+0000008 002  -----   -----                    
+0000008 010  DDQ     What                     Z8 Z5 
+0000008 020  JJR     better                   A5.1++ G2.2++ O4.2++ 
+0000008 030  NN1     brand                    A4.1 Q1.1 
+0000008 040  TO      to                       Z5 
+0000008 050  VVI     align                    M2 S5+ A6.1+/A2.1 
+0000008 060  DD2     these                    Z5 Z8 
+0000008 070  JJ      new                      T3- 
+0000008 080  NN2     tools                    O2 X4.2 
+0000008 090  IW      with                     Z5 
+0000008 100  CSN     than                     Z5 
+0000008 110  NP1     ProBlogger               Z99 
+0000008 111  ,       ,                        
+0000008 120  AT1     a                        Z5 
+0000008 130  NN1     blog                     Z99 
+0000008 140  CST     that                     Z8 Z5 
+0000008 150  VHZ     has                      Z5 A9+ A2.2 S4 
+0000008 160  RR      consistently             A6.1+ 
+0000008 170  VVN     produced                 A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000008 180  NN1     blog                     Z99 
+0000008 190  VVZ     tips                     M2 I1 
+0000008 200  IF      for                      Z5 
+0000008 210  JJ      professional             I3.2+ I3.1 X9.1+ A5.1+ 
+0000008 220  NN2     bloggers                 Z99 
+0000008 230  IF      for                      Z5 
+0000008 240  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000008 250  RG      under                    T3[i4.2.1 A13.6 T3[i3.2.1 T3/S2mf[i3.2.1 
+0000008 260  MC      six                      T3[i4.2.2 N1 T3 T1.2 T3[i3.2.2 T3/S2mf[i3.2.2 
+0000008 270  NNT2    years                    T1.3 
+0000008 271  .       .                        
+0000008 272  NULL    </quote>                 
+0000010 001  NULL    <quote>                  
+0000010 002  -----   -----                    
+0000010 010  DD      Some                     N5 Z5 
+0000010 020  VH0     have                     Z5 A9+ A2.2 S4 
+0000010 030  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000010 040  PPIO1   me                       Z8mf 
+0000010 050  AT1     a                        Z5 
+0000010 060  NN1     fool'                    Z99 
+0000010 070  IF      for                      Z5 
+0000010 080  RR      even                     A13.1 
+0000010 090  CS      considering              Z5 
+0000010 100  VVG     selling                  I2.2 
+0000010 110  NP1     ProBlogger               Z99 
+0000010 111  ,       ,                        
+0000010 112  NULL    </quote>                 
+0000010 113  -----   -----                    
+0000010 120  JJ%     said                     Q1.1 Q2.1 
+0000010 130  NN1     founder                  T2+/S2mf 
+0000010 140  IO      of                       Z5 
+0000010 150  NP1     ProBlogger               Z1mf[i6.3.1 Z3c[i6.3.1 Z1mf[i5.2.1 Z3c[i5.2.1 
+0000010 160  NP1     Darren                   Z1mf[i6.3.2 Z3c[i6.3.2 Z1m Z1mf[i5.2.2 Z3c[i5.2.2 Z1mf[i7.2.1 Z3c[i7.2.1 
+0000010 170  NP1     Rowse                    Z3c[i6.3.3 Z1mf[i6.3.3 Z1mf[i7.2.2 Z3c[i7.2.2 
+0000010 171  ,       ,                        
+0000010 172  NULL    <quote>                  
+0000010 173  -----   -----                    
+0000010 180  CCB     but                      Z5 
+0000010 190  PPIS1   I                        Z8mf 
+0000010 191  VM      'd                       A7+ 
+0000010 200  VBI     be                       A3+ Z5 
+0000010 210  AT1     a                        Z5 
+0000010 220  NN1     fool                     E4.1+/S2mf F1 
+0000010 230  XX      not                      Z6 
+0000010 240  TO      to                       Z5 
+0000010 250  VVI     allow                    S7.4+ S8+ X2.1 
+0000010 260  AT      the                      Z5 
+0000010 270  NN1     ProBlogger               Z99 
+0000010 280  NN1     brand                    A4.1 Q1.1 
+0000010 290  TO      to                       Z5 
+0000010 300  VBI     be                       Z5 A3+ 
+0000010 310  VVN     developed                A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000010 320  II      by                       Z5 
+0000010 330  MC1     one                      N1 T3 T1.2 
+0000010 340  IO      of                       Z5 
+0000010 350  AT      the                      Z5 
+0000010 360  NN1     world                    W1 S5+c A4.1 N5+ 
+0000010 361  GE      's                       Z5 
+0000010 370  RGT     most                     A13.2 
+0000010 380  JJ      innovative               T3- 
+0000010 390  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000010 391  .       .                        
+0000010 392  -----   -----                    
+0000010 400  PPIS1   I                        Z8mf 
+0000010 401  VBM     'm                       A3+ Z5 
+0000010 410  JJ      excited                  X5.2+ 
+0000010 420  TO      to                       Z5 
+0000010 430  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000010 440  RRQ     where                    M6 
+0000010 450  NP1     Google                   Z3c/Y2 
+0000010 460  VM      will                     T1.1.3 
+0000010 470  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000010 480  NN1     ProBlogger               Z99 
+0000010 490  VVG     going                    A2.1+[i8.2.1 M1[i8.2.1 T2++[i8.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000010 500  RL      forward                  A2.1+[i8.2.2 M1[i8.2.2 T2++[i8.2.2 M6 T1.1.3 
+0000010 501  .       .                        
+0000010 502  NULL    </quote>                 
+0000010 503  -----   -----                    
+0000012 010  AT      The                      Z5 
+0000012 020  NN1     acquisition              A9+ 
+0000012 030  IO      of                       Z5 
+0000012 040  NN1     ProBlogger               Z99 
+0000012 050  VM      will                     T1.1.3 
+0000012 060  VVI     allow                    S7.4+ S8+ X2.1 
+0000012 070  NP1     Darren                   Z1m 
+0000012 080  TO      to                       Z5 
+0000012 090  VVI     concentrate              X5.1+ I2.2% M6 N5+ O1.2 W3/I4 
+0000012 100  II      on                       Z5 
+0000012 110  APPGE   his                      Z8m 
+0000012 120  JJ      other                    A6.1- 
+0000012 130  NN2     projects                 A1.1.1 P1 
+0000012 140  II      including                A1.8+ 
+0000012 150  APPGE   his                      Z8m 
+0000012 160  JJ      main                     A11.1+ N5+++ 
+0000012 170  NN1     site                     M7 
+0000012 180  JJ      Digital                  Z3c 
+0000012 190  NN1     Photography              C1 
+0000012 200  NN1     School                   P1/H1c S5+c L2%c 
+0000012 210  CC      and                      Z5 
+0000012 220  AT1     an                       Z5 
+0000012 230  JJ      upcoming                 T1.1.3 
+0000012 240  NN1     project                  A1.1.1 P1 
+0000012 250  NP1     FoolsMedia               Z99 
+0000012 251  .       .                        
+0000013 001  -----   -----                    
+0000014 010  NP1     Darren                   Z1mf[i9.2.1 Z3c[i9.2.1 Z1m 
+0000014 020  NP1     Rowse                    Z1mf[i9.2.2 Z3c[i9.2.2 
+0000014 030  VM      will                     T1.1.3 
+0000014 040  VVI     remain                   T2++ M8 N5.2+ 
+0000014 050  AT1     a                        Z5 
+0000014 060  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
+0000014 070  IO      of                       Z5 
+0000014 080  NN1     ProBlogger               Z99 
+0000014 090  II      over                     Z5 
+0000014 100  AT      the                      Z5 
+0000014 110  MD      next                     N4 
+0000014 120  MC      331                      N1 T1.2 T3 T1.3 N3.2 
+0000014 130  NNT2    days                     T1.3 
+0000014 140  RRQ     where                    M6 
+0000014 150  PPHS1   he                       Z8m 
+0000014 160  VVZ     plans                    X7+ 
+0000014 170  II      to                       Z5 
+0000014 180  TO      to                       Z5 
+0000014 190  VVI     begin                    T2+ 
+0000014 200  AT1     a                        Z5 
+0000014 210  NN      series                   N4c Q4.3c 
+0000014 220  IO      of                       Z5 
+0000014 230  NN2     posts                    Q1.2 O2 I3.1 M6 
+0000014 240  VVN     entitled                 S7.4+ 
+0000014 250  MC      331                      N1 T1.2 T3 T1.3 N3.2 
+0000014 260  NNT2    days                     T1.3 
+0000014 270  TO      to                       Z5 
+0000014 280  VV0     Build                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000014 290  AT1     an                       Z5 
+0000014 300  RR      Even                     A13.1 
+0000014 310  RRR     Better                   A5.1++ G2.2++ O4.2++ 
+0000014 320  VV0@    Blog'                    Z99 
+0000014 330  AT1     a                        Z5 
+0000014 340  NN121@  follow                   N4[i10.2.1 
+0000014 350  NN122   up                       N4[i10.2.2 
+0000014 360  II      to                       Z5 
+0000014 370  AT      the                      Z5 
+0000014 380  JJ      successful               X9.2+ 
+0000014 390  MC      31                       N1 T1.2 T3 T1.3 N3.2 
+0000014 400  NNT2    Days                     T1.3 
+0000014 410  TO      to                       Z5 
+0000014 420  VV0     Build                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000014 430  AT1     a                        Z5 
+0000014 440  JJR     Better                   A5.1++ G2.2++ O4.2++ 
+0000014 450  NN1     Blog                     Z99 
+0000014 451  .       .                        
+0000015 001  -----   -----                    
+0000015 010  II      About                    Z5 
+0000015 020  NP1     ProBlogger               Z1mf[i11.2.1 Z3c[i11.2.1 
+0000017 010  NP1     ProBlogger               Z1mf[i11.2.2 Z3c[i11.2.2 
+0000017 020  VBZ     is                       A3+ Z5 
+0000017 030  AT1     a                        Z5 
+0000017 040  NN1     blog                     Z99 
+0000017 050  II      about                    Z5 
+0000017 060  VVG     blogging                 Z99 
+0000017 061  .       .                        
+0000017 062  -----   -----                    
+0000017 070  RR      Kinda                    A13.4 
+0000017 080  JJ      sad                      E4.1- A5.1- 
+0000017 090  RR      really                   A13.3 A5.2+ 
+0000017 100  CCB     but                      Z5 
+0000017 110  XX      not                      Z6 
+0000017 120  RG      as                       A13 
+0000017 130  JJ      sad                      E4.1- A5.1- 
+0000017 140  CSA     as                       Z5 
+0000017 150  VHG     having                   A9+ Z5 A2.2 S4 
+0000017 160  AT1     a                        Z5 
+0000017 170  NN1     blog                     Z99 
+0000017 180  II      about                    Z5 
+0000017 190  NP1     Tweeting                 Z99 
+0000017 200  CC      or                       Z5 
+0000017 210  AT1     a                        Z5 
+0000017 220  NN1     book                     Q4.1 Q1.2 K5.1/I1 
+0000017 230  II      about                    Z5 
+0000017 240  VVG     blogging                 Z99 
+0000017 250  CST     that                     Z8 Z5 
+0000017 251  VM      'd                       A7+ 
+0000017 260  VBI     be                       A3+ Z5 
+0000017 270  JJR     sadder                   E4.1- A5.1- 
+0000017 271  !       !                        
+0000017 272  -----   -----                    
+0000017 280  NN1     ProBlogger               Z99 
+0000017 290  VBDZ    was                      Z5 A3+ 
+0000017 300  VVN     founded                  T2+ A2.2 A1.1.1 
+0000017 310  II      by                       Z5 
+0000017 320  NP1     Darren                   Z1m Z1mf[i12.2.1 Z3c[i12.2.1 
+0000017 330  NP1     Rowse                    Z2[i13.3.1 Z1mf[i12.2.2 Z3c[i12.2.2 
+0000017 340  II      on                       Z2[i13.3.2 Z5 
+0000017 350  NPM1    September                Z2[i13.3.3 T1.3 T1.3[i14.2.1 
+0000017 360  MC      23                       N1 T1.2 T3 T1.3 N3.2 T1.3[i14.2.2 N1[i15.2.1 T3[i15.2.1 T1.2[i15.2.1 T1.3[i15.2.1 N3.3[i15.2.1 N3.5[i15.2.1 I1[i15.2.1 
+0000017 370  MC      2004                     N1 T1.2 T3 T1.3 N3.2 N1[i15.2.2 T3[i15.2.2 T1.2[i15.2.2 T1.3[i15.2.2 N3.3[i15.2.2 N3.5[i15.2.2 I1[i15.2.2 
+0000017 371  .       .                        
+0000017 372  -----   -----                    
+0000017 380  CS      Since                    Z5 
+0000017 390  DD1     that                     Z5 Z8 
+0000017 400  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000017 410  NP1     Darren                   Z1m 
+0000017 420  VHZ     has                      Z5 A9+ A2.2 S4 
+0000017 430  VVN     published                Q4 
+0000017 440  MC      5,356                    N1 T1.2 T3 T1.3 N3.2 
+0000017 450  NN2     posts                    Q1.2 O2 I3.1 M6 
+0000017 460  CC      and                      Z5 
+0000017 470  AT      the                      Z5 
+0000017 480  NN1     blog                     Z99 
+0000017 490  VHZ     has                      Z5 A9+ A2.2 S4 
+0000017 500  VVN     received                 A9+ S5+ 
+0000017 510  MC      178,448                  N1 T1.2 T3 T1.3 N3.2 
+0000017 520  NN2     comments                 Q2.1 
+0000017 521  .       .                        
+0000017 522  -----   -----                    
+0000017 530  AT1     A                        Z5 
+0000017 540  JJ      Foolish                  S1.2.6- E4.1+ 
+0000017 550  NN1     endeavour                X8+ 
+0000017 551  ?       ?                        
+0000017 552  -----   -----                    
+0000017 560  RR      Maybe                    A7 
+0000017 570  CCB     but                      Z5 
+0000017 580  RR      perhaps                  A7 
+0000017 590  XX      not                      Z6 
+0000017 600  RG      as                       A13 
+0000017 610  JJ      foolish                  S1.2.6- E4.1+ 
+0000017 620  CSA     as                       Z5 
+0000017 630  DD1     this                     M6 Z5 Z8 
+0000017 640  NN1     press                    Q4.2[i16.2.1 
+0000017 650  NN1     release                  Q4.2[i16.2.2 A1.7- A9- I2.2 K3 Q4 E6+ 
+0000017 651  !       !                        
+0000020 001  NULL    **8;7;text               

@@ -1,0 +1,2040 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NP1     U.S.                     Z8 
+0000002 020  NN2     consumers                I2.2/S2mf 
+0000002 030  VV0     tell                     Q2.2 Q2.1 X3 A10+ 
+0000002 040  NN2     researchers              X2.4/S2mf 
+0000002 050  PPHS2   they                     Z8mfn 
+0000002 060  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000002 070  TO      to                       Z5 
+0000002 080  VVI     buy                      I2.2 
+0000002 090  RR      environmentally          W5[i1.2.1 W5 W3 
+0000002 100  JJ      friendly                 W5[i1.2.2 S1.2.1+ S7.3-/K5.2 
+0000002 110  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000002 111  ,       ,                        
+0000002 120  CCB     but                      Z5 
+0000002 130  RG      so                       T1.1.2[i2.2.1 M6[i2.2.1 N5[i2.2.1 A13.3 
+0000002 140  RR      far                      T1.1.2[i2.2.2 M6[i2.2.2 N5[i2.2.2 A13.3 N3.3+ X9.2+ 
+0000002 150  PPHS2   they                     Z8mfn 
+0000002 160  VH0     have                     Z5 A9+ A2.2 S4 
+0000002 161  XX      n't                      Z6 
+0000002 170  VBN     been                     Z5 A3+ 
+0000002 180  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000002 190  DD1     that                     Z8 Z5 
+0000002 200  II      on                       Z5 
+0000002 210  AT1     a                        Z5 
+0000002 220  JJ      large                    N3.2+[i3.2.1 N3.2+ N5+ A11.1+ 
+0000002 230  NN1     scale                    N3.2+[i3.2.2 N3.2 N4 A4.1 K2 L2 O2 I1.1/I3.1 O1.1 N3.1 
+0000002 231  .       .                        
+0000002 232  -----   -----                    
+0000002 240  RT      Now                      T1.1.2 Z4 
+0000002 250  AT1     a                        Z5 
+0000002 260  NN1     host                     S2mf B1@ Y2@ S9% 
+0000002 270  IO      of                       Z5 
+0000002 280  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000002 290  CC      and                      Z5 
+0000002 300  NN2     nonprofits               Z99 
+0000002 310  VBR     are                      Z5 A3+ 
+0000002 320  VVG     trying                   X8+ X2.4 Q2.2 G2.1 A12- 
+0000002 330  TO      to                       Z5 
+0000002 340  VVI     use                      A1.5.1 S7.1+ 
+0000002 350  JJ      new                      T3- 
+0000002 360  NN1     technology               Y1 
+0000002 370  II      from                     Z5 
+0000002 380  NN2     smartphones              Z99 
+0000002 390  II      to                       Z5 
+0000002 400  JJ      social                   S1.1.1 
+0000002 410  NN1     networking               Q4.3 Y2 S1.1.1 
+0000002 420  TO      to                       Z5 
+0000002 430  VVI     make                     X9.2+[i4.2.1 M1[i4.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000002 440  PPH1    it                       X9.2+[i4.2.2 M1[i4.2.2 Z8 
+0000002 450  JJR     easier                   A12++ 
+0000002 460  IF      for                      Z5 
+0000002 470  NN2     buyers                   I2.2/S2mf 
+0000002 480  TO      to                       Z5 
+0000002 490  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000002 500  AT      the                      Z5 
+0000002 510  JJ      green                    O4.3 W5 L3 X9.1- 
+0000002 520  NN1     choice                   X7+ A6.3+ 
+0000002 521  .       .                        
+0000002 522  -----   -----                    
+0000004 010  AT      The                      Z5 
+0000004 020  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000004 030  NP1     Dara                     Z1mf[i5.2.1 Z3c[i5.2.1 
+0000004 040  NP1     O'Rourke                 Z1mf[i5.2.2 Z3c[i5.2.2 
+0000004 050  VVZ     tells                    Q2.2 Q2.1 X3 A10+ 
+0000004 060  AT      the                      Z5 
+0000004 070  NN1     story                    Q2.1 X4.1 Q4 
+0000004 071  ,       ,                        
+0000004 080  AT      the                      Z5 
+0000004 090  NN1     idea                     X4.1 X7+ 
+0000004 100  IF      for                      Z5 
+0000004 110  NP1     GoodGuide                Z99 
+0000004 120  VVD     came                     A4.1[i6.2.1 M1[i6.2.1 B1[i6.2.1 N5[i6.2.1 X6+[i6.2.1 X2.1[i6.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000004 130  II      to                       A4.1[i6.2.2 M1[i6.2.2 B1[i6.2.2 N5[i6.2.2 X6+[i6.2.2 X2.1[i6.2.2 Z5 
+0000004 140  PPHO1   him                      Z8m 
+0000004 150  CS      when                     Z5 
+0000004 160  PPHS1   he                       Z8m 
+0000004 170  VBDZ    was                      Z5 A3+ 
+0000004 180  VVG     slathering               Z99 
+0000004 190  DD      some                     N5 Z5 
+0000004 200  NN1     suntan                   B1 
+0000004 210  NN1     lotion                   B4 B3 
+0000004 220  II      onto                     Z5 
+0000004 230  APPGE   his                      Z8m 
+0000004 240  JJ      three-year-old           Z99 
+0000004 250  NN1     daughter                 S4f 
+0000004 251  GE      's                       Z5 
+0000004 260  NN1     face                     B1 W3 O2 A8 S1.2.3+ 
+0000004 261  .       .                        
+0000004 262  -----   -----                    
+0000004 270  NP1     O'Rourke                 Z99 
+0000004 271  ,       ,                        
+0000004 280  AT1     an                       Z5 
+0000004 290  JJ      associate                S5+ 
+0000004 300  NN1     professor                P1/S2mf 
+0000004 310  IO      of                       Z5 
+0000004 320  JJ      environmental            W5 W3 
+0000004 330  CC      and                      Z5 
+0000004 340  NN1     labor                    A1.1.1 A12- I3.1/S5+ B1 
+0000004 350  NN1     policy                   X7+ Q1.2 
+0000004 360  II      at                       Z5 
+0000004 370  NN1     University               Z3c[i7.3.1 P1/H1c 
+0000004 380  IO      of                       Z3c[i7.3.2 Z5 
+0000004 390  NP1     California               Z3c[i7.3.3 Z2 
+0000004 391  ,       ,                        
+0000004 400  NP1     Berkeley                 Z1mf Z2 
+0000004 401  ,       ,                        
+0000004 410  VVD     wondered                 X2.1 
+0000004 420  II      about                    Z5 
+0000004 430  AT      the                      Z5 
+0000004 440  NN2     ingredients              O1 
+0000004 450  II      in                       Z5 
+0000004 460  NP1     Coppertone               Z3c[i8.2.1 
+0000004 470  NN1     Water                    Z3c[i8.2.2 O1.2 W3/M4 B1 C1% Z3[i9.2.1 
+0000004 480  NN2     Babies                   T3--/S2mf E2+mfn Z3[i9.2.2 
+0000004 481  ;       ;                        
+0000004 490  PPHS1   he                       Z8m 
+0000004 500  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000004 510  DD      some                     N5 Z5 
+0000004 520  VVI     research                 X2.4 
+0000004 530  CC      and                      Z5 
+0000004 540  VVD     learned                  X2.3+ P1 
+0000004 550  PPH1    it                       Z8 
+0000004 560  VVD     contained                A1.8+ A1.7+ 
+0000004 570  NN1     oxybenzone               Z99 
+0000004 571  ,       ,                        
+0000004 580  AT1     a                        Z5 
+0000004 590  JJ      potential                A7+ 
+0000004 600  NN1     skin                     B1 O2 
+0000004 610  NN1     irritant                 E3- S8- 
+0000004 611  .       .                        
+0000004 612  -----   -----                    
+0000004 620  RRR     Later                    T4-- T1.1.3 N4 
+0000004 621  ,       ,                        
+0000004 630  NP1     O'Rourke                 Z99 
+0000004 640  VVD     found                    X2.3+[i10.2.1 A10+ X2.1 X6+ 
+0000004 650  RP      out                      X2.3+[i10.2.2 M6 
+0000004 660  CST     that                     Z5 Z8 
+0000004 670  NP1     Johnson                  Z1mf 
+0000004 671  GE      's                       Z5 
+0000004 680  NN1     Baby                     T3--/S2mf E2+mfn 
+0000004 690  NN1     Shampoo                  B4 
+0000004 700  VVD     contained                A1.8+ A1.7+ 
+0000004 710  NN1     trace                    A11.2+ N5- X2.4 
+0000004 720  NN2     amounts                  N5 
+0000004 730  IO      of                       Z5 
+0000004 740  FO      1,4-dioxane              N1 N3.3 
+0000004 741  ,       ,                        
+0000004 750  AT1     a                        Z5 
+0000004 760  JJ      probable                 A7+ 
+0000004 770  JJ      human                    S2 S1.2.1+ 
+0000004 780  NN1     carcinogen               Z99 
+0000004 781  .       .                        
+0000004 782  NULL    <quote>                  
+0000004 783  -----   -----                    
+0000004 790  PPH1    It                       Z8 
+0000004 800  VVD     shocked                  E5- S1.2.4- 
+0000004 810  PPIO1   me                       Z8mf 
+0000004 811  ,       ,                        
+0000004 812  NULL    </quote>                 
+0000004 813  -----   -----                    
+0000004 820  PPHS1   he                       Z8m 
+0000004 830  VVZ     says                     Q2.1 
+0000004 831  ,       ,                        
+0000004 832  NULL    <quote>                  
+0000004 833  -----   -----                    
+0000004 840  CST     that                     Z8 Z5 
+0000004 850  PPIS1   I                        Z8mf 
+0000004 860  RR      basically                Z4 A13.2 
+0000004 870  VVD     knew                     X2.2+ S3.2/B1% 
+0000004 880  PN1     nothing                  Z6/Z8 
+0000004 890  II      about                    Z5 
+0000004 900  AT      the                      Z5 
+0000004 910  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000004 920  PPIS1   I                        Z8mf 
+0000004 930  VBDZ    was                      Z5 A3+ 
+0000004 940  VVG     bringing                 M2 A2.2 
+0000004 950  II      into                     Z5 
+0000004 960  APPGE   my                       Z8[i11.2.1 Z8 
+0000004 970  DA      own                      Z8[i11.2.2 A9+ S5- 
+0000004 980  NN1     house                    H1 P1/S5+c G1.1c 
+0000004 981  .       .                        
+0000004 982  NULL    </quote>                 
+0000004 983  -----   -----                    
+0000006 010  NP1     O'Rourke                 Z99 
+0000006 020  VVD     started                  Z2[i12.2.1 Z3c[i12.2.1 Z1mf[i12.2.1 T2+ E5- E3- 
+0000006 030  NP1     GoodGuide                Z2[i12.2.2 Z3c[i12.2.2 Z1mf[i12.2.2 
+0000006 040  TO      to                       Z5 
+0000006 050  VVI     plug                     O3 A1.1.1 I2.2/Q2.2 
+0000006 060  DD1     that                     Z5 Z8 
+0000006 070  NN1     information              X2.2+ 
+0000006 080  NN1     gap                      N3.3 T1.3 A6.1- A9- 
+0000006 081  .       .                        
+0000006 082  -----   -----                    
+0000006 090  AT1     A                        Z5 
+0000006 100  NN1     five-year-old            T3-/I2.1c[i13.2.1 T3-/S2mf 
+0000006 110  NN1     company                  T3-/I2.1c[i13.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000006 120  VVN     backed                   S8+ K5.1/I1 M1 M6 K2 
+0000006 130  II      by                       Z5 
+0000006 140  NNU     $10                      Z99/H1c[i14.2.1 
+0000006 150  NNO     million                  Z99/H1c[i14.2.2 N1 I1 
+0000006 160  II      in                       Z5 
+0000006 170  NN1     venture                  I1.1[i15.2.1 X8+ A15- I2.1 
+0000006 180  NN1     capital                  I1.1[i15.2.2 I1.1 M7/G1.1 Q1.2 
+0000006 181  ,       ,                        
+0000006 190  NP1     GoodGuide                Z99 
+0000006 200  VVZ     employs                  I3.1 A1.5.1 
+0000006 210  RG      about                    A13.4 
+0000006 220  MC      20                       N1 T1.2 T3 T1.3 N3.2 
+0000006 230  NN      people                   S2mfc 
+0000006 231  ,       ,                        
+0000006 240  II      including                A1.8+ 
+0000006 250  JJ      environmental            W5 W3 
+0000006 260  NN2     scientists               Y1/S2mf 
+0000006 261  ,       ,                        
+0000006 270  NN2     chemists                 B3/S2mf Y1/S2mf 
+0000006 271  ,       ,                        
+0000006 280  NN2     toxicologists            Z99 
+0000008 010  VBR     Are                      A3+ Z5 
+0000008 020  EX      there                    Z5 
+0000008 030  DD      enough                   N5+ N6+ 
+0000008 040  JJ      conscious                X2.2+ X5.1+ X7+ B1 
+0000008 050  NN2     consumers                I2.2/S2mf 
+0000008 051  GE      '                        Z5 
+0000008 060  TO      to                       Z5 
+0000008 070  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000008 080  AT1     an                       Z5 
+0000008 090  NN1     impact                   A2.2 A1.1.1 
+0000008 091  ?       ?                        
+0000010 010  CC      and                      Z5 
+0000010 020  NN2     nutritionists            F1/S2mf 
+0000010 021  ,       ,                        
+0000010 030  PNQS    who                      Z8 
+0000010 040  VV0%    rate                     A5.1 
+0000010 050  DAR     more                     N5++ 
+0000010 060  CSN     than                     Z5 
+0000010 070  MC      165,000                  N1 T1.2 T3 T1.3 N3.2 
+0000010 080  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000010 081  ,       ,                        
+0000010 090  II      including                A1.8+ 
+0000010 100  JJ      personal                 S5- S1.2.1+ 
+0000010 110  NN1     care                     S8+ G1.1/S8+ B3 A1.3 E6- 
+0000010 120  NN2     items                    O2 Q4 X4.1 
+0000010 121  ,       ,                        
+0000010 130  NN1     household                S4c B4 
+0000010 140  NN2     cleaners                 B4/S2mf B4 O1.2 
+0000010 141  ,       ,                        
+0000010 150  NN1     food                     F1 
+0000010 151  ,       ,                        
+0000010 160  NN2     toys                     K6 
+0000010 161  ,       ,                        
+0000010 170  NN2     appliances               O2 
+0000010 180  CC      and                      Z5 
+0000010 190  NN1     electronics              O3 
+0000010 191  .       .                        
+0000010 192  -----   -----                    
+0000010 200  DD1     Each                     N5.1+ 
+0000010 210  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000010 220  VVZ     gets                     A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000010 230  AT1     a                        Z5 
+0000010 240  JJ      numerical                N1 
+0000010 250  NN1     rating                   A5.1 M4/S2mf I1.3/H1 N5 
+0000010 260  II      from                     Z5 
+0000010 270  MC1     1                        T1.2[i16.3.1 N3.2[i16.3.1 T1.3[i16.3.1 N1 T1.2 T3 T1.3 N3.2 
+0000010 280  II      to                       T1.2[i16.3.2 N3.2[i16.3.2 T1.3[i16.3.2 Z5 
+0000010 290  MC      10                       T1.2[i16.3.3 N3.2[i16.3.3 T1.3[i16.3.3 N1 T1.2 T3 T1.3 N3.2 
+0000010 300  II      in                       Z5 
+0000010 310  MC      three                    N1 T1.2 T3 
+0000010 320  NN2     categories               A4.1 
+0000010 330  NN1     health                   B2 X9.2 
+0000010 331  ,       ,                        
+0000010 340  NN1     environment              W5 W3 E1 Y2 O4.1 
+0000010 341  ,       ,                        
+0000010 350  CC      and                      Z5 
+0000010 360  NN1     society                  S5+c 
+0000010 361  ;       ;                        
+0000010 370  AT      the                      Z5 
+0000010 380  NN2     ratings                  A5.1 M4/S2mf I1.3/H1 N5 
+0000010 390  VBR     are                      Z5 A3+ 
+0000010 400  RT      then                     N4 Z5 T1.2 
+0000010 410  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000010 420  JJ      available                A3+ A9+ A1.2+/G1.2 S4 
+0000010 430  II      on                       Z5 
+0000010 440  NP1     GoodGuide                Z99 
+0000010 441  GE      's                       Z5 
+0000010 450  NN1     Web                      Y2 L2 O2 
+0000010 460  NN1     site                     M7 
+0000010 461  ,       ,                        
+0000010 470  II      on                       Z5 
+0000010 480  NP1     Facebook                 Z3c/Y2 
+0000010 490  CC      and                      Z5 
+0000010 500  II      on                       Z5 
+0000010 510  NN2     smartphones              Z99 
+0000010 511  .       .                        
+0000011 001  -----   -----                    
+0000012 010  NP1     O'Rourke                 Z99 
+0000012 020  VVZ     describes                Q2.2 
+0000012 030  NN1     GoodGuide                Z99 
+0000012 040  II      as                       Z5 
+0000012 050  AT1     a                        Z5 
+0000012 060  JJ      social                   S1.1.1 
+0000012 070  NN1     enterprise               I2.1 X8+ 
+0000012 071  ,       ,                        
+0000012 080  VVG     meaning                  Q1.1 X7+ 
+0000012 090  AT      the                      Z5 
+0000012 100  NN1     firm                     I2.1/S5+c 
+0000012 110  VHZ     has                      A9+ Z5 A2.2 S4 
+0000012 120  AT1     a                        Z5 
+0000012 130  NN1     purpose                  X7+ A2.2 A1.5.1 
+0000012 140  CST     that                     Z8 Z5 
+0000012 150  VVZ     goes                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000012 160  II      beyond                   Z5 
+0000012 170  VVG     making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000012 180  NN1     money                    I1 
+0000012 181  :       :                        
+0000012 190  PPH1    It                       Z8 
+0000012 200  VVZ     aims                     X7+ M6 
+0000012 210  TO      to                       Z5 
+0000012 220  VVI     persuade                 Q2.2 
+0000012 230  NN2     consumers                I2.2/S2mf 
+0000012 240  TO      to                       Z5 
+0000012 250  VVI     vote                     G1.2 
+0000012 260  IW      with                     Z5 
+0000012 270  APPGE   their                    Z8 
+0000012 280  NN2     wallets                  B5/I1 
+0000012 290  IF      for                      Z5 
+0000012 300  JJ      environmentally-friendly Z99 
+0000012 310  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000012 320  CC      and                      Z5 
+0000012 330  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000012 331  ,       ,                        
+0000012 340  CC      and                      Z5 
+0000012 350  RR      thereby                  Z5 
+0000012 360  VV0     help                     S8+ 
+0000012 370  VVI     tackle                   A1.1.1 K5.1 Q2.2 
+0000012 380  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000012 390  NN2     problems                 A12- X4.1 N2 B2- 
+0000012 391  ,       ,                        
+0000012 400  II      including                A1.8+ 
+0000012 410  NN1     climate                  W4 A1.1.1 E1 
+0000012 420  NN1     change                   A2.1+ I1 B1 
+0000012 421  ,       ,                        
+0000012 430  NN1     biodiversity             L1/A6.3+ L2/A6.3+ L3/A6.3+ 
+0000012 440  NN1     loss                     I1.2 A9- S8- L1- 
+0000012 441  ,       ,                        
+0000012 450  CC      and                      Z5 
+0000012 460  JJ      industrial               I4 
+0000012 470  NN1     pollution                W5 
+0000012 471  .       .                        
+0000014 001  NULL    <quote>                  
+0000014 002  -----   -----                    
+0000014 010  RL      There                    M6 T1.2 
+0000014 020  RR      definitely               A7+++ 
+0000014 030  VBZ     is                       A3+ Z5 
+0000014 040  AT1     a                        Z5 
+0000014 050  JJ      growing                  N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000014 060  NN1     percentage               N5 
+0000014 070  IO      of                       Z5 
+0000014 080  NN2     consumers                I2.2/S2mf 
+0000014 090  PNQS    who                      Z8 
+0000014 100  VBR     are                      A3+ Z5 
+0000014 110  JJ      aware                    X2.2+ 
+0000014 120  CC      and                      Z5 
+0000014 130  PNQS    who                      Z8 
+0000014 140  VV0     care                     E6- E2+ S8+ B3 X7+ 
+0000014 150  CC      and                      Z5 
+0000014 160  PNQS    who                      Z8 
+0000014 170  VBR     are                      Z5 A3+ 
+0000014 180  VVG     seeking                  X2.4[i17.2.1 X2.4 
+0000014 190  RP      out                      X2.4[i17.2.2 M6 
+0000014 200  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000014 210  CST     that                     Z8 Z5 
+0000014 220  VH0     have                     A9+ Z5 A2.2 S4 
+0000014 230  RRR     better                   A5.1++ G2.2++ O4.2++ 
+0000014 240  JJ      environmental            W5 W3 
+0000014 241  ,       ,                        
+0000014 250  JJ      social                   S1.1.1 
+0000014 251  ,       ,                        
+0000014 260  CC      and                      Z5 
+0000014 270  NN1     health                   B2 X9.2 
+0000014 280  NN2     attributes               O4.1 
+0000014 281  ,       ,                        
+0000014 282  NULL    </quote>                 
+0000014 283  -----   -----                    
+0000014 290  NP1     O'Rourke                 Z99 
+0000014 300  VVZ     says                     Q2.1 
+0000014 301  .       .                        
+0000014 302  NULL    <quote>                  
+0000014 303  -----   -----                    
+0000014 310  PPIS2   We                       Z8 
+0000014 320  VV0@    view                     X2.1 X3.4 X2.4 
+0000014 330  DD2     those                    Z5 Z8 
+0000014 340  NN2     consumers                I2.2/S2mf 
+0000014 350  PNQS    who                      Z8 
+0000014 360  VV0     care                     E6- E2+ S8+ B3 X7+ 
+0000014 370  CSA     as                       Z5 
+0000014 380  NN1     point                    Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
+0000014 390  IO      of                       Z5 
+0000014 400  NN1     leverage                 M2 S7.1+ 
+0000014 410  II      over                     Z5 
+0000014 420  DD2     these                    Z5 Z8 
+0000014 430  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000014 431  ,       ,                        
+0000014 440  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000014 450  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000014 451  .       .                        
+0000014 452  NULL    </quote>                 
+0000014 453  -----   -----                    
+0000014 460  DD2     These                    Z5 Z8 
+0000014 461  NULL    <quote>                  
+0000014 462  -----   -----                    
+0000014 470  JJ      conscious                X2.2+ X5.1+ X7+ B1 
+0000014 480  NN2     consumers                I2.2/S2mf 
+0000014 481  ,       ,                        
+0000014 482  NULL    </quote>                 
+0000014 483  -----   -----                    
+0000014 490  CSA     as                       Z5 
+0000014 500  PPHS2   they                     Z8mfn 
+0000014 501  VBR     're                      Z5 A3+ 
+0000014 510  RT      sometimes                N6 
+0000014 520  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000014 521  ,       ,                        
+0000014 530  VBR     are                      A3+ Z5 
+0000014 540  JJ      important                A11.1+ 
+0000014 550  II      to                       Z5 
+0000014 560  AT      the                      Z5 
+0000014 570  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
+0000014 580  IO      of                       Z5 
+0000014 590  NN1     activist                 G1.2/S2mf 
+0000014 600  NN2     groups                   S5+ A4.1 B3% 
+0000014 610  PNQS    who                      Z8 
+0000014 620  VV0     bring                    M2 A2.2 
+0000014 630  NN1     pressure                 N3.5 S7.1+ E6- 
+0000014 640  II      on                       Z5 
+0000014 650  NN2     corporations             I2.1/S5c G1.1c 
+0000014 660  TO      to                       Z5 
+0000014 670  VVI     reform                   A2.1+ 
+0000014 680  APPGE   their                    Z8 
+0000014 690  JJ      environmental            W5 W3 
+0000014 700  CC      or                       Z5 
+0000014 710  JJ      social                   S1.1.1 
+0000014 720  NN2     practices                A1.1.1 I3.1/S5+c 
+0000014 721  ;       ;                        
+0000014 730  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000014 740  VV0     feel                     X2.1 E1 X3 
+0000014 750  VVN     compelled                S7.1+ A1.1.1 E3- 
+0000014 760  TO      to                       Z5 
+0000014 770  VVI     respond                  S1.1.2+ Q2.2 
+0000014 780  CS      because                  Z5/A2.2 
+0000014 790  PPHS2   they                     Z8mfn 
+0000014 800  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000014 801  XX      n't                      Z6 
+0000014 810  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
+0000014 820  TO      to                       Z5 
+0000014 830  VVI     alienate                 A6.1- A1.8- A2.2/E2- 
+0000014 840  RR      even                     A13.1 
+0000014 850  AT1     a                        Z5 
+0000014 860  JJ      small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
+0000014 870  NN1     share                    S1.1.2+ I1.1 
+0000014 880  IO      of                       Z5 
+0000014 890  APPGE   their                    Z8 
+0000014 900  NN2     customers                I2.2/S2mf 
+0000014 910  CC      or                       Z5 
+0000014 920  JJ      potential                A7+ 
+0000014 930  NN2     customers                I2.2/S2mf 
+0000014 931  .       .                        
+0000015 001  -----   -----                    
+0000016 010  PPH1    It                       Z8 
+0000016 011  VBZ     's                       A3+ Z5 
+0000016 020  AT1     a                        Z5 
+0000016 030  JJ      reasonable               S1.2.6+ A5.1+ I1.3- 
+0000016 040  NN1     theory                   X4.1 
+0000016 050  IO      of                       Z5 
+0000016 060  NN1     change                   A2.1+ I1 B1 
+0000016 061  .       .                        
+0000016 062  -----   -----                    
+0000016 070  CCB     But                      Z5 
+0000016 080  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000016 090  PPH1    it                       Z8 
+0000016 100  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000016 101  ?       ?                        
+0000016 102  -----   -----                    
+0000016 110  VBR     Are                      A3+ Z5 
+0000016 120  EX      there                    Z5 
+0000016 130  DD      enough                   N5+ N6+ 
+0000016 140  JJ      conscious                X2.2+ X5.1+ X7+ B1 
+0000016 150  NN2     consumers                I2.2/S2mf 
+0000016 160  TO      to                       Z5 
+0000016 170  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000016 180  AT1     an                       Z5 
+0000016 190  NN1     impact                   A2.2 A1.1.1 
+0000016 191  ?       ?                        
+0000016 192  -----   -----                    
+0000016 200  NN2     Shoppers                 I2.2/S2mf 
+0000016 210  VM      may                      A7+ 
+0000016 220  VVI     tell                     Q2.2 Q2.1 X3 A10+ 
+0000016 230  NN1     market                   I2.2 I2.2/H1 
+0000016 240  NN2     researchers              X2.4/S2mf 
+0000016 250  CST     that                     Z8 Z5 
+0000016 260  PPHS2   they                     Z8mfn 
+0000016 270  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000016 280  TO      to                       Z5 
+0000016 290  VVI     buy                      I2.2 
+0000016 291  NULL    <quote>                  
+0000016 292  -----   -----                    
+0000016 300  JJR     greener                  O4.3 W5 X9.1-- 
+0000016 301  NULL    </quote>                 
+0000016 302  -----   -----                    
+0000016 310  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000016 320  CCB     but                      Z5 
+0000016 330  VM      can                      A7+ 
+0000016 340  PPHS2   they                     Z8mfn 
+0000016 350  VBI     be                       Z5 A3+ 
+0000016 360  VVN     motivated                A2.2 X5.2+ 
+0000016 370  TO      to                       Z5 
+0000016 380  VVI     act                      A1.1.1 T1.1.2 A8 K4 
+0000016 381  ?       ?                        
+0000017 001  -----   -----                    
+0000018 010  NN2     Questions                Q2.2 X4.1 
+0000018 020  II      like                     Z5 
+0000018 030  DD2     those                    Z8 Z5 
+0000018 040  VV0     face                     M6 S1.1.1 X2.1 B5 
+0000018 050  XX      not                      Z6 
+0000018 060  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000018 070  NP1     O'Rourke                 Z99 
+0000018 080  CC      and                      Z5 
+0000018 090  NP1     GoodGuide                Z99 
+0000018 091  ,       ,                        
+0000018 100  CCB     but                      Z5 
+0000018 110  DA2     many                     N5+ 
+0000018 120  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000018 130  CC      and                      Z5 
+0000018 140  VVZ     nonprofits               Z99 
+0000018 150  CST     that                     Z8 Z5 
+0000018 160  VBR     are                      Z5 A3+ 
+0000018 170  VVG     betting                  I1/A1.4 X2.6+ 
+0000018 180  II      on                       Z5 
+0000018 190  AT      the                      Z5 
+0000018 200  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000018 210  IO      of                       Z5 
+0000018 220  JJ      green                    O4.3 W5 L3 X9.1- 
+0000018 230  NN2     consumers                I2.2/S2mf 
+0000018 231  .       .                        
+0000018 232  -----   -----                    
+0000018 240  NP1     Greenpeace               Z3c 
+0000018 241  ,       ,                        
+0000018 250  REX21   for                      Z5[i18.2.1 
+0000018 260  REX22   example                  Z5[i18.2.2 
+0000018 261  ,       ,                        
+0000018 270  VVZ@    rates                    A5.1 
+0000018 280  AT      the                      Z5 
+0000018 290  NN1     world                    W1 S5+c A4.1 N5+ 
+0000018 291  GE      's                       Z5 
+0000018 300  JJT     largest                  N3.2+++ N5+++ A11.1+++ 
+0000018 310  NN1     electronics              O3/I2.1c[i19.2.1 O3 
+0000018 320  NN2     companies                O3/I2.1c[i19.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000018 330  II      on                       Z5 
+0000018 340  APPGE   their                    Z8 
+0000018 350  NN1     sustainability           T2++ 
+0000018 360  NN2     practices                A1.1.1 I3.1/S5+c 
+0000018 370  IW      with                     Z5 
+0000018 380  AT      the                      Z5 
+0000018 390  NN1     hope                     X2.6+ E4.1+ X9.2+ A5.1+ 
+0000018 400  CST     that                     Z5 Z8 
+0000018 410  NN2     consumers                I2.2/S2mf 
+0000018 420  VM      will                     T1.1.3 
+0000018 430  VVI     reward                   A5.1+/A2.2 I1.1+ S1.1.4+ 
+0000018 440  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000018 450  CC      and                      Z5 
+0000018 460  VVI     punish                   G2.1 
+0000018 470  NN2     laggards                 A5.1- X9.2- N3.8- 
+0000018 471  .       .                        
+0000018 472  -----   -----                    
+0000018 473  (       (                        
+0000018 480  DD1     This                     M6 Z5 Z8 
+0000018 490  NN1     tactic                   X4.2 
+0000018 500  VBZ     is                       Z5 A3+ 
+0000018 510  VVN     known                    X2.2+ S3.2/B1% 
+0000018 520  II      in                       Z5 
+0000018 530  AT      the                      Z5 
+0000018 540  NP1     NGO                      G1.1-/S5+ 
+0000018 550  NN1     world                    W1 S5+c A4.1 N5+ 
+0000018 560  CSA     as                       Z5 
+0000018 561  NULL    <quote>                  
+0000018 562  -----   -----                    
+0000018 570  VV0@    rank                     A5.1 S7.1++ 
+0000018 580  FU      em                       Z8 Z4 
+0000018 590  CC      and                      Z5 
+0000018 600  VV0     spank                    Z99 
+0000018 610  FU      em                       Z8 Z4 
+0000018 611  .       .                        
+0000018 612  NULL    </quote>                 
+0000018 613  -----   -----                    
+0000018 614  )       )                        
+0000018 620  RR      Similarly                A6.1+ 
+0000018 621  ,       ,                        
+0000018 630  JJ      nonprofit                Z99 
+0000018 640  NN1     Climate                  W4 A1.1.1 E1 
+0000018 650  VVZ     Counts                   N2 A11.1+ 
+0000018 660  NN2     scores                   K5 A5.1 N3.1 O2 K2 X4.1 N5% 
+0000018 670  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000018 680  NN2     corporations             I2.1/S5c G1.1c 
+0000018 690  II      on                       Z5 
+0000018 700  APPGE   their                    Z8 
+0000018 710  NN2     efforts                  X8+ O2 
+0000018 720  TO      to                       Z5 
+0000018 730  VVI     mitigate                 A5.1+/A2.1 N5-/A2.1 
+0000018 740  NN1     climate                  W4 A1.1.1 E1 
+0000018 750  NN1     change                   A2.1+ I1 B1 
+0000018 760  CC      and                      Z5 
+0000018 770  VVZ     urges                    Q2.2 
+0000018 780  NN2     consumers                I2.2/S2mf 
+0000018 781  NULL    <quote>                  
+0000018 782  -----   -----                    
+0000018 790  TO      to                       Z5 
+0000018 800  VVI     use                      A1.5.1 S7.1+ 
+0000018 810  APPGE   their                    Z8 
+0000018 820  NN2     choices                  X7+ A6.3+ 
+0000018 830  CC      and                      Z5 
+0000018 840  NN2     voices                   Q2.1 X2.1 Q3 
+0000018 841  NULL    </quote>                 
+0000018 842  -----   -----                    
+0000018 850  II      to                       Z5 
+0000018 860  NN1     pressure                 N3.5 S7.1+ E6- 
+0000018 870  DAR     more                     N5++ 
+0000018 880  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000018 890  TO      to                       Z5 
+0000018 900  VVI     act                      A1.1.1 T1.1.2 A8 K4 
+0000018 901  .       .                        
+0000018 902  -----   -----                    
+0000018 910  VVG     Taking                   A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000018 920  AT1     a                        Z5 
+0000018 930  RR      slightly                 A13.6 
+0000018 940  JJ      different                A6.1- 
+0000018 950  NN1     approach                 X4.2 M1 E1 S1.1.1 
+0000018 951  ,       ,                        
+0000018 960  NP1     BuyGreen.com             Z99 
+0000018 970  VBZ     is                       A3+ Z5 
+0000018 980  AT1     a                        Z5 
+0000018 990  NN1     shopping                 I2.2/O2 I2.2 G2.1@ 
+0000018 000  NN1     Web                      Y2 L2 O2 
+0000018 010  NN1     site                     M7 
+0000018 020  CST     that                     Z8 Z5 
+0000018 030  VVZ@    positions                M6 
+0000018 040  PPX1    itself                   Z8 
+0000018 050  AT1     a                        Z5 
+0000018 051  NULL    <quote>                  
+0000018 052  -----   -----                    
+0000018 060  JJ      trusted                  X2.1 A9- E6+ X2.6 
+0000018 070  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000018 080  IF      for                      Z5 
+0000018 090  JJ      green                    O4.3 W5 L3 X9.1- 
+0000018 100  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000018 101  .       .                        
+0000018 102  NULL    </quote>                 
+0000018 103  -----   -----                    
+0000020 010  AT      The                      Z5 
+0000020 020  RGT     most                     A13.2 
+0000020 030  JJ      ambitious                X7+ 
+0000020 040  NN1     effort                   X8+ O2 
+0000020 050  IO      of                       Z5 
+0000020 060  DB      all                      N5.1+ 
+0000020 061  ,       ,                        
+0000020 070  AT1     a                        Z5 
+0000020 080  JJ      global                   W3 M7 A1.8+ O4.4 
+0000020 090  NN1     initiative               A1.1.1 X5.2+ 
+0000020 100  VVN     known                    X2.2+ S3.2/B1% 
+0000020 110  II      as                       Z5 
+0000020 120  AT      The                      Z5 
+0000020 130  NN1     Sustainability           T2++ 
+0000020 140  NN1     Consortium               S5+c 
+0000020 150  DDQ     which                    Z8 Z5 
+0000020 160  VBDZ    was                      Z5 A3+ 
+0000020 170  VVN     received                 A9+ S5+ 
+0000020 180  NN1     startup                  T2+ 
+0000020 190  NN1     money                    I1 
+0000020 200  II      from                     Z5 
+0000020 210  NP1     Walmart                  Z99 
+0000020 220  CC      and                      Z5 
+0000020 230  RT      now                      T1.1.2 Z4 
+0000020 240  VVZ     includes                 A1.8+ 
+0000020 250  NN2     retailers                I2.2/S2mf 
+0000020 251  ,       ,                        
+0000020 260  NN1     consumer                 I2.2/S2mf 
+0000020 270  NN2     products                 O2/I2.1c[i20.2.1 O2 A1.1.1 A2.2 N2% 
+0000020 280  NN2     companies                O2/I2.1c[i20.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000020 281  ,       ,                        
+0000020 290  CC      and                      Z5 
+0000020 300  NN2     universities             P1/H1c 
+0000020 310  VBZ     is                       Z5 A3+ 
+0000020 320  VVG@    building                 H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000020 330  JJ      scientific               Y1 
+0000020 340  NN2     tools                    O2 X4.2 
+0000020 350  TO      to                       Z5 
+0000020 360  VVI     measure                  N3.1 
+0000020 370  CC      and                      Z5 
+0000020 380  NN1     report                   Q2.2 X3.2 
+0000020 390  II      on                       Z5 
+0000020 400  AT      the                      Z5 
+0000020 410  NN1     lifecycle                Z99 
+0000020 420  NN1     impact                   A2.2 A1.1.1 
+0000020 430  IO      of                       Z5 
+0000020 440  NNO2    thousands                N1 N5+ I1 
+0000020 450  IO      of                       Z5 
+0000020 460  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000020 461  ;       ;                        
+0000020 470  CCB     but                      Z5 
+0000020 480  APPGE   its                      Z8 
+0000020 490  NN1     progress                 A5.1+/A2.1 T2++ A2.1+ M1% 
+0000020 500  VHZ     has                      Z5 A9+ A2.2 S4 
+0000020 510  VBN     been                     A3+ Z5 
+0000020 520  RR      painfully                B2- E4.1- 
+0000020 530  JJ      slow                     N3.8- T1.3+ X9.1- A5.3-/T1 
+0000020 531  .       .                        
+0000021 001  -----   -----                    
+0000022 010  PN121   No                       Z8/Z6[i21.2.1 
+0000022 020  PN122   one                      Z8/Z6[i21.2.2 Z8 
+0000022 030  VVZ@    doubts                   A7- 
+0000022 040  CST     that                     Z5 Z8 
+0000022 050  JJ      green                    O4.3 W5 L3 X9.1- 
+0000022 060  NN2     consumers                I2.2/S2mf 
+0000022 070  VM      can                      A7+ 
+0000022 080  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000022 090  NN1     difference               A6.1- 
+0000022 091  .       .                        
+0000022 092  -----   -----                    
+0000022 100  PPHS2   They                     Z8mfn 
+0000022 110  VM      can                      A7+ 
+0000022 120  VBI     be                       Z5 A3+ 
+0000022 130  VVN     credited                 I1.1 X2.1 
+0000022 140  IF      for                      Z5 
+0000022 150  AT      the                      Z5 
+0000022 160  NN1     success                  X9.2+ 
+0000022 170  IO      of                       Z5 
+0000022 180  AT1     a                        Z5 
+0000022 190  NN1     slew                     L1-/E3- 
+0000022 200  IO      of                       Z5 
+0000022 210  JJ      small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
+0000022 220  CC      and                      Z5 
+0000022 230  VVD@    mid-sized                N3.2 
+0000022 240  NP1     U.S.                     Z8 
+0000022 250  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000022 260  II      like                     Z5 
+0000022 270  NP1     Annie                    Z1f 
+0000022 271  GE      's                       Z5 
+0000022 280  NP1     Homegrown                F4 
+0000022 281  ,       ,                        
+0000022 290  MD      Seventh                  N1 
+0000022 300  NN1     Generation               T1.3 S5+c 
+0000022 301  ,       ,                        
+0000022 310  CC      and                      Z5 
+0000022 320  NP1     Stonyfield               Z2[i22.2.1 
+0000022 330  NN1     Farm                     Z2[i22.2.2 F4/M7 
+0000022 340  CST     that                     Z8 Z5 
+0000022 350  VH0     have                     Z5 A9+ A2.2 S4 
+0000022 360  VVN     built                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000022 370  NN2     brands                   A4.1 Q1.1 
+0000022 380  VVN     imbued                   N5.1+ 
+0000022 390  IW      with                     Z5 
+0000022 400  JJ      environmental            W5 W3 
+0000022 410  NN1     goodness                 A5.1+ G2.2+ A1.5.2+ N3.2+ 
+0000022 411  .       .                        
+0000022 412  -----   -----                    
+0000022 413  (       (                        
+0000022 420  NP1     Annie                    Z1f 
+0000022 421  GE      's                       Z5 
+0000022 422  ,       ,                        
+0000022 430  RRT     best                     A5.1+++ A13.2 G2.2+++ O4.2+++ 
+0000022 440  VVN     known                    X2.2+ S3.2/B1% 
+0000022 450  IF      for                      Z5 
+0000022 460  APPGE   its                      Z8 
+0000022 470  JJ      organic                  L1 W5 
+0000022 480  NN1     mac                      B5 
+0000022 490  CC      and                      Z5 
+0000022 500  NN1     cheese                   F1 
+0000022 501  ,       ,                        
+0000022 510  VHD     had                      A9+ Z5 A2.2 S4 
+0000022 520  NN      sales                    I2.2 I2.2/I1.3- 
+0000022 530  IO      of                       Z5 
+0000022 540  RR      nearly                   A13.4 
+0000022 550  NNU     $120                     Z99/H1c[i23.2.1 
+0000022 560  NNO     million                  Z99/H1c[i23.2.2 N1 I1 
+0000022 570  II      in                       Z5 
+0000022 580  MC      2011                     N1 T1.2 T3 T1.3 N3.2 
+0000022 590  CC      and                      Z5 
+0000022 600  VHD     had                      A9+ Z5 A2.2 S4 
+0000022 610  AT1     a                        Z5 
+0000022 620  JJ      successful               X9.2+ 
+0000022 630  NN1     IPO                      Z1mf[i24.2.1 Z3/I2.2 
+0000022 640  MD      last                     Z1mf[i24.2.2 N4 T1.1.1[i25.2.1 
+0000022 650  NNT1    month                    T1.3 T1.1.1[i25.2.2 
+0000022 651  .       .                        
+0000022 652  )       )                        
+0000023 001  -----   -----                    
+0000024 010  NP1     Jeffrey                  Z1mf[i26.2.1 Z3c[i26.2.1 Z1m 
+0000024 020  NP1     Hollender                Z1mf[i26.2.2 Z3c[i26.2.2 
+0000024 021  ,       ,                        
+0000024 030  AT      the                      Z5 
+0000024 040  DA      former                   T2- N4 
+0000024 050  NN1     CEO                      S7.1+/S2mf 
+0000024 060  IO      of                       Z5 
+0000024 070  JJ      green-cleaning           Z99 
+0000024 080  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000024 090  MD      Seventh                  N1 
+0000024 100  NN1     Generation               T1.3 S5+c 
+0000024 101  ,       ,                        
+0000024 110  VVZ     says                     Q2.1 
+0000024 120  AT      the                      Z5 
+0000024 130  NN1     success                  X9.2+ 
+0000024 140  IO      of                       Z5 
+0000024 150  DD2     these                    Z5 Z8 
+0000024 160  JJ      socially-responsible     Z99 
+0000024 170  NN2     insurgents               Z99 
+0000024 180  VHZ     has                      Z5 A9+ A2.2 S4 
+0000024 190  VVN     changed                  A2.1+ I1 B5 
+0000024 200  AT      the                      Z5 
+0000024 210  NN2     practices                A1.1.1 I3.1/S5+c 
+0000024 220  IO      of                       Z5 
+0000024 230  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000024 240  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000024 241  .       .                        
+0000024 242  -----   -----                    
+0000024 250  FO      SC                       Z3 
+0000024 260  NP1     Johnson                  Z1mf 
+0000024 261  ,       ,                        
+0000024 270  REX21   for                      Z5[i27.2.1 
+0000024 280  REX22   instance                 Z5[i27.2.2 
+0000024 281  ,       ,                        
+0000024 290  VVD     listed                   Q1.2 N4 M4 
+0000024 300  DB      all                      N5.1+ 
+0000024 310  IO      of                       Z5 
+0000024 320  AT      the                      Z5 
+0000024 330  NN2     ingredients              O1 
+0000024 340  II      in                       Z5 
+0000024 350  APPGE   its                      Z8 
+0000024 360  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000024 370  RR      only                     A14 
+0000024 380  II      after                    Z5 
+0000024 390  MD      Seventh                  N1 
+0000024 400  NN1     Generation               T1.3 S5+c 
+0000024 410  VHD     had                      Z5 A9+ A2.2 S4 
+0000024 420  VDN     done                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000024 430  RR      so                       Z5 A13.3 
+0000024 431  .       .                        
+0000024 432  NULL    <quote>                  
+0000024 433  -----   -----                    
+0000024 440  JJ      Successful               X9.2+ 
+0000024 450  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000024 460  VH0     have                     Z5 A9+ A2.2 S4 
+0000024 470  VVN     learned                  X2.3+ P1 
+0000024 480  TO      to                       Z5 
+0000024 490  VBI     be                       A3+ Z5 
+0000024 500  RR      incredibly               A13.3 A6.2- 
+0000024 510  JJ      sensitive                X2.5+/E1 E6- O4.1 B1 A4.2+ 
+0000024 520  II      to                       Z5 
+0000024 530  NN2     consumers                I2.2/S2mf 
+0000024 531  ,       ,                        
+0000024 532  NULL    </quote>                 
+0000024 533  -----   -----                    
+0000024 540  NN1     Hollender                Z99 
+0000024 550  VVZ     says                     Q2.1 
+0000024 551  .       .                        
+0000025 001  -----   -----                    
+0000026 010  CS      Since                    Z5 
+0000026 020  AT      the                      Z5 
+0000026 030  NN1     launch                   M4fn M5 T2+ 
+0000026 040  IO      of                       Z5 
+0000026 050  NN1     GoodGuide                Z99 
+0000026 060  II      in                       Z5 
+0000026 070  MC      2007                     N1 T1.2 T3 T1.3 N3.2 
+0000026 071  ,       ,                        
+0000026 080  NP1     O'Rourke                 Z99 
+0000026 090  VVZ     says                     Q2.1 
+0000026 091  ,       ,                        
+0000026 100  DAR     more                     N5++ 
+0000026 110  CSN     than                     Z5 
+0000026 120  MC      12                       N1[i28.2.1 T1.3[i28.2.1 I1[i28.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000026 130  NNO     million                  N1[i28.2.2 T1.3[i28.2.2 I1[i28.2.2 N1 I1 
+0000026 140  NN      people                   S2mfc 
+0000026 150  VH0     have                     Z5 A9+ A2.2 S4 
+0000026 160  VVN     visited                  S1.1.1 M1 
+0000026 170  AT      the                      Z5 
+0000026 180  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000026 181  GE      's                       Z5 
+0000026 190  NN1     Web                      Y2 L2 O2 
+0000026 200  NN1     site                     M7 
+0000026 210  CC      and                      Z5 
+0000026 220  VVD     used                     A1.5.1 S7.1+ 
+0000026 230  APPGE   its                      Z8 
+0000026 240  JJ      mobile                   M1/N3.8+ A2.1+ 
+0000026 250  NN2     applications             Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
+0000026 251  .       .                        
+0000026 252  -----   -----                    
+0000026 260  NN2     Companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000026 270  VBR     are                      Z5 A3+ 
+0000026 280  VVG     paying                   X5.1+[i29.2.1 I1.2 A9- I1.1/I3.1 
+0000026 290  NN1     attention                X5.1+[i29.2.2 X5.1+ S8+ 
+0000026 291  ,       ,                        
+0000026 300  RR@     too                      N5++ 
+0000026 301  ,       ,                        
+0000026 310  CC      and                      Z5 
+0000026 320  VVG     taking                   A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000026 330  NN2     steps                    M1 T1.2 H5 A1.1.1 K1@ 
+0000026 340  TO      to                       Z5 
+0000026 350  VVI     improve                  A5.1+/A2.1 
+0000026 360  APPGE   their                    Z8 
+0000028 010  PPIS2   We                       Z8 
+0000028 011  VBR     're                      Z5 A3+ 
+0000028 020  VVG     going                    M1[i30.2.1 N5+/A2.1[i30.2.1 I1.3/N5+[i30.2.1 S7.1+/A2.1[i30.2.1 P1%[i30.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000028 030  RP      up                       M1[i30.2.2 N5+/A2.1[i30.2.2 I1.3/N5+[i30.2.2 S7.1+/A2.1[i30.2.2 P1%[i30.2.2 Z5[i31.2.1 
+0000028 040  II      against                  Z5 Z5[i31.2.2 
+0000028 050  NNO2    millions                 N1 N5+ I1 
+0000028 060  IO      of                       Z5 
+0000028 070  NNU2    dollars                  I1 
+0000028 080  IO      of                       Z5 
+0000028 090  NN1     marketing                I2.2 
+0000028 091  ,       ,                        
+0000028 092  "@      '                        
+0000028 100  VVZ     says                     Q2.1 
+0000028 110  NP1     GoodGuide                Z99 
+0000028 111  GE      's                       Z5 
+0000028 120  NN1     founder                  T2+/S2mf 
+0000028 121  .       .                        
+0000029 001  -----   -----                    
+0000030 010  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000030 020  NN2     scores                   K5 A5.1 N3.1 O2 K2 X4.1 N5% 
+0000030 021  .       .                        
+0000030 022  NULL    <quote>                  
+0000030 023  -----   -----                    
+0000030 030  RR      Basically                Z4 A13.2 
+0000030 031  ,       ,                        
+0000030 040  DB      all                      N5.1+ 
+0000030 050  IO      of                       Z5 
+0000030 060  AT      the                      Z5 
+0000030 070  NN1     consumer                 I2.2/S2mf 
+0000030 080  NN2     products                 O2/I2.1c[i32.2.1 O2 A1.1.1 A2.2 N2% 
+0000030 090  NN2     companies                O2/I2.1c[i32.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000030 100  VBR     are                      Z5 A3+ 
+0000030 110  VVG     calling                  Q1.3[i33.2.1 A9+[i33.2.1 G3@[i33.2.1 Q2.2 S1.1.1 Q1.3 S9% 
+0000030 120  PPIO2   us                       Z8 
+0000030 130  RP      up                       Q1.3[i33.2.2 A9+[i33.2.2 G3@[i33.2.2 
+0000030 140  CC      and                      Z5 
+0000030 150  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000030 160  TO      to                       Z5 
+0000030 170  VVI     interact                 S1.1.2+ A1.1.1 
+0000030 171  ,       ,                        
+0000030 172  NULL    </quote>                 
+0000030 173  -----   -----                    
+0000030 180  NP1     O'Rourke                 Z99 
+0000030 190  VVZ     says                     Q2.1 
+0000030 191  .       .                        
+0000030 192  -----   -----                    
+0000030 200  CS      While                    Z5 
+0000030 210  PPH1    it                       Z8 
+0000030 211  VBZ     's                       A3+ Z5 
+0000030 220  JJ      difficult                A12- 
+0000030 230  TO      to                       Z5 
+0000030 240  VVI     trace                    A10+ C1 X2.4 Q2.1 
+0000030 250  DD      any                      N5.1+ N5 
+0000030 260  JJ      specific                 A4.2+ 
+0000030 270  NN1     change                   A2.1+ I1 B1 
+0000030 280  II      to                       Z5 
+0000030 290  NP1     GoodGuide                Z99 
+0000030 291  ,       ,                        
+0000030 300  NP1     Johnson                  Z1mf 
+0000030 301  NULL    &;                       
+0000030 310  NP1     Johnson                  Z1mf 
+0000030 320  CC      and                      Z5 
+0000030 330  NP1     Procter                  Z3c 
+0000030 331  NULL    &;                       
+0000030 340  NN1     Gamble                   A15- I1/A1.4 K5.2/I1 
+0000030 350  VH0     have                     Z5 A9+ A2.2 S4 
+0000030 360  VVN     reformulated             Z99 
+0000030 370  APPGE   their                    Z8 
+0000030 380  NN2     shampoos                 B4 
+0000030 390  TO      to                       Z5 
+0000030 400  VVI     reduce                   N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000030 410  NN2     toxins                   O1 
+0000030 411  ,       ,                        
+0000030 420  II      including                A1.8+ 
+0000030 430  FO      1,4-dioxane              N1 N3.3 
+0000030 431  .       .                        
+0000030 432  -----   -----                    
+0000030 440  CC      And                      Z5 
+0000030 450  NP1     Clorox                   Z99 
+0000030 460  VVD     created                  A1.1.1 A2.2 E1 
+0000030 470  JJ      Green                    O4.3 W5 L3 X9.1- 
+0000030 480  NN      Works                    I4/H1c H1c A1.1.1 N5.1+ Q4 
+0000030 481  ,       ,                        
+0000030 490  AT1     a                        Z5 
+0000030 500  NN1     line                     O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000030 510  IO      of                       Z5 
+0000030 520  VVG     cleaning                 B4 
+0000030 530  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000030 540  II      on                       Z5 
+0000030 550  DDQ     which                    Z8 Z5 
+0000030 560  PPH1    it                       Z8 
+0000030 570  VHZ     has                      Z5 A9+ A2.2 S4 
+0000030 580  VVN     partnered                A9-[i34.2.1 S3.1 
+0000030 590  IW      with                     A9-[i34.2.2 Z5 
+0000030 600  AT      the                      Z5 
+0000030 610  NP1     Sierra                   Z1mf[i35.2.1 Z3c[i35.2.1 Z3 
+0000030 620  NP1     Club                     Z1mf[i35.2.2 Z3c[i35.2.2 
+0000030 621  .       .                        
+0000031 001  -----   -----                    
+0000032 010  II      In                       Z5 
+0000032 020  NN1     opinion                  X2.1 X2.1/A5 X6+ 
+0000032 030  NN2     surveys                  X2.4 
+0000032 031  ,       ,                        
+0000032 040  JJ      large                    N3.2+ N5+ A11.1+ 
+0000032 050  NN2     majorities               N5+++c 
+0000032 060  IO      of                       Z5 
+0000032 070  NN2     consumers                I2.2/S2mf 
+0000032 080  RR      consistently             A6.1+ 
+0000032 090  VV0     tell                     Q2.2 Q2.1 X3 A10+ 
+0000032 100  NN2     researchers              X2.4/S2mf 
+0000032 110  CST     that                     Z8 Z5 
+0000032 120  PPHS2   they                     Z8mfn 
+0000032 130  VV0     care                     E6- E2+ S8+ B3 X7+ 
+0000032 140  II      about                    Z5 
+0000032 150  JJ      environmental            W5 W3 
+0000032 160  CC      and                      Z5 
+0000032 170  JJ      social                   S1.1.1 
+0000032 180  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000032 181  .       .                        
+0000032 182  -----   -----                    
+0000032 190  CCB     But                      Z5 
+0000032 200  AT      the                      Z5 
+0000032 210  NN2     numbers                  N5 N1 Q1.3 K2 Q4.2 
+0000032 220  CST     that                     Z8 Z5 
+0000032 230  RR      really                   A13.3 A5.2+ 
+0000032 240  VV0     count                    N2 A11.1+ 
+0000032 250  DD2     those                    Z8 Z5 
+0000032 260  II      at                       Z5 
+0000032 270  AT      the                      Z5 
+0000032 280  NN1     cash                     I1/O3[i36.2.1 I1 
+0000032 290  NN1     register                 I1/O3[i36.2.2 Q1.2/G1.1 Q3@ K2% 
+0000032 300  VV0     tell                     Q2.2 Q2.1 X3 A10+ 
+0000032 310  AT1     a                        Z5 
+0000032 320  JJ      different                A6.1- 
+0000032 330  NN1     tale                     Q2.1 
+0000032 331  .       .                        
+0000032 332  -----   -----                    
+0000032 340  CS      While                    Z5 
+0000032 350  JJ      hybrid                   A2.1+ 
+0000032 360  NN2     cars                     M3fn 
+0000032 370  VBR     are                      A3+ Z5 
+0000032 380  JJ      trendy                   O4.2+ 
+0000032 381  ,       ,                        
+0000032 390  APPGE   their                    Z8 
+0000032 400  NN1     market                   N5/I2.1[i37.2.1 I2.2 I2.2/H1 
+0000032 410  NN1     share                    N5/I2.1[i37.2.2 S1.1.2+ I1.1 
+0000032 420  VVN     peaked                   N5.1+ A5.1+++ 
+0000032 430  II      in                       Z5 
+0000032 440  MC      2009                     N1 T1.2 T3 T1.3 N3.2 
+0000032 441  ,       ,                        
+0000032 450  II      at                       Z5 
+0000032 460  DAR     less                     N5-- 
+0000032 470  CSN     than                     Z5 
+0000032 480  MC      3                        N5[i38.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000032 490  NNU     percent                  N5[i38.2.2 N5 
+0000032 500  IO      of                       Z5 
+0000032 510  DB      all                      N5.1+ 
+0000032 520  JJ      new                      T3- 
+0000032 530  NN2     vehicles                 M3fn X4.2 
+0000032 540  VVN     sold                     I2.2 
+0000032 541  .       .                        
+0000032 542  -----   -----                    
+0000032 550  JJ      Green                    O4.3 W5 L3 X9.1- 
+0000032 560  NN1     laundry                  B4 B4/H1 
+0000032 570  NN2     detergents               B4/O1 
+0000032 580  CC      and                      Z5 
+0000032 590  NN1     household                S4c B4 
+0000032 600  NN2     cleaners                 B4/S2mf B4 O1.2 
+0000032 610  VV0     make                     A5.2-[i39.2.1 B4[i39.2.1 N5[i39.2.1 S3.1[i39.2.1 A1.1.1[i39.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000032 620  RP      up                       A5.2-[i39.2.2 B4[i39.2.2 N5[i39.2.2 S3.1[i39.2.2 A1.1.1[i39.2.2 
+0000032 630  DAR     less                     N5-- 
+0000032 640  CSN     than                     Z5 
+0000032 650  MC      5                        N5[i40.2.1 N1 
+0000032 660  NNU     percent                  N5[i40.2.2 N5 
+0000032 670  IO      of                       Z5 
+0000032 680  NN      sales                    I2.2 I2.2/I1.3- 
+0000032 690  II      in                       Z5 
+0000032 700  APPGE   their                    Z8 
+0000032 710  NN2     categories               A4.1 
+0000032 711  ,       ,                        
+0000032 720  NN1     industry                 I4c I2.1c 
+0000032 730  NN2     insiders                 A1.8+/X2.2+/S2mf 
+0000032 740  VV0     say                      Q2.1 Z4% 
+0000032 741  .       .                        
+0000032 742  -----   -----                    
+0000032 750  JJ      Organic                  L1 W5 
+0000032 760  NN2     foods                    F1 
+0000032 770  VV0     provide                  A9- S6+ 
+0000032 780  AT1     an                       Z5 
+0000032 790  JJ      impressive               O4.2+ 
+0000032 800  NN1     growth                   N3.2+/A2.1 A5.1+/A2.1 L3 B2- 
+0000032 810  NN1     story                    Q2.1 X4.1 Q4 
+0000032 820  APPGE   their                    Z8 
+0000032 830  NN      sales                    I2.2 I2.2/I1.3- 
+0000032 840  VH0     have                     Z5 A9+ A2.2 S4 
+0000032 850  VVN     ramped                   M2[i41.2.1 
+0000032 860  RP      up                       M2[i41.2.2 
+0000032 870  II      from                     Z5 
+0000032 880  NNU     $1                       I1.2/Z99[i42.2.1 
+0000032 890  NNO     billion                  I1.2/Z99[i42.2.2 N1 I1 
+0000032 900  II      in                       Z5 
+0000032 910  MC      1990                     N1 T1.2 T3 T1.3 N3.2 
+0000032 920  II      to                       Z5 
+0000032 930  NNU     $26.7                    I1.2/Z99[i43.2.1 
+0000032 940  NNO     billion                  I1.2/Z99[i43.2.2 N1 I1 
+0000032 950  II      in                       Z5 
+0000032 960  MC      2010                     N1 T1.2 T3 T1.3 N3.2 
+0000032 961  ,       ,                        
+0000032 970  II21    according                Z5[i44.2.1 Z5 
+0000032 980  II22    to                       Z5[i44.2.2 Z5 
+0000032 990  AT      the                      Z5 
+0000032 000  JJ      Organic                  L1 W5 
+0000032 010  NN1     Trade                    I3.1/S5+c[i45.2.1 I2.2 I2.1 I3.1 I2.2/N5 
+0000032 020  NN1     Association              I3.1/S5+c[i45.2.2 S5+c A6.1+/X2.1 
+0000032 021  ;       ;                        
+0000032 030  CCB     but                      Z5 
+0000032 040  APPGE   their                    Z8 
+0000032 050  NN1     popularity               E2+ 
+0000032 060  VBZ     is                       Z5 A3+ 
+0000032 070  VVN     driven                   M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000032 080  RRR     more                     A13.3 N6++ 
+0000032 090  II      by                       Z5 
+0000032 100  NN1     health                   B2 X9.2 
+0000032 110  NN2     concerns                 E6- I2.1 
+0000032 120  CSN     than                     Z5 
+0000032 130  II      by                       Z5 
+0000032 140  JJ      environmental            W5 W3 
+0000032 150  NN1     awareness                X2.2+ 
+0000032 151  .       .                        
+0000033 001  -----   -----                    
+0000034 010  DD1     This                     M6 Z5 Z8 
+0000034 020  NN1     debate                   Q2.2 
+0000034 030  VBZ     is                       A3+ Z5 
+0000034 031  XX      n't                      Z6 
+0000034 040  JJ      new                      T3- 
+0000034 041  .       .                        
+0000034 042  -----   -----                    
+0000034 050  NP1     Joel                     Z1mf[i46.2.1 Z3c[i46.2.1 Z1m 
+0000034 060  NP1     Makower                  Z1mf[i46.2.2 Z3c[i46.2.2 
+0000034 061  ,       ,                        
+0000034 070  AT      the                      Z5 
+0000034 080  NN1     founder                  T2+/S2mf 
+0000034 090  IO      of                       Z5 
+0000034 100  NN      media                    Q4/I2.1c[i47.2.1 Q4c 
+0000034 110  NN1     company                  Q4/I2.1c[i47.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000034 120  NP1     GreenBiz                 Z99 
+0000034 121  ,       ,                        
+0000034 130  VBZ     is                       A3+ Z5 
+0000034 140  JJ      skeptical                A5.1-/X2.1 
+0000034 150  II      about                    Z5 
+0000034 160  AT      the                      Z5 
+0000034 170  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000034 180  IO      of                       Z5 
+0000034 190  JJ      green                    O4.3 W5 L3 X9.1- 
+0000034 200  NN2     consumers                I2.2/S2mf 
+0000034 210  II      to                       Z5 
+0000034 220  PNQO    whom                     Z8 
+0000034 230  PPHS1   he                       Z8m 
+0000034 240  VHZ     has                      Z5 A9+ A2.2 S4 
+0000034 250  VBN     been                     Z5 A3+ 
+0000034 260  VVG     paying                   X5.1+[i48.2.1 I1.2 A9- I1.1/I3.1 
+0000034 270  JJ      close                    N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4 
+0000034 280  NN1     attention                X5.1+[i48.2.2 X5.1+ S8+ 
+0000034 290  II      since                    Z5 
+0000034 300  MC      1991                     N1 T1.2 T3 T1.3 N3.2 
+0000034 310  RRQ     when                     Z5 
+0000034 320  PPHS1   he                       Z8m 
+0000034 330  VBDZ    was                      A3+ Z5 
+0000034 340  NN1     co-author                Q4.1/S2mf 
+0000034 350  IO      of                       Z5 
+0000034 360  AT1     a                        Z5 
+0000034 370  NN1     book                     Q4.1 Q1.2 K5.1/I1 
+0000034 371  ,       ,                        
+0000034 380  AT      The                      Z5 
+0000034 390  JJ      Green                    O4.3 W5 L3 X9.1- 
+0000034 400  NN1     Consumer                 I2.2/S2mf 
+0000034 401  .       .                        
+0000034 402  NULL    <quote>                  
+0000034 403  -----   -----                    
+0000034 410  AT1     A                        Z5 
+0000034 420  JJ      small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
+0000034 430  NN1     percentage               N5 
+0000034 440  IO      of                       Z5 
+0000034 450  NN2     consumers                I2.2/S2mf 
+0000034 451  ,       ,                        
+0000034 460  II      by                       Z5 
+0000034 470  VVG     changing                 A2.1+ I1 B5 
+0000034 480  APPGE   their                    Z8 
+0000034 490  NN2     habits                   S1.1.1 A6.2+ B5@ 
+0000034 491  ,       ,                        
+0000034 500  VM      can                      A7+ 
+0000034 510  VVI     move                     M2 M1 A2.1+ E1 H4/A2.1 
+0000034 520  NN2     markets                  I2.2 I2.2/H1 
+0000034 521  ,       ,                        
+0000034 522  NULL    </quote>                 
+0000034 523  -----   -----                    
+0000034 530  NN1     Makower                  Z99 
+0000034 540  VVZ     says                     Q2.1 
+0000034 541  .       .                        
+0000034 542  NULL    <quote>                  
+0000034 543  -----   -----                    
+0000034 550  PPH1    It                       Z8 
+0000034 551  VBZ     's                       A3+ Z5 
+0000034 560  AT1     an                       Z5 
+0000034 570  RR      incredibly               A13.3 A6.2- 
+0000034 580  JJ      compelling               A5.2+/A8 
+0000034 590  NN1     notion                   X4.1 
+0000034 591  .       .                        
+0000034 592  -----   -----                    
+0000034 600  PPIS1   I                        Z8mf 
+0000034 610  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000034 620  VH0     have                     Z5 A9+ A2.2 S4 
+0000034 621  XX      n't                      Z6 
+0000034 630  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000034 640  PPH1    it                       Z8 
+0000034 650  II      in                       Z5 
+0000034 660  AT      the                      Z5 
+0000034 670  NN1     market                   I2.2 I2.2/H1 
+0000034 671  .       .                        
+0000034 672  NULL    </quote>                 
+0000034 673  -----   -----                    
+0000036 010  AT      The                      Z5 
+0000036 020  NN1     idea                     X4.1 X7+ 
+0000036 030  IO      of                       Z5 
+0000036 040  VVG     buying                   I2.2 
+0000036 050  JJ      green                    O4.3 W5 L3 X9.1- 
+0000036 060  RR      simply                   A13.6 A14 A12+ 
+0000036 070  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000036 071  XX      n't                      Z6 
+0000036 080  VVI     seem                     A8 
+0000036 090  TO      to                       Z5 
+0000036 100  VVI     drive                    M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000036 110  NN1     consumer                 I2.2/S1.1.1[i49.2.1 I2.2/S2mf 
+0000036 120  NN1     behavior                 I2.2/S1.1.1[i49.2.2 S1.1.1 A1.1.1 
+0000036 121  ,       ,                        
+0000036 130  VV0     Makower                  Z99 
+0000036 140  NN2     notes                    Q1.2 K2 
+0000036 141  .       .                        
+0000036 142  NULL    <quote>                  
+0000036 143  -----   -----                    
+0000036 150  RRQ     Why                      A2.2 
+0000036 160  PPIS2   we                       Z8 
+0000036 170  VM      ca                       A7+ 
+0000036 171  XX      n't                      Z6 
+0000036 180  VVI     move                     M2 M1 A2.1+ E1 H4/A2.1 
+0000036 190  NN      people                   S2mfc 
+0000036 200  II      to                       Z5 
+0000036 210  AT1     a                        Z5 
+0000036 220  JJR     greener                  O4.3 W5 X9.1-- 
+0000036 230  NN1     household                S4c B4 
+0000036 240  NN1     cleaner                  B4/S2mf B4 O1.2 
+0000036 250  CC      or                       Z5 
+0000036 260  AT1     a                        Z5 
+0000036 270  JJ      recycled                 A1.5.1/N6 
+0000036 280  NN1     bathroom                 B4/H2 
+0000036 290  NN1     tissue                   B1 O1.1 B4 
+0000036 300  CC      or                       Z5 
+0000036 310  AT1     an                       Z5 
+0000036 320  NN1     energy                   X5.2+ Y1 
+0000036 330  JJ      efficient                X9.1+/I3.2 N3.8+ A1.5.2+ 
+0000036 340  NN1     light                    O3[i50.2.1 W2 O3/W2 M3 O4.6+ X4.1 E1 
+0000036 350  NN1     bulb                     O3[i50.2.2 O3 L3 O2 
+0000036 360  II      in                       Z5 
+0000036 370  JJR     greater                  A5.1++ A11.1++ N3.2++ N5++ X5.2++ 
+0000036 380  NN2     numbers                  N5 N1 Q1.3 K2 Q4.2 
+0000036 390  CSN     than                     Z5 
+0000036 400  PPIS2   we                       Z8 
+0000036 401  VH0     've                      Z5 A9+ A2.2 
+0000036 410  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000036 420  RG      so                       T1.1.2[i51.2.1 M6[i51.2.1 N5[i51.2.1 A13.3 
+0000036 430  RR      far                      T1.1.2[i51.2.2 M6[i51.2.2 N5[i51.2.2 A13.3 N3.3+ X9.2+ 
+0000036 440  VBZ     is                       A3+ Z5 
+0000036 450  MC1     one                      N1 T3 T1.2 
+0000036 460  IO      of                       Z5 
+0000036 470  DD2     those                    Z5 Z8 
+0000036 480  JJ      enduring                 A1.1.1 T2++ 
+0000036 490  NN2     mysteries                X2.2- X2.5- A6.2- 
+0000036 491  ,       ,                        
+0000036 492  NULL    </quote>                 
+0000036 493  -----   -----                    
+0000036 500  PPHS1   he                       Z8m 
+0000036 510  VVZ     says                     Q2.1 
+0000036 511  .       .                        
+0000037 001  -----   -----                    
+0000038 010  II      In                       Z5 
+0000038 020  AT1     an                       Z5 
+0000038 030  NN1     interview                Q2.1 
+0000038 040  II      at                       Z5 
+0000038 050  NP1     GoodGuide                Z99 
+0000038 051  GE      's                       Z5 
+0000038 060  NN2     offices                  I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000038 070  II      in                       Z5 
+0000038 080  NP1     San                      Z2[i55.2.1 Z3c[i55.2.1 Z2[i53.2.1 Z2/S2mf Z2[i54.2.1 Z3c[i54.2.1 Z1mf[i52.2.1 Z3c[i52.2.1 
+0000038 090  NP1     Francisco                Z2[i55.2.2 Z3c[i55.2.2 Z2[i53.2.2 Z1m Z2[i54.2.2 Z3c[i54.2.2 Z1mf[i52.2.2 Z3c[i52.2.2 
+0000038 091  ,       ,                        
+0000038 100  NP1     O'Rourke                 Z99 
+0000038 110  VVZ     admits                   Q2.2 B3 A1.8+ S7.4+/M1 
+0000038 120  CST     that                     Z5 Z8 
+0000038 130  AT      the                      Z5 
+0000038 140  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000038 150  RR      still                    T2++ Z4 E3+ 
+0000038 160  VHZ     has                      S6+[i56.2.1 A9+ Z5 A2.2 S4 
+0000038 170  RR21@   a                        A13.3[i57.2.1 N6+[i57.2.1 
+0000038 180  RR22    lot                      A13.3[i57.2.2 N6+[i57.2.2 
+0000038 190  TO      to                       S6+[i56.2.2 Z5 
+0000038 200  VVI     prove                    A5.2+ X2.4 
+0000038 201  .       .                        
+0000038 202  -----   -----                    
+0000038 203  (       (                        
+0000038 210  AT      The                      Z5 
+0000038 220  JJ      44-year-old              T3 
+0000038 230  NN1@    academic                 P1/S2mf 
+0000038 240  VBZ     is                       A3+ Z5 
+0000038 250  RT      now                      T1.1.2 Z4 
+0000038 260  JJ      chief                    S7.1+ 
+0000038 270  NN1     sustainability           T2++ 
+0000038 280  NN1     officer                  G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
+0000038 290  II      at                       Z5 
+0000038 300  NP1     GoodGuide                Z99 
+0000038 301  ;       ;                        
+0000038 310  AT      the                      Z5 
+0000038 320  NN1     board                    S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
+0000038 330  VVD     hired                    I2.2 I3.1 
+0000038 340  NP1     George                   Z1mf[i58.2.1 Z3c[i58.2.1 Z1m 
+0000038 350  NP1     Consagra                 Z1mf[i58.2.2 Z3c[i58.2.2 
+0000038 351  ,       ,                        
+0000038 360  AT1     a                        Z5 
+0000038 370  JJ      longtime                 T1.3++ 
+0000038 380  NN1     technology               Y1 
+0000038 390  NN1     executive                S7.1+ I2.1/S2mf G1.1c S7.1+/S5+c 
+0000038 391  ,       ,                        
+0000038 400  CSA     as                       Z5 
+0000038 410  NN1     CEO                      S7.1+/S2mf 
+0000038 420  MD      last                     T1.1.1[i60.2.1 N4 T1.3[i59.2.1 P1/S2mf[i59.2.1 
+0000038 430  NNT1    year                     T1.1.1[i60.2.2 T1.3 P1c T1.3[i59.2.2 P1/S2mf[i59.2.2 
+0000038 431  .       .                        
+0000038 432  )       )                        
+0000038 433  NULL    <quote>                  
+0000038 434  -----   -----                    
+0000038 440  PPIS1   I                        Z8mf 
+0000038 450  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000038 460  TO      to                       Z4[i61.3.1 Z5 
+0000038 470  VBI     be                       Z4[i61.3.2 A3+ Z5 
+0000038 480  JJ      honest                   Z4[i61.3.3 A5.2+ 
+0000038 490  II      about                    Z5 
+0000038 500  RR      hard                     O4.1 X8+ X5.2+ N5+ A12- 
+0000038 510  DD1     this                     Z8 M6 Z5 
+0000038 520  VBZ     is                       A3+ Z5 
+0000038 521  ,       ,                        
+0000038 522  NULL    </quote>                 
+0000038 523  -----   -----                    
+0000038 530  NP1     O'Rourke                 Z99 
+0000038 540  VVZ     tells                    Q2.2 Q2.1 X3 A10+ 
+0000038 550  PPIO1   me                       Z8mf 
+0000038 551  .       .                        
+0000038 552  NULL    <quote>                  
+0000038 553  -----   -----                    
+0000038 560  RR      Originally               T1.1.1 
+0000038 570  PPIS2   we                       Z8 
+0000038 580  VVD     thought                  X2.1 
+0000038 590  DD1     that                     Z5 Z8 
+0000038 600  NN1     information              X2.2+ 
+0000038 610  VM      will                     T1.1.3 
+0000038 620  VVI     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000038 630  PPY     you                      Z8mf 
+0000038 640  VV0@    free                     S6- A1.7- 
+0000038 641  .       .                        
+0000038 642  -----   -----                    
+0000038 650  CCB     But                      Z5 
+0000038 660  PPIS2   we                       Z8 
+0000038 661  VBR     're                      Z5 A3+ 
+0000038 670  VVG     going                    M1[i62.2.1 N5+/A2.1[i62.2.1 I1.3/N5+[i62.2.1 S7.1+/A2.1[i62.2.1 P1%[i62.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000038 680  RP      up                       M1[i62.2.2 N5+/A2.1[i62.2.2 I1.3/N5+[i62.2.2 S7.1+/A2.1[i62.2.2 P1%[i62.2.2 Z5[i63.2.1 
+0000038 690  II      against                  Z5 Z5[i63.2.2 
+0000038 700  NNO2    millions                 N1 N5+ I1 
+0000038 710  IO      of                       Z5 
+0000038 720  NNU2    dollars                  I1 
+0000038 730  IO      of                       Z5 
+0000038 740  NN1     marketing                I2.2 
+0000038 741  .       .                        
+0000038 742  NULL    </quote>                 
+0000038 743  -----   -----                    
+0000040 010  CC      And                      Z5 
+0000040 020  RR      yet                      T1.1.2 
+0000040 030  NN1     marketing                I2.2 
+0000040 040  VBZ     is                       A3+ Z5 
+0000040 041  XX      n't                      Z6 
+0000040 050  DDQ     what                     Z8 Z5 
+0000040 060  PPH1    it                       Z8 
+0000040 070  VMK     used                     T1.1.1[i64.2.1 A6.2+[i64.2.1 
+0000040 080  TO      to                       T1.1.1[i64.2.2 A6.2+[i64.2.2 Z5 
+0000040 090  VBI     be                       A3+ Z5 
+0000040 091  ,       ,                        
+0000040 100  PPHS1   he                       Z8m 
+0000040 110  VVZ     notes                    Q2.1 Q1.2 
+0000040 111  .       .                        
+0000040 112  -----   -----                    
+0000040 120  RR21    No                       T2-[i65.2.1 Z6 
+0000040 130  RR22    longer                   T2-[i65.2.2 T1.3++ 
+0000040 140  VV0%    can                      A1.1.1 
+0000040 150  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000040 160  VVI     control                  S7.1+ A1.7+ 
+0000040 170  APPGE   their                    Z8 
+0000040 180  NN1     message                  Q1.1 Q1.3/Y2 
+0000040 181  .       .                        
+0000040 182  -----   -----                    
+0000040 190  DAR     More                     N5++ 
+0000040 200  CSN     than                     Z5 
+0000040 210  AT1     a                        T1.1.1[i66.3.1 Z5 
+0000040 220  NNT1    decade                   T1.1.1[i66.3.2 T1.3 
+0000040 230  RA      ago                      T1.1.1[i66.3.3 T1.1.1 
+0000040 231  ,       ,                        
+0000040 240  NP1     O'Rourke                 Z99 
+0000040 250  VVD     learned                  X2.3+ P1 
+0000040 260  RR      firsthand                A5.4+ N4 
+0000040 270  RRQ     how                      Z5 A13.3 
+0000040 280  VVG     putting                  M2 Q2.1 Q2.2 A1.1.1 
+0000040 290  AT1     a                        Z5 
+0000040 300  NN1     spotlight                O3/W2 X5.1+ 
+0000040 310  II      on                       Z5 
+0000040 320  JJ      corporate                S5+ I2.1/S5+ 
+0000040 330  NN1     malfeasance              G2.1- 
+0000040 340  VM      can                      A7+ 
+0000040 350  VVI     drive                    M3 A1.1.1 X5.2+ M2 S7.1+ 
+0000040 360  NN1     change                   A2.1+ I1 B1 
+0000040 361  .       .                        
+0000040 362  -----   -----                    
+0000040 370  II      As                       Z5 
+0000040 380  AT1     a                        Z5 
+0000040 390  NN1     graduate                 P1/S2mf 
+0000040 400  NN1     student                  P1/S2mf 
+0000040 410  II      at                       Z5 
+0000040 420  NP1     Berkeley                 Z1mf Z2 
+0000040 430  II      in                       Z5 
+0000040 440  MC      1997                     N1 T1.2 T3 T1.3 N3.2 
+0000040 441  ,       ,                        
+0000040 450  PPHS1   he                       Z8m 
+0000040 460  VBDZ    was                      Z5 A3+ 
+0000040 470  VVG     researching              X2.4 
+0000042 010  CS      When                     Z5 
+0000042 020  VVG     shopping                 I2.2 G2.1@ 
+0000042 030  RR      online                   Y2 
+0000042 031  ,       ,                        
+0000042 040  NN2     customers                I2.2/S2mf 
+0000042 050  VM      can                      A7+ 
+0000042 060  RT      now                      T1.1.2 Z4 
+0000042 070  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000042 080  RRQ     how                      Z5 A13.3 
+0000042 090  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000042 100  VV0     perform                  A1.1.1 K4 X9.2+ 
+0000042 110  II      on                       Z5 
+0000042 120  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000042 130  PPHS2   they                     Z8mfn 
+0000042 140  VV0     care                     E6- E2+ S8+ B3 X7+ 
+0000042 150  II      about                    Z5 
+0000042 151  .       .                        
+0000043 001  -----   -----                    
+0000044 010  NN1     pollution                W5 
+0000044 020  II      from                     Z5 
+0000044 030  NN2     factories                I4/H1 
+0000044 040  II      in                       Z5 
+0000044 050  NP1     Vietnam                  Z2 
+0000044 060  RRQ     when                     Z5 
+0000044 070  PPHS1   he                       Z8m 
+0000044 080  VVD     came                     A10+[i67.2.1 A8+[i67.2.1 M1[i67.2.1 Q2.1[i67.2.1 X9.2+[i67.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000044 090  II      across                   A10+[i67.2.2 A8+[i67.2.2 M1[i67.2.2 Q2.1[i67.2.2 X9.2+[i67.2.2 Z5 
+0000044 100  AT1     a                        Z5 
+0000044 110  JJ      leaked                   A1.7- A1.1.2 A10+/Q2.2 
+0000044 120  JJ      internal                 M6 A10- G1.1 
+0000044 130  NN1     document                 Q1.2 X2.2+ Y2 
+0000044 140  II      about                    Z5 
+0000044 150  AT1     a                        Z5 
+0000044 160  NN1@    Nike                     Z3c 
+0000044 170  NN1     shoe                     B5 
+0000044 180  NN1     supplier                 I2.2/S2mfc A9-/S2mfc 
+0000044 181  .       .                        
+0000044 182  -----   -----                    
+0000044 190  PPH1    It                       Z8 
+0000044 200  VVD     showed                   A10+ S1.1.1 
+0000044 210  CST     that                     Z5 Z8 
+0000044 220  NN2     workers                  I3.1/S2mf 
+0000044 230  VBDR    were                     Z5 A3+ 
+0000044 240  VVN     exposed                  A10+ A15- G2.2-/S3.2 
+0000044 250  II      to                       Z5 
+0000044 260  NN2     carcinogens              Z99 
+0000044 270  CST     that                     Z8 Z5 
+0000044 280  VVD     exceeded                 N5.2+ 
+0000044 290  JJ      legal                    G2.1 G2.1+ 
+0000044 300  NN2     standards                A5.1 G2.2 Q1.1 O2@ 
+0000044 301  ,       ,                        
+0000044 310  VVN     suffered                 E4.1- B2- X3 A5.1-/A2.1 S7.4+ 
+0000044 320  II      from                     Z5 
+0000044 330  JJ      respiratory              B1 
+0000044 340  NN2     problems                 A12- X4.1 N2 B2- 
+0000044 341  ,       ,                        
+0000044 350  CC      and                      Z5 
+0000044 360  VBDR    were                     Z5 A3+ 
+0000044 370  VVN     forced                   S7.1+ A1.1.1 E3- 
+0000044 380  TO      to                       Z5 
+0000044 390  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000044 400  MC      65                       N1 T1.2 T3 T1.3 N3.2 
+0000044 410  NNT2    hours                    T1.3 
+0000044 420  IF      for                      Z5 
+0000044 430  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000044 440  NNU     $10                      Z99 
+0000044 450  AT1     a                        Z5 
+0000044 460  NNT1    week                     T1.3 
+0000044 461  .       .                        
+0000044 462  -----   -----                    
+0000044 470  PPHS1   He                       Z8m 
+0000044 480  VVD     provided                 A9- S6+ 
+0000044 490  APPGE   his                      Z8m 
+0000044 500  NN2     findings                 A10+ X2.1 X6+ 
+0000044 510  II      to                       Z5 
+0000044 520  AT      The                      Z5 
+0000044 530  NP1     New                      Z3c[i71.3.1 Z1mf[i69.3.1 Z3c[i69.3.1 Z1mf[i68.2.1 Z3c[i68.2.1 Z2[i70.2.1 
+0000044 540  NP1     York                     Z3c[i71.3.2 Z2 Z1mf Z1mf[i69.3.2 Z3c[i69.3.2 Z1mf[i68.2.2 Z3c[i68.2.2 Z2[i70.2.2 Z1mf[i72.2.1 Z3c[i72.2.1 
+0000044 550  NNT2    Times                    Z3c[i71.3.3 Z3 Z3c[i69.3.3 Z1mf[i69.3.3 Z1mf[i72.2.2 Z3c[i72.2.2 
+0000044 560  CC      and                      Z5 
+0000044 570  VVD     posted                   Q1.2 M2 I3.1 
+0000044 580  AT1     a                        Z5 
+0000044 590  NN1     report                   Q2.2 X3.2 
+0000044 600  II      on                       Z5 
+0000044 610  AT      the                      Z5 
+0000044 620  NN1     Internet                 Y2 
+0000044 621  ,       ,                        
+0000044 630  VVG     setting                  A2.2[i73.2.1 I1.2[i73.2.1 O4.2+/A2.1[i73.2.1 M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000044 640  RP      off                      A2.2[i73.2.2 I1.2[i73.2.2 O4.2+/A2.1[i73.2.2 M6 K1 A1.1.1 A1.9 
+0000044 650  AT1     a                        Z5 
+0000044 660  NN1     controversy              Q2.2 
+0000044 670  CST     that                     Z8 Z5 
+0000044 680  VVD     led                      S7.1+ A2.2 M2 A1.1.1 
+0000044 690  II      to                       Z5 
+0000044 700  AT1     a                        Z5 
+0000044 710  NN1     turnaround               T1.3 A2.1+ A5.1+/A2.1 
+0000044 720  II      at                       Z5 
+0000044 730  NP1     Nike                     Z3c 
+0000044 731  ,       ,                        
+0000044 740  DDQ     which                    Z8 Z5 
+0000044 750  VBZ     is                       Z5 A3+ 
+0000044 760  RT      now                      T1.1.2 Z4 
+0000044 770  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000044 780  II      as                       Z5 
+0000044 790  AT1     a                        Z5 
+0000044 800  JJ      corporate                S5+ I2.1/S5+ 
+0000044 810  NN1     leader                   S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000044 820  II      on                       Z5 
+0000044 830  JJ      environmental            W5 W3 
+0000044 840  CC      and                      Z5 
+0000044 850  JJ      social                   S1.1.1 
+0000044 860  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000044 861  .       .                        
+0000045 001  -----   -----                    
+0000046 010  APPGE   His                      Z8m 
+0000046 020  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
+0000046 030  IW      with                     Z5 
+0000046 040  NP1     Nike                     Z3c 
+0000046 041  NULL    <quote>                  
+0000046 042  -----   -----                    
+0000046 050  VVD     showed                   A10+ S1.1.1 
+0000046 060  RR      both                     Z5 
+0000046 070  AT      the                      Z5 
+0000046 080  NN1     potential                A7+ O3 
+0000046 090  IO      of                       Z5 
+0000046 100  AT1     a                        Z5 
+0000046 110  JJ      new                      T3- 
+0000046 120  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000046 130  TO      to                       Z5 
+0000046 140  VVI     distribute               A9- I2.2 M2/N3.6 
+0000046 150  NN1     information              X2.2+ 
+0000046 151  ,       ,                        
+0000046 160  CC      and                      Z5 
+0000046 161  ,       ,                        
+0000046 170  IF      for                      Z5 
+0000046 180  PPIO1   me                       Z8mf 
+0000046 181  ,       ,                        
+0000046 190  RRQ     how                      Z5 A13.3 
+0000046 200  JJ      important                A11.1+ 
+0000046 210  PPH1    it                       Z8 
+0000046 220  VBZ     is                       A3+ Z5 
+0000046 230  TO      to                       Z5 
+0000046 240  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000046 250  APPGE   my                       Z8 
+0000046 260  NN1     research                 X2.4 
+0000046 270  RP      out                      M6 
+0000046 280  II      to                       Z5 
+0000046 290  AT      the                      Z5 
+0000046 300  NN1     public                   S5+ A10+ S5+c 
+0000046 301  ,       ,                        
+0000046 302  NULL    </quote>                 
+0000046 303  -----   -----                    
+0000046 310  NP1     O'Rourke                 Z99 
+0000046 320  VVZ     says                     Q2.1 
+0000046 321  .       .                        
+0000046 322  NULL    <quote>                  
+0000046 323  -----   -----                    
+0000046 330  NN1     GoodGuide                Z99 
+0000046 340  VBZ     is                       A3+ Z5 
+0000046 350  RR      basically                Z4 A13.2 
+0000046 360  AT1     an                       Z5 
+0000046 370  NN1     extension                H1 T1.3+/A2.1 N3.2+/A2.1 N5+/A2.1 Q1.3 B4 
+0000046 380  IO      of                       Z5 
+0000046 390  DD1     that                     Z8 Z5 
+0000046 391  .       .                        
+0000046 392  NULL    </quote>                 
+0000046 393  -----   -----                    
+0000048 010  NP1@    GoodGuide                Z99 
+0000048 020  VVD     began                    T2+ 
+0000048 030  IW      with                     Z5 
+0000048 040  AT1     a                        Z5 
+0000048 050  JJ      mobile                   Q1.3[i74.2.1 M1/N3.8+ A2.1+ 
+0000048 060  NN1     phone                    Q1.3[i74.2.2 Q1.3 
+0000048 070  VV0     app                      Z99 
+0000048 080  CST     that                     Z5 Z8 
+0000048 090  JJ      required                 X7+ S6+ 
+0000048 100  NN2     consumers                I2.2/S2mf 
+0000048 110  TO      to                       Z5 
+0000048 120  VVI     photograph               C1 
+0000048 130  NN1     bar                      Q1.1[i75.2.1 F2/H1c F2/H2 F2/H5 O2 O4.4 S8- G2.1c K2 
+0000048 140  NN2     codes                    Q1.1[i75.2.2 G2.1 A10-/Q1.1 G2.2 A4.1 Y2@ B3% B1% 
+0000048 150  TO      to                       Z5 
+0000048 160  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000048 170  NN      data                     X2.2/X2.4 Q1.1 
+0000048 180  II      on                       Z5 
+0000048 190  JJ      individual               N5- 
+0000048 200  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000048 201  .       .                        
+0000048 202  -----   -----                    
+0000048 210  PPH1    It                       Z8 
+0000048 220  RT      then                     N4 Z5 T1.2 
+0000048 230  VVD     posted                   Q1.2 M2 I3.1 
+0000048 240  NN2     reams                    N5+ Q1.2 
+0000048 250  IO      of                       Z5 
+0000048 260  NN1     information              X2.2+ 
+0000048 270  II      on                       Z5 
+0000048 280  APPGE   its                      Z8 
+0000048 290  NN1     Web                      Y2 L2 O2 
+0000048 300  NN1     site                     M7 
+0000048 301  .       .                        
+0000048 302  -----   -----                    
+0000048 310  RT      Now                      T1.1.2 Z4 
+0000048 320  PPH1    it                       Z8 
+0000048 330  VVZ@    offers                   A9- Q2.2 
+0000048 340  AT1     a                        Z5 
+0000048 350  JJ      popular                  E2+ S5+ 
+0000048 360  NN1     iPhone                   Z99 
+0000048 370  NN1     app                      Z99 
+0000048 371  ,       ,                        
+0000048 380  II31    as                       N5++[i76.2.1 Z5 
+0000048 390  II32    well                     N5++[i76.2.2 
+0000048 400  II33    as                       Z5 
+0000048 410  NN1     software                 Y2 
+0000048 420  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000048 430  AT1     a                        Z5 
+0000048 440  NN1     Transparency             Q1.2 O4.3 C1 
+0000048 450  NN1     Toolbar                  Y2 
+0000048 460  CST     that                     Z8 Z5 
+0000048 470  VVZ     attaches                 A1.7+ A2.2 
+0000048 480  II      to                       Z5 
+0000048 490  AT1     a                        Z5 
+0000048 500  NN1     Web                      Y2 L2 O2 
+0000048 510  NN1     browser                  X2.4/S2mf Y2% 
+0000048 511  .       .                        
+0000048 512  -----   -----                    
+0000048 520  CS      When                     Z5 
+0000048 530  VVG     shopping                 I2.2 G2.1@ 
+0000048 540  RR      online                   Y2 
+0000048 550  II      at                       Z5 
+0000048 560  NP1     Amazon                   Z2 M7 
+0000048 561  ,       ,                        
+0000048 570  NP1     Walmart                  Z99 
+0000048 571  ,       ,                        
+0000048 580  NN1     Target                   Z3c 
+0000048 581  ,       ,                        
+0000048 590  CC      and                      S2mf[i77.2.1 Z5 
+0000048 600  JJ      other                    S2mf[i77.2.2 A6.1- 
+0000048 610  NN2     sites                    M7 
+0000048 611  ,       ,                        
+0000048 620  NN2     shoppers                 I2.2/S2mf 
+0000048 630  VM      can                      A7+ 
+0000048 640  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000048 650  RRQ     how                      Z5 A13.3 
+0000048 660  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000048 670  VV0     perform                  A1.1.1 K4 X9.2+ 
+0000048 671  ,       ,                        
+0000048 680  II21    according                Z5[i78.2.1 Z5 
+0000048 690  II22    to                       Z5[i78.2.2 Z5 
+0000048 700  NP1     GoodGuide                Z99 
+0000048 701  ,       ,                        
+0000048 710  II      on                       Z5 
+0000048 720  NN2     issues                   X4.1 Q4.2 S4 A9- 
+0000048 730  PPHS2   they                     Z8mfn 
+0000048 740  VV0     care                     E6- E2+ S8+ B3 X7+ 
+0000048 750  II      about                    Z5 
+0000048 751  .       .                        
+0000048 752  -----   -----                    
+0000048 760  AT1     A                        Z5 
+0000048 770  NN1     GoodGuide                Z99 
+0000048 780  NN1     app                      Z99 
+0000048 790  VM      can                      A7+ 
+0000048 800  RR      also                     N5++ 
+0000048 810  VVI     ride                     K5.1/L2 M1 
+0000048 820  II      atop                     Z99 
+0000048 830  NP1     Facebook                 Z3c/Y2 
+0000048 831  ,       ,                        
+0000048 840  VVG     rating                   A5.1 
+0000048 850  AT      the                      Z5 
+0000048 860  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000048 870  CC      and                      Z5 
+0000048 880  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000048 890  II      in                       Z5 
+0000048 900  DD      any                      N5 N5.1+ 
+0000048 910  NN2     ads                      I2.2/Q2.1 X2.2+ A10+ 
+0000048 920  CST     that                     Z8 Z5 
+0000048 930  VV0     appear                   A8 A10+ A3+ G2.1 K4 Q4 
+0000048 931  .       .                        
+0000048 932  -----   -----                    
+0000048 940  NN1     GoodGuide                Z99 
+0000048 950  VVZ     intends                  X7+ 
+0000048 960  TO      to                       Z5 
+0000048 970  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000048 980  NN1     money                    I1 
+0000048 990  II      by                       Z5 
+0000048 000  VVG     providing                A9- 
+0000048 010  JJ      specialized              A4.2+ 
+0000048 020  NN      data                     X2.2/X2.4 Q1.1 
+0000048 030  II      to                       Z5 
+0000048 040  NN2     retailers                I2.2/S2mf 
+0000048 050  CC      or                       Z5 
+0000048 060  JJ      institutional            S5+ H1c S1.1.1 
+0000048 070  NN2     buyers                   I2.2/S2mf 
+0000048 071  ,       ,                        
+0000048 080  II21    such                     Z5[i79.2.1 
+0000048 090  II22    as                       Z5[i79.2.2 Z5 
+0000048 100  NN2     hospitals                B3/H1c 
+0000048 101  ;       ;                        
+0000048 110  PPH1    it                       Z8 
+0000048 120  RR      currently                T1.1.2 
+0000048 130  VVZ     generates                A2.2 O3 
+0000048 140  NN2     revenues                 G1.1/I1 I1.1+ Z3c 
+0000048 150  RRQ     when                     Z5 
+0000048 160  NN2     consumers                I2.2/S2mf 
+0000048 170  VV0     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000048 180  II      through                  Z5 
+0000048 190  NP1     GoodGuide                Z99 
+0000048 191  GE      's                       Z5 
+0000048 200  NN1     Web                      Y2 L2 O2 
+0000048 210  NN1     site                     M7 
+0000048 220  CC      or                       Z5 
+0000048 230  NN1     toolbar                  Y2 
+0000048 240  TO      to                       Z5 
+0000048 250  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000048 260  NN2     purchases                I2.2 
+0000048 270  II      on                       Z5 
+0000048 280  NP1     Amazon                   Z2 M7 
+0000048 281  .       .                        
+0000049 001  -----   -----                    
+0000050 010  AT      The                      Z5 
+0000050 020  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000050 021  GE      's                       Z5 
+0000050 030  NN1     goal                     K5.1 X7+ 
+0000050 040  VBZ     is                       A3+ Z5 
+0000050 050  II      to                       Z5 
+0000050 051  NULL    <quote>                  
+0000050 052  -----   -----                    
+0000050 060  VV0     get                      M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1- 
+0000050 070  II      into                     Z5 
+0000050 080  AT      the                      Z5 
+0000050 090  NN1     flow                     M4 M1 N5 
+0000050 100  IO      of                       Z5 
+0000050 110  AT      the                      Z5 
+0000050 120  NN1     shopping                 I2.2/O2 I2.2 G2.1@ 
+0000050 130  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
+0000050 140  CC      and                      Z5 
+0000050 150  VV0     try                      X8+ X2.4 Q2.2 G2.1 A12- 
+0000050 160  TO      to                       Z5 
+0000050 170  VVI     provide                  A9- S6+ 
+0000050 180  AT      the                      Z5 
+0000050 190  JJ      right                    A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 
+0000050 200  NN1     information              X2.2+ 
+0000050 210  II      at                       T1.1.2[i80.3.1 Z5 
+0000050 220  AT      the                      T1.1.2[i80.3.2 Z5 
+0000050 230  JJ      right                    A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 
+0000050 240  NN1     moment                   T1.1.2[i80.3.3 T1.2 T1.1.2 N3 
+0000050 241  ,       ,                        
+0000050 242  NULL    </quote>                 
+0000050 243  -----   -----                    
+0000050 250  NP1     O'Rourke                 Z99 
+0000050 260  VVZ     says                     Q2.1 
+0000050 261  .       .                        
+0000050 262  -----   -----                    
+0000050 270  NN1     GoodGuide                Z99 
+0000050 280  VHZ     has                      Z5 A9+ A2.2 S4 
+0000050 290  VVN     offered                  A9- Q2.2 
+0000050 300  TO      to                       Z5 
+0000050 310  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000050 320  APPGE   its                      Z8 
+0000050 330  NN      data                     X2.2/X2.4 Q1.1 
+0000050 340  JJ      available                A3+ A9+ A1.2+/G1.2 S4 
+0000050 350  IF      for                      Z5 
+0000050 360  NN1     display                  A10+ Y2 
+0000050 370  II      on                       Z5 
+0000050 380  NN1     supermarket              I2.2/H1c 
+0000050 390  CC      and                      Z5 
+0000050 400  VV0     drugstore                Z99 
+0000050 410  NN2     shelves                  H5 
+0000050 411  ,       ,                        
+0000050 420  CCB     but                      Z5 
+0000050 430  RG      so                       T1.1.2[i81.2.1 M6[i81.2.1 N5[i81.2.1 A13.3 
+0000050 440  RR      far                      T1.1.2[i81.2.2 M6[i81.2.2 N5[i81.2.2 A13.3 N3.3+ X9.2+ 
+0000050 450  PPH1    it                       Z8 
+0000050 460  VHZ     has                      Z5 A9+ A2.2 S4 
+0000050 470  VVN     found                    A10+ X2.1 X6+.1 
+0000050 480  AT      no                       Z6 
+0000050 490  NN2     takers                   A9+/S2mf 
+0000050 491  .       .                        
+0000050 492  -----   -----                    
+0000050 500  DD      Some                     N5 Z5 
+0000050 510  NN2     retailers                I2.2/S2mf 
+0000050 520  VM      may                      A7+ 
+0000050 530  VVI     worry                    E6- 
+0000050 540  II      about                    Z5 
+0000050 550  RRQ     how                      Z5 A13.3 
+0000050 560  APPGE   their                    Z8 
+0000050 570  NN1     store                    I2.2/H1c A9+ A9+/H1 
+0000050 580  NN2     brands                   A4.1 Q1.1 
+0000050 590  VM      would                    A7+ 
+0000050 600  VVI     perform                  A1.1.1 K4 X9.2+ 
+0000050 601  ;       ;                        
+0000050 610  NN2     others                   A6.1-/Z8 
+0000050 620  VV0     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000050 630  NN1     money                    I1 
+0000050 640  II      by                       Z5 
+0000050 650  VVG     selling                  I2.2 
+0000050 660  JJ      prime                    A11.1+++ A5.1+++ A4.2+ 
+0000050 670  NN1     shelf                    H5 
+0000050 680  NN1     space                    N3.6 W1 T1.3 Q1.2 
+0000050 690  II      to                       Z5 
+0000050 700  JJ      specific                 A4.2+ 
+0000050 710  NN2     brands                   A4.1 Q1.1 
+0000050 711  ,       ,                        
+0000050 720  RG      so                       A13.3 
+0000050 730  JJ      negative                 Z6 S8- A5.1- 
+0000050 740  NN2     ratings                  A5.1 M4/S2mf I1.3/H1 N5 
+0000050 750  VM      could                    A7+ 
+0000050 760  VVI     get                      M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1- 
+0000050 770  II      in                       M6[i82.3.1 S8-[i82.3.1 Z5 
+0000050 780  AT      the                      M6[i82.3.2 S8-[i82.3.2 Z5 
+0000050 790  NN1     way                      M6[i82.3.3 S8-[i82.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000050 800  IO      of                       Z5 
+0000050 810  DD1     that                     Z5 Z8 
+0000050 820  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000050 821  .       .                        
+0000051 001  -----   -----                    
+0000052 010  RR      Still                    T2++ Z4 E3+ 
+0000052 011  ,       ,                        
+0000052 020  PPH1    it                       Z8 
+0000052 021  VBZ     's                       Z5 A3+ 
+0000052 030  RR      only                     A14 
+0000052 040  VVGK    going                    T1.1.3[i83.2.1 
+0000052 050  TO      to                       T1.1.3[i83.2.2 Z5 
+0000052 060  VVI     get                      A2.1+ A9+ Z5 X9.2+ A2.2 M1 M2 X2.5+ E4.1- 
+0000052 070  JJR     harder                   O4.5 A12-- S1.2.5++ 
+0000052 080  TO      to                       Z5 
+0000052 090  VVI     keep                     A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000052 100  NN2     consumers                I2.2/S2mf 
+0000052 110  II      in                       X2.2-[i84.3.1 Z5 
+0000052 120  AT      the                      X2.2-[i84.3.2 Z5 
+0000052 130  NN1     dark                     X2.2-[i84.3.3 W2- 
+0000052 131  .       .                        
+0000052 132  -----   -----                    
+0000052 140  JJ      Environmental            W5 W3 
+0000052 150  NN2     groups                   S5+ A4.1 B3% 
+0000052 160  CC      and                      Z5 
+0000052 170  NN2     consumers                I2.2/S2mf 
+0000052 180  VBR     are                      Z5 A3+ 
+0000052 190  VVG     pressing                 A1.1.1 X8+ S7.1+ E6- 
+0000052 200  TO      to                       Z5 
+0000052 210  VVI     learn                    X2.3+ P1 
+0000052 220  RRR     more                     A13.3 N6++ 
+0000052 230  II      about                    Z5 
+0000052 240  RRQ     how                      Z5 A13.3 
+0000052 250  CC      and                      Z5 
+0000052 260  RRQ     where                    M6 
+0000052 270  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000052 280  VBR     are                      Z5 A3+ 
+0000052 290  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000052 291  .       .                        
+0000052 292  -----   -----                    
+0000052 300  NN2     Campaigns                X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000052 310  II      around                   Z5 
+0000052 320  NN1     palm                     B1 L3 
+0000052 330  NN1     oil                      O1.2 C1 C1/O1 
+0000052 340  II      in                       Z5 
+0000052 350  NP1     Kit-Kat                  Z99 
+0000052 360  NN2     bars                     F2/H1c F2/H2 F2/H5 O2 O4.4 S8- G2.1c K2 
+0000052 361  ,       ,                        
+0000052 370  NP1     BPA                      Z99 
+0000052 380  II      in                       Z5 
+0000052 390  NN1     baby                     T3--/S2mf E2+mfn 
+0000052 400  NN2     bottles                  O2 E5+ 
+0000052 401  ,       ,                        
+0000052 410  CC      and                      Z5 
+0000052 411  ,       ,                        
+0000052 420  RGT     most                     A13.2 
+0000052 430  RR      recently                 T3--- 
+0000052 431  ,       ,                        
+0000052 440  AT      the                      Z5 
+0000052 450  JJ      ammonia-treated          Z99 
+0000052 460  NN1     ground                   M6 W3 M7 O3 X2.1 
+0000052 470  NN1     beef                     F1 
+0000052 480  NN1     extender                 Z99 
+0000052 490  VVN     known                    X2.2+ S3.2/B1% 
+0000052 500  II      as                       Z5 
+0000052 501  NULL    <quote>                  
+0000052 502  -----   -----                    
+0000052 510  JJ      pink                     O4.3 
+0000052 520  NN1     slime                    O1.2 
+0000052 521  NULL    </quote>                 
+0000052 522  -----   -----                    
+0000052 530  VH0     have                     Z5 A9+ A2.2 S4 
+0000052 540  RR@     all                      A13.2 
+0000052 550  VVN     triggered                A2.2 
+0000052 560  JJ      rapid                    N3.8+ 
+0000052 570  NN2     reactions                A1.1.1 A6.1- B2- Y1 
+0000052 580  II      from                     Z5 
+0000052 590  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000052 591  .       .                        
+0000052 592  NULL    <quote>                  
+0000052 593  -----   -----                    
+0000052 600  NN2     Spikes                   O2 
+0000052 610  IO      of                       Z5 
+0000052 620  NN1     information              X2.2+ 
+0000052 621  ,       ,                        
+0000052 630  CC      or                       Z5 
+0000052 640  NN1     misinformation           A5.2-/X2.2 
+0000052 641  ,       ,                        
+0000052 650  II      in                       Z5 
+0000052 660  JJ      social                   S1.1.1 
+0000052 670  NN      media                    Q4c 
+0000052 680  VM      can                      A7+ 
+0000052 690  NN1     pressure                 N3.5 S7.1+ E6- 
+0000052 700  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000052 710  NN2     practices                A1.1.1 I3.1/S5+c 
+0000052 720  II      in                       X5.2+[i85.4.1 Z5 
+0000052 730  AT1     a                        X5.2+[i85.4.2 Z5 
+0000052 740  JJ      big                      X5.2+[i85.4.3 N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000052 750  NN1     way                      X5.2+[i85.4.4 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000052 751  ,       ,                        
+0000052 752  NULL    </quote>                 
+0000052 753  -----   -----                    
+0000052 760  VVZ     says                     Q2.1 
+0000052 770  NP1     Jonathan                 Z1mf[i86.2.1 Z3c[i86.2.1 Z1m 
+0000052 780  NP1     Yohannan                 Z1mf[i86.2.2 Z3c[i86.2.2 
+0000052 781  ,       ,                        
+0000052 790  AT1     an                       Z5 
+0000052 800  NN1     executive                S7.1+ I2.1/S2mf G1.1c S7.1+/S5+c 
+0000052 810  II      vice                     S7.1+/S2mf[i87.2.1 Z5 
+0000052 820  NN1     president                S7.1+/S2mf[i87.2.2 G1.1/S7.1+/S2mf 
+0000052 830  II      at                       Z5 
+0000052 840  NN1     Cone                     O4.4 O2 M3 L3 F1 
+0000052 850  NN2     Communications           Q2.1 Q1.2 Q1.3 Q4.3 
+0000052 851  .       .                        
+0000053 001  -----   -----                    
+0000054 010  II      In                       Z5 
+0000054 020  DA      such                     Z5 Z8 
+0000054 030  NN2     instances                A4.1 T1.2 
+0000054 031  ,       ,                        
+0000054 040  AT      the                      Z5 
+0000054 050  NN1     consumer                 I2.2/S2mf 
+0000054 060  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000054 061  XX      n't                      Z6 
+0000054 070  VVI     need                     S6+ 
+0000054 080  TO      to                       Z5 
+0000054 090  VVI     act                      A1.1.1 T1.1.2 A8 K4 
+0000054 091  .       .                        
+0000054 092  -----   -----                    
+0000054 100  RR      Merely                   A13.6 A14 
+0000054 110  AT      the                      Z5 
+0000054 120  NN1     fear                     E5- 
+0000054 130  IO      of                       Z5 
+0000054 140  NN1     exposure                 A15- A10+ Q4 C1 
+0000054 150  CC      and                      Z5 
+0000054 160  AT1     a                        Z5 
+0000054 170  NN1     backlash                 A5.1- S8- 
+0000054 180  VM      can                      A7+ 
+0000054 190  VVI     spur                     X5.2+ A2.2 
+0000054 200  NN1     change                   A2.1+ I1 B1 
+0000054 201  .       .                        
+0000054 202  -----   -----                    
+0000054 210  VVZ     Says                     Q2.1 
+0000054 220  NP1     O'Rourke                 Z99 
+0000054 221  :       :                        
+0000054 222  NULL    <quote>                  
+0000054 223  -----   -----                    
+0000054 230  NN1     Transparency             Q1.2 O4.3 C1 
+0000054 240  VBZ     is                       Z5 A3+ 
+0000054 250  VVG     moving                   M2 M1 A2.1+ E1 H4/A2.1 
+0000054 260  RL      forward                  M6 T1.1.3 
+0000054 261  .       .                        
+0000054 262  -----   -----                    
+0000054 270  DD1     That                     Z8 Z5 
+0000054 271  VBZ     's                       A3+ Z5 
+0000054 280  JJ      unstoppable              Z99 
+0000054 281  .       .                        
+0000054 282  -----   -----                    
+0000054 290  APPGE   Our                      Z8 
+0000054 300  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000054 310  NN1     bet                      I1/A1.4 
+0000054 320  VBZ     is                       A3+ Z5 
+0000054 330  DD1     that                     Z5 Z8 
+0000054 340  NN1     transparency             Q1.2 O4.3 C1 
+0000054 350  VBZ     is                       Z5 A3+ 
+0000054 360  VVGK    going                    T1.1.3[i88.2.1 
+0000054 370  TO      to                       T1.1.3[i88.2.2 Z5 
+0000054 380  VVI     motivate                 A2.2 X5.2+ 
+0000054 390  NN1     change                   A2.1+ I1 B1 
+0000054 391  .       .                        
+0000054 392  NULL    </quote>                 
+0000054 393  -----   -----                    
+0000054 400  PPH1    It                       Z8 
+0000054 401  VBZ     's                       A3+ Z5 
+0000054 410  RG      too                      N5.2+ A13.3 
+0000054 420  RR      soon                     T1.1.3/N3.8+ 
+0000054 430  TO      to                       Z5 
+0000054 440  VVI     say                      Q2.1 Z4% 
+0000054 450  CSW     whether                  Z5 
+0000054 460  DD1     that                     Z5 Z8 
+0000054 470  NN1     bet                      I1/A1.4 
+0000054 480  VM      will                     T1.1.3 
+0000054 490  VVI     pay                      I1.2[i89.2.1 I3.1-[i89.2.1 X9.2+[i89.2.1 I1.2 A9- I1.1/I3.1 
+0000054 500  RP      off                      I1.2[i89.2.2 I3.1-[i89.2.2 X9.2+[i89.2.2 M6 K1 A1.1.1 A1.9 
+0000054 501  .       .                        
+0000057 001  NULL    **8;7;text               

@@ -1,0 +1,23 @@
+As a retailer, my company uses POS terminals. While we have a number of security controls in place, with the recent...
+
+Sign in for existing members Continue Reading This Article Enjoy this article as well as all of our content, including E-Guides, news, tips and more. Step 2 of 2: You forgot to provide an Email Address. This email address doesn't appear to be valid. This email address is already registered. Please login. You have exceeded the maximum character limit. Please provide a Corporate E-mail Address.
+
+By submitting my Email address I confirm that I have read and accepted the Terms of Use and Declaration of Consent. By submitting your personal information, you agree that TechTarget and its partners may contact you regarding relevant content, products and special offers. You also agree that your personal information may be transferred and processed in the United States, and that you have read and agree to the Terms of Use and the Privacy Policy.
+
+surge in POS malware, I am wondering if there are any additional measures we should look at to protect our systems?
+
+Cybercriminals are always looking for opportunities to compromise point-of-sale (POS) terminals. One of the most common methods used for attacks is memory-scraping malware, a type of malware that locates and pilfers sensitive data from the memory of the POS terminal.
+
+Two of the most recent examples of POS malware attackers are Dexter and Kaptoxa. The Dexter malware, which was discovered in December of 2012, infected hundreds of POS systems across multiple countries by injecting itself into the Windows operating systems, staying active through rewriting in the system registry key, scraping sensitive credit card data from the systems, and finally transferring the information to a remote command-and-control system. A year later, the second-largest discount retailer in the U.S. experienced a major data breach due to POS malware. Reports have revealed that Target's POS terminals were infected with Kaptoxa, a variety of RAM-scraping malware. In this breach, attackers were able to harvest the credit card information of more than 40 million customers.
+
+So, what can be done? How can organizations protect themselves and their POS terminals against this potentially disastrous malware?
+
+The retail industry represents a good use case demonstrating how whitelisting technology can effectively provide the protection needed from unauthorized processes running in POS systems used to process financial transactions. Whitelisting is an administrative process that allows only pre-approved applications to execute in a system. It hardens the OS and applications to ensure that executables cannot be deleted, added or modified except by a trusted source. Due to their generally static nature, POS terminals are highly suited to benefit from whitelisting, along with ATMs, kiosks and other terminals that process payment data. Properly implemented, whitelisting in these endpoints not only provides robust security but also satisfies a number of Payment Card Industry Data Security Standard requirements.
+
+So, how should whitelisting be implemented? Obviously, the more stringent the process, the more protection it provides. Enterprises have the option of either employing a third-party whitelisting product or creating their own strategy. When implementing a whitelisting security strategy in POS terminals, various deployment approaches create different levels of success. There are five main phases in a whitelisting project:
+
+Documenting the requirements Designing a strategy Building Testing and validation Deployment
+
+Also note that before a whitelisting product is deployed to any production system, a robust testing plan and incident response procedure must be written so that rogue processes or application detects can be called out and responded to quickly in order to minimize the risk and reduce the impact to the business.
+
+Once the testing and validation phase is complete, the whitelisting program can be pushed to production systems through an existing patching system or packaged as part of the OS image for new systems. It is critical that any whitelisting strategy also have reporting and logging features for monitoring and compliance requirements. These will also help ensure that the application is running and is healthy as expected. Additionally, should there be a reporting issue, an alert will notify the appropriate support team to look into and fix the reported issue.

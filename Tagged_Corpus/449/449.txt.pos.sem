@@ -1,0 +1,509 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN1     City                     M7c M7/I2.1c 
+0000002 020  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000002 030  VVD     signed                   Q1.2[i1.2.1 Q4.3[i1.2.1 Q1.3[i1.2.1 T2-[i1.2.1 Q1.2 Q1.1 G2.1 I3.1 S9 
+0000002 040  RP      off                      Q1.2[i1.2.2 Q4.3[i1.2.2 Q1.3[i1.2.2 T2-[i1.2.2 M6 K1 A1.1.1 A1.9 
+0000002 050  RT      today                    T1.1.2 
+0000002 060  II      on                       Z5 
+0000002 070  AT1     a                        Z5 
+0000002 080  JJ      massive                  N3.2+ 
+0000002 090  NN1     construction             H1 A1.1.1 O2 X2.1 
+0000002 100  NN1     project                  A1.1.1 P1 
+0000002 101  ,       ,                        
+0000002 110  DDQ     which                    Z8 Z5 
+0000002 120  VVZ     promises                 S6+ A7+ 
+0000002 130  TO      to                       Z5 
+0000002 140  VVI     become                   A2.1+ O4.2+ 
+0000002 150  AT1     a                        Z5 
+0000002 160  JJ      major                    A11.1+ N3.2+ 
+0000002 170  JJ      international            M7 
+0000002 180  NN1     attraction               O4.2+ S3.2 O3 
+0000002 190  II      on                       Z5 
+0000002 200  AT      the                      Z5 
+0000002 210  ND1     north                    M6 
+0000002 220  NN1     shore                    W3/M4 
+0000002 230  IO      of                       Z5 
+0000002 240  AT      the                      Z5 
+0000002 250  NP1     Tempe                    Z2[i3.2.1 Z2[i2.2.1 
+0000002 260  NN1     Town                     Z2[i3.2.2 M7 Z2[i2.2.2 
+0000002 270  NN1     Lake                     W3/M4 
+0000002 271  .       .                        
+0000003 001  -----   -----                    
+0000004 010  NN1     Developer                H1/S2mf C1/O1.2@@ 
+0000004 020  JJ      Spurious                 A5.4- 
+0000004 021  NULL    &;                       
+0000004 030  NN1     Blunder                  A5.3- 
+0000004 040  NN2     Equities                 G2.2+ G2.1 I1.1 
+0000004 050  NP1     LLC                      Z99 
+0000004 060  AT      the                      Z5 
+0000004 070  NP1     U.S.                     Z8 
+0000004 080  NN1     subsidiary               A11.1- S5+ 
+0000004 090  IO      of                       Z5 
+0000004 100  JJ      Scotland-based           Z99 
+0000004 110  NN121   Ignis                    Z99 
+0000004 120  NN122   Fatuus                   Z99 
+0000004 130  NN2     Industries               I4 
+0000004 140  NP1     Intl.                    Z99 
+0000004 150  VVZ     plans                    X7+ 
+0000004 160  TO      to                       Z5 
+0000004 170  VVI     break                    A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000004 180  NN1     ground                   M6 W3 M7 O3 X2.1 
+0000004 190  RR      late                     T4- T1.1 
+0000004 200  DD1     this                     M6 Z5 Z8 
+0000004 210  NNT1    summer                   T1.3 
+0000004 220  II      on                       Z5 
+0000004 230  NP1     Nessyland                Z1mf[i4.2.1 Z3c[i4.2.1 
+0000004 240  NP1     U.S.A.                   Z1mf[i4.2.2 Z3c[i4.2.2 Z2 
+0000004 241  ,       ,                        
+0000004 250  AT1     a                        Z5 
+0000004 260  FO      1.6MSF                   Z99 
+0000004 270  NN1     aquarium                 L2/H1 L2/O2 
+0000004 280  CC      and                      Z5 
+0000004 290  NN1     amusement                K1/M7c[i5.2.1 K1 E4.1+ 
+0000004 300  NN1     park                     K1/M7c[i5.2.2 M7/L3 
+0000004 301  ,       ,                        
+0000004 310  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000004 320  NN1     complex                  H1 B2-/X1 
+0000004 330  CC      and                      Z5 
+0000004 340  RR      multifamily              Z99 
+0000004 350  JJ      mixed-use                Z99 
+0000004 360  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000004 361  ,       ,                        
+0000004 370  CS      according                Z5 
+0000004 380  JJ      Spurious                 A5.4- 
+0000004 381  NULL    &;                       
+0000004 390  NN1     Blunder                  A5.3- 
+0000004 400  II      Vice                     S7.1+/S2mf[i6.2.1 Z5 
+0000004 410  NN1     President                S7.1+/S2mf[i6.2.2 G1.1/S7.1+/S2mf 
+0000004 420  IO      of                       Z5 
+0000004 430  NN1     Development              A2.1+ A5.1+/A2.1 H1 
+0000004 440  NP1     Karl                     Z1mf[i7.2.1 Z3c[i7.2.1 Z1m 
+0000004 450  NP1     Hungus                   Z1mf[i7.2.2 Z3c[i7.2.2 
+0000004 451  .       .                        
+0000006 001  NULL    <quote>                  
+0000006 002  -----   -----                    
+0000006 010  DD1     This                     Z8 M6 Z5 
+0000006 020  VM      will                     T1.1.3 
+0000006 030  VBI     be                       A3+ Z5 
+0000006 040  AT      the                      Z5 
+0000006 050  RR      absolutely               A13.2 Z4 
+0000006 060  JJT     hugest                   N3.2+++ 
+0000006 070  CC      and                      Z5 
+0000006 080  JJT     most-classiest           Z99 
+0000006 090  NN1     aquarium/amusement       Z99 
+0000006 100  NN1     park/multifamily/office  Z99 
+0000006 110  NN1     project                  A1.1.1 P1 
+0000006 120  RR      ever                     T1.1 N6+++ A13 
+0000006 130  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000006 140  II      in                       Z5 
+0000006 150  NP1     Tempe                    Z99 
+0000006 151  ,       ,                        
+0000006 152  NULL    </quote>                 
+0000006 153  -----   -----                    
+0000006 160  VVD     said                     Q2.1 
+0000006 170  NP1     Hungus                   Z99 
+0000006 171  .       .                        
+0000006 172  NULL    <quote>                  
+0000006 173  -----   -----                    
+0000006 180  PPIS1   I                        Z8mf 
+0000006 190  VV0     swear                    Q2.2/S1.2.4- Q2.2 
+0000006 191  ,       ,                        
+0000006 200  PN1     everyone                 Z8/N5.1+c 
+0000006 210  VBZ     is                       Z5 A3+ 
+0000006 220  VVGK    gon                      T1.1.3 
+0000006 221  TO      na                       Z5 
+0000006 230  RR      totally                  A13.2 N5.1+ 
+0000006 240  VVI     freak                    E5-[i8.2.1 E5- 
+0000006 250  RP      out                      E5-[i8.2.2 M6 
+0000006 260  CS      when                     Z5 
+0000006 270  PPHS2   they                     Z8mfn 
+0000006 280  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000006 290  RGQ@    how                      Z5 A13.3 
+0000006 300  JJ      classy                   O4.2+ 
+0000006 310  CC      and                      Z5 
+0000006 320  JJ      huge                     N3.2+++ 
+0000006 330  DD1     this                     M6 Z5 Z8 
+0000006 340  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
+0000006 350  VBZ     is                       Z5 A3+ 
+0000006 360  VVGK    gon                      T1.1.3 
+0000006 361  TO      na                       Z5 
+0000006 370  VBI     be                       A3+ Z5 
+0000006 371  ,       ,                        
+0000006 380  RR21    for                      Z5 A5.1+ S8+ M6 
+0000006 390  RR22    sure                     A7+ 
+0000006 391  .       .                        
+0000006 392  NULL    </quote>                 
+0000006 393  -----   -----                    
+0000008 010  AT      The                      Z5 
+0000008 020  NN1     project                  A1.1.1 P1 
+0000008 030  VBZ     is                       A3+ Z5 
+0000008 040  AT      the                      Z5 
+0000008 050  NN1     brainchild               A9+/X2.1 
+0000008 060  IO      of                       Z5 
+0000008 070  JJ      award-almost-winning     Z99 
+0000008 080  NN1     architect                H1/I3.2/S2mf X7+/S2mf T2+/S2mf 
+0000008 090  NP1     Kung                     Z1mf[i9.2.1 Z3c[i9.2.1 
+0000008 100  NP1     Pao                      Z1mf[i9.2.2 Z3c[i9.2.2 
+0000008 110  IO      of                       Z5 
+0000008 120  NN1     design                   C1/I2.1c[i10.2.1 C1 X7+ B5 
+0000008 130  NN1     firm                     C1/I2.1c[i10.2.2 I2.1/S5+c 
+0000008 140  NP1     Tsao                     Z99 
+0000008 141  ,       ,                        
+0000008 150  JJ      Foo-Yung                 Z99 
+0000008 151  NULL    &;                       
+0000008 160  NN1     BeefWithBroccoli         Z99 
+0000008 161  ,       ,                        
+0000008 170  PNQS    who                      Z8 
+0000008 180  MD      first                    N4 
+0000008 190  VVN     conceived                X2.1 B1% 
+0000008 200  IO      of                       Z5 
+0000008 210  NP1     Nessyland                Z99 
+0000008 220  CS      after                    Z5 
+0000008 230  PPHS1   he                       Z8m 
+0000008 240  VVD     suffered                 E4.1- B2- X3 A5.1-/A2.1 S7.4+ 
+0000008 250  AT1     a                        Z5 
+0000008 260  JJ      traumatic                E4.1- 
+0000008 270  NN1     brain                    B2-[i11.2.1 B1 X2 X9.1+ X9.1+/S2mf 
+0000008 280  NN1     injury                   B2-[i11.2.2 B2- A1.1.2 E1 
+0000008 290  CS      while                    Z5 
+0000008 300  VVG     vacationing              T1.3/P1- K1 
+0000008 310  II      in                       Z5 
+0000008 320  NP1     Scotland                 Z2 Z3c 
+0000008 321  .       .                        
+0000008 322  -----   -----                    
+0000008 330  VVN     Dazed                    E5- B2- 
+0000008 340  IW      with                     Z5 
+0000008 350  NN1     excitement               X5.2+ 
+0000008 360  II      over                     Z5 
+0000008 370  AT      the                      Z5 
+0000008 380  JJ      new                      T3- 
+0000008 390  NN1     amusement                K1/M7c[i12.2.1 K1 E4.1+ 
+0000008 400  NN1     park                     K1/M7c[i12.2.2 M7/L3 
+0000008 410  NN1     concept                  X4.1 
+0000008 411  ,       ,                        
+0000008 420  NP1     Kung                     Z99 
+0000008 430  RR      immediately              N3.8+ T1.1.2/A11.1+ N4 
+0000008 440  VVN     struck                   I3.1 E3- A1.1.1 A11.2+ A8 E2+ X3.2 A9+ 
+0000008 450  RP      up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
+0000008 460  AT1     a                        Z5 
+0000008 470  JJ      serious                  A11.1+ A15- E4.1- 
+0000008 480  NN1     business                 I2.1[i13.2.1 I2.1 A1.1.1 A5.1+++ 
+0000008 490  NN1     arrangement              I2.1[i13.2.2 Q2.2 S7.1+ O4.1 
+0000008 500  IW      with                     Z5 
+0000008 510  AT1     a                        Z5 
+0000008 520  NN1     group                    S5+c A4.1c B3% 
+0000008 530  IO      of                       Z5 
+0000008 540  JJ      local                    M7 
+0000008 550  NN1     fisherman                F4/M4/S2.2m K5.1/M4/S2.2m 
+0000008 551  ,       ,                        
+0000008 560  PNQS    who                      Z8 
+0000008 570  VVD     assured                  A7+ Q2.2 
+0000008 580  PPHO1   him                      Z8m 
+0000008 590  PPHS2   they                     Z8mfn 
+0000008 600  VM      will                     T1.1.3 
+0000008 610  VBI     be                       A3+ Z5 
+0000008 620  JK      able                     X9.1+ 
+0000008 630  TO      to                       Z5 
+0000008 640  VVI     deliver                  M2 Q2.1 X9.2+ B3 S9% 
+0000008 650  AT      the                      Z5 
+0000008 660  NN1     park                     M7/L3 
+0000008 661  GE      's                       Z5 
+0000008 670  NN1     star                     W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 
+0000008 680  NN1     attraction               O4.2+ S3.2 O3 
+0000008 690  II      in                       N3.8[i14.2.1 T4[i14.2.1 Z5 
+0000008 700  NNT1    time                     N3.8[i14.2.2 T4[i14.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000008 710  AT1     a                        Z5 
+0000008 720  NPM1    March                    T1.3[i15.2.1 T1.3 
+0000008 730  MC      2017                     T1.3[i15.2.2 N1 T1.2 T3 T1.3 N3.2 I1[i16.2.1 N1[i16.2.1 
+0000008 740  JJ      grand                    O4.2+ A11.1+ A5.1+ N3.2+ S1.2.3+ I1[i16.2.2 N1[i16.2.2 
+0000008 750  NN1     opening                  A1.1.1 T2+ O2 I3.1 
+0000008 751  .       .                        
+0000010 001  NULL    <quote>                  
+0000010 002  -----   -----                    
+0000010 010  AT      The                      Z5 
+0000010 020  JJ      central                  A11.1+ M6 
+0000010 030  NN1     attraction               O4.2+ S3.2 O3 
+0000010 040  IO      of                       Z5 
+0000010 050  AT      the                      Z5 
+0000010 060  NN1     aquarium                 L2/H1 L2/O2 
+0000010 070  VM      will                     T1.1.3 
+0000010 080  VBI     be                       A3+ Z5 
+0000010 081  ,       ,                        
+0000010 090  RR21    of                       Z4[i17.2.1 
+0000010 100  RR22    course                   Z4[i17.2.2 Z4 
+0000010 101  ,       ,                        
+0000010 110  AT      the                      Z5 
+0000010 120  NNL1    Loch                     Z2[i18.2.1 W3/M4 
+0000010 130  NP1     Ness                     Z2[i18.2.2 
+0000010 140  NN1     monster                  L2/S9mfn G2.2-/S2mf 
+0000010 141  ,       ,                        
+0000010 142  NULL    </quote>                 
+0000010 143  -----   -----                    
+0000010 150  VVD     said                     Q2.1 
+0000010 160  NP1     Kung                     Z99 
+0000010 161  .       .                        
+0000010 162  NULL    <quote>                  
+0000010 163  -----   -----                    
+0000010 170  IW      With                     Z5 
+0000010 180  AT      the                      Z5 
+0000010 190  NN1     opening                  A1.1.1 T2+ O2 I3.1 
+0000010 200  IO      of                       Z5 
+0000010 210  NP1     Nessyland                Z99 
+0000010 211  ,       ,                        
+0000010 220  NP1     Tempe                    Z99 
+0000010 230  VM      will                     T1.1.3 
+0000010 240  VVI     join                     A2.2 S5+ A1.8+ A1.1.1 
+0000010 250  AT      the                      Z5 
+0000010 260  NN2     ranks                    S7.1+ S5+ M3 A5.1 
+0000010 270  IO      of                       Z5 
+0000010 280  AT      the                      Z5 
+0000010 290  NN1     world                    W1 S5+c A4.1 N5+ 
+0000010 291  GE      's                       Z5 
+0000010 300  RGT     most                     A13.2 
+0000010 310  JJ      sought-after             Z99 
+0000010 320  NN2     attractions              O4.2+ S3.2 O3 
+0000010 321  ,       ,                        
+0000010 330  II21    such                     Z5[i19.2.1 
+0000010 340  II22    as                       Z5[i19.2.2 Z5 
+0000010 350  NP1     Kona                     Z1mf[i20.2.1 Z3c[i20.2.1 
+0000010 360  NP1     Hawaii                   Z1mf[i20.2.2 Z3c[i20.2.2 Z2 
+0000010 361  GE      's                       Z5 
+0000010 370  JJ      famous                   X2.2+ 
+0000010 380  JJ      scenic                   O4.2+ 
+0000010 390  NN1     urinal                   H5/B4 
+0000010 400  CC      or                       Z5 
+0000010 410  AT      the                      Z5 
+0000010 420  NN2     ruins                    A1.1.2 H1/A1.1.2 
+0000010 430  IO      of                       Z5 
+0000010 440  NP1     Chernobyl                Z2 Z3c 
+0000010 441  .       .                        
+0000010 442  NULL    </quote>                 
+0000012 001  NULL    <quote>                  
+0000012 002  -----   -----                    
+0000012 010  RR      Also                     N5++ 
+0000012 011  ,       ,                        
+0000012 020  PPH1    it                       Z8 
+0000012 021  VBZ     's                       A3+ Z5 
+0000012 030  RR      extremely                A13.3 
+0000012 040  JJ      important                A11.1+ 
+0000012 050  TO      to                       Z5 
+0000012 060  VVI     consider                 X2.1 X2.4 X6 
+0000012 070  NN1     uuhhh                    Z99 
+0000012 080  NN2     apples                   L3 F1 
+0000012 081  !       !                        
+0000012 082  NULL    </quote>                 
+0000012 083  -----   -----                    
+0000012 090  NP1     Kung                     Z99 
+0000012 100  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000012 110  II      before                   Z5 
+0000012 120  VVG     passing                  B2-[i21.2.1 A9-[i21.2.1 G3[i21.2.1 M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
+0000012 130  RP      out                      B2-[i21.2.2 A9-[i21.2.2 G3[i21.2.2 M6 
+0000012 140  RR      unexpectedly             X2.6- 
+0000012 141  .       .                        
+0000013 001  -----   -----                    
+0000014 010  AT      The                      Z5 
+0000014 020  NN1     facility                 H1 O2 S8+ X9.1+ 
+0000014 030  VM      will                     T1.1.3 
+0000014 040  VBI     be                       Z5 A3+ 
+0000014 050  VVN     built                    A1.8+[i22.2.1 H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000014 060  II      in                       A1.8+[i22.2.2 Z5 
+0000014 070  MC      three                    N1 T1.2 T3 
+0000014 080  NN2     phases                   T1.3 
+0000014 090  CC      and                      Z5 
+0000014 100  VM      will                     T1.1.3 
+0000014 110  VVI     include                  A1.8+ 
+0000014 120  AT1     a                        Z5 
+0000014 130  JJ      family-friendly          S4c/S8+ 
+0000014 140  NN1     aquarium                 L2/H1 L2/O2 
+0000014 141  ,       ,                        
+0000014 150  DDQ     which                    Z8 Z5 
+0000014 160  VM      will                     T1.1.3 
+0000014 170  VVI     feature                  A10+ 
+0000014 180  AT      the                      Z5 
+0000014 190  JJ      Scottish                 Z2 Z2/S2mfnc 
+0000014 200  NN1     monster                  L2/S9mfn G2.2-/S2mf 
+0000014 201  ,       ,                        
+0000014 210  II21    along                    Z5[i23.2.1 Z5 
+0000014 220  II22    with                     Z5[i23.2.2 
+0000014 230  JJ      various                  A6.3+ 
+0000014 240  JJ      aquatic                  M4 K5.1/M4 
+0000014 250  NN      species                  A4.1c L2c 
+0000014 260  JJ      indigenous               M7 
+0000014 270  II      to                       Z5 
+0000014 280  AT      the                      Z5 
+0000014 290  NP1     Town                     Z2[i24.2.1 
+0000014 300  NNL1    Lake                     Z2[i24.2.2 
+0000014 301  .       .                        
+0000014 302  -----   -----                    
+0000014 310  RR21    In                       N5++[i25.2.1 
+0000014 320  RR22    addition                 N5++[i25.2.2 
+0000014 321  ,       ,                        
+0000014 330  AT      the                      Z5 
+0000014 340  NN1     project                  A1.1.1 P1 
+0000014 350  VM      will                     T1.1.3 
+0000014 360  VVI     feature                  A10+ 
+0000014 370  AT1     an                       Z5 
+0000014 380  JJ      11-story                 Z99 
+0000014 390  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000014 400  NN1     component                O2 N5.1- 
+0000014 410  IW      with                     Z5 
+0000014 420  NN1     ground                   H2[i26.2.1 M6 W3 M7 O3 X2.1 
+0000014 430  NN1     floor                    H2[i26.2.2 H2 S5+ 
+0000014 440  JJ      retail                   I2.2 
+0000014 450  CC      and                      Z5 
+0000014 460  JJ      underground              M6 G2.1- 
+0000014 470  NN1     parking                  M8 
+0000014 471  ,       ,                        
+0000014 480  AT1     a                        Z5 
+0000014 490  JJ      543-key                  Z99 
+0000014 500  JJ      luxury                   O4.2+ 
+0000014 510  NN1     hotel                    H4/H1 
+0000014 511  ,       ,                        
+0000014 520  AT1     a                        Z5 
+0000014 530  JJ      372-unit                 Z99 
+0000014 540  JJ      high-end                 I1.3+ 
+0000014 550  NN1     condominium              H1 
+0000014 560  NN1     community                S5+c 
+0000014 561  ,       ,                        
+0000014 570  CC      and                      Z5 
+0000014 580  AT1     a                        Z5 
+0000014 590  NN1     coffee                   F2/O3[i27.2.1 F2 
+0000014 600  NN1     machine                  F2/O3[i27.2.2 O2 Y2 
+0000014 601  .       .                        
+0000015 001  -----   -----                    
+0000016 010  CS      Though                   Z5 
+0000016 020  AT      no                       Z6 
+0000016 030  JJ      public                   S5+ A10+ 
+0000016 040  NN2     records                  Q1.2 K3 T1.1.1 N5+ 
+0000016 041  ,       ,                        
+0000016 050  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000016 060  CC      or                       Z5 
+0000016 070  NN2     stakeholders             I1.1/S2mf 
+0000016 080  VBDR    were                     A3+ Z5 
+0000016 090  JJ      willing                  X7+ X5.2+ 
+0000016 100  TO      to                       Z5 
+0000016 110  VVI     offer                    A9- Q2.2 
+0000016 120  DD      any                      N5.1+ N5 
+0000016 130  DAR     more                     N5++ 
+0000016 140  NN2     details                  A4.2+ S5+c B5 
+0000016 150  CC      or                       Z5 
+0000016 160  NN1     confirmation             A7+ Q2.2 S9@ 
+0000016 161  ,       ,                        
+0000016 170  PPIS1   I                        Z8mf 
+0000016 180  VVD     heard                    X3.2 X2.3+ G2.1@ 
+0000016 190  II      from                     Z5 
+0000016 200  NP1     Madge                    Z99 
+0000016 210  RP      down                     Z5 M6 N4 N5-- E4.1- S7.1- N3.1 Q1.2 O1.1 L2 Z1mf F1/B1 A1.1.1 
+0000016 220  II      at                       Z5 
+0000016 230  AT      the                      Z5 
+0000016 240  NN1     salon                    H2 B4/H1 
+0000016 241  ,       ,                        
+0000016 250  CS      while                    Z5 
+0000016 260  PPIS2   we                       Z8 
+0000016 270  VVD     sat                      M8 C1 P1 G1.1 G2.1 M6 A9+ 
+0000016 280  II      beneath                  Z5 
+0000016 290  AT      the                      Z5 
+0000016 300  JJ      automatic                A1.1.1/S5- X2.1- X7- 
+0000016 310  NN1     hair                     B4[i28.2.1 B1 
+0000016 320  NN2     dryers                   B4[i28.2.2 O3/O1.2- 
+0000016 321  ,       ,                        
+0000016 330  DD1     that                     Z5 Z8 
+0000016 340  JJ      Spurious                 A5.4- 
+0000016 341  NULL    &;                       
+0000016 350  NN1     Blunder                  A5.3- 
+0000016 360  VBDR    were                     Z5 A3+ 
+0000016 370  RR      also                     N5++ 
+0000016 380  VVG     planning                 X7+ 
+0000016 390  TO      to                       Z5 
+0000016 400  VVI     purchase                 I2.2 
+0000016 410  NN1     coffee                   F2 
+0000016 420  VVZ     filters                  A1.1.1 
+0000016 430  IF      for                      Z5 
+0000016 440  AT      the                      Z5 
+0000016 450  NN1     coffee                   F2/O3[i29.2.1 F2 
+0000016 460  NN1     machine                  F2/O3[i29.2.2 O2 Y2 
+0000016 470  NN1     component                O2 N5.1- 
+0000016 480  IO      of                       Z5 
+0000016 490  AT      the                      Z5 
+0000016 500  NN1     project                  A1.1.1 P1 
+0000016 501  .       .                        
+0000016 502  -----   -----                    
+0000016 510  CS21    Even                     Z5[i30.2.1 
+0000016 520  CS22    though                   Z5[i30.2.2 Z5 
+0000016 530  DD1     this                     Z8 M6 Z5 
+0000016 540  VBDR    were                     A3+ Z5 
+0000016 550  JJ      unconfirmed              A5.4- 
+0000016 560  CC      and                      Z5 
+0000016 570  JJ      likely                   A7+ A1.2+ 
+0000016 580  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000016 590  AT1     a                        Z5 
+0000016 600  NN1     rumor                    Z99 
+0000016 601  ,       ,                        
+0000016 610  PPIS1   I                        Z8mf 
+0000016 620  VVD     chose                    X7+ 
+0000016 630  TO      to                       Z5 
+0000016 640  VVI     report                   Q2.2 S7.1- 
+0000016 650  DD1     this                     M6 Z5 Z8 
+0000016 660  NN1     fact                     A5.2+ X2.2 
+0000016 670  RR      anyway                   Z4 A13.7 
+0000016 671  ,       ,                        
+0000016 680  CS      because                  Z5/A2.2 
+0000016 681  ,       ,                        
+0000016 690  PPY     you                      Z8mf 
+0000016 700  VV0     know                     X2.2+ S3.2/B1% 
+0000016 710  NN2     apples                   L3 F1 
+0000016 711  !       !                        
+0000017 001  -----   -----                    
+0000018 010  NN1     City                     M7c M7/I2.1c 
+0000018 020  NN2     stipulations             S6+ 
+0000018 030  VV0     require                  X7+ S6+ 
+0000018 040  AT      the                      Z5 
+0000018 050  NN1     developer                H1/S2mf C1/O1.2@@ 
+0000018 060  TO      to                       Z5 
+0000018 070  VVI     break                    A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000018 080  NN1     ground                   M6 W3 M7 O3 X2.1 
+0000018 090  AT      no                       Z6 
+0000018 100  JJR     later                    T4-- T1.1.3 N4 
+0000018 110  CSN     than                     Z5 
+0000018 120  NP1@    June                     Z2[i31.2.1 Z1mf[i31.2.1 Z1f 
+0000018 130  MC      2019                     Z2[i31.2.2 Z1mf[i31.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000018 131  .       .                        
+0000018 132  -----   -----                    
+0000018 140  AT      The                      Z5 
+0000018 150  NN1     developer                H1/S2mf C1/O1.2@@ 
+0000018 160  VVD     stated                   Q2.1 
+0000018 170  CST     that                     Z5 Z8 
+0000018 180  AT      no                       Z6 
+0000018 190  NN1     financing                I1 
+0000018 200  VHZ     has                      S6+[i32.2.1 A9+ Z5 A2.2 S4 
+0000018 210  RR      yet                      T1.1.2 
+0000018 220  TO      to                       S6+[i32.2.2 Z5 
+0000018 230  VBI     be                       Z5 A3+ 
+0000018 240  VVN     arranged                 S7.1+ A1.1.1 
+0000018 250  IF      for                      Z5 
+0000018 260  AT      the                      Z5 
+0000018 270  NNU     $850M                    N3.3 N3.7 
+0000018 280  NN1     project                  A1.1.1 P1 
+0000018 281  ,       ,                        
+0000018 290  CCB     but                      Z5 
+0000018 300  VVD     suggested                Q2.2 Q1.1 
+0000018 310  PPHS1   he                       Z8m 
+0000018 320  VVD     knew                     X2.2+ S3.2/B1% 
+0000018 330  AT1     a                        Z5 
+0000018 340  NN1     bunch                    N5+ S5+c 
+0000018 350  IO      of                       Z5 
+0000018 360  NN2     guys                     S2.2m O2 
+0000018 370  PNQS    who                      Z8 
+0000018 380  VM      would                    A7+ 
+0000018 390  RR21    for                      Z5 A5.1+ S8+ M6 
+0000018 400  RR22    sure                     A7+ 
+0000018 410  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
+0000018 420  TO      to                       Z5 
+0000018 430  VVI     get                      A9+[i33.2.1 M1[i33.2.1 A1.1.1[i33.2.1 A1.8+[i33.2.1 X9.2+@[i33.2.1 A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000018 440  RP@     in                       A9+[i33.2.2 M1[i33.2.2 A1.1.1[i33.2.2 A1.8+[i33.2.2 X9.2+@[i33.2.2 M6 
+0000018 450  II      on                       Z5 
+0000018 460  DD1     this                     M6 Z5 Z8 
+0000018 470  NN1     action                   A1.1.1 G3 
+0000018 471  .       .                        
+0000021 001  NULL    **8;7;text               

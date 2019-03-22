@@ -1,0 +1,27 @@
+At the Nvidia GPU Technology Conference Keynote, Nvidia co-founder and CEO Jen-Hsung Huang revealed the new Tesla P100, an AI-focused chip with some impressive statistics, and the DGX-1, a home for eight of the new chips to live in.
+
+Tesla P100
+
+The Tesla P100 is a Pascal-based chip that's by far the most ambitious Nvidia, or anyone, has ever undertaken. It packs 150 billion transistors into a 16 nanometer FinFET chip, resulting in an impressive 5.3 teraflops of performance. It also reaches new heights of memory bandwidth thanks to its use of High Bandwidth Memory 2, and the P100 is the first to feature the tech.
+
+Nvidia is completely committed to artificial intelligence and deep learning.
+
+Before you start wondering how to stop your CPU from being a bottleneck, it's important to remember these chips aren't built for gaming. They're very much an enterprise solution built specifically for massive deep learning networks, and they'll need a home inside a fitting supercomputer.
+
+Importantly, Nvidia has improved the chip's ability to communicate with other GPUs. This new connection is called NVLink, and it allows far more bandwidth than even PCIe can provide. Nvidia has taken full advantage of that connectivity to produce a new product, the DGX-1.
+
+DGX-1 supercomputer
+
+For users who are looking for something a little beefier than just a single P100, the rack-mounted DGX-1 is powered by a set of eight Tesla P100s. It's specifically engineered for AI and deep learning development, making it first of its kind. Nvidia claims its memory has as much throughput as 250 x86 servers, and it also has 7TB of SSD storage right on board.
+
+The chips are arranged in a hybrid cube array, allowing them to communicate with each other independently and off-put tasks in a more coordinated way. It's an almost too simple solution for building an AI network in your enterprise, and it's capable of handling almost any task thrown at it in short order.
+
+The DGX-1 is already available for pre-order, but start saving up, because the impressive rig will cost you $129,000 when it ships in the third quarter. Nvidia has chosen a small group of hospitals and universities to start out as the early adopters for the DGX-1, and those machines should be rolling out to them soon.
+
+What's the point?
+
+At the end of the day, eight Pascal GPUs are 12 times faster than the four Maxwell GPU system unveiled at GTC in 2015. That's a massive increase in speed and power.
+
+It might not be as exciting as a new gaming chip, but it has massive implications on everything from cloud networks, to social media, to self-driving cards and autonomous robots. It's not for topping 3DMark leaderboards (thought it'd probably do well in Fire Strike!), but that means the all-business Tesla P100 has time to focus on improving technology in other areas.
+
+Nvidia is completely committed to artificial intelligence and deep learning, and that's only become clearer as more intense high-end products start to appear. That doesn't mean gaming will hurt, by the way, but we're clearly approaching the cap for what we need in terms of graphical performance. Instead, the GPUs of tomorrow will be built for AI and deep learning, and gaming will just be a hobby.

@@ -1,0 +1,646 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  II      At                       Z5 
+0000002 020  AT      the                      Z5 
+0000002 030  NP1     Nvidia                   Z1mf[i1.2.1 Z3c[i1.2.1 
+0000002 040  NP1     GPU                      Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 050  NN1     Technology               Y1 
+0000002 060  NN1     Conference               S1.1.3+ 
+0000002 070  NN1     Keynote                  A11.1++ 
+0000002 071  ,       ,                        
+0000002 080  NP1     Nvidia                   Z99 
+0000002 090  NN1     co-founder               T2+/S2mf 
+0000002 100  CC      and                      Z5 
+0000002 110  NN1     CEO                      S7.1+/S2mf 
+0000002 120  NN1     Jen-Hsung                Z99 
+0000002 130  NN1     Huang                    Z1 
+0000002 140  VVD     revealed                 A10+ 
+0000002 150  AT      the                      Z5 
+0000002 160  JJ      new                      T3- 
+0000002 170  NP1     Tesla                    Z99 
+0000002 180  FO      P100                     Z99 
+0000002 181  ,       ,                        
+0000002 190  AT1     an                       Z5 
+0000002 200  JJ      AI-focused               Z99 
+0000002 210  NN1     chip                     F1 Y2 O2 A1.1.2 K5.2/I1 
+0000002 220  IW      with                     Z5 
+0000002 230  DD      some                     N5 Z5 
+0000002 240  JJ      impressive               O4.2+ 
+0000002 250  NN      statistics               N3.1c N2c 
+0000002 251  ,       ,                        
+0000002 260  CC      and                      Z5 
+0000002 270  AT      the                      Z5 
+0000002 280  MC1     DGX-1                    Z99 
+0000002 281  ,       ,                        
+0000002 290  AT1     a                        Z5 
+0000002 300  NN1     home                     H4/H1c M6 
+0000002 310  IF      for                      Z5 
+0000002 320  MC      eight                    N1 T1.2 T3 T1.3 N3.2 
+0000002 330  IO      of                       Z5 
+0000002 340  AT      the                      Z5 
+0000002 350  JJ      new                      T3- 
+0000002 360  NN2     chips                    F1 Y2 O2 A1.1.2 K5.2/I1 
+0000002 370  TO      to                       Z5 
+0000002 380  VVI     live                     H4[i2.2.1 H4 L1+ A3 
+0000002 390  RP@     in                       H4[i2.2.2 M6 
+0000002 391  .       .                        
+0000003 001  -----   -----                    
+0000004 010  NN1     Tesla                    Z99 
+0000004 020  FO      P100                     Z99 
+0000006 010  AT      The                      Z5 
+0000006 020  NP1     Tesla                    Z99 
+0000006 030  FO      P100                     Z99 
+0000006 040  VBZ     is                       A3+ Z5 
+0000006 050  AT1     a                        Z5 
+0000006 060  JJ      Pascal-based             Z99 
+0000006 070  NN1     chip                     F1 Y2 O2 A1.1.2 K5.2/I1 
+0000006 080  CST     that                     Z8 Z5 
+0000006 081  VBZ     's                       A3+ Z5 
+0000006 090  RR21    by                       A13.3[i3.2.1 
+0000006 100  RR22    far                      A13.3[i3.2.2 A13.3 N3.3+ X9.2+ 
+0000006 110  AT      the                      Z5 
+0000006 120  RGT     most                     A13.2 
+0000006 130  JJ      ambitious                X7+ 
+0000006 140  NP1     Nvidia                   Z99 
+0000006 141  ,       ,                        
+0000006 150  CC      or                       Z5 
+0000006 160  PN1     anyone                   Z8mfc 
+0000006 161  ,       ,                        
+0000006 170  VHZ     has                      Z5 A9+ A2.2 S4 
+0000006 180  RR      ever                     T1.1 N6+++ A13 
+0000006 190  VVN     undertaken               A1.1.1 Q2.2 
+0000006 191  .       .                        
+0000006 192  -----   -----                    
+0000006 200  NN1%    It                       Y2 B3@ 
+0000006 210  NN2     packs                    O2 N5 S5+ 
+0000006 220  MC      150                      N1[i4.2.1 T1.3[i4.2.1 I1[i4.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000006 230  NNO     billion                  N1[i4.2.2 T1.3[i4.2.2 I1[i4.2.2 N1 I1 
+0000006 240  NN2     transistors              O3 Q4.3 
+0000006 250  II      into                     Z5 
+0000006 260  AT1     a                        Z5 
+0000006 270  MC      16                       N1 T1.2 T3 T1.3 N3.2 
+0000006 280  JJR     nanometer                Z99 
+0000006 290  NN1     FinFET                   Z99 
+0000006 300  NN1     chip                     F1 Y2 O2 A1.1.2 K5.2/I1 
+0000006 301  ,       ,                        
+0000006 310  VVG     resulting                A2.2 
+0000006 320  II      in                       Z5 
+0000006 330  AT1     an                       Z5 
+0000006 340  JJ      impressive               O4.2+ 
+0000006 350  MC      5.3                      N1 T1.2 T3 T1.3 N3.2 
+0000006 360  NN2     teraflops                Z99 
+0000006 370  IO      of                       Z5 
+0000006 380  NN1     performance              K4 X9.2 A1.1.1 A12- 
+0000006 381  .       .                        
+0000006 382  -----   -----                    
+0000006 390  PPH1    It                       Z8 
+0000006 400  RR      also                     N5++ 
+0000006 410  VVZ     reaches                  M1 N3.3 Q2.1 X9.2+ 
+0000006 420  JJ      new                      T3- 
+0000006 430  NN2     heights                  N3.7 N5.1+ S7.1+ 
+0000006 440  IO      of                       Z5 
+0000006 450  NN1     memory                   X2 X2.2+ S7.2+ Y2 
+0000006 460  NN1     bandwidth                Q1.3 Y2 
+0000006 470  NN2     thanks                   S1.2.4+ 
+0000006 480  II      to                       Z5 
+0000006 490  APPGE   its                      Z8 
+0000006 500  NN1     use                      A1.5.1 
+0000006 510  IO      of                       Z5 
+0000006 520  JJ      High                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000006 530  NN1     Bandwidth                Q1.3 Y2 
+0000006 540  NN1     Memory                   X2 X2.2+ S7.2+ Y2 
+0000006 550  MC      2                        N1 T1.2 T3 T1.3 N3.2 
+0000006 551  ,       ,                        
+0000006 560  CC      and                      Z5 
+0000006 570  AT      the                      Z5 
+0000006 580  FO      P100                     Z99 
+0000006 590  VBZ     is                       A3+ Z5 
+0000006 600  AT      the                      Z5 
+0000006 610  MD      first                    N4 
+0000006 620  TO      to                       Z5 
+0000006 630  VVI     feature                  A10+ 
+0000006 640  AT      the                      Z5 
+0000006 650  NN1     tech                     Y1/P1 Y1 
+0000006 651  .       .                        
+0000007 001  -----   -----                    
+0000008 010  NN1     Nvidia                   Z99 
+0000008 020  VBZ     is                       Z5 A3+ 
+0000008 030  RR      completely               A13.2 
+0000008 040  VVN     committed                A1.1.1 S6+ A1.7+/G2.1 
+0000008 050  II      to                       Z5 
+0000008 060  JJ      artificial               Y2[i5.2.1 A5.4- 
+0000008 070  NN1     intelligence             Y2[i5.2.2 X9.1+ X2.2+ S1.2.6+ 
+0000008 080  CC      and                      Z5 
+0000008 090  JJ      deep                     N3.7+ N5+ O4.3 A4.2+ E4.1- X3.2 
+0000008 100  NN1     learning                 X2.3+ P1 
+0000008 101  .       .                        
+0000009 001  -----   -----                    
+0000010 010  CS      Before                   Z5 
+0000010 020  PPY     you                      Z8mf 
+0000010 030  VV0     start                    T2+ E5- E3- 
+0000010 040  VVG     wondering                X2.1 
+0000010 050  RRQ     how                      Z5 A13.3 
+0000010 060  TO      to                       Z5 
+0000010 070  VVI     stop                     T2- S8- M8 H4 A1.1.1@ 
+0000010 080  APPGE   your                     Z8 
+0000010 090  NN1     CPU                      Z99 
+0000010 100  II      from                     Z5 
+0000010 110  VBG     being                    A3+ Z5 
+0000010 120  AT1     a                        Z5 
+0000010 130  NN1     bottleneck               S8- A12- M8 
+0000010 131  ,       ,                        
+0000010 140  PPH1    it                       Z8 
+0000010 141  VBZ     's                       A3+ Z5 
+0000010 150  JJ      important                A11.1+ 
+0000010 160  TO      to                       Z5 
+0000010 170  VVI     remember                 X2.2+ 
+0000010 180  DD2     these                    Z5 Z8 
+0000010 190  NN2     chips                    F1 Y2 O2 A1.1.2 K5.2/I1 
+0000010 200  VBR     are                      Z5 A3+ 
+0000010 201  XX      n't                      Z6 
+0000010 210  VVN     built                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000010 220  IF      for                      Z5 
+0000010 230  NN1     gaming                   I1/A1.4 K1 
+0000010 231  .       .                        
+0000010 232  -----   -----                    
+0000010 240  PPHS2   They                     Z8mfn 
+0000010 241  VBR     're                      A3+ Z5 
+0000010 250  RG      very                     A13.3[i6.2.1 A13.3 
+0000010 260  RR      much                     A13.3[i6.2.2 A13.3 N6+ 
+0000010 270  AT1     an                       Z5 
+0000010 280  NN1     enterprise               I2.1 X8+ 
+0000010 290  NN1     solution                 X4.2 O1.2 
+0000010 300  VVD     built                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000010 310  RR      specifically             A4.2+ 
+0000010 320  IF      for                      Z5 
+0000010 330  JJ      massive                  N3.2+ 
+0000010 340  JJ      deep                     N3.7+ N5+ O4.3 A4.2+ E4.1- X3.2 
+0000010 350  NN1     learning                 X2.3+ P1 
+0000010 360  NN2     networks                 S5+ Q4.3 Y2 
+0000010 361  ,       ,                        
+0000010 370  CC      and                      Z5 
+0000010 380  PPHS2   they                     Z8mfn 
+0000010 381  VM      'll                      T1.1.3 
+0000010 390  VVI     need                     S6+ 
+0000010 400  AT1     a                        Z5 
+0000010 410  NN1     home                     H4/H1c M6 
+0000010 420  II      inside                   Z5 
+0000010 430  AT1     a                        Z5 
+0000010 440  JJ      fitting                  A1.2+ 
+0000010 450  NN1     supercomputer            Y2 
+0000010 451  .       .                        
+0000011 001  -----   -----                    
+0000012 010  RR      Importantly              A11.1+ 
+0000012 011  ,       ,                        
+0000012 020  NP1     Nvidia                   Z99 
+0000012 030  VHZ     has                      Z5 A9+ A2.2 S4 
+0000012 040  VVN     improved                 A5.1+/A2.1 
+0000012 050  AT      the                      Z5 
+0000012 060  NN1     chip                     F1 Y2 O2 A1.1.2 K5.2/I1 
+0000012 061  GE      's                       Z5 
+0000012 070  NN1     ability                  X9.1+ 
+0000012 080  TO      to                       Z5 
+0000012 090  VVI     communicate              Q2.1 Q1.2 Q1.3 X2.2+ 
+0000012 100  IW      with                     Z5 
+0000012 110  JJ      other                    A6.1- 
+0000012 120  NP2     GPUs                     Z99 
+0000012 121  .       .                        
+0000012 122  -----   -----                    
+0000012 130  DD1     This                     M6 Z5 Z8 
+0000012 140  JJ      new                      T3- 
+0000012 150  NN1     connection               A2.2 S5+ M3 O3 A1.1.1 
+0000012 160  VBZ     is                       Z5 A3+ 
+0000012 170  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000012 180  NP1     NVLink                   Z99 
+0000012 181  ,       ,                        
+0000012 190  CC      and                      Z5 
+0000012 200  PPH1    it                       Z8 
+0000012 210  VVZ     allows                   S7.4+ S8+ X2.1 
+0000012 220  RG      far                      N3.3+ A13.3 X9.2+ 
+0000012 230  DAR     more                     N5++ 
+0000012 240  NN1     bandwidth                Q1.3 Y2 
+0000012 250  CSN     than                     Z5 
+0000012 260  RR      even                     A13.1 
+0000012 270  NP1     PCIe                     Z99 
+0000012 280  VM      can                      A7+ 
+0000012 290  VVI     provide                  A9- S6+ 
+0000012 291  .       .                        
+0000012 292  -----   -----                    
+0000012 300  NN1     Nvidia                   Z99 
+0000012 310  VHZ     has                      Z5 A9+ A2.2 S4 
+0000012 320  VVN     taken                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000012 330  JJ      full                     N5.1+ I3.2+ 
+0000012 340  NN1     advantage                A5.1+ K5.2 
+0000012 350  IO      of                       Z5 
+0000012 360  DD1     that                     Z5 Z8 
+0000012 370  NN1     connectivity             Y2 O3 
+0000012 380  TO      to                       Z5 
+0000012 390  VVI     produce                  A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
+0000012 400  AT1     a                        Z5 
+0000012 410  JJ      new                      T3- 
+0000012 420  NN1     product                  O2 A1.1.1 A2.2 N2% 
+0000012 421  ,       ,                        
+0000012 430  AT      the                      Z5 
+0000012 440  MC1     DGX-1                    Z99 
+0000012 441  .       .                        
+0000013 001  -----   -----                    
+0000014 010  MC1     DGX-1                    N1 T1.2 T3 T1.3 N3.2 
+0000014 020  NN1     supercomputer            Y2 
+0000016 010  IF      For                      Z5 
+0000016 020  NN2     users                    A1.5.1/S2mf 
+0000016 030  PNQS    who                      Z8 
+0000016 040  VBR     are                      Z5 A3+ 
+0000016 050  VVG     looking                  X2.4[i7.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000016 060  IF      for                      X2.4[i7.2.2 Z5 
+0000016 070  PN1     something                Z8 
+0000016 080  RR21    a                        A13.6[i8.2.1 N6-[i8.2.1 
+0000016 090  RR22    little                   A13.6[i8.2.2 N6-[i8.2.2 A13.7 
+0000016 100  JJR     beefier                  F1 O4.1 
+0000016 110  CSN     than                     Z5 
+0000016 120  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000016 130  AT1     a                        Z5 
+0000016 140  JJ      single                   N5--- S5- S3.2- M3 
+0000016 150  FO      P100                     Z99 
+0000016 151  ,       ,                        
+0000016 160  AT      the                      Z5 
+0000016 170  NN1     rack-mounted             Z99 
+0000016 180  MC1     DGX-1                    Z99 
+0000016 190  VBZ     is                       Z5 A3+ 
+0000016 200  VVN     powered                  A1.1.1 
+0000016 210  II      by                       Z5 
+0000016 220  AT1     a                        Z5 
+0000016 230  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
+0000016 240  IO      of                       Z5 
+0000016 250  MC      eight                    N1 T1.2 T3 T1.3 N3.2 
+0000016 260  NP1     Tesla                    Z99 
+0000016 270  FO      P100s                    Z99 
+0000016 271  .       .                        
+0000016 272  -----   -----                    
+0000016 280  PPH1    It                       Z8 
+0000016 281  VBZ     's                       Z5 A3+ 
+0000016 290  RR      specifically             A4.2+ 
+0000016 300  VVN     engineered               S7.1+ A1.1.1 
+0000016 310  IF      for                      Z5 
+0000016 320  NN1     AI                       B3 Y2 
+0000016 330  CC      and                      Z5 
+0000016 340  JJ      deep                     N3.7+ N5+ O4.3 A4.2+ E4.1- X3.2 
+0000016 350  NN1     learning                 X2.3+ P1 
+0000016 360  NN1     development              A2.1+ A5.1+/A2.1 H1 
+0000016 361  ,       ,                        
+0000016 370  VVG     making                   X9.2+[i9.2.1 M1[i9.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000016 380  PPH1    it                       X9.2+[i9.2.2 M1[i9.2.2 Z8 
+0000016 390  MD      first                    N4 
+0000016 400  IO      of                       Z5 
+0000016 410  APPGE   its                      Z8 
+0000016 420  NN1     kind                     A4.1 
+0000016 421  .       .                        
+0000016 422  -----   -----                    
+0000016 430  NN1     Nvidia                   Z99 
+0000016 440  VVZ     claims                   Q2.2 A9+ 
+0000016 450  APPGE   its                      Z8 
+0000016 460  NN1     memory                   X2 X2.2+ S7.2+ Y2 
+0000016 470  VHZ     has                      A9+ Z5 A2.2 S4 
+0000016 480  RG      as                       A13 
+0000016 490  DA1     much                     N5+ I1.3+ 
+0000016 500  NN1     throughput               I2.1 
+0000016 510  CSA     as                       Z5 
+0000016 520  MC      250                      N1 T1.2 T3 T1.3 N3.2 
+0000016 530  FO      x86                      N1 N3.3 
+0000016 540  NN2     servers                  Y2 S9/S2mf 
+0000016 541  ,       ,                        
+0000016 550  CC      and                      Z5 
+0000016 560  PPH1    it                       Z8 
+0000016 570  RR      also                     N5++ 
+0000016 580  VHZ     has                      A9+ Z5 A2.2 S4 
+0000016 590  FO      7TB                      Z99 
+0000016 600  IO      of                       Z5 
+0000016 610  NP1     SSD                      Z99 
+0000016 620  NN1     storage                  A9+ 
+0000016 630  NN1     right                    S7.4+ G2.2+ M6 G1.2 
+0000016 640  RL21    on                       M6[i10.2.1 S5+[i10.2.1 
+0000016 650  RL22    board                    M6[i10.2.2 S5+[i10.2.2 
+0000016 651  .       .                        
+0000017 001  -----   -----                    
+0000018 010  AT      The                      Z5 
+0000018 020  NN2     chips                    F1 Y2 O2 A1.1.2 K5.2/I1 
+0000018 030  VBR     are                      Z5 A3+ 
+0000018 040  VVN     arranged                 S7.1+ A1.1.1 
+0000018 050  II      in                       Z5 
+0000018 060  AT1     a                        Z5 
+0000018 070  JJ      hybrid                   A2.1+ 
+0000018 080  NN1     cube                     O4.4 
+0000018 090  NN1     array                    O2 A6.3+ N2 Y2 
+0000018 091  ,       ,                        
+0000018 100  VVG     allowing                 S7.4+ S8+ X2.1 
+0000018 110  PPHO2   them                     Z8mfn 
+0000018 120  TO      to                       Z5 
+0000018 130  VVI     communicate              Q2.1 Q1.2 Q1.3 X2.2+ 
+0000018 140  IW      with                     Z5 
+0000018 150  PPX221  each                     Z8[i11.2.1 
+0000018 160  PPX222  other                    Z8[i11.2.2 
+0000018 170  RR      independently            S5- 
+0000018 180  CC      and                      Z5 
+0000018 190  JJ      off-put                  Z99 
+0000018 200  NN2     tasks                    A1.1.1 P1 
+0000018 210  II      in                       Z5 
+0000018 220  AT1     a                        Z5 
+0000018 230  RGR     more                     A13.3 
+0000018 240  JJ      coordinated              S7.1+ O4.1 
+0000018 250  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000018 251  .       .                        
+0000018 252  -----   -----                    
+0000018 260  PPH1    It                       Z8 
+0000018 261  VBZ     's                       A3+ Z5 
+0000018 270  AT1     an                       Z5 
+0000018 280  RR      almost                   A13.4 
+0000018 290  RG      too                      N5.2+ A13.3 
+0000018 300  JJ      simple                   A12+ A6.2+ O4.1 X9.1- 
+0000018 310  NN1     solution                 X4.2 O1.2 
+0000018 320  IF      for                      Z5 
+0000018 330  VVG@    building                 H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000018 340  AT1     an                       Z5 
+0000018 350  NN1     AI                       B3 Y2 
+0000018 360  NN1     network                  S5+c Q4.3 Y2 
+0000018 370  II      in                       Z5 
+0000018 380  APPGE   your                     Z8 
+0000018 390  NN1     enterprise               I2.1 X8+ 
+0000018 391  ,       ,                        
+0000018 400  CC      and                      Z5 
+0000018 410  PPH1    it                       Z8 
+0000018 411  VBZ     's                       A3+ Z5 
+0000018 420  JJ      capable                  X9.1+ 
+0000018 430  IO      of                       Z5 
+0000018 440  VVG     handling                 A1.1.1 S7.1+ X9.2+ 
+0000018 450  RR      almost                   A13.4 
+0000018 460  DD      any                      N5.1+ N5 
+0000018 470  NN1     task                     A1.1.1 P1 
+0000018 480  VVN     thrown                   M2 A2.2 Q2.2 A1.1.1 X2.5- 
+0000018 490  II      at                       A1.1.1[i12.2.1 Z5 
+0000018 500  PPH1    it                       A1.1.1[i12.2.2 Z8 
+0000018 510  RR21    in                       Z4[i13.2.1 
+0000018 520  RR22    short                    Z4[i13.2.2 N5- T1.3- 
+0000018 530  VV0@    order                    S7.1+/Q2.2 I2.2/Q2.2 
+0000018 531  .       .                        
+0000019 001  -----   -----                    
+0000020 010  AT      The                      Z5 
+0000020 020  MC1     DGX-1                    Z99 
+0000020 030  VBZ     is                       A3+ Z5 
+0000020 040  RR      already                  T1.1.1 
+0000020 050  JJ      available                A3+ A9+ A1.2+/G1.2 S4 
+0000020 060  IF      for                      Z5 
+0000020 070  NN1     pre-order                Z99 
+0000020 071  ,       ,                        
+0000020 080  CCB     but                      Z5 
+0000020 090  VV0     start                    T2+ E5- E3- 
+0000020 100  VVG     saving                   I1.1/A9+[i14.2.1 A9+[i14.2.1 I1.1 B3 A9+ S8+ A1.9 K5.1 S9 
+0000020 110  RP      up                       I1.1/A9+[i14.2.2 A9+[i14.2.2 
+0000020 111  ,       ,                        
+0000020 120  CS      because                  Z5/A2.2 
+0000020 130  AT      the                      Z5 
+0000020 140  JJ      impressive               O4.2+ 
+0000020 150  NN1     rig                      M4/H1 B5 
+0000020 160  VM      will                     T1.1.3 
+0000020 170  VVI     cost                     I1.3 I1.2 
+0000020 180  PPY     you                      Z8mf 
+0000020 190  NNU     $129,000                 Z99 
+0000020 200  CS      when                     Z5 
+0000020 210  PPH1    it                       Z8 
+0000020 220  VVZ@    ships                    M2 
+0000020 230  II      in                       Z5 
+0000020 240  AT      the                      Z5 
+0000020 250  MD      third                    N4 N5 N1 
+0000020 260  NN1     quarter                  N1 N5 T1.3 
+0000020 261  .       .                        
+0000020 262  -----   -----                    
+0000020 270  NN1     Nvidia                   Z99 
+0000020 280  VHZ     has                      Z5 A9+ A2.2 S4 
+0000020 290  VVN     chosen                   X7+ 
+0000020 300  AT1     a                        Z5 
+0000020 310  JJ      small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
+0000020 320  NN1     group                    S5+c A4.1c B3% 
+0000020 330  IO      of                       Z5 
+0000020 340  NN2     hospitals                B3/H1c 
+0000020 350  CC      and                      Z5 
+0000020 360  NN2     universities             P1/H1c 
+0000020 370  TO      to                       Z5 
+0000020 380  VVI     start                    T2+[i15.2.1 T2+ E5- E3- 
+0000020 390  RP      out                      T2+[i15.2.2 M6 
+0000020 400  II      as                       Z5 
+0000020 410  AT      the                      Z5 
+0000020 420  JJ      early                    T4+ T1.1.1 
+0000020 430  NN2     adopters                 S4/S2mf 
+0000020 440  IF      for                      Z5 
+0000020 450  AT      the                      Z5 
+0000020 460  MC1     DGX-1                    Z99 
+0000020 461  ,       ,                        
+0000020 470  CC      and                      Z5 
+0000020 480  DD2     those                    Z5 Z8 
+0000020 490  NN2     machines                 O2 Y2 
+0000020 500  VM      should                   S6+ A7+ 
+0000020 510  VBI     be                       Z5 A3+ 
+0000020 520  VVG     rolling                  I2/T2+[i16.2.1 A1.1.1[i16.2.1 M1 M2 A1.1.1 
+0000020 530  RP      out                      I2/T2+[i16.2.2 A1.1.1[i16.2.2 M6 
+0000020 540  II      to                       Z5 
+0000020 550  PPHO2   them                     Z8mfn 
+0000020 560  RR      soon                     T1.1.3/N3.8+ 
+0000020 561  .       .                        
+0000021 001  -----   -----                    
+0000022 010  DDQ     What                     Z8 Z5 
+0000022 011  VBZ     's                       A3+ Z5 
+0000022 020  AT      the                      Z5 
+0000022 030  NN1     point                    Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
+0000022 031  ?       ?                        
+0000023 001  -----   -----                    
+0000024 010  II      At                       Z5 
+0000024 020  AT      the                      Z5 
+0000024 030  NN1     end                      T2- M6 O2 X7+ N4 
+0000024 040  IO      of                       T1.1.2[i17.3.1 Z5 
+0000024 050  AT      the                      T1.1.2[i17.3.2 Z5 
+0000024 060  NNT1    day                      T1.1.2[i17.3.3 T1.3 
+0000024 061  ,       ,                        
+0000024 070  MC      eight                    N1 T1.2 T3 T1.3 N3.2 
+0000024 080  JJ      Pascal                   Z1mf Y2 
+0000024 090  NP2     GPUs                     Z99 
+0000024 100  VBR     are                      A3+ Z5 
+0000024 110  MC      12                       T3 N1 T1.2 T1.3 N3.2 
+0000024 120  NNT2    times                    T1 T1.2 T1.3 T1.1.2 N6 N1 
+0000024 130  RRR     faster                   N3.8++ 
+0000024 140  CSN     than                     Z5 
+0000024 150  AT      the                      Z5 
+0000024 160  MC      four                     N1 T3 T1.2 
+0000024 170  NP1     Maxwell                  Z1mf[i18.2.1 Z3c[i18.2.1 Z1mf 
+0000024 180  NP1     GPU                      Z1mf[i18.2.2 Z3c[i18.2.2 
+0000024 190  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000024 200  VVD     unveiled                 A10+ 
+0000024 210  II      at                       Z5 
+0000024 220  NP1     GTC                      Z99 
+0000024 230  II      in                       Z5 
+0000024 240  MC      2015                     N1 T1.2 T3 T1.3 N3.2 
+0000024 241  .       .                        
+0000024 242  -----   -----                    
+0000024 250  DD1     That                     Z8 Z5 
+0000024 251  VBZ     's                       A3+ Z5 
+0000024 260  AT1     a                        Z5 
+0000024 270  JJ      massive                  N3.2+ 
+0000024 280  NN1     increase                 N5+/A2.1 
+0000024 290  II      in                       Z5 
+0000024 300  NN1     speed                    N3.8+ F3% 
+0000024 310  CC      and                      Z5 
+0000024 320  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
+0000024 321  .       .                        
+0000025 001  -----   -----                    
+0000026 010  PPH1    It                       Z8 
+0000026 020  VM      might                    A7+ 
+0000026 030  XX      not                      Z6 
+0000026 040  VBI     be                       A3+ Z5 
+0000026 050  RG      as                       A13 
+0000026 060  JJ      exciting                 X5.2+ 
+0000026 070  CSA     as                       Z5 
+0000026 080  AT1     a                        Z5 
+0000026 090  JJ      new                      T3- 
+0000026 100  NN1     gaming                   I1/A1.4 K1 
+0000026 110  NN1     chip                     F1 Y2 O2 A1.1.2 K5.2/I1 
+0000026 111  ,       ,                        
+0000026 120  CCB     but                      Z5 
+0000026 130  PPH1    it                       Z8 
+0000026 140  VHZ     has                      A9+ Z5 A2.2 S4 
+0000026 150  JJ      massive                  N3.2+ 
+0000026 160  NN2     implications             A2.2 
+0000026 170  II      on                       Z5 
+0000026 180  PN1     everything               Z8/N5.1+ 
+0000026 190  II      from                     Z5 
+0000026 200  NN1     cloud                    W4 N5 
+0000026 210  NN2     networks                 S5+ Q4.3 Y2 
+0000026 211  ,       ,                        
+0000026 220  II      to                       Z5 
+0000026 230  JJ      social                   S1.1.1 
+0000026 240  NN      media                    Q4c 
+0000026 241  ,       ,                        
+0000026 250  II      to                       Z5 
+0000026 260  JJ      self-driving             Z99 
+0000026 270  NN2     cards                    Q1.2 O1.1 I1.1/O2/Q1.1 K5.2 
+0000026 280  CC      and                      Z5 
+0000026 290  JJ      autonomous               S5- 
+0000026 300  NN2     robots                   O3 
+0000026 301  .       .                        
+0000026 302  -----   -----                    
+0000026 310  PPH1    It                       Z8 
+0000026 311  VBZ     's                       A3+ Z5 
+0000026 320  XX      not                      Z6 
+0000026 330  IF      for                      Z5 
+0000026 340  VVG     topping                  A11.1++ N5++ A5.1++ A1.1.1 L1- 
+0000026 350  FO      3DMark                   Z99 
+0000026 360  NN2     leaderboards             Z99 
+0000026 361  (       (                        
+0000026 370  VVN     thought                  X2.1 
+0000026 380  PPH1    it                       Z8 
+0000026 381  VM      'd                       A7+ 
+0000026 390  RR      probably                 A7+ 
+0000026 400  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000026 410  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000026 420  II      in                       Z5 
+0000026 430  NN1     Fire                     O4.6+ 
+0000026 440  NN1     Strike                   I3.1- E3- G3 A10+ K5.1 
+0000026 441  !       !                        
+0000026 442  )       )                        
+0000026 443  ,       ,                        
+0000026 450  CCB     but                      Z5 
+0000026 460  DD1     that                     Z8 Z5 
+0000026 470  VVZ     means                    Q1.1 X7+ 
+0000026 480  AT      the                      Z5 
+0000026 490  JJ      all-business             Z99 
+0000026 500  NP1     Tesla                    Z99 
+0000026 510  FO      P100                     Z99 
+0000026 520  VHZ     has                      A9+ Z5 A2.2 S4 
+0000026 530  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000026 540  TO      to                       Z5 
+0000026 550  VVI     focus                    X5.1+ X3.4 A4.2+ 
+0000026 560  II      on                       Z5 
+0000026 570  JJ      improving                A5.1+/A2.1 
+0000026 580  NN1     technology               Y1 
+0000026 590  II      in                       Z5 
+0000026 600  JJ      other                    A6.1- 
+0000026 610  NN2     areas                    M7 A4.1 N3.6 
+0000026 611  .       .                        
+0000027 001  -----   -----                    
+0000028 010  NN1     Nvidia                   Z99 
+0000028 020  VBZ     is                       Z5 A3+ 
+0000028 030  RR      completely               A13.2 
+0000028 040  VVN     committed                A1.1.1 S6+ A1.7+/G2.1 
+0000028 050  II      to                       Z5 
+0000028 060  JJ      artificial               Y2[i19.2.1 A5.4- 
+0000028 070  NN1     intelligence             Y2[i19.2.2 X9.1+ X2.2+ S1.2.6+ 
+0000028 080  CC      and                      Z5 
+0000028 090  JJ      deep                     N3.7+ N5+ O4.3 A4.2+ E4.1- X3.2 
+0000028 100  NN1     learning                 X2.3+ P1 
+0000028 101  ,       ,                        
+0000028 110  CC      and                      Z5 
+0000028 120  DD1     that                     Z8 Z5 
+0000028 121  VBZ     's                       A3+ Z5 
+0000028 130  RR      only                     A14 
+0000028 140  VV0     become                   A2.1+ O4.2+ 
+0000028 150  JJR     clearer                  A7++ A10++ O4.3 O4.1 N5.1++ W4 
+0000028 160  II@     as                       Z5 
+0000028 170  RGR     more                     A13.3 
+0000028 180  JJ      intense                  N5+ 
+0000028 190  JJ      high-end                 I1.3+ 
+0000028 200  NN2     products                 O2 A1.1.1 A2.2 N2% 
+0000028 210  VV0     start                    T2+ E5- E3- 
+0000028 220  TO      to                       Z5 
+0000028 230  VVI     appear                   A8 A10+ A3+ G2.1 K4 Q4 
+0000028 231  .       .                        
+0000028 232  -----   -----                    
+0000028 240  DD1     That                     Z8 Z5 
+0000028 250  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000028 251  XX      n't                      Z6 
+0000028 260  VVI     mean                     Q1.1 X7+ 
+0000028 270  NN1     gaming                   I1/A1.4 K1 
+0000028 280  VM      will                     T1.1.3 
+0000028 290  VVI     hurt                     B2- E4.1- A1.1.2 
+0000028 291  ,       ,                        
+0000028 300  II      by                       Z4[i20.3.1 Z5 
+0000028 310  AT      the                      Z4[i20.3.2 Z5 
+0000028 320  NN1     way                      Z4[i20.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000028 321  ,       ,                        
+0000028 330  CCB     but                      Z5 
+0000028 340  PPIS2   we                       Z8 
+0000028 341  VBR     're                      Z5 A3+ 
+0000028 350  RR      clearly                  A7+ A11.2+ A12+ 
+0000028 360  VVG     approaching              M1 A1.1.1 Q2.2 
+0000028 370  AT      the                      Z5 
+0000028 380  NN1     cap                      B5 O2 
+0000028 390  IF      for                      Z5 
+0000028 400  DDQ     what                     Z8 Z5 
+0000028 410  PPIS2   we                       Z8 
+0000028 420  VV0     need                     S6+ 
+0000028 430  II31    in                       Z5[i21.3.1 Z5 
+0000028 440  II32    terms                    Z5[i21.3.2 
+0000028 450  II33    of                       Z5[i21.3.3 
+0000028 460  JJ      graphical                C1 
+0000028 470  NN1     performance              K4 X9.2 A1.1.1 A12- 
+0000028 471  .       .                        
+0000028 472  -----   -----                    
+0000028 480  RR      Instead                  A6.1- 
+0000028 481  ,       ,                        
+0000028 490  AT      the                      Z5 
+0000028 500  NP2     GPUs                     Z99 
+0000028 510  IO      of                       Z5 
+0000028 520  RT      tomorrow                 T1.1.3 
+0000028 530  VM      will                     T1.1.3 
+0000028 540  VBI     be                       Z5 A3+ 
+0000028 550  VVN     built                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000028 560  IF      for                      Z5 
+0000028 570  NN1     AI                       B3 Y2 
+0000028 580  CC      and                      Z5 
+0000028 590  JJ      deep                     N3.7+ N5+ O4.3 A4.2+ E4.1- X3.2 
+0000028 600  NN1     learning                 X2.3+ P1 
+0000028 601  ,       ,                        
+0000028 610  CC      and                      Z5 
+0000028 620  NN1     gaming                   I1/A1.4 K1 
+0000028 630  VM      will                     T1.1.3 
+0000028 640  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000028 650  VBI     be                       A3+ Z5 
+0000028 660  AT1     a                        Z5 
+0000028 670  NN1     hobby                    K1 
+0000028 671  .       .                        
+0000030 001  NULL    **8;7;text               

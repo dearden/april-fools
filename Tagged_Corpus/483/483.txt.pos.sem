@@ -1,0 +1,390 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  II      In                       Z5 
+0000002 020  AT1     a                        Z5 
+0000002 030  NN1     surprise                 X2.6- 
+0000002 040  JJ      late                     T4- L1- T1.1 
+0000002 050  NNT1    night                    T1.3 
+0000002 060  NN1     tweet                    Z99 
+0000002 061  ,       ,                        
+0000002 070  AT      the                      Z5 
+0000002 080  JJ      Dark                     W2- O4.3 E4.1- X2.2- O4.2- 
+0000002 090  NN2     Souls                    S9 E1 S2mf K2 
+0000002 100  VV0     Twitter                  Z99 
+0000002 110  NN1     account                  I1 I1.3 I2.1 Q2.2 Y2 
+0000002 120  VVD     posted                   Q1.2 M2 I3.1 
+0000002 130  AT1     a                        Z5 
+0000002 131  NULL    <quote>                  
+0000002 132  -----   -----                    
+0000002 140  JJ      secret                   A10- 
+0000002 150  NN1     stream                   W3/M4 N5 S5+c P1c 
+0000002 151  NULL    </quote>                 
+0000002 152  -----   -----                    
+0000002 160  II      on                       Z5 
+0000002 170  NP1     Twitch                   M1 
+0000002 180  II      in                       Z5 
+0000002 190  DDQ     which                    Z8 Z5 
+0000002 200  NP1     Hidetaka                 Z1mf[i1.2.1 Z3c[i1.2.1 
+0000002 210  NP1     Miyazaki                 Z1mf[i1.2.2 Z3c[i1.2.2 
+0000002 220  VVD     announced                Q2.2 
+0000002 230  CST     that                     Z5 Z8 
+0000002 240  JJ      Dark                     W2- O4.3 E4.1- X2.2- O4.2- 
+0000002 250  NN2     Souls                    S9 E1 S2mf K2 
+0000002 260  MC      3                        N1 T1.2 T3 T1.3 N3.2 
+0000002 270  VM      will                     T1.1.3 
+0000002 280  VBI     be                       Z5 A3+ 
+0000002 290  VVG     coming                   A4.1[i2.2.1 M1[i2.2.1 B1[i2.2.1 N5[i2.2.1 X6+[i2.2.1 X2.1[i2.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000002 300  II      to                       A4.1[i2.2.2 M1[i2.2.2 B1[i2.2.2 N5[i2.2.2 X6+[i2.2.2 X2.1[i2.2.2 Z5 
+0000002 310  AT      the                      Z5 
+0000002 320  NP1     Nintendo                 Z3 
+0000002 330  NN1     Switch                   O3 A2.1+ 
+0000002 340  CS31    as                       Z5[i3.3.1 Z5 
+0000002 350  CS32    soon                     Z5[i3.3.2 
+0000002 360  CS33    as                       Z5[i3.3.3 Z5 
+0000002 370  AT      the                      Z5 
+0000002 380  NN1     revenue                  G1.1/I1 I1.1+ Z3c 
+0000002 390  II      from                     Z5 
+0000002 400  JJ      Dark                     W2- O4.3 E4.1- X2.2- O4.2- 
+0000002 410  NN2     Souls                    S9 E1 S2mf K2 
+0000002 420  VVZ     dries                    O4.5[i4.2.1 Q2.1-[i4.2.1 O1.2- 
+0000002 430  RP      up                       O4.5[i4.2.2 Q2.1-[i4.2.2 
+0000002 431  .       .                        
+0000002 432  -----   -----                    
+0000002 440  NP1     Miyazaki                 Z99 
+0000002 450  VVD     stated                   Q2.1 
+0000002 460  II      during                   Z5 
+0000002 470  AT      the                      Z5 
+0000002 480  JJ      small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
+0000002 481  ,       ,                        
+0000002 490  JJ      personal                 S5- S1.2.1+ 
+0000002 500  NN1     stream                   W3/M4 N5 S5+c P1c 
+0000002 510  CST     that                     Z8 Z5 
+0000002 520  VHG     having                   Z5 A9+ A2.2 S4 
+0000002 530  VBN     been                     Z5 A3+ 
+0000002 540  RR      so                       Z5 A13.3 
+0000002 550  VVN     inspired                 S8+ 
+0000002 560  II      by                       Z5 
+0000002 570  AT      the                      Z5 
+0000002 580  NN1     Legend                   S9/Q2.1 X2.2+++/S2mf 
+0000002 590  IO      of                       Z5 
+0000002 600  NP1     Zelda                    Z99 
+0000002 610  NN      series                   N4c Q4.3c 
+0000002 611  ,       ,                        
+0000002 620  PPHS1   he                       Z8m 
+0000002 630  VVD     felt                     X2.1 E1 X3 
+0000002 640  PPH1    it                       Z8 
+0000002 650  VBDZ    was                      A3+ Z5 
+0000002 660  RR      only                     A14 
+0000002 670  JJ      right                    A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 
+0000002 680  TO      to                       Z5 
+0000002 690  VVI     bring                    M2 A2.2 
+0000002 700  AT      the                      Z5 
+0000002 710  NN      series                   N4c Q4.3c 
+0000002 720  II      to                       Z5 
+0000002 730  AT      the                      Z5 
+0000002 740  NN1     home                     H4/H1c M6 
+0000002 750  IO      of                       Z5 
+0000002 760  NP1     Zelda                    Z99 
+0000002 761  .       .                        
+0000002 762  -----   -----                    
+0000002 770  PPHS1   He                       Z8m 
+0000002 780  VVD     continued                T2++ 
+0000002 790  TO      to                       Z5 
+0000002 800  VVI     say                      Q2.1 Z4% 
+0000002 810  DD1     that                     Z8 Z5 
+0000002 820  TO      to                       Z5 
+0000002 830  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000002 840  AT      the                      Z5 
+0000002 850  NN1     switch                   O3 A2.1+ 
+0000002 860  II      to                       Z5 
+0000002 870  NP1     Nintendo                 Z3 
+0000002 880  PN1     something                Z8 
+0000002 890  JJ      special                  A4.2+ A6.2- 
+0000002 900  PPHS1   he                       Z8m 
+0000002 910  VBDZ    was                      Z5 A3+ 
+0000002 920  VVGK    going                    T1.1.3[i5.2.1 
+0000002 930  TO      to                       T1.1.3[i5.2.2 Z5 
+0000002 940  VVI     aim                      X7+ M6 
+0000002 950  IF      for                      Z5 
+0000002 960  AT1     a                        Z5 
+0000002 970  DA2     few                      N5- 
+0000002 980  JJ      minor                    A11.1- N3.2- 
+0000002 990  NN2     tweaks                   A1.1.1 
+0000002 000  II      to                       Z5 
+0000002 010  AT      the                      Z5 
+0000002 020  NN1     gameplay                 X9.1+/Y2 X7+/Y2 
+0000002 030  IO      of                       Z5 
+0000002 040  JJ      Dark                     W2- O4.3 E4.1- X2.2- O4.2- 
+0000002 050  NN2     Souls                    S9 E1 S2mf K2 
+0000002 060  MC      3                        N1 T1.2 T3 T1.3 N3.2 
+0000002 061  .       .                        
+0000003 001  -----   -----                    
+0000004 010  AT      The                      Z5 
+0000004 020  MD      first                    N4 
+0000004 030  NN1     alteration               A2.1+ 
+0000004 040  TO      to                       Z5 
+0000004 050  VBI     be                       Z5 A3+ 
+0000004 060  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000004 070  VBZ     is                       A3+ Z5 
+0000004 080  II      in                       Z5 
+0000004 090  RRQ     how                      Z5 A13.3 
+0000004 100  AT      the                      Z5 
+0000004 110  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000004 120  NN2     controls                 S7.1+ A1.7+ O2 
+0000004 121  .       .                        
+0000004 122  -----   -----                    
+0000004 130  VVG     Taking                   A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000004 140  NN2     notes                    Q1.2 K2 
+0000004 150  II      from                     Z5 
+0000004 160  AT      The                      Z5 
+0000004 170  NN1     Legend                   S9/Q2.1 X2.2+++/S2mf 
+0000004 180  IO      of                       Z5 
+0000004 190  NP1     Zelda                    Z99 
+0000004 191  :       :                        
+0000004 200  NP1     Skyward                  Z99 
+0000004 210  NN1     Sword                    G3 
+0000004 211  ,       ,                        
+0000004 220  DB      all                      N5.1+ 
+0000004 230  NN1     combat                   G3 
+0000004 240  VM      will                     T1.1.3 
+0000004 250  VBI     be                       Z5 A3+ 
+0000004 260  VDN     done                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000004 270  II      via                      Z5 
+0000004 280  AT      the                      Z5 
+0000004 290  JJ      undocked                 Z99 
+0000004 300  NN1     Joycon                   Z99 
+0000004 310  NN2     controllers              S7.1+/S2mf 
+0000004 311  .       .                        
+0000004 312  -----   -----                    
+0000004 320  DD1     This                     Z8 M6 Z5 
+0000004 330  VVZ     means                    Q1.1 X7+ 
+0000004 340  CST     that                     Z8 Z5 
+0000004 350  TO      to                       Z5 
+0000004 360  VVI     attack                   E3- G3 B2- A1.1.2 Q2.2 
+0000004 361  ,       ,                        
+0000004 370  NN1     block                    O2 H1 N5+ S8- B3 
+0000004 371  ,       ,                        
+0000004 380  CC      and                      Z5 
+0000004 390  VVI     parry                    Z99 
+0000004 400  NN2     players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000004 410  VM      will                     T1.1.3 
+0000004 420  VHI     have                     S6+[i6.2.1 A9+ Z5 A2.2 S4 
+0000004 430  TO      to                       S6+[i6.2.2 Z5 
+0000004 440  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000004 450  AT      the                      Z5 
+0000004 460  JJ      correct                  A5.3+ 
+0000004 470  NN2     motions                  M1 Q1.1 
+0000004 480  IW      with                     Z5 
+0000004 490  APPGE   their                    Z8 
+0000004 500  NN2     controllers              S7.1+/S2mf 
+0000004 510  DDQ     which                    Z8 Z5 
+0000004 520  VBZ     is                       Z5 A3+ 
+0000004 530  VVN     intended                 X7+ 
+0000004 540  TO      to                       Z5 
+0000004 550  VVI     add                      N5+/A2.1 N2 A1.8+ 
+0000004 560  AT1     a                        Z5 
+0000004 570  RGR     more                     A13.3 
+0000004 580  JJ      realistic                A3+/A1.6 S1.2.6+ 
+0000004 590  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
+0000004 600  TO      to                       Z5 
+0000004 610  VVI     gameplay                 X9.1+/Y2 X7+/Y2 
+0000004 611  .       .                        
+0000004 612  -----   -----                    
+0000004 620  JJ      Other                    A6.1- 
+0000004 630  NN1     potential                A7+ O3 
+0000004 640  VVZ     uses                     A1.5.1 S7.1+ 
+0000004 650  IF      for                      Z5 
+0000004 660  AT      the                      Z5 
+0000004 670  NN1     Joycon                   Z99 
+0000004 680  NN1     motion                   M1 Q1.1 
+0000004 690  NN2     controls                 S7.1+ A1.7+ O2 
+0000004 700  VV0     include                  A1.8+ 
+0000004 701  ,       ,                        
+0000004 710  CCB     but                      Z5 
+0000004 720  VBR     are                      Z5 A3+ 
+0000004 730  XX      not                      Z6 
+0000004 740  VVN     limited                  A1.7+ 
+0000004 750  II      to                       Z5 
+0000004 751  :       :                        
+0000004 760  VVG     drinking                 F2/B1 
+0000004 770  NN1     estus                    Z99 
+0000004 771  ,       ,                        
+0000004 780  VVG     writing                  Q1.2[i7.2.1 Q1.2 I2.1 
+0000004 790  RP      down                     Q1.2[i7.2.2 
+0000004 800  NN2     messages                 Q1.1 Q1.3/Y2 
+0000004 801  ,       ,                        
+0000004 810  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000004 820  NN2     emotes                   Z99 
+0000004 821  ,       ,                        
+0000004 830  VVG     picking                  M2[i8.2.1 A9+[i8.2.1 X3[i8.2.1 X2.3+[i8.2.1 A5.1+/A2.1[i8.2.1 A10+[i8.2.1 S3.2[i8.2.1 T2+[i8.2.1 I2.2[i8.2.1 M3fn[i8.2.1 G2.1[i8.2.1 X7+ A1.1.1 F4 
+0000004 840  RP      up                       M2[i8.2.2 A9+[i8.2.2 X3[i8.2.2 X2.3+[i8.2.2 A5.1+/A2.1[i8.2.2 A10+[i8.2.2 S3.2[i8.2.2 T2+[i8.2.2 I2.2[i8.2.2 M3fn[i8.2.2 G2.1[i8.2.2 
+0000004 850  NN2     items                    O2 Q4 X4.1 
+0000004 851  ,       ,                        
+0000004 860  CC      and                      Z5 
+0000004 870  VV0     dodge                    A1.9 M1 
+0000004 880  JJ      rolling                  N3.8- O4.4 T1.3 E4.1+ 
+0000004 881  .       .                        
+0000005 001  -----   -----                    
+0000006 010  NP1     Miyazaki                 Z99 
+0000006 020  RR      also                     N5++ 
+0000006 030  VVN     brought                  M2[i9.2.1 S4[i9.2.1 Q2.1[i9.2.1 A2.2[i9.2.1 B1[i9.2.1 M2 A2.2 
+0000006 040  RP      up                       M2[i9.2.2 S4[i9.2.2 Q2.1[i9.2.2 A2.2[i9.2.2 B1[i9.2.2 
+0000006 050  NN1     interest                 X5.2+ I1.1 S8+ S1.1.3+ 
+0000006 060  II      in                       Z5 
+0000006 070  AT1     a                        Z5 
+0000006 080  NN1     feature                  O4.1 Q4.2 Q4.3 W3 
+0000006 090  VVD     designed                 C1 X7+ 
+0000006 100  NN1     import                   I2.2/M2 A11.1+ Q1.1 
+0000006 110  NN2     players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000006 111  GE      '                        Z5 
+0000006 120  JJ      Dark                     W2- O4.3 E4.1- X2.2- O4.2- 
+0000006 130  NN2     Souls                    S9 E1 S2mf K2 
+0000006 140  MC      2                        N1 T1.2 T3 T1.3 N3.2 
+0000006 150  VV0     save                     I1.1 B3 A9+ S8+ A1.9 K5.1 S9 
+0000006 160  NN2     files                    O2/Q1.2 O2 Y2 S5+/N4 
+0000006 170  TO      to                       Z5 
+0000006 180  VVI     add                      N5+/A2.1 N2 A1.8+ 
+0000006 190  AT1     a                        Z5 
+0000006 200  NN1     plethora                 N5+ 
+0000006 210  IO      of                       Z5 
+0000006 220  NN2     items                    O2 Q4 X4.1 
+0000006 230  CST     that                     Z8 Z5 
+0000006 240  VBR     are                      A3+ Z5 
+0000006 250  XX      not                      Z6 
+0000006 260  JJ      present                  T1.1.2 A3+ 
+0000006 270  II      in                       Z5 
+0000006 280  JJ      Dark                     W2- O4.3 E4.1- X2.2- O4.2- 
+0000006 290  NN2     Souls                    S9 E1 S2mf K2 
+0000006 300  MC      3                        N1 T1.2 T3 T1.3 N3.2 
+0000006 301  .       .                        
+0000006 302  -----   -----                    
+0000006 310  DD      Some                     N5 Z5 
+0000006 320  IO      of                       Z5 
+0000006 330  AT      the                      Z5 
+0000006 340  JJ      listed                   Q1.2/N4 I2.1 G2.1/H1 
+0000006 350  NN2     items                    O2 Q4 X4.1 
+0000006 360  CST     that                     Z8 Z5 
+0000006 370  VM      might                    A7+ 
+0000006 380  VBI     be                       Z5 A3+ 
+0000006 390  VVN     added                    N5+/A2.1 N2 A1.8+ 
+0000006 400  II      by                       Z5 
+0000006 410  DD1     this                     M6 Z5 Z8 
+0000006 420  NN1     feature                  O4.1 Q4.2 Q4.3 W3 
+0000006 430  VV0     include                  A1.8+ 
+0000006 440  NN2     lifegems                 Z99 
+0000006 441  ,       ,                        
+0000006 450  NP1     Pharos                   Z2 
+0000006 460  NP2     Lockstones               Z99 
+0000006 461  ,       ,                        
+0000006 470  CC      and                      Z5 
+0000006 480  JJ      human                    S2 S1.2.1+ 
+0000006 490  NN2     effigies                 O2/E2- O2/A11.1+ 
+0000006 491  .       .                        
+0000006 492  -----   -----                    
+0000006 500  DD1     That                     Z5 Z8 
+0000006 510  MD      last                     N4 
+0000006 520  NN1     item                     O2 Q4 X4.1 
+0000006 530  VVZ     means                    Q1.1 X7+ 
+0000006 540  RR      only                     A14 
+0000006 550  MC1     one                      N1 T3 T1.2 
+0000006 560  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
+0000006 561  ;       ;                        
+0000006 570  JJ      Dark                     W2- O4.3 E4.1- X2.2- O4.2- 
+0000006 580  NN2     Souls                    S9 E1 S2mf K2 
+0000006 590  MC      2                        N1 T1.2 T3 T1.3 N3.2 
+0000006 600  NN1     style                    X4.2 O4.1 O4.2+ A4.1 Q3 
+0000006 610  NN1@    hollowing                Z99 
+0000006 620  VM      will                     T1.1.3 
+0000006 630  VBI     be                       Z5 A3+ 
+0000006 640  VVG     coming                   M1/N6+[i10.2.1 X2.2+[i10.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 A4.1[i11.2.1 M1[i11.2.1 B1[i11.2.1 N5[i11.2.1 X6+[i11.2.1 X2.1[i11.2.1 
+0000006 650  RP      back                     M1/N6+[i10.2.2 X2.2+[i10.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000006 660  II      to                       Z5 A4.1[i11.2.2 M1[i11.2.2 B1[i11.2.2 N5[i11.2.2 X6+[i11.2.2 X2.1[i11.2.2 
+0000006 670  JJ      Dark                     W2- O4.3 E4.1- X2.2- O4.2- 
+0000006 680  NN2     Souls                    S9 E1 S2mf K2 
+0000006 690  MC      3                        N1 T1.2 T3 T1.3 N3.2 
+0000006 691  !       !                        
+0000007 001  -----   -----                    
+0000010 010  TO      To                       Z5 
+0000010 020  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000010 030  AT      the                      Z5 
+0000010 040  NN1     switch                   O3 A2.1+ 
+0000010 050  II      to                       Z5 
+0000010 060  NP1     Nintendo                 Z3 
+0000010 070  PN1     something                Z8 
+0000010 080  RR      truly                    A5.2+ A5.4+ 
+0000010 090  JJ      special                  A4.2+ A6.2- 
+0000010 100  PPH1    it                       Z8 
+0000010 110  VBDZ    was                      Z5 A3+ 
+0000010 120  RR      also                     N5++ 
+0000010 130  VVN     stated                   Q2.1 
+0000010 140  CST     that                     Z5 Z8 
+0000010 150  EX      there                    Z5 
+0000010 160  VM      will                     T1.1.3 
+0000010 170  VBI     be                       A3+ Z5 
+0000010 180  AT1     an                       Z5 
+0000010 190  JJ      exclusive                O4.2+ A14 A1.8- 
+0000010 200  JJ      Nintendo-only            Z99 
+0000010 210  NP1     DLC                      Z99 
+0000010 220  CST     that                     Z8 Z5 
+0000010 230  VM      will                     T1.1.3 
+0000010 240  VVI     explain                  Q2.2/A7+ A2.2 
+0000010 241  ,       ,                        
+0000010 250  II      in                       A4.2++[i12.3.1 Z5 
+0000010 260  JJ      great                    A4.2++[i12.3.2 A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000010 270  NN1     detail                   A4.2++[i12.3.3 A4.2+ S5+c B5 
+0000010 271  ,       ,                        
+0000010 280  RRQ     how                      Z5 A13.3 
+0000010 290  NP1     Bloodborne               Z99 
+0000010 300  VVZ     fits                     A1.8+[i13.2.1 A6.1+[i13.2.1 N3.2/A5.1+ N3.2 A1.2+ M2 B2- 
+0000010 310  II      into                     A1.8+[i13.2.2 A6.1+[i13.2.2 Z5 
+0000010 320  AT      the                      Z5 
+0000010 330  JJ      Dark                     W2- O4.3 E4.1- X2.2- O4.2- 
+0000010 340  NN2     Souls                    S9 E1 S2mf K2 
+0000010 350  NN1     universe                 W1 A4.1 
+0000010 351  .       .                        
+0000010 352  -----   -----                    
+0000010 360  PPH1    It                       Z8 
+0000010 370  VBZ     is                       A3+ Z5 
+0000010 380  NP1     Miyazaki                 Z99 
+0000010 381  GE      's                       Z5 
+0000010 390  NN1     hope                     X2.6+ E4.1+ X9.2+ A5.1+ 
+0000010 400  CST     that                     Z5 Z8 
+0000010 410  DD1     this                     M6 Z5 Z8 
+0000010 420  NN1     addition                 N5++ N2 
+0000010 430  II      to                       Z5 
+0000010 440  AT      the                      Z5 
+0000010 450  NN      series                   N4c Q4.3c 
+0000010 451  ,       ,                        
+0000010 460  II31    as                       N5++[i14.2.1 Z5 
+0000010 470  II32    well                     N5++[i14.2.2 
+0000010 480  II33    as                       Z5 
+0000010 490  DB      all                      N5.1+ 
+0000010 500  IO      of                       Z5 
+0000010 510  AT      the                      Z5 
+0000010 520  JJ      Switch-exclusive         Z99 
+0000010 530  NN2     tweaks                   A1.1.1 
+0000010 540  II      to                       Z5 
+0000010 550  AT      the                      Z5 
+0000010 560  NN2     controls                 S7.1+ A1.7+ O2 
+0000010 570  CC      and                      Z5 
+0000010 580  NN1     world                    W1 S5+c A4.1 N5+ 
+0000010 590  VM      will                     T1.1.3 
+0000010 600  VVI     provide                  A9- S6+ 
+0000010 610  AT      the                      Z5 
+0000010 620  JJ      definitive               A4.1 
+0000010 630  JJ      Dark                     W2- O4.3 E4.1- X2.2- O4.2- 
+0000010 640  NN2     Souls                    S9 E1 S2mf K2 
+0000010 650  MC      3                        N1 T1.2 T3 T1.3 N3.2 
+0000010 660  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
+0000010 661  ,       ,                        
+0000010 670  VVG     giving                   A9- A1.1.1 
+0000010 680  AT      the                      Z5 
+0000010 690  NN      series                   N4c Q4.3c 
+0000010 700  AT      the                      Z5 
+0000010 710  JJ      perfect                  A5.1+++ A1.2+++ Q3 
+0000010 720  NN1     sendoff                  Z99 
+0000010 730  CST     that                     Z8 Z5 
+0000010 740  PPH1    it                       Z8 
+0000010 750  VVZ     deserves                 S1.1.4+ 
+0000010 751  .       .                        
+0000013 001  NULL    **8;7;text               
